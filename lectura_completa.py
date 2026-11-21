@@ -154,7 +154,7 @@ def credit(meta):
     return (f'<p class="rights-note">Texto de dominio público. Traducción de {escape(meta["translator"])} '
             f'({escape(meta["edition"])}). Transcripción de <a href="{escape(meta["source_url"])}">Wikisource</a>, '
             f'publicada bajo licencia <a href="{escape(meta["license_url"])}">{escape(meta["license"])}</a>. '
-            'División en capítulos, títulos y resúmenes: La Biblioteca Filosófica.</p>')
+            f'División en capítulos, títulos y resúmenes: La Biblioteca Filosófica.{art_credit(meta)}</p>')
 
 
 def build(meta, blocks):
@@ -262,10 +262,24 @@ def build(meta, blocks):
                            route, body, description[:300], schema=schema), meta))
     meta["_stats"] = {"chapters": len(rendered), "minutes": minutes(total_words)}
     write_print_edition(meta, rendered)
+    publish_art(meta)
     return routes
 
 
 PRINT = Path("build/impresion")
+
+
+def publish_art(meta):
+    art = meta.get("cover", {}).get("art")
+    if art:
+        target = OUTPUT / art["url"].lstrip("/")
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes((ART / art["file"]).read_bytes())
+
+
+def art_credit(meta):
+    art = meta.get("cover", {}).get("art")
+    return f' Portada: {escape(art["credit"])}' if art and art.get("credit") else ""
 
 
 def write_print_edition(meta, rendered):
@@ -281,13 +295,13 @@ def write_print_edition(meta, rendered):
     first_paragraph = re.search(r"<p>.*?</p>", meta["intro"], re.S)
     document = f"""<!doctype html><html lang="es"><head><meta charset="utf-8"><title>{escape(meta["title"])} · {escape(meta["author"])}</title>
 <meta name="author" content="{escape(meta["author"])}"><link rel="stylesheet" href="../../impresion.css"></head><body>
-<section class="cover" style="background:{COVER_COLORS.get(meta.get("cover", {}).get("color", "verde"), "#143a2c")}">{cover_svg(meta)}</section>
+<section class="cover" style="background:{COVER_COLORS.get(meta.get("cover", {}).get("color", "verde"), "#143a2c")}">{cover_svg(meta, inline=True)}</section>
 <section class="title-page"><p class="series">La Biblioteca Filosófica · Lectura completa</p><p class="author">{escape(meta["author"])}</p>
 <h1>{escape(meta["title"])}</h1><p class="translator">Traducción de {escape(meta["translator"])}</p></section>
 <section class="credits"><p>{escape(meta["title"])}, de {escape(meta["author"])}. Traducción de {escape(meta["translator"])} ({escape(meta["edition"])}).
 Texto de dominio público.</p><p>Transcripción de <a href="{escape(meta["source_url"])}">Wikisource</a>, publicada bajo licencia
 <a href="{escape(meta["license_url"])}">{escape(meta["license"])}</a>. Esta edición, con su división en capítulos, títulos y resúmenes,
-se publica bajo la misma licencia.</p><p>Edición de La Biblioteca Filosófica. Léela también online, con marcapáginas, en
+se publica bajo la misma licencia.{art_credit(meta)}</p><p>Edición de La Biblioteca Filosófica. Léela también online, con marcapáginas, en
 <a href="{site}">{site.replace("https://", "")}</a>.</p></section>
 <section class="about"><h2>Sobre esta obra</h2>{first_paragraph[0] if first_paragraph else ""}
 <p>Se respeta la ortografía de la edición original, por eso verás «á» como preposición o «ménos» con tilde.</p>

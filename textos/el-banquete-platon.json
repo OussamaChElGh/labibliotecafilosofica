@@ -104,6 +104,15 @@
   ],
   "cover": {
     "color": "verde",
-    "number": 1
+    "number": 1,
+    "art": {
+      "file": "banquete.jpg",
+      "focus": [
+        0.55,
+        0.45
+      ],
+      "url": "/leer/el-banquete-platon/ilustracion.jpg",
+      "credit": "Anselm Feuerbach, «El banquete de Platón» (1873), Staatliche Kunsthalle Karlsruhe. Dominio público, vía Wikimedia Commons."
+    }
   }
 }

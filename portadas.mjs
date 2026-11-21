@@ -57,8 +57,10 @@ for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()
   const dir = join('public/leer', meta.slug)
   const index = join(dir, 'index.html')
   if (!existsSync(index)) { console.warn(`Falta ${index}: ejecuta antes python lectura_completa.py`); continue }
-  const svg = readFileSync(index, 'utf8').match(/<svg class="book-cover-art"[\s\S]*?<\/svg>/)?.[0]
+  let svg = readFileSync(index, 'utf8').match(/<svg class="book-cover-art"[\s\S]*?<\/svg>/)?.[0]
   if (!svg) { console.warn(`Sin portada en ${index}`); continue }
+  // La pintura se enlaza por URL en la web; aquí se incrusta para que la captura la vea.
+  svg = svg.replace(/href="(\/leer\/[^"]+\.jpg)"/g, (_, url) => `href="data:image/jpeg;base64,${readFileSync(join('public', url)).toString('base64')}"`)
   const shots = [
     [coverPage(svg), 600, 900, 5 / 3, 'portada.png'],
     [socialPage(svg, meta), 1200, 630, 1, 'social.png'],

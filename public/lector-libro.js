@@ -3,6 +3,7 @@
 (() => {
   const STORE = 'biblioteca.lectura.v1'
   const MODE = 'biblioteca.lectura.modo'
+  const SAVED = 'biblioteca.saved-books.v1'
   const ROUTE = /^\/leer\/[\w-]+\/([\w-]+\/)?$/
   const root = document.documentElement
 
@@ -87,6 +88,13 @@
     all[data.book] = { route, bookRoute: data.bookRoute, bookTitle: data.bookTitle, chapterTitle: data.chapterTitle,
       chapter: Number(data.chapter), chapters: Number(data.chapters), position: ratio(), progress: bookProgress(), updated: Date.now() }
     writeAll(all)
+    // Leer un libro lo añade a «Mi biblioteca»: la ficha y la lectura son la misma entrada.
+    try {
+      const saved = JSON.parse(localStorage.getItem(SAVED) || '[]')
+      if (Array.isArray(saved) && /^\/[\w%\-/.]+\/$/.test(data.bookRoute || '') && !saved.includes(data.bookRoute)) {
+        localStorage.setItem(SAVED, JSON.stringify([...saved, data.bookRoute]))
+      }
+    } catch {}
   }
 
   const render = (animate, direction) => {

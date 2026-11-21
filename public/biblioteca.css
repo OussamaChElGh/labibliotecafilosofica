@@ -197,3 +197,9 @@ footer { border-top: 1px solid var(--line); margin-top: 2rem; background: #ede8d
 
 .reading-icon { display: inline-grid; place-items: center; width: 2.2rem; height: 2.2rem; background: #efe1d3; border-radius: .45rem; color: #85401f; font: 800 1.3rem/1 system-ui,sans-serif; }
 .typographic-block { color: #3f342c; }
+/* Progreso de lectura dentro de cada libro guardado */
+[data-saved-route] .saved-progress{display:grid;gap:6px;margin:12px 0 4px;font-size:14px}
+[data-saved-route] .saved-progress .continue-bar{height:4px;background:var(--reader-line,#0002);border-radius:4px;overflow:hidden}
+[data-saved-route] .saved-progress .continue-bar span{display:block;height:100%;background:#b8a58a}
+[data-saved-route] .saved-progress a{font-weight:600}
+[data-saved-route] .saved-progress p{margin:0;opacity:.7;font-size:13px}

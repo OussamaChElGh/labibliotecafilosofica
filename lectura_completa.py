@@ -184,7 +184,7 @@ def build(meta, blocks):
                 f'<h1>{escape(chapter["title"])}</h1>'
                 f'<div class="reading-meta"><span>{minutes(words)} min de lectura</span><a href="#texto-obra">Empezar a leer ↓</a></div></header>'
                 f'<div class="entry" id="texto-obra">'
-                f'<div class="book" data-book="{escape(slug)}" data-book-title="{escape(meta["title"])}" data-book-route="{base_route}" '
+                f'<div class="book" data-book="{escape(slug)}" data-book-title="{escape(meta["title"])}" data-book-route="{escape(meta["book_route"])}" '
                 f'data-chapter="{number}" data-chapters="{len(rendered)}" data-chapter-title="{escape(chapter["title"])}" '
                 f'data-progress-start="{progress_start:.4f}" data-progress-span="{progress_span:.4f}" '
                 f'data-prev="{base_route + previous["slug"] + "/" if previous else ""}" data-next="{base_route + following["slug"] + "/" if following else ""}">'

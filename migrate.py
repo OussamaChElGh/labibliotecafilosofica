@@ -777,10 +777,18 @@ def main():
                                if usable else '<a class="button" href="#texto-obra">Leer sobre la obra ↓</a>')
                     if purchase:
                         actions += f'<a class="button secondary" href="{escape(purchase[0])}" rel="sponsored nofollow">Ver edición física ↗</a>'
+                    access = "ficha editorial y fuente enlazada"
                     if override.get("read_online"):
-                        actions = f'<a class="button" href="{escape(override["read_online"])}">Leer online completo ↗</a>' + actions
+                        # Obra de dominio público con lectura completa en /leer/: una sola entrada,
+                        # leer online como acción principal y la descarga como secundaria.
+                        access = "dominio público · lectura online completa"
+                        actions = f'<a class="button" href="{escape(override["read_online"])}" data-read-online>Leer online completo ↗</a>'
+                        if usable:
+                            actions += f'<a class="button secondary" href="{escape(usable[0])}" rel="nofollow noopener">Descargar PDF ↗</a>'
+                        if purchase:
+                            actions += f'<a class="button secondary" href="{escape(purchase[0])}" rel="sponsored nofollow">Ver edición física ↗</a>'
                     header = (f'<div class="book-detail">{feature(post)}<div><p class="eyebrow">Ficha de libro</p>'
-                              f'<h1>{escape(title)}</h1><p class="access-badge"><span aria-hidden="true">●</span> Estado de acceso: ficha editorial y fuente enlazada</p><div class="actions">{actions}</div>'
+                              f'<h1>{escape(title)}</h1><p class="access-badge"><span aria-hidden="true">●</span> Estado de acceso: {access}</p><div class="actions">{actions}</div>'
                               f'<div class="save-controls"><button class="button save-book" type="button" data-save-route="{escape(route)}" aria-pressed="false" hidden>Guardar libro</button>'
                               '<a class="text-link" href="#texto-obra">Leer el análisis ↓</a></div>'
                               '<p class="save-message" role="status" aria-live="polite"></p>'

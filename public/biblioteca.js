@@ -174,6 +174,41 @@ if (document.querySelector('.entry')) {
     return [...new Set(parsed.filter(value=>typeof value==='string' && /^\/[\w%\-/.]+\/$/.test(value)))];
   };
   const write=values=>localStorage.setItem(key,JSON.stringify(values));
+  // Progreso de lectura online (lo guarda lector-libro.js), indexado por la ruta de la ficha.
+  const marksKey='biblioteca.lectura.v1';
+  const readMarks=()=>{
+    try{
+      const data=JSON.parse(localStorage.getItem(marksKey)||'{}');const byRoute={};
+      for(const [slug,mark] of Object.entries(data&&typeof data==='object'?data:{})){
+        if(mark&&typeof mark.bookRoute==='string'&&/^\/leer\/[\w-]+\/([\w-]+\/)?$/.test(mark.route||''))byRoute[mark.bookRoute]={...mark,slug};
+      }
+      return byRoute;
+    }catch{return {};}
+  };
+  const forgetMark=route=>{
+    try{
+      const data=JSON.parse(localStorage.getItem(marksKey)||'{}');
+      for(const [slug,mark] of Object.entries(data))if(mark&&mark.bookRoute===route)delete data[slug];
+      localStorage.setItem(marksKey,JSON.stringify(data));
+    }catch{}
+  };
+  const pct=mark=>Math.max(0,Math.min(100,Math.round((Number(mark.progress)||0)*100)));
+  const showProgress=(row,mark)=>{
+    let box=row.querySelector('.saved-progress');
+    if(!mark){box?.remove();row.classList.remove('is-reading');return;}
+    if(!box){box=document.createElement('div');box.className='saved-progress';row.querySelector('a')?.after(box);}
+    box.replaceChildren();
+    const bar=document.createElement('div');bar.className='continue-bar';
+    const fill=document.createElement('span');fill.style.width=pct(mark)+'%';bar.append(fill);
+    const link=Object.assign(document.createElement('a'),{href:mark.route,textContent:`Seguir leyendo · ${pct(mark)} % ↗`});
+    const detail=Object.assign(document.createElement('p'),{textContent:String(mark.chapterTitle||'')});
+    box.append(bar,link,detail);row.classList.add('is-reading');
+  };
+  const readOnline=document.querySelector('[data-read-online]');
+  if(readOnline&&saveButton){
+    const mark=readMarks()[saveButton.dataset.saveRoute];
+    if(mark){readOnline.href=mark.route;readOnline.textContent=`Seguir leyendo · ${pct(mark)} % ↗`;}
+  }
   const message=document.querySelector('.save-message');
   const status=library?.querySelector('[data-library-status]');
   const rows=library ? [...library.querySelectorAll('[data-saved-route]')] : [];
@@ -185,7 +220,12 @@ if (document.querySelector('.entry')) {
     try {
       const saved=read();
       if(saveButton){const active=saved.includes(saveButton.dataset.saveRoute);saveButton.setAttribute('aria-pressed',String(active));saveButton.textContent=active?'Guardado · Quitar':'Guardar libro';}
-      if(library){let count=0;for(const row of rows){row.hidden=!saved.includes(row.dataset.savedRoute);if(!row.hidden)count++;}status.textContent=count===1?'1 libro guardado':`${count} libros guardados`;library.querySelector('[data-library-empty]').hidden=count>0;}
+      if(library){
+        let count=0;const marks=readMarks();
+        for(const row of rows){row.hidden=!saved.includes(row.dataset.savedRoute);if(!row.hidden)count++;showProgress(row,row.hidden?null:marks[row.dataset.savedRoute]);}
+        // Lo que estás leyendo, primero y por orden de última lectura.
+        const list=rows[0]?.parentElement;
+        if(list)[...rows].sort((a,b)=>(marks[b.dataset.savedRoute]?.updated||0)-(marks[a.dataset.savedRoute]?.updated||0)).forEach(row=>list.append(row));status.textContent=count===1?'1 libro guardado':`${count} libros guardados`;library.querySelector('[data-library-empty]').hidden=count>0;}
     } catch {announceError();}
   };
   if(saveButton){
@@ -205,11 +245,11 @@ if (document.querySelector('.entry')) {
     try{
       const visibleButtons=rows.filter(row=>!row.hidden).map(row=>row.querySelector('[data-remove-route]'));
       const index=visibleButtons.indexOf(button);
-      write(read().filter(value=>value!==button.dataset.removeRoute));refresh();
+      write(read().filter(value=>value!==button.dataset.removeRoute));forgetMark(button.dataset.removeRoute);refresh();
       const next=visibleButtons[index+1]||visibleButtons[index-1]||library.querySelector('.library-empty a');next?.focus();
     }catch{announceError();}
   });
-  addEventListener('storage',event=>{if(event.key===key || event.key===null)refresh();});
+  addEventListener('storage',event=>{if(event.key===key || event.key===marksKey || event.key===null)refresh();});
   refresh();
 })();
 
@@ -254,9 +294,9 @@ if(document.querySelector('.reader-v2')){
 // Seguir leyendo: muestra en la portada y en Mi biblioteca el punto donde se dejó cada lectura online.
 // Los datos los guarda lector-libro.js en este navegador. Nunca se insertan como HTML.
 (() => {
-  const library = document.querySelector('[data-personal-library]')
+  // En «Mi biblioteca» el progreso va dentro de cada libro guardado; aquí solo la portada.
   const home = location.pathname === '/' ? document.querySelector('main > section') : null
-  if (!library && !home) return
+  if (!home) return
   let marks = []
   try {
     const data = JSON.parse(localStorage.getItem('biblioteca.lectura.v1') || '{}')
@@ -279,8 +319,5 @@ if(document.querySelector('.reader-v2')){
   }
   const button = Object.assign(document.createElement('a'), { className: 'button', href: marks[0].route, textContent: 'Continuar donde lo dejaste ↗' })
   section.append(text, button)
-  const anchor = library && library.querySelector('[data-dashboard-route]')
-  if (anchor) anchor.before(section)
-  else if (library) library.prepend(section)
-  else home.after(section)
+  home.after(section)
 })()

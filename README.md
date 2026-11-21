@@ -42,4 +42,8 @@ Si `textos/<slug>.json` tiene la clave `guide`, `lectura_completa.py` genera `/l
 
 `textos/frases/paginas.json` define las páginas `/frases/<slug>/` (por personaje con `by` o por autor de la obra con `author`). `lectura_completa.py` las genera con las citas comprobadas de las guías (`guide.quotes`, cada una con `by`, quién la dice) y escribe `build/frases.json`. Después, `node frases.mjs` crea una imagen 1080×1080 por frase en `public/frases/img/` para compartir en redes y borra las que ya no se usan.
 
+## Menú e índices
+
+El menú principal se define en `navigation()` de `migrate.py` y `pulir.py` lo aplica a todas las páginas ya generadas, así que para cambiarlo basta con editar esa función y volver a ejecutar `pulir.py`. El menú enlaza solo a índices, nunca a libros sueltos: Leer gratis (`/leer/`, `/resumenes/`, `/frases/`), Libros PDF, Autores, Historia y Artículos. `lectura_completa.py` regenera esos tres índices con todas las obras que tengan lectura, guía o página de frases, de modo que crecen solos al añadir libros. `pulir.py` también enlaza la lectura online, el resumen y las frases desde la ficha de cada libro, desde la página de su autor y desde los artículos que indica `link_from` en `textos/frases/paginas.json`.
+
 Orden completo: `python lectura_completa.py && python pulir.py && node portadas.mjs && node frases.mjs`.

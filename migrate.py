@@ -86,15 +86,32 @@ FEATURES = (
 
 
 def navigation():
+    """Menú principal. Enlaza a índices que crecen solos, nunca a libros sueltos."""
     groups = (
-        ('Libros', '/libros-pdf-gratis/', [('Por autor', '/libros-pdf-gratis/autores/'), ('Por género', '/libros-pdf-gratis/generos-literarios/'), ('Filosofía', '/libros-pdf-gratis/filosofia-pdf/'), ('Por idioma', '/libros-pdf-gratis/idiomas/')]),
-        ('Historia', '/historia/', [('Antigüedad', '/historia-filosofia-en-la-antiguedad/'), ('Edad Media', '/la-filosofia-medieval/'), ('Modernidad', '/historia-filosofia-renacimiento-y-filosofia-moderna/')]),
-        ('Autores', '/libros-pdf-gratis/autores/', [('Platón', '/libros-pdf-gratis/autores/platon/'), ('Albert Camus', '/libros-pdf-gratis/autores/albert-camus/')]),
-        ('Artículos', '/articulos/', [('Literatura', '/articulos/literatura/'), ('Psicología', '/articulos/psicologia/'), ('Arte', '/articulos/arte-articulos/')]),
-        ('Rutas', '/rutas/introduccion-a-la-filosofia/', [('Introducción a la filosofía', '/rutas/introduccion-a-la-filosofia/'), ('Mi biblioteca', '/mi-biblioteca/')]),
-        ('Colecciones', '/colecciones/', [('Filosofía', '/libros-pdf-gratis/'), ('Historia de las ideas', '/historia/'), ('Autores', '/libros-pdf-gratis/autores/')]),
+        ('Leer gratis', 'Lectura online y guías', ('Obras completas online', '/leer/'), [
+            ('Resúmenes y guías de lectura', '/resumenes/'),
+            ('Frases célebres', '/frases/'), ('Introducción a la filosofía', '/rutas/introduccion-a-la-filosofia/')]),
+        ('Libros PDF', 'Descarga gratis', ('Todos los libros PDF', '/libros-pdf-gratis/'), [
+            ('Filosofía', '/libros-pdf-gratis/filosofia-pdf/'), ('Por autor', '/libros-pdf-gratis/autores/'),
+            ('Por género', '/libros-pdf-gratis/generos-literarios/'), ('Por idioma', '/libros-pdf-gratis/idiomas/')]),
+        ('Autores', 'Sus obras, resúmenes y frases', ('Todos los autores', '/libros-pdf-gratis/autores/'), [
+            ('Platón', '/libros-pdf-gratis/autores/platon/'), ('Aristóteles', '/libros-pdf-gratis/autores/aristoteles/'),
+            ('Tomás de Aquino', '/libros-pdf-gratis/autores/tomas-de-aquino/'), ('Voltaire', '/libros-pdf-gratis/autores/voltaire/'),
+            ('Nietzsche', '/libros-pdf-gratis/autores/nietzsche/'), ('Albert Camus', '/libros-pdf-gratis/autores/albert-camus/'),
+            ('Hannah Arendt', '/libros-pdf-gratis/autores/hannah-arendt/'), ('Michel Foucault', '/libros-pdf-gratis/autores/michael-foucault/')]),
+        ('Historia', 'Historia de la filosofía', ('Toda la historia', '/historia/'), [
+            ('Antigüedad', '/historia-filosofia-en-la-antiguedad/'), ('Edad Media', '/la-filosofia-medieval/'),
+            ('Renacimiento y Modernidad', '/historia-filosofia-renacimiento-y-filosofia-moderna/'),
+            ('Ilustración y filosofía contemporánea', '/historia-filosofia-contemporanea-ilustracion/'),
+            ('Siglo XX', '/historia-filosofia-del-siglo-xx/')]),
+        ('Artículos', 'Ensayos y lecturas', ('Todos los artículos', '/articulos/'), [
+            ('Literatura', '/articulos/literatura/'), ('Psicología', '/articulos/psicologia/'), ('Arte', '/articulos/arte-articulos/')]),
     )
-    return ''.join('<details class="nav-disclosure"><summary>' + title + ' <span aria-hidden="true">⌄</span></summary><div class="nav-panel"><p class="eyebrow">Explora la biblioteca</p><a class="nav-overview" href="' + route + '">Todo en ' + title.lower() + ' ↗</a>' + ''.join('<a href="' + path + '">' + label + ' <span aria-hidden="true">↗</span></a>' for label, path in links) + '</div></details>' for title, route, links in groups)
+    return ''.join(
+        '<details class="nav-disclosure"><summary>' + title + ' <span aria-hidden="true">⌄</span></summary><div class="nav-panel">'
+        '<p class="eyebrow">' + eyebrow + '</p><a class="nav-overview" href="' + overview[1] + '">' + overview[0] + ' ↗</a>'
+        + ''.join('<a href="' + path + '">' + label + ' <span aria-hidden="true">↗</span></a>' for label, path in links)
+        + '</div></details>' for title, eyebrow, overview, links in groups)
 
 
 def home_intro():

@@ -296,7 +296,7 @@ def write_guide(meta, rendered, total_words, blocks):
     slug, base_route, route = meta["slug"], f'/leer/{meta["slug"]}/', guide_route(meta)
     title, author = meta["title"], meta["author"]
     query = quote_plus(f"{title} {author}")
-    crumbs = [("Inicio", "/"), ("Libros PDF Gratis", "/libros-pdf-gratis/"), (title, meta["book_route"]), ("Resumen", route)]
+    crumbs = [("Inicio", "/"), ("Resúmenes", "/resumenes/"), (title, meta["book_route"]), ("Resumen", route)]
     sections = [("de-que-trata", f"De qué trata {title}"), ("resumen", "Resumen por capítulos"),
                 ("personajes", "Personajes"), ("ideas", "Ideas principales"), ("frases", "Frases destacadas"),
                 ("preguntas", "Preguntas frecuentes")]
@@ -366,6 +366,9 @@ def write_guide(meta, rendered, total_words, blocks):
 QUOTES = Path("build/frases.json")
 
 
+QUOTE_PAGES = []
+
+
 def quote_id(meta, quote):
     return f'{meta["slug"]}-{hashlib.md5(quote["text"].encode("utf-8")).hexdigest()[:8]}'
 
@@ -406,7 +409,7 @@ def write_quote_pages(metas):
                              f'<a href="{image}" download>Descargar imagen ↓</a></p></div>')
             sections += (f'<p class="guide-link">Más sobre esta obra: <a href="{base_route}resumen/">resumen de {escape(meta["title"])}</a> · '
                          f'<a href="{base_route}">leer {escape(meta["title"])} completo gratis</a>.</p>')
-        crumbs = [("Inicio", "/"), ("Frases", route), (page["title"], route)][::2]
+        crumbs = [("Inicio", "/"), ("Frases", "/frases/"), (page["title"], route)]
         related = " · ".join(f'<a href="{href}">{escape(label)}</a>' for href, label in page.get("related", []))
         faq = "".join(f'<h3>{escape(item["q"])}</h3><p>{escape(item["a"])}</p>' for item in page.get("faq", []))
         body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article guide quotes-page" id="lectura">{breadcrumbs(crumbs)}'
@@ -432,8 +435,62 @@ def write_quote_pages(metas):
                   '<link rel="stylesheet" href="/lector-libro.css"></head>')
         write(route, document.replace("</head>", social, 1))
         routes.append(route)
+        QUOTE_PAGES.append({"slug": page["slug"], "title": page["title"], "description": page["description"],
+                            "count": total, "image": first_image})
     QUOTES.parent.mkdir(exist_ok=True)
     QUOTES.write_text(json.dumps(list(cards.values()), ensure_ascii=False, indent=1), encoding="utf-8")
+    return routes
+
+
+def hub_page(route, crumb, eyebrow, title, seo_title, description, intro, items, extra=""):
+    """Índice de una sección del menú (/leer/, /resumenes/, /frases/): crece solo al añadir obras."""
+    crumbs = [("Inicio", "/"), (crumb, route)]
+    cards = "".join(
+        f'<li><a href="{href}">' + (f'<img src="{image}" alt="" width="{w}" height="{h}" loading="lazy">' if image else "")
+        + f'<span><span class="hub-kicker">{escape(kicker)}</span><strong>{escape(name)}</strong><span class="hub-text">{escape(text)}</span>'
+          f'<span class="hub-cta">{cta} ↗</span></span></a></li>'
+        for href, image, w, h, kicker, name, text, cta in items)
+    body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article guide hub-page" id="lectura">{breadcrumbs(crumbs)}'
+            f'<header class="folio-article-head"><p class="eyebrow">{eyebrow}</p><h1>{escape(title)}</h1></header>'
+            f'<div class="entry" id="texto-obra">{intro}<ul class="hub-list">{cards}</ul>{extra}</div></article>')
+    schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
+        "@type": "CollectionPage", "name": title, "url": BASE + route, "inLanguage": "es", "description": description,
+        "mainEntity": {"@type": "ItemList", "numberOfItems": len(items), "itemListElement": [
+            {"@type": "ListItem", "position": i + 1, "url": BASE + item[0], "name": item[5]} for i, item in enumerate(items)]}}]}
+    document = shell(seo_title + " · La Biblioteca Filosófica", route, body, description, schema=schema)
+    write(route, document.replace("</head>", '<link rel="stylesheet" href="/lector-libro.css"></head>', 1))
+    return route
+
+
+def write_hubs(metas):
+    reading = [(f'/leer/{m["slug"]}/', f'/leer/{m["slug"]}/portada-ficha.jpg', 400, 600, m["author"], m["title"],
+                f'{m["_stats"]["chapters"]} capítulos · {duration(m["_stats"]["minutes"])} de lectura', "Leer gratis") for m in metas]
+    guides = [(f'/leer/{m["slug"]}/resumen/', f'/leer/{m["slug"]}/portada-ficha.jpg', 400, 600, m["author"], m["title"],
+               m["guide"]["short"], "Ver resumen y personajes") for m in metas if m.get("guide")]
+    routes = [
+        hub_page("/leer/", "Leer gratis", f"Lectura completa · {len(reading)} obras", "Libros de filosofía para leer online gratis",
+                 "Leer libros de filosofía online gratis y completos",
+                 "Obras completas de filosofía para leer online gratis y sin registro: textos de dominio público en traducciones clásicas, divididos en capítulos, con notas y marcapáginas.",
+                 "<p>Obras completas de dominio público para leer aquí mismo, sin descargar nada ni registrarte. Cada libro está dividido en capítulos, "
+                 "conserva las notas del traductor y recuerda en tu navegador dónde lo dejaste. También puedes descargar cada obra en PDF.</p>",
+                 reading, '<p class="guide-link">¿Prefieres empezar por lo esencial? <a href="/resumenes/">Resúmenes y guías de lectura</a> · '
+                          '<a href="/frases/">Frases célebres con su fuente</a>.</p>'),
+    ]
+    if guides:
+        routes.append(hub_page("/resumenes/", "Resúmenes", f"Guías de lectura · {len(guides)} obras", "Resúmenes de libros de filosofía",
+                               "Resúmenes de libros de filosofía por capítulos",
+                               "Resúmenes de obras de filosofía por capítulos, con sus personajes, las ideas principales y citas comprobadas en el texto original. Gratis y con enlace a la obra completa.",
+                               "<p>Guías para entender cada obra antes, durante o después de leerla: de qué trata, un resumen capítulo a capítulo, "
+                               "sus personajes, las ideas principales y citas comprobadas en el texto. Desde cada capítulo puedes saltar a la lectura completa.</p>",
+                               guides, '<p class="guide-link">Sigue con: <a href="/leer/">todas las obras para leer online</a> · <a href="/frases/">frases célebres</a>.</p>'))
+    if QUOTE_PAGES:
+        items = [(f'/frases/{p["slug"]}/', p["image"], 1080, 1080, f'{p["count"]} frases', p["title"], p["description"], "Ver las frases") for p in QUOTE_PAGES]
+        routes.append(hub_page("/frases/", "Frases", "Citas comprobadas · con su fuente", "Frases célebres de filósofos",
+                               "Frases célebres de filósofos con su fuente",
+                               "Frases célebres de filósofos citadas de sus obras, con el libro y el capítulo de cada cita y una imagen para compartir.",
+                               "<p>Cada frase está copiada de la obra original, con el libro y el capítulo donde aparece, para que puedas leerla en su contexto. "
+                               "Todas tienen una imagen lista para compartir.</p>",
+                               items, '<p class="guide-link">Sigue con: <a href="/resumenes/">resúmenes de las obras</a> · <a href="/leer/">leer las obras completas gratis</a>.</p>'))
     return routes
 
 
@@ -504,7 +561,8 @@ def update_home(metas):
         f'<span class="online-shelf-cta">Leer ahora ↗</span></a></li>' for m in metas)
     section = ('<!--lectura-completa--><section class="online-shelf" id="leer-online"><div class="online-shelf-intro">'
                '<p class="eyebrow">Lectura completa · gratis y sin registro</p><h2>Lee las obras completas aquí, página a página.</h2>'
-               '<p>Textos de dominio público en traducciones clásicas, con modo libro, notas y un marcapáginas que recuerda dónde lo dejaste.</p></div>'
+               '<p>Textos de dominio público en traducciones clásicas, con modo libro, notas y un marcapáginas que recuerda dónde lo dejaste.</p>'
+               '<p class="online-shelf-links"><a href="/leer/">Todas las obras ↗</a><a href="/resumenes/">Resúmenes y guías ↗</a><a href="/frases/">Frases célebres ↗</a></p></div>'
                f'<ul class="online-shelf-list">{cards}</ul></section><!--/lectura-completa-->')
     if "<!--lectura-completa-->" in document:
         document = re.sub(r"<!--lectura-completa-->.*?<!--/lectura-completa-->", lambda _: section, document, flags=re.S)
@@ -532,7 +590,9 @@ def main():
         blocks = (TEXTS / f'{meta["slug"]}.txt').read_text(encoding="utf-8").split("\n")
         routes += build(meta, blocks)
         metas.append(meta)
-    routes += write_quote_pages(sorted(metas, key=lambda m: m.get("cover", {}).get("number", 99)))
+    ordered = sorted(metas, key=lambda m: m.get("cover", {}).get("number", 99))
+    routes += write_quote_pages(ordered)
+    routes += write_hubs(ordered)
     update_sitemap(routes)
     update_home(sorted(metas, key=lambda m: m.get("cover", {}).get("number", 99)))
     print(f"{len(routes)} páginas de lectura generadas")

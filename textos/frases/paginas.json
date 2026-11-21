@@ -1,31 +1,96 @@
 [
-  {
-    "slug": "socrates",
-    "name": "Sócrates",
-    "by": "Sócrates",
-    "title": "Frases de Sócrates",
-    "seo_title": "Frases de Sócrates: citas célebres con su origen en Platón",
-    "description": "Las frases más célebres de Sócrates, citadas de los diálogos de Platón con su obra y capítulo de origen: el saber que no sabe, la vida examinada, la muerte y la virtud. Con imágenes para compartir.",
-    "intro": "<p>Sócrates no escribió nada. Todo lo que sabemos de sus palabras procede de sus discípulos, sobre todo de Platón, que lo convirtió en protagonista de sus diálogos. Por eso aquí cada frase lleva su origen exacto: la obra, el capítulo y un enlace para leerla en su contexto, en la traducción de Patricio de Azcárate (1871).</p><p>Muchas frases que circulan en internet atribuidas a Sócrates no aparecen en ningún texto antiguo. Estas sí: están comprobadas palabra por palabra.</p>",
-    "related": [["/historia-filosofia-socrates-el-metodo-socratico/", "Sócrates y el método socrático"], ["/frases/platon/", "Frases de Platón"]],
-    "faq": [
-      {"q": "¿Cuál es la frase más famosa de Sócrates?", "a": "«Solo sé que no sé nada». Sin embargo, no aparece así en ningún texto: es un resumen popular de un pasaje de la Apología, en el que Sócrates dice que otro cree saber aunque no sabe nada, mientras que él, no sabiendo nada, cree no saber."},
-      {"q": "¿Dijo Sócrates «una vida sin examen no vale la pena ser vivida»?", "a": "Sí, con esa idea. En la Apología, cuando debe proponer su pena, explica que no puede dejar de filosofar porque «una vida sin exámen no es vida», según la traducción de Azcárate. Otras traducciones dicen «una vida sin examen no merece ser vivida»."},
-      {"q": "¿Dónde están las frases de Sócrates si él no escribió nada?", "a": "En los diálogos de Platón, como la Apología, el Critón, el Fedón o El banquete, y en las obras de Jenofonte. Son reconstrucciones de sus conversaciones, por eso conviene citarlas con la obra de la que proceden."}
-    ]
-  },
-  {
-    "slug": "platon",
-    "name": "Platón",
-    "author": "Platón",
-    "title": "Frases de Platón",
-    "seo_title": "Frases de Platón: citas célebres de sus diálogos con su origen",
-    "description": "Frases célebres de los diálogos de Platón, como El banquete y la Apología de Sócrates, con el personaje que las dice, la obra y el capítulo de origen. Con imágenes para compartir.",
-    "intro": "<p>Platón escribió en forma de diálogo, así que sus frases más famosas las pronuncian sus personajes: Sócrates, Diotima, Aristófanes o Alcibíades. Aquí cada cita indica quién la dice y en qué obra y capítulo aparece, con un enlace para leerla en su contexto, en la traducción de Patricio de Azcárate (1871).</p><p>Todas están comprobadas palabra por palabra en los textos de nuestra colección de lectura completa.</p>",
-    "related": [["/libros-pdf-gratis/autores/platon/", "Libros de Platón"], ["/por-donde-empezar-a-leer-a-platon/", "Por dónde empezar a leer a Platón"], ["/frases/socrates/", "Frases de Sócrates"]],
-    "faq": [
-      {"q": "¿Cuál es la frase más famosa de Platón?", "a": "Muchas de las frases más citadas de Platón las pronuncia Sócrates en sus diálogos, como «una vida sin examen no es vida», de la Apología. De El banquete procede la idea de la «media naranja», en el mito de Aristófanes sobre las mitades que se buscan."},
-      {"q": "¿Por qué se atribuyen a Platón frases que dice Sócrates?", "a": "Porque Platón es el autor de los diálogos y Sócrates su personaje principal. Es difícil separar qué pensaba el Sócrates histórico y qué pone Platón en su boca, por eso aquí indicamos siempre quién habla en el texto."}
-    ]
-  }
+ {
+  "slug": "socrates",
+  "name": "Sócrates",
+  "by": "Sócrates",
+  "title": "Frases de Sócrates",
+  "seo_title": "Frases de Sócrates: citas célebres con su origen en Platón",
+  "description": "Las frases más célebres de Sócrates, citadas de los diálogos de Platón con su obra y capítulo de origen: el saber que no sabe, la vida examinada, la muerte y la virtud. Con imágenes para compartir.",
+  "intro": "<p>Sócrates no escribió nada. Todo lo que sabemos de sus palabras procede de sus discípulos, sobre todo de Platón, que lo convirtió en protagonista de sus diálogos. Por eso aquí cada frase lleva su origen exacto: la obra, el capítulo y un enlace para leerla en su contexto, en la traducción de Patricio de Azcárate (1871).</p><p>Muchas frases que circulan en internet atribuidas a Sócrates no aparecen en ningún texto antiguo. Estas sí: están comprobadas palabra por palabra.</p>",
+  "related": [
+   [
+    "/historia-filosofia-socrates-el-metodo-socratico/",
+    "Sócrates y el método socrático"
+   ],
+   [
+    "/frases/platon/",
+    "Frases de Platón"
+   ]
+  ],
+  "faq": [
+   {
+    "q": "¿Cuál es la frase más famosa de Sócrates?",
+    "a": "«Solo sé que no sé nada». Sin embargo, no aparece así en ningún texto: es un resumen popular de un pasaje de la Apología, en el que Sócrates dice que otro cree saber aunque no sabe nada, mientras que él, no sabiendo nada, cree no saber."
+   },
+   {
+    "q": "¿Dijo Sócrates «una vida sin examen no vale la pena ser vivida»?",
+    "a": "Sí, con esa idea. En la Apología, cuando debe proponer su pena, explica que no puede dejar de filosofar porque «una vida sin exámen no es vida», según la traducción de Azcárate. Otras traducciones dicen «una vida sin examen no merece ser vivida»."
+   },
+   {
+    "q": "¿Dónde están las frases de Sócrates si él no escribió nada?",
+    "a": "En los diálogos de Platón, como la Apología, el Critón, el Fedón o El banquete, y en las obras de Jenofonte. Son reconstrucciones de sus conversaciones, por eso conviene citarlas con la obra de la que proceden."
+   }
+  ],
+  "link_from": [
+   "/historia-filosofia-socrates-el-metodo-socratico/"
+  ],
+  "link_from_extra": [
+   [
+    "/leer/apologia-de-socrates-platon/",
+    "la Apología de Sócrates completa online"
+   ],
+   [
+    "/leer/apologia-de-socrates-platon/resumen/",
+    "resumen de la Apología"
+   ]
+  ]
+ },
+ {
+  "slug": "platon",
+  "name": "Platón",
+  "author": "Platón",
+  "title": "Frases de Platón",
+  "seo_title": "Frases de Platón: citas célebres de sus diálogos con su origen",
+  "description": "Frases célebres de los diálogos de Platón, como El banquete y la Apología de Sócrates, con el personaje que las dice, la obra y el capítulo de origen. Con imágenes para compartir.",
+  "intro": "<p>Platón escribió en forma de diálogo, así que sus frases más famosas las pronuncian sus personajes: Sócrates, Diotima, Aristófanes o Alcibíades. Aquí cada cita indica quién la dice y en qué obra y capítulo aparece, con un enlace para leerla en su contexto, en la traducción de Patricio de Azcárate (1871).</p><p>Todas están comprobadas palabra por palabra en los textos de nuestra colección de lectura completa.</p>",
+  "related": [
+   [
+    "/libros-pdf-gratis/autores/platon/",
+    "Libros de Platón"
+   ],
+   [
+    "/por-donde-empezar-a-leer-a-platon/",
+    "Por dónde empezar a leer a Platón"
+   ],
+   [
+    "/frases/socrates/",
+    "Frases de Sócrates"
+   ]
+  ],
+  "faq": [
+   {
+    "q": "¿Cuál es la frase más famosa de Platón?",
+    "a": "Muchas de las frases más citadas de Platón las pronuncia Sócrates en sus diálogos, como «una vida sin examen no es vida», de la Apología. De El banquete procede la idea de la «media naranja», en el mito de Aristófanes sobre las mitades que se buscan."
+   },
+   {
+    "q": "¿Por qué se atribuyen a Platón frases que dice Sócrates?",
+    "a": "Porque Platón es el autor de los diálogos y Sócrates su personaje principal. Es difícil separar qué pensaba el Sócrates histórico y qué pone Platón en su boca, por eso aquí indicamos siempre quién habla en el texto."
+   }
+  ],
+  "link_from": [
+   "/historia-filosofia-platon-mundos-de-las-ideas/",
+   "/por-donde-empezar-a-leer-a-platon/",
+   "/biografia-de-platon-el-filosofo-de-las-ideas-eternas/"
+  ],
+  "link_from_extra": [
+   [
+    "/leer/el-banquete-platon/",
+    "El banquete completo online"
+   ],
+   [
+    "/resumenes/",
+    "resúmenes de sus diálogos"
+   ]
+  ]
+ }
 ]

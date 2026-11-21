@@ -22,6 +22,8 @@ from urllib.parse import quote_plus
 
 from lxml import html as dom
 
+from migrate import navigation
+
 OUTPUT = Path("public")
 TEXTS = Path("textos")
 # Mismos colores que COVER_COLORS en lectura_completa.py.
@@ -411,6 +413,58 @@ def add_guide_link(document, route, links):
     return document.replace(marker, marker + link, 1) if marker in document else document
 
 
+NAV = re.compile(r'(<nav class="main-nav" id="primary-navigation" aria-label="Navegación principal">).*?(<a class="mobile-library-link")', re.S)
+
+
+def replace_nav(document, menu):
+    """El menú vive en migrate.navigation(); aquí se aplica a todas las páginas ya generadas."""
+    return NAV.sub(lambda m: m.group(1) + menu + m.group(2), document, count=1)
+
+
+def reading_links():
+    """Enlaces a lectura online, resúmenes y frases para fichas, páginas de autor y artículos."""
+    pages = json.loads((TEXTS / "frases" / "paginas.json").read_text(encoding="utf-8")) if (TEXTS / "frases" / "paginas.json").exists() else []
+    by_route = {}
+    for config in sorted(TEXTS.glob("*.json")):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        quotes = next((f'/frases/{p["slug"]}/#{meta["slug"]}' for p in pages if p.get("author") == meta["author"]), None)
+        entry = by_route.setdefault(meta.get("author_route"), [])
+        entry.append(meta)
+        if quotes:
+            by_route.setdefault(("frases", meta["book_route"]), quotes)
+    for page in pages:
+        for route in page.get("link_from", []):
+            by_route.setdefault(("article", route), []).append(page)
+    return by_route, pages
+
+
+def add_reading_links(document, route, links):
+    by_route, pages = links
+    if "data-reading-link" in document:
+        return document
+    quotes = by_route.get(("frases", route))
+    marker = '<a class="text-link" href="#texto-obra">Leer el análisis ↓</a>'
+    if quotes and marker in document:
+        link = f'<a class="text-link" href="{quotes}" data-reading-link>Frases de la obra →</a>'
+        guide = re.search(r'<a class="text-link" href="[^"]*" data-guide-link>[^<]*</a>', document)
+        anchor = guide.group(0) if guide else marker
+        return document.replace(anchor, anchor + link, 1)
+    metas = by_route.get(route)
+    if metas and '<ul class="subsections">' in document:
+        author = metas[0]["author"]
+        items = "".join(f'<li><a href="/leer/{m["slug"]}/" data-reading-link>Leer {m["title"]} online →</a></li>' for m in metas)
+        items += "".join(f'<li><a href="/leer/{m["slug"]}/resumen/">Resumen de {m["title"]} →</a></li>' for m in metas if m.get("guide"))
+        items += "".join(f'<li><a href="/frases/{p["slug"]}/">{p["title"]} →</a></li>' for p in pages if p.get("author") == author)
+        return document.replace('<ul class="subsections">', '<ul class="subsections">' + items, 1)
+    related = by_route.get(("article", route))
+    if related and '<div class="entry" id="texto-obra">' in document:
+        links_html = " · ".join(f'<a href="/frases/{p["slug"]}/">{p["title"]}</a>' for p in related)
+        extra = "".join(f' · <a href="{href}">{label}</a>' for p in related for href, label in p.get("link_from_extra", []))
+        note = f'<p class="guide-link" data-reading-link>Lee también: {links_html}{extra}.</p>'
+        return document.replace('<div class="entry" id="texto-obra">', '<div class="entry" id="texto-obra">' + note, 1)
+    return document
+
+
 def main():
     swaps, spines = collection_covers()
     books = OUTPUT / "folio-books.json"
@@ -436,11 +490,13 @@ def main():
     # «Sigue explorando»: obras del mismo autor o tema, no las tres primeras de la categoría.
     entries, frequency = related_index(pages)
     guides = guide_links()
+    menu, reading = navigation(), reading_links()
     for page, document in pages.items():
         route = route_of(page)
         if route in entries:
             document = render_related(document, suggestions(route, entries, frequency), entries)
-        pages[page] = add_guide_link(add_affiliate(seo_head(document, route)), route, guides)
+        document = add_guide_link(add_affiliate(seo_head(document, route)), route, guides)
+        pages[page] = add_reading_links(replace_nav(document, menu), route, reading)
     for page, result in pages.items():
         if result != originals[page]:
             page.write_text(result, encoding="utf-8")

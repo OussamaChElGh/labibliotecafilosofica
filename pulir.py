@@ -273,6 +273,36 @@ def render_related(document, picks, entries):
     return RELATED.sub(lambda _: f'<section class="related"><h2>Sigue explorando</h2><ul class="cards">{items}</ul></section>', document, count=1)
 
 
+# Títulos de Google que se repetían entre dos páginas distintas.
+TITLES = {
+    "/libros-pdf-gratis/colecciones/": ("Colecciones de libros de filosofía en PDF · La Biblioteca Filosófica",
+                                        "Colecciones completas de introducción e historia de la filosofía: Filosofía en 90 minutos, Descubrir la filosofía, Copleston y más, con ficha de cada libro."),
+}
+BASE = "https://labibliotecafilosofica.com"
+
+
+def seo_head(document, route):
+    """Títulos únicos y una imagen para compartir en las páginas que no la tienen."""
+    if route in TITLES:
+        title, description = TITLES[route]
+        document = re.sub(r"<title>.*?</title>", f"<title>{title}</title>", document, count=1)
+        document = re.sub(r'<meta property="og:title" content="[^"]*">', f'<meta property="og:title" content="{title}">', document, count=1)
+        document = re.sub(r'<meta name="description" content="[^"]*">', f'<meta name="description" content="{description}">', document, count=1)
+        document = re.sub(r'<meta property="og:description" content="[^"]*">', f'<meta property="og:description" content="{description}">', document, count=1)
+    if 'property="og:image"' not in document:
+        image = re.search(r'<figure class="featured"><img[^>]*?src="(/[^"]+)"', document)
+        if image and image[1].endswith("/portada-ficha.jpg"):
+            # Obra de la colección: la tarjeta horizontal hecha para redes.
+            social = image[1].replace("/portada-ficha.jpg", "/social.png")
+            document = document.replace("</head>", f'<meta property="og:image" content="{BASE}{social}"><meta property="og:image:width" content="1200">'
+                                        f'<meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">'
+                                        f'<meta name="twitter:image" content="{BASE}{social}"></head>', 1)
+        elif image:
+            document = document.replace("</head>", f'<meta property="og:image" content="{BASE}{image[1]}"><meta name="twitter:card" content="summary">'
+                                        f'<meta name="twitter:image" content="{BASE}{image[1]}"></head>', 1)
+    return document
+
+
 def collection_covers():
     """Obras con lectura completa: su portada de la colección sustituye a la imagen antigua.
 
@@ -329,7 +359,8 @@ def main():
     for page, document in pages.items():
         route = route_of(page)
         if route in entries:
-            pages[page] = render_related(document, suggestions(route, entries, frequency), entries)
+            document = render_related(document, suggestions(route, entries, frequency), entries)
+        pages[page] = seo_head(document, route)
     for page, result in pages.items():
         if result != originals[page]:
             page.write_text(result, encoding="utf-8")

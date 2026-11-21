@@ -11,10 +11,14 @@ Quita los restos del WordPress que el exportador arrastra dentro del texto:
 
 Además, en las obras con lectura completa pone la portada de la colección y,
 en todo el sitio, quita «[PDF]» del texto visible (no del <title>).
+
+En las fichas de libro corrige el autor y el título de los datos estructurados
+(Book) y añade un enlace de afiliado «Ver edición en papel» si no tienen uno.
 """
 import json
 import re
 from pathlib import Path
+from urllib.parse import quote_plus
 
 from lxml import html as dom
 
@@ -332,6 +336,59 @@ def swap_covers(document, swaps):
     return document
 
 
+# Fichas de libro: autor real en el JSON-LD y enlace de afiliado.
+AFFILIATE_TAG = "labibliote044-21"
+# Autores que el WordPress ponía delante del título («Voltaire - Zadig»).
+LEADING_AUTHORS = ("Albert Camus", "Descartes", "Hannah Arendt", "Marques de Sade", "Voltaire",
+                   "Karl Marx, Friederich Engels", "Platón")
+AUTHOR_FIX = {"Marques de Sade": "Marqués de Sade", "Descartes": "René Descartes",
+              "Gabriel García Marquez": "Gabriel García Márquez"}
+KNOWN = {"El Castillo de Otranto": "Horace Walpole", "Cantar de Mio Cid": "Anónimo", "Las Mil y Una Noches": "Anónimo"}
+BOOK_LD = re.compile(r'(\{"@type": "Book", "name": ")([^"]*)(", "url": "[^"]*", "inLanguage": "es", "isAccessibleForFree": )(true|false)(, "author": \{"@type": "Person", "name": ")Labibliotecafilosofica(")')
+
+
+def split_book_name(name):
+    """«Voltaire - Zadig» o «Zadig [PDF] - Voltaire» → («Zadig», «Voltaire»)."""
+    clean = re.sub(r"\s*\[PDF\]\s*", " ", name).strip()
+    parts = [part.strip() for part in re.split(r"\s*-\s+|\s+[-–]\s*", clean, maxsplit=1)]
+    if len(parts) == 1:
+        title, author = parts[0], KNOWN.get(parts[0], "")
+    elif parts[0] in LEADING_AUTHORS:
+        author, title = parts
+    else:
+        title, author = parts
+    return title, AUTHOR_FIX.get(author, author)
+
+
+def book_details(document):
+    """Corrige el Book del JSON-LD y devuelve (documento, título, autor) o None si no es ficha."""
+    match = BOOK_LD.search(document)
+    if match:
+        title, author = split_book_name(match.group(2))
+        free = "true" if "data-read-online" in document else match.group(4)
+        if author:
+            document = BOOK_LD.sub(lambda m: f"{m.group(1)}{title}{m.group(3)}{free}{m.group(5)}{author}{m.group(6)}", document, count=1)
+        return document, title, author
+    match = re.search(r'\{"@type": "Book", "name": "([^"]*)".*?"author": \{"@type": "Person", "name": "([^"]*)"', document)
+    return (document, match.group(1), match.group(2)) if match else None
+
+
+def add_affiliate(document):
+    details = book_details(document)
+    if not details:
+        return document
+    document, title, author = details
+    head = document.split(START, 1)[0]
+    if 'rel="sponsored' in head or '<div class="actions">' not in head:
+        return document
+    query = quote_plus(f"{title} {author}".strip())
+    link = (f'<a class="button secondary" href="https://www.amazon.es/s?k={query}&amp;i=stripbooks&amp;tag={AFFILIATE_TAG}" '
+            'rel="sponsored nofollow" data-affiliate>Ver edición en papel ↗</a>')
+    start = document.index('<div class="actions">')
+    end = document.index("</div>", start)
+    return document[:end] + link + document[end:]
+
+
 def main():
     swaps, spines = collection_covers()
     books = OUTPUT / "folio-books.json"
@@ -360,7 +417,7 @@ def main():
         route = route_of(page)
         if route in entries:
             document = render_related(document, suggestions(route, entries, frequency), entries)
-        pages[page] = seo_head(document, route)
+        pages[page] = add_affiliate(seo_head(document, route))
     for page, result in pages.items():
         if result != originals[page]:
             page.write_text(result, encoding="utf-8")

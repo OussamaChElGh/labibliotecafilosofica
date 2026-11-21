@@ -16,6 +16,8 @@ Instala Python y lxml. Ejecuta `python migrate.py exportacion.xml uploads.zip --
 
 Después ejecuta `python lectura_completa.py`. Genera en `public/leer/` la lectura online, dividida en capítulos, de las obras de dominio público que hay en `textos/` (un `.txt` con el texto y un `.json` con los capítulos), y las añade al sitemap.
 
+Por último ejecuta `node portadas.mjs`. Convierte la portada de cada obra en dos imágenes: `portada.png` (1000×1500, descargable desde el índice) y `social.png` (1200×630, la que se ve al compartir un enlace en redes o WhatsApp). El color y el número de cada portada se fijan en el campo `cover` del `.json`.
+
 `revision-migracion.json` lista los recursos, enlaces y bloques pendientes. La vista de revisión deshabilita la indexación. Antes del lanzamiento deben resolverse esas incidencias, validar el contenido renderizado, revisar los enlaces a descargas e integrar y comprobar la configuración de AdSense y consentimiento. El argumento `--production` habilita el rastreo al regenerar. Conecta el dominio solo después de validar el entorno de Vercel.
 
 Los datos privados y la configuración original se conservan en el WXR de origen. La versión estática muestra los comentarios aprobados que figuran como comentarios normales en WordPress. Los comentarios pendientes y los avisos automáticos de enlaces se conservan en el WXR. El sitio estático carece de formulario de comentarios y panel de edición.

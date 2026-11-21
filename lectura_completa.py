@@ -28,8 +28,14 @@ BOOK_ASSETS = ('<link rel="stylesheet" href="/lector-libro.css"><script>document
                '<script defer src="/lector-libro.js"></script></head>')
 
 
-def with_book_assets(document):
-    return document.replace("</head>", BOOK_ASSETS, 1)
+def with_book_assets(document, meta):
+    # Imagen para redes y vista previa de enlaces (la genera portadas.mjs).
+    image = f'{BASE}/leer/{meta["slug"]}/social.png'
+    social = (f'<meta property="og:type" content="book"><meta property="og:site_name" content="La Biblioteca Filosófica">'
+              f'<meta property="og:image" content="{image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
+              f'<meta property="og:image:alt" content="Portada de {escape(meta["title"])}, de {escape(meta["author"])}">'
+              f'<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{image}">')
+    return document.replace("</head>", social + BOOK_ASSETS, 1)
 
 
 COVER_COLORS = {"verde": "#143a2c", "burdeos": "#4a1820", "azul": "#16233b", "ocre": "#4f3615", "negro": "#161015"}
@@ -138,7 +144,8 @@ def build(meta, blocks):
                   f'<h1>{escape(meta["title"])}: leer online completo</h1>'
                   f'<div class="reading-meta"><span>{len(chapters)} capítulos · {total_words:,} palabras · {minutes(total_words)} min de lectura</span>'
                   f'<a href="{start_reading}">Empezar a leer ↓</a></div></header>'
-                  f'<div class="entry" id="texto-obra"><figure class="book-cover">{cover_svg(meta)}</figure>{meta["intro"]}'
+                  f'<div class="entry" id="texto-obra"><figure class="book-cover">{cover_svg(meta)}'
+                  f'<figcaption><a href="{base_route}portada.png" download>Descargar portada</a></figcaption></figure>{meta["intro"]}'
                   f'<div class="continue-reading" data-continue-book="{escape(slug)}" hidden></div>'
                   f'<p><a class="button" href="{start_reading}">Empezar a leer ↗</a></p>'
                   f'<h2 id="capitulos">Capítulos</h2><ol class="chapter-list">{chapter_links}</ol>{credit(meta)}'
@@ -152,7 +159,7 @@ def build(meta, blocks):
         "hasPart": [{"@type": "Chapter", "name": c["title"], "position": i, "url": f'{BASE}{base_route}{c["slug"]}/'}
                     for i, c in enumerate(chapters, start=1)]}]}
     write(base_route, with_book_assets(shell(f'{meta["title"]} de {meta["author"]}: leer online completo y gratis · La Biblioteca Filosófica',
-                            base_route, index_body, meta["description"], schema=index_schema)))
+                            base_route, index_body, meta["description"], schema=index_schema), meta))
 
     # Una página por capítulo.
     done_words = 0
@@ -189,7 +196,7 @@ def build(meta, blocks):
                          "author": {"@type": "Person", "name": meta["author"]}}}]}
         description = f'{chapter["title"]} de {full_title}: texto completo online. {chapter["summary"]}'
         write(route, with_book_assets(shell(f'{chapter["title"]} · {full_title} (texto completo) · La Biblioteca Filosófica',
-                           route, body, description[:300], schema=schema)))
+                           route, body, description[:300], schema=schema), meta))
     return routes
 
 

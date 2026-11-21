@@ -1,0 +1,43 @@
+{
+  "redirects": {
+    "/albert-camus-el-extranjero/": "/el-extranjero-pdf-albert-camus/",
+    "/de-la-embriaguez-a-la-iluminacion-desentranando-los-misterios-del-filosofo-borracho/": "/embriaguez-a-iluminacion-misterios-del-filosofo-borracho/",
+    "/libros-pdf-gratis/idiomas/10-libros-gratis-en-pdf-y-epub-para-aprender-ingles-para-principiantes/": "/10-libros-gratis-en-pdf-y-epub-para-aprender-ingles-para-principiantes/"
+  },
+  "affiliate_lists": {
+    "aprender ingles": [
+      {
+        "title": "Cómo Aprender Inglés Para Adultos Principiantes – 5 Libros en 1: …",
+        "product_url": "https://www.amazon.es/dp/B0FJ7BJ4J8?tag=labibliote044-21",
+        "image_url": "https://m.media-amazon.com/images/I/51jfxhS3mvL.jpg"
+      },
+      {
+        "title": "Tiempos en Inglés: Aprende los 12 Tiempos Verbales del Idioma",
+        "product_url": "https://www.amazon.es/dp/B0DZ1YFWCF?tag=labibliote044-21",
+        "image_url": "https://m.media-amazon.com/images/I/414OoCAYy8L._SY445_SX342_QL70_ML2_.jpg"
+      },
+      {
+        "title": "Talk Time: 110 Escenas cotidianas para dominar el inglés. Con Pro…",
+        "product_url": "https://www.amazon.es/dp/B0F6Y6R8MV?tag=labibliote044-21",
+        "image_url": "https://m.media-amazon.com/images/I/41-JQfmpCVL.jpg"
+      }
+    ],
+    "hiragana": [
+      {
+        "title": "Aprende Hiragana en 10 Días: Cuaderno de Escritura Japonesa para …",
+        "product_url": "https://www.amazon.es/dp/B0CP3T1V6G?tag=labibliote044-21",
+        "image_url": "https://m.media-amazon.com/images/I/51s4Mnn2G+L.jpg"
+      },
+      {
+        "title": "Libreta escritura hiragana japonés fácil: Libro de ejercicios par…",
+        "product_url": "https://www.amazon.es/dp/B0F4RHBKTK?tag=labibliote044-21",
+        "image_url": "https://m.media-amazon.com/images/I/41sWZ9pMt-L.jpg"
+      },
+      {
+        "title": "Japanophone Poster grande de referencia Hiragana y Katakana, form…",
+        "product_url": "https://www.amazon.es/dp/B07T9GNLY8?tag=labibliote044-21",
+        "image_url": "https://m.media-amazon.com/images/I/51y+tEMUMWL._AC_.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" role="img" aria-labelledby="title desc">
+<title id="title">Una nota de lectura breve</title><desc id="desc">Plantilla con tres campos: pregunta, respuesta provisional y duda abierta.</desc>
+<rect width="960" height="470" rx="28" fill="#e7ded0"/>
+<rect x="100" y="43" width="760" height="387" rx="13" fill="#fffaf0" stroke="#c8baa2" stroke-width="2"/>
+<path d="M148 106 H812 M148 219 H812 M148 332 H812" stroke="#d8cab8" stroke-width="2"/>
+<g font-family="Arial,sans-serif"><text x="148" y="86" fill="#5a463a" font-size="17" letter-spacing="2">MI NOTA DE LECTURA</text><text x="148" y="150" fill="#925a3d" font-size="18">1 · PREGUNTA DEL TEXTO</text><text x="148" y="187" fill="#292b29" font-size="22">¿Qué intenta resolver el autor?</text><text x="148" y="263" fill="#925a3d" font-size="18">2 · RESPUESTA PROVISIONAL</text><text x="148" y="300" fill="#292b29" font-size="22">El autor sostiene… porque…</text><text x="148" y="376" fill="#925a3d" font-size="18">3 · DUDA PARA VOLVER</text><text x="148" y="408" fill="#292b29" font-size="22">No entiendo todavía…</text></g>
+</svg>

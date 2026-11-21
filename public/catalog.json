@@ -1,0 +1,5589 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "schema_version": 1,
+      "id": "8329",
+      "type": "editorial",
+      "title": "Cómo aprender Inglés desde cero: Guía completa + libros PDF gratuitos",
+      "slug": "aprender-ingles-desde-cero-guia-completa",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/aprender-ingles-desde-cero-guia-completa/",
+      "indexable": true,
+      "updated_at": "2025-08-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "8316",
+      "type": "editorial",
+      "title": "Cómo aprender Hiragana rápido y fácil",
+      "slug": "como-aprender-hiragana-rapido-y-facil",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/como-aprender-hiragana-rapido-y-facil/",
+      "indexable": true,
+      "updated_at": "2025-08-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "8283",
+      "type": "editorial",
+      "title": "Cómo aprender japonés desde cero: Guía completa + libros PDF gratuitos",
+      "slug": "aprender-japones-guia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/aprender-japones-guia/",
+      "indexable": true,
+      "updated_at": "2025-08-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "8234",
+      "type": "work",
+      "title": "The Ones Who Walk Away from Omelas [PDF] - Ursula K. Le Guin",
+      "slug": "the-ones-who-walk-away-from-omelas-pdf-ursula-k-le-guin",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/the-ones-who-walk-away-from-omelas-pdf-ursula-k-le-guin/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "8233",
+      "type": "work",
+      "title": "The Secret Life of Walter Mitty [PDF] - James Thurber",
+      "slug": "the-secret-life-of-walter-mitty-pdf-james-thurber",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/the-secret-life-of-walter-mitty-pdf-james-thurber/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "8232",
+      "type": "work",
+      "title": "Cat Person [PDF] - Kristen Roupenian",
+      "slug": "cat-person-pdf-kristen-roupenian",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/cat-person-pdf-kristen-roupenian/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "8231",
+      "type": "work",
+      "title": "The Yellow Wallpaper [PDF] - Charlotte Perkins Gilman",
+      "slug": "the-yellow-wallpaper-pdf-charlotte-perkins-gilman",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/the-yellow-wallpaper-pdf-charlotte-perkins-gilman/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "8054",
+      "type": "work",
+      "title": "El Extranjero [PDF]- Albert Camus",
+      "slug": "el-extranjero-pdf-albert-camus",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-extranjero-pdf-albert-camus/",
+      "indexable": true,
+      "updated_at": "2025-08-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "7996",
+      "type": "editorial",
+      "title": "+50 Cuentos Cortos en Inglés ¡Gratis en PDF!",
+      "slug": "cuentos-cortos-en-ingles",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/cuentos-cortos-en-ingles/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7716",
+      "type": "editorial",
+      "title": "📚 Libros PDF Gratis para Descargar y Leer Online [Actualizado]",
+      "slug": "descargar-online-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descargar-online-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7533",
+      "type": "editorial",
+      "title": "Inicio",
+      "slug": "",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "7369",
+      "type": "work",
+      "title": "Don Quijote de la Mancha [PDF] - Miguel de Cervantes",
+      "slug": "don-quijote-de-la-mancha-pdf-miguel-de-cervantes",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/don-quijote-de-la-mancha-pdf-miguel-de-cervantes/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7343",
+      "type": "editorial",
+      "title": "Libro Padre, Rico Padre Pobre: Resumen por capítulos, personajes y análisis",
+      "slug": "libro-padre-rico-padre-pobre-resumen-por-capitulos-personajes-y-analisis",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libro-padre-rico-padre-pobre-resumen-por-capitulos-personajes-y-analisis/",
+      "indexable": true,
+      "updated_at": "2024-04-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "7304",
+      "type": "work",
+      "title": "Mujercitas [PDF] – Louisa May Alcott",
+      "slug": "mujercitas-pdf-louisa-may-alcott",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/mujercitas-pdf-louisa-may-alcott/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7298",
+      "type": "work",
+      "title": "Orgullo y Prejuicio [PDF] – Jane Austen",
+      "slug": "orgullo-y-prejuicio-pdf-jane-austen",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/orgullo-y-prejuicio-pdf-jane-austen/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7288",
+      "type": "work",
+      "title": "Cien Años de Soledad [PDF] - Gabriel García Marquez",
+      "slug": "cien-anos-de-soledad-pdf-gabriel-garcia-marquez",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/cien-anos-de-soledad-pdf-gabriel-garcia-marquez/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7212",
+      "type": "work",
+      "title": "Moby Dick [PDF] – Herman Melville",
+      "slug": "moby-dick-herman-melville-pdf-online",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/moby-dick-herman-melville-pdf-online/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7139",
+      "type": "work",
+      "title": "El Conde Lucanor [PDF] - Don Juan Manuel",
+      "slug": "el-conde-lucanor-pdf-don-juan-manuel",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-conde-lucanor-pdf-don-juan-manuel/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7066",
+      "type": "work",
+      "title": "Fervor de Buenos Aires [PDF] - Jorge Luis Borges",
+      "slug": "fervor-de-buenos-aires-pdf-jorge-luis-borges",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/fervor-de-buenos-aires-pdf-jorge-luis-borges/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7062",
+      "type": "editorial",
+      "title": "Libro 1984: Resumen por capítulos, personajes de 1984 y análisis",
+      "slug": "libro-1984-resumen-por-capitulos-personajes-y-analisis",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libro-1984-resumen-por-capitulos-personajes-y-analisis/",
+      "indexable": true,
+      "updated_at": "2023-11-29"
+    },
+    {
+      "schema_version": 1,
+      "id": "7043",
+      "type": "editorial",
+      "title": "Hegel: Dialéctica del Espíritu y la Filosofía del Idealismo",
+      "slug": "hegel-dialectica-del-espiritu-y-la-filosofia-del-idealismo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hegel-dialectica-del-espiritu-y-la-filosofia-del-idealismo/",
+      "indexable": true,
+      "updated_at": "2023-11-26"
+    },
+    {
+      "schema_version": 1,
+      "id": "7033",
+      "type": "editorial",
+      "title": "Wittgenstein: Lenguaje y Significado, la Filosofía Analítica",
+      "slug": "wittgenstein-lenguaje-y-significado-la-filosofia-analitica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/wittgenstein-lenguaje-y-significado-la-filosofia-analitica/",
+      "indexable": true,
+      "updated_at": "2023-11-26"
+    },
+    {
+      "schema_version": 1,
+      "id": "7030",
+      "type": "editorial",
+      "title": "Sartre: Existencialismo y Libertad, la Filosofía Existencialista",
+      "slug": "sartre-existencialismo-y-libertad-la-filosofia-existencialista",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/sartre-existencialismo-y-libertad-la-filosofia-existencialista/",
+      "indexable": true,
+      "updated_at": "2023-11-26"
+    },
+    {
+      "schema_version": 1,
+      "id": "7027",
+      "type": "editorial",
+      "title": "Heidegger: Ser y Tiempo, la Búsqueda del Sentido del Ser",
+      "slug": "heidegger-ser-y-tiempo-la-busqueda-del-sentido-del-ser",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/heidegger-ser-y-tiempo-la-busqueda-del-sentido-del-ser/",
+      "indexable": true,
+      "updated_at": "2023-11-26"
+    },
+    {
+      "schema_version": 1,
+      "id": "7024",
+      "type": "editorial",
+      "title": "Husserl: La Fenomenología y la Filosofía de la Conciencia",
+      "slug": "husserl-la-fenomenologia-y-la-filosofia-de-la-conciencia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/husserl-la-fenomenologia-y-la-filosofia-de-la-conciencia/",
+      "indexable": true,
+      "updated_at": "2023-11-26"
+    },
+    {
+      "schema_version": 1,
+      "id": "7016",
+      "type": "editorial",
+      "title": "Spinoza: Ética Geométrica, La Filosofía Racional de Spinoza",
+      "slug": "spinoza-etica-geometrica-la-filosofia-racional",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/spinoza-etica-geometrica-la-filosofia-racional/",
+      "indexable": true,
+      "updated_at": "2023-11-26"
+    },
+    {
+      "schema_version": 1,
+      "id": "6961",
+      "type": "editorial",
+      "title": "La Filosofía del Siglo XX",
+      "slug": "historia-filosofia-del-siglo-xx",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-del-siglo-xx/",
+      "indexable": true,
+      "updated_at": "2023-11-25"
+    },
+    {
+      "schema_version": 1,
+      "id": "6958",
+      "type": "editorial",
+      "title": "Marx: Materialismo Histórico, Marx y la Crítica de la Economía Política",
+      "slug": "historia-filosofia-marx-materialismo-economia-politica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-marx-materialismo-economia-politica/",
+      "indexable": true,
+      "updated_at": "2023-11-25"
+    },
+    {
+      "schema_version": 1,
+      "id": "6955",
+      "type": "editorial",
+      "title": "Kant: La Revolución Copernicana , Kant y la Filosofía Crítica",
+      "slug": "historia-filosofia-kant-revolucion-copernicana-filosofia-critica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-kant-revolucion-copernicana-filosofia-critica/",
+      "indexable": true,
+      "updated_at": "2023-11-25"
+    },
+    {
+      "schema_version": 1,
+      "id": "6952",
+      "type": "editorial",
+      "title": "Ilustración y Filosofía Contemporánea",
+      "slug": "historia-filosofia-contemporanea-ilustracion",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-contemporanea-ilustracion/",
+      "indexable": true,
+      "updated_at": "2023-11-25"
+    },
+    {
+      "schema_version": 1,
+      "id": "6949",
+      "type": "editorial",
+      "title": "Hume: El Escepticismo Empírico y la Crítica de la Causa y Efecto",
+      "slug": "hisotoria-filosofia-hume-escepticismo-empirico-la-causa-y-efecto",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hisotoria-filosofia-hume-escepticismo-empirico-la-causa-y-efecto/",
+      "indexable": true,
+      "updated_at": "2023-11-22"
+    },
+    {
+      "schema_version": 1,
+      "id": "6946",
+      "type": "editorial",
+      "title": "Locke: \"Tabula Rasa\", y la Filosofía del Empirismo",
+      "slug": "historia-filosofia-locke-tabula-rasa-empirismo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-locke-tabula-rasa-empirismo/",
+      "indexable": true,
+      "updated_at": "2023-11-22"
+    },
+    {
+      "schema_version": 1,
+      "id": "6943",
+      "type": "editorial",
+      "title": "Descartes: Cogito, Ergo Sum, La Filosofía Cartesiana de la Duda Metódica",
+      "slug": "historia-filosofia-descartes-filosofia-cartesiana-duda-metodica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-descartes-filosofia-cartesiana-duda-metodica/",
+      "indexable": true,
+      "updated_at": "2025-04-01"
+    },
+    {
+      "schema_version": 1,
+      "id": "6940",
+      "type": "editorial",
+      "title": "Renacimiento y Filosofía Moderna",
+      "slug": "historia-filosofia-renacimiento-y-filosofia-moderna",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-renacimiento-y-filosofia-moderna/",
+      "indexable": true,
+      "updated_at": "2023-11-22"
+    },
+    {
+      "schema_version": 1,
+      "id": "6935",
+      "type": "editorial",
+      "title": "Tomás de Aquino: La Teología Filosófica y la Escolástica",
+      "slug": "historia-filosofia-tomas-de-aquino-teologia-escolastica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-tomas-de-aquino-teologia-escolastica/",
+      "indexable": true,
+      "updated_at": "2023-11-25"
+    },
+    {
+      "schema_version": 1,
+      "id": "6907",
+      "type": "editorial",
+      "title": "Guillermo de Ockham: La Navaja de Ockham y La Simplicidad en la Filosofía",
+      "slug": "historia-filosofia-guillermo-de-ockham-la-navaja-de-ockham",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-guillermo-de-ockham-la-navaja-de-ockham/",
+      "indexable": true,
+      "updated_at": "2023-11-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "6897",
+      "type": "editorial",
+      "title": "Agustín de Hipona: Fe y Filosofía: La Síntesis de Agustín",
+      "slug": "historia-filosofia-agustin-de-hipona-fe",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-agustin-de-hipona-fe/",
+      "indexable": true,
+      "updated_at": "2023-11-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "6894",
+      "type": "editorial",
+      "title": "La Filosofía Medieval",
+      "slug": "la-filosofia-medieval",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-filosofia-medieval/",
+      "indexable": true,
+      "updated_at": "2023-11-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "6885",
+      "type": "editorial",
+      "title": "Aristóteles: Rigor y Observación ,La Ciencia Filosófica de Aristóteles",
+      "slug": "historia-filosofia-aristoteles-ciencia-filosofica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-aristoteles-ciencia-filosofica/",
+      "indexable": true,
+      "updated_at": "2023-11-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "6882",
+      "type": "editorial",
+      "title": "Platón: Mundo de las Ideas y la Filosofía de las Formas",
+      "slug": "historia-filosofia-platon-mundos-de-las-ideas",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-platon-mundos-de-las-ideas/",
+      "indexable": true,
+      "updated_at": "2023-11-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "6879",
+      "type": "editorial",
+      "title": "Sócrates: El Método Socrático: Dialogando hacia la Verdad",
+      "slug": "historia-filosofia-socrates-el-metodo-socratico",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-socrates-el-metodo-socratico/",
+      "indexable": true,
+      "updated_at": "2023-11-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "6874",
+      "type": "editorial",
+      "title": "Tales de Mileto: El Primer Filósofo: En Busca del Elemento Primordial",
+      "slug": "hisotoria-filosofia-tales-de-mileto-el-primer-filosofo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hisotoria-filosofia-tales-de-mileto-el-primer-filosofo/",
+      "indexable": true,
+      "updated_at": "2023-11-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "6850",
+      "type": "editorial",
+      "title": "Filosofía en la Antigüedad",
+      "slug": "historia-filosofia-en-la-antiguedad",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia-filosofia-en-la-antiguedad/",
+      "indexable": true,
+      "updated_at": "2023-11-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "6817",
+      "type": "editorial",
+      "title": "Tras las Viñetas: Conoce a los Maestros detrás de Animes como 'Attack on Titan'",
+      "slug": "anime-los-maestros-detras-de-animes-como-attack-on-titan",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/anime-los-maestros-detras-de-animes-como-attack-on-titan/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6809",
+      "type": "editorial",
+      "title": "Resiliencia a través del Estoicismo: Lecciones de Marco Aurelio",
+      "slug": "filosofia-resiliencia-estoicismo-de-marco-aurelio",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-resiliencia-estoicismo-de-marco-aurelio/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6779",
+      "type": "editorial",
+      "title": "Virtud y Ética: Pilares de la Filosofía Estoica",
+      "slug": "estoicismo-virtud-y-etica-filosofia-estoica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/estoicismo-virtud-y-etica-filosofia-estoica/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6769",
+      "type": "editorial",
+      "title": "La Filosofía Estoica: Sabiduría para la Vida Diaria",
+      "slug": "filosofia-estoica-sabiduria-para-la-vida-diaria",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-estoica-sabiduria-para-la-vida-diaria/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6726",
+      "type": "editorial",
+      "title": "Rembrandt: Retratos que Reflejan la Maestría",
+      "slug": "arte-rembrandt-retratos-que-reflejan-maestria",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/arte-rembrandt-retratos-que-reflejan-maestria/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6717",
+      "type": "editorial",
+      "title": "La Mona Lisa de Leonardo da Vinci: Enigma de una Sonrisa",
+      "slug": "arte-sonrisa-la-mona-lisa-de-leonardo-da-vinci",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/arte-sonrisa-la-mona-lisa-de-leonardo-da-vinci/",
+      "indexable": true,
+      "updated_at": "2023-11-18"
+    },
+    {
+      "schema_version": 1,
+      "id": "6699",
+      "type": "editorial",
+      "title": "Banksy: Arte Urbano y Anonimato Creativo",
+      "slug": "banksy-arte-urbano-y-anonimato-creativo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/banksy-arte-urbano-y-anonimato-creativo/",
+      "indexable": true,
+      "updated_at": "2023-11-18"
+    },
+    {
+      "schema_version": 1,
+      "id": "6694",
+      "type": "editorial",
+      "title": "El Renacimiento en Lienzo: Un Viaje por las Obras Maestras",
+      "slug": "arte-el-renacimiento-las-obras-maestras",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/arte-el-renacimiento-las-obras-maestras/",
+      "indexable": true,
+      "updated_at": "2023-11-18"
+    },
+    {
+      "schema_version": 1,
+      "id": "6690",
+      "type": "editorial",
+      "title": "Expresionismo Abstacto: Explorando la Emoción en el Arte Moderno",
+      "slug": "arte-expresionismo-abstracto-moderno",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/arte-expresionismo-abstracto-moderno/",
+      "indexable": true,
+      "updated_at": "2023-11-18"
+    },
+    {
+      "schema_version": 1,
+      "id": "6682",
+      "type": "editorial",
+      "title": "Explorando las Enseñanzas de los Estoicos: Séneca, Epicteto y Marco Aurelio",
+      "slug": "ensenanzas-estoicos-seneca-epicteto-marco-aurelio",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/ensenanzas-estoicos-seneca-epicteto-marco-aurelio/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6670",
+      "type": "editorial",
+      "title": "Logos y Ataraxia: Fundamentos Filosóficos del Estoicismo",
+      "slug": "logos-y-ataraxia-fundamentos-filosoficos-del-estoicismo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/logos-y-ataraxia-fundamentos-filosoficos-del-estoicismo/",
+      "indexable": true,
+      "updated_at": "2023-11-16"
+    },
+    {
+      "schema_version": 1,
+      "id": "6662",
+      "type": "editorial",
+      "title": "El Poder de la Acción Colectiva: Cómo la Solidaridad Feminista Está Moldeando el Futuro",
+      "slug": "solidaridad-feminista-uniendo-fuerzas-para-un-futuro-igualitario",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/solidaridad-feminista-uniendo-fuerzas-para-un-futuro-igualitario/",
+      "indexable": true,
+      "updated_at": "2023-11-16"
+    },
+    {
+      "schema_version": 1,
+      "id": "6655",
+      "type": "editorial",
+      "title": "Perspectivas Feministas: Desentrañando la Historia de la Igualdad de Género",
+      "slug": "feminismo-historia-de-la-igualdad-de-genero",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/feminismo-historia-de-la-igualdad-de-genero/",
+      "indexable": true,
+      "updated_at": "2023-11-16"
+    },
+    {
+      "schema_version": 1,
+      "id": "6636",
+      "type": "editorial",
+      "title": "Psicología Infantil: Cómo entender y apoyar el desarrollo de tus hijos",
+      "slug": "psicologia-infantil-como-entender-y-apoyar-el-desarrollo-de-tus-hijos",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/psicologia-infantil-como-entender-y-apoyar-el-desarrollo-de-tus-hijos/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6630",
+      "type": "editorial",
+      "title": "El Impacto de la Psicología Ambiental en Nuestra Salud Mental: Un Análisis Profundo",
+      "slug": "psicologia-ambiental-en-nuestra-salud-mental",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/psicologia-ambiental-en-nuestra-salud-mental/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6616",
+      "type": "editorial",
+      "title": "Explorando la Complejidad de la Psicología Adolescente: Consejos e Ideas",
+      "slug": "psicologia-adolescente-consejos-e-ideas",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/psicologia-adolescente-consejos-e-ideas/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6613",
+      "type": "editorial",
+      "title": "Entendiendo los Fundamentos de la Psicología: Una Guía Integral",
+      "slug": "fundamentos-de-la-psicologia-una-guia-integral",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/fundamentos-de-la-psicologia-una-guia-integral/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6344",
+      "type": "editorial",
+      "title": "La Obra Completa de Albert Camus para Leer Online en PDF!",
+      "slug": "la-obra-completa-de-albert-camus-para-leer-online-en-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-obra-completa-de-albert-camus-para-leer-online-en-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5752",
+      "type": "work",
+      "title": "El Mercader de Venecia [PDF] - William Shakespeare",
+      "slug": "el-mercader-de-venecia-pdf-shakespeare",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-mercader-de-venecia-pdf-shakespeare/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5753",
+      "type": "work",
+      "title": "Julio César [PDF] - William Shakespeare",
+      "slug": "julio-cesar-pdf-william-shakespeare",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/julio-cesar-pdf-william-shakespeare/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "6203",
+      "type": "editorial",
+      "title": "Biografía de Antoine de Saint-Exupéry: La pluma tras ''El Principito''",
+      "slug": "biografia-antoine-de-saint-exupery-el-principito",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/biografia-antoine-de-saint-exupery-el-principito/",
+      "indexable": true,
+      "updated_at": "2023-09-24"
+    },
+    {
+      "schema_version": 1,
+      "id": "6193",
+      "type": "editorial",
+      "title": "La Biografía de Albert Camus: El Genio Existencialista",
+      "slug": "biografia-albert-camus",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/biografia-albert-camus/",
+      "indexable": true,
+      "updated_at": "2023-09-24"
+    },
+    {
+      "schema_version": 1,
+      "id": "6184",
+      "type": "editorial",
+      "title": "Biografía de Platón: El Filósofo de las Ideas Eternas",
+      "slug": "biografia-de-platon-el-filosofo-de-las-ideas-eternas",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/biografia-de-platon-el-filosofo-de-las-ideas-eternas/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "6149",
+      "type": "work",
+      "title": "El Castillo de Otranto [PDF]",
+      "slug": "el-castillo-de-otranto-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-castillo-de-otranto-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "6133",
+      "type": "editorial",
+      "title": "La Fascinante Biografía de William Shakespeare: Vida, Obra y Legado",
+      "slug": "biografia-de-william-shakespeare-vida-obra-y-legado",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/biografia-de-william-shakespeare-vida-obra-y-legado/",
+      "indexable": true,
+      "updated_at": "2023-09-21"
+    },
+    {
+      "schema_version": 1,
+      "id": "6037",
+      "type": "editorial",
+      "title": "+20 Libros en PDF Gratis para Aprender Japonés!",
+      "slug": "libros-pdf-gratis-aprender-japones",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-pdf-gratis-aprender-japones/",
+      "indexable": true,
+      "updated_at": "2025-08-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "6018",
+      "type": "editorial",
+      "title": "El Existencialismo en la Era de la Información: ¿Cómo Encontrar Significado en un Mundo Hiperconectado?",
+      "slug": "el-existencialismo-en-la-era-de-la-informacion-como-encontrar-significado-en-un-mundo-hiperconectado",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-existencialismo-en-la-era-de-la-informacion-como-encontrar-significado-en-un-mundo-hiperconectado/",
+      "indexable": true,
+      "updated_at": "2023-09-17"
+    },
+    {
+      "schema_version": 1,
+      "id": "6013",
+      "type": "editorial",
+      "title": "El Futuro de la Ética en la Biología Sintética: Creación y Diseño de Vida",
+      "slug": "el-futuro-de-la-etica-en-la-biologia-sintetica-creacion-y-diseno-de-vida",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-futuro-de-la-etica-en-la-biologia-sintetica-creacion-y-diseno-de-vida/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6010",
+      "type": "editorial",
+      "title": "Transhumanismo y Filosofía: Explorando los Límites de la Modificación Humana",
+      "slug": "transhumanismo-y-filosofia-explorando-los-limites-de-la-modificacion-humana",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/transhumanismo-y-filosofia-explorando-los-limites-de-la-modificacion-humana/",
+      "indexable": true,
+      "updated_at": "2023-09-17"
+    },
+    {
+      "schema_version": 1,
+      "id": "6007",
+      "type": "editorial",
+      "title": "El Budismo Zen en Samurai Champloo: La Búsqueda de la Iluminación a Través del Camino del Guerrero",
+      "slug": "el-budismo-zen-en-samurai-champloo-la-busqueda-de-la-iluminacion-a-traves-del-camino-del-guerrero",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-budismo-zen-en-samurai-champloo-la-busqueda-de-la-iluminacion-a-traves-del-camino-del-guerrero/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6004",
+      "type": "editorial",
+      "title": "El Existencialismo en Neon Genesis Evangelion: Reflexiones sobre la Identidad y la Soledad",
+      "slug": "el-existencialismo-en-neon-genesis-evangelion-reflexiones-sobre-la-identidad-y-la-soledad",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-existencialismo-en-neon-genesis-evangelion-reflexiones-sobre-la-identidad-y-la-soledad/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "6000",
+      "type": "editorial",
+      "title": "+10 Libros Gratis en PDF y Epub para Aprender Inglés para Principiantes!",
+      "slug": "10-libros-gratis-en-pdf-y-epub-para-aprender-ingles-para-principiantes",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/10-libros-gratis-en-pdf-y-epub-para-aprender-ingles-para-principiantes/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5918",
+      "type": "editorial",
+      "title": "Biografía de Gabriel García Márquez: El Realismo Mágico en la Literatura",
+      "slug": "biografia-gabriel-garcia-marquez-realismo-magico",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/biografia-gabriel-garcia-marquez-realismo-magico/",
+      "indexable": true,
+      "updated_at": "2023-09-15"
+    },
+    {
+      "schema_version": 1,
+      "id": "5876",
+      "type": "editorial",
+      "title": "Breve Biografía y Legado de C.S. Lewis: el Maestro de Las Crónicas de Narnia",
+      "slug": "biografia-cs-lewis-autor-las-cronicas-de-narnia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/biografia-cs-lewis-autor-las-cronicas-de-narnia/",
+      "indexable": true,
+      "updated_at": "2023-09-15"
+    },
+    {
+      "schema_version": 1,
+      "id": "5849",
+      "type": "editorial",
+      "title": "Explorando la Saga de las Crónicas de Narnia: El León, la Bruja y el Armario",
+      "slug": "cronicas-de-narnia-el-leon-la-bruja-y-el-armario-resumen",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/cronicas-de-narnia-el-leon-la-bruja-y-el-armario-resumen/",
+      "indexable": true,
+      "updated_at": "2023-09-08"
+    },
+    {
+      "schema_version": 1,
+      "id": "5750",
+      "type": "work",
+      "title": "Macbeth [PDF] - William Shakespeare",
+      "slug": "macbeth-libros-pdf-gratis",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/macbeth-libros-pdf-gratis/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5830",
+      "type": "editorial",
+      "title": "Política de Privacidad",
+      "slug": "politica-de-privacidad",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/politica-de-privacidad/",
+      "indexable": true,
+      "updated_at": "2023-09-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "5751",
+      "type": "work",
+      "title": "Sueño de una Noche de Verano [PDF] - William Shakespeare",
+      "slug": "sueno-de-una-noche-de-verano-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/sueno-de-una-noche-de-verano-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5788",
+      "type": "editorial",
+      "title": "Romeo y Julieta: Un Análisis Profundo de la Tragedia de Shakespeare",
+      "slug": "romeo-y-julieta-un-analisis-profundo-de-la-tragedia-de-shakespeare",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/romeo-y-julieta-un-analisis-profundo-de-la-tragedia-de-shakespeare/",
+      "indexable": true,
+      "updated_at": "2023-09-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "5769",
+      "type": "editorial",
+      "title": "Hamlet: Resumen por Actos, Personajes y Análisis de la Obra",
+      "slug": "hamlet-resumen-por-actos-personajes-y-analisis-de-la-obra",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hamlet-resumen-por-actos-personajes-y-analisis-de-la-obra/",
+      "indexable": true,
+      "updated_at": "2023-09-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "5748",
+      "type": "work",
+      "title": "Romeo y Julieta [PDF] - William Shakespeare",
+      "slug": "romeo-y-julieta-libros-pdf-gratis-shakespeare",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/romeo-y-julieta-libros-pdf-gratis-shakespeare/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5676",
+      "type": "editorial",
+      "title": "¡Descubre Autores Famosos: +20 de Sus Libros en PDF Gratis!",
+      "slug": "libros-pdf-gratis-autores-famosos",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-pdf-gratis-autores-famosos/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5645",
+      "type": "editorial",
+      "title": "Explorando el Concepto de Realidad en Cowboy Bebop",
+      "slug": "explorando-el-concepto-de-realidad-en-cowboy-bebop",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/explorando-el-concepto-de-realidad-en-cowboy-bebop/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "5635",
+      "type": "editorial",
+      "title": "El Dilema de L en Death Note: Su Búsqueda Incansable de Kira",
+      "slug": "el-dilema-de-l-en-death-note-su-busqueda-incansable-de-kira",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-dilema-de-l-en-death-note-su-busqueda-incansable-de-kira/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "5619",
+      "type": "editorial",
+      "title": "El Shinigami Ryuk: Explorando la Doble Moral en \"Death Note\"",
+      "slug": "el-shinigami-ryuk-explorando-la-doble-moral-en-death-note",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-shinigami-ryuk-explorando-la-doble-moral-en-death-note/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "5612",
+      "type": "editorial",
+      "title": "El Shinigami Ryuk: Un Compañero Siniestro",
+      "slug": "el-shinigami-ryuk-un-companero-siniestro",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-shinigami-ryuk-un-companero-siniestro/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "5597",
+      "type": "editorial",
+      "title": "La enfermiza concepción de Light Yagami sobre la justicia",
+      "slug": "la-enfermiza-concepcion-de-light-yagami-sobre-la-justicia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-enfermiza-concepcion-de-light-yagami-sobre-la-justicia/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "5515",
+      "type": "work",
+      "title": "Los viajes de Gulliver [PDF] - Jonathan Swift",
+      "slug": "los-viajes-de-gulliver-pdf-jonathan-swift",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/los-viajes-de-gulliver-pdf-jonathan-swift/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5511",
+      "type": "work",
+      "title": "Moll Flanders [PDF] - Daniel Defoe",
+      "slug": "moll-flanders-pdf-daniel-defoe",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/moll-flanders-pdf-daniel-defoe/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5505",
+      "type": "work",
+      "title": "Amor Excesivo [PDF] - Eliza Haywood",
+      "slug": "amor-excesivo-pdf-eliza-haywood",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/amor-excesivo-pdf-eliza-haywood/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5499",
+      "type": "work",
+      "title": "Robinson Crusoe [PDF] - Daniel Defoe",
+      "slug": "robinson-crusoe-pdf-daniel-defoe",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/robinson-crusoe-pdf-daniel-defoe/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5493",
+      "type": "work",
+      "title": "La princesa de Clèves [PDF] - Madame de La Fayette",
+      "slug": "la-princesa-de-cleves-pdf-madame-de-la-fayette",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-princesa-de-cleves-pdf-madame-de-la-fayette/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5473",
+      "type": "work",
+      "title": "El Libro de Buen Amor [PDF] - Arcipreste de Hita",
+      "slug": "el-libro-de-buen-amor-pdf-arcipreste-de-hita",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-libro-de-buen-amor-pdf-arcipreste-de-hita/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5467",
+      "type": "work",
+      "title": "Cantar de Mio Cid [PDF]",
+      "slug": "cantar-de-mio-cid-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/cantar-de-mio-cid-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5405",
+      "type": "work",
+      "title": "La historia de Genji [PDF] - Murasaki Shikibu",
+      "slug": "la-historia-de-genji-pdf-murasaki-shikibu",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-historia-de-genji-pdf-murasaki-shikibu/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "5390",
+      "type": "work",
+      "title": "Las Mil y Una Noches [PDF]",
+      "slug": "las-mil-y-una-noches-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/las-mil-y-una-noches-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "4646",
+      "type": "editorial",
+      "title": "Libros Para Leer Interesantes. Lecturas del todo imperdibles",
+      "slug": "libros-para-leer-interesantes-lecturas-del-todo-imperdibles",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-para-leer-interesantes-lecturas-del-todo-imperdibles/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "4642",
+      "type": "editorial",
+      "title": "Los Mejores Libros Para Leer en Verano!",
+      "slug": "los-mejores-libros-para-leer-en-verano",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/los-mejores-libros-para-leer-en-verano/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "4618",
+      "type": "editorial",
+      "title": "Descubre joyas literarias ocultas: Libros gratis online que merece la pena leer",
+      "slug": "descubre-joyas-literarias-ocultas-libros-gratis-online-que-merece-la-pena-leer",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descubre-joyas-literarias-ocultas-libros-gratis-online-que-merece-la-pena-leer/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "4603",
+      "type": "editorial",
+      "title": "De Tales a Heráclito: Profundizando en las revolucionarias ideas de los filósofos presocráticos",
+      "slug": "ideas-filosofos-presocraticos",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/ideas-filosofos-presocraticos/",
+      "indexable": true,
+      "updated_at": "2023-07-21"
+    },
+    {
+      "schema_version": 1,
+      "id": "4600",
+      "type": "editorial",
+      "title": "Guía completa para leer 'El extranjero' de Albert Camus en formato PDF",
+      "slug": "guia-leer-el-extranjero-albert-camus-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/guia-leer-el-extranjero-albert-camus-pdf/",
+      "indexable": true,
+      "updated_at": "2023-07-21"
+    },
+    {
+      "schema_version": 1,
+      "id": "4568",
+      "type": "editorial",
+      "title": "Libro El Principito: Resumen por capítulos, personajes del principito y análisis",
+      "slug": "libro-el-principito-personajes-capitulos-resumen",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libro-el-principito-personajes-capitulos-resumen/",
+      "indexable": true,
+      "updated_at": "2024-04-18"
+    },
+    {
+      "schema_version": 1,
+      "id": "4473",
+      "type": "editorial",
+      "title": "Urgente: Debes Leer Libros Gratis Online. Ahora Más Fácil Que Nunca",
+      "slug": "leer-libros-gratis-online-ahora",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/leer-libros-gratis-online-ahora/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "4381",
+      "type": "editorial",
+      "title": "Qué es la inteligencia artificial: 7 hechos que causan TERROR",
+      "slug": "que-es-la-inteligencia-artificial",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/que-es-la-inteligencia-artificial/",
+      "indexable": true,
+      "updated_at": "2023-07-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "4227",
+      "type": "editorial",
+      "title": "+de 20 libros online gratis con los mejores géneros literarios",
+      "slug": "libros-online-gratis-mejores-generos-literarios",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-online-gratis-mejores-generos-literarios/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "4116",
+      "type": "editorial",
+      "title": "10 Páginas Web para Descargar Libros Para leer gratis",
+      "slug": "10-paginas-web-libros-para-leer-gratis",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/10-paginas-web-libros-para-leer-gratis/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "4090",
+      "type": "editorial",
+      "title": "¿Sufres de Ansiedad Social? Descubre 7 Estrategias para Superarla",
+      "slug": "ansiedad-social-como-superarla",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/ansiedad-social-como-superarla/",
+      "indexable": true,
+      "updated_at": "2023-07-09"
+    },
+    {
+      "schema_version": 1,
+      "id": "4019",
+      "type": "editorial",
+      "title": "Anime Cyberpunk: 5 animes que te explotarán la cabeza",
+      "slug": "anime-cyberpunk",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/anime-cyberpunk/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "3990",
+      "type": "editorial",
+      "title": "La Filosofía de Madara Uchiha: el villano utópico y los peligros de la ambición",
+      "slug": "filosofia-madara-uchiha-naruto",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-madara-uchiha-naruto/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "3978",
+      "type": "editorial",
+      "title": "Filosofía y Salud Mental",
+      "slug": "filosofia-y-salud-mental",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-y-salud-mental/",
+      "indexable": true,
+      "updated_at": "2023-07-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "3976",
+      "type": "editorial",
+      "title": "Filosofía y educación",
+      "slug": "filosofia-y-educacion",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-y-educacion/",
+      "indexable": true,
+      "updated_at": "2023-07-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "3973",
+      "type": "editorial",
+      "title": "Filosofía y Feminismo",
+      "slug": "filosofia-y-feminismo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-y-feminismo/",
+      "indexable": true,
+      "updated_at": "2023-07-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "3971",
+      "type": "editorial",
+      "title": "Filosofía y política",
+      "slug": "filosofia-y-politica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-y-politica/",
+      "indexable": true,
+      "updated_at": "2023-07-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "3965",
+      "type": "editorial",
+      "title": "Filosofía y espiritualidad",
+      "slug": "filosofia-y-espiritualidad",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-y-espiritualidad/",
+      "indexable": true,
+      "updated_at": "2023-07-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "3952",
+      "type": "editorial",
+      "title": "Filosofía y Ciencia",
+      "slug": "filosofia-y-ciencia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-y-ciencia/",
+      "indexable": true,
+      "updated_at": "2023-07-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "3950",
+      "type": "editorial",
+      "title": "Filosofía y Tecnología",
+      "slug": "filosofia-y-tecnologia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-y-tecnologia/",
+      "indexable": true,
+      "updated_at": "2023-07-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "3937",
+      "type": "editorial",
+      "title": "Filosofía y Anime",
+      "slug": "filosofia-y-anime",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-y-anime/",
+      "indexable": true,
+      "updated_at": "2023-07-09"
+    },
+    {
+      "schema_version": 1,
+      "id": "3919",
+      "type": "editorial",
+      "title": "Jujutsu Kaisen: ¿Hay filosofía tras la maldición?",
+      "slug": "jujutsu-kaisen-la-filosofia-de-accion-en-el-manga-en-un-viaje-epico",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/jujutsu-kaisen-la-filosofia-de-accion-en-el-manga-en-un-viaje-epico/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "3649",
+      "type": "editorial",
+      "title": "De la embriaguez a la iluminación: Desentrañando los misterios del Filosofo Borracho",
+      "slug": "embriaguez-a-iluminacion-misterios-del-filosofo-borracho",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/embriaguez-a-iluminacion-misterios-del-filosofo-borracho/",
+      "indexable": true,
+      "updated_at": "2023-07-03"
+    },
+    {
+      "schema_version": 1,
+      "id": "3639",
+      "type": "editorial",
+      "title": "Los 10 Filósofos Más Importantes de la Historia",
+      "slug": "los-filosofos-mas-importantes-de-la-historia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/los-filosofos-mas-importantes-de-la-historia/",
+      "indexable": true,
+      "updated_at": "2024-05-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "3167",
+      "type": "editorial",
+      "title": "¿Qué relevancia tiene la filosofía hoy en día?",
+      "slug": "importancia-filosofia-hoy",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/importancia-filosofia-hoy/",
+      "indexable": true,
+      "updated_at": "2023-03-24"
+    },
+    {
+      "schema_version": 1,
+      "id": "3130",
+      "type": "editorial",
+      "title": "La Filosofía Moderna: Descartes, Spinoza, Leibniz, Locke, Hume y Kant",
+      "slug": "la-filosofia-moderna-descartes-spinoza-leibniz-locke-hume-y-kant",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-filosofia-moderna-descartes-spinoza-leibniz-locke-hume-y-kant/",
+      "indexable": true,
+      "updated_at": "2023-11-26"
+    },
+    {
+      "schema_version": 1,
+      "id": "3109",
+      "type": "editorial",
+      "title": "¿Por qué estudiar filosofía? Aquí 10 razones para hacerlo",
+      "slug": "por-que-estudiar-filosofia-beneficios",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/por-que-estudiar-filosofia-beneficios/",
+      "indexable": true,
+      "updated_at": "2023-03-15"
+    },
+    {
+      "schema_version": 1,
+      "id": "3089",
+      "type": "editorial",
+      "title": "¿Qué es Filosofía ética y qué no? Definición y Características",
+      "slug": "que-es-filosofia-etica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/que-es-filosofia-etica/",
+      "indexable": true,
+      "updated_at": "2023-03-15"
+    },
+    {
+      "schema_version": 1,
+      "id": "3070",
+      "type": "editorial",
+      "title": "¿Qué es filosofía? Descubre su definición y origen",
+      "slug": "que-es-filosofia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/que-es-filosofia/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "2846",
+      "type": "editorial",
+      "title": "+20 libros de filosofía sobre Filosofía De La Mente gratis [PDF]",
+      "slug": "libros-filosofia-de-la-mente-gratis-pdf-biblioteca-virtual-filosofia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-filosofia-de-la-mente-gratis-pdf-biblioteca-virtual-filosofia/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "2769",
+      "type": "editorial",
+      "title": "La Filosofía del Renacimiento y el Humanismo: Nicolás de Cusa, Marsilio Ficino, Pico della Mirandola y Giordano Bruno",
+      "slug": "filosofia-renacimiento-humanismo-nicolas-cusa-marsilio-ficino-pico-della-mirandola-giordano-bruno",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-renacimiento-humanismo-nicolas-cusa-marsilio-ficino-pico-della-mirandola-giordano-bruno/",
+      "indexable": true,
+      "updated_at": "2023-09-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "2676",
+      "type": "editorial",
+      "title": "+20 libros de filosofía sobre Filosofía Del Lenguaje gratis [PDF]",
+      "slug": "libros-filosofia-del-lenguaje-gratis-pdf-biblioteca-virtual-filosofia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-filosofia-del-lenguaje-gratis-pdf-biblioteca-virtual-filosofia/",
+      "indexable": true,
+      "updated_at": "2025-08-26"
+    },
+    {
+      "schema_version": 1,
+      "id": "2592",
+      "type": "editorial",
+      "title": "+20 libros de filosofía sobre Filosofía Política gratis [PDF]",
+      "slug": "libros-filosofia-politica-gratis-pdf-biblioteca-virtual-filosofica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-filosofia-politica-gratis-pdf-biblioteca-virtual-filosofica/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "2544",
+      "type": "editorial",
+      "title": "Filosofía medieval: el pensamiento cristiano, San Agustín, Santo Tomás de Aquino y la filosofía islámica",
+      "slug": "filosofia-medieval-pensamiento-cristiano-san-agustin-santo-tomas-de-aquino-filosofia-islamica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-medieval-pensamiento-cristiano-san-agustin-santo-tomas-de-aquino-filosofia-islamica/",
+      "indexable": true,
+      "updated_at": "2023-09-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "2317",
+      "type": "editorial",
+      "title": "+20 libros de filosofía sobre Filosofía de la Ciencia gratis [PDF]",
+      "slug": "libros-filosofia-de-la-ciencia-gratis-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-filosofia-de-la-ciencia-gratis-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "2369",
+      "type": "editorial",
+      "title": "Leo Messi, la filosofía detrás de su juego",
+      "slug": "leo-messi-la-filosofia-detras-de-su-juego",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/leo-messi-la-filosofia-detras-de-su-juego/",
+      "indexable": true,
+      "updated_at": "2023-02-18"
+    },
+    {
+      "schema_version": 1,
+      "id": "2307",
+      "type": "editorial",
+      "title": "+20 libros de filosofía sobre Lógica gratis [PDF]",
+      "slug": "libros-filosofia-logica-gratis-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-filosofia-logica-gratis-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "2243",
+      "type": "editorial",
+      "title": "+20 libros de filosofía sobre metafísica gratis [PDF]",
+      "slug": "libros-filosofia-metafisica-gratis-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-filosofia-metafisica-gratis-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "2021",
+      "type": "editorial",
+      "title": "+20 libros de filosofía sobre estética gratis [PDF]",
+      "slug": "libros-filosofia-estetica-gratis-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-filosofia-estetica-gratis-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "1561",
+      "type": "editorial",
+      "title": "Inicio",
+      "slug": "inicio",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/inicio/",
+      "indexable": true,
+      "updated_at": "2023-07-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "1473",
+      "type": "editorial",
+      "title": "+20 libros de filosofía sobre epistemología gratis [PDF]",
+      "slug": "libros-filosofia-epistemologia-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-filosofia-epistemologia-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "1250",
+      "type": "editorial",
+      "title": "+20 libros de filosofía sobre ética gratis [PDF]",
+      "slug": "libros-de-filosofia-sobre-etica-gratis-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-de-filosofia-sobre-etica-gratis-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "1072",
+      "type": "editorial",
+      "title": "Libros",
+      "slug": "libros-gratis-en-online",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/libros-gratis-en-online/",
+      "indexable": true,
+      "updated_at": "2023-07-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "1067",
+      "type": "editorial",
+      "title": "Derechos de Propiedad Intelectual",
+      "slug": "derechos-de-propiedad-intelectual",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/derechos-de-propiedad-intelectual/",
+      "indexable": true,
+      "updated_at": "2023-09-18"
+    },
+    {
+      "schema_version": 1,
+      "id": "1060",
+      "type": "editorial",
+      "title": "Acerca de LaBibliotecaFilosofica",
+      "slug": "acerca-de-labibliotecafilosofica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/acerca-de-labibliotecafilosofica/",
+      "indexable": true,
+      "updated_at": "2023-03-08"
+    },
+    {
+      "schema_version": 1,
+      "id": "921",
+      "type": "editorial",
+      "title": "Colección Historia de la Filosofía de Johannes Hirschberg en PDF",
+      "slug": "coleccion-historia-de-la-filosofia-de-johannes-hirschberg-en-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/coleccion-historia-de-la-filosofia-de-johannes-hirschberg-en-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "900",
+      "type": "editorial",
+      "title": "Colección Historia de la filosofía de Frederick Copleston en PDF",
+      "slug": "coleccion-historia-de-la-filosofia-de-frederick-copleston-en-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/coleccion-historia-de-la-filosofia-de-frederick-copleston-en-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "871",
+      "type": "editorial",
+      "title": "Los Sofistas y la sofistería",
+      "slug": "los-sofistas-y-la-sofisteria",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/los-sofistas-y-la-sofisteria/",
+      "indexable": true,
+      "updated_at": "2023-07-10"
+    },
+    {
+      "schema_version": 1,
+      "id": "841",
+      "type": "editorial",
+      "title": "Los filósofos presocráticos y su filosofía",
+      "slug": "los-filosofos-presocraticos",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/los-filosofos-presocraticos/",
+      "indexable": true,
+      "updated_at": "2024-04-18"
+    },
+    {
+      "schema_version": 1,
+      "id": "814",
+      "type": "work",
+      "title": "Fundamentación de la metafísica de las costumbres - Immanuel Kant",
+      "slug": "fundamentacion-de-la-metafisica-de-las-costumbres-immanuel-kant",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/fundamentacion-de-la-metafisica-de-las-costumbres-immanuel-kant/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "810",
+      "type": "editorial",
+      "title": "Crítica de la razón pura - Immanuel Kant",
+      "slug": "critica-de-la-razon-pura-immanuel-kant-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/critica-de-la-razon-pura-immanuel-kant-pdf/",
+      "indexable": true,
+      "updated_at": "2020-09-16"
+    },
+    {
+      "schema_version": 1,
+      "id": "804",
+      "type": "editorial",
+      "title": "IMMANUEL KANT | Respuesta a la pregunta: ¿Qué es la Ilustración? (1784)",
+      "slug": "kant-respuesta-a-que-es-la-ilustracion",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/kant-respuesta-a-que-es-la-ilustracion/",
+      "indexable": true,
+      "updated_at": "2020-09-14"
+    },
+    {
+      "schema_version": 1,
+      "id": "735",
+      "type": "editorial",
+      "title": "Filosofía como disciplina | Filosofía Kaizen",
+      "slug": "filosofia-como-disciplina-filosofia-kaizen",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/filosofia-como-disciplina-filosofia-kaizen/",
+      "indexable": true,
+      "updated_at": "2020-09-11"
+    },
+    {
+      "schema_version": 1,
+      "id": "711",
+      "type": "work",
+      "title": "El viajero y su sombra [PDF] - Friedrich Nietzsche",
+      "slug": "el-viajero-y-su-sombra-friedrich-nietzsche-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-viajero-y-su-sombra-friedrich-nietzsche-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "706",
+      "type": "work",
+      "title": "Sobre verdad y mentira en sentido extramoral [PDF]   -  Friedrich Nietzsche",
+      "slug": "sobre-verdad-y-mentira-en-sentido-extramoral-friedrich-nietzsche-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/sobre-verdad-y-mentira-en-sentido-extramoral-friedrich-nietzsche-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "703",
+      "type": "work",
+      "title": "Cómo se filosofa a martillazos - Friedrich Nietzsche [PDF]",
+      "slug": "como-se-filosofa-a-martillazos-friedrich-nietzsche-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/como-se-filosofa-a-martillazos-friedrich-nietzsche-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "700",
+      "type": "work",
+      "title": "Ecce homo: Cómo se llega a ser lo que se es [PDF] - Friedrich Nietzsche",
+      "slug": "ecce-homo-friedrich-nietzsche-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/ecce-homo-friedrich-nietzsche-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "697",
+      "type": "work",
+      "title": "Humano demasiado humano [PDF] - Friedrich Nietzsche",
+      "slug": "humano-demasiado-humano-friedrich-nietzsche",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/humano-demasiado-humano-friedrich-nietzsche/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "694",
+      "type": "work",
+      "title": "El nacimiento de la tragedia en el espíritu de la música [PDF]- Friedrich Nietzsche",
+      "slug": "el-nacimiento-de-la-tragedia-en-el-espiritu-de-la-musica-pdf-friedrich-nietzsche",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-nacimiento-de-la-tragedia-en-el-espiritu-de-la-musica-pdf-friedrich-nietzsche/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "691",
+      "type": "work",
+      "title": "La genealogía de la moral [PDF] - Friedrich Nietzsche",
+      "slug": "la-genealogia-de-la-moral-pdf-friedrich-nietzsche",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-genealogia-de-la-moral-pdf-friedrich-nietzsche/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "688",
+      "type": "work",
+      "title": "La Gaya Ciencia [PDF] - Friedrich Nietzsche",
+      "slug": "la-gaya-ciencia-pdf-friedrich-nietzsche",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-gaya-ciencia-pdf-friedrich-nietzsche/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "685",
+      "type": "work",
+      "title": "Voluntad de poder [PDF] - Friedrich Nietzsche",
+      "slug": "voluntad-de-poder-pdf-friedrich-nietzsche",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voluntad-de-poder-pdf-friedrich-nietzsche/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "681",
+      "type": "work",
+      "title": "El Anticristo [PDF] - Friedrich Nietzsche",
+      "slug": "el-anticristo-pdf-friedrich-nietzsche",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-anticristo-pdf-friedrich-nietzsche/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "678",
+      "type": "work",
+      "title": "Más allá del bien y del mal [PDF]- Friedrich Nietzsche",
+      "slug": "mas-alla-del-bien-y-del-mal-friedrich-nietzsche",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/mas-alla-del-bien-y-del-mal-friedrich-nietzsche/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "674",
+      "type": "work",
+      "title": "Así habló Zaratustra [PDF] - Friedrich Nietzsche",
+      "slug": "asi-hablo-zaratustra-friedrich-nietzsche",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/asi-hablo-zaratustra-friedrich-nietzsche/",
+      "indexable": true,
+      "updated_at": "2025-08-13"
+    },
+    {
+      "schema_version": 1,
+      "id": "640",
+      "type": "editorial",
+      "title": "Aviso Legal",
+      "slug": "aviso-legal",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/aviso-legal/",
+      "indexable": true,
+      "updated_at": "2023-03-08"
+    },
+    {
+      "schema_version": 1,
+      "id": "635",
+      "type": "work",
+      "title": "Epinomis [PDF] - Platón",
+      "slug": "epinomis-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/epinomis-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "632",
+      "type": "work",
+      "title": "Lisis [PDF]- Platón",
+      "slug": "lisis-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/lisis-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "629",
+      "type": "work",
+      "title": "Laques [PDF]  -  Platón",
+      "slug": "laques-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/laques-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "626",
+      "type": "work",
+      "title": "Critias [PDF]- Platón",
+      "slug": "critias-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/critias-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "623",
+      "type": "work",
+      "title": "Fedro [PDF] -  Platón",
+      "slug": "fedro-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/fedro-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "620",
+      "type": "work",
+      "title": "Apología de Sócrates - Platón",
+      "slug": "apologia-de-socrates-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/apologia-de-socrates-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "617",
+      "type": "work",
+      "title": "Menexeno -  Platón",
+      "slug": "menexeno-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/menexeno-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "614",
+      "type": "work",
+      "title": "Eutidemo - Platón",
+      "slug": "eutidemo-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/eutidemo-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "611",
+      "type": "work",
+      "title": "Cármides - Platón",
+      "slug": "carmides-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/carmides-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "608",
+      "type": "work",
+      "title": "Primer Alcibiades - Platón",
+      "slug": "primer-alcibiades-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/primer-alcibiades-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "605",
+      "type": "work",
+      "title": "Ion - Platón",
+      "slug": "ion-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/ion-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "602",
+      "type": "work",
+      "title": "Crátilo -  Platón",
+      "slug": "cratilo-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/cratilo-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "599",
+      "type": "work",
+      "title": "Eutifrón - Platón",
+      "slug": "eutifron-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/eutifron-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "596",
+      "type": "work",
+      "title": "Criticón - Platón",
+      "slug": "criticon-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/criticon-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "593",
+      "type": "work",
+      "title": "Hipias mayor - Platón",
+      "slug": "hipias-mayor-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hipias-mayor-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "575",
+      "type": "work",
+      "title": "Platón- Timeo [PDF]",
+      "slug": "timeo-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/timeo-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "549",
+      "type": "work",
+      "title": "El Credo [PDF]- Santo Tomás de Aquino",
+      "slug": "santo-tomas-de-aquino-el-credo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/santo-tomas-de-aquino-el-credo/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "466",
+      "type": "editorial",
+      "title": "El origen de la filosofía occidental",
+      "slug": "el-origen-de-la-filosofia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-origen-de-la-filosofia/",
+      "indexable": true,
+      "updated_at": "2023-07-10"
+    },
+    {
+      "schema_version": 1,
+      "id": "458",
+      "type": "editorial",
+      "title": "Colecciones",
+      "slug": "colecciones",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/colecciones/",
+      "indexable": true,
+      "updated_at": "2020-09-30"
+    },
+    {
+      "schema_version": 1,
+      "id": "447",
+      "type": "editorial",
+      "title": "Historia",
+      "slug": "historia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/historia/",
+      "indexable": true,
+      "updated_at": "2023-03-10"
+    },
+    {
+      "schema_version": 1,
+      "id": "437",
+      "type": "work",
+      "title": "Gorgias [PDF] - Platón",
+      "slug": "gorgias-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/gorgias-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "433",
+      "type": "work",
+      "title": "Fedón [PDF] - Platón",
+      "slug": "fedon-platon-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/fedon-platon-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "430",
+      "type": "work",
+      "title": "El Banquete - Platón [PDF]",
+      "slug": "el-banquete-platon-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/el-banquete-platon-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "373",
+      "type": "work",
+      "title": "La República [PDF] - Platón",
+      "slug": "la-republica-platon",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-republica-platon/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "7",
+      "type": "editorial",
+      "title": "Un filtro para Descartes | ¿Un nuevo paradigma de belleza?",
+      "slug": "un-filtro-para-descartes-un-nuevo-paradigma-de-belleza",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/un-filtro-para-descartes-un-nuevo-paradigma-de-belleza/",
+      "indexable": true,
+      "updated_at": "2023-02-18"
+    },
+    {
+      "schema_version": 1,
+      "id": "8",
+      "type": "editorial",
+      "title": "Colección Filosofía en 90 minutos en PDF",
+      "slug": "coleccion-filosofia-en-90-minutos-en-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/coleccion-filosofia-en-90-minutos-en-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "10",
+      "type": "editorial",
+      "title": "Colección Descubrir La Filosofía en PDF",
+      "slug": "coleccion-descubrir-la-filosofia-en-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/coleccion-descubrir-la-filosofia-en-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "11",
+      "type": "work",
+      "title": "Karl Marx, Friederich Engels - Cartas sobre las ciencias de la naturaleza y las matemáticas",
+      "slug": "karl-marx-friederich-engels-cartas-sobre-las-ciencias-de-la-naturaleza-y-las-matematicas",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/karl-marx-friederich-engels-cartas-sobre-las-ciencias-de-la-naturaleza-y-las-matematicas/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "12",
+      "type": "editorial",
+      "title": "Noam Chosmky | Una imperdible entrevista sobre Anarquismo, Marxismo y el futuro posible",
+      "slug": "noam-chosmky-una-imperdible-entrevista-sobre-anarquismo-marxismo-y-el-futuro-posible",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/noam-chosmky-una-imperdible-entrevista-sobre-anarquismo-marxismo-y-el-futuro-posible/",
+      "indexable": true,
+      "updated_at": "2020-09-01"
+    },
+    {
+      "schema_version": 1,
+      "id": "13",
+      "type": "editorial",
+      "title": "Slavoj Žižek | Crítica de un budismo occidental capitalista",
+      "slug": "slavoj-zizek-critica-de-un-budismo-occidental-capitalista",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/slavoj-zizek-critica-de-un-budismo-occidental-capitalista/",
+      "indexable": true,
+      "updated_at": "2020-08-30"
+    },
+    {
+      "schema_version": 1,
+      "id": "25",
+      "type": "work",
+      "title": "Marques de Sade - Los 120 días de Sodoma [PDF]",
+      "slug": "marques-de-sade-los-120-dias-de-sodoma",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-los-120-dias-de-sodoma/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "24",
+      "type": "work",
+      "title": "Marques de Sade - Justine, o los infortunios de la virtud [PDF]",
+      "slug": "marques-de-sade-justine-o-los-infortunios-de-la-virtud",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-justine-o-los-infortunios-de-la-virtud/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "23",
+      "type": "work",
+      "title": "Marques de Sade - Juliette o las prosperidades del vicio [PDF]",
+      "slug": "marques-de-sade-juliette-o-las-prosperidades-del-vicio",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-juliette-o-las-prosperidades-del-vicio/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "22",
+      "type": "work",
+      "title": "Marques de Sade - Los crímenes del amor [PDF]",
+      "slug": "marques-de-sade-los-crimenes-del-amor",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-los-crimenes-del-amor/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "21",
+      "type": "work",
+      "title": "Marques de Sade - Historia de Aline y Valcour",
+      "slug": "marques-de-sade-historia-de-aline-y-valcour",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-historia-de-aline-y-valcour/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "20",
+      "type": "work",
+      "title": "Marques de Sade - Diálogo entre un sacerdote y un moribundo [PDF]",
+      "slug": "marques-de-sade-dialogo-entre-un-sacerdote-y-un-moribundo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-dialogo-entre-un-sacerdote-y-un-moribundo/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "19",
+      "type": "work",
+      "title": "Marques de Sade - Eugenia de Franval [PDF]",
+      "slug": "marques-de-sade-eugenia-de-franval",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-eugenia-de-franval/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "18",
+      "type": "work",
+      "title": "Marques de Sade - Cuentos, historietas y fábulas [PDF]",
+      "slug": "marques-de-sade-cuentos-historietas-y-fabulas",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-cuentos-historietas-y-fabulas/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "17",
+      "type": "work",
+      "title": "Marques de Sade - La marquesa de Gange [PDF]",
+      "slug": "marques-de-sade-la-marquesa-de-gange",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-la-marquesa-de-gange/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "16",
+      "type": "work",
+      "title": "Marques de Sade - Ideas sobre las novelas [PDF]",
+      "slug": "marques-de-sade-ideas-sobre-las-novelas",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-ideas-sobre-las-novelas/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "15",
+      "type": "work",
+      "title": "Marques de Sade - La filosofía en el tocador",
+      "slug": "marques-de-sade-la-filosofia-en-el-tocador",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-la-filosofia-en-el-tocador/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "14",
+      "type": "work",
+      "title": "Marques de Sade - Oxtiern o las desdichas del libertinaje [PDF]",
+      "slug": "marques-de-sade-oxtiern-o-las-desdichas-del-libertinaje",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/marques-de-sade-oxtiern-o-las-desdichas-del-libertinaje/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "27",
+      "type": "work",
+      "title": "Descartes - Meditaciones sobre la existencia de Dios [PDF]",
+      "slug": "descartes-meditaciones-sobre-la-existencia-de-dios",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descartes-meditaciones-sobre-la-existencia-de-dios/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "26",
+      "type": "work",
+      "title": "Descartes - Correspondencia Con Isabel De Bohemia Y Otras Cartas [PDF]",
+      "slug": "descartes-correspondencia-con-isabel-de-bohemia-y-otras-cartas",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descartes-correspondencia-con-isabel-de-bohemia-y-otras-cartas/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "34",
+      "type": "work",
+      "title": "Descartes - Tratado de las pasiones del alma [PDF]",
+      "slug": "descartes-tratado-de-las-pasiones-del-alma",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descartes-tratado-de-las-pasiones-del-alma/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "33",
+      "type": "work",
+      "title": "Descartes - Tratado del hombre [PDF]",
+      "slug": "descartes-tratado-del-hombre",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descartes-tratado-del-hombre/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "32",
+      "type": "work",
+      "title": "Descartes - Los principios de la filosofía [PDF]",
+      "slug": "descartes-los-principios-de-la-filosofia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descartes-los-principios-de-la-filosofia/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "31",
+      "type": "work",
+      "title": "Descartes - Discurso del método [PDF]",
+      "slug": "descartes-discurso-del-metodo-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descartes-discurso-del-metodo-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "30",
+      "type": "work",
+      "title": "Descartes - El Mundo o El Tratado De La Luz [PDF]",
+      "slug": "descartes-el-mundo-o-el-tratado-de-la-luz-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descartes-el-mundo-o-el-tratado-de-la-luz-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "29",
+      "type": "work",
+      "title": "Descartes - Los meteoros [PDF]",
+      "slug": "descartes-los-meteoros",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descartes-los-meteoros/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "28",
+      "type": "work",
+      "title": "Descartes - Meditaciones metafísicas [PDF]",
+      "slug": "descartes-meditaciones-metafisicas",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/descartes-meditaciones-metafisicas/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "35",
+      "type": "editorial",
+      "title": "▷TODO sobre el oráculo de Delfos | Preceptos",
+      "slug": "todo-sobre-el-oraculo-de-delfos",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/todo-sobre-el-oraculo-de-delfos/",
+      "indexable": true,
+      "updated_at": "2023-04-02"
+    },
+    {
+      "schema_version": 1,
+      "id": "43",
+      "type": "work",
+      "title": "Albert Camus -  El hombre rebelde [PDF]",
+      "slug": "albert-camus-el-hombre-rebelde",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-el-hombre-rebelde/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "42",
+      "type": "work",
+      "title": "Albert Camus - El revés y el derecho. Discurso de Suecia [PDF]",
+      "slug": "albert-camus-el-reves-y-el-derecho-discurso-de-suecia-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-el-reves-y-el-derecho-discurso-de-suecia-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "40",
+      "type": "work",
+      "title": "Albert Camus - Los justos [PDF]",
+      "slug": "albert-camus-los-justos-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-los-justos-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "39",
+      "type": "work",
+      "title": "Albert Camus - Cartas a un amigo alemán [PDF]",
+      "slug": "albert-camus-cartas-a-un-amigo-aleman",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-cartas-a-un-amigo-aleman/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "38",
+      "type": "work",
+      "title": "Albert Camus - El malentendido",
+      "slug": "albert-camus-el-malentendido-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-el-malentendido-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "37",
+      "type": "work",
+      "title": "Albert Camus - El exilio y el reino [PDF]",
+      "slug": "albert-camus-el-exilio-y-el-reino",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-el-exilio-y-el-reino/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "36",
+      "type": "work",
+      "title": "Albert Camus - Escritos libertarios [PDF]",
+      "slug": "albert-camus-escritos-libertarios",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-escritos-libertarios/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "53",
+      "type": "work",
+      "title": "Albert Camus - La peste",
+      "slug": "albert-camus-la-peste-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-la-peste-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "51",
+      "type": "work",
+      "title": "Albert Camus - El verano [PDF]",
+      "slug": "albert-camus-el-verano",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-el-verano/",
+      "indexable": true,
+      "updated_at": "2025-08-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "50",
+      "type": "work",
+      "title": "Albert Camus - Bodas [PDF]",
+      "slug": "albert-camus-bodas-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-bodas-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "49",
+      "type": "work",
+      "title": "Albert Camus - Calígula",
+      "slug": "albert-camus-caligula-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-caligula-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "48",
+      "type": "work",
+      "title": "Albert Camus - El mito de Sísifo [PDF]",
+      "slug": "albert-camus-el-mito-de-sisifo-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-el-mito-de-sisifo-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "47",
+      "type": "work",
+      "title": "Albert Camus - Moral y Política",
+      "slug": "albert-camus-politica-y-moral-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-politica-y-moral-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "46",
+      "type": "work",
+      "title": "Albert Camus - El primer hombre [PDF]",
+      "slug": "albert-camus-el-primer-hombre-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-el-primer-hombre-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "45",
+      "type": "work",
+      "title": "Albert Camus - Crónicas (1944-1953) [PDF]",
+      "slug": "albert-camus-cronicas-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-cronicas-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-07"
+    },
+    {
+      "schema_version": 1,
+      "id": "44",
+      "type": "work",
+      "title": "Albert Camus - La caída [PDF]",
+      "slug": "albert-camus-la-caida-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/albert-camus-la-caida-pdf/",
+      "indexable": true,
+      "updated_at": "2025-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "54",
+      "type": "editorial",
+      "title": "Tales de Mileto, ¿el Marck Zuckerberg de la antigua grecia?",
+      "slug": "tales-de-mileto-el-marck-zuckerberg-de-la-antigua-grecia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/tales-de-mileto-el-marck-zuckerberg-de-la-antigua-grecia/",
+      "indexable": true,
+      "updated_at": "2020-08-06"
+    },
+    {
+      "schema_version": 1,
+      "id": "57",
+      "type": "editorial",
+      "title": "4 cortos cuentos de Voltaire que no dejarán indiferente a nadie",
+      "slug": "4-cortos-cuentos-de-voltaire-que-no-dejaran-indiferente-a-nadie",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/4-cortos-cuentos-de-voltaire-que-no-dejaran-indiferente-a-nadie/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "74",
+      "type": "work",
+      "title": "Hannah Arendt - De la historia a la acción",
+      "slug": "hannah-arendt-de-la-historia-a-la-accion",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-de-la-historia-a-la-accion/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "73",
+      "type": "work",
+      "title": "Hannah Arendt - Ensayos de comprensión",
+      "slug": "hannah-arendt-ensayos-de-comprension",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-ensayos-de-comprension/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "72",
+      "type": "work",
+      "title": "Hannah Arendt - Hombres en tiempos de oscuridad",
+      "slug": "hannah-arendt-hombres-en-tiempos-de-oscuridad",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-hombres-en-tiempos-de-oscuridad/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "71",
+      "type": "work",
+      "title": "Voltaire - Así va el mundo",
+      "slug": "voltaire-asi-va-el-mundo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-asi-va-el-mundo/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "70",
+      "type": "work",
+      "title": "Voltaire - El hombre de los cuarenta escudos",
+      "slug": "voltaire-el-hombre-de-los-cuarenta-escudos",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-el-hombre-de-los-cuarenta-escudos/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "69",
+      "type": "work",
+      "title": "Voltaire - El ingenuo",
+      "slug": "voltaire-el-ingenuo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-el-ingenuo/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "68",
+      "type": "work",
+      "title": "Voltaire - Cándido",
+      "slug": "voltaire-candido",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-candido/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "67",
+      "type": "work",
+      "title": "Voltaire - El toro blanco",
+      "slug": "voltaire-el-toro-blanco",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-el-toro-blanco/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "66",
+      "type": "work",
+      "title": "Voltaire - La princesa de Babilonia",
+      "slug": "voltaire-la-princesa-de-babilonia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-la-princesa-de-babilonia/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "65",
+      "type": "work",
+      "title": "Voltaire - Historia de Jenni, o el Sabio y el Ateo",
+      "slug": "voltaire-historia-de-jenni-o-el-sabio-y-el-ateo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-historia-de-jenni-o-el-sabio-y-el-ateo/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "64",
+      "type": "work",
+      "title": "Voltaire - Zadig",
+      "slug": "voltaire-zadig",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-zadig/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "62",
+      "type": "work",
+      "title": "Voltaire - La Henriada",
+      "slug": "voltaire-la-henriada",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-la-henriada/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "61",
+      "type": "work",
+      "title": "Voltaire - Diccionario filosófico",
+      "slug": "voltaire-diccionario-filosofico",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-diccionario-filosofico/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "60",
+      "type": "work",
+      "title": "Voltaire - El siglo de Luis XIV",
+      "slug": "voltaire-el-siglo-de-luis-xiv",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-el-siglo-de-luis-xiv/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "59",
+      "type": "work",
+      "title": "Voltaire - Historia del imperio ruso bajo Pedro el Grande",
+      "slug": "voltaire-historia-del-imperio-ruso-bajo-pedro-el-grande",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-historia-del-imperio-ruso-bajo-pedro-el-grande/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "58",
+      "type": "work",
+      "title": "Voltaire - Tratado sobre la intolerancia",
+      "slug": "voltaire-tratado-sobre-la-intolerancia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/voltaire-tratado-sobre-la-intolerancia/",
+      "indexable": true,
+      "updated_at": "2025-08-05"
+    },
+    {
+      "schema_version": 1,
+      "id": "81",
+      "type": "editorial",
+      "title": "Hannah Arendt - La tradición oculta",
+      "slug": "hannah-arendt-la-tradicion-oculta",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-la-tradicion-oculta/",
+      "indexable": true,
+      "updated_at": "2023-09-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "80",
+      "type": "editorial",
+      "title": "Arendt | Heidegger - Correspondencia 1925-1975",
+      "slug": "arendt-heidegger-correspondencia-1925-1975",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/arendt-heidegger-correspondencia-1925-1975/",
+      "indexable": true,
+      "updated_at": "2023-03-24"
+    },
+    {
+      "schema_version": 1,
+      "id": "79",
+      "type": "editorial",
+      "title": "Hannah Arendt - los origenes del totalitarismo",
+      "slug": "hannah-arendt-los-origenes-del-totalitarismo",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-los-origenes-del-totalitarismo/",
+      "indexable": true,
+      "updated_at": "2023-03-24"
+    },
+    {
+      "schema_version": 1,
+      "id": "78",
+      "type": "editorial",
+      "title": "Hannah Arendt - Eichmann en Jerusalén",
+      "slug": "hannah-arendt-eichmann-en-jerusalen",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-eichmann-en-jerusalen/",
+      "indexable": true,
+      "updated_at": "2023-09-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "77",
+      "type": "editorial",
+      "title": "Hannah Arendt - Sobre la revolución",
+      "slug": "hannah-arendt-sobre-la-revolucion",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-sobre-la-revolucion/",
+      "indexable": true,
+      "updated_at": "2023-09-20"
+    },
+    {
+      "schema_version": 1,
+      "id": "76",
+      "type": "editorial",
+      "title": "Hannah Arendt - Sobre la violencia",
+      "slug": "hannah-arendt-sobre-la-violencia",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-sobre-la-violencia/",
+      "indexable": true,
+      "updated_at": "2023-03-24"
+    },
+    {
+      "schema_version": 1,
+      "id": "75",
+      "type": "editorial",
+      "title": "Hannah Arendt - ¿Qué es la política?",
+      "slug": "hannah-arendt-que-es-la-politica",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-que-es-la-politica/",
+      "indexable": true,
+      "updated_at": "2023-03-24"
+    },
+    {
+      "schema_version": 1,
+      "id": "82",
+      "type": "editorial",
+      "title": "No, Diógenes no tenía  “Síndrome de Diógenes”",
+      "slug": "no-diogenes-no-tenia-sindrome-de-diogenes",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/no-diogenes-no-tenia-sindrome-de-diogenes/",
+      "indexable": true,
+      "updated_at": "2020-08-02"
+    },
+    {
+      "schema_version": 1,
+      "id": "87",
+      "type": "editorial",
+      "title": "Hannah Arendt - La condición humana [PDF]",
+      "slug": "hannah-arendt-la-condicion-humana",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-la-condicion-humana/",
+      "indexable": true,
+      "updated_at": "2023-07-29"
+    },
+    {
+      "schema_version": 1,
+      "id": "86",
+      "type": "work",
+      "title": "La vida del espíritu [PDF]- Hannah Arendt",
+      "slug": "hannah-arendt-la-vida-del-espiritu",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-la-vida-del-espiritu/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "85",
+      "type": "work",
+      "title": "La pluralidad del mundo [PDF] - Hannah Arendt",
+      "slug": "la-pluralidad-del-mundo-hannah-arendt-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "publisher-link",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/la-pluralidad-del-mundo-hannah-arendt-pdf/",
+      "indexable": true,
+      "updated_at": "2023-11-19"
+    },
+    {
+      "schema_version": 1,
+      "id": "84",
+      "type": "editorial",
+      "title": "La libertad de ser libres [PDF]- Hannah Arendt",
+      "slug": "hannah-arendt-la-libertad-de-ser-libres-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-la-libertad-de-ser-libres-pdf/",
+      "indexable": true,
+      "updated_at": "2023-09-14"
+    },
+    {
+      "schema_version": 1,
+      "id": "83",
+      "type": "editorial",
+      "title": "Hannah Arendt -  Karl Marx y la tradición del pensamiento político occidental [PDF]",
+      "slug": "hannah-arendt-karl-marx-y-la-tradicion-del-pensamiento-politico-occidental-pdf",
+      "language": "es",
+      "author": "Labibliotecafilosofica",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false,
+        "reviewed": false
+      },
+      "access": {
+        "kind": "external-or-editorial",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/hannah-arendt-karl-marx-y-la-tradicion-del-pensamiento-politico-occidental-pdf/",
+      "indexable": true,
+      "updated_at": "2023-03-24"
+    },
+    {
+      "schema_version": 1,
+      "id": "route-introduccion-filosofia",
+      "type": "route",
+      "title": "Una primera entrada a la filosofía",
+      "slug": "rutas/introduccion-a-la-filosofia",
+      "language": "es",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false
+      },
+      "access": {
+        "kind": "internal",
+        "url": "https://labibliotecafilosofica.com/rutas/introduccion-a-la-filosofia/",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/rutas/introduccion-a-la-filosofia/",
+      "indexable": true,
+      "updated_at": "2026-11-12"
+    },
+    {
+      "schema_version": 1,
+      "id": "collection-filosofia",
+      "type": "collection",
+      "title": "Colecciones",
+      "slug": "colecciones",
+      "language": "es",
+      "rights": {
+        "status": "editorial",
+        "redistribution_allowed": false
+      },
+      "access": {
+        "kind": "internal",
+        "url": "https://labibliotecafilosofica.com/colecciones/",
+        "redistribution_allowed": false
+      },
+      "canonical_url": "https://labibliotecafilosofica.com/colecciones/",
+      "indexable": true,
+      "updated_at": "2026-11-12"
+    }
+  ]
+}

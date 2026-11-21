@@ -378,12 +378,15 @@ def add_affiliate(document):
     if not details:
         return document
     document, title, author = details
+    query = quote_plus(f"{title} {author}".strip())
+    # data-query permite a biblioteca.js llevar el enlace a la tienda de Amazon del país del lector.
+    document = re.sub(r'(<a [^>]*href="https://www\.amazon\.es/[^"]*"[^>]*rel="sponsored[^"]*")(?![^>]*data-query)',
+                      lambda m: f'{m.group(1)} data-query="{query}"', document)
     head = document.split(START, 1)[0]
     if 'rel="sponsored' in head or '<div class="actions">' not in head:
         return document
-    query = quote_plus(f"{title} {author}".strip())
     link = (f'<a class="button secondary" href="https://www.amazon.es/s?k={query}&amp;i=stripbooks&amp;tag={AFFILIATE_TAG}" '
-            'rel="sponsored nofollow" data-affiliate>Ver edición en papel ↗</a>')
+            'rel="sponsored nofollow" data-affiliate data-query="{query}">Ver edición en papel ↗</a>')
     start = document.index('<div class="actions">')
     end = document.index("</div>", start)
     return document[:end] + link + document[end:]

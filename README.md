@@ -29,3 +29,7 @@ Los datos privados y la configuración original se conservan en el WXR de origen
 Desde esta carpeta, inicia sesión con `npx vercel login` y ejecuta `npx vercel deploy`. Elige el equipo y el proyecto que correspondan. El despliegue de prueba usa `public/` y sirve `ads.txt` con el registro original. La configuración de revisión envía la cabecera `X-Robots-Tag: noindex`. Si el equipo ofrece protección de despliegue, actívala para limitar el acceso a la vista previa.
 
 AdSense y la plataforma de consentimiento requieren configuración y prueba en el entorno de destino antes de conectar el dominio. El sitio incluye el archivo de autorización publicitaria. La carga de anuncios está pendiente.
+
+## Afiliados de Amazon por país
+
+Los enlaces de compra (`a[data-query]`, los añade `pulir.py`) apuntan a amazon.es. `public/biblioteca.js` consulta `/api/pais` (función de Vercel que lee la cabecera `x-vercel-ip-country`, sin cookies) y, si hay etiqueta configurada en `STORES`, lleva a los lectores de México a amazon.com.mx y al resto de América a amazon.com, con la búsqueda del libro por título y autor. Mientras las etiquetas estén vacías no cambia nada.

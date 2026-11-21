@@ -321,3 +321,29 @@ if(document.querySelector('.reader-v2')){
   section.append(text, button)
   home.after(section)
 })()
+
+// Afiliados de Amazon por país: el lector va a la tienda donde puede comprar.
+// Rellena la etiqueta de cada tienda; mientras esté vacía, los enlaces se quedan en amazon.es.
+;(() => {
+  const STORES = {
+    mx: { host: 'www.amazon.com.mx', tag: '' },  // México
+    us: { host: 'www.amazon.com', tag: '' },     // EE. UU. y resto de América
+  };
+  const AMERICA = ['US', 'AR', 'BO', 'CL', 'CO', 'CR', 'CU', 'DO', 'EC', 'SV', 'GT', 'HN', 'NI', 'PA', 'PY', 'PE', 'PR', 'UY', 'VE'];
+  const links = document.querySelectorAll('a[data-query][href*="amazon.es"]');
+  if (!links.length || !Object.values(STORES).some((store) => store.tag)) return;
+  const apply = (country) => {
+    const store = country === 'MX' ? STORES.mx : AMERICA.includes(country) ? STORES.us : null;
+    if (!store || !store.tag) return;
+    links.forEach((link) => {
+      link.href = `https://${store.host}/s?k=${link.dataset.query}&i=stripbooks&tag=${store.tag}`;
+    });
+  };
+  let cached = null;
+  try { cached = sessionStorage.getItem('biblioteca.pais'); } catch (error) {}
+  if (cached !== null) return apply(cached);
+  fetch('/api/pais').then((response) => response.json()).then(({ country }) => {
+    try { sessionStorage.setItem('biblioteca.pais', country || ''); } catch (error) {}
+    apply(country || '');
+  }).catch(() => {});
+})();

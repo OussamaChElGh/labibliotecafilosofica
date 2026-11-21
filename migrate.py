@@ -834,7 +834,7 @@ def main():
             if not item["is_book"]:
                 continue
             saved_cards.append(f'<li data-saved-route="{escape(item["route"])}" hidden>'
-                               f'<a href="{escape(item["route"])}">{feature(item)}<h2>{escape(item["title"])}</h2></a>'
+                               f'<a href="{escape(item["route"])}">{feature(item).replace("<img ", '<img loading="lazy" ', 1)}<h2>{escape(item["title"])}</h2></a>'
                                f'<button class="remove-saved" type="button" data-remove-route="{escape(item["route"])}" aria-label="Quitar {escape(item["title"])} de mi biblioteca">Quitar de mi biblioteca</button></li>')
         write("/mi-biblioteca/", shell("Mi biblioteca · La Biblioteca Filosófica", "/mi-biblioteca/",
               '<section class="shelf personal-library" data-personal-library><header class="folio-page-head"><p class="eyebrow">Tu próxima lectura</p><h1>Mi biblioteca</h1>'

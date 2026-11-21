@@ -318,6 +318,11 @@
       "source": "/sobre-verdad-y-mentira-en-sentido-extramoral-friedrich-nietzsche/",
       "destination": "/sobre-verdad-y-mentira-en-sentido-extramoral-friedrich-nietzsche-pdf/",
       "permanent": true
+    },
+    {
+      "source": "/categorias/:path*",
+      "destination": "/:path*",
+      "permanent": true
     }
   ],
   "headers": [

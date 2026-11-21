@@ -60,6 +60,9 @@
     },
     "/el-banquete-platon-pdf/": {
       "read_online": "/leer/el-banquete-platon/"
+    },
+    "/apologia-de-socrates-platon/": {
+      "read_online": "/leer/apologia-de-socrates-platon/"
     }
   }
 }

@@ -1,7 +1,7 @@
 """Genera las páginas de lectura online de obras de dominio público.
 
 Cada obra vive en textos/<slug>.txt (un bloque por línea: H| título, P| párrafo,
-N| nota del traductor; las llamadas a nota se marcan como [[n]]) y
+V| verso citado, S| acotación entre paréntesis, N| nota del traductor; las llamadas a nota se marcan como [[n]]) y
 textos/<slug>.json (metadatos y división en capítulos).
 
 Uso, después de migrate.py:  python lectura_completa.py
@@ -175,13 +175,16 @@ def build(meta, blocks):
         paragraphs, used, words = [], [], 0
         for index in range(chapter["start"], chapter["end"] + 1):
             line = blocks[index]
-            if index in skip or not line.startswith("P|"):
+            kind = line[:2]
+            if index in skip or kind not in ("P|", "V|", "S|"):
                 continue
             text = re.sub(r"(\w)- ([a-záéíóúüñ])", r"\1\2", line[2:].replace("»>", "»"))  # guiones de fin de línea del OCR
             words += len(text.split())
             used += [int(n) for n in re.findall(r"\[\[(\d+)\]\]", text)]
             speaker = f'<strong>{escape(speakers[index])}.</strong> ' if index in speakers else ""
-            paragraphs.append(f"<p>{speaker}{with_note_links(text)}</p>")
+            css = {"V|": "verse", "S|": "stage-note"}.get(kind) or ("continued" if text[:1].islower() else "")
+            attr = f' class="{css}"' if css else ""
+            paragraphs.append(f"<p{attr}>{speaker}{with_note_links(text)}</p>")
         note_list = ""
         if used:
             items = "".join(f'<li id="nota-{n}" value="{n}">{escape(notes.get(n, ""))} <a href="#llamada-{n}" aria-label="Volver al texto">↩</a></li>'

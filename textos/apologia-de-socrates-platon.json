@@ -1,0 +1,88 @@
+{
+  "slug": "apologia-de-socrates-platon",
+  "title": "Apología de Sócrates",
+  "author": "Platón",
+  "author_route": "/libros-pdf-gratis/autores/platon/",
+  "book_route": "/apologia-de-socrates-platon/",
+  "translator": "Patricio de Azcárate",
+  "edition": "Obras completas de Platón, tomo I. Madrid: Medina y Navarro, 1871",
+  "source_url": "https://es.wikisource.org/wiki/Apolog%C3%ADa_de_S%C3%B3crates_(de_Azc%C3%A1rate_tr.)",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "description": "Lee online la Apología de Sócrates de Platón completa y gratis, en la traducción de Patricio de Azcárate (1871), dividida en capítulos: el oráculo de Delfos, el interrogatorio a Melito, la misión de Sócrates y sus últimas palabras ante los jueces.",
+  "intro": "<p>La <em>Apología de Sócrates</em> recoge la defensa que Sócrates pronunció en el año 399 a. C. ante el tribunal de Atenas, acusado de corromper a la juventud y de no creer en los dioses de la ciudad. Sócrates no suplica ni se retracta: explica el sentido de su vida filosófica, interroga a su acusador Melito y, ya condenado, habla con serenidad sobre la muerte.</p><p>Aquí puedes leer la obra completa, dividida en capítulos según los momentos del juicio, con las notas del traductor. Se respeta la ortografía de la edición de 1871, por eso verás «á» como preposición o «razon» sin tilde.</p>",
+  "skip": [
+    12
+  ],
+  "chapters": [
+    {
+      "slug": "argumento",
+      "title": "Argumento",
+      "summary": "Resumen de la obra que acompaña a la edición de 1871.",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "slug": "los-primeros-acusadores",
+      "title": "Los primeros acusadores",
+      "summary": "Sócrates pide hablar con su lenguaje de siempre y responde primero a las viejas calumnias: ni es un físico como el de la comedia de Aristófanes ni cobra por enseñar como los sofistas.",
+      "start": 13,
+      "end": 26
+    },
+    {
+      "slug": "el-oraculo-de-delfos",
+      "title": "El oráculo de Delfos",
+      "summary": "El oráculo declara que nadie es más sabio que Sócrates. Él interroga a políticos, poetas y artesanos y descubre que su sabiduría consiste en saber que no sabe.",
+      "start": 27,
+      "end": 39
+    },
+    {
+      "slug": "interrogatorio-a-melito",
+      "title": "Interrogatorio a Melito",
+      "summary": "Sócrates pregunta a su acusador quién hace mejores a los jóvenes y le hace contradecirse: no se puede acusar a alguien de creer en los demonios y a la vez de no creer en los dioses.",
+      "start": 40,
+      "end": 79
+    },
+    {
+      "slug": "la-mision-de-socrates",
+      "title": "La misión de Sócrates",
+      "summary": "Sócrates no teme la muerte y no abandonará el puesto que el dios le ha asignado: ser el tábano que despierta a Atenas. Habla de su voz interior y de las veces que se negó a obrar injustamente.",
+      "start": 80,
+      "end": 101
+    },
+    {
+      "slug": "ni-maestro-ni-suplicante",
+      "title": "Ni maestro ni suplicante",
+      "summary": "Nunca ha cobrado por enseñar ni ha tenido discípulos. Tampoco llevará a sus hijos ante el tribunal para conmover a los jueces: eso sería indigno de él y de la ciudad.",
+      "start": 102,
+      "end": 113
+    },
+    {
+      "slug": "que-pena-merezco",
+      "title": "¿Qué pena merezco?",
+      "summary": "Declarado culpable por pocos votos, Sócrates debe proponer su propia pena. Pide ser mantenido en el Pritaneo como un benefactor y acaba ofreciendo una multa.",
+      "start": 114,
+      "end": 120
+    },
+    {
+      "slug": "despues-de-la-condena",
+      "title": "Después de la condena",
+      "summary": "Condenado a muerte, Sócrates advierte a quienes le han condenado y consuela a quienes le absolvieron: la muerte es un sueño sin sueños o el viaje a un lugar donde conversar con los antiguos.",
+      "start": 121,
+      "end": 129
+    }
+  ],
+  "cover": {
+    "color": "burdeos",
+    "number": 2,
+    "art": {
+      "file": "apologia.jpg",
+      "focus": [
+        0.6,
+        0.5
+      ],
+      "url": "/leer/apologia-de-socrates-platon/ilustracion.jpg",
+      "credit": "Jacques-Louis David, «La muerte de Sócrates» (1787), Metropolitan Museum of Art, Nueva York. Dominio público, vía Wikimedia Commons."
+    }
+  }
+}

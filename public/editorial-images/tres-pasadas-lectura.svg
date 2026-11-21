@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" role="img" aria-labelledby="title desc">
+<title id="title">Tres pasadas para leer un libro difícil</title><desc id="desc">Orientarse, seguir el argumento y reconstruir lo leído.</desc>
+<rect width="960" height="470" rx="28" fill="#ede6d8"/>
+<text x="55" y="67" fill="#463c31" font-family="Georgia,serif" font-size="26">Un texto, tres preguntas</text>
+<path d="M80 346 H880" stroke="#bbab93" stroke-width="2"/>
+<g font-family="Arial,sans-serif">
+<rect x="55" y="104" width="265" height="222" rx="18" fill="#183f38"/><text x="77" y="155" fill="#dac592" font-size="18">01 · ANTES</text><text x="77" y="205" fill="#ffffff" font-size="31" font-family="Georgia,serif">Orientarse</text><text x="77" y="251" fill="#e4ebe5" font-size="17">¿Qué busco en</text><text x="77" y="278" fill="#e4ebe5" font-size="17">este tramo?</text>
+<rect x="347" y="104" width="265" height="222" rx="18" fill="#9b5d3f"/><text x="369" y="155" fill="#f9dfaa" font-size="18">02 · DURANTE</text><text x="369" y="205" fill="#ffffff" font-size="31" font-family="Georgia,serif">Seguir</text><text x="369" y="251" fill="#fff2e9" font-size="17">¿Qué afirma y</text><text x="369" y="278" fill="#fff2e9" font-size="17">por qué?</text>
+<rect x="639" y="104" width="265" height="222" rx="18" fill="#3b3958"/><text x="661" y="155" fill="#e3d3a0" font-size="18">03 · DESPUÉS</text><text x="661" y="205" fill="#ffffff" font-size="31" font-family="Georgia,serif">Reconstruir</text><text x="661" y="251" fill="#eceaf4" font-size="17">¿Puedo explicarlo</text><text x="661" y="278" fill="#eceaf4" font-size="17">con mis palabras?</text>
+<text x="58" y="401" fill="#5c5144" font-size="17">Vuelve al pasaje preciso cuando una respuesta no esté clara.</text>
+</g></svg>

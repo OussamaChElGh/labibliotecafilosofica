@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" role="img" aria-labelledby="title desc">
+<title id="title">Ficha de notas para leer filosofía</title><desc id="desc">Tres columnas para anotar pregunta, argumento y duda.</desc>
+<rect width="960" height="470" rx="28" fill="#e7ded0"/>
+<rect x="72" y="60" width="816" height="350" rx="16" fill="#fffaf0" stroke="#c8baa2" stroke-width="2"/>
+<g font-family="Arial,sans-serif"><text x="105" y="112" fill="#5a463a" font-size="18" letter-spacing="2">FICHA DE LECTURA · 14 DE MARZO</text>
+<rect x="105" y="145" width="220" height="190" rx="12" fill="#183f38"/><text x="128" y="183" fill="#dac592" font-size="16">PREGUNTA</text><text x="128" y="227" fill="#ffffff" font-family="Georgia,serif" font-size="25">¿Qué quiere</text><text x="128" y="259" fill="#ffffff" font-family="Georgia,serif" font-size="25">resolver?</text>
+<rect x="370" y="145" width="220" height="190" rx="12" fill="#9b5d3f"/><text x="393" y="183" fill="#f9dfaa" font-size="16">ARGUMENTO</text><text x="393" y="227" fill="#ffffff" font-family="Georgia,serif" font-size="25">Sostiene…</text><text x="393" y="259" fill="#ffffff" font-family="Georgia,serif" font-size="25">porque…</text>
+<rect x="635" y="145" width="220" height="190" rx="12" fill="#3b3958"/><text x="658" y="183" fill="#e3d3a0" font-size="16">DUDA</text><text x="658" y="227" fill="#ffffff" font-family="Georgia,serif" font-size="25">Tengo que</text><text x="658" y="259" fill="#ffffff" font-family="Georgia,serif" font-size="25">comprobar…</text></g>
+</svg>

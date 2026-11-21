@@ -1,0 +1,73 @@
+@font-face{font-family:Caslon Display;src:url('/fonts/libre-caslon-display.ttf') format('truetype');font-weight:400;font-display:swap}
+.folio-home{--folio-serif:'Caslon Display',Georgia,serif;background:#f7f4ee}
+.folio-site .masthead{position:relative;z-index:10;background:#000;color:#f7f4ee;border:0}
+.folio-site .masthead .bar{max-width:1440px;width:calc(100% - 96px);height:96px;margin:auto;padding:0;gap:24px}
+.folio-site .brand{color:inherit;font-size:20px;line-height:1.05;white-space:nowrap}
+.folio-site .original-logo{width:42px;height:42px}
+.folio-site .main-nav{gap:22px}
+.folio-site .main-nav summary,.folio-site .header-tools a{color:#f7f4ee;font-size:12px}
+.folio-site .nav-panel{color:#161015}
+.folio-site .header-search{background:#f7f4ee;color:#161015!important;border-radius:6px;padding:12px 16px}
+.folio-site .header-tools{gap:22px}
+.folio-hero{position:relative;isolation:isolate;background:#000;color:#f7f4ee;min-height:720px;height:calc(100svh - 96px);max-height:1100px;overflow:hidden}
+.folio-heading{position:relative;z-index:1;padding:24px 24px 0;text-align:center}
+.folio-kicker{font-size:10px;letter-spacing:.22em;color:#b5afa5;margin:0 0 14px}
+.folio-heading h1{font-family:var(--folio-serif);font-weight:400;letter-spacing:-.045em;line-height:.82;margin:0}
+.folio-heading h1>span{display:block;font-size:clamp(80px,15.3vw,245px);white-space:nowrap}
+.folio-heading h1 em{display:block;font-family:var(--folio-serif);font-style:normal;font-size:clamp(32px,5.1vw,82px);letter-spacing:-.025em;margin-top:12px}
+.folio-intro{position:relative;z-index:5;display:flex;align-items:center;justify-content:center;gap:36px;margin-top:28px;text-align:left;width:fit-content;margin-inline:auto}
+.folio-intro p{font-size:16px;letter-spacing:-.025em;line-height:1.5}
+.folio-intro small{display:block;font-size:12px;color:#b5afa5;margin-top:2px}
+.folio-cta{position:relative;background:#f7f4ee;color:#161015;border:1px solid #f7f4ee;border-radius:6px;display:flex;align-items:center;gap:30px;padding:14px 18px;font-size:12px;font-weight:500;min-height:48px;transition:transform .2s,background .2s}
+.folio-cta:hover{transform:translateY(-2px);background:white}
+.folio-cta span{font-size:20px}
+.folio-stage{position:absolute;inset:0;z-index:2;pointer-events:none}
+.folio-stage canvas{width:100%;height:100%;display:block}
+.folio-heading:has(.folio-cta:hover){z-index:3}
+.folio-intro{pointer-events:auto}
+.folio-bottom{position:absolute;bottom:0;left:0;right:0;padding:16px 48px;background:#000;display:flex;align-items:center;justify-content:space-between;gap:24px;z-index:5;font-size:11px;letter-spacing:0}
+.folio-route{border-bottom:1px solid #666;padding:12px 0;display:flex;gap:32px}
+.folio-scroll{display:flex;gap:20px;align-items:center;padding:12px 0}
+.folio-scroll span{font-size:20px}
+.folio-pause{color:#bbb;background:transparent;border:1px solid #444;border-radius:30px;padding:10px 16px;min-height:44px;font-size:10px}
+.folio-selection{max-width:35%;line-height:1.5}
+.folio-selection>span{display:block;font-size:9px;color:#aaa;text-transform:uppercase;letter-spacing:.15em}
+.folio-selection a{display:block;font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding-top:3px}
+.folio-selection small{color:#bbb}
+.folio-shelf{position:relative;z-index:3;margin:45px 0 80px;padding:10px 48px;overflow-x:auto;scrollbar-width:thin;scrollbar-color:#6b655c #000}
+.folio-shelf ul{list-style:none;display:flex;gap:26px;margin:0;padding:0 0 12px;scroll-snap-type:x mandatory}
+.folio-shelf li{flex:0 0 150px;scroll-snap-align:start}
+.folio-shelf a{display:block;padding:3px}
+.folio-shelf img{width:150px;height:225px;object-fit:contain;box-shadow:7px 4px 0 #38352d;transition:transform .3s}
+.folio-shelf a:hover img{transform:translateY(-8px) rotate(-2deg)}
+.folio-shelf span{display:block;font-size:12px;margin-top:15px;line-height:1.4}
+.folio-shelf small{font-size:10px;color:#aaa;line-height:1.4;display:block;margin-top:4px}
+.folio-hero.is-3d .folio-shelf:not(:focus-within){position:absolute;width:1px;height:1px;padding:0;clip-path:inset(50%);overflow:hidden}
+.folio-hero.is-3d .folio-shelf:focus-within{position:absolute;left:0;right:0;bottom:70px;background:#000e;margin:0;padding-block:20px;z-index:6}
+.folio-discover{padding:64px 48px 48px;max-width:1440px;margin:auto;display:grid;grid-template-columns:1fr 1fr;column-gap:64px;align-items:end}
+.folio-discover .eyebrow{font-size:10px;letter-spacing:.12em;margin-bottom:12px}
+.folio-discover h2{font-family:var(--folio-serif);font-size:clamp(36px,4vw,60px);letter-spacing:-.03em}
+.folio-discover form{display:flex;border-bottom:1px solid #161015;padding-bottom:12px;gap:12px}
+.folio-discover input{background:transparent;border:0;min-width:0;width:100%;font-size:15px;padding:12px 0;border-radius:0}
+.folio-discover button{border:0;background:#064c37;color:#f7f4ee;flex:0 0 48px;height:48px;border-radius:50%;font-size:24px}
+.folio-discover nav{grid-column:1/-1;display:flex;gap:32px;border-bottom:1px solid #d9d4cb;padding:36px 0 24px;margin-top:16px;flex-wrap:wrap;font-size:12px}
+.folio-discover nav a{padding:8px 0}
+.folio-discover nav a:hover{text-decoration:underline;text-underline-offset:5px}
+.folio-home .journal{padding-top:24px}
+.folio-home .journal h2{font-family:var(--folio-serif);font-size:clamp(38px,4vw,60px)}
+.folio-home .journal .book-cover{background:transparent}
+@media(min-width:761px) and (max-height:780px){.folio-hero{min-height:660px}.folio-heading h1>span{font-size:clamp(80px,13vw,200px)}.folio-heading h1 em{font-size:50px}.folio-intro{margin-top:22px}}
+@media(max-width:1100px){.folio-site .masthead .bar{width:calc(100% - 48px)}.folio-site .main-nav{gap:12px}.folio-site .main-nav summary{font-size:11px}.folio-site .header-tools{gap:12px}.folio-site .personal-link{display:none}.folio-bottom{padding-inline:24px}.folio-selection{max-width:28%}}
+@media(max-width:760px){
+ .folio-site .masthead .bar{height:auto;min-height:80px;width:calc(100% - 40px);padding:18px 0;display:flex;flex-wrap:wrap;gap:18px}
+ .folio-site .brand{font-size:18px}.folio-site .original-logo{width:34px;height:34px}.folio-site .header-tools{margin-left:auto}.folio-site .header-search{min-height:44px;padding:8px 12px}
+ .folio-site .main-nav{display:flex!important;order:3;width:100%;overflow:visible;justify-content:space-between;gap:5px;margin:0;padding:0}
+ .folio-site .main-nav summary{font-size:10px;padding:12px 0}.folio-site .nav-panel{position:absolute;left:0;right:auto;width:min(290px,85vw)}.folio-site .nav-disclosure:nth-child(n+4) .nav-panel{left:auto;right:0}
+ .folio-site .personal-link{display:none}.folio-hero{height:auto;min-height:0;max-height:none;padding-bottom:24px}
+ .folio-heading{padding:24px 16px 0}.folio-kicker{font-size:8px;letter-spacing:.18em;margin-bottom:25px}.folio-heading h1>span{font-size:15.5vw}.folio-heading h1 em{font-size:10vw;margin-top:10px}
+ .folio-intro{flex-direction:column;text-align:center;gap:20px;margin-top:26px}.folio-intro p{font-size:16px}.folio-intro small{max-width:260px;font-size:12px;margin:6px auto 0}.folio-cta{padding:12px 20px;gap:32px}
+ .folio-shelf{padding:15px 20px;margin:28px 0 20px;scroll-snap-type:x mandatory}.folio-shelf ul{gap:24px}.folio-shelf li{flex-basis:138px}.folio-shelf img{width:138px;height:207px}
+ .folio-bottom{position:relative;inset:auto;display:flex;margin:0 20px;padding:0;gap:16px;align-items:center}.folio-route{font-size:10px;gap:15px}.folio-scroll{font-size:10px;gap:12px}.folio-selection{display:none}.folio-pause{display:none}
+ .folio-discover{display:block;padding:40px 20px 10px}.folio-discover h2{font-size:40px}.folio-discover form{margin-top:24px}.folio-discover input{font-size:13px}.folio-discover nav{gap:10px 24px;margin-top:8px;padding-top:22px;font-size:11px}
+}
+@media(prefers-reduced-motion:reduce){.folio-home *, .folio-home *:before,.folio-home *:after{scroll-behavior:auto!important}.folio-shelf img,.folio-cta{transition:none}.folio-shelf a:hover img{transform:none}}

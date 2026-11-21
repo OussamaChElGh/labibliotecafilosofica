@@ -1,0 +1,323 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "outputDirectory": "public",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/sitemap_index.xml",
+      "destination": "/sitemap.xml",
+      "permanent": true
+    },
+    {
+      "source": "/libros-gratis-en-online/",
+      "destination": "/libros-pdf-gratis/",
+      "permanent": true
+    },
+    {
+      "source": "/albert-camus-caligula/",
+      "destination": "/albert-camus-caligula-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/albert-camus-el-extranjero/",
+      "destination": "/el-extranjero-pdf-albert-camus/",
+      "permanent": true
+    },
+    {
+      "source": "/albert-camus-el-primer-hombre/",
+      "destination": "/albert-camus-el-primer-hombre-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/albert-camus-los-justos/",
+      "destination": "/albert-camus-los-justos-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/albert-camus/",
+      "destination": "/libros-pdf-gratis/autores/albert-camus/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/anime/",
+      "destination": "/articulos/anime/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/aristoteles/",
+      "destination": "/libros-pdf-gratis/autores/aristoteles/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/arte-articulos/",
+      "destination": "/articulos/arte-articulos/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/articulos/",
+      "destination": "/articulos/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/autores/",
+      "destination": "/libros-pdf-gratis/autores/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/biografias/",
+      "destination": "/biografias/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/borges/",
+      "destination": "/libros-pdf-gratis/autores/borges/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/ciencia-ficcion/",
+      "destination": "/libros-pdf-gratis/generos-literarios/ciencia-ficcion/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/cine/",
+      "destination": "/articulos/cine/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/colecciones/",
+      "destination": "/libros-pdf-gratis/colecciones/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/cuentos/",
+      "destination": "/libros-pdf-gratis/cuentos/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/ensayo/",
+      "destination": "/libros-pdf-gratis/ensayo/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/estoicismo/",
+      "destination": "/estoicismo/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/fantasia/",
+      "destination": "/libros-pdf-gratis/fantasia/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/filosofia-pdf/",
+      "destination": "/libros-pdf-gratis/filosofia-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/finanzas/",
+      "destination": "/articulos/finanzas/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/garcia-marquez/",
+      "destination": "/libros-pdf-gratis/autores/garcia-marquez/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/generos-literarios/",
+      "destination": "/libros-pdf-gratis/generos-literarios/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/hannah-arendt/",
+      "destination": "/libros-pdf-gratis/autores/hannah-arendt/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/herman-melville/",
+      "destination": "/libros-pdf-gratis/autores/herman-melville/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/historia/",
+      "destination": "/historia/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/idiomas/",
+      "destination": "/libros-pdf-gratis/idiomas/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/ingles/",
+      "destination": "/libros-pdf-gratis/idiomas/ingles/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/jane-austen/",
+      "destination": "/libros-pdf-gratis/autores/jane-austen/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/japones/",
+      "destination": "/libros-pdf-gratis/idiomas/japones/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/libros-pdf-gratis/",
+      "destination": "/libros-pdf-gratis/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/literatura/",
+      "destination": "/articulos/literatura/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/louisa-may-alcott/",
+      "destination": "/libros-pdf-gratis/autores/louisa-may-alcott/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/marques-de-sade/",
+      "destination": "/libros-pdf-gratis/autores/marques-de-sade/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/medio-ambiente/",
+      "destination": "/articulos/medio-ambiente/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/michael-foucault/",
+      "destination": "/libros-pdf-gratis/autores/michael-foucault/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/miguel-de-cervantes/",
+      "destination": "/libros-pdf-gratis/autores/miguel-de-cervantes/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/musica/",
+      "destination": "/articulos/musica/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/nietzsche/",
+      "destination": "/libros-pdf-gratis/autores/nietzsche/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/novela/",
+      "destination": "/libros-pdf-gratis/novela/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/obras-completas/",
+      "destination": "/obras-completas/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/platon/",
+      "destination": "/libros-pdf-gratis/autores/platon/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/poesia/",
+      "destination": "/libros-pdf-gratis/poesia/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/policiaca/",
+      "destination": "/libros-pdf-gratis/generos-literarios/policiaca/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/psicologia/",
+      "destination": "/articulos/psicologia/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/ramasdelafilosofia/",
+      "destination": "/libros-pdf-gratis/ramasdelafilosofia/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/romance-libros-pdf-gratis/",
+      "destination": "/libros-pdf-gratis/romance-libros-pdf-gratis/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/tecnologia-articulos/",
+      "destination": "/articulos/tecnologia-articulos/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/tomas-de-aquino/",
+      "destination": "/libros-pdf-gratis/autores/tomas-de-aquino/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/voltaire/",
+      "destination": "/libros-pdf-gratis/autores/voltaire/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/william-shakespeare/",
+      "destination": "/libros-pdf-gratis/autores/william-shakespeare/",
+      "permanent": true
+    },
+    {
+      "source": "/coleccion-filosofia-para-profanos-en-pdf/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/como-aprender-japones-desde-cero-guia-completa-libros-pdf-gratuitos/",
+      "destination": "/aprender-japones-guia/",
+      "permanent": true
+    },
+    {
+      "source": "/de-la-embriaguez-a-la-iluminacion-desentranando-los-misterios-del-filosofo-borracho/",
+      "destination": "/embriaguez-a-iluminacion-misterios-del-filosofo-borracho/",
+      "permanent": true
+    },
+    {
+      "source": "/descartes-discurso-del-metodo/",
+      "destination": "/descartes-discurso-del-metodo-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/descartes-el-mundo-o-el-tratado-de-la-luz/",
+      "destination": "/descartes-el-mundo-o-el-tratado-de-la-luz-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/el-viajero-y-su-sombra-friedrich-nietzsche/",
+      "destination": "/el-viajero-y-su-sombra-friedrich-nietzsche-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/la-gaya-ciencia-friedrich-nietzsche/",
+      "destination": "/la-gaya-ciencia-pdf-friedrich-nietzsche/",
+      "permanent": true
+    },
+    {
+      "source": "/libros-pdf-gratis/cuentos-cortos-en-ingles/",
+      "destination": "/cuentos-cortos-en-ingles/",
+      "permanent": true
+    },
+    {
+      "source": "/libros-pdf-gratis/idiomas/10-libros-gratis-en-pdf-y-epub-para-aprender-ingles-para-principiantes/",
+      "destination": "/10-libros-gratis-en-pdf-y-epub-para-aprender-ingles-para-principiantes/",
+      "permanent": true
+    },
+    {
+      "source": "/sobre-verdad-y-mentira-en-sentido-extramoral-friedrich-nietzsche/",
+      "destination": "/sobre-verdad-y-mentira-en-sentido-extramoral-friedrich-nietzsche-pdf/",
+      "permanent": true
+    }
+  ]
+}

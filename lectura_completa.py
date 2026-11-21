@@ -197,7 +197,36 @@ def build(meta, blocks):
         description = f'{chapter["title"]} de {full_title}: texto completo online. {chapter["summary"]}'
         write(route, with_book_assets(shell(f'{chapter["title"]} · {full_title} (texto completo) · La Biblioteca Filosófica',
                            route, body, description[:300], schema=schema), meta))
+    meta["_stats"] = {"chapters": len(rendered), "minutes": minutes(total_words)}
     return routes
+
+
+def duration(total):
+    hours, rest = divmod(total, 60)
+    return f"{hours} h {rest:02d} min" if hours else f"{rest} min"
+
+
+def update_home(metas):
+    """Estante «Leer online gratis» en la portada, entre el buscador y la selección."""
+    home = OUTPUT / "index.html"
+    document = home.read_text(encoding="utf-8")
+    cards = "".join(
+        f'<li><a href="/leer/{escape(m["slug"])}/"><img src="/leer/{escape(m["slug"])}/portada-ficha.jpg" '
+        f'alt="Portada de {escape(m["title"])}, de {escape(m["author"])}" width="400" height="600" loading="lazy">'
+        f'<span class="online-shelf-author">{escape(m["author"])}</span><strong>{escape(m["title"])}</strong>'
+        f'<span class="online-shelf-meta">{m["_stats"]["chapters"]} capítulos · {duration(m["_stats"]["minutes"])}</span>'
+        f'<span class="online-shelf-cta">Leer ahora ↗</span></a></li>' for m in metas)
+    section = ('<!--lectura-completa--><section class="online-shelf" id="leer-online"><div class="online-shelf-intro">'
+               '<p class="eyebrow">Lectura completa · gratis y sin registro</p><h2>Lee las obras completas aquí, página a página.</h2>'
+               '<p>Textos de dominio público en traducciones clásicas, con modo libro, notas y un marcapáginas que recuerda dónde lo dejaste.</p></div>'
+               f'<ul class="online-shelf-list">{cards}</ul></section><!--/lectura-completa-->')
+    if "<!--lectura-completa-->" in document:
+        document = re.sub(r"<!--lectura-completa-->.*?<!--/lectura-completa-->", lambda _: section, document, flags=re.S)
+    else:
+        document = document.replace('<section class="edition-section"', section + '<section class="edition-section"', 1)
+    if 'href="/lector-libro.css"' not in document:
+        document = document.replace("</head>", '<link rel="stylesheet" href="/lector-libro.css"></head>', 1)
+    home.write_text(document, encoding="utf-8")
 
 
 def update_sitemap(routes):
@@ -211,12 +240,14 @@ def update_sitemap(routes):
 
 
 def main():
-    routes = []
+    routes, metas = [], []
     for config in sorted(TEXTS.glob("*.json")):
         meta = json.loads(config.read_text(encoding="utf-8"))
         blocks = (TEXTS / f'{meta["slug"]}.txt').read_text(encoding="utf-8").split("\n")
         routes += build(meta, blocks)
+        metas.append(meta)
     update_sitemap(routes)
+    update_home(sorted(metas, key=lambda m: m.get("cover", {}).get("number", 99)))
     print(f"{len(routes)} páginas de lectura generadas")
 
 

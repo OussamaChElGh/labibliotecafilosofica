@@ -39,5 +39,22 @@
         "image_url": "https://m.media-amazon.com/images/I/51y+tEMUMWL._AC_.jpg"
       }
     ]
+  },
+  "seo": {
+    "/los-sofistas-y-la-sofisteria/": {
+      "title": "Sofistería: significado, origen y quiénes fueron los sofistas · La Biblioteca Filosófica",
+      "description": "Qué es la sofistería y qué significa: origen del término, quiénes fueron los sofistas griegos como Protágoras y Gorgias, y por qué Platón los criticó.",
+      "quick_answer": "<aside class=\"quick-answer\"><p class=\"eyebrow\">Respuesta breve</p><p>La <strong>sofistería</strong> es el uso de razonamientos que parecen válidos pero son engañosos, llamados <em>sofismas</em>, para persuadir en lugar de buscar la verdad. El término procede de los <strong>sofistas</strong>, maestros de retórica de la Grecia del siglo V a. C., como Protágoras y Gorgias, que cobraban por enseñar a argumentar.</p><div class=\"key-ideas\"><strong>1. Sofisma: argumento falso con apariencia de verdad</strong><strong>2. Sofista: en origen «sabio»; después, «manipulador»</strong><strong>3. Relativismo: «el hombre es la medida de todas las cosas»</strong></div><div class=\"quick-links\"><a href=\"/historia-filosofia-socrates-el-metodo-socratico/\">Sócrates frente a los sofistas ↗</a><a href=\"/gorgias-platon/\">Gorgias, de Platón ↗</a><a href=\"/historia-filosofia-en-la-antiguedad/\">Antigüedad ↗</a></div></aside>"
+    },
+    "/embriaguez-a-iluminacion-misterios-del-filosofo-borracho/": {
+      "title": "El filósofo borracho: vino, embriaguez y filosofía · La Biblioteca Filosófica",
+      "description": "¿Quién es el filósofo borracho? Del banquete de Sócrates, que bebía toda la noche sin perder la lucidez, a la relación de otros pensadores con el vino.",
+      "quick_answer": "<aside class=\"quick-answer\"><p class=\"eyebrow\">Respuesta breve</p><p>No hay un único «filósofo borracho». La imagen más célebre procede de <em>El banquete</em> de Platón: los invitados beben y discuten sobre el amor, Alcibíades llega ebrio y, al amanecer, Sócrates es el único que sigue lúcido y conversando. Desde entonces, el vino aparece en la filosofía como prueba de carácter y como tema de reflexión sobre la moderación.</p><div class=\"quick-links\"><a href=\"/el-banquete-platon-pdf/\">El banquete, de Platón ↗</a><a href=\"/historia-filosofia-socrates-el-metodo-socratico/\">Sócrates ↗</a><a href=\"/no-diogenes-no-tenia-sindrome-de-diogenes/\">Diógenes ↗</a></div></aside>"
+    },
+    "/marques-de-sade-los-120-dias-de-sodoma/": {
+      "title": "Los 120 días de Sodoma (Sade): resumen, contexto y PDF · La Biblioteca Filosófica",
+      "description": "Los 120 días de Sodoma, del marqués de Sade: de qué trata, cómo se escribió en la Bastilla, su relación con Saló de Pasolini y cómo leerla.",
+      "quick_answer": "<aside class=\"quick-answer\"><p class=\"eyebrow\">Orientación rápida</p><p><em>Los 120 días de Sodoma</em> es una novela inacabada del marqués de Sade, escrita en 1785 en la Bastilla sobre un rollo de papel de unos doce metros. Narra el encierro de cuatro libertinos en el castillo de Silling. El manuscrito se dio por perdido y no se publicó hasta 1904. Pier Paolo Pasolini la adaptó al cine en <em>Saló o los 120 días de Sodoma</em> (1975).</p><div class=\"key-ideas\"><strong>1. Obra de dominio público: Sade murió en 1814</strong><strong>2. Las traducciones al español pueden tener derechos propios</strong><strong>3. Lectura para adultos: contenido extremadamente explícito</strong></div><div class=\"quick-links\"><a href=\"/libros-pdf-gratis/autores/marques-de-sade/\">Más obras de Sade ↗</a><a href=\"/marques-de-sade-justine-o-los-infortunios-de-la-virtud/\">Justine ↗</a><a href=\"/marques-de-sade-la-filosofia-en-el-tocador/\">La filosofía en el tocador ↗</a></div></aside>"
+    }
   }
 }

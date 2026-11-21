@@ -717,6 +717,11 @@ def main():
             if route == "/que-es-filosofia/":
                 seo = "Qué es la filosofía: definición, ramas, origen y ejemplos · La Biblioteca Filosófica"
                 description = "Qué es la filosofía, de dónde nace, cuáles son sus ramas y por qué sigue siendo útil. Guía clara con autores, corrientes y lecturas para continuar."
+            override = corrections.get("seo", {}).get(route, {})
+            seo = override.get("title", seo)
+            description = override.get("description", description)
+            if override.get("quick_answer"):
+                markup = override["quick_answer"] + markup
             schema = None
             canonical = None
             if route == "/":

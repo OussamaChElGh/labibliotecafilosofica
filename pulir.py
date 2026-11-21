@@ -8,6 +8,9 @@ Quita los restos del WordPress que el exportador arrastra dentro del texto:
 - el widget «¿quieres conocer más libros de…?» con fichas copiadas,
 - el bloque de descarga de Elementor repetido al final de las fichas,
 - párrafos vacíos y títulos sin texto debajo.
+
+Además, en las obras con lectura completa pone la portada de la colección y,
+en todo el sitio, quita «[PDF]» del texto visible (no del <title>).
 """
 import json
 import re
@@ -169,6 +172,16 @@ def polish(document):
     return fix_toc(document, remaining)
 
 
+def strip_pdf_label(document):
+    """«[PDF]» se queda en el título de Google (<title>), pero no en el texto visible."""
+    head_end = document.find("</head>")
+    if head_end < 0:
+        return document
+    body = re.sub(r"\s*\[PDF\]", "", document[head_end:])
+    body = re.sub(r"<h1>(.*?)</h1>", lambda m: "<h1>" + " ".join(m[1].split()) + "</h1>", body, flags=re.S)
+    return document[:head_end] + body
+
+
 def collection_covers():
     """Obras con lectura completa: su portada de la colección sustituye a la imagen antigua.
 
@@ -212,7 +225,7 @@ def main():
     changed = 0
     for page in sorted(OUTPUT.rglob("index.html")):
         original = page.read_text(encoding="utf-8")
-        result = swap_covers(polish(original), swaps)
+        result = strip_pdf_label(swap_covers(polish(original), swaps))
         for _ in range(3):  # Quitar un bloque puede dejar otro vacío: repetir hasta que no cambie.
             again = polish(result)
             if again == result:

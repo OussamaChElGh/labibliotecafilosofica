@@ -87,3 +87,10 @@
 .guide .entry blockquote p{margin:0}
 .guide .entry blockquote .quote-source{font:400 13px/1.4 Inter,sans-serif;margin-top:.8em;letter-spacing:0}
 @media (max-width:640px){.guide .guide-characters{grid-template-columns:1fr;gap:.2em}.guide .guide-characters dd{margin-bottom:.8em}}
+/* Páginas de frases. */
+.quotes-page .quote-card{margin:2.4em 0}
+.quotes-page .quote-card blockquote{margin:0 0 .7em}
+.quotes-page .quote-card .quote-meta{font:400 14px/1.5 Inter,sans-serif;margin:0;opacity:.75}
+.quotes-page .quote-card cite{font-style:italic;color:inherit}
+.quotes-page .quote-actions{display:flex;flex-wrap:wrap;gap:18px;margin:.8em 0 0;font:500 13px/1.4 Inter,sans-serif}
+.quotes-page .quote-actions a{text-decoration:none!important;border-bottom:1px solid currentColor}

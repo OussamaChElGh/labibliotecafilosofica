@@ -37,3 +37,9 @@ Los enlaces de compra (`a[data-query]`, los añade `pulir.py`) apuntan a amazon.
 ## Guía de lectura (resumen) de cada obra
 
 Si `textos/<slug>.json` tiene la clave `guide`, `lectura_completa.py` genera `/leer/<slug>/resumen/`: resumen breve, de qué trata, resumen por capítulos (`guide.chapters`, con enlace a cada capítulo), personajes, ideas principales, frases destacadas y preguntas frecuentes (con datos estructurados `FAQPage`). Cada frase de `guide.quotes` debe aparecer literalmente en el capítulo que indica; si no, el script se detiene. `pulir.py` añade el enlace «Resumen y personajes» en la ficha del libro.
+
+## Páginas de frases
+
+`textos/frases/paginas.json` define las páginas `/frases/<slug>/` (por personaje con `by` o por autor de la obra con `author`). `lectura_completa.py` las genera con las citas comprobadas de las guías (`guide.quotes`, cada una con `by`, quién la dice) y escribe `build/frases.json`. Después, `node frases.mjs` crea una imagen 1080×1080 por frase en `public/frases/img/` para compartir en redes y borra las que ya no se usan.
+
+Orden completo: `python lectura_completa.py && python pulir.py && node portadas.mjs && node frases.mjs`.

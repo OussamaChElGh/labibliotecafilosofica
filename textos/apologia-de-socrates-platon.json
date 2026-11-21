@@ -159,31 +159,73 @@
     "quotes": [
       {
         "text": "él cree saberlo aunque no sepa nada, y yo, no sabiendo nada, creo no saber.",
-        "chapter": "el-oraculo-de-delfos"
+        "chapter": "el-oraculo-de-delfos",
+        "by": "Sócrates"
+      },
+      {
+        "text": "Me parece, pues, que en esto yo, aunque poco más, era mas sabio, porque no creia saber lo que no sabia.",
+        "chapter": "el-oraculo-de-delfos",
+        "by": "Sócrates"
+      },
+      {
+        "text": "Me parece, atenienses, que sólo Dios es el verdadero sabio",
+        "chapter": "el-oraculo-de-delfos",
+        "by": "Sócrates"
       },
       {
         "text": "temer la muerte, atenienses, no es otra cosa que creerse sabio sin serlo, y creer conocer lo que no se sabe.",
-        "chapter": "la-mision-de-socrates"
+        "chapter": "la-mision-de-socrates",
+        "by": "Sócrates"
       },
       {
         "text": "Atenienses, os respeto y os amo; pero obedeceré á Dios ántes que á vosotros, y miéntras yo viva no cesaré de filosofar",
-        "chapter": "la-mision-de-socrates"
+        "chapter": "la-mision-de-socrates",
+        "by": "Sócrates"
       },
       {
         "text": "la virtud no viene de las riquezas, sino por el contrario, que las riquezas vienen de la virtud",
-        "chapter": "la-mision-de-socrates"
+        "chapter": "la-mision-de-socrates",
+        "by": "Sócrates"
+      },
+      {
+        "text": "temeré y huiré siempre de males que sé con certeza que son verdaderos males.",
+        "chapter": "la-mision-de-socrates",
+        "by": "Sócrates"
+      },
+      {
+        "text": "Se me figura que soy yo el que Dios ha escogido para excitaros, para punzaros, para predicaros todos los dias, sin abandonaros un solo instante.",
+        "chapter": "la-mision-de-socrates",
+        "by": "Sócrates"
+      },
+      {
+        "text": "os presento un testigo irrecusable, mi pobreza.",
+        "chapter": "la-mision-de-socrates",
+        "by": "Sócrates"
       },
       {
         "text": "una vida sin exámen no es vida",
-        "chapter": "que-pena-merezco"
+        "chapter": "que-pena-merezco",
+        "by": "Sócrates"
       },
       {
         "text": "no hay ningun mal para el hombre de bien, ni durante su vida, ni despues de su muerte",
-        "chapter": "despues-de-la-condena"
+        "chapter": "despues-de-la-condena",
+        "by": "Sócrates"
       },
       {
         "text": "Pero ya es tiempo de que nos retiremos de aquí, yo para morir, vosotros para vivir.",
-        "chapter": "despues-de-la-condena"
+        "chapter": "despues-de-la-condena",
+        "by": "Sócrates"
+      },
+      {
+        "text": "ó la muerte es un absoluto anonadamiento y una privacion de todo sentimiento, ó, como se dice, es un tránsito del alma de un lugar á otro.",
+        "chapter": "despues-de-la-condena",
+        "by": "Sócrates"
+      },
+      {
+        "text": "¿Entre vosotros y yo, quién lleva la mejor parte? Esto es lo que nadie sabe, excepto Dios.",
+        "chapter": "despues-de-la-condena",
+        "by": "Sócrates"
       }
     ],
     "faq": [

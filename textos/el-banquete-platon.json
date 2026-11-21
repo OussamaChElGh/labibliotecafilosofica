@@ -200,27 +200,53 @@
     "quotes": [
       {
         "text": "Así, pues, están de acuerdo en que el Amor es el más antiguo de los dioses todos.",
-        "chapter": "discurso-de-fedro"
+        "chapter": "discurso-de-fedro",
+        "by": "Fedro"
+      },
+      {
+        "text": "el que ama tiene un no sé qué de más divino que el que es amado, porque en su alma existe un dios",
+        "chapter": "discurso-de-fedro",
+        "by": "Fedro"
+      },
+      {
+        "text": "como hay dos Venus, necesariamente hay dos Amores.",
+        "chapter": "discurso-de-pausanias",
+        "by": "Pausanias"
       },
       {
         "text": "cada mitad hacia esfuerzos para encontrar la otra mitad de que habia sido separada",
-        "chapter": "discurso-de-aristofanes"
+        "chapter": "discurso-de-aristofanes",
+        "by": "Aristófanes"
+      },
+      {
+        "text": "Digo, pues, que de todos los dioses, el Amor, si puede decirse sin ofensa, es el más dichoso, porque es el más bello y el mejor.",
+        "chapter": "discurso-de-agaton",
+        "by": "Agatón"
+      },
+      {
+        "text": "el que desea, desea lo que no está seguro de poseer, lo que no existe al presente, lo que no posee, lo que no tiene, lo que le falta. Esto es, pues, desear y amar.",
+        "chapter": "socrates-y-agaton",
+        "by": "Sócrates"
       },
       {
         "text": "el amor consiste en querer poseer siempre lo bueno.",
-        "chapter": "socrates-y-diotima"
+        "chapter": "socrates-y-diotima",
+        "by": "Diotima"
       },
       {
         "text": "el Amor es amante de la sabiduría, es decir, filósofo",
-        "chapter": "socrates-y-diotima"
+        "chapter": "socrates-y-diotima",
+        "by": "Diotima"
       },
       {
         "text": "si por algo tiene mérito esta vida, es por la contemplacion de la belleza absoluta",
-        "chapter": "socrates-y-diotima"
+        "chapter": "socrates-y-diotima",
+        "by": "Diotima"
       },
       {
         "text": "Sócrates se parece á esos Silenos, que se ven expuestos en los talleres de los estatuarios",
-        "chapter": "discurso-de-alcibiades"
+        "chapter": "discurso-de-alcibiades",
+        "by": "Alcibíades"
       }
     ],
     "faq": [

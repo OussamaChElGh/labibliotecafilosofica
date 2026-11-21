@@ -7,6 +7,7 @@ textos/<slug>.json (metadatos y división en capítulos).
 Uso, después de migrate.py:  python lectura_completa.py
 Escribe public/leer/<slug>/ y añade las URL al sitemap.
 """
+import hashlib
 import json
 import re
 from pathlib import Path
@@ -309,9 +310,16 @@ def write_guide(meta, rendered, total_words, blocks):
     ideas = "".join(f'<h3>{escape(item["title"])}</h3><p>{escape(item["text"])}</p>' for item in guide["ideas"])
     titles = {c["slug"]: c["title"] for c in meta["chapters"]}
     quotes = "".join(
-        f'<blockquote><p>«{"…" if q["text"][:1].islower() else ""}{escape(q["text"])}»</p><p class="quote-source"><cite><a href="{base_route}{q["chapter"]}/">{escape(titles[q["chapter"]])}</a></cite></p></blockquote>'
+        f'<blockquote><p>«{"…" if q["text"][:1].islower() else ""}{escape(q["text"])}»</p><p class="quote-source">{escape(q.get("by", author))} · <cite><a href="{base_route}{q["chapter"]}/">{escape(titles[q["chapter"]])}</a></cite></p></blockquote>'
         for q in guide["quotes"])
     faq = "".join(f'<h3>{escape(item["q"])}</h3><p>{escape(item["a"])}</p>' for item in guide["faq"])
+    speakers = {q.get("by", author) for q in guide["quotes"]}
+    pages_file = TEXTS / "frases" / "paginas.json"
+    quote_pages = [p for p in json.loads(pages_file.read_text(encoding="utf-8"))
+                   if p.get("author") == author or p.get("by") in speakers] if pages_file.exists() else []
+    if quote_pages:
+        quotes += '<p class="guide-link">Más citas: ' + " · ".join(
+            f'<a href="/frases/{p["slug"]}/">{escape(p["title"])}</a>' for p in quote_pages) + '.</p>'
     body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article guide" id="lectura">{breadcrumbs(crumbs)}'
             f'<a class="back-link" href="{meta["book_route"]}">← Ficha del libro</a>'
             f'<header class="folio-article-head"><p class="eyebrow">Guía de lectura · {escape(author)}</p>'
@@ -351,6 +359,82 @@ def write_guide(meta, rendered, total_words, blocks):
               '<link rel="stylesheet" href="/lector-libro.css"></head>')
     write(route, page.replace("</head>", social, 1))
     return route
+
+
+# Páginas de frases (/frases/<slug>/) a partir de las citas comprobadas de las guías.
+# textos/frases/paginas.json define cada página: por personaje («by») o por autor de la obra («author»).
+QUOTES = Path("build/frases.json")
+
+
+def quote_id(meta, quote):
+    return f'{meta["slug"]}-{hashlib.md5(quote["text"].encode("utf-8")).hexdigest()[:8]}'
+
+
+def write_quote_pages(metas):
+    config = TEXTS / "frases" / "paginas.json"
+    if not config.exists():
+        return []
+    cards, routes = {}, []
+    for page in json.loads(config.read_text(encoding="utf-8")):
+        route = f'/frases/{page["slug"]}/'
+        groups = []
+        for meta in metas:
+            if not meta.get("guide") or (page.get("author") and meta["author"] != page["author"]):
+                continue
+            titles = {c["slug"]: c["title"] for c in meta["chapters"]}
+            chosen = [q for q in meta["guide"]["quotes"] if not page.get("by") or q.get("by") == page["by"]]
+            if chosen:
+                groups.append((meta, titles, chosen))
+        total = sum(len(chosen) for _, _, chosen in groups)
+        if not total:
+            continue
+        sections, first_image = "", None
+        for meta, titles, chosen in groups:
+            base_route = f'/leer/{meta["slug"]}/'
+            sections += f'<h2 id="{meta["slug"]}">En {escape(meta["title"])}</h2>'
+            for quote in chosen:
+                qid = quote_id(meta, quote)
+                image = f"/frases/img/{qid}.jpg"
+                first_image = first_image or image
+                color = COVER_COLORS.get(meta.get("cover", {}).get("color"), COVER_COLORS["verde"])
+                cards[qid] = {"id": qid, "text": ("…" if quote["text"][:1].islower() else "") + quote["text"],
+                              "by": quote.get("by", meta["author"]), "work": meta["title"], "color": color}
+                speaker = "" if page.get("by") else f'{escape(quote.get("by", meta["author"]))}, '
+                sections += (f'<div class="quote-card" id="{qid}"><blockquote><p>«{"…" if quote["text"][:1].islower() else ""}{escape(quote["text"])}»</p></blockquote>'
+                             f'<p class="quote-meta">{speaker}<cite>{escape(meta["title"])}</cite> · {escape(titles[quote["chapter"]])}</p>'
+                             f'<p class="quote-actions"><a href="{base_route}{quote["chapter"]}/">Leer en su contexto ↗</a>'
+                             f'<a href="{image}" download>Descargar imagen ↓</a></p></div>')
+            sections += (f'<p class="guide-link">Más sobre esta obra: <a href="{base_route}resumen/">resumen de {escape(meta["title"])}</a> · '
+                         f'<a href="{base_route}">leer {escape(meta["title"])} completo gratis</a>.</p>')
+        crumbs = [("Inicio", "/"), ("Frases", route), (page["title"], route)][::2]
+        related = " · ".join(f'<a href="{href}">{escape(label)}</a>' for href, label in page.get("related", []))
+        faq = "".join(f'<h3>{escape(item["q"])}</h3><p>{escape(item["a"])}</p>' for item in page.get("faq", []))
+        body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article guide quotes-page" id="lectura">{breadcrumbs(crumbs)}'
+                f'<header class="folio-article-head"><p class="eyebrow">Citas comprobadas · {total} frases</p>'
+                f'<h1>{escape(page["title"])}</h1>'
+                f'<div class="reading-meta"><span>Con la obra y el capítulo de cada cita</span><a href="#frases">Ver las frases ↓</a></div></header>'
+                f'<div class="entry" id="texto-obra">{page["intro"]}<div id="frases">{sections}</div>'
+                + (f'<h2 id="preguntas">Preguntas frecuentes</h2>{faq}' if faq else "")
+                + (f'<p class="guide-link">Sigue leyendo: {related}</p>' if related else "")
+                + '<p class="reading-credit">Citas de la traducción de Patricio de Azcárate (Obras completas de Platón, Madrid, 1871), '
+                  'transcrita en Wikisource (CC BY-SA 4.0). Se respeta la ortografía de la edición original. '
+                  'Las imágenes pueden compartirse libremente citando la fuente.</p></div></article>')
+        schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
+            "@type": "Article", "headline": page["title"], "url": BASE + route, "inLanguage": "es",
+            "author": {"@type": "Organization", "name": "La Biblioteca Filosófica", "url": BASE + "/"},
+            "image": BASE + first_image}] + ([{"@type": "FAQPage", "mainEntity": [
+                {"@type": "Question", "name": item["q"], "acceptedAnswer": {"@type": "Answer", "text": item["a"]}}
+                for item in page["faq"]]}] if page.get("faq") else [])}
+        document = shell(page["seo_title"] + " · La Biblioteca Filosófica", route, body, page["description"], schema=schema)
+        social = (f'<meta property="og:type" content="article"><meta property="og:image" content="{BASE}{first_image}">'
+                  f'<meta property="og:image:width" content="1080"><meta property="og:image:height" content="1080">'
+                  f'<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{BASE}{first_image}">'
+                  '<link rel="stylesheet" href="/lector-libro.css"></head>')
+        write(route, document.replace("</head>", social, 1))
+        routes.append(route)
+    QUOTES.parent.mkdir(exist_ok=True)
+    QUOTES.write_text(json.dumps(list(cards.values()), ensure_ascii=False, indent=1), encoding="utf-8")
+    return routes
 
 
 PRINT = Path("build/impresion")
@@ -448,6 +532,7 @@ def main():
         blocks = (TEXTS / f'{meta["slug"]}.txt').read_text(encoding="utf-8").split("\n")
         routes += build(meta, blocks)
         metas.append(meta)
+    routes += write_quote_pages(sorted(metas, key=lambda m: m.get("cover", {}).get("number", 99)))
     update_sitemap(routes)
     update_home(sorted(metas, key=lambda m: m.get("cover", {}).get("number", 99)))
     print(f"{len(routes)} páginas de lectura generadas")

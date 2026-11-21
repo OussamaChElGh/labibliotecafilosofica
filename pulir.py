@@ -9,12 +9,16 @@ Quita los restos del WordPress que el exportador arrastra dentro del texto:
 - el bloque de descarga de Elementor repetido al final de las fichas,
 - párrafos vacíos y títulos sin texto debajo.
 """
+import json
 import re
 from pathlib import Path
 
 from lxml import html as dom
 
 OUTPUT = Path("public")
+TEXTS = Path("textos")
+# Mismos colores que COVER_COLORS en lectura_completa.py.
+SPINES = {"verde": "#143a2c", "burdeos": "#4a1820", "azul": "#16233b", "ocre": "#4f3615", "negro": "#161015"}
 START = '<div class="entry" id="texto-obra">'
 END_MARKERS = ('<div class="terms">', '<section class="related">', '<a class="button secondary" href="#lectura">')
 LEGACY_HEADING = re.compile(r"quieres conocer más (libros|colecciones)", re.I)
@@ -165,11 +169,50 @@ def polish(document):
     return fix_toc(document, remaining)
 
 
+def collection_covers():
+    """Obras con lectura completa: su portada de la colección sustituye a la imagen antigua.
+
+    Devuelve {imagen antigua: (portada nueva, texto alternativo)} y {portada nueva: color del lomo}.
+    """
+    swaps, spines = {}, {}
+    for config in sorted(TEXTS.glob("*.json")):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        ficha = OUTPUT / meta["book_route"].strip("/") / "index.html"
+        if not ficha.exists():
+            continue
+        found = re.search(r'<div class="book-detail"><figure class="featured"><img[^>]*?src="([^"]+)"', ficha.read_text(encoding="utf-8"))
+        new = f'/leer/{meta["slug"]}/portada-ficha.jpg'
+        spines[new] = SPINES.get(meta.get("cover", {}).get("color", "verde"))
+        if found and found[1] != new:
+            swaps[found[1]] = (new, f'Portada de {meta["title"]}, de {meta["author"]}')
+    return swaps, spines
+
+
+def swap_covers(document, swaps):
+    for old, (new, alt) in swaps.items():
+        def replace(match):
+            tag = re.sub(r'\s(srcset|sizes)="[^"]*"', "", match[0]).replace(f'src="{old}"', f'src="{new}"')
+            tag = re.sub(r'\swidth="\d+"\s+height="\d+"', ' width="400" height="600"', tag)
+            return re.sub(r'alt="[^"]*"', f'alt="{alt}"', tag)
+        document = re.sub(r'<img[^>]*?src="' + re.escape(old) + r'"[^>]*>', replace, document)
+    return document
+
+
 def main():
+    swaps, spines = collection_covers()
+    books = OUTPUT / "folio-books.json"
+    if books.exists() and spines:
+        catalog = json.loads(books.read_text(encoding="utf-8"))
+        for item in catalog:
+            if item.get("source") in swaps:
+                item["cover"] = item["source"] = swaps[item["source"]][0]
+            if item.get("source") in spines:
+                item["spineColor"] = spines[item["source"]]
+        books.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     changed = 0
     for page in sorted(OUTPUT.rglob("index.html")):
         original = page.read_text(encoding="utf-8")
-        result = polish(original)
+        result = swap_covers(polish(original), swaps)
         for _ in range(3):  # Quitar un bloque puede dejar otro vacío: repetir hasta que no cambie.
             again = polish(result)
             if again == result:

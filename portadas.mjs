@@ -62,6 +62,7 @@ for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()
   const shots = [
     [coverPage(svg), 600, 900, 5 / 3, 'portada.png'],
     [socialPage(svg, meta), 1200, 630, 1, 'social.png'],
+    [coverPage(svg), 600, 900, 2 / 3, 'portada-ficha.jpg'],  // 400×600, para fichas y tarjetas
   ]
   for (const [html, width, height, scale, name] of shots) {
     await page.setViewportSize({ width, height })
@@ -74,7 +75,8 @@ for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()
       await page.addStyleTag({ content: `html{zoom:${scale}}` })
       await page.evaluate(() => document.fonts.ready)
     }
-    await page.screenshot({ path: join(dir, name), type: 'png' })
+    const jpeg = name.endsWith('.jpg')
+    await page.screenshot({ path: join(dir, name), type: jpeg ? 'jpeg' : 'png', ...(jpeg ? { quality: 86 } : {}) })
   }
   count++
 }

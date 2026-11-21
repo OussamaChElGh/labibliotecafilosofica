@@ -41,9 +41,31 @@ def with_book_assets(document, meta):
 COVER_COLORS = {"verde": "#143a2c", "burdeos": "#4a1820", "azul": "#16233b", "ocre": "#4f3615", "negro": "#161015"}
 
 
-def cover_svg(meta):
-    """Portada común de la colección: cambia el color, el número y los textos."""
+ART = Path("textos/ilustraciones")
+
+
+def art_image(art, x, y, width, height, inline):
+    """Pintura recortada a la ventana de la portada, centrada en el punto de interés (focus 0–1)."""
+    import base64
+    from PIL import Image
+    source = ART / art["file"]
+    with Image.open(source) as image:
+        natural_w, natural_h = image.size
+    scale = max(width / natural_w, height / natural_h)
+    shown_w, shown_h = natural_w * scale, natural_h * scale
+    fx, fy = art.get("focus", [0.5, 0.5])
+    left = min(max(fx * shown_w - width / 2, 0), shown_w - width)
+    top = min(max(fy * shown_h - height / 2, 0), shown_h - height)
+    href = ("data:image/jpeg;base64," + base64.b64encode(source.read_bytes()).decode()) if inline else art["url"]
+    return (f'<image href="{href}" x="{x - left:.1f}" y="{y - top:.1f}" width="{shown_w:.1f}" height="{shown_h:.1f}" '
+            f'clip-path="url(#ventana-{art["clip"]})" preserveAspectRatio="none"/>')
+
+
+def cover_svg(meta, inline=False):
+    """Portada común de la colección: cambia el color, el número, los textos y, si la hay, la pintura."""
     cover = meta.get("cover", {})
+    if cover.get("art"):
+        return cover_art_svg(meta, inline)
     bg = COVER_COLORS.get(cover.get("color", "verde"), cover.get("color", "#143a2c"))
     ink, gold = "#f7f4ee", "#c8a96a"
     words, lines = meta["title"].split(), []
@@ -69,6 +91,46 @@ def cover_svg(meta):
             f'<text x="300" y="{top - size - 28:.0f}" fill="{gold}" font-family="Inter, sans-serif" font-size="20" letter-spacing="7" text-anchor="middle">{escape(meta["author"].upper())}</text>'
             f'<g fill="{ink}" font-family="\'Caslon Display\', Fraunces, Georgia, serif" text-anchor="middle">{title}</g>'
             f'<g stroke="{gold}" stroke-width="1.4" fill="none"><circle cx="300" cy="650" r="54"/><circle cx="300" cy="650" r="20"/>{rays}</g>'
+            f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">Traducción de {escape(meta["translator"])}</text>'
+            f'<text x="300" y="836" fill="{gold}" font-family="Inter, sans-serif" font-size="12" letter-spacing="4" text-anchor="middle">LECTURA COMPLETA · Nº {number}</text>'
+            '</svg>')
+
+
+def cover_art_svg(meta, inline=False):
+    """Variante con pintura de dominio público en una ventana dentro del marco."""
+    cover = meta["cover"]
+    bg = COVER_COLORS.get(cover.get("color", "verde"), cover.get("color", "#143a2c"))
+    ink, gold = "#f7f4ee", "#c8a96a"
+    slug = escape(meta["slug"])
+    art = {**cover["art"], "clip": slug}
+    win = (64, 132, 472, 400)  # x, y, ancho, alto
+    words, lines = meta["title"].split(), []
+    for word in words:
+        if lines and len(lines[-1]) + 1 + len(word) <= 16:
+            lines[-1] += " " + word
+        else:
+            lines.append(word)
+    longest = max(len(line) for line in lines)
+    size = min(70, int(470 / (longest * 0.48)))
+    top = 688 - (len(lines) - 1) * size * 0.5
+    title = "".join(f'<text x="300" y="{top + i * size * 1.05:.0f}" font-size="{size}">{escape(line)}</text>' for i, line in enumerate(lines))
+    number = f'{int(cover.get("number", 1)):02d}'
+    x, y, w, h = win
+    return (f'<svg class="book-cover-art" viewBox="0 0 600 900" role="img" aria-label="Portada de {escape(meta["title"])}, de {escape(meta["author"])}" xmlns="http://www.w3.org/2000/svg">'
+            f'<defs><clipPath id="ventana-{slug}"><rect x="{x}" y="{y}" width="{w}" height="{h}" rx="2"/></clipPath>'
+            f'<linearGradient id="fundido-{slug}" x1="0" y1="0" x2="0" y2="1"><stop offset=".62" stop-color="{bg}" stop-opacity="0"/><stop offset="1" stop-color="{bg}" stop-opacity=".85"/></linearGradient>'
+            f'<radialGradient id="luz-{slug}" cx="50%" cy="30%" r="80%"><stop offset="0" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#000" stop-opacity=".35"/></radialGradient></defs>'
+            f'<rect width="600" height="900" fill="{bg}"/><rect width="600" height="900" fill="url(#luz-{slug})"/>'
+            f'{art_image(art, x, y, w, h, inline)}'
+            f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="url(#fundido-{slug})"/>'
+            f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="none" stroke="{gold}" stroke-width="1.2"/>'
+            f'<rect x="28" y="28" width="544" height="844" fill="none" stroke="{gold}" stroke-width="1.6"/>'
+            f'<rect x="38" y="38" width="524" height="824" fill="none" stroke="{gold}" stroke-width=".7" opacity=".7"/>'
+            f'<text x="300" y="90" fill="{ink}" opacity=".82" font-family="Inter, sans-serif" font-size="13" letter-spacing="4.5" text-anchor="middle">LA BIBLIOTECA FILOSÓFICA</text>'
+            f'<line x1="270" y1="108" x2="330" y2="108" stroke="{gold}" stroke-width="1"/>'
+            f'<text x="300" y="{top - size - 18:.0f}" fill="{gold}" font-family="Inter, sans-serif" font-size="19" letter-spacing="7" text-anchor="middle">{escape(meta["author"].upper())}</text>'
+            f'<g fill="{ink}" font-family="\'Caslon Display\', Fraunces, Georgia, serif" text-anchor="middle">{title}</g>'
+            f'<line x1="282" y1="{top + (len(lines) - 1) * size * 1.05 + 34:.0f}" x2="318" y2="{top + (len(lines) - 1) * size * 1.05 + 34:.0f}" stroke="{gold}" stroke-width="1"/>'
             f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">Traducción de {escape(meta["translator"])}</text>'
             f'<text x="300" y="836" fill="{gold}" font-family="Inter, sans-serif" font-size="12" letter-spacing="4" text-anchor="middle">LECTURA COMPLETA · Nº {number}</text>'
             '</svg>')

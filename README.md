@@ -33,3 +33,7 @@ AdSense y la plataforma de consentimiento requieren configuración y prueba en e
 ## Afiliados de Amazon por país
 
 Los enlaces de compra (`a[data-query]`, los añade `pulir.py`) apuntan a amazon.es. `public/biblioteca.js` consulta `/api/pais` (función de Vercel que lee la cabecera `x-vercel-ip-country`, sin cookies) y lleva a los lectores de América (México incluido, mientras no haya etiqueta de amazon.com.mx) a amazon.com con la etiqueta de EE. UU., con la búsqueda del libro por título y autor. España y el resto siguen en amazon.es.
+
+## Guía de lectura (resumen) de cada obra
+
+Si `textos/<slug>.json` tiene la clave `guide`, `lectura_completa.py` genera `/leer/<slug>/resumen/`: resumen breve, de qué trata, resumen por capítulos (`guide.chapters`, con enlace a cada capítulo), personajes, ideas principales, frases destacadas y preguntas frecuentes (con datos estructurados `FAQPage`). Cada frase de `guide.quotes` debe aparecer literalmente en el capítulo que indica; si no, el script se detiene. `pulir.py` añade el enlace «Resumen y personajes» en la ficha del libro.

@@ -10,6 +10,7 @@ Escribe public/leer/<slug>/ y añade las URL al sitemap.
 import json
 import re
 from pathlib import Path
+from urllib.parse import quote_plus
 
 from migrate import BASE, breadcrumb_schema, breadcrumbs, escape, shell
 
@@ -215,6 +216,7 @@ def build(meta, blocks):
                   f'<p class="actions"><a class="button" href="{start_reading}">Empezar a leer ↗</a>'
                   f'<a class="button secondary" href="{base_route}{slug}.pdf" download>Descargar PDF gratis ↓</a></p>'
                   f'<h2 id="capitulos">Capítulos</h2><ol class="chapter-list">{chapter_links}</ol>{credit(meta)}'
+                  + (f'<p class="guide-link">Guía de lectura: <a href="{guide_route(meta)}">resumen de {escape(meta["title"])} por capítulos, personajes e ideas principales</a>.</p>' if meta.get("guide") else "") +
                   f'<p>¿Quieres orientarte antes de leer? Consulta la <a href="{meta["book_route"]}">ficha de {escape(meta["title"])}</a> '
                   f'y la guía <a href="/por-donde-empezar-a-leer-a-platon/">por dónde empezar a leer a Platón</a>.</p></div></article>')
     index_schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs_index), {
@@ -266,7 +268,89 @@ def build(meta, blocks):
     meta["_stats"] = {"chapters": len(rendered), "minutes": minutes(total_words)}
     write_print_edition(meta, rendered)
     publish_art(meta)
+    if meta.get("guide"):
+        routes.append(write_guide(meta, rendered, total_words, blocks))
     return routes
+
+
+# Guía de la obra: resumen por capítulos, personajes, ideas, frases y preguntas.
+# Se genera si el JSON trae la clave "guide". Ruta: /leer/<slug>/resumen/
+def guide_route(meta):
+    return f'/leer/{meta["slug"]}/resumen/'
+
+
+def check_quotes(meta, blocks):
+    """Cada frase de la guía tiene que estar literalmente en el capítulo que cita."""
+    chapters = {c["slug"]: c for c in meta["chapters"]}
+    for quote in meta["guide"].get("quotes", []):
+        chapter = chapters[quote["chapter"]]
+        text = " ".join(blocks[chapter["start"]:chapter["end"] + 1])
+        if quote["text"] not in re.sub(r"\[\[\d+\]\]", "", text):
+            raise SystemExit(f'Frase no encontrada en {meta["slug"]}/{quote["chapter"]}: {quote["text"][:60]}…')
+
+
+def write_guide(meta, rendered, total_words, blocks):
+    guide = meta["guide"]
+    check_quotes(meta, blocks)
+    slug, base_route, route = meta["slug"], f'/leer/{meta["slug"]}/', guide_route(meta)
+    title, author = meta["title"], meta["author"]
+    query = quote_plus(f"{title} {author}")
+    crumbs = [("Inicio", "/"), ("Libros PDF Gratis", "/libros-pdf-gratis/"), (title, meta["book_route"]), ("Resumen", route)]
+    sections = [("de-que-trata", f"De qué trata {title}"), ("resumen", "Resumen por capítulos"),
+                ("personajes", "Personajes"), ("ideas", "Ideas principales"), ("frases", "Frases destacadas"),
+                ("preguntas", "Preguntas frecuentes")]
+    toc = "".join(f'<li><a href="#{anchor}">{escape(label)}</a></li>' for anchor, label in sections)
+    chapters = "".join(
+        f'<h3 id="cap-{c["slug"]}">{number}. {escape(c["title"])}</h3>'
+        f'<p>{escape(guide.get("chapters", {}).get(c["slug"], c["summary"]))}</p>'
+        f'<p class="guide-read"><a href="{base_route}{c["slug"]}/">Leer «{escape(c["title"])}» completo · {minutes(words)} min ↗</a></p>'
+        for number, (c, _, _, words) in enumerate(rendered, start=1))
+    characters = "".join(f'<dt>{escape(item["name"])}</dt><dd>{escape(item["text"])}</dd>' for item in guide["characters"])
+    ideas = "".join(f'<h3>{escape(item["title"])}</h3><p>{escape(item["text"])}</p>' for item in guide["ideas"])
+    titles = {c["slug"]: c["title"] for c in meta["chapters"]}
+    quotes = "".join(
+        f'<blockquote><p>«{"…" if q["text"][:1].islower() else ""}{escape(q["text"])}»</p><p class="quote-source"><cite><a href="{base_route}{q["chapter"]}/">{escape(titles[q["chapter"]])}</a></cite></p></blockquote>'
+        for q in guide["quotes"])
+    faq = "".join(f'<h3>{escape(item["q"])}</h3><p>{escape(item["a"])}</p>' for item in guide["faq"])
+    body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article guide" id="lectura">{breadcrumbs(crumbs)}'
+            f'<a class="back-link" href="{meta["book_route"]}">← Ficha del libro</a>'
+            f'<header class="folio-article-head"><p class="eyebrow">Guía de lectura · {escape(author)}</p>'
+            f'<h1>{escape(title)}: resumen, personajes y análisis</h1>'
+            f'<div class="reading-meta"><span>{len(rendered)} capítulos · {minutes(total_words)} min para leer la obra completa</span>'
+            f'<a href="#resumen">Ir al resumen ↓</a></div></header>'
+            f'<div class="entry" id="texto-obra">'
+            f'<aside class="quick-answer"><p class="eyebrow">Resumen breve</p><p>{escape(guide["short"])}</p>'
+            f'<div class="quick-links"><a href="{base_route}">Leer {escape(title)} completo gratis ↗</a>'
+            f'<a href="{base_route}{slug}.pdf" download>Descargar el PDF ↓</a>'
+            f'<a href="https://www.amazon.es/s?k={query}&amp;i=stripbooks&amp;tag=labibliote044-21" rel="sponsored nofollow" data-query="{query}">Ver edición en papel ↗</a></div></aside>'
+            f'<details class="toc" open><summary>En esta guía</summary><ol>{toc}</ol></details>'
+            f'<h2 id="de-que-trata">De qué trata {escape(title)}</h2>{guide["intro"]}'
+            f'<h2 id="resumen">Resumen por capítulos</h2>{chapters}'
+            f'<h2 id="personajes">Personajes</h2><dl class="guide-characters">{characters}</dl>'
+            f'<h2 id="ideas">Ideas principales</h2>{ideas}'
+            f'<h2 id="frases">Frases destacadas</h2><p>Citas de la traducción de {escape(meta["translator"])}, con la ortografía de la edición original.</p>{quotes}'
+            f'<h2 id="preguntas">Preguntas frecuentes</h2>{faq}'
+            f'<p class="actions"><a class="button" href="{base_route}">Leer la obra completa ↗</a>'
+            f'<a class="button secondary" href="{base_route}{slug}.pdf" download>Descargar PDF gratis ↓</a></p>'
+            f'<p class="reading-credit">Guía escrita por La Biblioteca Filosófica. Las citas proceden de la traducción de {escape(meta["translator"])} '
+            f'({escape(meta["edition"])}), transcrita en <a href="{escape(meta["source_url"])}">Wikisource</a> '
+            f'(<a href="{escape(meta["license_url"])}">{escape(meta["license"])}</a>).</p></div></article>')
+    schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
+        "@type": "Article", "headline": f"{title}: resumen, personajes y análisis", "url": BASE + route, "inLanguage": "es",
+        "author": {"@type": "Organization", "name": "La Biblioteca Filosófica", "url": BASE + "/"},
+        "image": f'{BASE}/leer/{slug}/social.png',
+        "about": {"@type": "Book", "name": title, "author": {"@type": "Person", "name": author}, "url": BASE + base_route}},
+        {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": item["q"],
+                                              "acceptedAnswer": {"@type": "Answer", "text": item["a"]}} for item in guide["faq"]]}]}
+    page = shell(guide.get("seo_title", f"{title} de {author}: resumen por capítulos, personajes y análisis") + " · La Biblioteca Filosófica",
+                 route, body, guide["description"], schema=schema)
+    image = f'{BASE}/leer/{slug}/social.png'
+    social = (f'<meta property="og:type" content="article"><meta property="og:site_name" content="La Biblioteca Filosófica">'
+              f'<meta property="og:image" content="{image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
+              f'<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{image}">'
+              '<link rel="stylesheet" href="/lector-libro.css"></head>')
+    write(route, page.replace("</head>", social, 1))
+    return route
 
 
 PRINT = Path("build/impresion")

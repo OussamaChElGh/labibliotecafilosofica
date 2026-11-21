@@ -392,6 +392,25 @@ def add_affiliate(document):
     return document[:end] + link + document[end:]
 
 
+def guide_links():
+    """Rutas de ficha → guía de lectura (resumen) de las obras que la tienen."""
+    links = {}
+    for config in sorted(TEXTS.glob("*.json")):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        if meta.get("guide"):
+            links[meta["book_route"]] = (f'/leer/{meta["slug"]}/resumen/', meta["title"])
+    return links
+
+
+def add_guide_link(document, route, links):
+    if route not in links or "data-guide-link" in document:
+        return document
+    href, title = links[route]
+    link = f'<a class="text-link" href="{href}" data-guide-link>Resumen y personajes →</a>'
+    marker = '<a class="text-link" href="#texto-obra">Leer el análisis ↓</a>'
+    return document.replace(marker, marker + link, 1) if marker in document else document
+
+
 def main():
     swaps, spines = collection_covers()
     books = OUTPUT / "folio-books.json"
@@ -416,11 +435,12 @@ def main():
         originals[page], pages[page] = original, result
     # «Sigue explorando»: obras del mismo autor o tema, no las tres primeras de la categoría.
     entries, frequency = related_index(pages)
+    guides = guide_links()
     for page, document in pages.items():
         route = route_of(page)
         if route in entries:
             document = render_related(document, suggestions(route, entries, frequency), entries)
-        pages[page] = add_affiliate(seo_head(document, route))
+        pages[page] = add_guide_link(add_affiliate(seo_head(document, route)), route, guides)
     for page, result in pages.items():
         if result != originals[page]:
             page.write_text(result, encoding="utf-8")

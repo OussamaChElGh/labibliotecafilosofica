@@ -24,6 +24,14 @@ TOOLBAR = ('<div class="reader-toolbar" hidden><a href="/biblioteca/">← Biblio
            '<button data-share-page>Compartir</button></div><span data-reader-status role="status"></span></div>')
 
 
+BOOK_ASSETS = ('<link rel="stylesheet" href="/lector-libro.css"><script>document.documentElement.classList.add("book-js")</script>'
+               '<script defer src="/lector-libro.js"></script></head>')
+
+
+def with_book_assets(document):
+    return document.replace("</head>", BOOK_ASSETS, 1)
+
+
 def minutes(words):
     return max(1, round(words / WORDS_PER_MINUTE))
 
@@ -65,7 +73,7 @@ def build(meta, blocks):
             line = blocks[index]
             if index in skip or not line.startswith("P|"):
                 continue
-            text = line[2:].replace("»>", "»")
+            text = re.sub(r"(\w)- ([a-záéíóúüñ])", r"\1\2", line[2:].replace("»>", "»"))  # guiones de fin de línea del OCR
             words += len(text.split())
             used += [int(n) for n in re.findall(r"\[\[(\d+)\]\]", text)]
             speaker = f'<strong>{escape(speakers[index])}.</strong> ' if index in speakers else ""
@@ -95,6 +103,7 @@ def build(meta, blocks):
                   f'<div class="reading-meta"><span>{len(chapters)} capítulos · {total_words:,} palabras · {minutes(total_words)} min de lectura</span>'
                   f'<a href="{start_reading}">Empezar a leer ↓</a></div></header>'
                   f'<div class="entry" id="texto-obra">{meta["intro"]}'
+                  f'<div class="continue-reading" data-continue-book="{escape(slug)}" hidden></div>'
                   f'<p><a class="button" href="{start_reading}">Empezar a leer ↗</a></p>'
                   f'<h2 id="capitulos">Capítulos</h2><ol class="chapter-list">{chapter_links}</ol>{credit(meta)}'
                   f'<p>¿Quieres orientarte antes de leer? Consulta la <a href="{meta["book_route"]}">ficha de {escape(meta["title"])}</a> '
@@ -106,11 +115,14 @@ def build(meta, blocks):
         "license": meta["license_url"],
         "hasPart": [{"@type": "Chapter", "name": c["title"], "position": i, "url": f'{BASE}{base_route}{c["slug"]}/'}
                     for i, c in enumerate(chapters, start=1)]}]}
-    write(base_route, shell(f'{meta["title"]} de {meta["author"]}: leer online completo y gratis · La Biblioteca Filosófica',
-                            base_route, index_body, meta["description"], schema=index_schema))
+    write(base_route, with_book_assets(shell(f'{meta["title"]} de {meta["author"]}: leer online completo y gratis · La Biblioteca Filosófica',
+                            base_route, index_body, meta["description"], schema=index_schema)))
 
     # Una página por capítulo.
+    done_words = 0
     for number, (chapter, paragraphs, note_list, words) in enumerate(rendered, start=1):
+        progress_start, progress_span = done_words / total_words, words / total_words
+        done_words += words
         route = f'{base_route}{chapter["slug"]}/'
         routes.append(route)
         previous = rendered[number - 2][0] if number > 1 else None
@@ -128,14 +140,20 @@ def build(meta, blocks):
                 f'<header class="folio-article-head"><p class="eyebrow">{escape(full_title)} · Capítulo {number} de {len(rendered)}</p>'
                 f'<h1>{escape(chapter["title"])}</h1>'
                 f'<div class="reading-meta"><span>{minutes(words)} min de lectura</span><a href="#texto-obra">Empezar a leer ↓</a></div></header>'
-                f'<div class="entry" id="texto-obra"><p><em>{escape(chapter["summary"])}</em></p>{paragraphs}{note_list}{pager}{credit(meta)}</div></article>')
+                f'<div class="entry" id="texto-obra">'
+                f'<div class="book" data-book="{escape(slug)}" data-book-title="{escape(meta["title"])}" data-book-route="{base_route}" '
+                f'data-chapter="{number}" data-chapters="{len(rendered)}" data-chapter-title="{escape(chapter["title"])}" '
+                f'data-progress-start="{progress_start:.4f}" data-progress-span="{progress_span:.4f}" '
+                f'data-prev="{base_route + previous["slug"] + "/" if previous else ""}" data-next="{base_route + following["slug"] + "/" if following else ""}">'
+                f'<div class="book-viewport"><div class="book-flow"><p class="book-summary"><em>{escape(chapter["summary"])}</em></p>{paragraphs}{note_list}</div></div></div>'
+                f'{pager}{credit(meta)}</div></article>')
         schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
             "@type": "Chapter", "name": chapter["title"], "position": number, "url": BASE + route,
             "isPartOf": {"@type": "Book", "name": meta["title"], "url": BASE + base_route,
                          "author": {"@type": "Person", "name": meta["author"]}}}]}
         description = f'{chapter["title"]} de {full_title}: texto completo online. {chapter["summary"]}'
-        write(route, shell(f'{chapter["title"]} · {full_title} (texto completo) · La Biblioteca Filosófica',
-                           route, body, description[:300], schema=schema))
+        write(route, with_book_assets(shell(f'{chapter["title"]} · {full_title} (texto completo) · La Biblioteca Filosófica',
+                           route, body, description[:300], schema=schema)))
     return routes
 
 

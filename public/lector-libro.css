@@ -1,0 +1,56 @@
+/* Modo libro para /leer/: páginas que se pasan como en un libro abierto.
+   Sin JavaScript, el texto se lee como una página continua. */
+.book-on{--book-pad-x:56px;--book-pad-y:52px;--book-gap:96px}
+.book-on .book{position:relative;max-width:1180px;margin:0 auto;width:min(1180px,calc(100vw - 32px));left:50%;transform:translateX(-50%)}
+.book-on .book-viewport{position:relative;height:min(calc(100svh - 200px),900px);min-height:420px;overflow:hidden;background:var(--reader-panel);color:var(--reader-ink);
+  border:1px solid var(--reader-line);border-radius:6px 6px 6px 6px;padding:var(--book-pad-y) var(--book-pad-x);
+  box-shadow:0 1px 0 var(--reader-line),0 18px 40px -18px #000a,inset 0 0 60px -30px #0006;touch-action:pan-y;user-select:text;cursor:default}
+.book-on .book.is-spread .book-viewport::after{content:"";position:absolute;top:0;bottom:0;left:50%;width:72px;transform:translateX(-50%);pointer-events:none;
+  background:linear-gradient(90deg,transparent,#0000001f 42%,#00000038 50%,#0000001f 58%,transparent)}
+.book-on .book-flow{height:100%;column-fill:auto;transition:transform .55s cubic-bezier(.22,.61,.36,1);will-change:transform;
+  font-family:var(--reading-font,Georgia,serif);font-size:var(--reading-size,19px);line-height:1.68;hyphens:auto;-webkit-hyphens:auto;text-align:justify}
+.book-on .book-flow p{margin:0 0 1em;orphans:2;widows:2}
+.book-on .book-flow .book-summary{text-align:left;opacity:.8;border-bottom:1px solid var(--reader-line);padding-bottom:1em;margin-bottom:1.2em}
+.book-on .book-flow .reading-notes{break-before:column;font-size:.86em;text-align:left}
+.book-on .book-flow .reading-notes h2{font-size:1.5em;margin:0 0 .8em;break-after:avoid}
+.book-on .book-flow sup a{text-decoration:none;padding:0 2px}
+.book-on .book-flow.is-instant{transition:none}
+/* Destello de paso de página */
+.book-on .book-viewport .book-sheen{position:absolute;inset:0;pointer-events:none;opacity:0;background:linear-gradient(90deg,transparent 0%,#ffffff14 45%,#0000002e 55%,transparent 100%);transform:translateX(100%)}
+.book-on .book-viewport.turn-next .book-sheen{animation:book-sheen-next .55s ease}
+.book-on .book-viewport.turn-prev .book-sheen{animation:book-sheen-prev .55s ease}
+@keyframes book-sheen-next{0%{opacity:0;transform:translateX(60%)}35%{opacity:1}100%{opacity:0;transform:translateX(-60%)}}
+@keyframes book-sheen-prev{0%{opacity:0;transform:translateX(-60%)}35%{opacity:1}100%{opacity:0;transform:translateX(60%)}}
+/* Zonas laterales para pasar página */
+.book-on .book-zone{position:absolute;top:0;bottom:0;width:16%;z-index:2;background:none;border:0;padding:0;cursor:pointer;color:var(--reader-ink);opacity:0;transition:opacity .2s;font-size:28px}
+.book-on .book-zone:hover,.book-on .book-zone:focus-visible{opacity:.55}
+.book-on .book-zone[disabled]{display:none}
+.book-on .book-zone.prev{left:0;text-align:left;padding-left:14px}.book-on .book-zone.next{right:0;text-align:right;padding-right:14px}
+/* Controles bajo el libro */
+.book-controls{display:none}
+.book-on .book-controls{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:16px;margin:18px auto 0;max-width:1180px;color:var(--reader-ink)}
+.book-on .book-controls button{font:inherit;font-size:14px;color:var(--reader-ink);background:transparent;border:1px solid var(--reader-line);border-radius:999px;padding:10px 18px;cursor:pointer}
+.book-on .book-controls button:hover{background:var(--reader-panel)}
+.book-on .book-controls button[disabled]{opacity:.35;cursor:default}
+.book-status{text-align:center;font-size:13px;letter-spacing:.02em}
+.book-status strong{font-weight:600}
+.book-progress{height:3px;background:var(--reader-line);border-radius:3px;margin-top:8px;overflow:hidden}
+.book-progress span{display:block;height:100%;width:0;background:#b8a58a;transition:width .4s ease}
+.book-mode-toggle{display:block;margin:12px auto 0;font:inherit;font-size:13px;color:var(--reader-ink);opacity:.7;background:none;border:0;text-decoration:underline;cursor:pointer}
+.book-on .chapter-pager{display:none}
+.book-bookmark-note{text-align:center;font-size:13px;opacity:.75;margin:10px 0 0;min-height:1.2em}
+/* Seguir leyendo */
+.continue-reading{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;padding:18px 20px;margin:0 0 24px;border:1px solid var(--reader-line,#ccc);border-radius:10px;background:var(--reader-panel,transparent)}
+.continue-reading p{margin:0}
+.continue-reading .continue-bar{flex:1 1 160px;height:4px;background:var(--reader-line,#ddd);border-radius:4px;overflow:hidden}
+.continue-reading .continue-bar span{display:block;height:100%;background:#b8a58a}
+@media (max-width:760px){
+  .book-on{--book-pad-x:22px;--book-pad-y:26px}
+  .book-on .book{width:calc(100vw - 16px)}
+  .book-on .book-viewport{height:calc(100svh - 190px);min-height:380px}
+  .book-on .book-flow{text-align:left;line-height:1.6}
+  .book-on .book-zone{width:22%}
+  .book-on .book-controls{grid-template-columns:auto 1fr auto;gap:8px}
+  .book-on .book-controls button{padding:9px 12px}
+}
+@media (prefers-reduced-motion:reduce){.book-on .book-flow{transition:none}.book-on .book-viewport .book-sheen{display:none}}

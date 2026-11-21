@@ -249,3 +249,38 @@ if(document.querySelector('.reader-v2')){
   if(button.hasAttribute('data-share-page')){try{await navigator.clipboard.writeText(location.origin+location.pathname);toolbar.querySelector('[data-reader-status]').textContent='Enlace copiado.';}catch{toolbar.querySelector('[data-reader-status]').textContent='Puedes copiar el enlace desde la barra de direcciones.';}}
  });
 }
+
+
+// Seguir leyendo: muestra en la portada y en Mi biblioteca el punto donde se dejó cada lectura online.
+// Los datos los guarda lector-libro.js en este navegador. Nunca se insertan como HTML.
+(() => {
+  const library = document.querySelector('[data-personal-library]')
+  const home = location.pathname === '/' ? document.querySelector('main > section') : null
+  if (!library && !home) return
+  let marks = []
+  try {
+    const data = JSON.parse(localStorage.getItem('biblioteca.lectura.v1') || '{}')
+    marks = Object.values(data && typeof data === 'object' ? data : {})
+      .filter(m => m && /^\/leer\/[\w-]+\/([\w-]+\/)?$/.test(m.route || '') && typeof m.bookTitle === 'string')
+      .sort((a, b) => (b.updated || 0) - (a.updated || 0)).slice(0, 3)
+  } catch { return }
+  if (!marks.length) return
+  const section = document.createElement('section')
+  section.className = 'dashboard-route continue-reading-home'
+  const text = document.createElement('div')
+  const eyebrow = Object.assign(document.createElement('p'), { className: 'eyebrow', textContent: 'Seguir leyendo' })
+  const title = Object.assign(document.createElement('h2'), { textContent: marks[0].bookTitle })
+  const pct = Math.max(0, Math.min(100, Math.round((Number(marks[0].progress) || 0) * 100)))
+  const detail = Object.assign(document.createElement('p'), { textContent: `${marks[0].chapterTitle || ''} · ${pct} % leído` })
+  text.append(eyebrow, title, detail)
+  for (const other of marks.slice(1)) {
+    const link = Object.assign(document.createElement('a'), { href: other.route, textContent: `También: ${other.bookTitle} ↗` })
+    const line = document.createElement('p'); line.append(link); text.append(line)
+  }
+  const button = Object.assign(document.createElement('a'), { className: 'button', href: marks[0].route, textContent: 'Continuar donde lo dejaste ↗' })
+  section.append(text, button)
+  const anchor = library && library.querySelector('[data-dashboard-route]')
+  if (anchor) anchor.before(section)
+  else if (library) library.prepend(section)
+  else home.after(section)
+})()

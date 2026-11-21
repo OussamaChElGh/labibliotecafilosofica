@@ -1,0 +1,29 @@
+{
+  "slug": "el-banquete-platon",
+  "title": "El banquete",
+  "author": "Platón",
+  "author_route": "/libros-pdf-gratis/autores/platon/",
+  "book_route": "/el-banquete-platon-pdf/",
+  "translator": "Patricio de Azcárate",
+  "edition": "Obras completas de Platón, tomo V. Madrid: Medina y Navarro, 1871",
+  "source_url": "https://es.wikisource.org/wiki/El_banquete_(de_Azc%C3%A1rate_tr.)",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "description": "Lee online El banquete de Platón completo y gratis, en la traducción de Patricio de Azcárate (1871), dividido en capítulos: los discursos de Fedro, Pausanias, Eriximaco, Aristófanes, Agatón, Sócrates y Alcibíades.",
+  "intro": "<p><em>El banquete</em> es el diálogo de Platón sobre el amor. En casa del poeta Agatón, un grupo de atenienses decide dedicar la velada a pronunciar discursos en honor de Eros. Cada invitado ofrece una visión distinta, hasta que Sócrates relata lo que aprendió de la sacerdotisa Diotima y Alcibíades irrumpe, ebrio, para elogiar al propio Sócrates.</p><p>Aquí puedes leer la obra completa, dividida en capítulos según los discursos, con las notas del traductor. Se respeta la ortografía de la edición de 1871, por eso verás «á» como preposición o «ménos» con tilde.</p>",
+  "speakers": {"18": "Apolodoro", "19": "Amigo de Apolodoro", "20": "Apolodoro", "21": "Amigo de Apolodoro", "22": "Apolodoro"},
+  "skip": [0, 16, 17],
+  "chapters": [
+    {"slug": "argumento", "title": "Argumento", "summary": "Resumen de la obra que acompaña a la edición de 1871.", "start": 0, "end": 15},
+    {"slug": "prologo", "title": "Prólogo: Apolodoro y la llegada al banquete", "summary": "Apolodoro cuenta cómo Aristodemo acompañó a Sócrates a casa de Agatón y cómo los invitados acuerdan beber con moderación y elogiar al Amor.", "start": 18, "end": 55},
+    {"slug": "discurso-de-fedro", "title": "Discurso de Fedro", "summary": "El Amor como el dios más antiguo y fuente de valor y sacrificio: Alcestis, Orfeo y Aquiles.", "start": 56, "end": 58},
+    {"slug": "discurso-de-pausanias", "title": "Discurso de Pausanias", "summary": "Hay dos Afroditas y, por tanto, dos amores: el vulgar y el celeste.", "start": 59, "end": 62},
+    {"slug": "discurso-de-eriximaco", "title": "Discurso de Eriximaco", "summary": "El médico extiende el amor a toda la naturaleza: armonía de contrarios en el cuerpo, la música y las estaciones.", "start": 63, "end": 69},
+    {"slug": "discurso-de-aristofanes", "title": "Discurso de Aristófanes", "summary": "El mito de los seres esféricos partidos en dos: el amor como búsqueda de la mitad perdida.", "start": 70, "end": 78},
+    {"slug": "discurso-de-agaton", "title": "Discurso de Agatón", "summary": "El anfitrión elogia la juventud, la belleza y las virtudes del Amor.", "start": 79, "end": 91},
+    {"slug": "socrates-y-agaton", "title": "Sócrates interroga a Agatón", "summary": "Sócrates muestra que el amor es deseo de lo que no se tiene y, por tanto, carece de belleza.", "start": 92, "end": 143},
+    {"slug": "socrates-y-diotima", "title": "Sócrates y Diotima", "summary": "Lo que la sacerdotisa de Mantinea enseñó a Sócrates: Eros como intermediario, hijo de Poros y Penía, y la escala del amor hasta la Belleza en sí.", "start": 144, "end": 234},
+    {"slug": "discurso-de-alcibiades", "title": "La llegada de Alcibíades y su elogio de Sócrates", "summary": "Alcibíades llega ebrio y, en lugar de elogiar al Amor, elogia a Sócrates como un sileno que esconde tesoros.", "start": 235, "end": 276},
+    {"slug": "final", "title": "Final: el amanecer", "summary": "Los invitados van cayendo dormidos. Al amanecer, Sócrates sigue conversando y se marcha a pasar el día como siempre.", "start": 277, "end": 284}
+  ]
+}

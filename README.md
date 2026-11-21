@@ -14,6 +14,8 @@ Abrir http://127.0.0.1:8765/.
 
 Instala Python y lxml. Ejecuta `python migrate.py exportacion.xml uploads.zip --crawl inventario-web.csv` desde una copia limpia del proyecto. El CSV opcional añade las redirecciones verificadas durante el rastreo. El generador añade los resultados a `public/`, así que para una nueva exportación usa una carpeta de salida vacía. Guarda el WXR y el ZIP fuera del proyecto y del repositorio.
 
+Después ejecuta `python lectura_completa.py`. Genera en `public/leer/` la lectura online, dividida en capítulos, de las obras de dominio público que hay en `textos/` (un `.txt` con el texto y un `.json` con los capítulos), y las añade al sitemap.
+
 `revision-migracion.json` lista los recursos, enlaces y bloques pendientes. La vista de revisión deshabilita la indexación. Antes del lanzamiento deben resolverse esas incidencias, validar el contenido renderizado, revisar los enlaces a descargas e integrar y comprobar la configuración de AdSense y consentimiento. El argumento `--production` habilita el rastreo al regenerar. Conecta el dominio solo después de validar el entorno de Vercel.
 
 Los datos privados y la configuración original se conservan en el WXR de origen. La versión estática muestra los comentarios aprobados que figuran como comentarios normales en WordPress. Los comentarios pendientes y los avisos automáticos de enlaces se conservan en el WXR. El sitio estático carece de formulario de comentarios y panel de edición.

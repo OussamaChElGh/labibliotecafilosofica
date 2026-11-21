@@ -182,6 +182,97 @@ def strip_pdf_label(document):
     return document[:head_end] + body
 
 
+STOP = {"pdf", "libros", "libro", "gratis", "de", "la", "el", "los", "las", "y", "en", "del", "a", "o", "un", "una",
+        "para", "que", "por", "con", "online", "epub", "filosofia", "sobre", "al", "es", "lo", "se", "mas", "leer"}
+# Etiquetas y secciones que comparten casi todas las páginas: no dicen nada del tema.
+GENERIC = re.compile(r"^/(tag/libros-pdf[^/]*|libros-pdf-gratis|articulos|historia|biografias|libros-gratis-en-online)/$")
+RELATED = re.compile(r'<section class="related"><h2>Sigue explorando</h2><ul class="cards">.*?</ul></section>', re.S)
+
+
+def route_of(page):
+    parts = page.parent.relative_to(OUTPUT).parts
+    return "/" + "/".join(parts) + "/" if parts else "/"
+
+
+def tokens(route):
+    return {t for t in re.split(r"[-/]", route.lower()) if len(t) > 2 and t not in STOP and not t.isdigit()}
+
+
+def related_index(pages):
+    """Páginas candidatas a «Sigue explorando», con sus etiquetas y palabras clave."""
+    entries = {}
+    for page, document in pages.items():
+        if not RELATED.search(document):
+            continue
+        route = route_of(page)
+        h1 = re.search(r"<h1>(.*?)</h1>", document, re.S)
+        terms = re.search(r'<div class="terms">(.*?)</div>', document, re.S)
+        entries[route] = {
+            "title": " ".join(re.sub(r"<[^>]+>", "", h1[1]).split()) if h1 else route,
+            "book": "reader-book" in document,
+            "terms": {t for t in re.findall(r'href="([^"]+)"', terms[1]) if not GENERIC.search(t)} if terms else set(),
+            "tokens": tokens(route),
+            "length": len(document),
+        }
+    # Las lecturas completas también son candidatas, ligadas a su ficha.
+    for config in sorted(TEXTS.glob("*.json")):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        ficha = entries.get(meta["book_route"])
+        if ficha:
+            entries[f'/leer/{meta["slug"]}/'] = {
+                "title": f'Leer online gratis: {meta["title"]}, de {meta["author"]}', "book": True, "online": True,
+                "terms": set(ficha["terms"]), "tokens": tokens(meta["book_route"]) | tokens(meta["slug"]),
+                "ficha": meta["book_route"], "length": ficha["length"]}
+    # Autores: una ficha enlazada desde la página de un autor comparte ese autor.
+    for page, document in pages.items():
+        route = route_of(page)
+        if re.fullmatch(r"/libros-pdf-gratis/autores/[^/]+/", route):
+            for link in set(re.findall(r'href="(/[^"#]+/)"', document)):
+                if link in entries:
+                    entries[link]["terms"].add(route)
+    frequency = {}
+    for entry in entries.values():
+        for key in entry["terms"] | {"t:" + t for t in entry["tokens"]}:
+            frequency[key] = frequency.get(key, 0) + 1
+    return entries, frequency
+
+
+def suggestions(route, entries, frequency, size=3):
+    import math
+    me = entries[route]
+    total = len(entries)
+    weight = lambda key: math.log(total / frequency.get(key, total)) if frequency.get(key) else 0
+    mine = me["terms"] | {"t:" + t for t in me["tokens"]}
+    scored = []
+    for other, entry in entries.items():
+        if other == route or entry.get("ficha") == route or me.get("ficha") == other:
+            continue
+        shared = mine & (entry["terms"] | {"t:" + t for t in entry["tokens"]})
+        score = sum(weight(key) * (2 if "/autores/" in key else 1) for key in shared)
+        if score <= 0.5:
+            continue
+        if entry["book"] == me["book"]:
+            score += 0.5
+        if entry.get("online"):
+            score += 1.5
+        scored.append((round(score, 3), entry["length"], other))
+    # A igual parecido, primero las páginas con más contenido.
+    scored.sort(key=lambda item: (-item[0], -item[1], item[2]))
+    picks = [other for _, _, other in scored]
+    # Si hay una lectura completa del mismo autor, ocupa siempre el primer hueco.
+    online = [other for score, _, other in scored if entries[other].get("online") and score >= 2.5]
+    if online:
+        picks = online[:1] + [other for other in picks if other != online[0]]
+    return picks[:size]
+
+
+def render_related(document, picks, entries):
+    if len(picks) < 2:
+        return document
+    items = "".join(f'<li><a href="{other}">{entries[other]["title"]}</a></li>' for other in picks)
+    return RELATED.sub(lambda _: f'<section class="related"><h2>Sigue explorando</h2><ul class="cards">{items}</ul></section>', document, count=1)
+
+
 def collection_covers():
     """Obras con lectura completa: su portada de la colección sustituye a la imagen antigua.
 
@@ -223,6 +314,7 @@ def main():
                 item["spineColor"] = spines[item["source"]]
         books.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     changed = 0
+    originals, pages = {}, {}
     for page in sorted(OUTPUT.rglob("index.html")):
         original = page.read_text(encoding="utf-8")
         result = strip_pdf_label(swap_covers(polish(original), swaps))
@@ -231,7 +323,15 @@ def main():
             if again == result:
                 break
             result = again
-        if result != original:
+        originals[page], pages[page] = original, result
+    # «Sigue explorando»: obras del mismo autor o tema, no las tres primeras de la categoría.
+    entries, frequency = related_index(pages)
+    for page, document in pages.items():
+        route = route_of(page)
+        if route in entries:
+            pages[page] = render_related(document, suggestions(route, entries, frequency), entries)
+    for page, result in pages.items():
+        if result != originals[page]:
             page.write_text(result, encoding="utf-8")
             changed += 1
     print(f"{changed} páginas pulidas")

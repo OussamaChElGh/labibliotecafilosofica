@@ -16,7 +16,7 @@ Instala Python y lxml. Ejecuta `python migrate.py exportacion.xml uploads.zip --
 
 Después ejecuta `python lectura_completa.py`. Genera en `public/leer/` la lectura online, dividida en capítulos, de las obras de dominio público que hay en `textos/` (un `.txt` con el texto y un `.json` con los capítulos), y las añade al sitemap.
 
-Después ejecuta `python pulir.py`. Quita de las páginas generadas los restos del WordPress: el bloque de donación, el widget «¿quieres conocer más libros…?», el botón de descarga repetido de Elementor, los shortcodes `[caption]`, los párrafos vacíos y los títulos sin texto. Se puede ejecutar varias veces sin efectos.
+Después ejecuta `python pulir.py`. Quita de las páginas generadas los restos del WordPress: el bloque de donación, el widget «¿quieres conocer más libros…?», el botón de descarga repetido de Elementor, los shortcodes `[caption]`, los párrafos vacíos y los títulos sin texto. También elige las tres sugerencias de «Sigue explorando» de cada página por autor, etiquetas y palabras de la URL, y pone primero la lectura online del mismo autor si existe. Se puede ejecutar varias veces sin efectos.
 
 Por último ejecuta `node portadas.mjs`. Convierte la portada de cada obra en dos imágenes: `portada.png` (1000×1500, descargable desde el índice) y `social.png` (1200×630, la que se ve al compartir un enlace en redes o WhatsApp). El color y el número de cada portada se fijan en el campo `cover` del `.json`.
 

@@ -32,4 +32,4 @@ AdSense y la plataforma de consentimiento requieren configuración y prueba en e
 
 ## Afiliados de Amazon por país
 
-Los enlaces de compra (`a[data-query]`, los añade `pulir.py`) apuntan a amazon.es. `public/biblioteca.js` consulta `/api/pais` (función de Vercel que lee la cabecera `x-vercel-ip-country`, sin cookies) y, si hay etiqueta configurada en `STORES`, lleva a los lectores de México a amazon.com.mx y al resto de América a amazon.com, con la búsqueda del libro por título y autor. Mientras las etiquetas estén vacías no cambia nada.
+Los enlaces de compra (`a[data-query]`, los añade `pulir.py`) apuntan a amazon.es. `public/biblioteca.js` consulta `/api/pais` (función de Vercel que lee la cabecera `x-vercel-ip-country`, sin cookies) y lleva a los lectores de América (México incluido, mientras no haya etiqueta de amazon.com.mx) a amazon.com con la etiqueta de EE. UU., con la búsqueda del libro por título y autor. España y el resto siguen en amazon.es.

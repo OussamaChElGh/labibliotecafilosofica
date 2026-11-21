@@ -32,6 +32,42 @@ def with_book_assets(document):
     return document.replace("</head>", BOOK_ASSETS, 1)
 
 
+COVER_COLORS = {"verde": "#143a2c", "burdeos": "#4a1820", "azul": "#16233b", "ocre": "#4f3615", "negro": "#161015"}
+
+
+def cover_svg(meta):
+    """Portada común de la colección: cambia el color, el número y los textos."""
+    cover = meta.get("cover", {})
+    bg = COVER_COLORS.get(cover.get("color", "verde"), cover.get("color", "#143a2c"))
+    ink, gold = "#f7f4ee", "#c8a96a"
+    words, lines = meta["title"].split(), []
+    for word in words:
+        if lines and len(lines[-1]) + 1 + len(word) <= 12:
+            lines[-1] += " " + word
+        else:
+            lines.append(word)
+    longest = max(len(line) for line in lines)
+    size = min(92, int(470 / (longest * 0.48)))
+    top = 470 - (len(lines) - 1) * size * 0.55
+    title = "".join(f'<text x="300" y="{top + i * size * 1.05:.0f}" font-size="{size}">{escape(line)}</text>' for i, line in enumerate(lines))
+    rays = "".join(f'<line x1="300" y1="618" x2="300" y2="600" transform="rotate({angle} 300 650)"/>' for angle in range(0, 360, 15))
+    number = f'{int(cover.get("number", 1)):02d}'
+    return (f'<svg class="book-cover-art" viewBox="0 0 600 900" role="img" aria-label="Portada de {escape(meta["title"])}, de {escape(meta["author"])}" xmlns="http://www.w3.org/2000/svg">'
+            f'<rect width="600" height="900" fill="{bg}"/>'
+            f'<rect width="600" height="900" fill="url(#cover-grain-{escape(meta["slug"])})" opacity=".5"/>'
+            f'<defs><radialGradient id="cover-grain-{escape(meta["slug"])}" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#fff" stop-opacity=".10"/><stop offset="1" stop-color="#000" stop-opacity=".35"/></radialGradient></defs>'
+            f'<rect x="28" y="28" width="544" height="844" fill="none" stroke="{gold}" stroke-width="1.6"/>'
+            f'<rect x="38" y="38" width="524" height="824" fill="none" stroke="{gold}" stroke-width=".7" opacity=".7"/>'
+            f'<text x="300" y="104" fill="{ink}" opacity=".82" font-family="Inter, sans-serif" font-size="13" letter-spacing="4.5" text-anchor="middle">LA BIBLIOTECA FILOSÓFICA</text>'
+            f'<line x1="270" y1="128" x2="330" y2="128" stroke="{gold}" stroke-width="1"/>'
+            f'<text x="300" y="{top - size - 28:.0f}" fill="{gold}" font-family="Inter, sans-serif" font-size="20" letter-spacing="7" text-anchor="middle">{escape(meta["author"].upper())}</text>'
+            f'<g fill="{ink}" font-family="\'Caslon Display\', Fraunces, Georgia, serif" text-anchor="middle">{title}</g>'
+            f'<g stroke="{gold}" stroke-width="1.4" fill="none"><circle cx="300" cy="650" r="54"/><circle cx="300" cy="650" r="20"/>{rays}</g>'
+            f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">Traducción de {escape(meta["translator"])}</text>'
+            f'<text x="300" y="836" fill="{gold}" font-family="Inter, sans-serif" font-size="12" letter-spacing="4" text-anchor="middle">LECTURA COMPLETA · Nº {number}</text>'
+            '</svg>')
+
+
 def minutes(words):
     return max(1, round(words / WORDS_PER_MINUTE))
 
@@ -102,7 +138,7 @@ def build(meta, blocks):
                   f'<h1>{escape(meta["title"])}: leer online completo</h1>'
                   f'<div class="reading-meta"><span>{len(chapters)} capítulos · {total_words:,} palabras · {minutes(total_words)} min de lectura</span>'
                   f'<a href="{start_reading}">Empezar a leer ↓</a></div></header>'
-                  f'<div class="entry" id="texto-obra">{meta["intro"]}'
+                  f'<div class="entry" id="texto-obra"><figure class="book-cover">{cover_svg(meta)}</figure>{meta["intro"]}'
                   f'<div class="continue-reading" data-continue-book="{escape(slug)}" hidden></div>'
                   f'<p><a class="button" href="{start_reading}">Empezar a leer ↗</a></p>'
                   f'<h2 id="capitulos">Capítulos</h2><ol class="chapter-list">{chapter_links}</ol>{credit(meta)}'

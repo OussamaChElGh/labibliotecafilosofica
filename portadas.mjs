@@ -80,5 +80,14 @@ for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()
   }
   count++
 }
+// Edición en PDF (A5) a partir de build/impresion/<slug>.html.
+for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()) {
+  const meta = JSON.parse(readFileSync(join('textos', file), 'utf8'))
+  const source = resolve('build/impresion', `${meta.slug}.html`)
+  if (!existsSync(source)) continue
+  await page.goto('file://' + source, { waitUntil: 'load' })
+  await page.evaluate(() => document.fonts.ready)
+  await page.pdf({ path: join('public/leer', meta.slug, `${meta.slug}.pdf`), preferCSSPageSize: true, printBackground: true, tagged: true, outline: true })
+}
 await browser.close()
 console.log(`${count} portadas generadas`)

@@ -147,7 +147,8 @@ def build(meta, blocks):
                   f'<div class="entry" id="texto-obra"><figure class="book-cover">{cover_svg(meta)}'
                   f'<figcaption><a href="{base_route}portada.png" download>Descargar portada</a></figcaption></figure>{meta["intro"]}'
                   f'<div class="continue-reading" data-continue-book="{escape(slug)}" hidden></div>'
-                  f'<p><a class="button" href="{start_reading}">Empezar a leer ↗</a></p>'
+                  f'<p class="actions"><a class="button" href="{start_reading}">Empezar a leer ↗</a>'
+                  f'<a class="button secondary" href="{base_route}{slug}.pdf" download>Descargar PDF gratis ↓</a></p>'
                   f'<h2 id="capitulos">Capítulos</h2><ol class="chapter-list">{chapter_links}</ol>{credit(meta)}'
                   f'<p>¿Quieres orientarte antes de leer? Consulta la <a href="{meta["book_route"]}">ficha de {escape(meta["title"])}</a> '
                   f'y la guía <a href="/por-donde-empezar-a-leer-a-platon/">por dónde empezar a leer a Platón</a>.</p></div></article>')
@@ -198,7 +199,45 @@ def build(meta, blocks):
         write(route, with_book_assets(shell(f'{chapter["title"]} · {full_title} (texto completo) · La Biblioteca Filosófica',
                            route, body, description[:300], schema=schema), meta))
     meta["_stats"] = {"chapters": len(rendered), "minutes": minutes(total_words)}
+    write_print_edition(meta, rendered)
     return routes
+
+
+PRINT = Path("build/impresion")
+
+
+def write_print_edition(meta, rendered):
+    """HTML para imprimir el PDF de la colección (lo convierte portadas.mjs)."""
+    slug = meta["slug"]
+    site = f"{BASE}/leer/{slug}/"
+    ficha = BASE + meta["book_route"]
+    contents = "".join(f'<li><a href="#cap-{n}">{escape(chapter["title"])}</a></li>' for n, (chapter, *_rest) in enumerate(rendered, start=1))
+    chapters = "".join(
+        f'<section class="chapter" id="cap-{n}"><p class="chapter-number">{n:02d}</p><h2>{escape(chapter["title"])}</h2>'
+        f'<p class="summary">{escape(chapter["summary"])}</p>{paragraphs}{notes.replace("Notas del traductor", "Notas")}</section>'
+        for n, (chapter, paragraphs, notes, _) in enumerate(rendered, start=1))
+    first_paragraph = re.search(r"<p>.*?</p>", meta["intro"], re.S)
+    document = f"""<!doctype html><html lang="es"><head><meta charset="utf-8"><title>{escape(meta["title"])} · {escape(meta["author"])}</title>
+<meta name="author" content="{escape(meta["author"])}"><link rel="stylesheet" href="../../impresion.css"></head><body>
+<section class="cover" style="background:{COVER_COLORS.get(meta.get("cover", {}).get("color", "verde"), "#143a2c")}">{cover_svg(meta)}</section>
+<section class="title-page"><p class="series">La Biblioteca Filosófica · Lectura completa</p><p class="author">{escape(meta["author"])}</p>
+<h1>{escape(meta["title"])}</h1><p class="translator">Traducción de {escape(meta["translator"])}</p></section>
+<section class="credits"><p>{escape(meta["title"])}, de {escape(meta["author"])}. Traducción de {escape(meta["translator"])} ({escape(meta["edition"])}).
+Texto de dominio público.</p><p>Transcripción de <a href="{escape(meta["source_url"])}">Wikisource</a>, publicada bajo licencia
+<a href="{escape(meta["license_url"])}">{escape(meta["license"])}</a>. Esta edición, con su división en capítulos, títulos y resúmenes,
+se publica bajo la misma licencia.</p><p>Edición de La Biblioteca Filosófica. Léela también online, con marcapáginas, en
+<a href="{site}">{site.replace("https://", "")}</a>.</p></section>
+<section class="about"><h2>Sobre esta obra</h2>{first_paragraph[0] if first_paragraph else ""}
+<p>Se respeta la ortografía de la edición original, por eso verás «á» como preposición o «ménos» con tilde.</p>
+<h2>Índice</h2><ol class="contents">{contents}</ol></section>
+{chapters}
+<section class="colophon"><p class="series">La Biblioteca Filosófica</p><h2>Sigue leyendo</h2>
+<p>Encontrarás el análisis de la obra, otras lecturas de {escape(meta["author"])} y más libros completos gratis en
+<a href="{ficha}">labibliotecafilosofica.com</a>.</p><p><a href="{BASE}/libros-pdf-gratis/">Biblioteca de libros gratis ↗</a><br>
+<a href="{BASE}/rutas/introduccion-a-la-filosofia/">Una ruta para empezar en filosofía ↗</a></p></section>
+</body></html>"""
+    PRINT.mkdir(parents=True, exist_ok=True)
+    (PRINT / f"{slug}.html").write_text(document, encoding="utf-8")
 
 
 def duration(total):

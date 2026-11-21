@@ -783,8 +783,9 @@ def main():
                         # leer online como acción principal y la descarga como secundaria.
                         access = "dominio público · lectura online completa"
                         actions = f'<a class="button" href="{escape(override["read_online"])}" data-read-online>Leer online completo ↗</a>'
-                        if usable:
-                            actions += f'<a class="button secondary" href="{escape(usable[0])}" rel="nofollow noopener">Descargar PDF ↗</a>'
+                        # PDF propio de la colección (lo genera portadas.mjs junto a la lectura online).
+                        online = override["read_online"].rstrip("/")
+                        actions += f'<a class="button secondary" href="{escape(online)}/{escape(online.rsplit("/", 1)[-1])}.pdf" download>Descargar PDF gratis ↓</a>'
                         if purchase:
                             actions += f'<a class="button secondary" href="{escape(purchase[0])}" rel="sponsored nofollow">Ver edición física ↗</a>'
                     header = (f'<div class="book-detail">{feature(post)}<div><p class="eyebrow">Ficha de libro</p>'

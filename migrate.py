@@ -720,6 +720,11 @@ def main():
             override = corrections.get("seo", {}).get(route, {})
             seo = override.get("title", seo)
             description = override.get("description", description)
+            title = post["title"] = override.get("heading", title)
+            if override.get("body"):
+                markup = override["body"]
+                headings = [(ident, " ".join(re.sub(r"<[^>]+>", "", label).split()))
+                            for ident, label in re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', markup, flags=re.S)]
             if override.get("quick_answer"):
                 markup = override["quick_answer"] + markup
             schema = None

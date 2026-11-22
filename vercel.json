@@ -15,6 +15,36 @@
       "permanent": true
     },
     {
+      "source": "/feed/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/comments/feed/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/page/:n/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/:slug/feed/",
+      "destination": "/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-content/uploads/:file(.*)\\.:ext(jpg|jpeg|png)\\.webp",
+      "destination": "/wp-content/uploads/:file.:ext",
+      "permanent": true
+    },
+    {
+      "source": "/wp-content/uploads/2020/08/cropped-cropped-logonew-2-:size.jpg",
+      "destination": "/wp-content/uploads/2023/07/logo-comprs.png",
+      "permanent": true
+    },
+    {
       "source": "/albert-camus-caligula/",
       "destination": "/albert-camus-caligula-pdf/",
       "permanent": true

@@ -395,6 +395,35 @@ def add_affiliate(document):
     return document[:end] + link + document[end:]
 
 
+def tag_amazon(document):
+    """Enlaces de producto de amazon.es heredados del WordPress sin etiqueta de afiliado: se la añade."""
+    return re.sub(r'href="(https://www\.amazon\.es/dp/[0-9A-Z]{10})/?"', rf'href="\1?tag={AFFILIATE_TAG}"', document)
+
+
+# Google, igual que en el WordPress: AdSense (anuncios automáticos; su script también muestra el
+# mensaje de consentimiento configurado en AdSense > Privacidad y mensajes) y la etiqueta de Google
+# (Site Kit). Modo de consentimiento: denegado por defecto en el EEE, Reino Unido y Suiza hasta que
+# el lector responda al mensaje; fuera de esa zona Google no muestra mensaje.
+ADSENSE_CLIENT = "ca-pub-6008420349068161"
+GOOGLE_TAG = "GT-TQTF54L"
+CONSENT_REGIONS = ("AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE "
+                   "GB CH").split()
+GOOGLE_HEAD = (
+    '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
+    'gtag("consent","default",{ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",'
+    f'analytics_storage:"denied",region:{json.dumps(list(CONSENT_REGIONS))},wait_for_update:500}});'
+    f'gtag("js",new Date());gtag("config","{GOOGLE_TAG}");</script>'
+    f'<script async src="https://www.googletagmanager.com/gtag/js?id={GOOGLE_TAG}"></script>'
+    f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" '
+    'crossorigin="anonymous"></script>')
+
+
+def add_google_tags(document):
+    if "pagead/js/adsbygoogle.js" in document or "</head>" not in document:
+        return document
+    return document.replace("</head>", GOOGLE_HEAD + "</head>", 1)
+
+
 def add_paper_box(document):
     """Recuadro «Léelo en papel» en las fichas de libro: portada, ventajas y botón grande a Amazon."""
     if "data-paper-box" in document or "data-affiliate" not in document or START not in document:
@@ -525,7 +554,8 @@ def main():
         route = route_of(page)
         if route in entries:
             document = render_related(document, suggestions(route, entries, frequency), entries)
-        document = add_guide_link(add_paper_box(add_affiliate(seo_head(document, route))), route, guides)
+        document = add_guide_link(add_paper_box(add_affiliate(seo_head(tag_amazon(document), route))), route, guides)
+        document = add_google_tags(document)
         pages[page] = add_reading_links(replace_nav(document, menu), route, reading)
     for page, result in pages.items():
         if result != originals[page]:

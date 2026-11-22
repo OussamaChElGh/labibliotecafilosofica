@@ -20,6 +20,18 @@ from new_content import DESCARTES_ROUTE, DIFFICULT_BOOK_ROUTE, FIRST_BOOK_ROUTE,
 BASE = "https://labibliotecafilosofica.com"
 MEDIA = "/wp-content/uploads/"
 HOSTS = {"labibliotecafilosofica.com", "www.labibliotecafilosofica.com"}
+# URL propias del WordPress que la web estática no tiene: feeds RSS, paginación de la portada, copias
+# .webp que creaba el plugin WebP Express (imagen.jpg.webp) y los iconos antiguos del sitio.
+WORDPRESS_LEGACY_REDIRECTS = [
+    {"source": "/feed/", "destination": "/", "permanent": True},
+    {"source": "/comments/feed/", "destination": "/", "permanent": True},
+    {"source": "/page/:n/", "destination": "/", "permanent": True},
+    {"source": "/:slug/feed/", "destination": "/:slug/", "permanent": True},
+    {"source": "/wp-content/uploads/:file(.*)\\.:ext(jpg|jpeg|png)\\.webp", "destination": "/wp-content/uploads/:file.:ext",
+     "permanent": True},
+    {"source": "/wp-content/uploads/2020/08/cropped-cropped-logonew-2-:size.jpg",
+     "destination": "/wp-content/uploads/2023/07/logo-comprs.png", "permanent": True},
+]
 SAFE_MEDIA = set(".jpg .jpeg .png .webp .avif .gif .ico .pdf .mp3 .mp4 .ogg .wav .webm .epub .woff .woff2 .svg".split())
 ALLOWED = set("""a abbr address article aside audio b blockquote br caption cite code col colgroup
 dd del details div dl dt em figcaption figure h1 h2 h3 h4 h5 h6 hr i img kbd li mark ol p
@@ -986,7 +998,7 @@ def main():
               "redirects": [
                   {"source": "/sitemap_index.xml", "destination": "/sitemap.xml", "permanent": True},
                   {"source": "/libros-gratis-en-online/", "destination": "/libros-pdf-gratis/", "permanent": True},
-              ]
+              ] + WORDPRESS_LEGACY_REDIRECTS
               + [{"source": source, "destination": target, "permanent": True}
                  for source, target in sorted(redirects.items())]}
     if not args.production:

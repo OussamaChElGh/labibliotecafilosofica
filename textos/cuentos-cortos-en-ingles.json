@@ -1,0 +1,203 @@
+{
+  "slug": "cuentos-cortos-en-ingles",
+  "title": "Cuentos cortos en inglés",
+  "author": "Wilde, Poe, O. Henry y otros",
+  "author_route": "",
+  "book_route": "/cuentos-cortos-en-ingles/",
+  "translator": "",
+  "edition": "ediciones originales en inglés, 1843-1914",
+  "source_url": "https://en.wikisource.org/wiki/The_Happy_Prince_and_Other_Tales/The_Happy_Prince",
+  "source_revision": 13961357,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "the-happy-prince",
+      "title": "The Happy Prince (Oscar Wilde)",
+      "summary": "Nivel A2-B1 · Oscar Wilde, 1888. La estatua de un príncipe, cubierta de oro y piedras preciosas, ve desde lo alto la miseria de su ciudad. Pide a una golondrina que se queda con él en invierno que reparta sus riquezas entre los pobres.",
+      "start": 0,
+      "end": 83
+    },
+    {
+      "slug": "the-story-of-an-hour",
+      "title": "The Story of an Hour (Kate Chopin)",
+      "summary": "Nivel B1 · Kate Chopin, 1894. Louise Mallard, enferma del corazón, recibe la noticia de que su marido ha muerto en un accidente de tren. Encerrada en su cuarto, descubre algo inesperado: la libertad.",
+      "start": 84,
+      "end": 102
+    },
+    {
+      "slug": "the-gift-of-the-magi",
+      "title": "The Gift of the Magi (O. Henry)",
+      "summary": "Nivel B1 · O. Henry, 1905. Della y Jim, un matrimonio pobre de Nueva York, quieren hacerse un regalo de Navidad. Cada uno sacrifica lo que más valora, con un final irónico y tierno.",
+      "start": 103,
+      "end": 148
+    },
+    {
+      "slug": "the-last-leaf",
+      "title": "The Last Leaf (O. Henry)",
+      "summary": "Nivel B1 · O. Henry, 1907. Johnsy, una joven pintora con neumonía, está convencida de que morirá cuando caiga la última hoja de la hiedra que ve por la ventana. Un viejo pintor vecino decide intervenir.",
+      "start": 149,
+      "end": 204
+    },
+    {
+      "slug": "the-open-window",
+      "title": "The Open Window (Saki)",
+      "summary": "Nivel B1 · Saki, 1914. Framton Nuttel, un hombre nervioso, visita a una familia en el campo para descansar. La sobrina de la casa, de quince años, le cuenta una historia trágica sobre una ventana abierta.",
+      "start": 205,
+      "end": 234
+    },
+    {
+      "slug": "the-tell-tale-heart",
+      "title": "The Tell-Tale Heart (Edgar Allan Poe)",
+      "summary": "Nivel B2 · Edgar Allan Poe, 1843. Un narrador que insiste en que no está loco cuenta cómo mató a un anciano por culpa de su ojo de buitre, y cómo el latido de un corazón lo delató.",
+      "start": 235,
+      "end": 252
+    },
+    {
+      "slug": "the-cask-of-amontillado",
+      "title": "The Cask of Amontillado (Edgar Allan Poe)",
+      "summary": "Nivel B2 · Edgar Allan Poe, 1846. Durante el carnaval, Montresor atrae a Fortunato a sus bodegas con la excusa de probar un vino amontillado. Es una venganza planeada con todo detalle.",
+      "start": 253,
+      "end": 339
+    },
+    {
+      "slug": "the-monkeys-paw",
+      "title": "The Monkey's Paw (W. W. Jacobs)",
+      "summary": "Nivel B2 · W. W. Jacobs, 1902. Un sargento trae de la India una pata de mono que concede tres deseos. La familia White pide doscientas libras, y descubre el precio de cada deseo.",
+      "start": 340,
+      "end": 484
+    },
+    {
+      "slug": "the-celebrated-jumping-frog",
+      "title": "The Celebrated Jumping Frog of Calaveras County (Mark Twain)",
+      "summary": "Nivel C1 · Mark Twain, 1865. Simon Wheeler cuenta, sin pausa y con humor, la historia de Jim Smiley, un apostador que entrenó a una rana saltarina. Su inglés coloquial del Oeste lo hace difícil y divertido.",
+      "start": 485,
+      "end": 510
+    },
+    {
+      "slug": "to-build-a-fire",
+      "title": "To Build a Fire (Jack London)",
+      "summary": "Nivel B2 · Jack London, 1908. Un hombre camina solo por el Yukón a más de cincuenta grados bajo cero, acompañado solo por un perro. Encender un fuego se convierte en una cuestión de vida o muerte.",
+      "start": 511,
+      "end": 551
+    },
+    {
+      "slug": "an-occurrence-at-owl-creek-bridge",
+      "title": "An Occurrence at Owl Creek Bridge (Ambrose Bierce)",
+      "summary": "Nivel C1 · Ambrose Bierce, 1890. Durante la guerra de Secesión, Peyton Farquhar va a ser ahorcado en un puente. Cuando la cuerda se rompe, empieza una huida desesperada hacia su casa.",
+      "start": 552,
+      "end": 591
+    },
+    {
+      "slug": "the-yellow-wallpaper",
+      "title": "The Yellow Wallpaper (Charlotte Perkins Gilman)",
+      "summary": "Nivel C1 · Charlotte Perkins Gilman, 1892. Una mujer a la que su marido, médico, obliga a descansar escribe un diario en una habitación con un papel pintado amarillo. Poco a poco cree ver a alguien atrapado detrás.",
+      "start": 592,
+      "end": 849
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Happy Prince",
+      "author": "Oscar Wilde",
+      "url": "https://en.wikisource.org/wiki/The_Happy_Prince_and_Other_Tales/The_Happy_Prince"
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "url": "https://en.wikisource.org/wiki/The_Story_of_an_Hour"
+    },
+    {
+      "title": "The Gift of the Magi",
+      "author": "O. Henry",
+      "url": "https://en.wikisource.org/wiki/The_Four_Million/The_Gift_of_the_Magi"
+    },
+    {
+      "title": "The Last Leaf",
+      "author": "O. Henry",
+      "url": "https://en.wikisource.org/wiki/The_Last_Leaf_(Henry)"
+    },
+    {
+      "title": "The Open Window",
+      "author": "Saki",
+      "url": "https://en.wikisource.org/wiki/The_Open_Window_(Saki)"
+    },
+    {
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "url": "https://en.wikisource.org/wiki/Poe's_Tales_of_Mystery_and_Imagination/The_Tell-Tale_Heart"
+    },
+    {
+      "title": "The Cask of Amontillado",
+      "author": "Edgar Allan Poe",
+      "url": "https://en.wikisource.org/wiki/Poe's_Tales_of_Mystery_and_Imagination/The_Cask_of_Amontillado"
+    },
+    {
+      "title": "The Monkey's Paw",
+      "author": "W. W. Jacobs",
+      "url": "https://en.wikisource.org/wiki/The_Lady_of_the_Barge/The_Monkey's_Paw"
+    },
+    {
+      "title": "The Celebrated Jumping Frog of Calaveras County",
+      "author": "Mark Twain",
+      "url": "https://en.wikisource.org/wiki/The_Celebrated_Jumping_Frog_of_Calaveras_County,_and_Other_Sketches/The_Celebrated_Jumping_Frog_of_Calaveras_County"
+    },
+    {
+      "title": "To Build a Fire",
+      "author": "Jack London",
+      "url": "https://en.wikisource.org/wiki/Century_Magazine/Volume_76/Issue_4/To_Build_a_Fire"
+    },
+    {
+      "title": "An Occurrence at Owl Creek Bridge",
+      "author": "Ambrose Bierce",
+      "url": "https://en.wikisource.org/wiki/The_Collected_Works_of_Ambrose_Bierce/Volume_2/An_Occurrence_at_Owl_Creek_Bridge"
+    },
+    {
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "url": "https://en.wikisource.org/wiki/The_Yellow_Wall_Paper"
+    }
+  ],
+  "description": "Cuentos cortos en inglés para leer online gratis: 12 clásicos completos de Wilde, O. Henry, Poe, Jack London y otros, con nivel de A2 a C1 y resumen en español. También en PDF.",
+  "intro": "<p>Doce cuentos clásicos en su inglés original, para leer online gratis y practicar el idioma. Todos son de dominio público y están completos. Van ordenados de más fácil a más difícil, con un nivel orientativo del Marco Común Europeo (de A2 a C1) y un resumen en español al principio de cada uno.</p><p>Aquí puedes leer Cuentos cortos en inglés completo, dividido en cuentos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 60
+  },
+  "ficha": {
+    "genero": "Cuentos",
+    "unidad": "cuentos",
+    "tema": "el amor, el miedo, la ironía y la supervivencia, en su inglés original",
+    "resumen": [
+      "Doce cuentos clásicos en su inglés original, para leer online gratis y practicar el idioma. Todos son de dominio público y están completos. Van ordenados de más fácil a más difícil, con un nivel orientativo del Marco Común Europeo (de A2 a C1) y un resumen en español al principio de cada uno.",
+      "Hay cuentos de Navidad y de amor (The Gift of the Magi, The Last Leaf), de humor (The Open Window, The Celebrated Jumping Frog), de terror (The Tell-Tale Heart, The Cask of Amontillado, The Monkey's Paw) y de supervivencia (To Build a Fire). Los más exigentes, An Occurrence at Owl Creek Bridge y The Yellow Wallpaper, son también dos de los relatos más estudiados de la literatura en inglés."
+    ],
+    "personajes": [],
+    "ideas": [
+      "Leer textos auténticos y completos, no adaptados, es una de las mejores formas de mejorar el inglés.",
+      "Empieza por los cuentos de nivel A2-B1 y deja para el final los de C1.",
+      "No hace falta entender cada palabra: el resumen en español de cada cuento ayuda a seguir la historia.",
+      "Los cuentos son de los siglos XIX y XX, así que algunas palabras y grafías son antiguas (to-day, shew)."
+    ],
+    "faq": [
+      [
+        "¿Qué cuento corto en inglés es más fácil para empezar?",
+        "The Happy Prince de Oscar Wilde, The Story of an Hour de Kate Chopin y The Gift of the Magi de O. Henry: frases claras, vocabulario sencillo y una historia fácil de seguir."
+      ],
+      [
+        "¿Son los cuentos completos?",
+        "Sí. Son los textos originales completos, sin adaptar, tomados de las transcripciones de Wikisource de ediciones antiguas."
+      ],
+      [
+        "¿Se pueden descargar en PDF?",
+        "Sí. Todos los cuentos son de dominio público y puedes leerlos online o descargar el PDF de la colección completa."
+      ],
+      [
+        "¿Qué nivel de inglés hace falta?",
+        "Depende del cuento. Cada uno indica un nivel orientativo, de A2 (básico) a C1 (avanzado). Los de Mark Twain y Charlotte Perkins Gilman son los más difíciles."
+      ]
+    ]
+  },
+  "language": "en"
+}

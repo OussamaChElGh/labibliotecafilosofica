@@ -297,7 +297,10 @@ def main():
     parser.add_argument("--edicion", default="")
     parser.add_argument("--capitulos", action="store_true", help="obra dividida en subpáginas: un capítulo por subpágina")
     parser.add_argument("--partes", default="", help="páginas sueltas que forman la obra, separadas por «|» (implica --capitulos)")
+    parser.add_argument("--wiki", default="es", help="idioma de Wikisource: es (por defecto), en…")
     args = parser.parse_args()
+    global API
+    API = f"https://{args.wiki}.wikisource.org/w/api.php"
     chapters = None
     if args.capitulos or args.partes:
         blocks, chapters, revision = convert_chapters(args.page, [p for p in args.partes.split("|") if p])
@@ -313,7 +316,7 @@ def main():
         "author": args.autor, "author_route": args.ruta_autor or meta.get("author_route", ""),
         "book_route": args.ficha or meta.get("book_route") or f"/{args.slug}/",
         "translator": args.traductor or meta.get("translator", ""), "edition": args.edicion or meta.get("edition", ""),
-        "source_url": "https://es.wikisource.org/wiki/" + urllib.parse.quote(args.page.replace(" ", "_")),
+        "source_url": f"https://{args.wiki}.wikisource.org/wiki/" + urllib.parse.quote(args.page.replace(" ", "_")),
         "source_revision": revision, "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
         "speakers": {str(k): v for k, v in speakers.items()},

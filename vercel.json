@@ -390,6 +390,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/cuentos-cortos-en-ingles/",
+      "destination": "/cuentos-cortos-en-ingles/",
+      "permanent": true
+    },
+    {
       "source": "/leer/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
       "destination": "/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
       "permanent": true

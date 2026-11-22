@@ -164,7 +164,7 @@ def version(meta, edition=False):
     elif meta.get("traducido"):  # traducción antigua sin traductor conocido
         text = "Traducción española anónima"
     else:
-        text = "Texto original en español"
+        text = "Texto original en inglés" if meta.get("language") == "en" else "Texto original en español"
     if edition and meta.get("edition"):
         text += f' ({meta["edition"]})'
     return text
@@ -281,6 +281,8 @@ def build(meta, blocks):
             pager += f'<a class="button" href="{base_route}{following["slug"]}/" rel="next">{escape(following["title"])} →</a>'
         pager += "</nav>"
         crumbs = crumbs_index[:-1] + ([] if single else [("Leer online", base_route)]) + [(chapter["title"], route)]
+        if meta.get("language", "es") != "es":  # texto en otro idioma (cuentos en inglés): lang en cada párrafo
+            paragraphs = re.sub(r"<(p|h2|h3|blockquote)(?=[ >])", rf'<\1 lang="{meta["language"]}"', paragraphs)
         body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article" id="lectura">{breadcrumbs(crumbs)}'
                 f'<a class="back-link" href="{index_link}">← {"Ficha" if single else "Índice"} de {escape(meta["title"])}</a>'
                 f'<header class="folio-article-head"><p class="eyebrow">{escape(full_title)} · {number} de {len(rendered)}</p>'

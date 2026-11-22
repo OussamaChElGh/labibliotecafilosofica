@@ -3,6 +3,7 @@
 //   public/leer/<slug>/portada.jpg  (1000×1500, para descargar o compartir)
 //   public/leer/<slug>/social.jpg   (1200×630, vista previa de enlaces y redes)
 // Uso: node portadas.mjs   (después de python lectura_completa.py)
+//      PORTADAS=slug1,slug2 node portadas.mjs   solo esas obras (evita regenerar todas las imágenes y PDF)
 import { readFileSync, readdirSync, existsSync } from 'node:fs'
 import { join, resolve } from 'node:path'
 import { createRequire } from 'node:module'
@@ -45,14 +46,16 @@ h1{font-family:'Caslon Display',Fraunces,serif;font-weight:400;font-size:${size}
 <div class="cover">${svg}</div>
 <div class="text"><div class="brand">LA BIBLIOTECA FILOSÓFICA</div>
 <div class="author">${esc(meta.author.toUpperCase())}</div><h1>${esc(meta.title)}</h1>
-<div class="tr">${meta.translator ? "Traducción de " + esc(meta.translator) : "Texto original en español"}</div>
-<div class="cta"><b>Léelo gratis online</b><span>${meta.chapters.length} capítulos · con marcapáginas</span></div></div>`
+<div class="tr">${meta.translator ? "Traducción de " + esc(meta.translator) : `Texto original en ${meta.language === 'en' ? 'inglés' : 'español'}`}</div>
+<div class="cta"><b>Léelo gratis online</b><span>${meta.chapters.length} ${esc(meta.ficha?.unidad || 'capítulos')} · con marcapáginas</span></div></div>`
 }
 
+const only = process.env.PORTADAS ? process.env.PORTADAS.split(',') : null
+const wanted = file => !only || only.includes(file.replace(/\.json$/, ''))
 const browser = await chromium.launch()
 const page = await browser.newPage()
 let count = 0
-for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()) {
+for (const file of readdirSync('textos').filter(f => f.endsWith('.json') && wanted(f)).sort()) {
   const meta = JSON.parse(readFileSync(join('textos', file), 'utf8'))
   const dir = join('public/leer', meta.slug)
   const source = join('build/portadas', `${meta.slug}.svg`)
@@ -83,7 +86,7 @@ for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()
   count++
 }
 // Edición en PDF (A5) a partir de build/impresion/<slug>.html.
-for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()) {
+for (const file of readdirSync('textos').filter(f => f.endsWith('.json') && wanted(f)).sort()) {
   const meta = JSON.parse(readFileSync(join('textos', file), 'utf8'))
   const source = resolve('build/impresion', `${meta.slug}.html`)
   if (!existsSync(source)) continue

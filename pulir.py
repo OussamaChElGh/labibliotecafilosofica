@@ -596,9 +596,13 @@ def add_icons(document):
 SITE_VERIFICATION = '<meta name="google-site-verification" content="9Pr25-3zQJ3DDZqOf3zBHWL3_m26MDGwgUiUcFUhpbs">'
 
 
+def add_site_verification(document):
+    if "google-site-verification" in document or "</head>" not in document:
+        return document
+    return document.replace("</head>", SITE_VERIFICATION + "</head>", 1)
+
+
 def add_google_tags(document):
-    if "google-site-verification" not in document and "</head>" in document:
-        document = document.replace("</head>", SITE_VERIFICATION + "</head>", 1)
     if "pagead/js/adsbygoogle.js" in document or "</head>" not in document:
         return document
     return document.replace("</head>", GOOGLE_HEAD + "</head>", 1)
@@ -741,7 +745,8 @@ def main():
         if route in entries:
             document = render_related(document, suggestions(route, entries, frequency), entries)
         document = add_guide_link(add_paper_box(add_affiliate(seo_head(tag_amazon(document), route))), route, guides)
-        document = add_google_tags(add_icons(document))
+        # Mismo orden que en las páginas ya publicadas: Google, iconos y verificación de Search Console.
+        document = add_site_verification(add_icons(add_google_tags(document)))
         pages[page] = add_reading_links(replace_nav(document, menu), route, reading)
     for page, result in pages.items():
         if result != originals[page]:

@@ -1,0 +1,158 @@
+{
+  "slug": "fedon-platon",
+  "title": "Fedón",
+  "author": "Platón",
+  "author_route": "/libros-pdf-gratis/autores/platon/",
+  "book_route": "/fedon-platon-pdf/",
+  "translator": "Luis Roig de Lluis",
+  "edition": "Diálogos de Platón, traducción de Luis Roig de Lluis",
+  "source_url": "https://es.wikisource.org/wiki/Fed%C3%B3n_%28Roig_de_Lluis_tr.%29",
+  "source_revision": 1392895,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {
+    "1": "Echecrates",
+    "2": "Fedón",
+    "3": "Echecrates",
+    "4": "Fedón",
+    "5": "Echecrates",
+    "6": "Fedón",
+    "7": "Echecrates",
+    "8": "Fedón",
+    "9": "Echecrates",
+    "10": "Fedón",
+    "11": "Echecrates",
+    "12": "Fedón",
+    "13": "Echecrates",
+    "14": "Fedón",
+    "15": "Echecrates",
+    "16": "Fedón",
+    "17": "Echecrates",
+    "18": "Fedón",
+    "19": "Echecrates",
+    "20": "Fedón",
+    "21": "Echecrates",
+    "22": "Fedón",
+    "23": "Echecrates",
+    "24": "Fedón",
+    "25": "Echecrates",
+    "26": "Fedón",
+    "365": "Echecrates",
+    "367": "Fedón",
+    "368": "Echecrates",
+    "369": "Fedón",
+    "487": "Echecrates",
+    "488": "Fedón",
+    "489": "Echecrates",
+    "490": "Fedón"
+  },
+  "chapters": [
+    {
+      "slug": "parte-1",
+      "title": "Parte 1",
+      "summary": "Empieza: «INTERLOCUTORES»",
+      "start": 0,
+      "end": 96
+    },
+    {
+      "slug": "parte-2",
+      "title": "Parte 2",
+      "summary": "Empieza: «Así lo creo, Sócrates.»",
+      "start": 97,
+      "end": 230
+    },
+    {
+      "slug": "parte-3",
+      "title": "Parte 3",
+      "summary": "Empieza: «Es cierto.»",
+      "start": 231,
+      "end": 354
+    },
+    {
+      "slug": "parte-4",
+      "title": "Parte 4",
+      "summary": "Empieza: «Calló Sócrates y se produjo un largo silencio. Sócrates parecía ocupado con lo que acababa de decir; nosotros también lo estábamos, y…»",
+      "start": 355,
+      "end": 406
+    },
+    {
+      "slug": "parte-5",
+      "title": "Parte 5",
+      "summary": "Empieza: «Y ahora, Simmias, ¿te parece que es propio de la armonía o de cualquier otra composición ser diferente de las mismas cosas…»",
+      "start": 407,
+      "end": 481
+    },
+    {
+      "slug": "parte-6",
+      "title": "Parte 6",
+      "summary": "Empieza: «Sin duda, contestó Cebes sonriendo.»",
+      "start": 482,
+      "end": 598
+    },
+    {
+      "slug": "parte-7",
+      "title": "Parte 7",
+      "summary": "Empieza: «Dínosla, porque la escucharemos con el mayor placer, dijo Simmias.»",
+      "start": 599,
+      "end": 620
+    }
+  ],
+  "description": "Fedón de Platón: resumen, personajes e ideas principales, y el texto completo para leer online gratis o descargar en PDF. Diálogo sobre la inmortalidad del alma.",
+  "intro": "<p>Fedón cuenta a Equécrates el último día de Sócrates en la cárcel. Rodeado de sus amigos, Sócrates explica por qué el filósofo no teme a la muerte: filosofar es prepararse para morir, porque es separar el alma de los engaños del cuerpo.</p><p>Aquí puedes leer Fedón completo, dividido en partes, con las notas de la traducción de Luis Roig de Lluis. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 5
+  },
+  "ficha": {
+    "tema": "la inmortalidad del alma",
+    "resumen": [
+      "Fedón cuenta a Equécrates el último día de Sócrates en la cárcel. Rodeado de sus amigos, Sócrates explica por qué el filósofo no teme a la muerte: filosofar es prepararse para morir, porque es separar el alma de los engaños del cuerpo.",
+      "Simmias y Cebes, dos jóvenes tebanos, no se conforman y le exigen pruebas. Sócrates ofrece varios argumentos de la inmortalidad del alma: el de los contrarios, el de la reminiscencia, el de la afinidad del alma con las Ideas y, el último, el de la Idea de vida, que no puede admitir la muerte. Tras un mito sobre el destino de las almas, Sócrates bebe la cicuta con serenidad. El diálogo termina con sus últimas palabras: «Critón, debemos un gallo a Asclepio»."
+    ],
+    "personajes": [
+      [
+        "Fedón",
+        "Discípulo de Sócrates, narra lo que vio el día de su muerte."
+      ],
+      [
+        "Equécrates",
+        "Pitagórico de Fliunte que le pide el relato."
+      ],
+      [
+        "Sócrates",
+        "Pasa su último día conversando sobre el alma."
+      ],
+      [
+        "Simmias y Cebes",
+        "Jóvenes tebanos que ponen a prueba cada argumento."
+      ],
+      [
+        "Critón",
+        "Amigo íntimo que atiende a Sócrates hasta el final."
+      ]
+    ],
+    "ideas": [
+      "Filosofar es aprender a morir: liberar el alma de las distracciones del cuerpo.",
+      "Conocer es recordar lo que el alma vio antes de nacer (reminiscencia).",
+      "Las Ideas existen por sí mismas y son la causa de las cosas que vemos."
+    ],
+    "faq": [
+      [
+        "¿De qué trata el Fedón de Platón?",
+        "Del último día de Sócrates y de la inmortalidad del alma. Es el diálogo que narra su muerte por la cicuta."
+      ],
+      [
+        "¿Cuáles son los argumentos de la inmortalidad del alma en el Fedón?",
+        "El de los contrarios, el de la reminiscencia, el de la afinidad del alma con lo invisible y el de la Idea de vida, que no admite su contrario."
+      ],
+      [
+        "¿Cuáles fueron las últimas palabras de Sócrates?",
+        "Según el Fedón, «Critón, debemos un gallo a Asclepio; págalo, no lo olvides»."
+      ],
+      [
+        "¿Quién narra el Fedón?",
+        "Fedón de Elis, que estuvo presente, se lo cuenta a Equécrates en Fliunte."
+      ]
+    ]
+  }
+}

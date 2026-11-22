@@ -1,0 +1,161 @@
+{
+  "slug": "eutidemo-platon",
+  "title": "Eutidemo",
+  "author": "Platón",
+  "author_route": "/libros-pdf-gratis/autores/platon/",
+  "book_route": "/eutidemo-platon/",
+  "translator": "Patricio de Azcárate",
+  "edition": "Obras completas de Platón, tomo I. Madrid: Medina y Navarro, 1871",
+  "source_url": "https://es.wikisource.org/wiki/Eutidemo",
+  "source_revision": 1232000,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {
+    "0": "Critón",
+    "1": "Sócrates",
+    "2": "Critón",
+    "3": "Sócrates",
+    "4": "Critón",
+    "5": "Sócrates",
+    "6": "Critón",
+    "7": "Sócrates",
+    "8": "Critón",
+    "9": "Sócrates",
+    "10": "Critón",
+    "11": "Sócrates",
+    "63": "Critón",
+    "64": "Sócrates",
+    "65": "Critón",
+    "66": "Sócrates",
+    "67": "Critón",
+    "68": "Sócrates",
+    "69": "Critón",
+    "70": "Sócrates",
+    "71": "Critón",
+    "72": "Sócrates",
+    "73": "Critón",
+    "74": "Sócrates",
+    "75": "Critón",
+    "76": "Sócrates",
+    "77": "Critón",
+    "78": "Sócrates",
+    "79": "Critón",
+    "80": "Sócrates",
+    "81": "Critón",
+    "82": "Sócrates",
+    "83": "Critón",
+    "84": "Sócrates",
+    "85": "Critón",
+    "86": "Sócrates",
+    "87": "Critón",
+    "88": "Sócrates",
+    "89": "Critón",
+    "90": "Sócrates",
+    "91": "Critón",
+    "92": "Sócrates",
+    "93": "Critón",
+    "94": "Sócrates",
+    "95": "Critón",
+    "96": "Sócrates",
+    "97": "Critón",
+    "98": "Sócrates",
+    "99": "Critón",
+    "100": "Sócrates",
+    "101": "Critón",
+    "102": "Sócrates",
+    "127": "Critón",
+    "128": "Sócrates",
+    "129": "Critón",
+    "130": "Sócrates",
+    "131": "Critón",
+    "132": "Sócrates",
+    "133": "Critón",
+    "134": "Sócrates",
+    "135": "Critón",
+    "136": "Sócrates",
+    "137": "Critón",
+    "138": "Sócrates",
+    "139": "Critón",
+    "140": "Sócrates"
+  },
+  "chapters": [
+    {
+      "slug": "parte-1",
+      "title": "Parte 1",
+      "summary": "Empieza: «Sócrates, ¿quién era aquel hombre con quien disputabas ayer en el liceo? Me aproximé cuanto pude para oíros, pero la apretura de…»",
+      "start": 0,
+      "end": 36
+    },
+    {
+      "slug": "parte-2",
+      "title": "Parte 2",
+      "summary": "Empieza: «Él lo confesó.»",
+      "start": 37,
+      "end": 62
+    },
+    {
+      "slug": "parte-3",
+      "title": "Parte 3",
+      "summary": "Empieza: «¿Te burlas? Sócrates. ¿Es posible que Clinias haya dicho lo que acabo de oírle?»",
+      "start": 63,
+      "end": 110
+    },
+    {
+      "slug": "parte-4",
+      "title": "Parte 4",
+      "summary": "Empieza: «Por lo que a mí toca, me encontré con que en medio de la broma, Ctésipo, a fuerza de oírles, había aprendido…»",
+      "start": 111,
+      "end": 140
+    }
+  ],
+  "description": "Eutidemo de Platón: resumen, personajes e ideas principales, y el texto completo para leer online gratis o descargar en PDF. Diálogo sobre la erística y la sofística.",
+  "intro": "<p>Sócrates cuenta a Critón la conversación que tuvo el día anterior con dos hermanos, Eutidemo y Dionisodoro, antiguos maestros de lucha convertidos en maestros de discusión. Aseguran poder enseñar la virtud más rápido que nadie.</p><p>Aquí puedes leer Eutidemo completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 12
+  },
+  "ficha": {
+    "tema": "la erística y la sofística",
+    "resumen": [
+      "Sócrates cuenta a Critón la conversación que tuvo el día anterior con dos hermanos, Eutidemo y Dionisodoro, antiguos maestros de lucha convertidos en maestros de discusión. Aseguran poder enseñar la virtud más rápido que nadie.",
+      "Su método consiste en atrapar al interlocutor con juegos de palabras y trampas lógicas, sea cual sea su respuesta. Sócrates intercala con el joven Clinias un ejemplo de diálogo verdadero sobre la felicidad y el saber. El contraste es cómico y deja ver la diferencia entre la filosofía, que busca la verdad, y la erística, que solo busca ganar."
+    ],
+    "personajes": [
+      [
+        "Sócrates",
+        "Narra la escena a Critón."
+      ],
+      [
+        "Eutidemo y Dionisodoro",
+        "Hermanos sofistas, maestros de la discusión."
+      ],
+      [
+        "Clinias",
+        "Joven al que todos quieren educar."
+      ],
+      [
+        "Critón",
+        "Amigo de Sócrates, preocupado por la educación de su hijo."
+      ]
+    ],
+    "ideas": [
+      "Ganar una discusión no es lo mismo que tener razón.",
+      "La felicidad depende del buen uso de las cosas, y para eso hace falta saber.",
+      "La filosofía se distingue de la sofística por su fin: la verdad."
+    ],
+    "faq": [
+      [
+        "¿Qué es la erística?",
+        "El arte de discutir para vencer, sin importar la verdad, usando equívocos y trampas verbales. El Eutidemo la retrata con humor."
+      ],
+      [
+        "¿Es el Eutidemo un diálogo cómico?",
+        "Sí, es uno de los más divertidos de Platón, por los absurdos razonamientos de los dos sofistas."
+      ],
+      [
+        "¿Qué enseña Sócrates a Clinias?",
+        "Que todos queremos ser felices y que para usar bien los bienes hace falta sabiduría, por lo que hay que amar el saber."
+      ]
+    ]
+  }
+}

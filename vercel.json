@@ -355,6 +355,16 @@
       "permanent": true
     },
     {
+      "source": "/leer/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
+      "destination": "/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cuentos-de-la-selva-horacio-quiroga/",
+      "destination": "/cuentos-de-la-selva-horacio-quiroga/",
+      "permanent": true
+    },
+    {
       "source": "/leer/cumanda-juan-leon-mera/",
       "destination": "/cumanda-juan-leon-mera/",
       "permanent": true
@@ -497,6 +507,11 @@
     {
       "source": "/leer/los-viajes-de-gulliver-jonathan-swift/",
       "destination": "/los-viajes-de-gulliver-pdf-jonathan-swift/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/luces-de-bohemia-valle-inclan/",
+      "destination": "/luces-de-bohemia-valle-inclan/",
       "permanent": true
     },
     {

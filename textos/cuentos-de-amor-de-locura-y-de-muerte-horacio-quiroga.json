@@ -1,0 +1,212 @@
+{
+  "slug": "cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga",
+  "title": "Cuentos de amor de locura y de muerte",
+  "author": "Horacio Quiroga",
+  "author_route": "",
+  "book_route": "/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
+  "translator": "",
+  "edition": "Buenos Aires, 1917",
+  "source_url": "https://es.wikisource.org/wiki/Cuentos_de_amor_de_locura_y_de_muerte",
+  "source_revision": 1343148,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "una-estacion-de-amor",
+      "title": "Una estación de amor",
+      "summary": "Empieza: «Era el martes de carnaval. Nébel acababa de entrar en el corso, ya al oscurecer, y mientras deshacía un paquete de serpentinas…»",
+      "start": 0,
+      "end": 234
+    },
+    {
+      "slug": "los-ojos-sombrios",
+      "title": "Los ojos sombríos",
+      "summary": "Empieza: «Después de las primeras semanas de romper con Elena, una noche no pude evitar asistir a un baile. Hallábame hacía largo rato…»",
+      "start": 235,
+      "end": 363
+    },
+    {
+      "slug": "el-solitario",
+      "title": "El solitario",
+      "summary": "Empieza: «Kassim era un hombre enfermizo, joyero de profesión, bien que no tuviera tienda establecida. Trabajaba para las grandes casas, siendo su especialidad…»",
+      "start": 364,
+      "end": 443
+    },
+    {
+      "slug": "la-muerte-de-isolda",
+      "title": "La muerte de Isolda",
+      "summary": "Empieza: «Concluía el primer acto de Tristán e Isolda. Cansado de la agitación de ese día, me quedé en mi butaca, muy contento…»",
+      "start": 444,
+      "end": 515
+    },
+    {
+      "slug": "el-infierno-artificial",
+      "title": "El infierno artificial",
+      "summary": "Empieza: «Las noches en que hay luna, el sepulturero pasea por entre las tumbas con paso singularmente rígido. Va desnudo hasta la cintura…»",
+      "start": 516,
+      "end": 582
+    },
+    {
+      "slug": "la-gallina-degollada",
+      "title": "La gallina degollada",
+      "summary": "Empieza: «Todo el día, sentados en el patio en un banco, estaban los cuatro hijos idiotas del matrimonio Mazzini-Ferraz. Tenían la lengua entre…»",
+      "start": 583,
+      "end": 666
+    },
+    {
+      "slug": "los-buques-suicidantes",
+      "title": "Los buques suicidantes",
+      "summary": "Empieza: «Resulta que hay pocas cosas más terribles que encontrar en el mar un buque abandonado. Si de día el peligro es menor,…»",
+      "start": 667,
+      "end": 694
+    },
+    {
+      "slug": "el-almohadon-de-pluma",
+      "title": "El almohadón de pluma",
+      "summary": "Empieza: «Su luna de miel fué un largo escalofrío. Rubia, angelical y tímida, el carácter duro de su marido heló sus soñadas niñerías…»",
+      "start": 695,
+      "end": 725
+    },
+    {
+      "slug": "el-perro-rabioso",
+      "title": "El perro rabioso",
+      "summary": "Empieza: «El 20 de marzo de este año, los vecinos de un pueblo del Chaco santafecino persiguieron a un hombre rabioso que en…»",
+      "start": 726,
+      "end": 788
+    },
+    {
+      "slug": "a-la-deriva",
+      "title": "A la deriva",
+      "summary": "Empieza: «El hombre pisó algo blanduzco, y enseguida sintió la mordedura en el pie. Saltó adelante, y al volverse con un juramento vio…»",
+      "start": 789,
+      "end": 818
+    },
+    {
+      "slug": "la-insolacion",
+      "title": "La insolación",
+      "summary": "Empieza: «El cachorro Old salió por la puerta y atravesó el patio con paso recto y perezoso. Se detuvo en la linde del…»",
+      "start": 819,
+      "end": 878
+    },
+    {
+      "slug": "el-alambre-de-pua",
+      "title": "El alambre de púa",
+      "summary": "Empieza: «Durante quince días el alazán había buscado en vano la senda por donde su compañero se escapaba del potrero. El formidable cerco,…»",
+      "start": 879,
+      "end": 1006
+    },
+    {
+      "slug": "los-mensu",
+      "title": "Los mensú",
+      "summary": "Empieza: «Cayetano Maldana y Esteban Podeley, peones de obraje, volvían a Posadas en el Sílex con quince compañeros. Podeley, labrador de madera, tornaba…»",
+      "start": 1007,
+      "end": 1097
+    },
+    {
+      "slug": "yaguai",
+      "title": "Yaguaí",
+      "summary": "Empieza: «Ahora bien, no podía ser sino allí. Yaguaí olfateó la piedra—un sólido bloque de mineral de hierro—y dió una cautelosa vuelta en…»",
+      "start": 1098,
+      "end": 1166
+    },
+    {
+      "slug": "los-pescadores-de-vigas",
+      "title": "Los pescadores de vigas",
+      "summary": "Empieza: «El motivo fué cierto juego de comedor que míster Hall no tenía aún, y su fonógrafo fué quien le sirvió de anzuelo.»",
+      "start": 1167,
+      "end": 1234
+    },
+    {
+      "slug": "la-miel-silvestre",
+      "title": "La miel silvestre",
+      "summary": "Empieza: «Tengo en el Salto Oriental dos primos, hoy hombres ya, que a sus doce años, y a consecuencia de profundas lecturas de…»",
+      "start": 1235,
+      "end": 1278
+    },
+    {
+      "slug": "nuestro-primer-cigarro",
+      "title": "Nuestro primer cigarro",
+      "summary": "Empieza: «Ninguna época de mayor alegría que la que nos proporcionó a María y a mí, nuestra tía con su muerte.»",
+      "start": 1279,
+      "end": 1395
+    },
+    {
+      "slug": "la-meningitis-y-su-sombra",
+      "title": "La meningitis y su sombra",
+      "summary": "Empieza: «No vuelvo de mi sorpresa. ¿Qué diablos quieren decir la carta de Funes, y luego la charla del médico? Confieso no entender…»",
+      "start": 1396,
+      "end": 1678
+    }
+  ],
+  "description": "Cuentos de amor de locura y de muerte de Horacio Quiroga: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Cuentos sobre el amor, la locura y la muerte en la ciudad y en la selva.",
+  "intro": "<p>Dieciocho cuentos que reunió Horacio Quiroga en 1917 y que lo consagraron como maestro del cuento latinoamericano. Muchos transcurren en la selva de Misiones, donde la naturaleza es indiferente y mortal: un hombre mordido por una víbora intenta llegar río abajo en canoa (A la deriva), un perro presiente la muerte de su amo (La insolación), unos peones viven explotados en los obrajes (Los mensú).</p><p>Aquí puedes leer Cuentos de amor de locura y de muerte completo, dividido en cuentos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 55,
+    "art": {
+      "file": "cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/ilustracion.jpg",
+      "credit": "Arnold Böcklin, «La isla de los muertos» (1883), Alte Nationalgalerie de Berlín. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Cuentos",
+    "unidad": "cuentos",
+    "tema": "el amor, la locura y la muerte en la ciudad y en la selva",
+    "resumen": [
+      "Dieciocho cuentos que reunió Horacio Quiroga en 1917 y que lo consagraron como maestro del cuento latinoamericano. Muchos transcurren en la selva de Misiones, donde la naturaleza es indiferente y mortal: un hombre mordido por una víbora intenta llegar río abajo en canoa (A la deriva), un perro presiente la muerte de su amo (La insolación), unos peones viven explotados en los obrajes (Los mensú).",
+      "Otros son relatos de terror psicológico y amor enfermizo: una joven esposa se consume misteriosamente en la cama (El almohadón de pluma), cuatro hermanos con discapacidad cometen un crimen atroz (La gallina degollada), un hombre ve morir su amor por orgullo (La muerte de Isolda). La influencia de Poe se nota en el gusto por el horror y por los finales sorprendentes."
+    ],
+    "personajes": [
+      [
+        "Paulino",
+        "Protagonista de A la deriva, mordido por una víbora en el río Paraná."
+      ],
+      [
+        "Alicia y Jordán",
+        "La pareja de El almohadón de pluma."
+      ],
+      [
+        "Los cuatro hijos idiotas y Bertita",
+        "Protagonistas de La gallina degollada."
+      ],
+      [
+        "Mr. Jones y sus perros",
+        "El colono y los perros que ven llegar la Muerte en La insolación."
+      ],
+      [
+        "Cayé y Podeley",
+        "Los peones explotados de Los mensú."
+      ]
+    ],
+    "ideas": [
+      "La muerte como presencia constante, a menudo absurda.",
+      "La naturaleza de Misiones, hermosa e indiferente al ser humano.",
+      "La locura y el horror psicológico, a la manera de Poe.",
+      "El amor como pasión que destruye."
+    ],
+    "faq": [
+      [
+        "¿Cuáles son los cuentos más conocidos?",
+        "El almohadón de pluma, A la deriva, La gallina degollada, La insolación y Los mensú son los más leídos en clase."
+      ],
+      [
+        "¿De qué trata El almohadón de pluma?",
+        "De Alicia, una recién casada que enferma y se debilita día tras día sin causa aparente. Al morir descubren en su almohadón un parásito que le chupaba la sangre."
+      ],
+      [
+        "¿De qué trata A la deriva?",
+        "De un hombre mordido por una víbora que baja el río en canoa en busca de ayuda mientras el veneno lo mata poco a poco."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1917, en Buenos Aires."
+      ]
+    ]
+  }
+}

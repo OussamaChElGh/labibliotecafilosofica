@@ -100,7 +100,9 @@ def part_name(sub):
     """«Marianela/I» → «I»; «Los Pazos de Ulloa: 01» → «1»."""
     if "/" in sub:
         return sub.split("/", 1)[1]
-    return sub.rsplit(": ", 1)[1].lstrip("0") or "0"
+    if ": " in sub:
+        return sub.rsplit(": ", 1)[1].lstrip("0") or "0"
+    return sub  # obra reunida con --partes: cada cuento es una página suelta
 
 
 def roman(text):
@@ -118,9 +120,11 @@ def chapter_slug(name):
     return "-".join(parts)
 
 
-def convert_chapters(page):
+def convert_chapters(page, partes=None):
     """Une las subpáginas en un solo texto: un H| por capítulo y las notas renumeradas en orden."""
     title, parts, revision = subpages(page)
+    if partes:
+        parts = [(name, name) for name in partes]
     body, notes, chapters = [], [], []
     for sub, label in parts:
         blocks, _, _ = convert(sub)
@@ -284,10 +288,11 @@ def main():
     parser.add_argument("--traductor", default="")
     parser.add_argument("--edicion", default="")
     parser.add_argument("--capitulos", action="store_true", help="obra dividida en subpáginas: un capítulo por subpágina")
+    parser.add_argument("--partes", default="", help="páginas sueltas que forman la obra, separadas por «|» (implica --capitulos)")
     args = parser.parse_args()
     chapters = None
-    if args.capitulos:
-        blocks, chapters, revision = convert_chapters(args.page)
+    if args.capitulos or args.partes:
+        blocks, chapters, revision = convert_chapters(args.page, [p for p in args.partes.split("|") if p])
         speakers = {}
     else:
         blocks, speakers, revision = convert(args.page)

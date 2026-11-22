@@ -89,7 +89,7 @@ def cover_svg(meta, inline=False):
             f'<rect x="38" y="38" width="524" height="824" fill="none" stroke="{gold}" stroke-width=".7" opacity=".7"/>'
             f'<text x="300" y="104" fill="{ink}" opacity=".82" font-family="Inter, sans-serif" font-size="13" letter-spacing="4.5" text-anchor="middle">LA BIBLIOTECA FILOSÓFICA</text>'
             f'<line x1="270" y1="128" x2="330" y2="128" stroke="{gold}" stroke-width="1"/>'
-            f'<text x="300" y="{top - size - 28:.0f}" fill="{gold}" font-family="Inter, sans-serif" font-size="20" letter-spacing="7" text-anchor="middle">{escape(meta["author"].upper())}</text>'
+            f'<text x="300" y="{top - size - 28:.0f}" fill="{gold}" font-family="Inter, sans-serif" {author_type(meta["author"], 20)} text-anchor="middle">{escape(meta["author"].upper())}</text>'
             f'<g fill="{ink}" font-family="\'Caslon Display\', Fraunces, Georgia, serif" text-anchor="middle">{title}</g>'
             f'<image href="/img/logo-portada.png" x="216" y="578" width="168" height="146"/>'
             f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">{escape(version(meta))}</text>'
@@ -129,7 +129,7 @@ def cover_art_svg(meta, inline=False):
             f'<rect x="38" y="38" width="524" height="824" fill="none" stroke="{gold}" stroke-width=".7" opacity=".7"/>'
             f'<image href="/img/logo-portada.png" x="273" y="44" width="54" height="47"/>'
             f'<text x="300" y="112" fill="{ink}" opacity=".82" font-family="Inter, sans-serif" font-size="12" letter-spacing="4.5" text-anchor="middle">LA BIBLIOTECA FILOSÓFICA</text>'
-            f'<text x="300" y="{top - size - 18:.0f}" fill="{gold}" font-family="Inter, sans-serif" font-size="19" letter-spacing="7" text-anchor="middle">{escape(meta["author"].upper())}</text>'
+            f'<text x="300" y="{top - size - 18:.0f}" fill="{gold}" font-family="Inter, sans-serif" {author_type(meta["author"], 19)} text-anchor="middle">{escape(meta["author"].upper())}</text>'
             f'<g fill="{ink}" font-family="\'Caslon Display\', Fraunces, Georgia, serif" text-anchor="middle">{title}</g>'
             f'<line x1="282" y1="{top + (len(lines) - 1) * size * 1.05 + 34:.0f}" x2="318" y2="{top + (len(lines) - 1) * size * 1.05 + 34:.0f}" stroke="{gold}" stroke-width="1"/>'
             f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">{escape(version(meta))}</text>'
@@ -149,6 +149,12 @@ def write(route, document):
     target = OUTPUT / route.strip("/") / "index.html"
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text(document, encoding="utf-8")
+
+
+def author_type(author, size):
+    """Cuerpo y espaciado del autor en la portada: se reducen si el nombre no cabe en unos 470 px."""
+    scale = min(1, 470 / (len(author) * (size * 0.62 + 7)))
+    return f'font-size="{size * scale:.1f}" letter-spacing="{7 * scale:.1f}"'
 
 
 def version(meta, edition=False):

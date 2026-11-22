@@ -486,7 +486,16 @@
   "intro": "<p>Efraín vuelve a la hacienda familiar del valle del Cauca, en Colombia, después de estudiar seis años en Bogotá. Allí reencuentra a su prima María, huérfana criada por sus padres, y entre los dos nace un amor delicado, hecho de miradas, flores y paseos por los campos. La felicidad se ve amenazada cuando María sufre un ataque de la misma enfermedad que mató a su madre.</p><p>Aquí puedes leer María completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "verde",
-    "number": 24
+    "number": 24,
+    "art": {
+      "file": "maria-jorge-isaacs.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/maria-jorge-isaacs/ilustracion.jpg",
+      "credit": "Frederic Edwin Church, «El corazón de los Andes» (1859), Metropolitan Museum of Art. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Novela",

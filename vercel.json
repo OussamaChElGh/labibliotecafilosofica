@@ -335,6 +335,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/canas-y-barro-vicente-blasco-ibanez/",
+      "destination": "/canas-y-barro-vicente-blasco-ibanez/",
+      "permanent": true
+    },
+    {
       "source": "/leer/carmides-platon/",
       "destination": "/carmides-platon/",
       "permanent": true
@@ -355,6 +360,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/don-segundo-sombra-ricardo-guiraldes/",
+      "destination": "/don-segundo-sombra-ricardo-guiraldes/",
+      "permanent": true
+    },
+    {
       "source": "/leer/dona-perfecta-benito-perez-galdos/",
       "destination": "/dona-perfecta-benito-perez-galdos/",
       "permanent": true
@@ -362,6 +372,21 @@
     {
       "source": "/leer/el-buscon-francisco-de-quevedo/",
       "destination": "/el-buscon-francisco-de-quevedo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-extrano-caso-del-dr-jekyll-stevenson/",
+      "destination": "/el-extrano-caso-del-dr-jekyll-stevenson/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sabueso-de-los-baskerville-conan-doyle/",
+      "destination": "/el-sabueso-de-los-baskerville-conan-doyle/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
+      "destination": "/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
       "permanent": true
     },
     {
@@ -400,8 +425,28 @@
       "permanent": true
     },
     {
+      "source": "/leer/hamlet-shakespeare/",
+      "destination": "/hamlet-shakespeare/",
+      "permanent": true
+    },
+    {
       "source": "/leer/ion-platon/",
       "destination": "/ion-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-barraca-vicente-blasco-ibanez/",
+      "destination": "/la-barraca-vicente-blasco-ibanez/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-gaviota-fernan-caballero/",
+      "destination": "/la-gaviota-fernan-caballero/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-isla-del-tesoro-stevenson/",
+      "destination": "/la-isla-del-tesoro-stevenson/",
       "permanent": true
     },
     {
@@ -410,13 +455,33 @@
       "permanent": true
     },
     {
+      "source": "/leer/la-voragine-jose-eustasio-rivera/",
+      "destination": "/la-voragine-jose-eustasio-rivera/",
+      "permanent": true
+    },
+    {
       "source": "/leer/laques-platon/",
       "destination": "/laques-platon/",
       "permanent": true
     },
     {
+      "source": "/leer/lazarillo-de-tormes/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
       "source": "/leer/lisis-platon/",
       "destination": "/lisis-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-pazos-de-ulloa-emilia-pardo-bazan/",
+      "destination": "/los-pazos-de-ulloa-emilia-pardo-bazan/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-viajes-de-gulliver-jonathan-swift/",
+      "destination": "/los-viajes-de-gulliver-pdf-jonathan-swift/",
       "permanent": true
     },
     {
@@ -442,6 +507,11 @@
     {
       "source": "/leer/niebla-miguel-de-unamuno/",
       "destination": "/niebla-miguel-de-unamuno/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/otelo-shakespeare/",
+      "destination": "/otelo-shakespeare/",
       "permanent": true
     },
     {

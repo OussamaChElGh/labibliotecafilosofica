@@ -24,7 +24,16 @@
   "intro": "<p>Sócrates se entera de que Clitofón le ha criticado ante Lisias y elogiado al sofista Trasímaco. Clitofón le explica sus razones: los discursos de Sócrates son magníficos para animar a cuidar el alma y practicar la justicia, pero nunca dicen qué es exactamente la justicia ni cómo se consigue.</p><p>Aquí puedes leer Clitofón completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "azul",
-    "number": 15
+    "number": 15,
+    "art": {
+      "file": "clitofon-platon.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/clitofon-platon/ilustracion.jpg",
+      "credit": "Busto de Sócrates, copia romana del siglo I, Museo del Louvre. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la exhortación a la justicia",

@@ -679,7 +679,16 @@
   "intro": "<p>Tras una batalla victoriosa, el general escocés Macbeth y su amigo Banquo encuentran a tres brujas que profetizan que Macbeth será rey y que los hijos de Banquo reinarán. Animado por su esposa, Lady Macbeth, asesina al rey Duncan mientras duerme en su castillo y se apodera de la corona.</p><p>Aquí puedes leer Macbeth completo, dividido en actos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "burdeos",
-    "number": 34
+    "number": 34,
+    "art": {
+      "file": "macbeth-shakespeare.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/macbeth-shakespeare/ilustracion.jpg",
+      "credit": "Henry Fuseli, «Estudio para las tres brujas de Macbeth» (h. 1783). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Tragedia",

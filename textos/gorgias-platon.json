@@ -505,7 +505,16 @@
   "intro": "<p>Sócrates pregunta al famoso orador Gorgias qué es exactamente la retórica. La conversación pasa después a su discípulo Polo y, finalmente, a Calicles, un político ambicioso que defiende sin rodeos que lo justo por naturaleza es que el más fuerte domine al más débil y satisfaga todos sus deseos.</p><p>Aquí puedes leer Gorgias completo, dividido en partes, con las notas de la traducción de Luis Roig de Lluis. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "burdeos",
-    "number": 7
+    "number": 7,
+    "art": {
+      "file": "gorgias-platon.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/gorgias-platon/ilustracion.jpg",
+      "credit": "Philipp von Foltz, «Discurso fúnebre de Pericles» (h. 1875), Rijksmuseum. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la retórica y la justicia",

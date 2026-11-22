@@ -48,7 +48,16 @@
   "intro": "<p>Luis de Vargas, un joven seminarista a punto de ordenarse sacerdote, pasa unas semanas en su pueblo andaluz con su padre, don Pedro. En cartas a su tío, el deán, cuenta la vida del lugar y habla cada vez más de Pepita Jiménez, una viuda joven, rica y discreta a la que su propio padre pretende.</p><p>Aquí puedes leer Pepita Jiménez completo, dividido en partes. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "ocre",
-    "number": 26
+    "number": 26,
+    "art": {
+      "file": "pepita-jimenez-juan-valera.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/pepita-jimenez-juan-valera/ilustracion.jpg",
+      "credit": "Julio Romero de Torres, «La Fuensanta» (1929). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Novela",

@@ -197,7 +197,16 @@
   "intro": "<p>Sócrates encuentra a Alcibíades camino del templo, donde va a rezar. Le pregunta si sabe qué pedir a los dioses: mucha gente ha pedido el poder, la riqueza o un hijo y ha acabado en la desgracia por haberlo conseguido.</p><p>Aquí puedes leer Segundo Alcibíades completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "negro",
-    "number": 14
+    "number": 14,
+    "art": {
+      "file": "segundo-alcibiades-platon.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/segundo-alcibiades-platon/ilustracion.jpg",
+      "credit": "Jean-Léon Gérôme, «Sócrates busca a Alcibíades en casa de Aspasia» (1861). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la oración",

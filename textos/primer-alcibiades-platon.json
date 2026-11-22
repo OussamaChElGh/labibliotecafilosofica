@@ -939,7 +939,16 @@
   "intro": "<p>Alcibíades, joven, rico, bello y ambicioso, está a punto de entrar en la política de Atenas. Sócrates, que le ha seguido en silencio durante años, por fin le habla: ¿qué va a enseñar a los atenienses sobre lo justo y lo conveniente, si nunca lo ha aprendido?</p><p>Aquí puedes leer Primer Alcibíades completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "burdeos",
-    "number": 13
+    "number": 13,
+    "art": {
+      "file": "primer-alcibiades-platon.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/primer-alcibiades-platon/ilustracion.jpg",
+      "credit": "Jean-Baptiste Regnault, «Sócrates arranca a Alcibíades de los brazos del placer» (1791), Museo del Louvre. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "el conocimiento de uno mismo",

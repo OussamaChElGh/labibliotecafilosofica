@@ -112,7 +112,16 @@
   "intro": "<p>Sócrates cuenta a Critón la conversación que tuvo el día anterior con dos hermanos, Eutidemo y Dionisodoro, antiguos maestros de lucha convertidos en maestros de discusión. Aseguran poder enseñar la virtud más rápido que nadie.</p><p>Aquí puedes leer Eutidemo completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "ocre",
-    "number": 12
+    "number": 12,
+    "art": {
+      "file": "eutidemo-platon.jpg",
+      "focus": [
+        0.5,
+        0.55
+      ],
+      "url": "/leer/eutidemo-platon/ilustracion.jpg",
+      "credit": "Rafael, «La escuela de Atenas» (1509-1511), Museos Vaticanos. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la erística y la sofística",

@@ -73,7 +73,16 @@
   "intro": "<p>Al terminar el curso, un viejo maestro al que sus alumnos llaman Próspero se despide de ellos junto a una estatua de Ariel, el espíritu del aire de La tempestad de Shakespeare. Su discurso es una lección sobre cómo deben vivir los jóvenes: cultivar la vida interior, la belleza y el sentimiento moral, y no reducir la existencia a lo útil.</p><p>Aquí puedes leer Ariel completo, dividido en partes. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "azul",
-    "number": 25
+    "number": 25,
+    "art": {
+      "file": "ariel-jose-enrique-rodo.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "url": "/leer/ariel-jose-enrique-rodo/ilustracion.jpg",
+      "credit": "Joseph Severn, «Escena de La tempestad: Próspero y Ariel». Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Ensayo",

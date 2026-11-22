@@ -854,7 +854,16 @@
   "intro": "<p>En Verona, los Montesco y los Capuleto llevan años enfrentados. Romeo, un joven Montesco, se cuela en una fiesta de los Capuleto y se enamora de Julieta, la hija de la casa. Esa misma noche, en la famosa escena del balcón, se declaran su amor, y al día siguiente fray Lorenzo los casa en secreto con la esperanza de reconciliar a las familias.</p><p>Aquí puedes leer Romeo y Julieta completo, dividido en actos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "azul",
-    "number": 35
+    "number": 35,
+    "art": {
+      "file": "romeo-y-julieta-shakespeare.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/romeo-y-julieta-shakespeare/ilustracion.jpg",
+      "credit": "Frank Dicksee, «Romeo y Julieta» (1884), Southampton City Art Gallery. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Tragedia",

@@ -269,7 +269,16 @@
   "intro": "<p>Augusto Pérez es un joven rico y desocupado que vive sin rumbo, como entre niebla, hasta que se enamora a primera vista de Eugenia Domingo del Arco, una profesora de piano. Ella tiene novio, Mauricio, y desprecia los regalos de Augusto, que incluso paga la hipoteca de su casa. Mientras tanto, Augusto conversa con su perro Orfeo y con su amigo Víctor Goti y se deja atraer por la planchadora Rosario.</p><p>Aquí puedes leer Niebla completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "verde",
-    "number": 22
+    "number": 22,
+    "art": {
+      "file": "niebla-miguel-de-unamuno.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "url": "/leer/niebla-miguel-de-unamuno/ilustracion.jpg",
+      "credit": "Caspar David Friedrich, «El caminante sobre el mar de nubes» (h. 1817), Kunsthalle de Hamburgo. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Nivola",

@@ -248,7 +248,16 @@
   "intro": "<p>Pepe Rey, un joven ingeniero madrileño de ideas modernas, llega a la ciudad episcopal de Orbajosa para casarse con su prima Rosario, hija de su tía doña Perfecta. El matrimonio, arreglado por las familias, parece sencillo, y los dos jóvenes se enamoran enseguida. Pero el pueblo recibe con desconfianza al forastero y a sus opiniones sobre la ciencia y la religión.</p><p>Aquí puedes leer Doña Perfecta completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "negro",
-    "number": 19
+    "number": 19,
+    "art": {
+      "file": "dona-perfecta-benito-perez-galdos.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/dona-perfecta-benito-perez-galdos/ilustracion.jpg",
+      "credit": "Ignacio Zuloaga, «Segovia». Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Novela",

@@ -1,0 +1,161 @@
+{
+  "slug": "el-extrano-caso-del-dr-jekyll-stevenson",
+  "title": "El extraño caso del Dr. Jekyll y Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "author_route": "",
+  "book_route": "/el-extrano-caso-del-dr-jekyll-stevenson/",
+  "translator": "",
+  "edition": "Madrid, 1891",
+  "source_url": "https://es.wikisource.org/wiki/El_caso_extra%C3%B1o_del_doctor_Jekyll",
+  "source_revision": 1002757,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "capitulo-1",
+      "title": "I. Historia de la puerta",
+      "summary": "Empieza: «El Sr. Utterson, el abogado, era un hombre de rostro duro en el cual no brillaba jamás una sonrisa; frío, lacónico y…»",
+      "start": 0,
+      "end": 33
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "II. En busca del Sr. Hyde",
+      "summary": "Empieza: «Aquella noche, el Sr. Utterson volvió á su habitación de soltero, con el ánimo sombrío, y se sentó sin placer ante la…»",
+      "start": 34,
+      "end": 90
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "III. El Dr. Jekyll estaba tranquilo",
+      "summary": "Empieza: «Quince días después, por una feliz casualidad, el doctor daba una de sus alegres comidas á cinco ó seis antiguos amigos, hombres…»",
+      "start": 91,
+      "end": 110
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "IV. El caso del asesino de Carew",
+      "summary": "Empieza: «Un año después, poco más ó menos, en el mes de octubre de 18**, la ciudad de Londres quedó horrorizada por un…»",
+      "start": 111,
+      "end": 138
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "V. Incidente de la carta",
+      "summary": "Empieza: «Era ya muy entrada la tarde cuando Utterson llegó á la puerta de la casa del Doctor Jekyll, en donde fué recibido…»",
+      "start": 139,
+      "end": 186
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "VI. Notable incidente del Dr. Lanyón",
+      "summary": "Empieza: «Transcurrió algún tiempo; ofreciéronse miles de libras esterlinas de recompensa, pues la muerte de Sir Danvers fué considerada por todos como un…»",
+      "start": 187,
+      "end": 204
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "VII. Incidente de la ventana",
+      "summary": "Empieza: «Aconteció un domingo, que dando su acostumbrado paseo con el Sr. Enfield, la casualidad los condujo de nuevo á pasar por la…»",
+      "start": 205,
+      "end": 223
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "VIII. LA ULTIMA NOCHE",
+      "summary": "Empieza: «Una tarde, después de comer, Utterson estaba sentado junto al hogar, cuando quedó sorprendido por la visita de Poole.»",
+      "start": 224,
+      "end": 331
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "IX. RELACION DEL DOCTOR LANYÓN",
+      "summary": "Empieza: «\"El nueve de enero, hace hoy cuatro días, recibí por el correo, en el reparto de la tarde, una carta certificada, cuyo…»",
+      "start": 332,
+      "end": 367
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "X. Explicación completa del caso extraño del Dr. Enrique Jekyll",
+      "summary": "Empieza: «Nací en el año de 18**, heredero de una gran fortuna, dotado con excelentes cualidades; mi naturaleza me inducía al trabajo, estimaba…»",
+      "start": 368,
+      "end": 411
+    }
+  ],
+  "description": "El extraño caso del Dr. Jekyll y Mr. Hyde de Robert Louis Stevenson: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela corta sobre la doble naturaleza humana, el bien y el mal.",
+  "intro": "<p>En Londres, el abogado Utterson oye hablar de un tal Edward Hyde, un hombre repugnante que ha pisoteado a una niña y que parece tener alguna relación misteriosa con su amigo, el respetado doctor Henry Jekyll. El testamento de Jekyll deja todos sus bienes a Hyde, y Utterson teme que sea víctima de un chantaje. Poco después, Hyde mata a golpes a sir Danvers Carew y desaparece.</p><p>Aquí puedes leer El extraño caso del Dr. Jekyll y Mr. Hyde completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 46,
+    "art": {
+      "file": "el-extrano-caso-del-dr-jekyll-stevenson.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "url": "/leer/el-extrano-caso-del-dr-jekyll-stevenson/ilustracion.jpg",
+      "credit": "Henry Van der Weyde, Richard Mansfield como Jekyll y Hyde (1887). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela corta",
+    "unidad": "capítulos",
+    "tema": "la doble naturaleza humana, el bien y el mal",
+    "resumen": [
+      "En Londres, el abogado Utterson oye hablar de un tal Edward Hyde, un hombre repugnante que ha pisoteado a una niña y que parece tener alguna relación misteriosa con su amigo, el respetado doctor Henry Jekyll. El testamento de Jekyll deja todos sus bienes a Hyde, y Utterson teme que sea víctima de un chantaje. Poco después, Hyde mata a golpes a sir Danvers Carew y desaparece.",
+      "Jekyll se encierra en su laboratorio y su criado avisa a Utterson de que la voz que sale de allí no es la de su amo. Al forzar la puerta encuentran muerto a Hyde, con las ropas de Jekyll. Dos cartas lo explican todo: Jekyll había creado una pócima para separar su lado malvado, que tomaba la forma de Hyde, pero acabó transformándose sin querer y sin poder volver atrás."
+    ],
+    "personajes": [
+      [
+        "Doctor Henry Jekyll",
+        "Médico respetado que intenta separar el bien del mal en su propia naturaleza."
+      ],
+      [
+        "Edward Hyde",
+        "La encarnación del lado malvado de Jekyll, violento y sin escrúpulos."
+      ],
+      [
+        "Gabriel John Utterson",
+        "Abogado y amigo de Jekyll, que investiga el misterio."
+      ],
+      [
+        "Doctor Lanyon",
+        "Antiguo amigo de Jekyll, que presencia una transformación y muere de la impresión."
+      ],
+      [
+        "Poole",
+        "Mayordomo fiel de Jekyll."
+      ],
+      [
+        "Richard Enfield",
+        "Pariente de Utterson, que cuenta el primer encuentro con Hyde."
+      ]
+    ],
+    "ideas": [
+      "Todo ser humano tiene una doble naturaleza: el bien y el mal conviven en él.",
+      "La represión de los deseos en la sociedad victoriana.",
+      "Los peligros de la ciencia sin límites morales.",
+      "La identidad: perder el control de uno mismo."
+    ],
+    "faq": [
+      [
+        "¿De qué trata El extraño caso del Dr. Jekyll y Mr. Hyde?",
+        "De un médico que inventa una pócima para separar su lado malvado, que se convierte en Mr. Hyde. Con el tiempo pierde el control de la transformación y Hyde termina dominándolo."
+      ],
+      [
+        "¿Quién es Mr. Hyde?",
+        "Es el propio doctor Jekyll transformado: la parte malvada de su personalidad, liberada de toda conciencia moral."
+      ],
+      [
+        "¿Cómo termina?",
+        "Jekyll se queda sin los ingredientes de la pócima y no puede volver a su forma. Cuando Utterson entra en el laboratorio encuentra muerto a Hyde y la confesión escrita de Jekyll."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1886. Esta traducción española es de 1891."
+      ]
+    ]
+  },
+  "traducido": true
+}

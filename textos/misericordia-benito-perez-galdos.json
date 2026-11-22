@@ -304,7 +304,16 @@
   "intro": "<p>Benina es la criada de doña Francisca Juárez, una señora arruinada que no sabe vivir sin las apariencias de su antigua posición. Para que a su ama no le falte nada, Benina pide limosna a escondidas a la puerta de la iglesia de San Sebastián y le hace creer que trabaja para un sacerdote, don Romualdo. Entre los mendigos conoce a Almudena, un ciego de origen marroquí que la quiere con devoción.</p><p>Aquí puedes leer Misericordia completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "burdeos",
-    "number": 20
+    "number": 20,
+    "art": {
+      "file": "misericordia-benito-perez-galdos.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/misericordia-benito-perez-galdos/ilustracion.jpg",
+      "credit": "Bartolomé Esteban Murillo, «El joven mendigo» (1645-1650), Museo del Louvre. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Novela",

@@ -260,7 +260,16 @@
   "intro": "<p>A las puertas del tribunal, donde acaba de ser acusado de impiedad, Sócrates se encuentra con Eutifrón, un adivino que va a denunciar a su propio padre por la muerte de un jornalero. Eutifrón está tan seguro de saber qué es lo piadoso que Sócrates le pide que se lo enseñe.</p><p>Aquí puedes leer Eutifrón completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "ocre",
-    "number": 4
+    "number": 4,
+    "art": {
+      "file": "eutifron-platon.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/eutifron-platon/ilustracion.jpg",
+      "credit": "«El templo de Zeus Olímpico y la Acrópolis de Atenas en 1830». Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la piedad",

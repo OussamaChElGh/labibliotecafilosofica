@@ -423,7 +423,16 @@
   "intro": "<p>Sócrates y Fedro salen de Atenas y se tumban a la sombra de un plátano junto al río Iliso. Fedro le lee un discurso de Lisias que sostiene que es mejor complacer a quien no está enamorado. Sócrates responde primero con otro discurso en la misma línea, pero se arrepiente y pronuncia una palinodia en honor del Amor.</p><p>Aquí puedes leer Fedro completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "verde",
-    "number": 6
+    "number": 6,
+    "art": {
+      "file": "fedro-platon.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/fedro-platon/ilustracion.jpg",
+      "credit": "Johann Michael Wittmer, «Vista de Atenas desde el río Iliso» (1833). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "el amor, el alma y la retórica",

@@ -1,0 +1,146 @@
+{
+  "slug": "lazarillo-de-tormes",
+  "title": "Lazarillo de Tormes",
+  "author": "Anónimo",
+  "author_route": "",
+  "book_route": "/lazarillo-de-tormes/",
+  "translator": "",
+  "edition": "1554",
+  "source_url": "https://es.wikisource.org/wiki/El_Lazarillo_de_Tormes",
+  "source_revision": 1667235,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "prologo",
+      "title": "Prólogo",
+      "summary": "Empieza: «Yo por bien tengo que cosas tan señaladas y por ventura nunca oídas ni vistas vengan a noticia de muchos y no…»",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "slug": "tratado-primero",
+      "title": "Tratado primero. Cuenta Lázaro su vida y cúyo hijo fué",
+      "summary": "Empieza: «Pues sepa vuestra merced, ante todas cosas, que a mí me llaman Lázaro de Tormes, hijo de Tomé González y de Antona…»",
+      "start": 6,
+      "end": 120
+    },
+    {
+      "slug": "tratado-segundo",
+      "title": "Tratado segundo. Cómo Lázaro se asentó con un clérigo y de las cosas que con él pasó",
+      "summary": "Empieza: «Otro día, no pareciéndome estar allí seguro, fuíme a un lugar que llaman Maqueda, adonde me toparon mis pecados con un clérigo,…»",
+      "start": 121,
+      "end": 206
+    },
+    {
+      "slug": "tratado-tercero",
+      "title": "Tratado tercero. De cómo Lázaro se asentó con un escudero y de lo que le acaesció con él",
+      "summary": "Empieza: «Desta manera me fué forzado sacar fuerzas de flaqueza, y poco a poco, con ayuda de las buenas gentes, di conmigo en…»",
+      "start": 207,
+      "end": 357
+    },
+    {
+      "slug": "tratado-cuarto",
+      "title": "Tratado cuarto. Cómo Lázaro se asentó con un fraile de la Merced y de lo que le acaesció con él",
+      "summary": "Empieza: «Hube de buscar el cuarto, y éste fué un fraile de la Merced, que las mujercillas que digo me encaminaron. Al cual…»",
+      "start": 358,
+      "end": 359
+    },
+    {
+      "slug": "tratado-quinto",
+      "title": "Tratado quinto. Cómo Lázaro se asentó con un buldero, y de las cosas que con él pasó",
+      "summary": "Empieza: «En el quinto por mi ventura di, que fué un buldero, el más desenvuelto y desvergonzado y el mayor echador dellas que…»",
+      "start": 360,
+      "end": 417
+    },
+    {
+      "slug": "tratado-sexto",
+      "title": "Tratado sexto. Cómo Lázaro se asentó con un capellán y lo que con él pasó",
+      "summary": "Empieza: «Después desto asenté con un maestro de pintar panderos, para molerle los colores, y también sufrí mil males.»",
+      "start": 418,
+      "end": 421
+    },
+    {
+      "slug": "tratado-septimo",
+      "title": "Tratado séptimo. Cómo Lázaro se asentó con un alguacil y de lo que le acaesció con él",
+      "summary": "Empieza: «Despedido del capellán, asenté por hombre de justicia con un alguacil. Mas muy poco viví con él, por parecerme oficio peligroso. Mayormente,…»",
+      "start": 422,
+      "end": 441
+    }
+  ],
+  "description": "Lazarillo de Tormes de Anónimo: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela picaresca sobre el hambre, la astucia y la honra.",
+  "intro": "<p>Lázaro, hijo de un molinero ladrón, nace junto al río Tormes. Su madre lo entrega como lazarillo a un ciego astuto y cruel, que le enseña a sobrevivir a golpes. Después sirve a un clérigo avaro que lo mata de hambre, y a un escudero que presume de honra pero no tiene ni para comer, de modo que es Lázaro quien lo mantiene mendigando.</p><p>Aquí puedes leer Lazarillo de Tormes completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 40,
+    "art": {
+      "file": "lazarillo-de-tormes.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/lazarillo-de-tormes/ilustracion.jpg",
+      "credit": "Francisco de Goya, «El Lazarillo de Tormes» (h. 1808-1812). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela picaresca",
+    "unidad": "capítulos",
+    "tema": "el hambre, la astucia y la honra",
+    "resumen": [
+      "Lázaro, hijo de un molinero ladrón, nace junto al río Tormes. Su madre lo entrega como lazarillo a un ciego astuto y cruel, que le enseña a sobrevivir a golpes. Después sirve a un clérigo avaro que lo mata de hambre, y a un escudero que presume de honra pero no tiene ni para comer, de modo que es Lázaro quien lo mantiene mendigando.",
+      "Pasa luego por un fraile de la Merced, un buldero tramposo, un capellán y un alguacil, hasta conseguir un oficio real: pregonero en Toledo. Se casa con la criada del arcipreste de San Salvador, que es en realidad su amante, y acepta la situación a cambio de protección. Lázaro cuenta su vida a «Vuestra Merced» para explicar ese «caso» y presume de estar en la cumbre de su buena fortuna."
+    ],
+    "personajes": [
+      [
+        "Lázaro de Tormes",
+        "Narrador y protagonista, niño pobre que aprende a sobrevivir sirviendo a varios amos."
+      ],
+      [
+        "El ciego",
+        "Su primer amo, astuto y cruel, que le enseña a no fiarse de nadie."
+      ],
+      [
+        "El clérigo de Maqueda",
+        "Amo avaro que guarda el pan bajo llave."
+      ],
+      [
+        "El escudero",
+        "Hidalgo pobre que finge riqueza por la honra."
+      ],
+      [
+        "El buldero",
+        "Vendedor de bulas que engaña a los fieles con milagros falsos."
+      ],
+      [
+        "El arcipreste de San Salvador",
+        "Último protector de Lázaro y amante de su mujer."
+      ]
+    ],
+    "ideas": [
+      "El hambre y la pobreza como motor de la astucia.",
+      "La crítica a la hipocresía del clero y a la falsa honra.",
+      "La primera novela picaresca: un antihéroe que cuenta su propia vida.",
+      "El ascenso social a costa de la dignidad."
+    ],
+    "faq": [
+      [
+        "¿Quién escribió el Lazarillo de Tormes?",
+        "Es anónimo. Se han propuesto varios autores, como Diego Hurtado de Mendoza o Alfonso de Valdés, pero ninguna atribución es segura."
+      ],
+      [
+        "¿Cuántos amos tiene Lázaro?",
+        "Nueve: el ciego, el clérigo, el escudero, el fraile de la Merced, el buldero, el maestro de pintar panderos, el capellán, el alguacil y el arcipreste."
+      ],
+      [
+        "¿Qué es «el caso» del Lazarillo?",
+        "El rumor de que la mujer de Lázaro es amante del arcipreste. Lázaro escribe su vida para explicarlo a Vuestra Merced."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1554, en tres ediciones casi simultáneas (Burgos, Alcalá de Henares y Amberes)."
+      ]
+    ]
+  }
+}

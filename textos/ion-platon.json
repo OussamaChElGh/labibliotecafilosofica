@@ -203,7 +203,16 @@
   "intro": "<p>Ion, un rapsoda que recita y comenta a Homero, acaba de ganar un concurso en Epidauro. Presume de ser el mejor intérprete de Homero, pero reconoce que cuando se habla de otros poetas se aburre y no sabe qué decir.</p><p>Aquí puedes leer Ion completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "burdeos",
-    "number": 11
+    "number": 11,
+    "art": {
+      "file": "ion-platon.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "url": "/leer/ion-platon/ilustracion.jpg",
+      "credit": "William-Adolphe Bouguereau, «Homero y su guía» (1874), Milwaukee Art Museum. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la poesía y la inspiración",

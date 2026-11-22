@@ -45,7 +45,16 @@
   "intro": "<p>Camino del Liceo, Sócrates se encuentra con Hipotales, enamorado del joven Lisis, que le pide consejo para conquistarlo. Sócrates le muestra cómo hablarle y entra en la palestra, donde conversa con Lisis y su amigo Menéxeno.</p><p>Aquí puedes leer Lisis completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "azul",
-    "number": 10
+    "number": 10,
+    "art": {
+      "file": "lisis-platon.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/lisis-platon/ilustracion.jpg",
+      "credit": "Jean-Léon Gérôme, «Jóvenes griegos presenciando una pelea de gallos» (1846), Musée d'Orsay. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la amistad",

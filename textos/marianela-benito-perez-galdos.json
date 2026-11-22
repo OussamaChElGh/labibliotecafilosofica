@@ -171,7 +171,16 @@
   "intro": "<p>En las minas de Socartes vive la Nela, una huérfana pequeña, frágil y considerada fea por todos, que trabaja como lazarillo de Pablo Penáguilas, el hijo ciego de un rico propietario. Pablo, inteligente y sensible, conoce el mundo a través de las palabras de Marianela y se enamora de ella: como no puede verla, la imagina tan hermosa como su alma.</p><p>Aquí puedes leer Marianela completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "ocre",
-    "number": 18
+    "number": 18,
+    "art": {
+      "file": "marianela-benito-perez-galdos.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/marianela-benito-perez-galdos/ilustracion.jpg",
+      "credit": "Joaquín Sorolla, «Triste herencia» (1899). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Novela",

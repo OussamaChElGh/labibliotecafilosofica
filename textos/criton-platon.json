@@ -131,7 +131,16 @@
   "intro": "<p>Critón visita a Sócrates en la cárcel al amanecer, pocos días antes de la ejecución. Ha sobornado al carcelero y tiene todo listo para la fuga: hay dinero, amigos dispuestos a acogerle en Tesalia y, dice, la gente pensará que sus amigos no quisieron salvarle.</p><p>Aquí puedes leer Critón completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "azul",
-    "number": 3
+    "number": 3,
+    "art": {
+      "file": "criton-platon.jpg",
+      "focus": [
+        0.3,
+        0.5
+      ],
+      "url": "/leer/criton-platon/ilustracion.jpg",
+      "credit": "Jacques-Louis David, «La muerte de Sócrates» (1787), Metropolitan Museum of Art. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la obediencia a las leyes",

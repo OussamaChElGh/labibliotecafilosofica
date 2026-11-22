@@ -227,7 +227,16 @@
   "intro": "<p>Cándido es un joven ingenuo criado en el castillo del barón de Thunder-ten-tronckh, en Westfalia, donde su preceptor Pangloss le enseña que todo ocurre para bien en el mejor de los mundos posibles. Cuando lo sorprenden besando a Cunegunda, la hija del barón, lo expulsan a patadas y empieza un viaje por un mundo lleno de desgracias.</p><p>Aquí puedes leer Cándido, o el optimismo completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "ocre",
-    "number": 30
+    "number": 30,
+    "art": {
+      "file": "voltaire-candido.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/voltaire-candido/ilustracion.jpg",
+      "credit": "Jean-Michel Moreau, ilustración para Cándido (edición de Kehl, 1787). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Cuento filosófico",

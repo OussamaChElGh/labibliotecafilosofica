@@ -299,7 +299,16 @@
   "intro": "<p>Lisímaco y Melesias quieren dar a sus hijos la mejor educación y preguntan a dos generales famosos, Nicias y Laques, si conviene que aprendan a combatir con armas. Como los generales no se ponen de acuerdo, piden a Sócrates que intervenga.</p><p>Aquí puedes leer Laques completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "ocre",
-    "number": 9
+    "number": 9,
+    "art": {
+      "file": "laques-platon.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/laques-platon/ilustracion.jpg",
+      "credit": "Hoplitas en el vaso Chigi (siglo VII a. C.), Museo Nacional Etrusco de Villa Giulia. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "el valor",

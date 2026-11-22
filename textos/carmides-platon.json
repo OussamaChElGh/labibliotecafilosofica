@@ -352,7 +352,16 @@
   "intro": "<p>Sócrates vuelve a Atenas tras la batalla de Potidea y entra en la palestra de Táureas. Allí conoce al joven Cármides, admirado por su belleza, y su tutor Critias le pide que le cure un dolor de cabeza. Sócrates dice conocer un remedio, pero solo funciona si el alma del paciente tiene templanza.</p><p>Aquí puedes leer Cármides completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "verde",
-    "number": 8
+    "number": 8,
+    "art": {
+      "file": "carmides-platon.jpg",
+      "focus": [
+        0.35,
+        0.5
+      ],
+      "url": "/leer/carmides-platon/ilustracion.jpg",
+      "credit": "Jean-Léon Gérôme, «Jóvenes griegos presenciando una pelea de gallos» (1846), Musée d'Orsay. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la templanza",

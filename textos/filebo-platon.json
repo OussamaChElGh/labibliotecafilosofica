@@ -1059,7 +1059,16 @@
   "intro": "<p>Filebo sostiene que el bien es el placer. Como no quiere discutir, su joven amigo Protarco toma el relevo frente a Sócrates, que defiende que la sabiduría y el conocimiento valen más que el placer para una buena vida.</p><p>Aquí puedes leer Filebo completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "verde",
-    "number": 16
+    "number": 16,
+    "art": {
+      "file": "filebo-platon.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/filebo-platon/ilustracion.jpg",
+      "credit": "Lawrence Alma-Tadema, «Fidias muestra el friso del Partenón a sus amigos» (1868), Birmingham Museum. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "el placer y el bien",

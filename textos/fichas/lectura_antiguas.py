@@ -32,6 +32,8 @@ BOOKS = {
     "macbeth-shakespeare": dict(route="/macbeth-libros-pdf-gratis/", color="burdeos", unidad="actos", numerar=""),
     "romeo-y-julieta-shakespeare": dict(route="/romeo-y-julieta-libros-pdf-gratis-shakespeare/", color="azul",
                                         unidad="actos", numerar=""),
+    "los-viajes-de-gulliver-jonathan-swift": dict(route="/los-viajes-de-gulliver-pdf-jonathan-swift/", color="verde",
+                                                  unidad="capítulos", numerar="", number=49),
 }
 
 
@@ -72,7 +74,7 @@ def main():
                                f"gratis o descargar en PDF. {data['genero']} sobre {data['tema']}.")[:300]
         meta["intro"] = f"<p>{data['resumen'][0]}</p><p>Aquí puedes leer {title} completo, dividido en {unit}. " \
                         "Se respeta la ortografía de la edición original.</p>"
-        meta.setdefault("cover", {}).update({"color": conf["color"], "number": number})
+        meta.setdefault("cover", {}).update({"color": conf["color"], "number": conf.get("number", number)})
         for chapter in meta["chapters"]:
             if not chapter.get("summary"):
                 first = next((b[2:] for b in blocks[chapter["start"]:chapter["end"] + 1] if b.startswith("P|")), "")

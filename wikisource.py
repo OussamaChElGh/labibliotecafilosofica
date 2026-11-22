@@ -86,7 +86,21 @@ def subpages(page):
         if href.startswith(prefix) and href not in seen:
             seen.add(href)
             out.append((href[len("/wiki/"):].replace("_", " "), clean(a.text_content())))
+    if not out:  # capítulos como páginas hermanas: «Los Pazos de Ulloa: 01»
+        base = re.sub(r"\s*\(.*\)$", "", title).lower()
+        for a in html.fromstring(data["parse"]["text"]).xpath("//a[@href]"):
+            name = urllib.parse.unquote(a.get("href")).split("#")[0][len("/wiki/"):].replace("_", " ")
+            if name.lower().startswith(base + ": ") and name not in seen:
+                seen.add(name)
+                out.append((name, clean(a.text_content())))
     return title, out, data["parse"].get("revid")
+
+
+def part_name(sub):
+    """«Marianela/I» → «I»; «Los Pazos de Ulloa: 01» → «1»."""
+    if "/" in sub:
+        return sub.split("/", 1)[1]
+    return sub.rsplit(": ", 1)[1].lstrip("0") or "0"
 
 
 def roman(text):
@@ -112,7 +126,7 @@ def convert_chapters(page):
         blocks, _, _ = convert(sub)
         own = [b for b in blocks if b.startswith("N|")]
         blocks = [b for b in blocks if not b.startswith("N|")]
-        name = sub.split("/", 1)[1]
+        name = part_name(sub)
         heads = []
         while blocks and blocks[0].startswith("H|") and len(heads) < 3:
             heads.append(blocks.pop(0)[2:].strip().rstrip("."))
@@ -135,7 +149,7 @@ def convert_chapters(page):
         offset = len(notes)
         blocks = [re.sub(r"\[\[(\d+)\]\]", lambda m: f"[[{int(m.group(1)) + offset}]]", b) for b in blocks]
         notes += own
-        chapters.append({"slug": chapter_slug(sub.split("/", 1)[1]) or f"parte-{len(chapters) + 1}", "title": heading, "summary": "",
+        chapters.append({"slug": chapter_slug(part_name(sub)) or f"parte-{len(chapters) + 1}", "title": heading, "summary": "",
                          "start": len(body), "end": len(body) + len(blocks)})
         body += ["H|" + heading] + blocks
     return body + notes, chapters, revision

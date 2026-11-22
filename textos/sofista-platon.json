@@ -1236,7 +1236,16 @@
   "intro": "<p>Al día siguiente de la conversación del Teeteto, un extranjero de Elea, discípulo de Parménides, acepta explicar qué es un sofista. Con el joven Teeteto aplica el método de la división: va separando las artes en clases hasta cazar al sofista, que resulta escurridizo y aparece bajo muchas formas.</p><p>Aquí puedes leer El sofista completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "negro",
-    "number": 17
+    "number": 17,
+    "art": {
+      "file": "sofista-platon.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "url": "/leer/sofista-platon/ilustracion.jpg",
+      "credit": "Rafael, «La escuela de Atenas» (detalle de Pitágoras, 1509-1511), Museos Vaticanos. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "el ser y el no ser",

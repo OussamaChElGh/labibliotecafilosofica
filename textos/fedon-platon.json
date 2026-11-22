@@ -101,7 +101,16 @@
   "intro": "<p>Fedón cuenta a Equécrates el último día de Sócrates en la cárcel. Rodeado de sus amigos, Sócrates explica por qué el filósofo no teme a la muerte: filosofar es prepararse para morir, porque es separar el alma de los engaños del cuerpo.</p><p>Aquí puedes leer Fedón completo, dividido en partes, con las notas de la traducción de Luis Roig de Lluis. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "negro",
-    "number": 5
+    "number": 5,
+    "art": {
+      "file": "fedon-platon.jpg",
+      "focus": [
+        0.55,
+        0.5
+      ],
+      "url": "/leer/fedon-platon/ilustracion.jpg",
+      "credit": "Jacques-Louis David, «La muerte de Sócrates» (1787), Metropolitan Museum of Art. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "tema": "la inmortalidad del alma",

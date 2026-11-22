@@ -136,7 +136,16 @@
   "intro": "<p>Gabriel Araceli, ya anciano, recuerda cómo de niño, huérfano y pícaro en Cádiz, entró a servir en casa de don Alonso Gutiérrez de Cisniega, un viejo marino retirado. En 1805, contra la voluntad de su esposa doña Francisca, don Alonso decide embarcarse con la escuadra hispano-francesa acompañado de Marcial, un marinero mutilado al que llaman Medio-hombre, y del propio Gabriel.</p><p>Aquí puedes leer Trafalgar completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "azul",
-    "number": 21
+    "number": 21,
+    "art": {
+      "file": "trafalgar-benito-perez-galdos.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/trafalgar-benito-perez-galdos/ilustracion.jpg",
+      "credit": "J. M. W. Turner, «La batalla de Trafalgar» (1822-1824), National Maritime Museum. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Novela histórica",

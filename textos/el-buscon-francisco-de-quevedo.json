@@ -178,7 +178,16 @@
   "intro": "<p>Pablos, hijo de un barbero ladrón y de una madre acusada de bruja, cuenta su vida desde Segovia. Quiere ser caballero y entra al servicio de don Diego Coronel, un niño rico. Juntos pasan hambre en el pupilaje del dómine Cabra y luego estudian en Alcalá, donde Pablos sufre novatadas crueles y aprende a engañar para sobrevivir.</p><p>Aquí puedes leer El Buscón completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "burdeos",
-    "number": 23
+    "number": 23,
+    "art": {
+      "file": "el-buscon-francisco-de-quevedo.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/el-buscon-francisco-de-quevedo/ilustracion.jpg",
+      "credit": "Bartolomé Esteban Murillo, «Niños comiendo uvas y melón» (h. 1650), Alte Pinakothek. Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Novela picaresca",

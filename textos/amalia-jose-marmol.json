@@ -570,7 +570,16 @@
   "intro": "<p>Buenos Aires, mayo de 1840. Eduardo Belgrano, joven unitario, sobrevive herido a una emboscada de la Mazorca, la policía política del gobernador Juan Manuel de Rosas, cuando intentaba huir a Montevideo. Su amigo Daniel Bello, que finge apoyar al régimen, lo esconde en la casa de su prima Amalia, una joven viuda tucumana.</p><p>Aquí puedes leer Amalia completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "burdeos",
-    "number": 29
+    "number": 29,
+    "art": {
+      "file": "amalia-jose-marmol.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/amalia-jose-marmol/ilustracion.jpg",
+      "credit": "Prilidiano Pueyrredón, «Paisaje (Recuerdo del Brasil)» (h. 1840-1870). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Novela",

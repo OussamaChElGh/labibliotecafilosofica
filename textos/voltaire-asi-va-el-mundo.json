@@ -31,7 +31,16 @@
   "intro": "<p>El ángel Ituriel encarga al escita Babuc que visite Persépolis y le informe de si la ciudad merece ser destruida por sus vicios. Babuc recorre la capital y ve guerras absurdas, templos ruidosos, jueces que compran sus cargos y mujeres infieles, y se indigna.</p><p>Aquí puedes leer Así va el mundo completo, dividido en partes. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "verde",
-    "number": 33
+    "number": 33,
+    "art": {
+      "file": "voltaire-asi-va-el-mundo.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/voltaire-asi-va-el-mundo/ilustracion.jpg",
+      "credit": "Eugène Flandin, «Vista de las ruinas de Persépolis» (h. 1840). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Cuento filosófico",

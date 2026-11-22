@@ -234,7 +234,16 @@
   "intro": "<p>En Vetusta, una ciudad provinciana inspirada en Oviedo, vive Ana Ozores, conocida como la Regenta por estar casada con don Víctor Quintanar, antiguo regente de la Audiencia, mucho mayor que ella. Ana es sensible, soñadora y se siente sola en un matrimonio sin pasión. Dos hombres la rodean: el magistral don Fermín de Pas, su confesor, ambicioso y enamorado en secreto, y don Álvaro Mesía, el seductor de la ciudad.</p><p>Aquí puedes leer La Regenta completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "negro",
-    "number": 27
+    "number": 27,
+    "art": {
+      "file": "la-regenta-leopoldo-alas-clarin.jpg",
+      "focus": [
+        0.5,
+        0.3
+      ],
+      "url": "/leer/la-regenta-leopoldo-alas-clarin/ilustracion.jpg",
+      "credit": "Achille Devéria, «Retrato de una mujer española» (1831), litografía, Art Institute of Chicago. Dominio público (CC0)."
+    }
   },
   "ficha": {
     "genero": "Novela",

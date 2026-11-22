@@ -1,0 +1,345 @@
+{
+  "slug": "el-sombrero-de-tres-picos-pedro-antonio-de-alarcon",
+  "title": "El sombrero de tres picos",
+  "author": "Pedro Antonio de Alarcón",
+  "author_route": "",
+  "book_route": "/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
+  "translator": "",
+  "edition": "Madrid, 1874",
+  "source_url": "https://es.wikisource.org/wiki/El_sombrero_de_tres_picos_%281874%29",
+  "source_revision": 1458317,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "prefacio",
+      "title": "Prefacio",
+      "summary": "Empieza: «Pocos españoles, áun contando á los ménos sabidos y leidos, desconocerán la historieta vulgar que sirve de fundamento á la presente obrilla.»",
+      "start": 0,
+      "end": 27
+    },
+    {
+      "slug": "capitulo-1",
+      "title": "EL SOMBRERO DE TRES PICOS",
+      "summary": "Empieza: «Comenzaba este largo siglo, que ya va de vencida.—No se sabe fijamente el año: sólo consta que era despues del de 4…»",
+      "start": 28,
+      "end": 32
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "De cómo vivia entonces la gente",
+      "summary": "Empieza: «En Andalucía, por ejemplo (pues precisamente aconteció en una ciudad de Andalucía lo que vais á oir); las personas de suposicion continuaban…»",
+      "start": 33,
+      "end": 36
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "Do ut des belle",
+      "summary": "Empieza: «En aquel tiempo, pues, habia cerca de la ciudad de ***(perteneciente al reino de Granada, y cabeza de corregimiento) un magnífico molino…»",
+      "start": 37,
+      "end": 43
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "Capítulo IV: Una mujer vista por fuera",
+      "summary": "Empieza: «La última y acaso la más poderosa razón que tenía el señorío de la ciudad para frecuentar por las tardes el molino…»",
+      "start": 44,
+      "end": 51
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "Capítulo V: Un hombre visto por fuera y por dentro",
+      "summary": "Empieza: «El tío Lucas era más feo que Picio. Lo había sido toda su vida, y ya tenía cerca de cuarenta años. Sin…»",
+      "start": 52,
+      "end": 55
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "Capítulo VI: Habilidades de los dos cónyuges",
+      "summary": "Empieza: «Amaba, pues, locamente la señá Frasquita al tío Lucas, y considerábase la mujer más feliz del mundo al verse adorada por él.…»",
+      "start": 56,
+      "end": 61
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "Capítulo VII: El fondo de la felicidad",
+      "summary": "Empieza: «Adorábanse, sí, locamente el Molinero y la Molinera, y aun se hubiera creído que ella lo quería más a él que él…»",
+      "start": 62,
+      "end": 66
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "Capítulo VIII: El hombre del sombrero de tres picos",
+      "summary": "Empieza: «Eran las dos de una tarde de octubre.»",
+      "start": 67,
+      "end": 77
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "Capítulo IX: ¡Arre, burra!",
+      "summary": "Empieza: «Por dondequiera que pasaban el personaje y su apéndice, los labradores dejaban sus faenas y se descubrían hasta los pies, con más…»",
+      "start": 78,
+      "end": 94
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "Capítulo X: Desde la parra",
+      "summary": "Empieza: «Mientras así discurrían los labriegos que saludaban al señor Corregidor, la señá Frasquita regaba y barría cuidadosamente la plazoletilla empedrada que servía…»",
+      "start": 95,
+      "end": 124
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "Capítulo XI: El bombardeo de Pamplona",
+      "summary": "Empieza: «Dios te guarde, Frasquita... -dijo el Corregidor a media voz, apareciendo bajo el emparrado y andando de puntillas.»",
+      "start": 125,
+      "end": 186
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "Capítulo XII: Diezmos y primicias",
+      "summary": "Empieza: «Repuesto el Corregidor en su silla, la Molinera dirigió una rápida mirada a su esposo, y viole, no sólo tan sosegado como…»",
+      "start": 187,
+      "end": 214
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "Capítulo XIII: Le dijo el grajo al cuervo",
+      "summary": "Empieza: «Hora y media después todos los ilustres compañeros de merienda estaban de vuelta en la ciudad.»",
+      "start": 215,
+      "end": 244
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "Capítulo XIV: Los consejos de Garduña",
+      "summary": "Empieza: «Entretanto, el Corregidor había subido al Ayuntamiento, acompañado de Garduña, con quien mantenía hacía rato, en el salón de sesiones, una conversación…»",
+      "start": 245,
+      "end": 291
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "Capítulo XV: Despedida en prosa",
+      "summary": "Empieza: «Serían las nueve de aquella misma noche, cuando el tío Lucas y la señá Frasquita, terminadas todas las haciendas del molino y…»",
+      "start": 292,
+      "end": 318
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "Capítulo XVI: Un ave de mal agüero",
+      "summary": "Empieza: «Sigamos por nuestra parte al tío Lucas.»",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "Capítulo XVII: Un alcalde de monterilla",
+      "summary": "Empieza: «El señor Juan López, que como particular y como alcalde era la tiranía, la ferocidad y el orgullo personificados (cuando trataba con…»",
+      "start": 330,
+      "end": 358
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "Capítulo XVIII: Donde se verá que el tío Lucas tenía el sueño muy ligero",
+      "summary": "Empieza: «Cinco minutos después, un hombre se descolgaba por la ventana del pajar del señor alcalde; ventana que daba a un corralón y…»",
+      "start": 359,
+      "end": 364
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "Capítulo XIX: Voces clamantes in deserto",
+      "summary": "Empieza: «¡Alcaldes a mí, que soy de Archena! -iba diciéndose el murciano-. ¡Mañana por la mañana pasaré a ver al señor Obispo, como…»",
+      "start": 365,
+      "end": 379
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "Capítulo XX: La duda y la realidad",
+      "summary": "Empieza: «Estaba abierta... ¡y él, al marcharse, había oído a su mujer cerrarla con llave, tranca y cerrojo!»",
+      "start": 380,
+      "end": 441
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "Capítulo XXI: ¡En guardia, caballero!",
+      "summary": "Empieza: «Abandonemos por ahora al tío Lucas, y enterémonos de lo que había ocurrido en el molino desde que dejamos allí sola a…»",
+      "start": 442,
+      "end": 489
+    },
+    {
+      "slug": "capitulo-22",
+      "title": "Capítulo XXII: Garduña se multiplica",
+      "summary": "Empieza: «Cuando Garduña llegó al molino, el Corregidor principiaba a volver en sí, procurando levantarse del suelo.»",
+      "start": 490,
+      "end": 523
+    },
+    {
+      "slug": "capitulo-23",
+      "title": "Capítulo XXIII: Otra vez el desierto y las consabidas voces",
+      "summary": "Empieza: «La única aventura que le ocurrió a la navarra en su viaje desde el molino al pueblo, fue asustarse un poco al…»",
+      "start": 524,
+      "end": 531
+    },
+    {
+      "slug": "capitulo-24",
+      "title": "Capítulo XXIV: Un Rey de entonces",
+      "summary": "Empieza: «Hallábase ya durmiendo la mona el señor alcalde, vuelta la espalda a la espalda de su mujer (y formando así con ésta…»",
+      "start": 532,
+      "end": 550
+    },
+    {
+      "slug": "capitulo-25",
+      "title": "Capítulo XXV: La estrella de Garduña",
+      "summary": "Empieza: «Precedámosles nosotros, supuesto que tenemos carta blanca para andar más de prisa que nadie.»",
+      "start": 551,
+      "end": 574
+    },
+    {
+      "slug": "capitulo-26",
+      "title": "Capítulo XXVI: Reacción",
+      "summary": "Empieza: «El Corregidor seguía en la cama, tal y como acababa de verlo el tío Lucas por el ojo de la llave.»",
+      "start": 575,
+      "end": 579
+    },
+    {
+      "slug": "capitulo-27",
+      "title": "Capítulo XXVII: ¡Favor al Rey!",
+      "summary": "Empieza: «Entretanto, la señá Frasquita, el Sr. Juan López y Toñuelo avanzaban hacia el molino, al cual llegaron pocos minutos después.»",
+      "start": 580,
+      "end": 613
+    },
+    {
+      "slug": "capitulo-28",
+      "title": "Capítulo XXVIII: ¡Ave María Purísima! ¡Las doce y media y sereno!",
+      "summary": "Empieza: «Así gritaba por las calles de la ciudad quien tenía facultades para tanto, cuando la Molinera y el Corregidor, cada cual en…»",
+      "start": 614,
+      "end": 648
+    },
+    {
+      "slug": "capitulo-29",
+      "title": "Capítulo XXIX: Post nubila... Diana",
+      "summary": "Empieza: «¿Qué escándalo es éste? -dijo al fin una voz tranquila, majestuosa y de gracioso timbre, resonando encima de aquella baraúnda.»",
+      "start": 649,
+      "end": 656
+    },
+    {
+      "slug": "capitulo-30",
+      "title": "Capítulo XXX: Una señora de clase",
+      "summary": "Empieza: «La Corregidora recibió a su esposo y a la rústica comitiva en el salón principal del Corregimiento.»",
+      "start": 657,
+      "end": 664
+    },
+    {
+      "slug": "capitulo-31",
+      "title": "Capítulo XXXI: La pena del talión",
+      "summary": "Empieza: «¡Mercedes! -exclamó el Corregidor al comparecer delante de su esposa. Necesito saber inmediatamente...»",
+      "start": 665,
+      "end": 706
+    },
+    {
+      "slug": "capitulo-32",
+      "title": "Capítulo XXXII: La fe mueve las montañas",
+      "summary": "Empieza: «Tengan Vds muy buenas noches -pronunció el recién llegado, quitándose el sombrero de tres picos, y hablando con la boca sumida, como…»",
+      "start": 707,
+      "end": 729
+    },
+    {
+      "slug": "capitulo-33",
+      "title": "Capítulo XXXIII: Pues ¿y tú?",
+      "summary": "Empieza: «El tío Lucas fue el primero que salió a flote en aquel mar de lágrimas.»",
+      "start": 730,
+      "end": 783
+    },
+    {
+      "slug": "capitulo-34",
+      "title": "Capítulo XXXIV: También la Corregidora es guapa",
+      "summary": "Empieza: «Salido que hubieron de la sala el Corregidor y el tío Lucas, sentose de nuevo la Corregidora en el sofá, colocó a…»",
+      "start": 784,
+      "end": 796
+    },
+    {
+      "slug": "capitulo-35",
+      "title": "Capítulo XXXV: Decreto imperial",
+      "summary": "Empieza: «Regresaron en esto a la sala el Corregidor y el tío Lucas, vestido cada cual con su propia ropa.»",
+      "start": 797,
+      "end": 815
+    },
+    {
+      "slug": "capitulo-36",
+      "title": "Capítulo XXXVI: Conclusión, moraleja y epílogo",
+      "summary": "Empieza: «Piaban los pajarillos saludando el alba, cuando el tío Lucas y la señá Frasquita salían de la ciudad con dirección a su…»",
+      "start": 816,
+      "end": 839
+    }
+  ],
+  "description": "El sombrero de tres picos de Pedro Antonio de Alarcón: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela corta sobre el enredo, los celos y la burla al poderoso.",
+  "intro": "<p>En un pueblo andaluz de principios del siglo XIX viven el tío Lucas, molinero feo pero listo, y su mujer, la señá Frasquita, bellísima y fiel. El corregidor, don Eugenio de Zúñiga, viejo y enamoradizo, se encapricha de ella y trama con su alguacil, Garduña, alejar al molinero de casa con una orden falsa para visitar a Frasquita de noche.</p><p>Aquí puedes leer El sombrero de tres picos completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 41,
+    "art": {
+      "file": "el-sombrero-de-tres-picos-pedro-antonio-de-alarcon.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "url": "/leer/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/ilustracion.jpg",
+      "credit": "Francisco de Goya, «El pelele» (1791-1792), Museo del Prado. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela corta",
+    "unidad": "capítulos",
+    "tema": "el enredo, los celos y la burla al poderoso",
+    "resumen": [
+      "En un pueblo andaluz de principios del siglo XIX viven el tío Lucas, molinero feo pero listo, y su mujer, la señá Frasquita, bellísima y fiel. El corregidor, don Eugenio de Zúñiga, viejo y enamoradizo, se encapricha de ella y trama con su alguacil, Garduña, alejar al molinero de casa con una orden falsa para visitar a Frasquita de noche.",
+      "El corregidor cae al caz del molino, y Frasquita lo echa y va a buscar a su marido. Mientras, Lucas vuelve, encuentra la ropa del corregidor secándose junto al fuego y cree que lo han engañado. Para vengarse se viste con el traje y el sombrero de tres picos del corregidor y va a casa de la corregidora. Tras una noche de enredos, todo se aclara: Frasquita era inocente, y la corregidora da una lección a su marido."
+    ],
+    "personajes": [
+      [
+        "El tío Lucas",
+        "Molinero feo, ingenioso y celoso."
+      ],
+      [
+        "La señá Frasquita",
+        "Su mujer, bellísima, alegre y fiel."
+      ],
+      [
+        "Don Eugenio de Zúñiga",
+        "El corregidor, viejo vanidoso que pretende a Frasquita."
+      ],
+      [
+        "Garduña",
+        "Alguacil servil del corregidor."
+      ],
+      [
+        "Doña Mercedes",
+        "La corregidora, digna e inteligente, que castiga a su marido."
+      ]
+    ],
+    "ideas": [
+      "El ingenio del pueblo frente al abuso de la autoridad.",
+      "Los celos y el honor en clave de comedia.",
+      "La recreación de un romance popular con humor costumbrista.",
+      "El sombrero de tres picos como símbolo del poder."
+    ],
+    "faq": [
+      [
+        "¿De qué trata El sombrero de tres picos?",
+        "De un corregidor que intenta seducir a la molinera Frasquita y de la venganza burlesca de su marido, el tío Lucas, que se viste con la ropa del corregidor."
+      ],
+      [
+        "¿En qué se basa?",
+        "En un romance y un cuento popular sobre un molinero y un corregidor que Alarcón oyó de niño y reescribió en 1874."
+      ],
+      [
+        "¿Qué obra musical inspiró?",
+        "El ballet El sombrero de tres picos de Manuel de Falla, estrenado en Londres en 1919 con decorados de Picasso."
+      ],
+      [
+        "¿Cómo termina?",
+        "Todo se aclara: Frasquita y Lucas se reconcilian y el corregidor queda en ridículo ante su mujer."
+      ]
+    ]
+  }
+}

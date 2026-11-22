@@ -45,7 +45,16 @@
   "intro": "<p>Kant busca el principio supremo de la moralidad. Parte de una idea común: lo único bueno sin restricción es una buena voluntad. Una acción tiene valor moral cuando se hace por deber, por respeto a la ley moral, y no solo conforme al deber o por inclinación.</p><p>Aquí puedes leer Fundamentación de la metafísica de las costumbres completo, dividido en partes. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "negro",
-    "number": 32
+    "number": 32,
+    "art": {
+      "file": "fundamentacion-metafisica-costumbres-kant.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/fundamentacion-metafisica-costumbres-kant/ilustracion.jpg",
+      "credit": "Emil Doerstling, «Kant y sus comensales» (1892-1893). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Tratado filosófico",

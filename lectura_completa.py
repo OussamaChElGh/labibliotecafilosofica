@@ -107,12 +107,12 @@ def cover_art_svg(meta, inline=False):
     win = (64, 132, 472, 400)  # x, y, ancho, alto
     words, lines = meta["title"].split(), []
     for word in words:
-        if lines and len(lines[-1]) + 1 + len(word) <= 16:
+        if lines and len(lines[-1]) + 1 + len(word) <= (16 if len(meta["title"]) <= 32 else 24):
             lines[-1] += " " + word
         else:
             lines.append(word)
     longest = max(len(line) for line in lines)
-    size = min(70, int(470 / (longest * 0.48)))
+    size = min(70 if len(lines) <= 2 else 44, int(470 / (longest * 0.48)))
     top = 688 - (len(lines) - 1) * size * 0.5
     title = "".join(f'<text x="300" y="{top + i * size * 1.05:.0f}" font-size="{size}">{escape(line)}</text>' for i, line in enumerate(lines))
     number = f'{int(cover.get("number", 1)):02d}'
@@ -127,8 +127,8 @@ def cover_art_svg(meta, inline=False):
             f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="none" stroke="{gold}" stroke-width="1.2"/>'
             f'<rect x="28" y="28" width="544" height="844" fill="none" stroke="{gold}" stroke-width="1.6"/>'
             f'<rect x="38" y="38" width="524" height="824" fill="none" stroke="{gold}" stroke-width=".7" opacity=".7"/>'
-            f'<text x="300" y="90" fill="{ink}" opacity=".82" font-family="Inter, sans-serif" font-size="13" letter-spacing="4.5" text-anchor="middle">LA BIBLIOTECA FILOSÓFICA</text>'
-            f'<line x1="270" y1="108" x2="330" y2="108" stroke="{gold}" stroke-width="1"/>'
+            f'<image href="/img/logo-portada.png" x="273" y="44" width="54" height="47"/>'
+            f'<text x="300" y="112" fill="{ink}" opacity=".82" font-family="Inter, sans-serif" font-size="12" letter-spacing="4.5" text-anchor="middle">LA BIBLIOTECA FILOSÓFICA</text>'
             f'<text x="300" y="{top - size - 18:.0f}" fill="{gold}" font-family="Inter, sans-serif" font-size="19" letter-spacing="7" text-anchor="middle">{escape(meta["author"].upper())}</text>'
             f'<g fill="{ink}" font-family="\'Caslon Display\', Fraunces, Georgia, serif" text-anchor="middle">{title}</g>'
             f'<line x1="282" y1="{top + (len(lines) - 1) * size * 1.05 + 34:.0f}" x2="318" y2="{top + (len(lines) - 1) * size * 1.05 + 34:.0f}" stroke="{gold}" stroke-width="1"/>'
@@ -153,7 +153,12 @@ def write(route, document):
 
 def version(meta, edition=False):
     """«Traducción de …» o, para obras escritas en español, la edición."""
-    text = f'Traducción de {meta["translator"]}' if meta.get("translator") else "Texto original en español"
+    if meta.get("translator"):
+        text = f'Traducción de {meta["translator"]}'
+    elif meta.get("traducido"):  # traducción antigua sin traductor conocido
+        text = "Traducción española anónima"
+    else:
+        text = "Texto original en español"
     if edition and meta.get("edition"):
         text += f' ({meta["edition"]})'
     return text

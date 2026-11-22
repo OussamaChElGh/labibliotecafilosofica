@@ -164,7 +164,16 @@
   "intro": "<p>En la selva oriental del Ecuador, Carlos, hijo del misionero dominico fray Domingo Orozco, se enamora de Cumandá, una joven de belleza extraordinaria que vive entre los pueblos indígenas del río Palora. Fray Domingo había sido un hacendado cruel; tras perder a su mujer y a sus hijos en una sublevación indígena, se hizo religioso para expiar sus culpas.</p><p>Aquí puedes leer Cumandá completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "verde",
-    "number": 28
+    "number": 28,
+    "art": {
+      "file": "cumanda-juan-leon-mera.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/cumanda-juan-leon-mera/ilustracion.jpg",
+      "credit": "Frederic Edwin Church, «Cotopaxi» (1855). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Novela",

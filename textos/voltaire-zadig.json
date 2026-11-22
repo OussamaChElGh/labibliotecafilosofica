@@ -171,7 +171,16 @@
   "intro": "<p>Zadig es un joven sabio y virtuoso de Babilonia que solo desea ser feliz, pero cada una de sus buenas acciones le trae una desgracia y algunas torpezas le traen fortuna. Es traicionado en el amor, acusado injustamente, nombrado primer ministro del rey Moabdar y obligado a huir por el amor que siente por la reina Astarté.</p><p>Aquí puedes leer Zadig, o el destino completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "azul",
-    "number": 31
+    "number": 31,
+    "art": {
+      "file": "voltaire-zadig.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/voltaire-zadig/ilustracion.jpg",
+      "credit": "Jean-Michel Moreau, ilustración para Zadig (edición de Kehl). Dominio público, vía Wikimedia Commons."
+    }
   },
   "ficha": {
     "genero": "Cuento filosófico",

@@ -63,6 +63,27 @@
 
   let page = 0, pages = 1, perView = 2, step = 0, enabled = false
 
+  // Índice de la obra: en modo libro, panel lateral con salto a una página del capítulo.
+  const index = document.querySelector('.chapter-index')
+  const panel = index && index.querySelector('.chapter-index-panel')
+  const jump = document.createElement('form'); jump.className = 'chapter-jump'; jump.hidden = true
+  const jumpLabel = document.createElement('label')
+  const jumpInput = Object.assign(document.createElement('input'), { type: 'number', min: 1, inputMode: 'numeric' })
+  const jumpTotal = document.createElement('span')
+  jumpLabel.append('Ir a la página ', jumpInput); jump.append(jumpLabel, jumpTotal, Object.assign(document.createElement('button'), { type: 'submit', textContent: 'Ir' }))
+  if (panel) panel.prepend(jump)
+  jump.addEventListener('submit', event => {
+    event.preventDefault()
+    const target = Math.max(1, Math.min(pages, Number(jumpInput.value) || 1)) - 1
+    const old = page; page = clampPage(target); render(true, page - old)
+    index.open = false
+    book.scrollIntoView({ block: 'center' })
+  })
+  if (index) {
+    document.addEventListener('keydown', event => { if (event.key === 'Escape' && index.open) { index.open = false; index.querySelector('summary').focus() } })
+    document.addEventListener('click', event => { if (enabled && index.open && !index.contains(event.target)) index.open = false })
+  }
+
   const measure = () => {
     const style = getComputedStyle(viewport)
     const innerW = viewport.clientWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight)
@@ -117,6 +138,7 @@
     btnNext.textContent = atEnd && data.next ? 'Capítulo siguiente →' : 'Siguiente →'
     zonePrev.disabled = btnPrev.disabled; zoneNext.disabled = btnNext.disabled
     note.textContent = 'Marcapáginas guardado automáticamente en este navegador.'
+    jumpInput.max = pages; jumpInput.value = first; jumpTotal.textContent = `de ${pages}`
     save()
   }
 
@@ -134,7 +156,7 @@
   }
 
   const enable = startRatio => {
-    root.classList.add('book-on'); enabled = true
+    root.classList.add('book-on'); enabled = true; jump.hidden = false
     toggle.textContent = 'Cambiar a lectura continua'
     measure()
     if (location.hash === '#final') page = clampPage(pages - 1)
@@ -143,7 +165,7 @@
     if (startRatio > 0 || location.hash === '#final') book.scrollIntoView({ block: 'center' })
   }
   const disable = () => {
-    enabled = false; root.classList.remove('book-on')
+    enabled = false; root.classList.remove('book-on'); jump.hidden = true
     flow.style.transform = ''; flow.style.columnWidth = ''; flow.style.columnGap = ''; flow.style.columnCount = ''
     toggle.textContent = 'Cambiar a modo libro'
     note.textContent = ''

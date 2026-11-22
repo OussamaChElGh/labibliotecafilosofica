@@ -4,7 +4,10 @@
 //   public/leer/<slug>/social.jpg   (1200×630, vista previa de enlaces y redes)
 // Uso: node portadas.mjs   (después de python lectura_completa.py)
 //      PORTADAS=slug1,slug2 node portadas.mjs   solo esas obras (evita regenerar todas las imágenes y PDF)
-import { readFileSync, readdirSync, existsSync } from 'node:fs'
+//      SOLO_PDF=1 node portadas.mjs              solo los PDF, sin tocar las imágenes
+// Usa Microsoft Edge (channel msedge): el Chromium «headless shell» de Playwright no aplica bien las
+// páginas con nombre de impresion.css (la portada sale encogida). Otro navegador: NAVEGADOR=chrome.
+import { readFileSync, readdirSync, existsSync, writeFileSync } from 'node:fs'
 import { join, resolve } from 'node:path'
 import { createRequire } from 'node:module'
 
@@ -52,10 +55,10 @@ h1{font-family:'Caslon Display',Fraunces,serif;font-weight:400;font-size:${size}
 
 const only = process.env.PORTADAS ? process.env.PORTADAS.split(',') : null
 const wanted = file => !only || only.includes(file.replace(/\.json$/, ''))
-const browser = await chromium.launch()
+const browser = await chromium.launch({ channel: process.env.NAVEGADOR || 'msedge' })
 const page = await browser.newPage()
 let count = 0
-for (const file of readdirSync('textos').filter(f => f.endsWith('.json') && wanted(f)).sort()) {
+for (const file of readdirSync('textos').filter(f => f.endsWith('.json') && wanted(f) && !process.env.SOLO_PDF).sort()) {
   const meta = JSON.parse(readFileSync(join('textos', file), 'utf8'))
   const dir = join('public/leer', meta.slug)
   const source = join('build/portadas', `${meta.slug}.svg`)
@@ -86,13 +89,20 @@ for (const file of readdirSync('textos').filter(f => f.endsWith('.json') && want
   count++
 }
 // Edición en PDF (A5) a partir de build/impresion/<slug>.html.
+// Página nueva: la de las portadas arrastra el viewport pequeño y el zoom de las capturas, que encogen el PDF.
+const printPage = await browser.newPage()
 for (const file of readdirSync('textos').filter(f => f.endsWith('.json') && wanted(f)).sort()) {
   const meta = JSON.parse(readFileSync(join('textos', file), 'utf8'))
   const source = resolve('build/impresion', `${meta.slug}.html`)
   if (!existsSync(source)) continue
-  await page.goto('file://' + source, { waitUntil: 'load' })
-  await page.evaluate(() => document.fonts.ready)
-  await page.pdf({ path: join('public/leer', meta.slug, `${meta.slug}.pdf`), preferCSSPageSize: true, printBackground: true, tagged: true, outline: true })
+  // Las imágenes del sitio (/img/logo-portada.png, /leer/<slug>/ilustracion.jpg) no existen como file://:
+  // se incrustan en una copia junto al original, que conserva la ruta relativa de impresion.css.
+  const inlined = source.replace(/\.html$/, '.pdf.html')
+  writeFileSync(inlined, readFileSync(source, 'utf8').replace(/(href|src)="(\/(?:leer|img)\/[^"]+\.(jpg|png))"/g, (_, attr, url, ext) =>
+    `${attr}="data:image/${ext === 'png' ? 'png' : 'jpeg'};base64,${readFileSync(join('public', url)).toString('base64')}"`))
+  await printPage.goto('file://' + inlined, { waitUntil: 'load' })
+  await printPage.evaluate(() => document.fonts.ready)
+  await printPage.pdf({ path: join('public/leer', meta.slug, `${meta.slug}.pdf`), preferCSSPageSize: true, printBackground: true, tagged: true, outline: true })
 }
 await browser.close()
 console.log(`${count} portadas generadas`)

@@ -111,3 +111,33 @@
 @media(max-width:600px){.hub-list a{grid-template-columns:76px minmax(0,1fr);gap:16px}.hub-list strong{font-size:22px}.hub-text{font-size:15px}}
 .reader-article .entry .hub-list a{text-decoration:none!important}
 .entry .hub-list .hub-cta{text-decoration:underline;text-underline-offset:4px}
+/* Índice de la obra en cada capítulo: lista desplegable; en modo libro, botón fijo y panel lateral. */
+.chapter-index{margin:0 0 28px;border:1px solid var(--reader-line,#8884);border-radius:10px;background:var(--reader-panel,transparent);color:var(--reader-ink,inherit)}
+.chapter-index summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:10px;padding:12px 16px;font:500 14px/1.3 Inter,sans-serif}
+.chapter-index summary::-webkit-details-marker{display:none}
+.chapter-index summary::before{content:"☰";font-size:16px;opacity:.8}
+.chapter-index-count{margin-left:auto;font-size:12px;opacity:.65}
+.chapter-index-panel{padding:0 8px 12px}
+.chapter-index-head{margin:0 8px 8px;font:600 12px/1.3 Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase;opacity:.7}
+.chapter-index-head a{color:inherit;text-decoration:none!important}
+.chapter-index ol{list-style:none;margin:0;padding:0;max-height:60vh;overflow:auto;overscroll-behavior:contain}
+.chapter-index li a{display:grid;grid-template-columns:2.2em 1fr;gap:6px;padding:8px 10px;border-radius:6px;color:inherit;text-decoration:none!important;font:400 15px/1.35 Inter,sans-serif}
+.chapter-index li a:hover,.chapter-index li a:focus-visible{background:#8882}
+.chapter-index li a[aria-current="page"]{background:#b8a58a33;font-weight:600}
+.chapter-index-num{opacity:.55;font-variant-numeric:tabular-nums;text-align:right}
+.chapter-jump{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:0 8px 10px;padding:0 0 12px;border-bottom:1px solid var(--reader-line,#8884);font:400 14px/1.3 Inter,sans-serif}
+.chapter-jump input{width:4.5em;font:inherit;padding:6px 8px;border:1px solid var(--reader-line,#8886);border-radius:6px;background:transparent;color:inherit}
+.chapter-jump button{font:inherit;padding:6px 14px;border:1px solid var(--reader-line,#8886);border-radius:999px;background:transparent;color:inherit;cursor:pointer}
+.book-on .chapter-index{position:fixed;left:16px;top:50%;transform:translateY(-50%);z-index:40;margin:0;width:auto;max-width:calc(100vw - 32px);box-shadow:0 18px 40px -18px #000a}
+.book-on .chapter-index:not([open]) summary{padding:12px 14px;font-size:0;gap:0}
+.book-on .chapter-index:not([open]) summary::before{font-size:18px}
+.book-on .chapter-index:not([open]) .chapter-index-count{display:none}
+.book-on .chapter-index[open]{width:min(360px,calc(100vw - 32px));top:96px;transform:none}
+.book-on .chapter-index[open] ol{max-height:min(58vh,560px)}
+@media (max-width:760px){
+  .book-on .chapter-index{top:auto;bottom:96px;transform:none;left:12px}
+  .book-on .chapter-index[open]{top:72px;bottom:auto}
+  .book-on .chapter-index[open]{width:calc(100vw - 24px)}
+  .book-on .chapter-index[open] ol{max-height:50vh}
+}
+@media print{.chapter-index{display:none}}

@@ -280,6 +280,15 @@ def build(meta, blocks):
         if following:
             pager += f'<a class="button" href="{base_route}{following["slug"]}/" rel="next">{escape(following["title"])} →</a>'
         pager += "</nav>"
+        # Índice de la obra: lista desplegable en la página; en modo libro, panel lateral (lector-libro.js/css).
+        items = "".join(
+            f'<li><a href="{base_route}{c["slug"]}/"{" aria-current=\"page\"" if i == number else ""}>'
+            f'<span class="chapter-index-num">{i}</span>{escape(c["title"])}</a></li>'
+            for i, (c, *_rest) in enumerate(rendered, start=1))
+        chapter_index = (f'<details class="chapter-index" id="indice-obra"><summary>Índice · {escape(meta["title"])} '
+                         f'<span class="chapter-index-count">{number}/{len(rendered)}</span></summary>'
+                         f'<div class="chapter-index-panel"><p class="chapter-index-head"><a href="{index_link}">{escape(meta["title"])}</a></p>'
+                         f'<ol>{items}</ol></div></details>')
         crumbs = crumbs_index[:-1] + ([] if single else [("Leer online", base_route)]) + [(chapter["title"], route)]
         if meta.get("language", "es") != "es":  # texto en otro idioma (cuentos en inglés): lang en cada párrafo
             paragraphs = re.sub(r"<(p|h2|h3|blockquote)(?=[ >])", rf'<\1 lang="{meta["language"]}"', paragraphs)
@@ -288,7 +297,7 @@ def build(meta, blocks):
                 f'<header class="folio-article-head"><p class="eyebrow">{escape(full_title)} · {number} de {len(rendered)}</p>'
                 f'<h1>{escape(chapter["title"])}</h1>'
                 f'<div class="reading-meta"><span>{minutes(words)} min de lectura</span><a href="#texto-obra">Empezar a leer ↓</a></div></header>'
-                f'<div class="entry" id="texto-obra">'
+                f'<div class="entry" id="texto-obra">{chapter_index}'
                 f'<div class="book" data-book="{escape(slug)}" data-book-title="{escape(meta["title"])}" data-book-route="{escape(meta["book_route"])}" '
                 f'data-chapter="{number}" data-chapters="{len(rendered)}" data-chapter-title="{escape(chapter["title"])}" '
                 f'data-progress-start="{progress_start:.4f}" data-progress-span="{progress_span:.4f}" '

@@ -46,4 +46,6 @@ Si `textos/<slug>.json` tiene la clave `guide`, `lectura_completa.py` genera `/l
 
 El menú principal se define en `navigation()` de `migrate.py` y `pulir.py` lo aplica a todas las páginas ya generadas, así que para cambiarlo basta con editar esa función y volver a ejecutar `pulir.py`. El menú enlaza solo a índices, nunca a libros sueltos: Leer gratis (`/leer/`, `/resumenes/`, `/frases/`), Libros PDF, Autores, Historia y Artículos. `lectura_completa.py` regenera esos tres índices con todas las obras que tengan lectura, guía o página de frases, de modo que crecen solos al añadir libros. `pulir.py` también enlaza la lectura online, el resumen y las frases desde la ficha de cada libro, desde la página de su autor y desde los artículos que indica `link_from` en `textos/frases/paginas.json`.
 
-Orden completo: `python lectura_completa.py && python pulir.py && node portadas.mjs && node frases.mjs`.
+Orden completo: `python lectura_completa.py && python pulir.py && node portadas.mjs && python comprimir.py && node frases.mjs` (comprimir.py necesita `pip install pikepdf`).
+
+Los libros con `ficha` en su JSON tienen una sola página principal, la ficha (`book_route`): `/leer/<slug>/` redirige a ella (lo escribe `lectura_completa.py` en vercel.json) y «Leer online» lleva a la primera parte. `wikisource.py` descarga una obra de Wikisource al formato de `textos/`; los textos editoriales de cada lote están en `textos/fichas/`.

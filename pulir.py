@@ -299,7 +299,7 @@ def seo_head(document, route):
         image = re.search(r'<figure class="featured"><img[^>]*?src="(/[^"]+)"', document)
         if image and image[1].endswith("/portada-ficha.jpg"):
             # Obra de la colección: la tarjeta horizontal hecha para redes.
-            social = image[1].replace("/portada-ficha.jpg", "/social.png")
+            social = image[1].replace("/portada-ficha.jpg", "/social.jpg")
             document = document.replace("</head>", f'<meta property="og:image" content="{BASE}{social}"><meta property="og:image:width" content="1200">'
                                         f'<meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">'
                                         f'<meta name="twitter:image" content="{BASE}{social}"></head>', 1)

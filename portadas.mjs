@@ -1,7 +1,7 @@
 // Genera las imágenes de portada de cada lectura completa a partir del SVG
 // que escribe lectura_completa.py:
-//   public/leer/<slug>/portada.png  (1000×1500, para descargar o compartir)
-//   public/leer/<slug>/social.png   (1200×630, vista previa de enlaces y redes)
+//   public/leer/<slug>/portada.jpg  (1000×1500, para descargar o compartir)
+//   public/leer/<slug>/social.jpg   (1200×630, vista previa de enlaces y redes)
 // Uso: node portadas.mjs   (después de python lectura_completa.py)
 import { readFileSync, readdirSync, existsSync } from 'node:fs'
 import { join, resolve } from 'node:path'
@@ -55,15 +55,14 @@ let count = 0
 for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()) {
   const meta = JSON.parse(readFileSync(join('textos', file), 'utf8'))
   const dir = join('public/leer', meta.slug)
-  const index = join(dir, 'index.html')
-  if (!existsSync(index)) { console.warn(`Falta ${index}: ejecuta antes python lectura_completa.py`); continue }
-  let svg = readFileSync(index, 'utf8').match(/<svg class="book-cover-art"[\s\S]*?<\/svg>/)?.[0]
-  if (!svg) { console.warn(`Sin portada en ${index}`); continue }
+  const source = join('build/portadas', `${meta.slug}.svg`)
+  if (!existsSync(source)) { console.warn(`Falta ${source}: ejecuta antes python lectura_completa.py`); continue }
+  let svg = readFileSync(source, 'utf8')
   // La pintura se enlaza por URL en la web; aquí se incrusta para que la captura la vea.
   svg = svg.replace(/href="(\/leer\/[^"]+\.jpg)"/g, (_, url) => `href="data:image/jpeg;base64,${readFileSync(join('public', url)).toString('base64')}"`)
   const shots = [
-    [coverPage(svg), 600, 900, 5 / 3, 'portada.png'],
-    [socialPage(svg, meta), 1200, 630, 1, 'social.png'],
+    [coverPage(svg), 600, 900, 5 / 3, 'portada.jpg'],
+    [socialPage(svg, meta), 1200, 630, 1, 'social.jpg'],
     [coverPage(svg), 600, 900, 2 / 3, 'portada-ficha.jpg'],  // 400×600, para fichas y tarjetas
   ]
   for (const [html, width, height, scale, name] of shots) {
@@ -78,7 +77,7 @@ for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()
       await page.evaluate(() => document.fonts.ready)
     }
     const jpeg = name.endsWith('.jpg')
-    await page.screenshot({ path: join(dir, name), type: jpeg ? 'jpeg' : 'png', ...(jpeg ? { quality: 86 } : {}) })
+    await page.screenshot({ path: join(dir, name), type: jpeg ? 'jpeg' : 'png', ...(jpeg ? { quality: name === 'portada-ficha.jpg' ? 86 : 84 } : {}) })
   }
   count++
 }

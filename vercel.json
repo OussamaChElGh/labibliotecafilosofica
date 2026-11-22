@@ -323,6 +323,81 @@
       "source": "/categorias/:path*",
       "destination": "/:path*",
       "permanent": true
+    },
+    {
+      "source": "/leer/carmides-platon/",
+      "destination": "/carmides-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/clitofon-platon/",
+      "destination": "/clitofon-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/criton-platon/",
+      "destination": "/criticon-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/eutidemo-platon/",
+      "destination": "/eutidemo-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/eutifron-platon/",
+      "destination": "/eutifron-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fedon-platon/",
+      "destination": "/fedon-platon-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fedro-platon/",
+      "destination": "/fedro-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/filebo-platon/",
+      "destination": "/filebo-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/gorgias-platon/",
+      "destination": "/gorgias-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/ion-platon/",
+      "destination": "/ion-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/laques-platon/",
+      "destination": "/laques-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lisis-platon/",
+      "destination": "/lisis-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/primer-alcibiades-platon/",
+      "destination": "/primer-alcibiades-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/segundo-alcibiades-platon/",
+      "destination": "/segundo-alcibiades-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/sofista-platon/",
+      "destination": "/sofista-platon/",
+      "permanent": true
     }
   ],
   "headers": [

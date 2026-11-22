@@ -32,7 +32,7 @@ BOOK_ASSETS = ('<link rel="stylesheet" href="/lector-libro.css"><script>document
 
 def with_book_assets(document, meta):
     # Imagen para redes y vista previa de enlaces (la genera portadas.mjs).
-    image = f'{BASE}/leer/{meta["slug"]}/social.png'
+    image = f'{BASE}/leer/{meta["slug"]}/social.jpg'
     social = (f'<meta property="og:type" content="book"><meta property="og:site_name" content="La Biblioteca Filosófica">'
               f'<meta property="og:image" content="{image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
               f'<meta property="og:image:alt" content="Portada de {escape(meta["title"])}, de {escape(meta["author"])}">'
@@ -197,6 +197,11 @@ def build(meta, blocks):
     total_words = sum(item[3] for item in rendered)
     crumbs_index = [("Inicio", "/"), ("Libros PDF Gratis", "/libros-pdf-gratis/"),
                     (meta["title"], meta["book_route"]), ("Leer online", base_route)]
+    # Con ficha única, la ficha hace de índice: /leer/<slug>/ redirige a ella (vercel.json).
+    single = bool(meta.get("ficha"))
+    index_link = f'{meta["book_route"]}#leer' if single else base_route
+    if single:
+        routes.remove(base_route)
 
     # Página índice de la obra.
     chapter_links = "".join(
@@ -212,7 +217,7 @@ def build(meta, blocks):
                   f'<div class="reading-meta"><span>{len(chapters)} capítulos · {total_words:,} palabras · {minutes(total_words)} min de lectura</span>'
                   f'<a href="{start_reading}">Empezar a leer ↓</a></div></header>'
                   f'<div class="entry" id="texto-obra"><figure class="book-cover">{cover_svg(meta)}'
-                  f'<figcaption><a href="{base_route}portada.png" download>Descargar portada</a></figcaption></figure>{meta["intro"]}'
+                  f'<figcaption><a href="{base_route}portada.jpg" download>Descargar portada</a></figcaption></figure>{meta["intro"]}'
                   f'<div class="continue-reading" data-continue-book="{escape(slug)}" hidden></div>'
                   f'<p class="actions"><a class="button" href="{start_reading}">Empezar a leer ↗</a>'
                   f'<a class="button secondary" href="{base_route}{slug}.pdf" download>Descargar PDF gratis ↓</a></p>'
@@ -227,8 +232,16 @@ def build(meta, blocks):
         "license": meta["license_url"],
         "hasPart": [{"@type": "Chapter", "name": c["title"], "position": i, "url": f'{BASE}{base_route}{c["slug"]}/'}
                     for i, c in enumerate(chapters, start=1)]}]}
-    write(base_route, with_book_assets(shell(f'{meta["title"]} de {meta["author"]}: leer online completo y gratis · La Biblioteca Filosófica',
-                            base_route, index_body, meta["description"], schema=index_schema), meta))
+    meta["_start_reading"] = start_reading
+    covers = Path("build/portadas")
+    covers.mkdir(parents=True, exist_ok=True)
+    (covers / f"{slug}.svg").write_text(cover_svg(meta), encoding="utf-8")  # la lee portadas.mjs
+    if single:
+        stale = OUTPUT / base_route.strip("/") / "index.html"
+        stale.unlink(missing_ok=True)
+    else:
+        write(base_route, with_book_assets(shell(f'{meta["title"]} de {meta["author"]}: leer online completo y gratis · La Biblioteca Filosófica',
+                                base_route, index_body, meta["description"], schema=index_schema), meta))
 
     # Una página por capítulo.
     done_words = 0
@@ -242,13 +255,13 @@ def build(meta, blocks):
         pager = '<nav class="actions chapter-pager" aria-label="Capítulos">'
         if previous:
             pager += f'<a class="button secondary" href="{base_route}{previous["slug"]}/" rel="prev">← {escape(previous["title"])}</a>'
-        pager += f'<a class="button secondary" href="{base_route}">Índice</a>'
+        pager += f'<a class="button secondary" href="{index_link}">Índice</a>'
         if following:
             pager += f'<a class="button" href="{base_route}{following["slug"]}/" rel="next">{escape(following["title"])} →</a>'
         pager += "</nav>"
-        crumbs = crumbs_index[:-1] + [("Leer online", base_route), (chapter["title"], route)]
+        crumbs = crumbs_index[:-1] + ([] if single else [("Leer online", base_route)]) + [(chapter["title"], route)]
         body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article" id="lectura">{breadcrumbs(crumbs)}'
-                f'<a class="back-link" href="{base_route}">← Índice de {escape(meta["title"])}</a>'
+                f'<a class="back-link" href="{index_link}">← {"Ficha" if single else "Índice"} de {escape(meta["title"])}</a>'
                 f'<header class="folio-article-head"><p class="eyebrow">{escape(full_title)} · Capítulo {number} de {len(rendered)}</p>'
                 f'<h1>{escape(chapter["title"])}</h1>'
                 f'<div class="reading-meta"><span>{minutes(words)} min de lectura</span><a href="#texto-obra">Empezar a leer ↓</a></div></header>'
@@ -312,12 +325,12 @@ def write_ficha(meta):
             f'<div><p class="eyebrow">Ficha de libro · {escape(author)}</p><h1>{escape(title)}, de {escape(author)}</h1>'
             f'<p class="book-context">Diálogo sobre {escape(ficha["tema"])}. {stats["chapters"]} partes · {duration(stats["minutes"])} de lectura.</p>'
             f'<p class="access-badge"><span aria-hidden="true">●</span> Dominio público: lectura online y PDF gratis</p>'
-            f'<div class="actions"><a class="button" href="{base}">Leer online gratis ↗</a>'
+            f'<div class="actions"><a class="button" href="{meta["_start_reading"]}">Leer online gratis ↗</a>'
             f'<a class="button secondary" href="{base}{slug}.pdf" download>Descargar PDF ↓</a></div>'
             f'<div class="save-controls"><button class="button save-book" type="button" data-save-route="{route}" aria-pressed="false" hidden>Guardar libro</button>'
             f'<a class="text-link" href="#resumen">Resumen y personajes ↓</a></div>'
             f'<p class="save-message" role="status" aria-live="polite"></p></div></div>'
-            f'<div class="entry" id="texto-obra">'
+            f'<div class="entry" id="texto-obra"><div class="continue-reading" data-continue-book="{escape(slug)}" hidden></div>'
             f'<nav class="toc-inline" aria-label="En esta ficha"><a href="#resumen">Resumen</a> · <a href="#personajes">Personajes</a> · '
             f'<a href="#ideas">Ideas principales</a> · <a href="#leer">Leer completo</a> · <a href="#preguntas">Preguntas</a></nav>'
             f'<h2 id="resumen">Resumen de {escape(title)}</h2>{resumen}'
@@ -333,7 +346,7 @@ def write_ficha(meta):
         "@type": "Book", "name": title, "url": BASE + route, "inLanguage": "es", "isAccessibleForFree": True,
         "author": {"@type": "Person", "name": author}, "translator": {"@type": "Person", "name": meta["translator"]},
         "image": f"{BASE}{base}portada-ficha.jpg", "license": meta["license_url"], "description": meta["description"],
-        "workExample": {"@type": "Book", "bookFormat": "https://schema.org/EBook", "url": f"{BASE}{base}"}},
+        "workExample": {"@type": "Book", "bookFormat": "https://schema.org/EBook", "url": f'{BASE}{meta["_start_reading"]}'}},
         {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
                                             for q, a in ficha["faq"]]}]}
     document = shell(f"{title} de {author}: resumen, personajes y PDF gratis · La Biblioteca Filosófica",
@@ -398,13 +411,13 @@ def write_guide(meta, rendered, total_words, blocks):
     schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
         "@type": "Article", "headline": f"{title}: resumen, personajes y análisis", "url": BASE + route, "inLanguage": "es",
         "author": {"@type": "Organization", "name": "La Biblioteca Filosófica", "url": BASE + "/"},
-        "image": f'{BASE}/leer/{slug}/social.png',
+        "image": f'{BASE}/leer/{slug}/social.jpg',
         "about": {"@type": "Book", "name": title, "author": {"@type": "Person", "name": author}, "url": BASE + base_route}},
         {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": item["q"],
                                               "acceptedAnswer": {"@type": "Answer", "text": item["a"]}} for item in guide["faq"]]}]}
     page = shell(guide.get("seo_title", f"{title} de {author}: resumen por capítulos, personajes y análisis") + " · La Biblioteca Filosófica",
                  route, body, guide["description"], schema=schema)
-    image = f'{BASE}/leer/{slug}/social.png'
+    image = f'{BASE}/leer/{slug}/social.jpg'
     social = (f'<meta property="og:type" content="article"><meta property="og:site_name" content="La Biblioteca Filosófica">'
               f'<meta property="og:image" content="{image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
               f'<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{image}">'
@@ -515,7 +528,7 @@ def hub_page(route, crumb, eyebrow, title, seo_title, description, intro, items,
 
 
 def write_hubs(metas):
-    reading = [(f'/leer/{m["slug"]}/', f'/leer/{m["slug"]}/portada-ficha.jpg', 400, 600, m["author"], m["title"],
+    reading = [(m["book_route"] if m.get("ficha") else f'/leer/{m["slug"]}/', f'/leer/{m["slug"]}/portada-ficha.jpg', 400, 600, m["author"], m["title"],
                 f'{m["_stats"]["chapters"]} capítulos · {duration(m["_stats"]["minutes"])} de lectura', "Leer gratis") for m in metas]
     guides = [(f'/leer/{m["slug"]}/resumen/', f'/leer/{m["slug"]}/portada-ficha.jpg', 400, 600, m["author"], m["title"],
                m["guide"]["short"], "Ver resumen y personajes") if m.get("guide") else
@@ -609,7 +622,7 @@ def update_home(metas):
     home = OUTPUT / "index.html"
     document = home.read_text(encoding="utf-8")
     cards = "".join(
-        f'<li><a href="/leer/{escape(m["slug"])}/"><img src="/leer/{escape(m["slug"])}/portada-ficha.jpg" '
+        f'<li><a href="{escape(m["book_route"] if m.get("ficha") else "/leer/" + m["slug"] + "/")}"><img src="/leer/{escape(m["slug"])}/portada-ficha.jpg" '
         f'alt="Portada de {escape(m["title"])}, de {escape(m["author"])}" width="400" height="600" loading="lazy">'
         f'<span class="online-shelf-author">{escape(m["author"])}</span><strong>{escape(m["title"])}</strong>'
         f'<span class="online-shelf-meta">{m["_stats"]["chapters"]} capítulos · {duration(m["_stats"]["minutes"])}</span>'
@@ -638,6 +651,23 @@ def update_sitemap(routes):
         sitemap.write_text(content, encoding="utf-8")
 
 
+def update_redirects(metas):
+    """/leer/<slug>/ → ficha, para los libros con ficha única."""
+    config = PROJECT / "vercel.json"
+    data = json.loads(config.read_text(encoding="utf-8"))
+    rules = [r for r in data["redirects"] if not re.fullmatch(r"/leer/[^/]+/", r["source"])]
+    rules += [{"source": f'/leer/{m["slug"]}/', "destination": m["book_route"], "permanent": True}
+              for m in metas if m.get("ficha")]
+    data["redirects"] = rules
+    config.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    sitemap = OUTPUT / "sitemap.xml"
+    content = sitemap.read_text(encoding="utf-8")
+    for m in metas:
+        if m.get("ficha"):
+            content = content.replace(f'<url><loc>{BASE}/leer/{m["slug"]}/</loc></url>\n', "")
+    sitemap.write_text(content, encoding="utf-8")
+
+
 def main():
     routes, metas = [], []
     for config in sorted(TEXTS.glob("*.json")):
@@ -651,6 +681,7 @@ def main():
     routes += write_quote_pages(ordered)
     routes += write_hubs(ordered)
     update_sitemap(routes)
+    update_redirects(metas)
     update_home(sorted(metas, key=lambda m: m.get("cover", {}).get("number", 99)))
     print(f"{len(routes)} páginas de lectura generadas")
 

@@ -28,6 +28,10 @@ BOOKS = {
         route="/fundamentacion-de-la-metafisica-de-las-costumbres-immanuel-kant/", color="negro", unidad="partes",
         numerar="ordinales"),
     "voltaire-asi-va-el-mundo": dict(route="/voltaire-asi-va-el-mundo/", color="verde", unidad="partes", numerar=""),
+    # Teatro: se descarga con teatro.py (un acto por capítulo, cada intervención con su personaje).
+    "macbeth-shakespeare": dict(route="/macbeth-libros-pdf-gratis/", color="burdeos", unidad="actos", numerar=""),
+    "romeo-y-julieta-shakespeare": dict(route="/romeo-y-julieta-libros-pdf-gratis-shakespeare/", color="azul",
+                                        unidad="actos", numerar=""),
 }
 
 

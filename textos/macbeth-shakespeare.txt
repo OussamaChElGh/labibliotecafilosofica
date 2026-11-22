@@ -1,0 +1,721 @@
+H|Acto I
+S|Escena primera.
+S|(Tarde tempestuosa.)
+S|Tres Brujas.
+P|Cuándo volvemos á juntarnos, cuándo relampaguee, cuándo truene ó cuándo llueva?
+P|Cuando acabe el estruendo de la batalla, y unos la pierdan y otros la ganen.
+P|Entonces será antes de ponerse el sol.
+P|¿Dónde hemos de encontrarnos?
+P|En el yermo.
+P|Allí toparemos con Macbeth.
+P|Me llama Morrongo.
+P|Y á mí el Sapo.
+P|El mal es bien, y el bien es mal: cortemos los aires y la niebla.
+S|Escena II.
+S|Campamento. Duncan, Malcolm, un Escudero, un Sargento, Lénnox y Ross.
+P|¿Quién es aquel herido? Quizá nos traiga nuevas del campamento.
+P|Es el escudero que puso en peligro su vida por salvar la mia. ¡Buenas tardes, amigo! Cuenta tú al Rey el estado del combate.
+P|Sigue indeciso, semejante á una lucha entre dos nadadores que quieren mutuamente sofocarse. Con el traidor Macdonnell, en quien se juntan todas las infamias, van unidos muchos caballeros y gente plebeya de las islas de Occidente. La fortuna, como ramera, les otorga sus favores, pero en vano, porque el fuerte Macbeth, hijo predilecto de la victoria, penetra entre las filas hasta encontrarle, y le taja la cabeza, y la clava sobre nuestras empalizadas.
+P|¡Bravo caballero, ornamento de mi linaje!
+P|Así como el sol de la mañana produce á veces tempestad y torbellinos, así de esta victoria resultaron nuevos peligros. Óyeme, Rey. Cuando el valor, brazo de la justicia, habia logrado ahuyentar á aquella muchedumbre allegadiza, hé aquí que se rehace el de Noruega, y arroja nuevos campeones á la lid.
+P|¿Y entonces no se desalentaron Macbeth y Banquo?
+P|¡Desalentarse! ¡Bueno es eso! Como el águila viendo gorriones, ó el león liebres. Son cañones de doble carga. Con tal ímpetu menudearon sus golpes sobre los contrarios, que pensé que querían reproducir el sacrificio del Calvario. Pero estoy perdiendo sangre, y necesito curar mis heridas.
+P|Tan nobles son como tus palabras. Buscad un cirujano. ¿Pero quién viene?
+P|El señor de Ross.
+P|Grande es la ansiedad que su rostro manifiesta. Debe ser portador de grandes nuevas.
+S|(Entra Ross.)
+P|¡Salud al Rey!
+P|¿De dónde vienes, noble señor?
+P|Poderoso monarca, vengo de Faife, donde el aire agita en mengua nuestra los estandartes noruegos. Su Rey, con lucida hueste y con ayuda del traidor señor de Cáudor, renovó la lucha, pero el terrible esposo de Belona, cubierto de espesa malla, les resistió brazo á brazo, y hierro á hierro, y logró domeñar su altivez y postrarla por tierra. Al fin, logramos la victoria.
+P|¡Felicidad suprema!
+P|El rey Suenon de Noruega quería capitular, pero no le permitimos ni aun enterrar sus muertos, sin que pagara antes en la isla de Colme la contribucion de guerra.
+P|Nunca volverá el de Cáudor á poner en peligro la seguridad de mis Estados. Manda tú poner á precio su cabeza, y saluda á Macbeth con el título que el otro tenia.
+P|Cumpliré tu voluntad.
+P|Macbeth goce desde hoy lo que Cáudor perdió.
+S|Escena III.
+S|Un páramo. Tres Brujas, Macbeth y Banquo.
+P|¿Qué has hecho, hermana?
+P|Matar puercos.
+P|¿Dónde has estado, hermana?
+P|La mujer del marinero tenia castañas en su falda, y estaba mordiéndolas. Yo le dije: «Dame alguna,» y la asquerosa, harta de bazófia, me contestó: «Vade retro, condenada bruja.» Su marido se fué á Alepo, mandando el Tigre. Yo, como rata sin cola, navegaré en una tela de cedazo, donde cabe bien mi cuerpo. Así lo haré, así lo haré.
+P|Yo te ayudaré con un viento desfavorable.
+P|Gracias.
+P|Yo con otro.
+P|De los demas yo soy señora. ¿Qué puerta quedará segura, cuando de todos los puntos de la rosa soplen los vientos? Ni una vez podrá conciliar el sueño. Su vida será la del precito, y las tormentas agitarán sin cesar su nave. ¡Ved!
+P|¿Qué es eso?
+P|El dedo de un marinero, que se ahogó al volver de su viaje.
+P|¡Tambor, tambor! Ya llega Macbeth.
+P|Juntemos las manos, hagamos una rueda, como hermanas enviadas del cielo y de la tierra. Tres vueltas por tí, tres por tí, tres por mí: son nueve, cuenta justa. ¡Silencio! Ya ha llegado el término del conjuro.
+S|(Llegan Macbeth y Banquo.)
+P|¡Dia de sangre, pero hermoso más que cuantos he visto!
+P|¿Está lejos el castillo de Fóres? ¿Quiénes serán aquellas mujeres arrugadas y de tan extraño aspecto? No parecen seres humanos. ¿Sois vivientes? ¿Puedo haceros una pregunta? Debeis de entenderme, porque las tres, al mismo tiempo, poneis en los labios vuestros dedos, que semejan los de un cadáver. No me atrevo á llamaros mujeres, por las barbas.
+P|Si teneis lengua, decidnos quiénes sois.
+P|¡Salud, Macbeth, señor de Glamis!
+P|¡Salud, Macbeth, señor de Caudor!
+P|¡Salud, Macbeth, tú serás rey!
+P|¿De qué nace ese terror, amigo Macbeth? ¿Por qué te asustan tan gratas nuevas? Decidme: ¿sois fantasmas ó séres reales? Habeis saludado á mi amigo con títulos de gloria y anuncio de grandezas futuras y pompas reales. Decidme algo á mi, si es que sabeis qué granos han de germinar ó morir en la série de los tiempos. No temo de vosotras ni ódio ni favor.
+P|¡Salud!
+P|Serás más grande que Macbeth y menos.
+P|Más feliz y menos feliz.
+P|No rey, pero padre de reyes. ¡Salud, Macbeth y Banquo!
+S|Bruja 1.ª y 2.ª
+P|¡Salud!
+P|No os vayais, oscuras mensajeras. Ya se qué soy señor de Glámis por muerte de Sínel, pero ¿cómo he de serlo de Cáudor, si el señor vive próspera y felizmente? Tan absurdo es llamarme señor de Cáudor como rey. ¿Quién os dio esas noticias? ¿Por qué me habeis venido á sorprender en este desierto con tales presagios?
+P|Son sin duda espíritus vaporosos que engendra la tierra, como los produce tambien el agua. ¿Por dónde habrán desaparecido?
+P|Los cuerpos se han disuelto en el aire, como se pierde en el aire la respiracion. ¡Ojalá se hubieran quedado!
+P|¿Será verdad lo que hemos visto? ¿ó habremos probado alguna yerba de las que trastornan el juicio?
+P|Tus hijos han de ser reyes.
+P|Lo serás tú mismo.
+P|¿Y tambien señor de Cáudor? ¿No lo dijeron así?
+P|¿Quién llega?
+P|Macbeth, el Rey ha oido tus hazañas. Incierto entre la admiracion y el aplauso, no sabe cómo elogiarte, por el valor con que has lidiado contra los noruegos, sin percatarte tú mismo del estrago que en ellos hacias. Van llegando tan densos como el granizo los mensajeros de la victoria, y todos se hacen lenguas de tu heroismo.
+P|El Rey nos envía á darte las gracias y á llevarte á su presencia.
+P|Él me encarga que te salude con el título de señor de Cáudor.
+P|¡Conque tambien el diablo dice verdad!
+P|Si vive el de Cáudor ¿por qué me atavian con ropas ajenas?
+P|Vive el que llevaba ese título, pero debe perder la vida, y se ha fulminado contra él dura sentencia. No afirmo que se uniera con los noruegos contra su patria, pero está convicto y confeso de traidor.
+P|(Aparte.) ¡Ya soy señor de Glámis, y señor de Cáudor! Falta lo demás. (Á Ross y Anguss.) Gracias. (Á Banquo.) ¿Crees que tus hijos serán reyes, conforme á la promesa de los que me han hecho señor de Cáudor?
+P|Esa promesa quizá te haga ambicionar el sólio. Pero mira que á veces el demonio nos engaña con la verdad, y nos trae la perdicion envuelta en dones que parecen inocentes. Oidme dos palabras, amigos mios.
+P|¡Con dos verdades se abre la escena de este drama, que ha de terminar con una corona régia! ¿Es un bien ó un mal este pénsamiento? Si es un mal, ¿por qué empieza á cumplirse, y soy ya señor de Cáudor? Si es un bien, ¿por qué me aterran horribles imágenes, y palpita mi corazon de un modo inusitado? El pensamiento del homicidio, más horroroso que la realidad misma, comienza a dominarme y á oscurecer mi albedrío. Sólo tiene vida en mí lo que aun no existe.
+P|¡Qué absorto y embebecido está nuestro compañero!
+P|Si los hados quieren hacerme rey, lo harán sin que yo busque la corona.
+P|El nuevo honor le viene como vestido nuevo: no se le ajusta bien, por falta de costumbre!
+P|Corra el tiempo, y suceda lo que quiera.
+P|Á tus Órdenes, generoso Macbeth.
+P|Perdon, amigos. Estaba distraido con antiguas memorias. Agradezco y recordaré siempre vuestros favores. Cabalguemos á ver al Rey. (A Banquo.) Medita tú lo que nos ha sucedido. Luego hablaremos con toda libertad.
+P|Así lo deseo.
+P|Hasta despues. Ni una palabra más. Vamos, caballeros.
+S|Escena IV.
+S|Habitación de palacio.
+S|Duncan, Malcolm, Banquo y Macbeth.
+P|¿Está ajusticiado Cáudor? ¿Han vuelto ya los que fueron á su castillo?
+P|No han vuelto todavía, pero he hablado con uno que le vió morir, y dice que se arrepintió de sus pecados y pidió vuestro perdon. La muerte ha sido lo mejor de su vida. Murió como si en vida hubiese aprendido á renunciar y tener por cosa vana lo que ántes juzgaba de mayor aprecio.
+P|¿Quién adivina el alma por el semblante? ¿Quién me hubiera dicho que ese caballero no era el más fiel de todos los mios? (Á Macbth que entra.) Primo mio, ya me sentia yo pesaroso de mi ingratitud. Pero estabas tan lejos, que ni siquiera las alas del premio podian alcanzarte. Ojalá hubieras hecho menos, porque entonces serian menos inferiores á tus méritos mis galardones y mercedes. Larga deuda, que nunca podré pagar, tengo contigo.
+P|Bastante pago de mi lealtad es ella misma. Mis servicios son como hijos y criados del trono: hacen lo que deben, y nada más.
+P|Eres planta que arraiga en mi corazon. Yo la haré crecer. ¡Ilustre Banquo! No son menores tus méritos. Así lo reconozco, y te estrecho contra mi corazon.
+P|En él germine, que para vos será la cosecha.
+P|¡Hijos, parientes, caballeros, sabed que nombro heredero de mis Estados á mi hijo Malcolm, que desde hoy se llamará príncipe de Cumberland. Pero este honor no puede venir solo, y para celebrarle haré que caigan, como estrellas, títulos de nobleza sobre todos lo que los merezcan. Ahora vamos á Inverness, que los negocios apremian.
+P|¿Cuándo descansareis? Quiero adelantarme en el camino y alegrar los oidos de mi mujer con tan grata nueva. Permitídmelo.
+P|¡Noble señor de Cáudor!
+P|(Aparte.) ¡Principe heredero Malcolm! Obstáculo nuevo en mi camino. He de saltar por él ó rendirme. No brilleis, estrellas: no aclare vuestra luz el negro deseo que abriga mi corazon. Ojos mios, la mano hará lo que vosotros no quereis ver. Entre tanto, miradla de soslayo.
+P|¿Verdad, Banquo, que Macbeth es un egregio vasallo? No hay para mí banquete tan grato como el oir de boca de las gentes sus alabanzas. Sigámosle, ya que quiere festejarnos. Es el mejor de mis parientes.
+S|Escena V.
+S|Habitacion en el castillo de Macbeth, en Inverness. Lady Macbeth, un Criado y Macbeth.
+P|(Leyendo una carta de su marido.) «Las brujas me salieron al encuentro el dia de la victoria. Su ciencia es superior á la de los mortales. Quise preguntarlas más, pero se deshicieron en niebla. Aún no habia salido yo de mi asombro, cuando llegan nuncios del Rey saludándome como á señor de Glámis y de Cáudor, lo mismo que las hechiceras, pero estas dijeron ademas: «Salve, Macbeth: tu serás rey.» He querido, esposa amada, confiarte este secreto, para que no dejes por ignorancia, ni un solo momento, de gozar la dicha que nos está profetizada. Piénsalo bien. Adios.» ¡Ya eres señor de Glámis y de Cáudor! Lo demas se cumplirá tambien, pero desconfio de tu carácter criado con la leche de la clemencia. No sabes ir por atajos sino por el camino recto. Tienes ambicion de gloria, pero temes el mal. Quisieras conseguir por medios lícitos un fin injusto, y coger el fruto de la traicion sin ser traidor. Te espanta lo que vas á hacer, pero despues de hecho, no quisieras que se deshiciese. ¡Ven pronto! Infundiré mi alma en tus oidos, y mi lengua será azote que espante y disipe las nieblas que te impiden llegar á esa corona, que el hado y el influjo de las estrellas aparejan para tus sienes.
+P|Esta noche llega el Rey.
+P|¿Estás en tí? ¿No ves que tu señor no está en el castillo, ni nos ha avisado?
+P|Tambien él se acerca. Un compañero mio vino casi sin aliento á traer la noticia.
+P|Cuidad bien al mensajero. Es portador de grandes nuevas. (Aparte). El cuervo se enronquece de tanto graznar, anunciando que el rey Duncan llega al castillo, ¡Espíritus agitadores del pensamiento, despojadme de mi sexo, haced mas espesa mi sangre, henchidme de crueldad de pies á cabeza, ahogad los remordimientos, y ni la compasion ni el escrúpulo sean parte á detenerme ni á colocarse entre el propósito y el golpe! ¡Espíritus del mal, inspiradores de todo crimen, incorpóreos, invisibles, convertid en hiel la leche de mis pechos! Baja, hórrida noche: tiende tu manto, roba al infierno sus densas humaredas, para que no vea mi puñal el golpe que va á dar, ni el cielo pueda apartar el velo de la niebla, y contemplarme y decirme á voces: «Detente.» (Llega Macbeth.) ¡Noble señor de Glámis y de Cáudor, áun más ilustre que uno y otro por la profética salutacion de las hechiceras! tu carta me ha hecho salir de lo presente, y columbrar lo futuro, y extasiarme con él.
+P|Esposa mia, esta noche llega Duncan.
+P|¿Y cuándo se va?
+P|Dice que mañana.
+P|¡Nunca verá el sol de mañana! En tu rostro, esposo mio, leo como en un libro abierto lo que esta noche va á pasar. Disimula prudente: oculte tu semblante lo que tu alma medita. Dén tu lengua, tus manos y tus ojos la bien venida al rey Duncan: debes esconder el áspid entre las flores. Yo me encargo de lo demás. El trono es nuestro.
+P|Ya hablaremos despacio.
+P|Muéstrate alegre.
+S|Escena VI.
+S|Entrada del castillo de Macbeth. Sus criados alumbran con antorchas.
+S|Duncan, Banquo y Lady Macbeth.
+P|¡Qué hermosamente situado está el castillo! ¡Cómo alegra los sentidos esta apacible brisa de la tarde!
+P|La golondrina, eterna huésped del verano, moradora de las iglesias, pone en la arquitectura de sus nidos un vago recuerdo del cielo. De todo pilar, alero ó ángulo suspende su prolífico lecho, y donde ellas anidan, parece que vive la alegría.
+P|¡Ved! ¡Ya sale la noble castellana! (A Macbeth.) Muchas veces tenemos por amor lo que es verdadera desgracia. Pedid á Dios que os premie vuestro trabajo, y haga recaer en mí vuestros favores.
+P|Todo nuestro obsequio es poco para pagar tan altos: beneficios y mercedes, y sobre todo la de haber honrado con vuestra presencia esta casa. Pedimos á Dios, en agradecimiento, todo género de favores presentes y futuros para vos.
+P|¿Dónde está Macbeth? Corrimos tras él para anticiparnos, pero la veloz carrera de su caballo y su amor, todavía más poderoso que su corcel, le dieron la ventaja, y llegó mucho antes que nosotros. Hermosa castellana, por esta noche reclamamos vuestra hospitalidad.
+P|Criados vuestros somos: cuanto tenemos os pertenece.
+P|Dadme la mano, y guiadme á donde esté mi huésped, objeto perenne de mi gracia.
+S|Escena VII.
+S|Galeria en el castillo de Macbeth. Macbeth y Lady Macbeth.
+P|¡Si bastara hacerlo... pronto quedaba terminado! ¡Si con dar el golpe, se atajaran las consecuencias, y el éxito fuera seguro... yo me lanzaría de cabeza desde el escollo de la duda al mar de una existencia nueva. ¿Pero cómo hacer callar á la razon que incesante nos recuerda sus máximas importunas, máximas que en la infancia aprendió y que luego son tortura del maestro? La implacable justicia nos hace apurar hasta las heces la copa de nuestro propio veneno. Yo debo doble fidelidad al rey Duncan. Primero, por pariente y vasallo. Segundo, porque le doy hospitalidad en mi castillo, y estoy obligado á defenderle de extraños enemigos, en vez de empuñar yo el hierro homicida. Ademas, es tan buen rey, tan justo y clemente, que los ángeles de su guarda irán pregonando eterna maldicion contra su asesino. La compasion, niño recien nacido, querubin desnudo, irá cabalgando en las invisibles alas del viento, para anunciar el crímen á los hombres, y el llanto y agudo clamor de los pueblos sobrepujará á la voz de los roncos vendavales. La ambicion me impele á escalar la cima, ¿pero rodaré por la pendiente opuesta? (A Lady Macbeth.) ¿Qué sucede?
+P|La cena está acabada. ¿Por qué te retiraste tan pronto de la sala del banquete?
+P|¿Me has llamado?
+P|¿No lo sabes?
+P|Tenemos que renunciar á ese horrible propósito. Las mercedes del Rey han llovido sobre mí. Las gentes me aclaman honrado y vencedor. Hoy he visto los arreos de la gloria, y no debo mancharlos tan pronto.
+P|¿Qué ha sido de la esperanza que te alentaba? ¿Por ventura ha caido en embriaguez ó en sueño? ¿O está despierta, y mira con estúpidos y pasmados ojos lo que antes contemplaba con tanta arrogancia? ¿Es ese el amor que me mostrabas? ¿No quieres que tus obras igualen á tus pensamientos y deseos? ¿Pasarás por cobarde á tus propios ojos, diciendo primero: «lo haria» y luego «me falta valor? Acuérdate de la fábula del gato.
+P|¡Calla, por el infierno! Me atrevo á hacer lo que cualquiera otro hombre haría, pero esto no es humano.
+P|¿Pues es alguna fiera la que te lo propuso? ¿No eras hombre, cuando te atrevias, y buscabas tiempo y lugar oportunos? ¡Y ahora que ellos mismos se te presentan, tiemblas y desfalleces! Yo he dado de mamar á mis hijos, y sé cómo se les ama; pues bien, si yo faltara á un juramento como tú has faltado, arrancaria el pecho de las encías de mí hijo cuando mas risueño me mirara, y le estrellaria los sesos contra la tierra.
+P|¿Y si se frustra nuestro plan?
+P|¡Imposible, si aprietas los tornillos de tu valor! Duncan viene cansado del largo viaje, y se dormirá: yo embriagaré á sus dos servidores, de modo que se anuble en ellos la memoria y se reduzca á humo el juicio. Quedarán en sueño tan profundo como si fuesen cadáveres. ¿Quién nos impide dar muerte á Duncan, y atribuir el crímen á sus embriagados compañeros?
+P|Tú no debias concebir ni dar á luz mas que varones. Mancharemos de sangre á los dos guardas ébrios, y asesinaremos á Duncan con sus puñales.
+P|¿Y quién no creerá que ellos fueron los matadores, cuando oiga nuestras lamentaciones y clamoreo después de su muerte?
+P|Estoy resuelto. Todas mis facultades se concentran en este solo objeto. Oculte, con traidora máscara, nuestro sembiante lo que maquina el alma.
+H|Acto II
+S|Escena primera.
+S|Patio en el castillo de Macbeth.
+S|Banquo, Fleancio y Macbeth.
+P|Hijo, ¿qué hora es?
+P|No he oido el reloj, pero la luna va descendiendo.
+P|Será media noche.
+P|Quizá más tarde.
+P|Toma la espada. El cielo ha apagado sus candiles, sin duda por economía. Me rinde el sueño con mano de plomo, pero no quiero dormir. ¡Dios mio! contén la ira que viene á perturbarme en medio del reposo. Dame la espada. ¿Quién es?
+P|Un amigo tuyo.
+P|¿Todavía estás en pié? El Rey se ha acostado más alegre que nunca, y ponderando mucho tu hospitalidad. Manda un diamante para tu mujer, á quien llama su linda huéspeda.
+P|Por imprudencia quizá haya caido mi voluntad en faltas que, á disponer de su libre albedrío, hubiera evitado.
+P|No sé qué hayas cometido ninguna falta. Ayer soñé con las brujas. Por cierto que contigo han andado verídicas.
+P|No me cuido de eso. Ya hablaremos otra vez con más espacio, si eso te complace.
+P|Cuando quieras.
+P|Si te guias por mi consejo, ganarás honra y favor.
+P|Siempre que sea sin menoscabo de la lealtad que reina en mi pecho.
+P|Véte á descansar.
+P|Gracias.
+S|(Vase con su hijo.)
+P|(A su criado.) Di á la señora que me llame cuando tenga preparada mi copa. Tú, acuéstate. ¡Me parece estar viendo el puño de una daga vuelta hacia mí! ¡Ven á mis manos, puñal que toco aunque no veo! ¿O eres acaso sueño de mi delirante fantasía? Me pareces tan real como el que en mi mano resplandece. Tú me enseñas el arma y el camino. La cuchilla y el mango respiran ya sangre. ¡Vana ilusion! Es el crímen mismo el que me habla así. La Naturaleza reposa en nuestro hemisferio. Negros ensueños agitan al que ciñe real corona. Las brujas en su nefando sábado festejan á la pálida Hécate, y el escualido homicidio, temeroso de los aullidos del lobo centinela suyo, camina con silencioso pié, como iba Tarquino á la mansión de la casta Lucrecia. ¡Tierra, no sientas el ruido de mis piés, no le adivines! ¡No pregonen tus piedras mi crímen! ¡Dá tregua á los terrores de estas horas nocturnas! Pero, ¿á qué es detenerme en vanas palabras que hielan la acción? (Oyese una campana.) ¡Ha llegado la hora! ¡Duncan, no oigas el tañido de esa campana, que me invita al crímen, y que te abre las puertas del cielo ó del infierno!
+S|Escena II.
+S|Lady Macbeth y Macbeth.
+P|La embriaguez en que han caido me da alientos. ¡Silencio! Es el chillido del buho, severo centinela de la noche. Abiertas están las puertas. La pócima que administré á los guardas los tiene entre la vida y la muerte.
+P|(Dentro.) ¿Quién es?
+P|Temo que se despierten, antes que esté consumado el crímen, y sea peor el amago que el golpe... Yo misma afilé los puñales... Si su sueño no se hubiera parecido al de mi padre, yo misma le hubiera dado muerte. Pero aquí está mi marido...
+P|Ya está cumplido. ¿Has sentido algún rumor?
+P|No más que el canto del grillo y el chillido del buho, ¿Hablaste algo?
+P|¿Cuándo?
+P|Ahora.
+P|¿Cuando bajé?
+P|Sí.
+P|¿Quién está en el segundo aposento?
+P|Donalbáin.
+P|¡Qué horror!
+P|¡Qué necedad! ¿Por qué te parece horrible?
+P|El uno se sonreia en sueños, el otro se despertó y me llamó: ¡asesino! Los miré fijo y con estupor; despues rezaron y se quedaron dormidos.
+P|Como una piedra.
+P|El uno dijo: «Dios nos bendiga,» y el otro: «Amen.» Yo no pude repetirlo.
+P|Calma ese terror.
+P|¿Por qué no pude responder «Amen?» Yo necesitaba bendicion, pero la lengua se me pegó al paladar.
+P|Si das en esas cavilaciones, perderás el juicio.
+P|Creí escuchar una voz que me decia: «Macbeth, tú no puedes dormir, porque has asesinado al sueño.» ¡Perder el sueño, que desteje la intrincada trama del dolor, el sueño, descanso de toda fatiga: alimento el más dulce que se sirve á la mesa de la vida.
+P|¿Por qué esa agitacion?
+P|Aquella voz me decia alto, muy alto: «Glámis ha matado al sueño: por eso no dormirá Cáudor, ni tampoco Macbeth.»
+P|¿Pero qué voz era esa? ¡Esposo mio! no te domine así el torpe miedo, ni ofusque el brillo de tu razon. Lava en el agua la mancha de sangre de tus manos. ¿Por qué quitas de su lugar las dagas? Bien están ahí. Vete y ensucia con sangre á los centinelas.
+P|No me atrevo á volver ni á contemplar lo que hice.
+P|¡Cobarde! Dame esas dagas. Están como muertos. Parecen estatuas. Eres como el niño á quien asusta la figura del diablo. Yo mancharé de sangre la cara de esos guardas.
+S|(Suenan golpes.)
+P|¿Quién va? El más leve rumor me horroriza. ¿Qué manos son las que se levantan, para arrancar mis ojos de sus órbitas? No bastaria todo el Océano para lavar la sangre de mis dedos. Ellos bastarian para enrojecerle y mancharle.
+P|También mis manos están rojas, pero mi alma no desfallece como la tuya. Llaman á la puerta del Mediodía. Lavémonos, para evitar toda sospecha. Tu valor se ha agotado en el primer ímpetu. Oye... Siguen llamando... Ponte el traje de noche. No vean que estamos en vela. No te pierdas en vanas meditaciones.
+P|¡Oh, si la memoria y el pensamiento se extinguiesen en mí, para no recordar lo que hice! (Siguen los golpes).
+S|Lady Macbeth en la cámara de Duncan.
+S|Escena III.
+P|¡Qué estrépito! Ni que fuera uno portero del infierno. ¿Quién será ese maldito? Algun labrador que se habrá ahorcado descontento de la mala cosecha... Y sigue alborotando... Será algún testigo falso, pronto á jurar en cualquiera de los platillos de la balanza. ¡Entra, malvado! ¡Y sigue dando! Será algún sastre inglés que ha sisado tela de unos calzones franceses. ¡Qué frio hace aquí aunque estamos en el infierno! Ya se acabó mi papel de diablo. A otra gente más lucida pensé abrir. No os olvideis del portero.
+S|Escena IV.
+S|Macduff, un Portero, Lénnox y Macbeth.
+P|¿Cómo te levantas tan tarde? ¿Te acostaste tarde por ventura?
+P|Duró la fiesta hasta que cantó por segunda vez el gallo.
+P|¿Se ha levantado tu señor?... Pero aquí viene. Sin duda le despertamos con los golpes.
+P|(A Macbeth.) ¡Buenos dias!
+P|¡Felices!
+P|¿Está despierto el Rey?
+P|Todavía no.
+P|Me dijo que le llamara á esta hora.
+P|Os quiero guiar á su habitación.
+P|Molestia inútil, por más que os agrade.
+P|Esta es su puerta.
+P|Mi deber es entrar.
+S|(Vase.)
+P|¿Se va hoy el Rey?
+P|Así lo tiene pensado.
+P|¡Mala noche! El viento ha echado abajo nuestra chimenea. Se han oido extrañas voces, gritos de agonía, cantos proféticos de muerte y destruccion. Las aves nocturnas no han cesado de graznar. Hay quien dice que la tierra misma se estremecia.
+P|Tremenda ha sido, en verdad, la noche.
+P|No recuerdo otra semejante. Verdad que soy joven.
+P|¡Horror, horror, horror! ¡Ni la lengua ni el corazón deben nombrarte!
+S|Macbeth y Lénnox.
+P|¿Qué?
+P|Una traición horrible. Un sacrilegio... El templo de la vida del Rey ha sido profanado.
+P|¿Su vida?
+P|¿La del Rey?
+P|Entrad en la alcoba, y lo veréis, si es que no ciegan vuestros ojos de espanto. No puedo hablar. Vedlo vosotros mismos... ¡Á las armas! ¡Traicion, malvados! ¡Donalbáin, Banquo, Malcolm, alerta! ¡Lejos de vosotros ese sueño tan pesado como la muerte. Ved la muerte misma... Pronto... ¡Banquo, Malcolm! Dejad el lecho, venid, animados fantasmas, á contemplar esta escena de duelo.
+P|¿Qué es eso? ¿Por qué despertais con tales gritos á la gente de la casa que aún duerme?
+P|En vuestros oidos, hermosa dama, no deben sonar otra vez nuestros lamentos. No es tanto horror para oidos de mujer. (Entra Banquo.) ¡Banquo, Banquo! Nuestro Rey ha sido asesinado.
+P|¡Dios mio, y en mi casa!
+P|Aquí y en todas seria horrible. Dime que no es verdad. Dímelo por Dios.
+P|¡Ojalá hubiera muerto yo pocas horas antes! Mi vida hubiera sido del todo feliz. Ya han muerto para mí la gloria y la esperanza. He agotado el vino de la existencia, y sólo me quedan las heces en el vaso.
+P|¿Qué es esto?
+P|¿Y tú me lo preguntas? Se ha secado la fuente de la vida. Tu padre ha sido muerto.
+P|¿Quién lo mató?
+P|Sin duda sus guardias, porque tienen manchadas de sangre las manos y la cara, y los ensangrentados puñales junto al lecho. En sus miradas se retrataba el delirio.
+P|¡Cuánto siento que mi furor me llevara á darles instantánea muerte!
+P|¿Por qué lo hiciste?
+P|¿Y quién se contiene en tal arrebato? ¿Cuándo se unió el furor con la prudencia, la lealtad con el sosiego? Mi amor al Rey venció á mi tranquila razon. Yo veia á Duncan teñido en su propia sangre, y cerca de él á los asesinos con el color de su oficio; veia sus puñales manchados también... ¿Quién podia dudar? ¿Quién que amase al Rey, hubiera podido detener sus iras?
+P|Llevadme lejos de aquí.
+P|¡Y callamos! aunque no pocos pueden achacarnos el crímen.
+P|Más vale callarnos y atajar nuestras lágrimas. Vamos.
+P|Disimulemos nuestra pena.
+P|Cuidad á la señora. Después que nos vistamos, hemos de examinar más despacio este horrible suceso. En la mano de Dios están mis actos. Desde allí desafio toda sospecha traidora. Juro que soy inocente.
+P|Y yo tambien.
+P|Y todos.
+P|Juntémonos luego en el estrado.
+P|Así lo haremos.
+P|¿Qué haces? Nada de tratos con ellos. Al traidor le es fácil simular la pena que no siente. Iré á Inglaterra.
+P|Y yo á Irlanda. Separados estamos más seguros. Aquí las sonrisas son puñales, y derraman sangre los que por la sangre están unidos.
+P|La bala de su venganza no ha estallado todavía. Nos conviene esquivarla. A caballo, y partamos sin despedirnos. Harta razón tenemos para escondernos.
+S|Escena V.
+S|Exterior del Castillo. Un Viejo, Ross y Macduff.
+P|En mis setenta años he visto cosas peregrinas y horrendas, pero nunca como esta noche.
+P|¡Venerable anciano! ¡Con qué cólera mira el cielo la trágica escena de los hombres! Ya ha amanecido, pero todavía la noche se resiste á abandonar su dominio. Quizá se avergüenza el dia, y no se atreve á derramar su pura lumbre.
+P|No es natural nada de lo que sucede. El martes un generoso halcón cayó en las garras de una lechuza.
+P|Los caballos de Duncan, los mejores de su casta, han quebrantado sus establos, y vueltos al estado salvaje, son terror de los palafreneros.
+P|Ellos mismos se están devorando.
+P|Así es. ¡Qué horror miran mis ojos!... Pero aquí se acerca el buen Macduff. ¿Cómo están las cosas, amigo?
+P|Ya lo veis.
+P|¿Quién fué el asesino?
+P|Los que mató Macbeth.
+P|¿Y qué interes tenian?
+P|Eran pagados por los dos hijos del Rey difunto.
+P|¡Horror contra naturaleza! La ambicion se devora á sí misma! Y Macbeth sucederá en el trono.
+P|Ya le han elegido rey, y va á coronarse á Esconia.
+P|¿Y el cuerpo del rey Duncan?
+P|Lo llevan á enterrar á la montaña de San Colme, sepulcro de sus mayores.
+P|¿Te vas á Esconia, primo?
+P|A Faife.
+P|Yo á Esconia.
+P|Felicidad en todo. Adios. Gusto más de la ropa nueva, que de la antigua.
+P|Adios, buen viaje.
+P|Quien saque como vosotros bien del mal, y haga amigo al enemigo, llevará la bendición de Dios.
+H|Acto III
+S|Escena primera.
+S|Palacio de Fóres.
+S|Banquo, Macbeth, un Criado y dos Sicarios.
+P|Ya eres rey, Macbeth, y señor de Glámis y de Cáudor. Está cumplido en todas sus partes el vaticinio de las hechiceras, pero ¿quién sabe si la traicion te habrá allanado el camino? Ni ha de quedar el cetro en tu linaje. Si es verdad lo que nos dijeron, reyes han de ser mis hijos. ¿Por qué los oráculos que fueron veraces contigo no han de ser tambien propicios á mi ambicion? Pero disimulemos.
+P|Ya tenemos aquí á nuestro principal convidado.
+P|Grande hubiera sido su falta en el banquete.
+P|Te convido á un gran festín que he de dar esta noche.
+P|Vuestra Majestad puede mandarme, en vez de convidarme. Mi voluntad está indisolublemente unida á la vuestra.
+P|¿Sales á caballo esta tarde?
+P|Sí.
+P|Si no, podrías ayudarme con tu consejo en la junta de esta tarde. Mañana será. ¿Vas lejos?
+P|Pasearé hasta la hora de cenar. Si mi caballo no aprieta el paso, pediré prestadas á la noche una ó dos horas.
+P|No faltes.
+P|No faltaré.
+P|Tengo nuevas de que mis revoltosos deudos están refugiados en Inglaterra y en Irlanda. No confiesan su parricidio, y divulgan contra mí horrendas acusaciones. Mañana hablaremos de esto, cuando nos juntemos á tratar de otros negocios. Ahora, á caballo. Hasta luego. ¿Te acompaña tu hijo?
+P|Sí, y vendrá pronto, porque ya es hora.
+P|Dios guie con bien vuestros caballos y os vuelva pronto. Hasta la noche. (Vase Banquo.) Vosotros haced lo que querais hasta las siete. Vuestra compañía me será más grata á la hora de cenar, si en este momento me dejais solo. Adios, mis caballeros. (Vanse todos.)
+P|(A un criado.) ¿Me esperan ya esos hombres?
+P|Están á la puerta de palacio.
+P|Diles que entren. (Se va el criado.) ¿De qué me sirve el poder sin la seguridad? Banquo es mi amenaza perpetua: su altiva condicion me infunde miedo. Junta á su valor el ingenio y la prudencia. Me reconozco inferior á él como Marco Antonio á César. Él fué quien se atrevió á dirigir la palabra á las brujas cuando me aclamaron Rey, y á preguntarlas por su suerte futura, y ellas con fatídica voz le contestaron: «Tus hijos serán reyes.» A mí me otorgan una corona estéril, un cetro irrisorio, que no pasará á mis hijos sino á los de un extraño. Yo vendré á ser el bienhechor de la familia de Banquo. Por servirla asesiné al Rey Duncan, y llené de hiél el cáliz de mi vida; y vendí al diablo el tesoro de mi alma. ¡Todo para hacer reyes á los hijos de Banquo! ¡Fatal destino mio, sálvame: lidia por mi esta batalla! ¿Quién es? (Entran los sicarios.) (Al criado.) Espera á la puerta hasta que llame. (Vase el criado.) (A los sicarios.) Ya oisteis ayer lo que deseo.
+P|Sí, rey.
+P|¿Habeis pensado bien lo que os dije? Él y no yo ha sido hasta ahora la causa de vuestros males. Ya os expliqué cómo se habia burlado de vosotros: quiénes le ayudaron. En suma el más necio hubiera podido decir: Tuvo la culpa Banquo.
+P|Verdad es lo que dices.
+P|Y añado más, y vengo al objeto de este coloquio. ¿Hasta cuándo durará vuestra paciencia? ¿Manda el Evangelio que receis á Dios por ese hombre y por su linaje, cuando os está empobreciendo y esquilmando, y os tiene casi á punto de muerte?
+P|¡Oh Rey! somos hombres.
+P|También son perros los galgos y los mastines y los lebreles, y los de aguas y los de caza, pero se distinguen unos de otros por tener más ó menos valor y fortaleza, y mejor ó peor olfato. La naturaleza reparte con igualdad sus dones, y por eso las diversas castas tienen nombres distintos. Lo mismo sucede con los hombres. Si no quereis ser de los últimos y más abyectos, yo os daré un consejo que os libre para siempre de esa opresion y tiranía, y os haga acreedores á mi gratitud eterna, porque no puedo vivir en paz, si él no muere.
+P|Señor; yo soy un hombre de esos tan maltratados por la suerte, que me arrojaré á cualquier cosa, por vengarme del mundo.
+P|Tan mala ha sido mi fortuna, que para mejorarla ó acabar de una vez, arriesgaré mi vida en cualquier lance.
+P|Está bien. Banquo es enemigo vuestro.
+P|Verdad, señor.
+P|Y mio, á tal extremo que cada minuto de su vida es un tormento para mí. Yo podria sin cargo de conciencia deshacerme de él, pero tiene amigos que tambien lo son mios, y no quiero perderlos. Por eso acudo á vosotros, ya que hay poderosos motivos para que el golpe sea secreto.
+P|Se hará vuestra voluntad, oh Rey.
+P|Aunque perezcamos en la demanda.
+P|Conozco vuestro denuedo. Pronto os diré en qué sitio habeis de emboscaros, y cuándo; porque esta misma noche ha de darse el golpe. Conviene que sea lejos de palacio, para alejar de mí toda sospecha. No dejeis indicio alguno del crimen. Le acompaña su hijo Fleancio, que me estorba tanto como su padre. Por consiguiente, matadle tambien. Quedaos solos. Volveré luego.
+P|Estamos resueltos.
+P|Volveré pronto... Entrad... ¡Oh, Banquo! esta noche ó nunca subirá tu alma á los cielos.
+S|Escena II.
+S|Lady Macbeth, Macbeth y un Criado.
+P|¿Está en palacio Banquo?
+P|No, señora, pero esta noche vendrá.
+P|Di al Rey, que quiero hablarle un momento.
+P|Así lo haré...
+P|¿De qué nos sirve haber logrado nuestros deseos, si no alcanzamos placer ni reposo? Es preferible la paz de nuestras víctimas, al falso goce que procede del crímen. (Entra Macbeth.) Esposo mio, ¿porqué te atormentan siempre tan tristes recuerdos? olvida lo pasado.
+P|Hemos herido á la serpiente, pero no la hemos matado. Volverá á acometernos, mientras estemos cerca de sus dientes. ¡Húndase la tierra, arda el universo, antes que yo coma ni duerma en medio de tales espantos nocturnos! ¡Ojalá estuviera yo con mis víctimas, mas bien que entregado á la tortura de mi pensamiento! Duncan no teme ya ni el hierro matador ni el veneno, ni la discordia, ni la guerra.
+P|Esposo mio, alegra ese semblante, para que nuestros huéspedes no adviertan esta noche tu agitacion.
+P|Así lo haré, amada mia. Fíjate en Banquo: muéstrate risueña con él, en la mirada y en las palabras. Todavía no estamos seguros: es preciso lavar nuestra honra en el rio de la adulacion, y convertir nuestros semblantes en hipócrita máscara.
+P|¡Oh, basta, basta!
+P|Mi alma es un nido de sierpes... ¡Todavía respiran Banquo y Fleancio!
+P|No son inmortales.
+P|Esa es la esperanza que nos queda. El hierro puede alcanzarlos. Antes que el murciélago abandone su claustro; antes que se oiga en el silencio de la noche el soñoliento zumbido del escarabajo, estará terminado todo.
+P|¿Qué quieres decir?
+P|Vale más que lo ignores, hasta que esté cumplido, y puedas regocijarte en ello. Ven, ciega noche, venda tú los ojos al clemente dia. Rompa tu mano invisible y ensangrentada la atroz escritura que causa mis terrores... Va creciendo la oscuridad: retorna el cuervo á la espesura del bosque: las aves nocturnas descienden anhelosas de presa... ¡Te horrorizan mis palabras! ¿Y por qué? Sólo el crímen puede consumar lo que ha empezado el crímen. Ven conmigo.
+S|Escena III.
+S|Bosque á la entrada del palacio. Asesinos, Banquo y su hijo Fleancio.
+P|¿Quién te ha enviado?
+P|Macbeth.
+P|No debemos dudar de él, puesto que sabe nuestro fin y propósito.
+P|Ya muere el sol en occidente, y el pasajero aguija su caballo para llegar á la posada. Ya está cerca el que esperamos.
+P|Suenan las herraduras de sus caballos.
+P|(Dentro.) ¡Luz!
+P|¡Ahí está! Le aguardan en la llanura.
+P|Se llevan los caballos.
+P|El, como los demás, se encamina á pié á palacio.
+P|¡Luz, luz!
+P|¡Ahí está!
+P|Aguarda. (Entran Banquo, su hijo Fleancio, un criado con antorcha.)
+P|Va á llover esta noche.
+P|¡Muera! (Le hiere.)
+P|¡Traicion! Huye, hijo, y si puedes, venga mi muerte. (Cae.)
+P|¿Por qué mataste la luz?
+P|¿No hice bien?
+P|Ha muerto uno solo. El hijo huye.
+P|Hemos perdido la mitad de la paga.
+P|Vamos á dar cuenta á Macbeth.
+S|Escena IV.
+S|Sala de palacio. Mesa preparada para un festín. Macbeth, los Convidados, Lady Macbeth, Asesino 1.º y Lénnox.
+P|Sentaos, según vuestra categoría y nobleza. Bien venidos seais todos.
+P|Gracias.
+P|Siéntese la reina en el trono, y démosle la bienvenida.
+P|Gracias. Dádsela á nuestros convidados. Os saludo de todo corazon, señores.
+P|Con toda el alma te lo agradecen. (Á Lady Macbeth.) Los dos lados iguales: yo en medio. Alegraos, brindaremos juntos. (Se presenta el asesino 1.º) Traes manchada la cara de sangre.
+P|Sangre de Banquo.
+P|Mas vale que sea la suya que la tuya. ¿Queda muerto?
+P|Le degollé, señor.
+P|¡Matador excelente te debo apellidar, y mas, si acabaste también con Fleancio.
+P|Oh rey! huyó.
+P|¡Y siguen mis temores! Si él hubiera muerto, yo seria feliz, duro como el mármol y las rocas, libre como el aire. Pero ahora me veo receloso, inquieto, entre dudas y temores. ¿Y Banquo murió de veras?
+P|Cayó en una zanja profundísima, con veinte heridas en la cabeza, la menor de ellas mortal.
+P|Gracias infinitas. Muerta está la serpiente, pero ese retoño fugitivo ha de envenenarnos con el tiempo. Todavía no ha echado dientes. Vuelve mañana. Aun tenemos que hablar.
+S|(Se vá el asesino.)
+P|Esposo, anima con tu presencia y tus palabras la languidez del festin. Si no has de hacerlo, más valdrá comer solos. La alegría es la salsa de las cenas.
+P|¡Dulce maestra mia! La buena digestion venga hoy después del apetito, y tras ellos la salud.
+P|Tomad asiento, rey.
+P|Congregada tendríamos esta noche la flor de la monarquía, si no nos faltase el ilustre Banquo. Quiero culpar su negligencia, mas bien que imaginar que le haya acontecido alguna desgracia.
+S|(El espectro de Banquo ocupa el sitial de Macbeth.)
+P|Honradnos, señor, tomando asiento.
+P|¿Dónde? No le encuentro.
+P|Aquí le teneis, señor.
+P|¿Dónde?
+P|Señor, aquí. ¿Pero qué agitacion es la vuestra?
+P|¿Quién de vosotros ha hecho esto?
+P|¿Qué, señor?
+P|Yo nó... yo no lo hice... no me mires agitando tu cabellera tinta en sangre.
+P|Levantaos: el rey está enfermo.
+P|Nó, nó, continuad sentados. Son accidentes que desde joven padece mi marido. No os levantéis. Es cosa de un momento. Vereis cual se repone en seguida. No os fijeis en él, porque se aumentará su delirio. (Aparte á Macbeth.) ¡Y dices que eres hombre!
+P|Y hombre fuerte, pues que me atrevo á mirar de hito en hito lo que pondria espanto al mismo Satanás.
+P|Necedad insigne! ¡Sombras que finge el miedo! Es como aquel puñal que decías que te guiaba por el aire, cuando mataste al rey Duncan. ¡Consejas, tolerables solo en boca de una anciana, al amor de la lumbre! ¡Vergüenza para tí! ¡Y aun sigues turbado! ¡No vés que tú asiento está vacío!
+P|¡Nó, nó... Mira, mira!... ¿No lo vés?... ¿Qué dices ahora?... Pero ¿qué me importa lo que digas? Mueves la cabeza en signo de incredulidad?... Habla, habla... Si los sepulcros nos arrojan su presa, los palacios se trocarán en festin de buitres.
+S|(Se vá la sombra.)
+P|¿Estás loco?
+S|El festin de Macbeth
+P|Te juro, por mi alma, que le he visto.
+P|¿Y no te avergüenzas?
+P|Siempre se ha derramado sangre. Desde que el mundo es mundo, ha habido crímenes atroces. Pero antes el muerto muerto se quedaba. Ahora las sombras vuelven y nos arrojan de nuestros sitiales.
+P|Tus caballeros reclaman tu presencia.
+P|No me acordaba de ellos. Amigos mios! nobles caballeros! no hagais caso de mí. Si me conocierais bien, no os extrañaria este súbito accidente. ¡Salud, amigos! Brindemos á la salud de nuestro amigo Banquo, único que nos falta. ¡Ojala llegue pronto! ¡Brindo por vosotros, y por él y por todos.
+P|Nosotros repetimos el brindis.
+S|(Vuelve á aparecer la sombra.)
+P|¡Léjos, lejos de mí!... Que la tierra te trague... Mi sangre se hiela: falta á mis huesos el tuétano... la lumbre de mis ojos se oscurece.
+P|El accidente vuelve: no es grave, pero descompone la fiesta.
+P|Yo no temo nada de lo que pueden temer los hombres. Ven á mí en forma de tigre de Hircania, de oso ó de rinoceronte: no se agitarán mis nervios. O vuelve á la vida, y rétame á lid campal, hierro á hierro, y si tiemblo al ir á encontrarte, llámame hijo de mi nodriza... Pero no vengas como sombra. ¡Huye de mí, formidable espectro! (Desaparece la sombra.) Ya se retira, y vuelvo á ser hombre. Sentaos otra vez: os lo suplico.
+P|Con ese delirio has turbado la alegría del convite.
+P|¿Y cómo no asombrarnos, cuando estalla esa borrascosa nube de verano? Ahora dudo de mi razon viendo que podeis contemplar tales apariciones sin que vuestro rostro palidezca.
+P|¿De qué apariciones hablas?
+P|Silencio! La contradiccion le molesta. Podeis retiraros sin ceremonia. Idos pronto.
+P|Buenas noches, y descanse el Rey.
+P|Buenas noches.
+P|¡Sangre pide! La sangre clama por sangre; ya lo dice el proverbio. Hasta los árboles hablan á la voz del agorero, ó por natural virtud. Y á veces la voz de la urraca, del cuervo, ó del grajo, ha delatado al asesino. ¿Qué hora es?
+P|La noche combate con las primeras horas del dia.
+P|Macduff se niega á obedecerme, y á reconocer mi autoridad.
+P|¿Le has llamado?
+P|No, pero tengo noticias ciertas de él por mis numerosos espías. Mañana temprano iré á ver á las brujas. Quiero apurarlo todo, y averiguar el mal, aunque sea por medios torcidos. Todo debe rendirse á mi voluntad. Estoy nadando en un mar de sangre, y tan lejos ya de la orilla, que me es indiferente bogar adelante ó atras. Es tiempo de obras y no de palabras. Descienda el pensamiento á las manos.
+P|Te falta la sal de la vida, el sueño.
+P|Pues á dormir. ¡Mi terror, nacido de la falta de costumbre, me quita el sueño. ¡Soy novicio en el crímen!
+S|Escena V.
+S|Un páramo.—Tempestad.
+P|Oh Hécate, tu semblante muestra á las claras tu enojo.
+P|¿Y no tengo razon, impertinentes viejas? ¿Por qué, siendo yo la fuente de vuestro poder y de todos los males humanos, habeis osado, sin pedirme consejo, ni acudir á mi ciencia, tratar con Macbeth por enigmas? ¡Y todo en provecho de un ingrato, de un ambicioso, que sólo mira á su interes, y no se acuerda de vosotras! Antes que el sol se ponga, venid á los antros tartáreos; no dejeis de traer ninguna de vuestras redomas, encantos y conjuros. Ahora, á volar. Esta noche ha de cumplirse una evocacion tremenda. De la luna pende una gota de vapor que he de coger esta misma noche antes que caiga. Yo la destilaré con mi ciencia maravillosa, y evocaré génios de tal virtud que le traigan lisonjeramente engañado hasta el abismo. No temerá la muerte: confiará en su estrella: podrá más su esperanza que su buen juicio ó sus temores, y ya veis que hombre excesivamente confiado está medio perdido.
+S|(Se oye dentro una voz.) ¡Venid, venid!
+P|¿Ois la voz del génio? Camina en esa transparante nube.
+P|Vámonos, que pronto volverá.
+S|Escena VI.
+S|Palacio de Fóres. Lénnox y el Señor.
+P|Te asombra lo que he dicho. Pero sigue tú discurriendo. Macbeth mostró mucho sentimiento por la muerte de Duncan... ¡Es claro, como que estaba muerto! Banquo salió á pasear muy tarde, y quizá le mataria su hijo, puesto que huyó en seguida.—¿Y á quién se le ocurre salir á pasear de noche?... ¿No fué cosa monstruosa el parricidio de Malcolm y Donalbáin? ¡Cómo le angustió á Macbeth!... Tanto que en seguida mató á los guardas, dominados por el sueño y el vino... ¡Lealtad admirable!... ó gran prueba de talento. Hizo bien, porque ¿quién hubiera podido oir con calma que negaban el crímen? A fe mia que si cayeran en manos de Macbeth (lo cual no es fácil, ni Dios permita) los hijos de Duncan, ya habian de ver lo que es matar á su padre, y lo mismo el hijo de Banquo. Pero callemos, que por hablar demasiado y por huir de la mesa del Rey, anda perseguido Macduff. ¿Sabes dónde está?
+P|Malcolm, el heredero del trono de Duncan, usurpado por ese tirano, vive en Inglaterra, al amparo del santo rey Eduardo, y dando brillantes muestras de lo claro de su estirpe. Macduff ha ido á aquella córte, á solicitar el auxilio del valeroso duque Suardo. Con su ayuda, y sobre todo con la del Dios de los ejércitos, no volverá el puñal á turbar nuestros sueños, y vivirán seguros los leales. La indignacion del Rey, al saberlo, ha sido tanta, que va á declarar la guerra.
+P|¿Y no llamó antes á Macduff?
+P|Sí le llamó, pero él contestó rotundamente que no, volvió la espalda al mensajero, y parecia decir entre dientes: «Muy cara os ha de costar mi respuesta.»
+P|Será un aviso para que proceda con cautela, y no se exponga á nuevas asechanzas. Vaya á Inglaterra un ángel con la noticia de todo lo ocurrido, antes que Macduff vuelva. Caigan de nuevo las bendiciones de Dios sobre esta tierra infeliz oprimida por un tirano.
+P|Óigate el cielo.
+H|Acto IV
+S|Escena primera.
+S|El antro de las brujas.— En medio una caldera hirviendo.
+S|Noche de tempestad.
+S|Brujas, Hécate, Macbeth, varias Sombras y Lénnox.
+P|Tres veces ha mayado el gato.
+P|Tres veces se ha lamentado el erizo.
+P|La arpía ha dado la señal de comenzar el encanto.
+P|Demos vueltas al rededor de la caldera, y echemos en ella las hediondas entrañas del sapo que dormia en las frias piedras y que por espacio de un mes ha estado destilando su veneno.
+P|Aumente el trabajo: crezca la labor: hierva la caldera.
+P|Lancemos en ella la piel de la víbora, la lana del murciélago amigo de las tinieblas, la lengua del perro, el dardo del escorpion, ojos de lagarto, músculos de rana, alas de lechuza... Hierva todo esto, obedeciendo al infernal conjuro.
+P|Aumente el trabajo: crezca la labor: hierva la caldera.
+P|Entren en ella colmillos de lobo, escamas de serpiente, la abrasada garganta del tiburon, el brazo de un sacrílego judío, la nariz de un turco, los labios de un tártaro, el hígado de un macho cabrío, la raiz de la cicuta, las hojas del abeto iluminadas por el tibio resplandor de la luna, el dedo de un niño arrojado por su infanticida madre al pozo... Unamos á todo esto las entrañas de un tigre salvaje.
+P|Aumente el trabajo: crezca la labor: hierva la caldera.
+P|Para aumentar la fuerza del hechizo, humedecedlo todo con sangre de mono.
+P|Alabanza merece vuestro trabajo; y yo le remuneraré. Danzad en torno de la caldera, para que quede consumado el encanto.
+P|Ya me pican los dedos: indicio de que el traidor Macbeth se aproxima. Abríos ante él, puertas.
+P|Misteriosas y astutas hechiceras, ¿en qué os ocupais?
+P|En un maravilloso conjuro.
+P|En nombre de vuestra ciencia os conjuro. Aunque la tempestad se desate contra los templos, y rompa el mar sus barreras para inundar la tierra, y el huracan arranque de cuajo las espigas, y derribe alcázares y torres; aunque el mundo todo perezca y se confunda, responded á mis interrogaciones.
+P|Habla.
+P|Pregúntanos.
+P|Á todo te responderemos.
+P|¿Quieres que hablemos nosotras ó que contesten los génios, señores nuestros?
+P|Invocad á los génios, para que yo los vea.
+P|Verted la sangre del cerdo: avivad la llama con grasa resudada del patíbulo.
+P|Acudid á mi voz, génios buenos y malos. Haced ostentacion de vuestro arte. (En medio de la tempestad, aparece una sombra, armada, con casco.)
+P|Respóndeme, misterioso génio.
+P|Él adivinará tu pensamiento. Óyele y no le hables.
+P|Recela tú de MacdufF, recela de Macduff. Adios... Dejadme.
+P|No sé quién eres, pero seguiré tu consejo, porque has sabido herir la cuerda de mi temor. Oye otra pregunta.
+P|No te responderá, pero ahora viene otra sombra.
+S|(Aparece la sombra de un niño cubierto de sangre.)
+P|Macbeth, Macbeth, Macbeth.
+P|Aplico tres oidos para escucharte.
+P|Si eres cruel, implacable y sin entrañas, ninguno de los humanos podrá vencerte.
+P|Entonces ¿por qué he de temer á Macduff?... Puede vivir seguro... Pero no... es más seguro que perezca, para tener esta nueva prenda contra el hado... No le dejaré vivir; desmentiré así á los espectros que finge el miedo, y me dormiré al arrullo de los truenos.
+S|(La sombra de un niño, con corona y una rama de árbol en la mano.)
+P|¿Quién es ese niño que se ciñe altanero la corona real?
+P|Óyele en silencio.
+P|Sé fuerte como el leon: no desmaye un punto tu audacia: no cedas ante los enemigos. Serás invencible, hasta que venga contra tí la selva de Birnam, y cubra con sus ramas á Dunsinania.
+P|¡Eso es imposible! ¿Quién puede mover de su lugar los árboles y ponerlos en camino? Favorables son los presagios. ¡Sedicion, no alces la cabeza, hasta que la selva de Birnam se mueva! Ya estoy libre de todo peligro que no sea el de pagar en su dia la deuda que todos tenemos con la muerte. Pero decidme, si es que vuestro saber penetra tanto: ¿reinarán los hijos de Banquo?
+P|Nunca podrás averiguarlo.
+P|Decídmelo. Os conjuro de nuevo y os maldeciré, si no me lo revelais. Pero ¿por qué cae en tierra la caldera?... ¿Qué ruido siento?
+P|Mira.—¡Sombras, pasad rápidas, atormentando su corazon y sus oidos!
+S|(Pasan ocho reyes, el último de ellos con un espejo en la mano. Despues la sombra de Banquo.)
+P|¡Cómo te asemejas á Banquo!... Apártate de mí... Tu corona quema mis ojos... Y todos pasais coronados... ¿Por qué tal espectáculo, malditas viejas?... Tambien el tercero... Y el cuarto... ¡Saltad de vuestras órbitas, ojos mios!... ¿Cuándo, cuándo dejareis de pasar?... Aún viene otro... el séptimo... ¿Por qué no me vuelvo ciego?... Y luego el octavo... Y trae un espejo, en que me muestra otros tantos reyes, y algunos con doble corona y triple cetro... Espantosa vision... Ahora lo entiendo todo... Banquo, pálido por la reciente herida, me dice sonriéndose que son de su raza esos monarcas... Decidme, ¿es verdad lo que miro?
+P|Verdad es, pero ¿á qué tu espanto?... Venid, alegraos, ya se pierde en los aires el canto del conjuro: gozad en misteriosa danza: hagamos al Rey el debido homenaje. (Danzan y desaparecen.)
+P|¿Por dónde han huido?... ¡Maldita sea la hora presente!
+P|¿Qué hay?
+P|¿No has visto á las Brujas?
+P|No.
+P|¿No han pasado por donde tú estabas de guardia?
+P|No.
+P|¡Maldito sea el aire que las lleva! ¡Maldito quien de ellas se fia! Siento ruido de caballos; ¿quién son?
+P|Mensajeros que traen la noticia de que Macduff huye á Inglaterra.
+P|¿A Inglaterra?
+P|Así dicen.
+P|El tiempo se me adelanta. La ejecucion debe seguir al propósito, el acto al pensamiento. Necesito entrar en Faife, y degollar á Macduff, á su mujer y á sus hijos y á toda su parentela... Y hacerlo pronto, no sea que el propósito se frustre, y quede en vana amenaza. Basta de agüeros y sombras.
+S|Escena XI.
+S|Castillo de Macduff. Lady Macduff, Ross, el Hijo de Macduff, un Mensajero y Asesinos.
+P|¿Por qué esa inesperada fuga?
+P|Tranquilízate, señora.
+P|¡Qué locura hizo! El miedo nos hace traidores.
+P|¿Quién sabe si fué miedo ó prudencia?
+P|¿Prudencia dejar su mujer, sus hijos y su hacienda, expuestos á la venganza de un tirano?... No creo en su cariño... El ave más pequeña y débil de todas resiste á la lechuza, cuando se trata de defender su prole... En Macduff ha habido temor sobrado y ningun amor. Su fuga es cobardía y locura.
+P|Tranquilízate, prima mia. Tu marido es bueno y prudente, y sabe bien lo que hace. Pero vivimos en tan malos tiempos que á veces somos traidores hasta sin saberlo, y tememos y recelamos sin causa, como quien cruza un mar incierto y proceloso. Adios. Volveré pronto. Quizá se remedie todo y luzca de nuevo el sol de la esperanza. Adios, hermosa prima. Dios te bendiga.
+P|Mi hijo está huérfano aunque tiene padre.
+P|No puedo detenerme más. Seria en daño vuestro y mio.
+P|(A su hijo.) Y ahora que estás sin padre, ¿cómo vivirás, hijo mio?
+P|Madre mia, como los pájaros del cielo.
+P|¿Con insectos y moscas?
+P|Con lo que encuentre, como hacen ellas.
+P|¡Infeliz! ¿Y no temerás redes, liga ni cazadores?
+P|¿Y por qué he de temerlos, madre? Nadie caza á los pájaros pequeños. Y ademas, mi padre no ha muerto.
+P|¿Qué harias por tener padre?
+P|¿Y tú por tener marido?
+P|Compraria veinte en cualquiera parte.
+P|Para venderlos despues.
+P|Muy agudo eres para tus años.
+P|Dices que mi padre fué traidor.
+P|Sí.
+P|¿Y qué es ser traidor?
+P|Faltar á la palabra y al juramento.
+P|¿Eso se llama traicion?
+P|Y quien la comete merece ser ahorcado.
+P|¿Todo el que la comete?
+P|Todos.
+P|¿Y quién los ha de ahorcar?
+P|La gente honrada.
+P|Entonces bien necios son los traidores, porque, siendo tantos, parece que habian de ser ellos los que ahorcasen á la gente de bien.
+P|¿Qué harias por tener padre?
+P|Si hubiera muerto de veras, tú estarias llorando, y si no llorabas, era indicio claro de que pronto tendria yo otro padre.
+P|Gracioso estás, pobre hijo mio.
+P|Dios te bendiga y salve, hermosa castellana. No te conozco, pero el honor me obliga á avisarte que se acerca á tí un inminente peligro. Sigue mi consejo. Huye en seguida con tus hijos. Quizá te parezca rudo mi aviso, pero seria cruel dejarte en las garras de los asesinos. Adios. No puedo detenerme.
+P|¿Y á dónde voy? ¿Qué pecado he cometido? Estoy en un mundo donde á veces se tiene por locura hacer el bien, y se tributan elogios á la maldad. ¿De qué me sirve la pueril excusa de no haber hecho mal á nadie?... Pero ¿qué horribles semblantes son los que miro?...
+P|¿Dónde está tu marido?
+P|No en parte tan infame donde tus ojos puedan verle.
+P|(Al niño.) Eres un traidor.
+P|Mentira, vil sicario.
+P|Muere, pollo en cascaron.
+S|(Le hiere.)
+P|Me ha matado. Huye, madre, sálvate.
+S|Escena III.
+S|Palacio real de Inglaterra. Malcolm, Macduff, un Doctor y Ross.
+P|Busquemos sitio apartado donde poder llorar.
+P|Eso no: empuñemos el hierro de la venganza, en defensa de la patria oprimida. Cada dia suben al cielo nuevos clamores de viudas y huérfanos, acompañando el duelo universal de Escocia.
+P|Mucho lo lamento, pero no creo más que lo que sé. Remediaré lo que pueda y cuando pueda. Tendrás razon en todo lo que dices. Pero acuérdate que ese tirano, cuyo nombre mancha la lengua al pronunciarlo, parecia bueno, y tú mismo le tuviste por tal. Y ademas á vosotros no ós ha hecho mal ninguno. ¿Si querreis engañarme, sacrificándome como un cordero en las aras de ese ídolo?
+P|Nunca he sido traidor.
+P|Pero lo fué Macbeth... Perdóname... no me atrevo á adivinar lo que eres. Mira si resplandecen y son puros los ángeles, y sin embargo, el más luciente de ellos cayó. Muchas veces el crímen toma la máscara de la virtud.
+P|¡Perdí toda esperanza!
+P|Siempre me quedan mis dudas. ¿Por qué has dejado abandonados á tu mujer y á tus hijos, á cuanto quieres en el mundo? Perdóname. Quizá te ofendan mis recelos. Puede ser tambien que tengas razon. Pero yo con esos recelos me defiendo.
+P|¡Llora sin tregua, pobre Escocia! Horrible tiranía pesa sobre tí: los buenos se callan, y nadie se atreve á resistirla. Has de sufrir en calma tus males, ya que tu Rey vacila y tiembla. Señor, me juzgas mal. No seria yo traidor ni áun á precio de toda la tierra que ese malvado señorea, ni por todas las riquezas del Oriente.
+P|No he querido ofenderte, ni desconfio de tí en absoluto. Sé que nuestra pobre Escocia suda llanto y sangre, oprimida por ese bárbaro. Sé que cada dia aumentan y se enconan sus heridas. Creo tambien que á mi voz muchos brazos se levantarian. Ahora mismo Inglaterra me ofrece miles de combatientes. Pero cuando llegase yo á pisotear la cabeza del tirano ó á llevarla en mi lanza, no seria más feliz la patria bajo el reinado del sucesor de Macbeth, antes crecerian sus infortunios.
+P|¿De qué sucesor hablas?
+P|De mí mismo. Llevo de tal manera en mí las semillas de todos los vicios, que cuando fructifiquen, parecerán blancas como la nieve las ensangrentadas sombras de las víctimas de Macbeth, y quizá bendigan su memoria los súbditos, al contemplar mi horrenda vida.
+P|¡Pero si en los infiernos mismos no hay un sér más perverso que Macbeth!
+P|Te concedo de buen grado que es cruel, lascivo, hipócrita, falso, avaro, iracundo, y que se juntan en él todas las maldades del mundo. Pero también es atroz mi lujuria: no bastarian á saciarla todas vuestras hijas y esposas: no habria dique que pudiera oponerse á mi deseo... No... no... prefiero que reine Macbeth.
+P|Terrible enemigo del cuerpo es la incontinencia, y de ella han sido víctimas muchos reyes, y por ella han sido asolados florecientes imperios. Pero no temais, señor. El campo del placer es espacioso. No faltan bellezas frágiles, y aunque tu voracidad sea como la del buitre, has de acabar por cansarte de tantas como acudirán, ufanas de su pomposa deshonra.
+P|Ademas, ruge en mi pecho condicion tan indomable, que si fuera rey, no tendria yo reparo en matar á un noble por despojarle de sus heredades y castillos, ó condenarle por falsas acusaciones, aunque él fuera espejo de lealtad, para enriquecerme con sus despojos.
+P|La lujuria es viento de estío, pero la codicia echa raíces mucho más profundas en el alma. Ella ha sido la espada matadora de muchos reyes nuestros. Pero no importa. Los tesoros de Escocia han de colmar tu deseo. Si no tienes otros vicios que esos, aún son tolerables.
+P|Es que no tengo ninguna cualidad buena. No conozco, ni áun de lejos, la justicia, la templanza, la serenidad, la constancia, la clemencia, el valor, la firmeza en los propósitos, la generosidad. No hay vicio alguno de que yo carezca. Si yo llegara á reinar, echaria al infierno la miel de la concordia, y asolaria y confundiria el orbe entero.
+P|¡Ay desdichada Escocia!
+P|Así soy. Dí si me crees digno de reinar.
+P|No, ni tampoco de vivir sobre la tierra. ¡Pobre patria mia, vil despojo de un tirano que mancha en sangre el cetro que usurpó! ¿Cómo restaurar tu antigua gloria, si el vástago de tus reyes está maldiciendo de sí mismo, y de todo su linaje? Tu padre, señor, era un santo: tu madre vivia muerta para el mundo, y pasaba de hinojos y en oración el dia. Adios, señor. Los vicios de que hablais me arrojan de Escocia. Muerta está mi última esperanza.
+P|No... muerta no... Esa noble indignacion que muestras, es un grito de tu alma generosa, y viene á disipar todos mis temores. Veo claras tu lealtad y tu inocencia. Macbeth ha querido más de una vez engañarme con artificios parecidos, y por eso me guardo de la nimia credulidad. ¡Sea Dios juez entre nosotros! Me pongo en tus manos: me arrepiento de haber sospechado de tí, bien contra mi natural instinto, y de haberme calumniado, atribuyéndome los vicios que aborrezco más. Soy continente. Nunca he faltado á mi palabra. No he codiciado lo ajeno ni áun lo propio. No haria una traicion al mismo Lucifer, y amo la verdad tanto como la vida. Hoy es la primera vez que he faltado á ella, y eso en contra mia. Tal como soy verdaderamente, me ofrezco á tí y á nuestra Escocia oprimida... Cuando tú has llegado, el viejo Suardo preparaba una expedicion de diez mil guerreros. Todos iremos juntos. ¡Dios nos proteja, pues tan santa y justa es nuestra causa! Dí, ¿por qué callas?
+P|¿Y quién no queda absorto al ver unidos tan faustos y tan infelices sucesos?
+S|(Entra un médico.)
+P|Ya hablaremos. (Al Doctor.) ¿Viene el Rey?
+P|Ya le espera un tropel de enfermos, que aguarda de sus manos la salud. Él los cura con el tacto de sus benditas manos.
+P|Gracias, doctor.
+P|¿Y de qué enfermedad cura el Rey?
+P|De las escrófulas. Es un milagro patente. Desde que estoy en Inglaterra, lo he visto muchas veces. No se sabe cómo logra tal favor del cielo, pero á los enfermos más desesperados, llenos de úlceras y llagas, los cura con sólo colgarles medallas del cuerpo, y pronunciar alguna devota oracion. Dicen que esta sobrenatural virtud pasa de unos á otros reyes de Inglaterra. Tiene ademas el don de profecía, y otras mil bendiciones celestes, prueba no dudosa de su santidad.
+P|¿Quién viene?
+P|De mi tierra es, pero no le conozco.
+S|(Entra Ross)
+P|Con bien vengas, ilustre pariente mio.
+P|Te recuerdo. ¡Oh, Dios mio, haz que no volvamos á mirarnos como extraños!
+P|Dios te oiga, señor.
+P|¿Sigue en el mismo estado nuestra patria?
+P|Oh, desdichada Escocia! Ya no es nuestra madre, sino nuestro sepulcro. Sólo quien no tenga uso de razon, puede sonreir allí. No se oyen más que suspiros y lamentos. El dolor se convierte en locura. Banquo ha muerto, sin que nadie pregunte por qué. Las almas puras se marchitan como las flores.
+P|Esa narracion quizá tenga más de poética que de verdadera.
+P|¿Y cuáles son los crímenes más recientes?
+P|Uno nuevo á cada hora.
+P|¿Qué es de mi mujer?
+P|¿Tu mujer?... Está bien.
+P|¿Y mis hijos?
+P|Bien.
+P|¿El tirano ha intentado algo contra ellos?
+P|En paz los dejé cuando salí de Escocia.
+P|No seas avaro de palabras. Dime la verdad.
+P|Cuando vine á traeros estas noticias, decíase que se habian levantado numerosas huestes contra el tirano, y que éste se aprestaba á combatirlas. La ocasion se presenta favorable. Si acudes pronto, hasta las mujeres se alzarán para romper sus cadenas.
+P|Pronto iremos á salvarlos. Inglaterra nos ayuda con diez mil hombres mandados por el valiente Suardo, el mejor caudillo de la cristiandad.
+P|¡Ojalá que yo pudiera consolarme como tú, pero mis desdichas son de tal naturaleza que debo confiarlas á los vientos, y no donde las oiga nadie.
+P|¿Es desdicha pública ó privada?
+P|Todo hombre de bien debe lamentarse de ellas, pero á tí te toca la mayor parte.
+P|Entonces no tardes en decírmela.
+P|No se enojen tus oidos contra mi lengua, aunque se vea forzada á pronunciar las más horrendas palabras que nunca oiste.
+P|¡Dios mio! Casi lo adivino.
+P|Tu castillo fué saqueado: muertos tu esposa y tus hijos. No me atrevo á referirte cómo, para no añadir una más á las victimas.
+P|¡Dios poderoso! Habla. No ocultes tu rostro. Es más tremendo el dolor que no se expresa con palabras.
+P|¿Y mis hijos tambien?
+P|Perecieron tu esposa y tus hijos y tus criados, y cuantos estaban allí.
+P|¿Por qué no estaba yo? ¿Y tambien mi mujer?...
+P|Tambien.
+P|¡Serenidad! La venganza, única medicina de nuestros males, ha de ser tremenda.
+P|¡Pero Macbeth no tiene hijos!... Hijos mios... ¿Todos perecieron?... ¿Todos?... ¿Y su madre tambien?... ¿Y de un solo golpe?
+P|Véngate como un hombre.
+P|Si que me vengaré, pero soy hombre, y siento y me atormenta la memoria de lo que más quise en el mundo. ¡Y lo vió el cielo y no se apiadó de ellos! ¡Ah, pecador Macduff, tú tienes la culpa de todo! Por tí han perecido aquellos inocentes. ¡Dios les dé la gloria eterna!
+P|Tu dolor afile tu espada é inflame tu brío. Sírvate de aguijón y no de freno.
+P|Aunque lloraran mis ojos como los de una mujer, mi lengua hablaria con la audacia de un varón, ¡Dios mio, ponme enfrente de ese demonio, y si se libra de espada, consentiré hasta que el cielo le perdone!
+P|Esas ya son palabras dignas de tí. Vamos á despedimos del Rey de Inglaterra. Sólo nos falta su permiso. Macbeth está á la orilla del precipicio. El cielo se declara en favor nuestro. Tregua á vuestro dolor. No hay noche sin aurora.
+H|Acto V
+S|Escena primera.
+S|Castillo de Dunsinania.
+S|Un Médico, una Dama y Lady Macbeth.
+P|Aunque hemos permanecido dos noches en vela, nada he visto que confirme vuestros temores, ¿Cuándo la visteis levantarse por última vez?
+P|Despues que el Rey se fué á la guerra, la he visto muchas veces levantarse, vestirse, sentarse á su mesa, tomar papel, escribir una carta, cerrarla, sellarla, y luego volverse á acostarse: todo ello dormida.
+P|Grave trastorno de su razon arguye el ejecutar en sueños los actos de la vida. ¿Y recuerdas que haya dicho alguna palabra?
+P|Sí, pero nunca las repetiré.
+P|Á mí puedes decírmelas.
+P|Ni á ti, ni á nadie, porque no podria yo presentar testigos en apoyo de mi relato.
+S|(Entra Lady Macbeth, sonámbula, y con una luz en la mano.)
+P|Aquí está, como suele, y dormida del todo. Acércate y repara.
+P|¿Dónde tomó esa luz?
+P|La tiene siempre junto á su lecho. Así lo ha mandado.
+P|Tiene los ojos abiertos.
+P|Pero no ve.
+P|Mira cómo se retuerce las manos.
+P|Es su ademan más frecuente. Hace como quien se las lava.
+P|Todavía están manchadas.
+P|Oiré cuanto hable, y no lo borraré de la memoria.
+P|¡Lejos de mí esta horrible mancha!... Ya es la una... Las dos... Ya es hora... Qué triste está el infierno... ¡Vergüenza para tí, marido mio!... ¡Guerrero y cobarde!... ¿Y qué importa que se sepa, si nadie puede juzgarnos?... ¿Pero cómo tenia aquel viejo tanta sangre?
+P|¿Oyes?
+P|¿Dónde está la mujer del señor Faife?... ¿Pero por qué no se lavan nunca mis manos?... Calma, señor, calma... ¡Qué dañosos son esos arrebatos!
+P|Oye, oye: ya sabemos lo que no debíamos saber.
+P|No tiene conciencia de lo que dice. La verdad sólo Dios la sabe.
+P|Todavía siento el olor de la sangre. Todos los aromas de Oriente no bastarian á quitar de esta pequeña mano mia el olor de la sangre.
+P|¡Qué oprimido está ese corazon!
+P|No le llevaria yo en el pecho, por toda la dignidad que ella pueda tener.
+P|No sé curar tales enfermedades, pero he visto sonámbulos que han muerto como unos santos.
+P|Lávate las manos. Vístete. Vuelva el color á tu semblante. Macbeth está bien muerto, y no ha de volver de su sepulcro.... Á la cama, á la cama... Llaman á la puerta... Ven, dame la mano... ¿Quién deshace lo hecho?... Á la cama.
+P|¿Se acuesta ahora?
+P|En seguida.
+P|Ya la murmuracion pregona su crímen. La maldad suele trastornar el entendimiento, y el ánimo pecador divulga en sueños su secreto. Necesita confesor y no médico. Dios la perdone, y perdone á todos. No te alejes de su lado: aparta de ella cuanto pueda molestarla. Buenas noches. ¡Qué luz inesperada ha herido mis ojos! Pero más vale callar.
+P|Buenas noches, doctor.
+S|Escena II.
+S|Campamento. Menteith, Anguss, Caithnéss y Lénnox.
+P|Los ingleses, mandados por Malcolm, Suardo y Macduff, se adelantan á rápidas jornadas. El génio de la venganza los impele, y su belicoso ardor debe animar al más tibio.
+P|Los encontraremos en el bosque de Birnam: esa es la direccion que traen.
+P|¿Donalbáin está con sus hermanos?
+P|No, porque yo tengo la lista de todos los que vienen con Suardo, entre ellos su propio hijo y otros jóvenes que quieren hacer hoy sus primeros alardes varoniles.
+P|¿Y qué hace Macbeth?
+P|Fortificar á Dunsinania. Dicen algunos que está loco, pero los que le quieren mejor afirman que está cegado por el furor de la pelea. No puede ya estrechar con el cinturon de su imperio el cuerpo de su desesperada causa.
+P|Ni borrar de sus manos las huellas de sangre de su oculto crímen. Cada dia le abandonan sus parciales, y si alguno le obedece no es por cariño. Todo el mundo conoce que la púrpura real de su grandeza oculta un cuerpo raquítico y miserable.
+P|¿Y cómo no ha de temblar, si en el fondo de su alma se siente ya condenado?
+P|Vamos á prestar homenaje al legítimo monarca, y á ofrecer nuestra sangre para que sirva de medicina á la patria oprimida.
+P|Ofrezcámosla toda, ó la que baste á regar el tronco y las ramas. Vamos al bosque de Birnam.
+S|Escena III.
+S|Castillo de Dunsinania. Macbeth, un Criado, Séton y un Médico.
+P|¡No quiero saber mas nuevas! Nada he de temer hasta que el bosque de Birnam se mueva contra Dunsinania. ¿Por ventura ese niño Malcolm no ha nacido de mujer? A mí dijeron los génios que conocen lo porvenir: «Macbeth, no temas á ningún hombre nacido de mujer.» Huyan en buen hora mis traidores caballeros: júntense con los epicúreos de Inglaterra. Mi alma es de tal temple, que no vacilará ni aún en lo más deshecho de la tormenta. (Llega un criado.) El diablo te ennegrezca á fuerza de maldiciones esa cara blanca! ¿Quién te dio esa mirada de liebre?
+P|Vienen diez mil.
+P|¿Liebres?
+P|No, soldados.
+P|Aráñate la cara con las manos, para que el rubor oculte tu miedo. ¡Rayos y centellas! ¿Por qué palideces, cara de leche? ¿Qué guerreros son esos?
+P|Ingleses.
+P|¿Por qué no ocultas tu rostro, antes de pronunciar tales palabras?... ¡Séton, Séton! Este dia ha de ser el último de mi poder, ó el primero de mi grandeza. Demasiado tiempo he vivido. Mi edad se marchita y amarillea como las hojas de otoño. Ya no puedo confiar en amigos, ni vivir de esperanzas. Sólo me resta oir enconadas maldiciones, ó el vano susurro de la lisonja. ¿Séton?
+P|Rey, tus órdenes aguardo.
+P|¿Cuáles son las últimas noticias?
+P|Exactas parecen las que este mensajero ha traido.
+P|Lidiaré, hasta que me arranquen la piel de los huesos. ¡Pronto mis armas!
+P|No es necesario aún, señor.
+P|Quiero armarme, y correr la tierra con mis jinetes. Ahorcaré á todo el que hable de rendirse. ¡Mis armas! Doctor (al médico) ¿cómo está mi mujer?
+P|No es grave su dolencia, pero mil extrañas visiones le quitan el sueño.
+P|Cúidala bien. ¿No sabes curar su alma, borrar de su memoria el dolor, y de su cerebro las tenaces ideas que le agobian? ¿No tienes algún antídoto contra el veneno que hierve en su corazon?
+P|Estos males sólo puede curarlos el mismo enfermo.
+P|¡Echa a los perros tus medicinas! ¡Pronto, mis armas, mi cetro de mando! ¡Séton, convoca á tus guerreros! Los nobles me abandonan. Si tú, doctor, lograras volver á su antiguo lecho las aguas del rio, descubrir el verdadero mal de mi mujer, y devolverle la salud, no tendrian tasa mis aplausos y mercedes. Cúrala por Dios. ¿Qué jarabes, qué drogas, qué ruibarbo conoces que nos libre de los ingleses?... Iré á su encuentro, sin temer la muerte, mientras no se mueva contra nosotros el bosque de Dunsinania.
+P|Si yo pudiera huir de Dunsinania, no volveria aunque me ofreciesen un tesoro.
+S|Escena IV.
+S|Campamento á la vista de un bosque. Malcolm, Caithnéss, un Soldado, Suardo y Macduff.
+P|Amigos, ha llegado la hora de volver á tomar posesion de nuestras casas. ¿Qué selva es esta?
+P|La de Birnam.
+P|Corte cada soldado una rama, y delante cúbrase con ella, para que nuestro número parezca mayor, y podamos engañar á los espías.
+P|Así lo haremos.
+P|Dicen que el tirano está muy esperanzado, y nos aguarda en Dunsinania.
+P|Hace bien en encerrarse, porque sus mismos parciales le abandonan, y los pocos que le ayudan, no lo hacen por cariño.
+P|Dejemos tales observaciones para cuando esté acabada nuestra empresa. Ahora conviene pensar sólo en el combate.
+P|Pronto hemos de ver el resultado y no por vanas conjeturas.
+S|Escena V.
+S|Alcázar de Dunsinania. Macbeth, Siton y un Espía.
+P|Tremolad mi enseña en los muros. Ya suenan cerca sus clamores. El castillo es inexpugnable. Pelearán en nuestra ayuda el hambre y la fiebre. Si no nos abandonan los traidores, saldrémos al encuentro del enemigo, y le derrotaremos frente á frente. ¿Pero qué ruido siento?
+P|Son voces de mujeres.
+P|Yo soy inaccesible al miedo. Tengo estragado el paladar del alma. Hubo tiempo en que me aterraba cualquier rumor nocturno, y se erizaban mis cabellos, cuando oia referir alguna espantosa tragedia, pero despues llegué á saciarme de horrores: la imagen de la desolacion se hizo familiar á mi espíritu, y ya no me conmueve nada. ¿Pero qué gritos son esos?
+P|La reina ha muerto.
+P|¡Ojalá hubiera sido más tarde! No es oportuna la ocasion para tales nuevas. Esa engañosa palabra mañana, mañana, mañana nos va llevando por dias al sepulcro, y la falaz lumbre del ayer ilumina al necio hasta que cae en la fosa. ¡Apágate ya, luz de mi vida! ¿Qué es la vida sino una sombra, un histrion que pasa por el teatro, y á quien se olvida despues, ó la vana y ruidosa fábula de un necio? (Llega un espía.) Habla, que ese es tu oficio.
+P|Señor, te diré lo que he visto, pero apenas me atrevo.
+P|Di sin temor.
+P|Señor, juraría que el bosque de Birnam se mueve hacia nosotros. Lo he visto desde lo alto del collado.
+P|¡Mentira vil!
+P|Mátame, si no es cierto. El bosque viene andando, y está á tres millas de aquí.
+P|Si mientes, te colgaré del primer árbol que veamos, y allí morirás de hambre. Si dices verdad, ahórcame tú á mí. Ya desfallece mi temeraria confianza. Ya empiezo á dudar de esos génios que mezclan mentiras con verdades. Ellos me dijeron: «Cuando la selva de Birnam venga á Dunsinania;» y la selva viene marchando. ¡A la batalla, á la batalla! Si es verdad lo que dices, inútil es quedarse. Ya me ahoga la vida, me hastia la luz del sol. Anhelo que el orbe se confunda. Rujan los vientos desatados. ¡Sonad las trompetas!
+S|Escena VI.
+S|Explanada delante del castillo de Dunsinania. Malcolm, Suardo y Macduff.
+P|Hemos llegado. Dejad el verde escudo de esas ramas, y apercibíos al combate. Amado pariente mio, Suardo, tú dirigirás el ataque con tu noble hijo y mi primo. El valiente Macduff y yo cuidaremos de lo restante.
+P|Está bien, señor. Sea vencido quien no lidie esta noche bizarramente contra las huestes del tirano.
+P|Hienda el clarin los aires en aullido de muerte y de venganza.
+S|Escena VII.
+S|Otra parte del campo. Macbeth, el jóven Suardo, Macduff, Malcolm, Suardo, Ross y Caballeros.
+P|Estoy amarrado á mi corcel. No puedo huir. Me defenderé como un oso. ¿Quién puede vencerme, como no sea el que no haya nacido de madre?
+P|¿Quién eres?
+P|Temblarás de oir mi nombre.
+P|No, aunque sea el más horrible de los que suenan en el infierno.
+P|Soy Macbeth.
+P|Ni el mismo Satanás puede proferir nombre más aborrecible.
+P|Ni que infunda más espanto.
+P|Mientes, y te lo probaré con mi hierro. (Combaten, y Suardo cae herido por Macbeth.)
+P|Tú naciste de madre, y ninguno de los nacidos de mujer puede conmigo.
+P|Por aquí se oye ruido. ¡Ven, tirano! Si mueres al filo de otra espada que la mia, no me darán tregua ni reposo las sombras de mi mujer y de mis hijos. Yo no peleo contra viles mercenarios, que alquilan su brazo al mejor postor. O mataré á Macbeth, ó no teñirá la sangre el filo de mi espada. Por allí debe estar. Aquellos clamores indican su presencia. ¡Fortuna! déjame encontrarle.
+P|(A Malcolm.) El castillo se ha rendido, señor. Las gentes del tirano se dispersan. Vuestros caballeros lidian como leones. La victoria es nuestra. Se declaran en nuestro favor hasta los mismos enemigos. Subamos á la fortaleza.
+P|¿Por qué he de morir neciamente como el romano, arrojándome sobre mi espada? Mientras me quede un soplo de vida, no dejaré de amontonar cadáveres.
+P|Detente, perro de Satanás.
+P|He procurado huir de tí. Huye tú de mí. Estoy harto de tu sangre.
+P|Te respondo con la espada. No hay palabras bastantes para maldecirte.
+P|¡Tiempo perdido! Más fácil te será cortar el aire con la espada que herirme á mí. Mi vida está hechizada: no puede matarme quien haya nacido de mujer.
+P|¿De qué te sirven tus hechizos? ¿No te dijo el génio á quien has vendido tu alma, que Macduff fué arrancado, antes de tiempo, de las entrañas de su madre muerta?
+P|¡Maldita sea tu lengua que así me arrebata mi sobrenatural poder! ¡Qué necio es quien se fia en la promesa de los demonios que nos engañan con equívocas y falaces palabras! No puedo pelear contigo!
+P|Pues ríndete, cobarde, y serás el escarnio de las gentes, y te ataremos vivo á la picota, con un rótulo que diga: «Este es el tirano.»
+P|Nunca me rendiré. No quiero besar la tierra que huelle Malcolm, ni sufrir las maldiciones de la plebe. Moriré batallando, aunque la selva de Birnam se haya movido contra Dunsinania, y aunque tú no seas nacido de mujer. Mira. Cubro mi pecho con el escudo. Hiéreme sin piedad, Macduff. ¡Maldicion sobre quien diga «basta!»
+S|(Combaten.)
+P|¡Quiera Dios que vuelvan los amigos que nos faltan!
+P|Algunos habrán perecido, que no puede menos de pagarse cara la gloria de tal dia.
+P|Faltan Macduff y tu hijo.
+P|Tu hijo murió como soldado. Vivió hasta ser hombre, y con su heroica muerte probó que era digno de serlo.
+P|¿Dices que ha muerto?
+P|Cayó entre los primeros. No iguales tu dolor al heroismo que él mostró, porque entonces no tendrán fin tus querellas.
+P|¿Y fué herido de frente?
+P|De frente.
+P|Dios le habrá recibido entre sus guerreros. ¡Ojalá que tuviera yo tantos hijos como cabellos, y que todos murieran así! Llegó su hora.
+P|Honroso duelo merece, y yo me encargo de tributárselo.
+P|Saldó como honrado sus cuentas con la muerte. ¡Dios le haya recibido en su seno!
+P|(Que se presenta con la cabeza de Macbeth.) Ya eres rey. Mira la cabeza del tirano. Libres somos. La flor de tu reino te rodea, y yo en nombre de todos, seguro de que sus voces responderán á las mias, te aclamo rey de Escocia.
+P|¡Salud al Rey de Escocia!
+P|No pasará mucho tiempo sin que yo pague á todos lo que al afecto de todos debo. Nobles caballeros parientes mios, desde hoy sereis condes, los primeros que en Escocia ha habido. Luego haré que vuelvan á sus casas los que huyeron del hierro de los asesinos y de la tiranía de Macbeth, y de su diabólica mujer que, segun dicen, se ha suicidado. Estas cosas y cuantas sean justas haré con la ayuda de Dios. Os invito á asistir á mi coronacion en Escocia.

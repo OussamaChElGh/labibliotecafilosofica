@@ -54,4 +54,6 @@ Obras divididas en subpáginas en Wikisource (novelas, por ejemplo): `python wik
 
 `textos/fichas/lectura_antiguas.py` da lectura online a libros que ya tenían ficha antigua (Cándido, Zadig, la Fundamentación de Kant, Así va el mundo…): tras descargar el texto con `wikisource.py`, copia a su JSON los datos de `textos/fichas/antiguas/*.py` y numera los capítulos. Desde entonces la ficha de esa URL la genera `lectura_completa.py` y `fichas_antiguas.py` la salta.
 
+`teatro.py` descarga obras de teatro de Wikisource con un acto por subpágina (las traducciones en prosa de Menéndez y Pelayo: Macbeth, Romeo y Julieta): cada intervención queda como P| con su personaje en `speakers` y las escenas y acotaciones como S|. Después se registra en `textos/fichas/lectura_antiguas.py` con `unidad="actos"`.
+
 Los libros con `ficha` en su JSON tienen una sola página principal, la ficha (`book_route`): `/leer/<slug>/` redirige a ella (lo escribe `lectura_completa.py` en vercel.json) y «Leer online» lleva a la primera parte. `wikisource.py` descarga una obra de Wikisource al formato de `textos/`; los textos editoriales de cada lote están en `textos/fichas/`.

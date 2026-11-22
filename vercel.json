@@ -420,6 +420,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/macbeth-shakespeare/",
+      "destination": "/macbeth-libros-pdf-gratis/",
+      "permanent": true
+    },
+    {
       "source": "/leer/maria-jorge-isaacs/",
       "destination": "/maria-jorge-isaacs/",
       "permanent": true
@@ -447,6 +452,11 @@
     {
       "source": "/leer/primer-alcibiades-platon/",
       "destination": "/primer-alcibiades-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/romeo-y-julieta-shakespeare/",
+      "destination": "/romeo-y-julieta-libros-pdf-gratis-shakespeare/",
       "permanent": true
     },
     {

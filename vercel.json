@@ -40,8 +40,8 @@
       "permanent": true
     },
     {
-      "source": "/wp-content/uploads/2020/08/cropped-cropped-logonew-2-:size.jpg",
-      "destination": "/wp-content/uploads/2023/07/logo-comprs.png",
+      "source": "/favicon.ico",
+      "destination": "/wp-content/uploads/2020/08/cropped-cropped-logonew-2-32x32.jpg",
       "permanent": true
     },
     {

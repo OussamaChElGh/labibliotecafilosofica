@@ -29,8 +29,8 @@ WORDPRESS_LEGACY_REDIRECTS = [
     {"source": "/:slug/feed/", "destination": "/:slug/", "permanent": True},
     {"source": "/wp-content/uploads/:file(.*)\\.:ext(jpg|jpeg|png)\\.webp", "destination": "/wp-content/uploads/:file.:ext",
      "permanent": True},
-    {"source": "/wp-content/uploads/2020/08/cropped-cropped-logonew-2-:size.jpg",
-     "destination": "/wp-content/uploads/2023/07/logo-comprs.png", "permanent": True},
+    {"source": "/favicon.ico", "destination": "/wp-content/uploads/2020/08/cropped-cropped-logonew-2-32x32.jpg",
+     "permanent": True},
 ]
 SAFE_MEDIA = set(".jpg .jpeg .png .webp .avif .gif .ico .pdf .mp3 .mp4 .ogg .wav .webm .epub .woff .woff2 .svg".split())
 ALLOWED = set("""a abbr address article aside audio b blockquote br caption cite code col colgroup

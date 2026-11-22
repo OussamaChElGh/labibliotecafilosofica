@@ -418,6 +418,19 @@ GOOGLE_HEAD = (
     'crossorigin="anonymous"></script>')
 
 
+# Iconos del sitio, los mismos que usaba el WordPress (Google los muestra junto al nombre en los resultados).
+ICON_DIR = "/wp-content/uploads/2020/08/cropped-cropped-logonew-2-"
+ICONS_HEAD = (f'<link rel="icon" href="{ICON_DIR}32x32.jpg" sizes="32x32">'
+              f'<link rel="icon" href="{ICON_DIR}192x192.jpg" sizes="192x192">'
+              f'<link rel="apple-touch-icon" href="{ICON_DIR}180x180.jpg">')
+
+
+def add_icons(document):
+    if 'rel="icon"' in document or "</head>" not in document:
+        return document
+    return document.replace("</head>", ICONS_HEAD + "</head>", 1)
+
+
 def add_google_tags(document):
     if "pagead/js/adsbygoogle.js" in document or "</head>" not in document:
         return document
@@ -555,7 +568,7 @@ def main():
         if route in entries:
             document = render_related(document, suggestions(route, entries, frequency), entries)
         document = add_guide_link(add_paper_box(add_affiliate(seo_head(tag_amazon(document), route))), route, guides)
-        document = add_google_tags(document)
+        document = add_google_tags(add_icons(document))
         pages[page] = add_reading_links(replace_nav(document, menu), route, reading)
     for page, result in pages.items():
         if result != originals[page]:

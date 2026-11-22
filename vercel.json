@@ -335,6 +335,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/campos-de-castilla-antonio-machado/",
+      "destination": "/campos-de-castilla-antonio-machado/",
+      "permanent": true
+    },
+    {
       "source": "/leer/canas-y-barro-vicente-blasco-ibanez/",
       "destination": "/canas-y-barro-vicente-blasco-ibanez/",
       "permanent": true
@@ -492,6 +497,11 @@
     {
       "source": "/leer/lazarillo-de-tormes/",
       "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/leyendas-gustavo-adolfo-becquer/",
+      "destination": "/leyendas-gustavo-adolfo-becquer/",
       "permanent": true
     },
     {

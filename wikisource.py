@@ -167,6 +167,10 @@ def convert(page):
     # Letra capital como imagen flotante (edición de 1905 del Quijote): se queda la letra del alt.
     text = re.sub(r'<span class="img-float[^"]*"[^>]*><span typeof="mw:File"><a[^>]*><img alt="(\w)"[^>]*/?></a></span></span>',
                   r"\1", text)
+    text = re.sub(r'<span class="dropinitial"[^>]*>.*?<img alt="(\w)".*?</span></span>\s*', r"\1", text, flags=re.S)
+    # Poema en <div class="poem"><p>verso<br/>verso</p></div>: se trata como <pre>, un verso por línea.
+    text = re.sub(r'<div class="poem">\s*(.*?)\s*</div>',
+                  lambda m: "<pre>" + re.sub(r"<br\s*/?>|</?p>", "\n", m.group(1)) + "</pre>", text, flags=re.S)
     # «CAPÍTULO X» y su epígrafe centrados en un div: los dos pasan a ser títulos.
     text = re.sub(r'<p><span[^>]*>(CAP[ÍI]TULO[^<]*)</span>\s*</p>\s*<span[^>]*>(.*?)</span>\s*</div>',
                   r"<h4>\1</h4><h4>\2</h4></div>", text, flags=re.S)
@@ -177,9 +181,13 @@ def convert(page):
         for junk in root.xpath('.//*[@id="headertemplate"]|.//*[contains(@class,"ws-noexport")]|.//*[contains(@class,"interwiki-extra")]'
                                '|.//*[contains(@class,"noprint")]|.//style|.//link'):
             junk.drop_tree()
-        for node in root.iter("p", "h2", "h3", "h4", "div", "poem"):
+        for node in root.iter("p", "h2", "h3", "h4", "div", "poem", "pre"):
             css = node.get("class") or ""
-            if node.tag in ("h2", "h3", "h4") or "ws-h2" in css or "ws-h3" in css:
+            if node.tag == "pre":  # poema: un V| por verso
+                for verse in node.text_content().split("\n"):
+                    if clean(verse):
+                        blocks.append("V|" + clean(verse))
+            elif node.tag in ("h2", "h3", "h4") or "ws-h2" in css or "ws-h3" in css:
                 text = clean(node.text_content())
                 if text and not node.xpath('ancestor::h2|ancestor::h3|ancestor::h4'):
                     blocks.append("H|" + text)

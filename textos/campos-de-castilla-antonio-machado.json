@@ -1,0 +1,366 @@
+{
+  "slug": "campos-de-castilla-antonio-machado",
+  "title": "Campos de Castilla",
+  "author": "Antonio Machado",
+  "author_route": "",
+  "book_route": "/campos-de-castilla-antonio-machado/",
+  "translator": "",
+  "edition": "Madrid, 1917",
+  "source_url": "https://es.wikisource.org/wiki/Campos_de_Castilla",
+  "source_revision": 1432114,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "retrato",
+      "title": "Retrato",
+      "summary": "Empieza: «Mi infancia son recuerdos de un patio de Sevilla / y un huerto claro donde madura el limonero;»",
+      "start": 0,
+      "end": 36
+    },
+    {
+      "slug": "a-orillas-del-duero",
+      "title": "A orillas del Duero",
+      "summary": "Empieza: «Mediaba el mes de julio. Era un hermoso día. / Yo, solo, por las quiebras del pedregal subía,»",
+      "start": 37,
+      "end": 115
+    },
+    {
+      "slug": "por-tierras-de-espana",
+      "title": "Por tierras de España",
+      "summary": "Empieza: «El hombre de estos campos que incendia los pinares / y su despojo aguarda como botín de guerra,»",
+      "start": 116,
+      "end": 148
+    },
+    {
+      "slug": "el-hospicio",
+      "title": "El hospicio",
+      "summary": "Empieza: «Es el hospicio, el viejo hospicio provinciano, / el caserón ruinoso de ennegrecidas tejas»",
+      "start": 149,
+      "end": 165
+    },
+    {
+      "slug": "el-dios-ibero",
+      "title": "El Dios ibero",
+      "summary": "Empieza: «Igual que el ballestero / tahúr de la cantiga,»",
+      "start": 166,
+      "end": 233
+    },
+    {
+      "slug": "orillas-del-duero",
+      "title": "Orillas del Duero",
+      "summary": "Empieza: «¡Primavera soriana, primavera / humilde, como el sueño de un bendito,»",
+      "start": 234,
+      "end": 286
+    },
+    {
+      "slug": "las-encinas",
+      "title": "Las encinas",
+      "summary": "Empieza: «A los señores de Masriera, en recuerdo de una expedición al Pardo»",
+      "start": 287,
+      "end": 416
+    },
+    {
+      "slug": "eres-tu-guadarrama-viejo-amigo",
+      "title": "¿Eres tú, Guadarrama, viejo amigo",
+      "summary": "Empieza: «Este poema se titula también Caminos»",
+      "start": 417,
+      "end": 427
+    },
+    {
+      "slug": "en-abril-las-aguas-mil",
+      "title": "En abril, las aguas mil",
+      "summary": "Empieza: «Son de abril las aguas mil. / Sopla el viento achubascado,»",
+      "start": 428,
+      "end": 461
+    },
+    {
+      "slug": "un-loco",
+      "title": "Un loco",
+      "summary": "Empieza: «Es una tarde mustia y desabrida / de un otoño sin frutos, en la tierra»",
+      "start": 462,
+      "end": 494
+    },
+    {
+      "slug": "fantasia-iconografica",
+      "title": "Fantasía iconográfica",
+      "summary": "Empieza: «La calva prematura / brilla sobre la frente amplia y severa;»",
+      "start": 495,
+      "end": 519
+    },
+    {
+      "slug": "un-criminal",
+      "title": "Un criminal",
+      "summary": "Empieza: «El acusado es pálido y lampiño. / Arde en sus ojos una fosca lumbre»",
+      "start": 520,
+      "end": 568
+    },
+    {
+      "slug": "amanecer-de-otono",
+      "title": "Amanecer de otoño",
+      "summary": "Empieza: «A Julio Romero de Torres»",
+      "start": 569,
+      "end": 582
+    },
+    {
+      "slug": "el-tren",
+      "title": "El tren",
+      "summary": "Empieza: «Yo, para todo viaje / —siempre sobre la madera»",
+      "start": 583,
+      "end": 636
+    },
+    {
+      "slug": "noche-de-verano",
+      "title": "Noche de verano",
+      "summary": "Empieza: «Es una hermosa noche de verano. / Tienen las altas casas»",
+      "start": 637,
+      "end": 649
+    },
+    {
+      "slug": "pascua-de-resurreccion",
+      "title": "Pascua de Resurrección",
+      "summary": "Empieza: «Mirad: el arco de la vida traza / el iris sobre el campo que verdea.»",
+      "start": 650,
+      "end": 672
+    },
+    {
+      "slug": "campos-de-soria",
+      "title": "Campos de Soria",
+      "summary": "Empieza: «I / Es la tierra de Soria árida y fría.»",
+      "start": 673,
+      "end": 826
+    },
+    {
+      "slug": "la-tierra-de-alvargonzalez-poema",
+      "title": "La tierra de Alvargonzález",
+      "summary": "Empieza: «I / Siendo mozo Alvargonzález,»",
+      "start": 827,
+      "end": 1592
+    },
+    {
+      "slug": "a-un-olmo-seco",
+      "title": "A un olmo seco",
+      "summary": "Empieza: «Al olmo viejo, hendido por el rayo / y en su mitad podrido,»",
+      "start": 1593,
+      "end": 1624
+    },
+    {
+      "slug": "recuerdos",
+      "title": "Recuerdos",
+      "summary": "Empieza: «¡Oh Soria! , cuando miro los frescos naranjales / cargados de perfume, y el campo enverdecido,»",
+      "start": 1625,
+      "end": 1666
+    },
+    {
+      "slug": "al-maestro-azorin-por-su-libro-castilla",
+      "title": "Al maestro “Azorin” por su libro Castilla",
+      "summary": "Empieza: «La venta de Cidones está en la carretera / que va de Soria a Burgos. Leonarda, la ventera,»",
+      "start": 1667,
+      "end": 1699
+    },
+    {
+      "slug": "caminos",
+      "title": "Caminos",
+      "summary": "Empieza: «De la ciudad moruna / tras las murallas viejas,»",
+      "start": 1700,
+      "end": 1730
+    },
+    {
+      "slug": "senor-ya-me-arrancaste-lo-que-yo-mas-queria",
+      "title": "Señor, ya me arrancaste lo que yo más quería",
+      "summary": "Empieza: «Señor, ya me arrancaste lo que yo más quería. / Oye otra vez, Dios mío, mi corazón clamar.»",
+      "start": 1731,
+      "end": 1735
+    },
+    {
+      "slug": "un-dia",
+      "title": "Dice la esperanza: un día...",
+      "summary": "Empieza: «Dice la esperanza: Un día / la verás, si bien esperas.»",
+      "start": 1736,
+      "end": 1742
+    },
+    {
+      "slug": "alla-en-las-tierras-altas",
+      "title": "Allá en las tierras altas",
+      "summary": "Empieza: «Allá, en las tierras altas, / por donde traza el Duero»",
+      "start": 1743,
+      "end": 1757
+    },
+    {
+      "slug": "sone-que-tu-me-llevabas",
+      "title": "Soñé que tu me llevabas",
+      "summary": "Empieza: «Soñé que tú me llevabas / por una blanca vereda,»",
+      "start": 1758,
+      "end": 1774
+    },
+    {
+      "slug": "una-noche-de-verano",
+      "title": "Una noche de verano",
+      "summary": "Empieza: «Una noche de verano / —estaba abierto el balcón»",
+      "start": 1775,
+      "end": 1791
+    },
+    {
+      "slug": "al-borrarse-la-nieve-se-alejaron",
+      "title": "Al borrarse la nieve, se alejaron",
+      "summary": "Empieza: «Al borrarse la nieve, se alejaron / los montes de la sierra.»",
+      "start": 1792,
+      "end": 1808
+    },
+    {
+      "slug": "en-estos-campos-de-la-tierra-mia",
+      "title": "En estos campos de la tierra mía",
+      "summary": "Empieza: «En estos campos de la tierra mía, / y extranjero en los campos de mi tierra»",
+      "start": 1809,
+      "end": 1846
+    },
+    {
+      "slug": "a-jose-maria-palacio",
+      "title": "A José María Palacio",
+      "summary": "Empieza: «Palacio, buen amigo, / ¿está la primavera»",
+      "start": 1847,
+      "end": 1880
+    },
+    {
+      "slug": "otro-viaje",
+      "title": "Otro viaje",
+      "summary": "Empieza: «Ya en los campos de Jaén / amanece. Corre el tren»",
+      "start": 1881,
+      "end": 1934
+    },
+    {
+      "slug": "adios",
+      "title": "Adiós",
+      "summary": "Empieza: «..»",
+      "start": 1935,
+      "end": 1966
+    },
+    {
+      "slug": "poema-de-un-dia",
+      "title": "Poema de un día",
+      "summary": "Empieza: «Heme aquí ya, profesor / de lenguas vivas (ayer»",
+      "start": 1967,
+      "end": 2174
+    },
+    {
+      "slug": "noviembre-1913",
+      "title": "Noviembre 1913",
+      "summary": "Empieza: «Un año más. El sembrador va echando / la semilla en los surcos de la tierra.»",
+      "start": 2175,
+      "end": 2187
+    },
+    {
+      "slug": "la-saeta",
+      "title": "La saeta",
+      "summary": "Empieza: «¿Quién me presta una escalera, / para subir al madero»",
+      "start": 2188,
+      "end": 2209
+    },
+    {
+      "slug": "del-pasado-efimero",
+      "title": "Del pasado efímero",
+      "summary": "Empieza: «Este hombre del casino provinciano / que vio a Carancha recibir un día,»",
+      "start": 2210,
+      "end": 2248
+    },
+    {
+      "slug": "los-olivos",
+      "title": "Los olivos",
+      "summary": "Empieza: «I / ¡Viejos olivos sedientos»",
+      "start": 2249,
+      "end": 2355
+    },
+    {
+      "slug": "llanto-de-las-virtudes-y-coplas-por-la-muerte-de-don-guido",
+      "title": "Llanto de las virtudes y coplas por la muerte de don Guido",
+      "summary": "Empieza: «Al fin, una pulmonía / mató a don Guido, y están»",
+      "start": 2356,
+      "end": 2424
+    },
+    {
+      "slug": "la-mujer-manchega",
+      "title": "La mujer manchega",
+      "summary": "Empieza: «La Mancha y sus mujeres... Argamasilla, Infantes, / Esquivias, Valdepeñas. La novia de Cervantes,»",
+      "start": 2425,
+      "end": 2477
+    },
+    {
+      "slug": "el-manana-efimero",
+      "title": "El mañana efímero",
+      "summary": "Empieza: «La España de charanga y pandereta, / cerrado y sacristía,»",
+      "start": 2478,
+      "end": 2521
+    },
+    {
+      "slug": "proverbios-y-cantares-campos-de-castilla",
+      "title": "Proverbios y cantares",
+      "summary": "Empieza: «I / Nunca perseguí la gloria»",
+      "start": 2522,
+      "end": 2885
+    },
+    {
+      "slug": "parabolas",
+      "title": "Parábolas",
+      "summary": "Empieza: «I / Era un niño que soñaba»",
+      "start": 2886,
+      "end": 3013
+    },
+    {
+      "slug": "mi-bufon",
+      "title": "Mi bufón",
+      "summary": "Empieza: «El demonio de mis sueños / ríe con sus labios rojos,»",
+      "start": 3014,
+      "end": 3028
+    }
+  ],
+  "description": "Campos de Castilla de Antonio Machado: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Poesía sobre el paisaje de Castilla, España y la memoria de Leonor.",
+  "intro": "<p>Campos de Castilla es el gran libro de Antonio Machado. Nace de sus años como profesor en Soria, donde el paisaje castellano, sus encinas, sus álamos y el río Duero se convierten en símbolo de una España pobre, dura y decadente. Poemas como A orillas del Duero, Por tierras de España o Campos de Soria unen la descripción de la tierra con la reflexión sobre el país.</p><p>Aquí puedes leer Campos de Castilla completo, dividido en poemas. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 59,
+    "art": {
+      "file": "campos-de-castilla-antonio-machado.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/campos-de-castilla-antonio-machado/ilustracion.jpg",
+      "credit": "Aureliano de Beruete, «Paisaje de Castilla». Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Poesía",
+    "unidad": "poemas",
+    "tema": "el paisaje de Castilla, España y la memoria de Leonor",
+    "resumen": [
+      "Campos de Castilla es el gran libro de Antonio Machado. Nace de sus años como profesor en Soria, donde el paisaje castellano, sus encinas, sus álamos y el río Duero se convierten en símbolo de una España pobre, dura y decadente. Poemas como A orillas del Duero, Por tierras de España o Campos de Soria unen la descripción de la tierra con la reflexión sobre el país.",
+      "La muerte de su joven esposa, Leonor, en 1912, tiñe de dolor los poemas escritos después en Baeza: A un olmo seco, Caminos, Allá en las tierras altas o A José María Palacio recuerdan Soria desde la distancia. El libro se cierra con los Proverbios y cantares, breves reflexiones filosóficas entre las que está el famoso «Caminante, no hay camino, se hace camino al andar»."
+    ],
+    "personajes": [],
+    "ideas": [
+      "El paisaje castellano como reflejo del alma y de la historia de España.",
+      "La crítica a la España atrasada, en la línea de la Generación del 98.",
+      "El tiempo, la memoria y la muerte.",
+      "El amor y el duelo por Leonor."
+    ],
+    "faq": [
+      [
+        "¿De dónde es «Caminante, no hay camino»?",
+        "Del poema XXIX de Proverbios y cantares, dentro de Campos de Castilla."
+      ],
+      [
+        "¿Qué significa A un olmo seco?",
+        "Machado ve brotar hojas verdes en un olmo viejo y podrido junto al Duero y lo convierte en símbolo de su esperanza de que Leonor, gravemente enferma, se recupere."
+      ],
+      [
+        "¿Quién era Leonor?",
+        "Leonor Izquierdo, la joven con la que Machado se casó en Soria en 1909. Murió de tuberculosis en 1912, con dieciocho años."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "La primera edición es de 1912. La de 1917, recogida en Poesías completas, añade los poemas escritos en Baeza."
+      ]
+    ]
+  }
+}

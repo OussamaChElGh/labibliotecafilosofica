@@ -283,7 +283,10 @@ def main():
         blocks = (TEXTS / f"{slug}.txt").read_text(encoding="utf-8").split("\n")
         for chapter in meta["chapters"]:
             if not chapter.get("summary"):
-                first = next((b[2:] for b in blocks[chapter["start"]:chapter["end"] + 1] if b.startswith("P|")), "")
+                part = blocks[chapter["start"]:chapter["end"] + 1]
+                first = next((b[2:] for b in part if b.startswith("P|")), "")
+                if not first:  # poema: los dos primeros versos
+                    first = " / ".join([b[2:] for b in part if b.startswith("V|")][:2])
                 words = first.lstrip("—-– ").split()
                 chapter["summary"] = "Empieza: «" + " ".join(words[:22]) + ("…»" if len(words) > 22 else "»")
         meta["ficha"] = {"genero": data["genero"], "unidad": unit, "tema": data["tema"], "resumen": data["resumen"],

@@ -1,0 +1,205 @@
+{
+  "slug": "leyendas-gustavo-adolfo-becquer",
+  "title": "Leyendas",
+  "author": "Gustavo Adolfo Bécquer",
+  "author_route": "",
+  "book_route": "/leyendas-gustavo-adolfo-becquer/",
+  "translator": "",
+  "edition": "Obras, Madrid, 1871",
+  "source_url": "https://es.wikisource.org/wiki/Obras_de_Gustavo_A._B%C3%A9cquer_%28Tomo_II%29",
+  "source_revision": 1614427,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "el-caudillo-de-las-manos-rojas",
+      "title": "El caudillo de las manos rojas",
+      "summary": "Empieza: «El sol ha desaparecido tras las cimas del Habwi, y la sombra de esta montaña envuelve con un velo de crespón a…»",
+      "start": 0,
+      "end": 250
+    },
+    {
+      "slug": "la-cruz-del-diablo",
+      "title": "La cruz del diablo",
+      "summary": "Empieza: «Que lo creas o no, me importa bien poco.»",
+      "start": 251,
+      "end": 365
+    },
+    {
+      "slug": "la-ajorca-de-oro",
+      "title": "La ajorca de oro",
+      "summary": "Empieza: «Ella era hermosa, hermosa con esa hermosura que inspira el vértigo; hermosa con esa hermosura que no se parece en nada á…»",
+      "start": 366,
+      "end": 422
+    },
+    {
+      "slug": "el-monte-de-las-animas",
+      "title": "El monte de las ánimas",
+      "summary": "Empieza: «La noche de difuntos me despertó á no sé qué hora el doble de las campanas; su tañido monótono y eterno me…»",
+      "start": 423,
+      "end": 483
+    },
+    {
+      "slug": "los-ojos-verdes",
+      "title": "Los ojos verdes",
+      "summary": "Empieza: «Hace mucho tiempo que tenía ganas de escribir cualquier cosa con este título. Hoy, que se me ha presentado ocasión, lo he…»",
+      "start": 484,
+      "end": 536
+    },
+    {
+      "slug": "maese-perez-el-organista",
+      "title": "Maese Pérez el organista",
+      "summary": "Empieza: «En Sevilla, en el mismo atrio de Santa Inés, y mientras esperaba que comenzase la Misa del Gallo, oí esta tradición á…»",
+      "start": 537,
+      "end": 630
+    },
+    {
+      "slug": "el-rayo-de-luna",
+      "title": "El rayo de luna",
+      "summary": "Empieza: «Yo no sé si esto es una historia que parece cuento o un cuento que parece historia; lo que puedo decir es…»",
+      "start": 631,
+      "end": 702
+    },
+    {
+      "slug": "tres-fechas",
+      "title": "Tres fechas",
+      "summary": "Empieza: «En una cartera de dibujo que conservo aún llena de ligeros apuntes, hechos durante algunas de mis excursiones semiartísticas a la ciudad…»",
+      "start": 703,
+      "end": 809
+    },
+    {
+      "slug": "creed-en-dios",
+      "title": "Creed en Dios",
+      "summary": "Empieza: ««Yo fui el verdadero Teobaldo de Montagut, barón do Forteastell. Noble ó villano, señor ó pechero, tú, cualquiera que seas, que te…»",
+      "start": 810,
+      "end": 870
+    },
+    {
+      "slug": "el-miserere",
+      "title": "El Miserere",
+      "summary": "Empieza: «Hace algunos meses, que visitándola célebre abadía de Fitero y ocupándome en revolver algunos volúmenes en su abandonada biblioteca, descubrí en uno…»",
+      "start": 871,
+      "end": 944
+    },
+    {
+      "slug": "el-cristo-de-la-calavera",
+      "title": "El Cristo de la calavera",
+      "summary": "Empieza: «El rey de Castilla marchaba a la guerra de moros, y para combatir con los enemigos de la religión había apelado en…»",
+      "start": 945,
+      "end": 1002
+    },
+    {
+      "slug": "el-gnomo",
+      "title": "El gnomo",
+      "summary": "Empieza: «Las muchachas del lugar volvían de la fuente con sus cántaros en la cabeza; volvían cantando y riendo con un ruido y…»",
+      "start": 1003,
+      "end": 1075
+    },
+    {
+      "slug": "la-cueva-de-la-mora",
+      "title": "La cueva de la mora",
+      "summary": "Empieza: «Fente al establecimiento de baños de Fitero, y sobre unas rocas cortadas á pico, á cuyos pies corre el río Alhama, se…»",
+      "start": 1076,
+      "end": 1109
+    },
+    {
+      "slug": "la-promesa",
+      "title": "La promesa",
+      "summary": "Empieza: «Margarita lloraba con el rostro oculto entre las manos; lloraba sin gemir, pero las lágrimas corrían silenciosas á lo largo de sus…»",
+      "start": 1110,
+      "end": 1178
+    },
+    {
+      "slug": "la-corza-blanca",
+      "title": "La corza blanca",
+      "summary": "Empieza: «En un pequeño lugar de Aragón , y allá por los años de mil trescientos y pico, vivía retirado en su torre…»",
+      "start": 1179,
+      "end": 1300
+    },
+    {
+      "slug": "el-beso",
+      "title": "El beso",
+      "summary": "Empieza: «Cuando una parte del ejército francés se apoderó á principios de este siglo de la histórica Toledo, sus jefes, que no ignoraban…»",
+      "start": 1301,
+      "end": 1406
+    },
+    {
+      "slug": "la-rosa-de-pasion",
+      "title": "La rosa de pasión",
+      "summary": "Empieza: «Una tarde de verano, y en un jardín de Toledo, me refirió esta singular historia una muchacha muy buena y muy bonita.»",
+      "start": 1407,
+      "end": 1470
+    }
+  ],
+  "description": "Leyendas de Gustavo Adolfo Bécquer: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Leyendas sobre lo sobrenatural, el amor imposible y la Edad Media.",
+  "intro": "<p>Las Leyendas son relatos breves en prosa poética que Bécquer publicó en periódicos entre 1858 y 1864. Casi todas se sitúan en una Edad Media legendaria, en Soria, Toledo o el Moncayo, y mezclan la tradición popular con lo fantástico: almas en pena, apariciones, maldiciones y mujeres que no son lo que parecen.</p><p>Aquí puedes leer Leyendas completo, dividido en leyendas. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 58,
+    "art": {
+      "file": "leyendas-gustavo-adolfo-becquer.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/leyendas-gustavo-adolfo-becquer/ilustracion.jpg",
+      "credit": "Valeriano Bécquer, hermano del autor, «Fiesta mayor en el Moncayo» (h. 1866). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Leyendas",
+    "unidad": "leyendas",
+    "tema": "lo sobrenatural, el amor imposible y la Edad Media",
+    "resumen": [
+      "Las Leyendas son relatos breves en prosa poética que Bécquer publicó en periódicos entre 1858 y 1864. Casi todas se sitúan en una Edad Media legendaria, en Soria, Toledo o el Moncayo, y mezclan la tradición popular con lo fantástico: almas en pena, apariciones, maldiciones y mujeres que no son lo que parecen.",
+      "En El monte de las ánimas, Alonso muere al buscar una cinta en el monte la noche de difuntos. En Los ojos verdes, Fernando se arroja a un lago tras una mujer de agua. En El rayo de luna, Manrique persigue a una dama que resulta ser un reflejo. En Maese Pérez el organista, el alma de un músico vuelve a tocar en Nochebuena. La belleza ideal y el deseo de lo inalcanzable llevan casi siempre a la locura o a la muerte."
+    ],
+    "personajes": [
+      [
+        "Alonso y Beatriz",
+        "Protagonistas de El monte de las ánimas."
+      ],
+      [
+        "Fernando de Argensola",
+        "Joven cazador seducido por la mujer del lago en Los ojos verdes."
+      ],
+      [
+        "Manrique",
+        "Soñador que persigue un rayo de luna creyéndolo una mujer."
+      ],
+      [
+        "Maese Pérez",
+        "Organista ciego cuyo espíritu vuelve a tocar en Nochebuena."
+      ],
+      [
+        "Constanza",
+        "La corza blanca, joven que se transforma en animal."
+      ]
+    ],
+    "ideas": [
+      "Lo sobrenatural irrumpe en la vida cotidiana.",
+      "La búsqueda de un ideal inalcanzable que lleva a la perdición.",
+      "El amor y la mujer como misterio, a menudo peligroso.",
+      "La tradición popular y la Edad Media vistas por el Romanticismo."
+    ],
+    "faq": [
+      [
+        "¿Cuáles son las leyendas de Bécquer más conocidas?",
+        "El monte de las ánimas, Los ojos verdes, El rayo de luna, Maese Pérez el organista y El miserere son las más leídas en clase."
+      ],
+      [
+        "¿De qué trata El monte de las ánimas?",
+        "Beatriz pide a su primo Alonso que vaya al monte en la noche de difuntos a recuperar una banda que ha perdido. Alonso no vuelve, y a la mañana siguiente Beatriz encuentra la banda ensangrentada en su habitación y muere de terror."
+      ],
+      [
+        "¿A qué movimiento pertenecen?",
+        "Al Romanticismo tardío español. Bécquer es, junto con Rosalía de Castro, el gran puente hacia la poesía moderna."
+      ],
+      [
+        "¿Cuándo se publicaron?",
+        "Por separado en la prensa entre 1858 y 1864. Se reunieron en las Obras de 1871, publicadas tras la muerte del autor."
+      ]
+    ]
+  }
+}

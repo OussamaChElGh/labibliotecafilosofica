@@ -556,6 +556,40 @@ def apply_description(document, text):
     return document
 
 
+def seo_rewrites():
+    """Páginas reescritas a mano en correcciones.json («seo» con «body»). migrate.py las aplica al regenerar desde
+    WordPress; pulir.py también, para que valgan sin el XML."""
+    path = Path("correcciones.json")
+    seo = json.loads(path.read_text(encoding="utf-8")).get("seo", {}) if path.exists() else {}
+    return {route: data for route, data in seo.items() if data.get("body")}
+
+
+def apply_rewrite(document, data):
+    """Sustituye título, descripción, h1 y cuerpo del artículo; conserva las etiquetas y «Sigue explorando»."""
+    if "<!--seo-body-->" in document:
+        return document
+    start = document.find('<div class="entry" id="texto-obra">')
+    end = document.find('<section class="related">', start)
+    h1 = re.search(r"<h1>(.*?)</h1>", document)
+    if start < 0 or end < 0 or not h1:
+        return document
+    terms = re.findall(r'<div class="terms">.*?</div>', document[start:end], flags=re.S)
+    body = data.get("quick_answer", "") + data["body"]  # como en migrate.py: la respuesta breve va delante
+    document = (document[:start] + '<div class="entry" id="texto-obra"><!--seo-body-->' + body + "</div>"
+                + (terms[-1] if terms else "") + document[end:])
+    if data.get("heading"):
+        document = document.replace(h1.group(1), escape_html(data["heading"]))
+    if data.get("title"):
+        document = re.sub(r"<title>.*?</title>", f"<title>{escape_html(data['title'])}</title>", document, count=1)
+    if data.get("description"):
+        document = apply_description(document, data["description"])
+    return document
+
+
+def escape_html(text):
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
+
+
 def tag_amazon(document):
     """Enlaces de producto de amazon.es heredados del WordPress sin etiqueta de afiliado: se la añade."""
     return re.sub(r'href="(https://www\.amazon\.es/dp/[0-9A-Z]{10})/?"', rf'href="\1?tag={AFFILIATE_TAG}"', document)
@@ -721,12 +755,14 @@ def main():
         books.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     changed = 0
     originals, pages = {}, {}
-    readings, manual = online_readings(), descriptions()
+    readings, manual, rewrites = online_readings(), descriptions(), seo_rewrites()
     for page in sorted(OUTPUT.rglob("index.html")):
         original = page.read_text(encoding="utf-8")
         result = original
         if not route_of(page).startswith("/leer/"):
             result = honest_pdf(replace_downloads(replace_download_paragraphs(result, readings), readings))
+        if route_of(page) in rewrites:
+            result = apply_rewrite(result, rewrites[route_of(page)])
         if route_of(page) in manual:
             result = apply_description(result, manual[route_of(page)])
         result = strip_pdf_label(swap_covers(polish(result), swaps))

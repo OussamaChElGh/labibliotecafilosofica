@@ -1,0 +1,485 @@
+{
+  "slug": "el-conde-lucanor-don-juan-manuel",
+  "title": "El conde Lucanor",
+  "author": "Don Juan Manuel",
+  "author_route": "",
+  "book_route": "/el-conde-lucanor-pdf-don-juan-manuel/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Conde_Lucanor",
+  "source_revision": 1543565,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "anteprologo",
+      "title": "Anteprólogo",
+      "summary": "Empieza: «Este libro fizo don Johan, fijo del muy noble infante don Manuel, deseando que los omnes fiziessen en este mundo tales obras…»",
+      "start": 0,
+      "end": 2
+    },
+    {
+      "slug": "prologo",
+      "title": "Prólogo",
+      "summary": "Empieza: «En el nombre de Dios: amén.»",
+      "start": 3,
+      "end": 8
+    },
+    {
+      "slug": "ejemplo-1",
+      "title": "Exemplo Iº - De lo que contesçió a un rey con un su privado",
+      "summary": "Empieza: «Acaesció una vez que el conde Lucanor estava fablando en su poridat con Patronio, su consegero, et díxol’:»",
+      "start": 9,
+      "end": 33
+    },
+    {
+      "slug": "ejemplo-2",
+      "title": "Exemplo IIº - De lo que contesçió a un omne bueno con su fijo",
+      "summary": "Empieza: «Otra vez acaesçió que el conde Lucanor fablava con Patronio, su consejero, et díxol’ cómo estava en grant coidado et en grand…»",
+      "start": 34,
+      "end": 47
+    },
+    {
+      "slug": "ejemplo-3",
+      "title": "Exemplo tercero - Del salto que fizo el rey Richalte de Inglaterra en la mar contra los moros",
+      "summary": "Empieza: «Un día se apartó el conde Lucanor con Patronio, su consejero, et díxol’ así:»",
+      "start": 48,
+      "end": 67
+    },
+    {
+      "slug": "ejemplo-4",
+      "title": "Exemplo IVº - De lo que dixo un genovés a su alma, cuando se ovo de morir",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio, su consegero, et contával’ su fazienda en esta manera:»",
+      "start": 68,
+      "end": 80
+    },
+    {
+      "slug": "ejemplo-5",
+      "title": "Exemplo quinto - De lo que contesçió a un raposo con un cuervo que tenié un pedaço de queso en el pico",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consejero, et díxol’ assí:»",
+      "start": 81,
+      "end": 94
+    },
+    {
+      "slug": "ejemplo-6",
+      "title": "Exemplo VIº - De lo que contesçió a la golondrina con las otras aves cuando vio sembrar el lino",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio, su consejero, et díxol’:»",
+      "start": 95,
+      "end": 106
+    },
+    {
+      "slug": "ejemplo-7",
+      "title": "Exemplo VIIº - De lo que contesçió a una muger quel’ dizién doña Truhana",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio en esta guisa:»",
+      "start": 107,
+      "end": 118
+    },
+    {
+      "slug": "ejemplo-8",
+      "title": "Exemplo VIIIº - De lo que contesçió a un omne que avían de alimpiar el fígado",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, et díxole assí:»",
+      "start": 119,
+      "end": 129
+    },
+    {
+      "slug": "ejemplo-9",
+      "title": "Exemplo IXº - De lo que contesçió a los dos cavallos con el león",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio, su consegero, en esta guisa:»",
+      "start": 130,
+      "end": 141
+    },
+    {
+      "slug": "ejemplo-10",
+      "title": "Exemplo Xº - De lo que contesçió a un omne que por pobreza et mengua de otra vianda comía atramuzes",
+      "summary": "Empieza: «Otro día fablava el conde Lucanor con Patronio en esta manera:»",
+      "start": 142,
+      "end": 152
+    },
+    {
+      "slug": "ejemplo-11",
+      "title": "Exemplo XIº - De lo que contesçió a un deán de Sanctiago con don Illán, el grand maestro de Toledo",
+      "summary": "Empieza: «Otro día fablava el conde Lucanor con Patronio, et contával’ su fazienda en esta guisa:»",
+      "start": 153,
+      "end": 171
+    },
+    {
+      "slug": "ejemplo-12",
+      "title": "Exemplo XIIº - De lo que contesçió a un raposo con un gallo",
+      "summary": "Empieza: «El conde Lucanor fablava con Patronio, su consejero, una vez en esta guisa:»",
+      "start": 172,
+      "end": 184
+    },
+    {
+      "slug": "ejemplo-13",
+      "title": "Exemplo trezeno - De lo que contesçió a un omne que tomava perdizes",
+      "summary": "Empieza: «Fablava otra vez el conde Lucanor con Patronio, su consegero, et díxole:»",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "slug": "ejemplo-14",
+      "title": "Exemplo XIVº - Del miraglo que fizo sancto Domingo cuando predicó sobre el logrero",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio en su fazienda et díxole:»",
+      "start": 199,
+      "end": 214
+    },
+    {
+      "slug": "ejemplo-15",
+      "title": "Exemplo XVº - De lo que contesçió a don Lorenço Suárez sobre la çerca de Sevilla",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, en esta guisa:»",
+      "start": 215,
+      "end": 230
+    },
+    {
+      "slug": "ejemplo-16",
+      "title": "Exemplo XVIº - De la repuesta que dio el conde Ferrant Gonsáles a Muño Lainez, su pariente",
+      "summary": "Empieza: «El conde Lucanor fablava un día con Patronio en esta guisa:»",
+      "start": 231,
+      "end": 242
+    },
+    {
+      "slug": "ejemplo-17",
+      "title": "Exemplo XVIIº - De lo que contesçió a un omne que avía muy grant fambre, quel’ convidaron otros muy floxamente a comer",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, et díxole assí:»",
+      "start": 243,
+      "end": 253
+    },
+    {
+      "slug": "ejemplo-18",
+      "title": "Exemplo XVIIIº - De lo que contesció a don Pero Meléndez de Valdés cuando se le quebró la pierna",
+      "summary": "Empieza: «Fablava el conde Lucanor con Patronio, su consegero, un día, et díxole assí:»",
+      "start": 254,
+      "end": 271
+    },
+    {
+      "slug": "ejemplo-19",
+      "title": "Exemplo XIXº - De lo que contesçió a los cuervos con los búhos",
+      "summary": "Empieza: «Fablava un día el conde Lucanor con Patronio, su consejero, et díxol’:»",
+      "start": 272,
+      "end": 287
+    },
+    {
+      "slug": "ejemplo-20",
+      "title": "Exemplo XXº - De lo que contesçió a un rey con un omne quel’ dixo quel’ faría alquimia",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio, su consejero, en esta manera:»",
+      "start": 288,
+      "end": 314
+    },
+    {
+      "slug": "ejemplo-21",
+      "title": "Exemplo XXIº - De lo que contesçió a un rey moço con un muy grant filósofo a qui lo acomendara su padre",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, en esta guisa:»",
+      "start": 315,
+      "end": 334
+    },
+    {
+      "slug": "ejemplo-22",
+      "title": "Exemplo XXIIº - De lo que contesçió al león et al toro",
+      "summary": "Empieza: «Fablava otra vez el conde Lucanor con Patronio, su consegero, et díxole assí:»",
+      "start": 335,
+      "end": 352
+    },
+    {
+      "slug": "ejemplo-23",
+      "title": "Exemplo XXIIIº - De lo que fazen las formigas para se mantener",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consejero, en esta manera:»",
+      "start": 353,
+      "end": 366
+    },
+    {
+      "slug": "ejemplo-24",
+      "title": "Exemplo XXIVº - De lo que contesçió a un rey que quería provar a tres sus fijos",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio, su consegero, et díxole assí:»",
+      "start": 367,
+      "end": 394
+    },
+    {
+      "slug": "ejemplo-25",
+      "title": "Exemplo XXVº - De lo que contesçió al conde de Provençia, cómo fue librado de la prisión por el consejo que le dio Saladín",
+      "summary": "Empieza: «El conde Lucanor fablava una vez con Patronio, su consegero, en esta manera:»",
+      "start": 395,
+      "end": 437
+    },
+    {
+      "slug": "ejemplo-26",
+      "title": "Exemplo XXVIº - De lo que contesçió al árvol de la Mentira",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio, su consejero, et díxole así:»",
+      "start": 438,
+      "end": 460
+    },
+    {
+      "slug": "ejemplo-27",
+      "title": "Exemplo XXVIIº - De lo que contesció a un emperador et a don Alvar Háñez Minaya con sus mugeres",
+      "summary": "Empieza: «Fablava el conde Lucanor con Patronio, su consegero, un día et díxole assí:»",
+      "start": 461,
+      "end": 525
+    },
+    {
+      "slug": "ejemplo-28",
+      "title": "Exemplo XXVIIIº - De lo que contesçió a don Llorenço Suárez Gallinato",
+      "summary": "Empieza: «El conde Lucanor fablava un día con Patronio, su consegero, en esta guisa:»",
+      "start": 526,
+      "end": 541
+    },
+    {
+      "slug": "ejemplo-29",
+      "title": "Exemplo XXIXº - De lo que contesçió a un raposo que se echó en la calle et se fizo muerto",
+      "summary": "Empieza: «Otra ves fablava el conde Lucanor con Patronio, su consegero, et díxole así:»",
+      "start": 542,
+      "end": 557
+    },
+    {
+      "slug": "ejemplo-30",
+      "title": "Exemplo XXXº - De lo que contesçió al rey Abenabet de Sevilla con Ramaiquía, su muger",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio, su consegero, en esta manera:»",
+      "start": 558,
+      "end": 571
+    },
+    {
+      "slug": "ejemplo-31",
+      "title": "Exemplo XXXIº - Del juizio que dio un cardenal entre los clérigos de París et los fraires menores",
+      "summary": "Empieza: «Otro día fablava el conde Lucanor con Patronio, su consegero, en esta guisa:»",
+      "start": 572,
+      "end": 586
+    },
+    {
+      "slug": "ejemplo-32",
+      "title": "Exemplo XXXIIº - Lo que sucedió a un rey con los picaros que hicieron la tela",
+      "summary": "Empieza: «Fablava otra vez el conde Lucanor con Patronio, su consejero, et dizíale:»",
+      "start": 587,
+      "end": 615
+    },
+    {
+      "slug": "ejemplo-33",
+      "title": "Exemplo XXXIIIº - De lo que contesçió a un falcón sacre del infante don Manuel con una águila et con una garça",
+      "summary": "Empieza: «Fablava otra vez el conde Lucanor con Patronio, su consegero, en esta manera:»",
+      "start": 616,
+      "end": 628
+    },
+    {
+      "slug": "ejemplo-34",
+      "title": "Exemplo XXXIVº - De lo que contesçió a un ciego que adestrava a otro",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, en esta guisa:»",
+      "start": 629,
+      "end": 641
+    },
+    {
+      "slug": "ejemplo-35",
+      "title": "Exemplo XXXVº - De lo que contesçió a un mançebo que casó con una muger muy fuerte et muy brava",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, et díxole:»",
+      "start": 642,
+      "end": 684
+    },
+    {
+      "slug": "ejemplo-36",
+      "title": "Exemplo XXXVIº - De lo que contesçió a un mercadero cuando falló su muger et su fijo durmiendo en uno",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio, estando muy sañudo por una cosa quel’ dixieron, que tenía él que era muy…»",
+      "start": 685,
+      "end": 710
+    },
+    {
+      "slug": "ejemplo-37",
+      "title": "Exemplo XXXVIIº - De la repuesta que dio el conde Ferrant Gonsáles a sus gentes depués que ovo vençido la batalla de Façinas",
+      "summary": "Empieza: «Una vegada vinía el conde de una hueste muy cansado et muy lazdrado et pobre, et ante que huviasse folgar nin descansar,…»",
+      "start": 711,
+      "end": 723
+    },
+    {
+      "slug": "ejemplo-38",
+      "title": "Exemplo XXXVIIIº - De lo que contesçió a un omne que iva cargado de piedras preçiosas et se afogó en el río",
+      "summary": "Empieza: «Un día dixo el conde a Patronio que avía muy grand voluntad de estar en una tierra porquel’ avían de dar ý…»",
+      "start": 724,
+      "end": 734
+    },
+    {
+      "slug": "ejemplo-39",
+      "title": "Exemplo XXXIXº - De lo que contesçió a un omne con la golondrina et con el pardal",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, en esta guisa:»",
+      "start": 735,
+      "end": 747
+    },
+    {
+      "slug": "ejemplo-40",
+      "title": "Exemplo XLº - De las razones porque perdió el alma un siniscal de Carcassona",
+      "summary": "Empieza: «Fablava otra ves el conde Lucanor con Patronio, et díxole:»",
+      "start": 748,
+      "end": 763
+    },
+    {
+      "slug": "ejemplo-41",
+      "title": "Exemplo XLIº - De lo que contesçió a un rey de Córdova quel’dizían Alhaquem",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio, su consegero, en esta guisa:»",
+      "start": 764,
+      "end": 782
+    },
+    {
+      "slug": "ejemplo-42",
+      "title": "Exemplo XLIIº - De lo que contesçió a una falsa veguina",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, en esta guisa:»",
+      "start": 783,
+      "end": 820
+    },
+    {
+      "slug": "ejemplo-43",
+      "title": "Exemplo XLIIIº - De lo que contesçió al Bien et al Mal, et al cuerdo con el loco",
+      "summary": "Empieza: «El conde Lucanor fablava con Patronio, su consegero, en esta manera:»",
+      "start": 821,
+      "end": 846
+    },
+    {
+      "slug": "ejemplo-44",
+      "title": "Exemplo XLIVº - De lo que contesçió a don Pero Núñez el Leal et a don Roy Gonzáles de Cavallos et a don Gutier Roíz de Blaguiello con el conde don Rodrigo el Franco",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, et díxole:»",
+      "start": 847,
+      "end": 876
+    },
+    {
+      "slug": "ejemplo-45",
+      "title": "Exemplo XLVº - De lo que contesçió a un omne que se fizo amigo et vasallo del Diablo",
+      "summary": "Empieza: «Fablava una vez el conde Lucanor con Patronio, su consejero, en esta guisa:»",
+      "start": 877,
+      "end": 908
+    },
+    {
+      "slug": "ejemplo-46",
+      "title": "Exemplo XLVIº - De lo que contesçió a un filósofo que por ocasión entró en una calle do moravan malas mugeres",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, en esta manera:»",
+      "start": 909,
+      "end": 930
+    },
+    {
+      "slug": "ejemplo-47",
+      "title": "Exemplo XLVIIº - De lo que contesçió a un moro con una su hermana que dava a entender que era muy medrosa",
+      "summary": "Empieza: «Un día fablava el conde Lucanor con Patronio en esta guisa:»",
+      "start": 931,
+      "end": 951
+    },
+    {
+      "slug": "ejemplo-48",
+      "title": "Exemplo XLVIIIº - De lo que contesçió a uno que provava sus amigos",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consejero, en esta manera:»",
+      "start": 952,
+      "end": 981
+    },
+    {
+      "slug": "ejemplo-49",
+      "title": "Exemplo XLIXº - De lo que contesçió al que echaron en la isla desnuyo cuandol’ tomaron el señorío que tenié",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, et díxole:»",
+      "start": 982,
+      "end": 996
+    },
+    {
+      "slug": "ejemplo-50",
+      "title": "Exemplo Lº - De lo que contesçió a Saladín con una dueña, muger de un su vasallo",
+      "summary": "Empieza: «Fablava el conde Lucanor un día con Patronio, su consegero, en esta guisa:»",
+      "start": 997,
+      "end": 1045
+    },
+    {
+      "slug": "ejemplo-51",
+      "title": "Exemplo LIº - Lo que contesçió a un rey christiano que era muy poderoso et muy soberbioso",
+      "summary": "Empieza: «Otra vez fablava el conde Lucanor con Patronio, su consegero, et díxole assí:»",
+      "start": 1046,
+      "end": 1087
+    },
+    {
+      "slug": "segunda-parte",
+      "title": "Segunda parte del Libro del Conde Lucanor et de Patronio - Razonamiento que face don Juan por amor de don Jaime, señor de Xérica",
+      "summary": "Empieza: «Después que yo, don Johan, fijo del muy noble infante don Manuel, adelantado mayor de la frontera et del regno de Murcia,…»",
+      "start": 1088,
+      "end": 1095
+    },
+    {
+      "slug": "tercera-parte",
+      "title": "Tercera parte del Libro del Conde Lucanor et de Patronio - Escusación de Patronio al Conde Lucanor",
+      "summary": "Empieza: «Señor conde Lucanor -dixo Patronio-, después que el otro libro fue acabado, porque entendí que lo queríades vós, començé a fablar en…»",
+      "start": 1096,
+      "end": 1099
+    },
+    {
+      "slug": "cuarta-parte",
+      "title": "Cuarta parte del Libro del Conde Lucanor et de Patronio - Razonamiento de Patronio al Conde Lucanor",
+      "summary": "Empieza: «Señor conde Lucanor -dixo Patronio-, porque entendí que era vuestra voluntat, et por el afincamiento que me fiziestes, porque entendí que vos…»",
+      "start": 1100,
+      "end": 1105
+    },
+    {
+      "slug": "quinta-parte",
+      "title": "Quinta parte del Libro del Conde Lucanor et de Patronio",
+      "summary": "Empieza: «Señor conde Lucanor -dixo Patronio-, ya desuso vos dixe muchas vezes que tantos enxiemplos et proverbios, dellos muy declarados et dellos ya…»",
+      "start": 1106,
+      "end": 1170
+    }
+  ],
+  "description": "El conde Lucanor de Don Juan Manuel: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Cuentos sobre la prudencia, el engaño y el buen gobierno.",
+  "intro": "<p>El conde Lucanor es una colección de cuentos que don Juan Manuel, sobrino del rey Alfonso X el Sabio, terminó en 1335. Todos siguen el mismo esquema: el conde Lucanor plantea un problema a su consejero Patronio, y este le responde con una historia, un «ejemplo», de la que el conde saca la lección. Cada ejemplo termina con unos versos que resumen la moraleja.</p><p>Aquí puedes leer El conde Lucanor completo, dividido en ejemplos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 61,
+    "art": {
+      "file": "el-conde-lucanor-don-juan-manuel.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/el-conde-lucanor-don-juan-manuel/ilustracion.jpg",
+      "credit": "«Alfonso X y su corte», miniatura del Libro de los juegos (1283), Real Biblioteca de El Escorial. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Cuentos",
+    "unidad": "ejemplos",
+    "tema": "la prudencia, el engaño y el buen gobierno",
+    "resumen": [
+      "El conde Lucanor es una colección de cuentos que don Juan Manuel, sobrino del rey Alfonso X el Sabio, terminó en 1335. Todos siguen el mismo esquema: el conde Lucanor plantea un problema a su consejero Patronio, y este le responde con una historia, un «ejemplo», de la que el conde saca la lección. Cada ejemplo termina con unos versos que resumen la moraleja.",
+      "Las historias vienen de fuentes muy distintas: fábulas de animales, cuentos árabes y orientales, anécdotas de reyes y de la historia de Castilla. Entre las más conocidas están la del mancebo que se casó con una mujer muy brava, la del deán de Santiago y el mago don Illán, la de doña Truhana y la del rey que se vistió con una tela que solo veían los hijos legítimos. Es una de las primeras obras de prosa narrativa en castellano."
+    ],
+    "personajes": [
+      [
+        "El conde Lucanor",
+        "Noble que pide consejo a Patronio sobre los problemas de su casa y su gobierno."
+      ],
+      [
+        "Patronio",
+        "Consejero sabio y prudente, que responde siempre con un cuento."
+      ],
+      [
+        "Don Illán",
+        "Mago de Toledo que pone a prueba la gratitud del deán de Santiago."
+      ],
+      [
+        "Doña Truhana",
+        "Mujer pobre que sueña con hacerse rica mientras lleva una olla de miel al mercado."
+      ],
+      [
+        "El mancebo casado",
+        "Joven que doma desde la primera noche a su mujer, famosa por su mal carácter."
+      ]
+    ],
+    "ideas": [
+      "Enseñar deleitando: la lección moral se transmite a través de un cuento.",
+      "La prudencia y la desconfianza ante los aduladores y los engañadores.",
+      "El buen gobierno de la casa y del estado, según la mentalidad de la nobleza medieval.",
+      "La salvación del alma y la honra en este mundo como fines del hombre."
+    ],
+    "faq": [
+      [
+        "¿Cuántos cuentos tiene El conde Lucanor?",
+        "La primera parte, la más conocida, reúne cincuenta y un ejemplos. Las partes siguientes son colecciones de proverbios y un tratado doctrinal."
+      ],
+      [
+        "¿Cuál es la estructura de los cuentos?",
+        "El conde plantea un problema, Patronio cuenta una historia parecida, el conde sigue el consejo y le va bien, y don Juan Manuel cierra el ejemplo con dos versos que resumen la moraleja."
+      ],
+      [
+        "¿Qué cuento de El conde Lucanor inspiró El traje nuevo del emperador?",
+        "El ejemplo XXXII, «De lo que aconteció a un rey con los burladores que hicieron el paño». Andersen escribió su versión cinco siglos después."
+      ],
+      [
+        "¿Cuándo se escribió?",
+        "Don Juan Manuel lo terminó en 1335, en la Castilla de Alfonso XI."
+      ]
+    ]
+  }
+}

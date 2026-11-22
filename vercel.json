@@ -425,8 +425,18 @@
       "permanent": true
     },
     {
+      "source": "/leer/el-conde-lucanor-don-juan-manuel/",
+      "destination": "/el-conde-lucanor-pdf-don-juan-manuel/",
+      "permanent": true
+    },
+    {
       "source": "/leer/el-extrano-caso-del-dr-jekyll-stevenson/",
       "destination": "/el-extrano-caso-del-dr-jekyll-stevenson/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-mercader-de-venecia-shakespeare/",
+      "destination": "/el-mercader-de-venecia-pdf-shakespeare/",
       "permanent": true
     },
     {
@@ -540,6 +550,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/libro-de-buen-amor-arcipreste-de-hita/",
+      "destination": "/el-libro-de-buen-amor-pdf-arcipreste-de-hita/",
+      "permanent": true
+    },
+    {
       "source": "/leer/lisis-platon/",
       "destination": "/lisis-platon/",
       "permanent": true
@@ -582,6 +597,11 @@
     {
       "source": "/leer/niebla-miguel-de-unamuno/",
       "destination": "/niebla-miguel-de-unamuno/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/orgullo-y-prejuicio-jane-austen/",
+      "destination": "/orgullo-y-prejuicio-pdf-jane-austen/",
       "permanent": true
     },
     {

@@ -1,0 +1,521 @@
+{
+  "slug": "orgullo-y-prejuicio-jane-austen",
+  "title": "Orgullo y prejuicio",
+  "author": "Jane Austen",
+  "author_route": "/libros-pdf-gratis/autores/jane-austen/",
+  "book_route": "/orgullo-y-prejuicio-pdf-jane-austen/",
+  "translator": "José Jordán de Urriés y Azara",
+  "edition": "Madrid, Calpe, Colección Universal, 1924",
+  "source_url": "https://es.wikisource.org/wiki/Orgullo_y_prejuicio",
+  "source_revision": 1422492,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "capitulo-1",
+      "title": "Capítulo I",
+      "summary": "Empieza: «Es verdad universalmente admitida que un soltero poseedor de buena fortuna tiene que necesitar una mujer.»",
+      "start": 0,
+      "end": 34
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "Capítulo II",
+      "summary": "Empieza: «El señor Bennet fué de los primeros que visitaron al señor Bingley. Siempre había pensado hacerlo, aunque siempre también asegurara a su…»",
+      "start": 35,
+      "end": 63
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "Capítulo III",
+      "summary": "Empieza: «Cuantas preguntas hizo la señora de Bennet, ayudada por sus hijas, no fueron suficientes para obtener de su marido satisfactoria descripción del…»",
+      "start": 64,
+      "end": 85
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "Capítulo IV",
+      "summary": "Empieza: «Cuando Juana e Isabel quedaron solas, la primera, que antes había sido cauta en su elogio de Bingley, expresó a su hermana…»",
+      "start": 86,
+      "end": 101
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "Capítulo V",
+      "summary": "Empieza: «A poca distancia de Longbourn habitaba una familia con la cual las Bennet tenían especial intimidad. Sir Guillermo Lucas había pertenecido primero…»",
+      "start": 102,
+      "end": 126
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "Capítulo VI",
+      "summary": "Empieza: «Las damas de Longbourn visitaron pronto a las de Netherfield, y la visita fué devuelta en debida forma. El grato porte de…»",
+      "start": 127,
+      "end": 186
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "Capítulo VII",
+      "summary": "Empieza: «Casi toda la fortuna del señor Bennet consistía en un estado de dos mil libras anuales, que, desgraciadamente para sus hijas, estaba…»",
+      "start": 187,
+      "end": 233
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "Capítulo VIII",
+      "summary": "Empieza: «A las cinco, las dos señoras de la casa se fueron a vestir, y a las cinco y media fué llamada Isabel…»",
+      "start": 234,
+      "end": 292
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "Capítulo IX",
+      "summary": "Empieza: «Isabel pasó lo más de la noche en la alcoba de su hermana, y a la mañana experimentó la satisfacción de poder…»",
+      "start": 293,
+      "end": 333
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "Capítulo X",
+      "summary": "Empieza: «El día transcurrió lo mismo que el anterior. La señora de Hurst y la señorita de Bingley pasaron algunas horas de la…»",
+      "start": 334,
+      "end": 401
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "Capítulo XI",
+      "summary": "Empieza: «Cuando las señoras se levantaron de la mesa después de comer, Isabel subió a ver a su hermana, y habiéndola hallado bien…»",
+      "start": 402,
+      "end": 438
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "Capítulo XII",
+      "summary": "Empieza: «De acuerdo con su hermana, Isabel escribió la mañana siguiente a su madre suplicándole que les enviase el coche aquel día. Pero…»",
+      "start": 439,
+      "end": 446
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "Capítulo XIII",
+      "summary": "Empieza: «Supongo, querida mía —dijo el señor Bennet a su mujer cuando almorzaban a la mañana siguiente—, que habrás encargado buena comida para…»",
+      "start": 447,
+      "end": 476
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "Capítulo XIV",
+      "summary": "Empieza: «Durante la comida el señor Bennet apenas habló; pero cuando se retiraron los criados juzgó que era ocasión de conversar algo con…»",
+      "start": 477,
+      "end": 495
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "Capítulo XV",
+      "summary": "Empieza: «No era Collins hombre delicado, y las deficiencias de la naturaleza habían sido poco suplidas por la educación y la vida social;…»",
+      "start": 496,
+      "end": 510
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "Capítulo XVI",
+      "summary": "Empieza: «Como no se hizo ninguna objeción al compromiso de las muchachas con su tía y todos los escrúpulos de Collins por el…»",
+      "start": 511,
+      "end": 575
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "Capítulo XVII",
+      "summary": "Empieza: «Isabel contó a Juana, al día siguiente, lo ocurrido entre Wickham y ella. Juana lo escuchó con asombro e interés; no acertaba…»",
+      "start": 576,
+      "end": 591
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "Capítulo XVIII",
+      "summary": "Empieza: «Hasta que Isabel penetró en el salón de Netherfield y buscó en vano a Wickham entre el grupo de casacas rojas que…»",
+      "start": 592,
+      "end": 674
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "Capítulo XIX",
+      "summary": "Empieza: «Al día siguiente se desarrolló en Longbourn nueva escena: Collins se declaró formalmente. Habiendo resuelto hacerlo sin pérdida de tiempo, puesto que…»",
+      "start": 675,
+      "end": 700
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "Capítulo XX",
+      "summary": "Empieza: «Collins no se abandonó largo rato a la silenciosa consideración del éxito de sus amores, pues habiendo la señora de Bennet hecho…»",
+      "start": 701,
+      "end": 738
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "Capítulo XXI",
+      "summary": "Empieza: «Las discusiones sobre el ofrecimiento de Collins tocaban ya a su término, e Isabel tuvo sólo que soportar los desagradables sentimientos que…»",
+      "start": 739,
+      "end": 769
+    },
+    {
+      "slug": "capitulo-22",
+      "title": "Capítulo XXII",
+      "summary": "Empieza: «Los Bennet fueron invitados a comer con los Lucas, y durante la mayor parte del día la señorita de Lucas tuvo de…»",
+      "start": 770,
+      "end": 793
+    },
+    {
+      "slug": "capitulo-23",
+      "title": "Capítulo XXIII",
+      "summary": "Empieza: «Sentada estaba Isabel con su madre y hermanas, meditando sobre lo que oyera y vacilando sobre si estaba autorizada para mentarlo, cuando…»",
+      "start": 794,
+      "end": 819
+    },
+    {
+      "slug": "capitulo-24",
+      "title": "Capítulo XXIV",
+      "summary": "Empieza: «La carta de la señorita de Bingley llegó y puso término a las dudas. Ya la primera frase comunicaba que se habían…»",
+      "start": 820,
+      "end": 854
+    },
+    {
+      "slug": "capitulo-25",
+      "title": "Capítulo XXV",
+      "summary": "Empieza: «Tras una semana pasada entre promesas de amor y planes de felicidad, Collins tuvo que despedirse de su amable Carlota para llegar…»",
+      "start": 855,
+      "end": 874
+    },
+    {
+      "slug": "capitulo-26",
+      "title": "Capítulo XXVI",
+      "summary": "Empieza: «La señora de Gardiner hizo a Isabel la advertencia susodicha, puntual y bondadosamente, en la primera ocasión favorable para hablarle a solas.…»",
+      "start": 875,
+      "end": 905
+    },
+    {
+      "slug": "capitulo-27",
+      "title": "Capítulo XXVII",
+      "summary": "Empieza: «Sin otros acontecimientos importantes en la familia de Longbourn, ni más variación que los paseos a Meryton, unas veces con lodo y…»",
+      "start": 906,
+      "end": 930
+    },
+    {
+      "slug": "capitulo-28",
+      "title": "Capítulo XXVIII",
+      "summary": "Empieza: «Todo lo del día siguiente de viaje fué nuevo e interesante para Isabel. Su espíritu estaba satisfecho por haber visto a su…»",
+      "start": 931,
+      "end": 951
+    },
+    {
+      "slug": "capitulo-29",
+      "title": "Capítulo XXIX",
+      "summary": "Empieza: «La satisfacción de Collins por ese convite fué completa. El poder mostrar la grandeza de su patrona ante sus admirados visitantes y…»",
+      "start": 952,
+      "end": 994
+    },
+    {
+      "slug": "capitulo-30",
+      "title": "Capítulo XXX",
+      "summary": "Empieza: «Sir Guillermo permaneció sólo una semana en Hunsford; pero su visita fué suficiente para convencerle de que su hija estaba muy bien…»",
+      "start": 995,
+      "end": 1007
+    },
+    {
+      "slug": "capitulo-31",
+      "title": "Capítulo XXXI",
+      "summary": "Empieza: «Los modales del coronel Fitzwilliam fueron muy elogiados en la abadía, y las señoras todas comprendieron que él habría de añadir considerable…»",
+      "start": 1008,
+      "end": 1040
+    },
+    {
+      "slug": "capitulo-32",
+      "title": "Capítulo XXXII",
+      "summary": "Empieza: «A la mañana siguiente estaba Isabel sola escribiendo a Juana, mientras la señora de Collins y María habían ido a compras al…»",
+      "start": 1041,
+      "end": 1074
+    },
+    {
+      "slug": "capitulo-33",
+      "title": "Capítulo XXXIII",
+      "summary": "Empieza: «En sus correrías por el parque, Isabel se había encontrado más de una vez inesperadamente con Darcy. La primera tuvo a gran…»",
+      "start": 1075,
+      "end": 1117
+    },
+    {
+      "slug": "capitulo-34",
+      "title": "Capítulo XXXIV",
+      "summary": "Empieza: «Cuando todos se fueron, Isabel, cual si se propusiera exasperarse todo lo posible contra Darcy, se dedicó a repasar todas las cartas…»",
+      "start": 1118,
+      "end": 1153
+    },
+    {
+      "slug": "capitulo-35",
+      "title": "Capítulo XXXV",
+      "summary": "Empieza: «Isabel se despertó a la mañana siguiente con los mismos pensamientos y cavilaciones con que había cerrado los ojos. Aun no podía…»",
+      "start": 1154,
+      "end": 1169
+    },
+    {
+      "slug": "capitulo-36",
+      "title": "Capítulo XXXVI",
+      "summary": "Empieza: «Si Isabel no esperaba, cuando Darcy le dió la carta, que contuviese renovación de sus ofrecimientos, tampoco había formado idea de qué…»",
+      "start": 1170,
+      "end": 1183
+    },
+    {
+      "slug": "capitulo-37",
+      "title": "Capítulo XXXVII",
+      "summary": "Empieza: «Ambos caballeros abandonaron Rosings a la mañana siguiente, y habiendo Collins estado a la espera cerca de la portería para hacerles el…»",
+      "start": 1184,
+      "end": 1206
+    },
+    {
+      "slug": "capitulo-38",
+      "title": "Capítulo XXXVIII",
+      "summary": "Empieza: «El sábado por la mañana Isabel y Collins se unieron para almorzar minutos antes de que los demás compareciesen, y él aprovechó…»",
+      "start": 1207,
+      "end": 1223
+    },
+    {
+      "slug": "capitulo-39",
+      "title": "Capítulo XXXIX",
+      "summary": "Empieza: «La segunda semana de mayo era cuando las tres muchachas partieron juntas de la calle de la Iglesia de la Merced para…»",
+      "start": 1224,
+      "end": 1255
+    },
+    {
+      "slug": "capitulo-40",
+      "title": "Capítulo XL",
+      "summary": "Empieza: «La impaciencia de Isabel por comunicar a Juana lo que le había ocurrido no pudo contenerse por más tiempo, y al fin,…»",
+      "start": 1256,
+      "end": 1293
+    },
+    {
+      "slug": "capitulo-41",
+      "title": "Capítulo XLI",
+      "summary": "Empieza: «La primera semana tras el regreso de las muchachas pasó pronto y comenzó la segunda. Era la última de la permanencia en…»",
+      "start": 1294,
+      "end": 1335
+    },
+    {
+      "slug": "capitulo-42",
+      "title": "Capítulo XLII",
+      "summary": "Empieza: «Si las opiniones de Isabel se hubieran formado sólo con lo que veía en su propia familia no habría podido albergar muy…»",
+      "start": 1336,
+      "end": 1354
+    },
+    {
+      "slug": "capitulo-43",
+      "title": "Capítulo XLIII",
+      "summary": "Empieza: «Cuando se dirigían allí Isabel recibió la vista de los bosques de Pemberley con cierta turbación, y cuando por fin llegaron a…»",
+      "start": 1355,
+      "end": 1433
+    },
+    {
+      "slug": "capitulo-44",
+      "title": "Capítulo XLIV",
+      "summary": "Empieza: «Isabel había calculado que Darcy llevaría a su hermana a visitarla al día siguiente de llegada, y, en consecuencia, había resuelto no…»",
+      "start": 1434,
+      "end": 1452
+    },
+    {
+      "slug": "capitulo-45",
+      "title": "Capítulo XLV",
+      "summary": "Empieza: «Estando convencida Isabel ahora de que la antipatía de la señorita de Bingley se había originado de los celos, no podía dejar…»",
+      "start": 1453,
+      "end": 1473
+    },
+    {
+      "slug": "capitulo-46",
+      "title": "Capítulo XLVI",
+      "summary": "Empieza: «Isabel había quedado muy disgustada por no hallar carta de Juana a su primera llegada a Lambton, y ese disgusto habíase renovado…»",
+      "start": 1474,
+      "end": 1510
+    },
+    {
+      "slug": "capitulo-47",
+      "title": "Capítulo XLVII",
+      "summary": "Empieza: «He vuelto a pensar en ello, Isabel—díjole su tío cuando salían de la ciudad—, y en realidad, por muy serias consideraciones, me…»",
+      "start": 1511,
+      "end": 1583
+    },
+    {
+      "slug": "capitulo-48",
+      "title": "Capítulo XLVIII",
+      "summary": "Empieza: «Todos esperaban carta del señor Bennet a la mañana siguiente; mas llegó el correo sin traer ni una sola línea suya. Conocíalo…»",
+      "start": 1584,
+      "end": 1619
+    },
+    {
+      "slug": "capitulo-49",
+      "title": "Capítulo XLIX",
+      "summary": "Empieza: «Dos días después del regreso del señor Bennet, mientras Juana e Isabel paseaban juntas por el plantío de arbustos posterior a la…»",
+      "start": 1620,
+      "end": 1677
+    },
+    {
+      "slug": "capitulo-50",
+      "title": "Capítulo L",
+      "summary": "Empieza: «El señor Bennet había deseado muchas veces antes de este período ahorrar cierta cantidad anual para mejorar el caudal de sus hijas…»",
+      "start": 1678,
+      "end": 1702
+    },
+    {
+      "slug": "capitulo-51",
+      "title": "Capítulo LI",
+      "summary": "Empieza: «El día de la boda de Lydia llegó, y Juana e Isabel se interesaron por ésta más probablemente que la misma por…»",
+      "start": 1703,
+      "end": 1740
+    },
+    {
+      "slug": "capitulo-52",
+      "title": "Capítulo LII",
+      "summary": "Empieza: «Isabel tuvo la satisfacción de recibir contestación a su carta tan pronto como fué posible. Apenas se vió en posesión de ella…»",
+      "start": 1741,
+      "end": 1793
+    },
+    {
+      "slug": "capitulo-53",
+      "title": "Capítulo LIII",
+      "summary": "Empieza: «Wickham quedó tan por completo satisfecho con esta conversación, que nunca más se afligió a sí mismo ni provocó a su querida…»",
+      "start": 1794,
+      "end": 1854
+    },
+    {
+      "slug": "capitulo-54",
+      "title": "Capítulo LIV",
+      "summary": "Empieza: «En cuanto se marcharon, Isabel salió a pasearse para cobrar ánimos, o, dicho en otras palabras, para meditar sobre aquellas cosas que…»",
+      "start": 1855,
+      "end": 1890
+    },
+    {
+      "slug": "capitulo-55",
+      "title": "Capítulo LV",
+      "summary": "Empieza: «Pocos días tras esa visita, Bingley volvió de nuevo, y solo. Su amigo le había dejado aquella mañana para ir a Londres;…»",
+      "start": 1891,
+      "end": 1948
+    },
+    {
+      "slug": "capitulo-56",
+      "title": "Capítulo LVI",
+      "summary": "Empieza: «Una mañana, aproximadamente una semana después del arreglo de Bingley con Juana, cuando él y las señoras de la casa hallábanse reunidos…»",
+      "start": 1949,
+      "end": 2026
+    },
+    {
+      "slug": "capitulo-57",
+      "title": "Capítulo LVII",
+      "summary": "Empieza: «La descomposición de ánimo en que esa extraordinaria visita puso a Isabel no pudo vencerla ésta sin dificultad, y durante muchas horas…»",
+      "start": 2027,
+      "end": 2057
+    },
+    {
+      "slug": "capitulo-58",
+      "title": "Capítulo LVIII",
+      "summary": "Empieza: «En lugar de recibir Bingley carta ninguna de excusa de su amigo, como Isabel medio esperaba que le sucediese, pudo aquél traer…»",
+      "start": 2058,
+      "end": 2109
+    },
+    {
+      "slug": "capitulo-59",
+      "title": "Capítulo LIX",
+      "summary": "Empieza: ««Querida Isabel, ¿por dónde has estado paseando?», tal fué la pregunta que Isabel oyó a Juana en cuanto se vieron en el…»",
+      "start": 2110,
+      "end": 2164
+    },
+    {
+      "slug": "capitulo-60",
+      "title": "Capítulo LX",
+      "summary": "Empieza: «Vuelto de nuevo el ánimo de Isabel a la alegría, requirió que Darcy le contase cómo se había enamorado de ella.»",
+      "start": 2165,
+      "end": 2193
+    },
+    {
+      "slug": "capitulo-61",
+      "title": "Capítulo LXI",
+      "summary": "Empieza: «Dichoso para todos sus sentimientos maternales fué el día en que la señora de Bennet se separó de sus dos más beneméritas…»",
+      "start": 2194,
+      "end": 2208
+    }
+  ],
+  "description": "Orgullo y prejuicio de Jane Austen: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre el amor, el matrimonio y las primeras impresiones.",
+  "intro": "<p>La señora Bennet tiene cinco hijas y una obsesión: casarlas bien, porque la casa familiar pasará a un primo cuando muera el señor Bennet. La llegada a la comarca del rico y amable señor Bingley y de su amigo, el todavía más rico señor Darcy, revoluciona la familia. Jane, la mayor, y Bingley se enamoran enseguida. Elizabeth, la segunda, inteligente e ingeniosa, siente antipatía por Darcy, que en un baile la ha despreciado.</p><p>Aquí puedes leer Orgullo y prejuicio completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 64,
+    "art": {
+      "file": "orgullo-y-prejuicio-jane-austen.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "url": "/leer/orgullo-y-prejuicio-jane-austen/ilustracion.jpg",
+      "credit": "Thomas Gainsborough, «El paseo matinal» (1785), National Gallery de Londres. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "el amor, el matrimonio y las primeras impresiones",
+    "resumen": [
+      "La señora Bennet tiene cinco hijas y una obsesión: casarlas bien, porque la casa familiar pasará a un primo cuando muera el señor Bennet. La llegada a la comarca del rico y amable señor Bingley y de su amigo, el todavía más rico señor Darcy, revoluciona la familia. Jane, la mayor, y Bingley se enamoran enseguida. Elizabeth, la segunda, inteligente e ingeniosa, siente antipatía por Darcy, que en un baile la ha despreciado.",
+      "Las intrigas de las hermanas de Bingley, las mentiras del encantador Wickham y el orgullo de Darcy alimentan los prejuicios de Elizabeth, que rechaza su primera declaración de amor. Una carta, una visita a Pemberley y la fuga de la hermana pequeña, Lydia, con Wickham le muestran poco a poco quién es Darcy en realidad. Los dos tienen que vencer su orgullo y sus prejuicios para entenderse. Es la novela más leída de Jane Austen."
+    ],
+    "personajes": [
+      [
+        "Elizabeth Bennet",
+        "Segunda de las hermanas, ingeniosa e independiente, rápida en juzgar."
+      ],
+      [
+        "Fitzwilliam Darcy",
+        "Caballero rico y orgulloso que acaba enamorándose de Elizabeth."
+      ],
+      [
+        "Jane Bennet",
+        "La hermana mayor, dulce y bondadosa, enamorada de Bingley."
+      ],
+      [
+        "Charles Bingley",
+        "Joven rico y afable, amigo de Darcy."
+      ],
+      [
+        "George Wickham",
+        "Oficial encantador y mentiroso, que se fuga con Lydia."
+      ],
+      [
+        "El señor y la señora Bennet",
+        "Un padre irónico y distante y una madre empeñada en casar a sus hijas."
+      ],
+      [
+        "Lady Catherine de Bourgh (lady Catalina)",
+        "Tía de Darcy, aristócrata altiva que se opone a su boda."
+      ]
+    ],
+    "ideas": [
+      "Las primeras impresiones engañan: el orgullo de él y el prejuicio de ella.",
+      "El matrimonio como necesidad económica para las mujeres de la época.",
+      "La ironía como forma de retratar a la sociedad rural inglesa.",
+      "El amor basado en el conocimiento y el respeto mutuo."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Orgullo y prejuicio?",
+        "De Elizabeth Bennet y el señor Darcy, que empiezan detestándose por el orgullo de él y los prejuicios de ella, y terminan casándose cuando aprenden a conocerse."
+      ],
+      [
+        "¿Cómo termina Orgullo y prejuicio?",
+        "Darcy salva en secreto el honor de la familia Bennet tras la fuga de Lydia. Elizabeth acepta su segunda declaración y Jane se casa con Bingley."
+      ],
+      [
+        "¿Quién es el orgulloso y quién el prejuicioso?",
+        "Suele decirse que Darcy es el orgullo y Elizabeth el prejuicio, pero los dos tienen algo de ambos."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1813. Esta traducción al español es de la edición de Calpe de 1924."
+      ]
+    ]
+  }
+}

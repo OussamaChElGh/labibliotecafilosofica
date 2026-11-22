@@ -1,0 +1,708 @@
+H|Acto I
+S|Escena primera.
+S|Venecia.—Una calle.
+S|Antonio, Salarino y Salanio.
+P|No entiendo la causa de mi tristeza. Á vosotros y á mi igualmente nos fatiga, pero no sé cuándo ni dónde ni de qué manera la adquirí, ni de qué origen mana. Tanto se ha apoderado de mis sentidos la tristeza, que ni áun acierto á conocerme á mi mismo.
+P|Tu mente vuela sobre el Océano, donde tus naves, con las velas hinchadas, cual señoras ó ricas ciudadanas de las olas, dominan á los pequeños traficantes, que cortésmente les saludan cuando las encuentran en su rápida marcha.
+P|Créeme, señor: si yo tuviese confiada tanta parte de mi fortuna al mar, nunca se alejaria de él mi pensamiento. Pasaria las horas en arrancar el césped, para conocer de dónde sopla el viento; buscaria continuamente en el mapa los puertos, los muelles y los escollos, y todo objeto que pudiera traerme desventura me seria pesado y enojoso.
+P|Al soplar en el caldo, sentiria dolores de fiebre intermitente, pensando que el soplo del viento puede embestir mi bajel. Cuando viera bajar la arena en el reloj, pensaria en los bancos de arena en que mi nave puede encallarse desde el tope á la quilla, como besando su propia sepultura. Al ir á misa, los arcos de la iglesia me harian pensar en los escollos donde puede dar de traves mi pobre barco, y perderse todo su cargamento, sirviendo las especias orientales para endulzar las olas, y mis sedas para engalanarlas. Creeria que en un momento iba á desvanecerse mí fortuna. Sólo el pensamiento de que esto pudiera suceder me pone triste. ¿No ha de estarlo Antonio?
+P|No, porque gracias á Dios no va en esa nave toda mi fortuna, ni depende mi esperanza de un solo puerto, ni mi hacienda de la fortuna de este año. No nace del peligro de mis mercaderias mi cuidado.
+P|Luego, estás enamorado.
+P|Calla, calla.
+P|¡Conque tampoco estás enamorado! Entonces diré que estás triste porque no estás alegre, y lo mismo podias dar un brinco, y decir que estabas alegre porque no estabas triste. Os juro por Jano el de dos caras, amigos mios, que nuestra madre comun la Naturaleza se divirtió en formar séres extravagantes. Hay hombres que al oir una estridente gaita, cierran estúpidamente los ojos y sueltan la carcajada, y hay otros que se están tan graves y sérios como niños, aunque les digas los más graciosos chistes.
+S|(Salen Basanio, Lorenzo y Graciano.)
+P|Aquí vienen tu pariente Basanio, Graciano y Lorenzo. Bien venidos. Ellos te harán buena compañía.
+P|No me iria hasta verte desenojado, pero ya que tan nobles amigos vienen, con ellos te dejo.
+P|Mucho os amo, creedlo. Cuando os vais, será porque os llama algun negocio grave, y aprovechais este pretexto para separaros de mí.
+P|Adios, amigos mios.
+P|Señores, ¿cuándo estareis de buen humor? Os estais volviendo ágrios é indigestos. ¿Y por qué?
+P|Adios: pronto quedaremos desocupados para serviros.
+S|(Vanse Salarino y Salanio.)
+P|Señor Basanio, te dejamos con Antonio. No olvides, á la hora de comer, ir al sitio convenido.
+P|Sin falta.
+P|Mala cara pones, Antonio. Mucho te apenan los cuidados del mundo. Caros te saldrán sus placeres, ó no los gozarás nunca. Noto en tí cierto cambio desagradable.
+P|Graciano, el mundo me parece lo que es: un teatro, en que cada uno hace su papel. El mio es bien triste.
+P|El mio será el de gracioso. La risa y el placer disimularán las arrugas de mi cara. Abráseme el vino las entrañas, antes que el dolor y el llanto me hielen el corazon. ¿Por qué un hombre, que tiene sangre en las venas, ha de ser como una estatua de su abuelo en mármol? ¿Por qué dormir despiertos, y enfermar de capricho? Antonio, soy amigo tuyo. Escúchame. Te hablo como se habla á un amigo. Hombres hay en el mundo tan tétricos que sus rostros están siempre, como el agua del pantano, cubiertos de espuma blanca, y quieren con la gravedad y el silencio adquirir fama de doctos y prudentes, como quien dice: «Soy un oráculo. ¿Qué perro se atreverá á ladrar, cuando yo hablo?» Así conozco á muchos, Antonio, que tienen reputacion de sabios por lo que se callan, y de seguro que si despegasen los labios, los mismos que hoy los ensalzan serian los primeros en llamarlos necios. Otra vez te diré más sobre este asunto. No te empeñes en conquistar por tan triste manera la fama que logran muchos tontos. Vámonos, Lorenzo. Adios. Después de comer, acabaré el sermón.
+P|En la mesa nos veremos. Me toca el papel de sabio mudo, ya que Graciano no me deja hablar.
+P|Si sigues un año más conmigo, desconocerás hasta el eco de tu voz.
+P|Me haré charlatan, por complacerte.
+P|Harás bien. El silencio sólo es oportuno en lenguas en conserva, ó en boca de una doncella casta é indomable.
+S|(Vanse Graciano y Lorenzo.)
+P|¡Vaya una locura!
+P|No hay en toda Venecia quien hable más disparatadamente que Graciano. Apenas hay en toda su conversacion dos granos de trigo entré dos fanegas de paja: menester es trabajar un dia entero para hallarlos, y aún después no compensan el trabajo de buscarlos.
+P|Dime ahora, ¿quién es la dama, á cuyo altar juraste ir en devota peregrinacion, y de quien has ofrecido hablarme?
+P|Antonio, bien sabes de qué manera he malbaratado mi hacienda en alardes de lujo no proporcionados á mis escasas fuerzas. No me lamento de la pérdida de esas comodidades. Mi empeño es sólo salir con honra de los compromisos en que me ha puesto mi vida. Tú, Antonio, eres mi principal acreedor en dineros y en amistad, y pues que tan de veras nos queremos, voy á decirte mi plan para librarme de deudas.
+P|Dímelo, Basanio: te lo suplico; y si tus propósitos fueren buenos y honrados, como de fijo lo serán, siendo tuyos, pronto estoy á sacrificar por tí mi hacienda, mi persona y cuanto valgo.
+P|Cuando yo era muchacho, y perdia el rastro de una flecha, para encontrarla disparaba otra en igual direccion, y solia, aventurando las dos, lograr entrambas. Pueril es el ejemplo, pero lo traigo para muestra de lo candoroso de mi intencion. Te debo mucho, y quizá lo hayas perdido sin remision; pero puede que si disparas con el mismo rumbo otra flecha, acierte yo las dos, ó lo menos pueda devolverte la segunda, agradeciéndote siempre el favor primero.
+P|Basanio, me conoces y es perder el tiempo traer ejemplos, para convencerme de lo que ya estoy persuadido. Todavía me desagradan más tus dudas sobre lo sincero de mi amistad, que si perdieras y malgastaras toda mi hacienda. Dime en qué puedo servirte, y lo haré con todas veras.
+P|En Belmonte hay una rica heredera. Es hermosísima, y ademas un portento de virtud. Sus ojos me han hablado, más de una vez, de amor. Se llama Pórcia, y en nada es inferior á la hija de Caton, esposa de Bruto. Todo el mundo conoce lo mucho que vale, y vienen de apartadas orillas á pretender su mano. Los rizos, que cual áureo vellocino penden de su sien, hacen de la quinta de Belmonte un nuevo Cólcos ambicionado por muchos Jasones. ¡Oh, Antonio mio! Si yo tuviera medios para rivalizar con cualquiera de ellos, tengo el presentimiento de que habia de salir victorioso.
+P|Ya sabes que tengo toda mi riqueza en el mar, y que hoy no puedo darte una gran suma. Con todo eso, recorre las casas de comercio de Venecia; empeña tú mi crédito hasta donde alcance. Todo lo aventuraré por tí: no habrá piedra que yo no mueva, para que puedas ir á la quinta de tu amada. Vé, infórmate de dónde hay dinero. Yo haré lo mismo y sin tardar. Malo será que por amistad ó por fianza no logremos algo.
+S|Escena II.
+S|Belmonte.—Gabinete en la quinta de Pórcia. Pórcia y Nerissa.
+P|Por cierto, amiga Nerissa, que mi pequeño cuerpo está ya bien harto de este inmenso mundo.
+P|Eso fuera, señora, si tus desgracias fueran tantas y tan prolijas como tus dichas. No obstante, tanto se padece por exceso de goces como por defecto. No es poca dicha atinar con el justo medio. Lo superfluo cria muy pronto canas. Por el contrario la moderacion es fuente de larga vida.
+P|Sanos consejos, y muy bien expresados.
+P|Mejores fueran, si álguien los siguiese.
+P|Si fuera tan fácil hacer lo que se debe, como conocerlo, las ermitas serian catedrales, y palacios las cabañas. El mejor predicador es el que, no contento con decantar la virtud, la practica. Mejor podria yo enseñársela á veinte personas, que ser yo una de las veinte y ponerla en ejecución. Bien inventa el cerebro leyes para refrenar la sangre, pero el calor de la juventud salta por las redes que le tiende la prudencia, fatigosa anciana. Pero si discurro de esta manera, nunca llegaré á casarme. Ni podré elegir á quien me guste ni rechazar á quien me enoje: tanto me sujeta la voluntad de mi difunto padre.
+P|Tu padre era un santo, y los santos suelen acertar, como inspirados, en sus postreras voluntades. Puedes creer que sólo quien merezca tu amor acertará ese juego de las tres cajas de oro, plata y plomo, que él imaginó, para que obtuviese tu mano el que diera con el secreto. Pero, dime, ¿no te empalagan todos esos príncipes que aspiran á tu mano?
+P|Vete nombrándolos, yo los juzgaré. Por mi juicio podrás conocer el cariño que les tengo.
+P|Primero, el príncipe napolitano.
+P|No hace más que hablar de su caballo, y cifra todo su orgullo en saber herrarlo por su mano. ¿Quién sabe si su madre se encapricharia de algún herrador?
+P|Luego viene el conde Palatino.
+P|Que está siempre frunciendo el ceño, como quien dice: «Si no me quieres, busca otro mejor.» No hay chiste que baste á distraerle. Mucho me temo que quien tan femenilmente triste se muestra en su juventud, llegue á la vejez convertido en filósofo melancólico. Mejor me casaria con una calavera que con ninguno de esos. ¡Dios me libre!
+P|¿Y el caballero francés, Le Bon?
+P|Será hombre, pero sólo porque es criatura de Dios. Malo es burlarse del prójimo, pero de éste... Su caballo es mejor que el del napolitano, y su ceño todavía más arrugado que el del Palatino, junta los defectos de uno y otro, y á todo esto añade un cuerpo que no es de hombre. Salta en oyendo cantar un mirlo, y se pelea hasta con su sombra. Casarse con él, seria casarse con veinte maridos. Le perdonaria si me aborreciese, pero nunca podria yo amarle.
+P|¿Y Falconbridge, el jóven baron inglés?
+P|Nunca hablo con él, porque no nos entendemos. Ignora el latin, el frances y el italiano. Yo, puedes jurar que no sé una palabra de ingles. No tiene mala figura, pero ¿quién ha de hablar con una estatua? ¡Y qué traje más extravagante el suyo! Ropilla de Italia, calzas de Francia, gorra de Alemania, y modales de todos lados.
+P|¿Y su vecino, el lord escoces?
+P|Buen vecino. Tomó una bofetada del ingles, y juró devolvérsela. El francés dió fianza con otro bofeton.
+P|¿Y el jóven aleman, sobrino del duque de Sajonia?
+P|Mal cuando está en ayunas, y peor despues de la borrachera. Antes parece menos que hombre, y despues más que bestia. Lo que es con ése, no cuento.
+P|Si él fuera quien acertase el secreto de la caja, tendrias que casarte con él, por cumplir la voluntad de tu padre.
+P|Lo evitarás, metiendo en la otra caja una copa de vino del Rhin: no dudes que, andando el demonio en ello, la preferirá. Cualquier cosa, Nerissa, antes que casarme con esa esponja.
+P|Señora, paréceme que no tienes que temer á ninguno de esos encantadores. Todos ellos me han dicho que se vuelven á sus casas, y no piensan importunarte más con sus galanterías, si no hay otro medio de conquistar tu mano que el de la cajita dispuesta por tu padre.
+P|Aunque viviera yo más años que la Sibila, me moriria tan vírgen como Diana, antes que faltar al testamento de mi padre. En cuanto á esos amantes, me alegro de su buena resolucion, porque no hay entre ellos uno solo cuya presencia me sea agradable. Dios les depare buen viaje.
+P|¿Te acuerdas, señora, de un veneciano docto en letras y armas que, viviendo tu padre, vino aquí con el marqués de Montferrato?
+P|Sí. Pienso que se llamaba Basanio.
+P|Es verdad. Y de cuantos hombres he visto, no recuerdo ninguno tan digno del amor de una dama como Basanio.
+P|Mucho me acuerdo de él, y de que merecia bien tus elogios. (Sale un criado.) ¿Qué hay de nuevo?
+P|Los cuatro pretendientes vienen á despedirse de vos, señora, y un correo anuncia la llegada del príncipe de Marruecos que viene esta noche.
+P|¡Ojalá pudiera dar la bienvenida al nuevo, con el mismo gusto con que despido á los otros! Pero si tiene el gesto de un demonio, aunque tenga el carácter de un ángel, más quisiera confesarme que casar con él. Ven conmigo, Nerissa. Y tú, delante (al criado). Apenas hemos cerrado la puerta á un amante, cuando otro llama.
+S|Escena III.
+S|Plaza en Venecia. Basanio y Sylock.
+P|Tres mil ducados. Está bien.
+P|Sí, por tres meses.
+P|Bien, por tres meses.
+P|Fiador Antonio.
+P|Antonio fiador. Está bien.
+P|¿Podeis darme esa suma? Necesito pronto contestacion.
+P|Tres mil ducados por tres meses: fiador Antonio.
+P|¿Y qué decis á eso?
+P|Antonio es hombre honrado.
+P|¿Y qué motivos tienes para dudarlo?
+P|No, no: motivo ninguno: quiero decir que es buen pagador, pero tiene muy en peligro su caudal. Un barco para Trípoli, otro para las Indias. Ahora me acaban de decir en el puente de Rialto, que prepara un navío para Méjico y otro para Inglaterra. Así tiene sus negocios y capital esparcidos por el mundo. Pero, al fin, los barcos son tablas y los marineros hombres. Hay ratas de tierra y ratas de mar, ladrones y corsarios, y ademas vientos, olas y bajíos. Pero repito que es buen pagador. Tres mil ducados... creo que aceptaré la fianza.
+P|Puedes aceptarla con toda seguridad.
+P|¿Por qué? Lo pensaré bien. ¿Podré hablar con él mismo?
+P|Vente á comer con nosotros.
+P|No, para no llenarme de tocino. Nunca comeré en casa donde vuestro profeta, el Nazareno, haya introducido sus diabólicos sortilegios. Compraré vuestros géneros: me pasearé con vosotros; pero comer, beber y orar... ni por pienso. ¿Qué se dice en Rialto? ¿Quién es éste?
+S|(Sale Antonio.)
+P|El señor Antonio.
+P|(Aparte.) Tiene aire de publicano. Le aborrezco porque es cristiano, y ademas por el necio alarde que hace de prestar dinero sin interes, con lo cual está arruinando la usura en Venecia. Si alguna vez cae en mis manos, yo saciaré en él todos mis odios. Sé que es grande enemigo de nuestra santa nacion, y en las reuniones de los mercaderes me llena de insultos, llamando vil usura á mis honrados tratos. ¡Por vida de mi tribu, que no le he de perdonar!
+P|¿Oyes, Sylock?
+P|Pensaba en el dinero que me queda, y ahora caigo en que no puedo reunir de pronto los tres mil ducados. Pero ¿qué importa? Ya me los prestará Tubal, un judío muy rico de mi tribu. ¿Y por cuántos meses quieres ese dinero? Dios te guarde, Antonio. Hablando de tí estábamos.
+P|Aunque no soy usurero, y ni presto ni pido prestado, esta vez quebranto mi propósito, por servir á un amigo. Basanio, ¿has dicho á Sylock lo que necesitas?
+P|Lo sé: tres mil ducados.
+P|Por tres meses.
+P|Ya no me acordaba. Es verdad... Por tres meses... Pero antes decias que no prestabas á usura ni pedias prestado.
+P|Sí que lo dije.
+P|Cuando Jacob apacentaba los rebaños de Laban... Ya sabes que Jacob, gracias á la astucia de su madre, fué el tercer poseedor después de Abraham... Sí, el tercero.
+P|¿Y Jacob prestaba dinero á usura?
+P|No precisamente como nosotros, pero fíjate en lo que hizo. Pactó con Laban que le diese como salario todos los corderos manchados de vario color que nacieran en el hato. Llegó el otoño, y las ovejas fueron en busca de los corderos. Y cuando iban á ayuntarse los lanudos amantes, el astuto pastor puso unas varas delante de las ovejas, y al tiempo de la cria todos los corderos nacieron manchados, y fueron de Jacob. Este fué su lucro y usura, y por él le bendijo el cielo, que bendice siempre el lucro honesto, aunque maldiga el robo.
+P|Eso fué un milagro que no dependía de su voluntad sino de la del cielo, y Jacob se expuso al riesgo. ¿Quieres con tan santo ejemplo canonizar tu abominable trato? ¿ó son ovejas y corderos tu plata y tu oro?
+P|No sé, pero procrean como si lo fueran.
+P|Atiende, Basanio. El mismo demonio, para disculpar sus maldades, cita ejemplos de la Escritura. El espíritu infame, que invoca el testimonio de las santas leyes, se parece á un malvado de apacible rostro ó á una hermosa fruta comida de gusanos.
+P|Tres mil ducados... Cantidad alzada, y por tres meses... Suma la ganancia...
+P|¿Admitís el trato: sí ó no, Sylock?
+P|Señor Antonio, innumerables veces me habeis reprendido en el puente de Rialto por mis préstamos y usuras, y siempre lo he llevado con paciencia, y he doblado la cabeza, porque ya se sabe que el sufrimiento es virtud de nuestro linaje. Me has llamado infiel y perro: y todo esto sólo por tu capricho, y porque saco el jugo á mi hacienda, como es mi derecho. Ahora me necesitas, y vienes diciendo: «Sylock, dame dineros.» Y esto me lo dice quien derramó su saliva en mi barba, quien me empujó con el pié como á un perro vagabundo que entra en casa extraña. ¿Y yo qué debia responderte ahora? «No: ¿un perro cómo ha de tener hacienda ni dinero? ¿Cómo ha de poder prestar tres mil ducados?» ó te diré en actitud humilde y con voz de siervo: «Señor, ayer te plugo escupirme al rostro: otro dia me diste un puntapié y me llamaste perro, y ahora, en pago de todas estas cortesías, te voy á prestar dinero.»
+P|Volveré á insultarte, á odiarte y á escupirte á la cara. Y si me prestas ese dinero, no me lo prestes como amigo, que si lo fueras, no pedirias ruin usura por un metal estéril é infecundo. Préstalo, como quien presta á su enemigo, de quien puede vengarse á su sabor si falta al contrato.
+P|¡Y qué enojado estais! ¿Y yo que queria granjear vuestra amistad, olvidando las afrentas de que me habéis colmado? Pienso prestaros mi dinero sin interes alguno. Ya veis que el ofrecimiento no puede ser más generoso.
+P|Así parece.
+P|Venid á casa de un escribano, donde firmaréis un recibo prometiendo que si para tal dia no habeis pagado, entregaréis en cambio una libra justa de vuestra carne, cortada por mí del sitio de vuestro cuerpo que mejor me pareciere.
+P|Me agrada el trato: le firmaré, y diré que por fin he encontrado un judío generoso.
+P|No firmarás, en ventaja mia, esa escritura; prefiero no salir nunca de mi desesperacion.
+P|No temas que llegue el caso de cumplir semejante escritura. Dentro de dos meses, uno antes de espirar el plazo, habré reunido diez veces más de esa suma.
+P|¡Oh, padre Abraham! ¡Qué mala gente son los cristianos! Miden á todos los demas con la vara de su mala intencion. Decidme: si Antonio dejara de pagarme en el plazo convenido, ¿qué adelantaba yo con exigirle que cumpliera el contrato? Despues de todo, una libra de carne humana vale menos que una de buey, carnero ó cabra. Creedme, que si propongo tal condicion, es sólo por ganarme su voluntad. Si os agrada, bien: si no, no me maltrates, siquiera por la buena amistad que te muestro.
+P|Cierro el trato y doy la fianza.
+P|Pronto, á casa del notario. Dictad ese chistoso documento. Yo buscaré el dinero, pasaré por mi casa, que está mal guardada por un holgazan inútil, y en seguida soy con vosotros.
+S|(Se va.)
+P|Véte con Dios, buen judio. Este se va á volver cristiano. Me pasma su generosidad.
+P|Sospechosas se me antojan frases tan dulces en boca de semejante malvado.
+P|No temas. El plazo es bastante largo, para que vuelvan mis navíos antes de cumplirse.
+H|Acto II
+S|Escena primera.
+S|Sala en la quinta de Pórcia. Salen el Príncipe de Marruecos, y su servidumbre; Pórcia, Nerissa y sus doncellas.
+P|No os enoje, bella Pórcia, mi color moreno, hijo del sol ardiente bajo el cual nací. Pero venga el más rubio de los hijos del frio Norte, cuyo hielo no deshace el mismo Apolo: y ábranse juntamente, en presencia vuestra, las venas de uno y otro, á ver cuál de los dos tiene mas roja la sangre. Señora, mi rostro ha atemorizado á los más valientes, y juro por el amor que os tengo que han suspirado por él las doncellas más hermosas de mi tierra. Sólo por complaceros, dulce señora mia, consintiera yo en mudar de semblante.
+P|No es sólo capricho femenil quien me aconseja y determina: mi eleccion no depende de mi albedrío. Pero si mi padre no me hubiera impuesto una condicion y un freno, mandándome que tomase por esposo á quien acertara el secreto que os dije, tened por seguro, ilustre príncipe, que os juzgaria tan digno de mi mano como á cualquier otro de los que la pretenden.
+P|Mucho os lo agradece mi corazon, Mostradme las cajas: probemos el dudoso empeño. ¡Juro, señora, por mi alfanje, matador del gran Sofi y del príncipe de Persia, y vencedor en tres batallas campales de todo el poder del gran Soliman de Turquía, que con el relámpago de mis ojos haré bajar la vista al hombre más esforzado, desafiaré á mortífera lid al de más aliento, arrancaré á la osa ó á la leona sus cachorros, sólo por lograr vuestro amor! Pero ¡ay! si el volver de los dados hubiera de decidir la rivalidad entre Alcides y Licas, quizá el fallo de la voluble diosa seria favorable al de menos valer, y Alcides quedaria siervo del débil garzon. Por eso es fácil que, entregada mi suerte á la fortuna, venga yo á perder el premio, y lo alcance otro rival que lo merezca mucho ménos.
+P|Necesario es sujetarse á la decision de la suerte. O renunciad á entrar en la prueba, ó jurad antes que no dareis la mano á otra mujer alguna si no salis airoso del certámen.
+P|Lo juro. Probemos la ventura.
+P|Ahora á la iglesia, y luego al festin. Después entrareis en la dudosa cueva. Vamos.
+P|¿Qué me dará la fortuna: eterna felicidad ó triste muerte?
+S|Escena II.
+S|Una calle de Venecia. Sale Lanzarote Gobbo.
+P|¿Por qué ha de remorderme la conciencia cuando escapo de casa de mi amo el judío? Viene detras de mí el diablo gritándome: «Gobbo, Lanzarote Gobbo, buen Lanzarote, ó buen Lanzarote Gobbo, huye, corre á toda prisa.» Pero la conciencia me responde: «No, buen Lanzarote, Lanzarote Gobbo, ó buen Lanzarote Gobbo, no huyas, no corras, no te escapes;» y prosigue el demonio con más fuerza: «Huye, corre, aguija, ten ánimo, no te detengas.» Y mi conciencia echa un nudo á mi corazon, y con prudencia me replica: «Buen Lanzarote, amigo mio, eres hijo de un hombre de bien...» ó más bien, de una mujer de bien, porque mi padre fué algo inclinado á lo ajeno. É insiste la conciencia: «Detente, Lanzarote.» Y el demonio me repite: «Escapa.» La conciencia: «No lo hagas.» Y yo respondo: «Conciencia, son buenos tus consejos!... Diablo, también los tuyos lo son.» Si yo hiciera caso de la conciencia, me quedaría con mi amo el judío, que es, después de todo, un demonio. ¿Qué gano en tomar por señor á un diablo en vez de otro? Mala debe de ser mi conciencia, pues me dice que guarde fidelidad al judío. Mejor me parece el consejo del demonio. Ya te obedezco y echo á correr.
+S|(Sale el viejo Gobbo.)
+P|Decidme, caballero: ¿por dónde voy bien á casa del judío?
+P|Es mi padre en persona; pero como es corto de vista más que un topo, no me distingue. Voy á darle una broma.
+P|Decidme, joven, ¿dónde es la casa del judío?
+P|Torced primero á la derecha: luego á la izquierda: tomad la callejuela siguiente, dad la vuelta, y luego torciendo el camino, topareis la casa del judío.
+P|Á fe mia, que son buenas señas. Difícil ha de ser atinar con el camino. ¿Y sabéis si vive todavía con él un tal Lanzarote?
+P|¡Ah sí, Lanzarote, un caballero jóven? ¿Hablais de ese?
+P|Aquel de quien yo hablo no es caballero, sino hijo de humilde padre, pobre aunque muy honrado, y con buena salud á Dios gracias.
+P|Su padre será lo que quiera, pero ahora tratamos del caballero Lanzarote.
+P|No es caballero, sino muy servidor vuestro, y yo tambien.
+P|Ergo, oidme por Dios, venerable anciano.... ergo hablais del jóven Lanzarote.
+P|De Lanzarote sin caballero, por más que os empeñeis, señor.
+P|Pues sí, del caballero Lanzarote. Ahora bien, no pregunteis por ese jóven caballero, porque en realidad de verdad, el hado, la fortuna ó las tres inexorables Parcas le han quitado de en medio, ó dicho en términos más vulgares, ha muerto.
+P|¡Dios mio! ¡Qué horror! Ese niño que era la esperanza y el consuelo de mi vejez.
+P|¿Acaso tendré yo cara de báculo, arrimo ó cayado? ¿No me conoces, padre?
+P|¡Ay de mí! ¿qué he de conoceros, señor mio? Pero decidme con verdad qué es de mi hijo, si vive ó ha muerto.
+P|Padre, ¿pero no me conoces?
+P|No, caballero; soy corto de vista: perdonad.
+P|Y aunque tuvieras buena vista, trabajo te habia de costar conocerme, que nada hay más difícil para un padre que conocer á su verdadero hijo. Pero en fin, yo os daré noticias del pobre viejo. (Se pone de rodillas.) Dame tu bendición: siempre acaba por descubrirse la verdad.
+P|Levantaos, caballero. ¿Qué teneis que ver con mi hijo Lanzarote?
+P|No más simplezas: dame tu bendicion. Soy Lanzarote, tu hijo, un pedazo de tus entrañas.
+P|No creo que seas mi hijo.
+P|Eso vos lo sabeis, aunque no sé qué pensar; pero en fin, conste que soy Lanzarote, criado del judío, y que mi madre se llama Margarita, y es tu mujer.
+P|Tienes razon: Margarita se llama. Luego, si eres Lanzarote, estoy seguro de que eres mi hijo. ¡Pero qué barbas, más crecidas que las cerdas de la cola de mi rocin! ¡Y qué semblante tan diferente tienes! ¿Qué tal lo pasas con tu amo? Llevo por él un regalo.
+P|No está mal. Pero yo no pararé de correr hasta verme en salvo. No hay judío más judío que mi amo. Una cuerda para ahorcarle, y ni un regalo merece. Me mata de hambre. Dame ese regalo, y se lo llevaré al señor Basanio. ¡Ese sí que da flamantes y lucidas libreas! Si no me admite de criado suyo, seguiré corriendo hasta el fin de la tierra. Pero ¡felicidad nunca soñada! aquí está el mismísimo Basanio. Con él me voy, que antes de volver á servir al judío, me haria judío yo mismo.
+S|(Salen Basanio, Leonardo y otros.)
+P|Haced lo que tengais que hacer, pero apresuraos: la cena para las cinco. Llevad á su destino estas cartas, apercibid las libreas. A Graciano, que vaya luego á verme á mi casa.
+S|(Se va un criado.)
+P|Padre, acerquémonos á él.
+P|Buenas tardes, señor.
+P|Buenas. ¿Qué se os ofrece?
+P|Señor, os presento á mi hijo, un pobre muchacho.
+P|Nada de eso, señor: no es un pobre muchacho, sino criado de un judío opulentísimo, y ya os explicará mi padre cuáles son mis deseos.
+P|Tiene un empeño loco en serviros.
+P|Dos palabras: sirvo al judío.... y yo quisiera.... mi padre os lo explicará.
+P|Su amo y él (perdonad, señor, si os molesto) no se llevan muy bien que digamos.
+P|Lo cierto es que el judío me ha tratado bastante mal, y esto me ha obligado... pero mi padre que es un viejo prudente y honrado, os lo dirá.
+P|En esta cestilla hay un par de pichones, que quisiera regalar á vuestra señoría. Y pretendo...
+P|Dos palabras: lo que va á decir es impertinente al asunto.... El, al fin, es un pobre hombre, aunque sea mi padre.
+P|Hable uno solo, y entendámonos. ¿Qué quereis?
+P|Serviros, caballero.
+P|Ahí está, señor, todo el intríngulis del negocio.
+P|Ya te conozco, y te admito á mi servicio. Tu amo Sylock te recomendó á mi hace poco, y no tengas esto por favor, que nada ganas en pasar de la casa de un hebreo opulentísimo á la de un arruinado caballero.
+P|Bien dice el refran: mi amo tiene la hacienda, pero vuestra señoría la gracia de Dios.
+P|No has hablado mal. Vete con tu padre: dí adios á Sylock, pregunta las señas de mi casa. (Á los criados.) Ponedle una librea algo mejor que las otras. Pronto.
+P|Vámonos, padre. ¿Y dirán que no sé abrirme camino, y que no tengo lindo entendimiento? ¿Á qué no hay otro en toda Italia que tenga en la palma de la mano rayas tan seguras y de buen agüero como estas (Mirándose las manos). ¡Pues no son pocas las mujeres que me están reservadas! Quince nada menos: once viudas y nueve doncellas... bastante para un hombre solo. Y ademas sé que he de estar tres veces en peligros de ahogarme y que he de salir bien las tres, y que estaré á punto de romperme la cabeza contra una cama. ¡Pues no es poca fortuna! Dicen que es diosa muy inconsecuente, pero lo que es conmigo, bien amiga se muestra.
+P|(Vanse Lanzarote y Gobbo).
+P|No olvides mis encargos, Leonardo amigo. Compra todo lo que te encargué, ponlo como te dije, y vuelve en seguida para asistir al banquete con que esta noche obsequio á mis íntimos. Adios, no tardes.
+P|No tardaré.
+S|(Sale Graciano.)
+P|¿Dónde está tu amo?
+P|Allí está patente.
+P|¡Señor Basanio!
+P|¿Qué me quereis, Graciano?
+P|Tengo que dirigiros un ruego.
+P|Tengo por bien acogido.
+P|Permíteme acompañarte á Belmonte.
+P|Vente, si es forzoso y te empeñas. Pero á la verdad, tú, Graciano, eres caprichoso, mordaz y libre en tus palabras: defectos que no lo son á los ojos de tus amigos, y que están en tu modo de ser, pero que ofenden mucho á los extraños, porque no conocen tu buena índole. Echa una pequeña dósis de cordura en tu buen humor: no sea que parezca mal en Belmonte, y vayas á comprometerme y á echar por tierra mi esperanza.
+P|Basanio, oye: si no tengo prudencia, si no hablo con recato, limitándome á maldecir alguna que otra vez aparte; si no llevo, con aire mojigato, un libro de devocion en la mano ó el bolsillo: si al dar gracias despues de comer, no me echo el sombrero sobre los ojos, y digo con voz sumisa: «amen»: si no cumplo, en fin, todas las reglas de urbanidad, como quien aprende un papel para dar gusto á su abuela, consentiré en perder tu aprecio y tu cariño.
+P|Allá veremos.
+P|Pero no te fies de lo que haga esta noche, porque es un caso excepcional.
+P|Nada de eso: haz lo que quieras. Al contrario, esta noche conviene que alardees de ingenio más que nunca, porque mis comensales serán alegres y regocijados. Adiós: mis ocupaciones me llaman á otra parte.
+P|Voy á buscar á Lorenzo y á los otros amigos. Nos veremos en la cena.
+S|Escena III.
+S|Habitación en casa de Sylock. Jéssica y Lanzarote.
+P|¡Lástima que te vayas de esta casa, que sin tí es un infierno! Tú, á lo menos, con tu diabólica travesura la animabas algo. Toma un ducado. Procura ver pronto á Lorenzo. Te será fácil, porque esta noche come con tu amo. Entrégale esta carta con todo secreto. Adios. No quiero que mi padre nos vea.
+P|¡Adios! Mi lengua calla, pero hablan mis lágrimas. Adios, hermosa judía, dulcísima gentil. Mucho me temo que algún buen cristiano venga á perder su alma por tí. Adios. Mi ánimo flaquea. No quiero detenerme más, adios.
+P|Con bien vayas, amigo Lanzarote. (Se va Lanzarote.) ¡Pobre de mí! ¿qué crímen habré cometido? ¡Me avergüenzo de tener tal padre, y eso que sólo soy suya por la sangre, no por la fe ni por las costumbres. Adios, Lorenzo, guárdame fidelidad, cumple lo que prometiste, y te juro que seré cristiana y amante esposa tuya.
+S|Escena IV.
+S|Una calle de Venecia. Graciano, Lorenzo, Salarino y Salanio.
+P|Dejaremos el banquete sin ser notados: nos disfrazaremos en mi casa, volveremos dentro de una hora.
+P|Mal lo hemos arreglado.
+P|Todavía no tenemos preparadas las hachas.
+P|Para no hacerlo bien, vale más no intentarlo.
+P|No son más que las tres. Hasta las seis sobra tiempo para todo, (Sale Lanzarote). ¿Qué noticias traes, Lanzarote?
+P|Si abris esta carta, ella misma os lo dirá.
+P|Bien conozco la letra, y la mano más blanca que el papel en que ha escrito mi ventura.
+P|Será carta de amores.
+P|Me iré, con vuestro permiso.
+P|¿Á dónde vas?
+P|Á convidar al judío, mi antiguo amo, á que cene esta noche con mi nuevo amo, el cristiano.
+P|Aguarda. Toma. Di á Jéssica muy en secreto, que no faltaré. (Se va Lanzarote.) Amigos, ha llegado la hora de disfrazarnos para esta noche. Por mi parte, ya tengo paje de antorcha.
+P|Yo buscaré el mio.
+P|Y yo.
+P|Nos reuniremos en casa de Graciano dentro de una hora.
+P|Allá iremos.
+S|(Vanse Salarino y Salanio.)
+P|Dime por favor. ¿Esa carta no es de la hermosa judía?
+P|Tengo forzosamente que confesarte mi secreto. Suya es la carta, y en ella me dice que está dispuesta á huir conmigo de casa de su padre, disfrazada de paje. Me dice también la cantidad de oro y joyas que tiene. Si ese judío llega á salvarse, será por la virtud de su hermosa hija, tan hermosa como desgraciada por tener de padre á tan vil hebreo. Ven, y te leeré la carta de la bella judía. Ella será mi paje de hacha.
+S|Escena V.
+S|Calle donde vive Sylock. Salen Sylock y Lanzarote.
+P|Ya verás, ya, la diferencia que hay de ese Basanio al judío.—Sal, Jéssica.—Por cierto que en su casa no devorarás como en la mia, porque tiene poco.—Sal, hija.—Ni te estarás todo el dia durmiendo, ni tendrás cada mes un vestido nuevo.—Jéssica, ven, ¿cómo te lo he de decir?
+P|Sal, señora Jéssica.
+P|¿Quién te manda llamar?
+P|Siempre me habiais reñido, por no hacer yo las cosas hasta que me las mandaban.
+S|(Sale Jéssica.)
+P|Padre, ¿me llamabais? ¿qué me quereis?
+P|Hija, estoy convidado á comer fuera de casa. Aquí tienes las llaves. Pero ¿por qué iré á ese convite? Cierto que no me convidan por amor. Será por adulacion. Pero no importa, iré, aunque sólo sea por aborrecimiento á los cristianos, y comeré á su costa. Hija, ten cuidado con la casa. Estoy muy inquieto. Algún daño me amenaza. Anoche soñé con bolsas de oro.
+P|No falteis, señor. Mi amo os espera.
+P|Y yo también á él.
+P|Y tienen un plan. No os diré con seguridad que veréis una funcion de máscaras, pero puede que la veais.
+P|¿Funcion de máscaras? Oye, Jéssica. Echa la llave á todas las puertas, y si oyes ruido de tambores ó de Dramas de Guillermo Shakespeare pg 51
+S|Sylock y su hija.
+P|clarines, no te pongas á la ventana, ni saques la cabeza á la calle, para ver esas profanidades de los cristianos que se untan los rostros de mil maneras. Tapa, en seguida, todos los oidos de mi casa: quiero decir, las ventanas, para que no penetre aquí ni áun el ruido de semejante bacanal. Te juro por el cayado de Jacob, que no tengo ninguna gana de bullicios. Iré, con todo eso, al convite. Tú delante para anunciarme.
+P|Así lo haré. (Aparte á Jéssica.) Dulce señora mia, no dejes de asomarte á la ventana, pues pasará un cristiano que bien te merece.
+P|¿Qué dirá entre dientes ese malvado descendiente de Agar?
+P|No dijo más que adios.
+P|En el fondo no es malo, pero es perezoso y comilon, y duerme de dia más que un gato montes. No quiero zánganos en mi colmena. Por eso me alegro de que se vaya, y busque otro amo, á quien ayude á gastar en pocos dias su improvisada fortuna. Vé dentro, hija mia. Quizá pueda yo volver pronto. No olvides lo que te he mandado. Cierra puertas y ventanas, que nunca está más segura la joya que cuando bien se guarda: máxima que no debe olvidar ningún hombre honrado.
+S|(Vase.)
+P|Mala ha de ser del todo mi fortuna para que pronta no nos encontremos yo sin padre y tú sin hija.
+S|(Se va.)
+S|Escena VI.
+S|Graciano y Salarino, de máscara.
+P|Á la sombra de esta pared nos ha de encontrar Lorenzo.
+P|Ya es la hora de la cita. Mucho me admira que tarde.
+P|Sí, porque el alma enamorada cuenta las horas con más presteza que el reloj.
+P|Las palomas de Vénus vuelan con ligereza diez veces mayor cuando van á jurar un nuevo amor, que cuando acuden á mantener la fe jurada.
+P|Necesario es que así suceda. Nadie se levanta de la mesa del festin con el mismo apetito que cuando se sentó á ella. ¿Qué caballo muestra al fin de la rápida carrera el mismo vigor que al principio? Así son todas las cosas. Más placer se encuentra en el primer instante de la dicha que despues. La nave es en todo semejante al hijo pródigo. Sale altanera del puerto nativo, coronada de alegres banderolas, acariciada por los vientos, y luego torna con el casco roto y las velas hechas pedazos, empobrecida y arruinada por el vendaval.
+S|(Sale Lorenzo. )
+P|Dejemos esta conversacion. Aquí viene Lorenzo.
+P|Amigos: perdon, si os he hecho esperar tanto. No me echeis la culpa: echádsela á mis bodas. Cuando para lograr esposa, tengais que hacer el papel de ladrones, yo os prometo igual ayuda. Venid: aquí vive mi suegro Sylock.
+S|(Llama.)
+S|(Jéssica disfrazada de paje se asoma á la ventana.)
+P|Para mayor seguridad decidme quién sois, aunque me parece que conozco esa voz.
+P|Amor mio, soy Lorenzo, y tu fiel amante.
+P|El corazon me dice que eres mi amante Lorenzo. Dime, Lorenzo, ¿y hay alguno, fuera de tí, que sospeche nuestros amores?
+P|Testigos son el cielo y tu mismo amor.
+P|Pues mira: toma esta caja, que es preciosa. Bendito sea el oscuro velo de la noche que no te permite verme, porque tengo vergüenza del disfraz con que oculto mi sexo. Pero al amor le pintan ciego, y por eso los amantes no ven las mil locuras á que se arrojan. Si no, el Amor mismo se avergonzaria de verme trocada de tierna doncella en arriscado paje.
+P|Baja: tienes que ser mi paje de antorcha.
+P|¿Y he de descubrir yo misma, por mi mano, mi propia liviandad y ligereza, precisamente cuando me importa más ocultarme?
+P|Bien oculta estarás bajo el disfraz de gallardo paje. Ven pronto, la noche vuela, y nos espera Basanio en su mesa.
+P|Cerraré las puertas y recogeré más oro. Pronto estaré contigo.
+S|(Vase.)
+P|¡Á fe mia que es gentil, y no judía!
+P|¡Maldito sea yo si no la amo! Porque mucho me equivoco, ó es discreta, y ademas es bella, que en esto no me engañan los ojos, y es fiel y me ha dado mil pruebas de constancia. La amaré eternamente por hermosa, discreta y fiel. (Sale Jéssica.) Al fin viniste. En marcha, compañeros. Ya nos esperan nuestros amigos. (Vanse todos menos Graciano.) (Sale Antonio.)
+P|¿Quién?
+P|¡Señor Antonio!
+P|¿Solo estais, Graciano? ¿y los demas? Ya han dado las nueve, y todo el mundo espera. No habrá máscaras esta noche. El viento se ha levantado ya, y puede embarcarse Basanio. Más de veinte recados os he enviado.
+P|¿Qué me decis? ¡Oh felicidad! ¡Buen viento! Ya siento ganas de verme embarcado.
+S|Escena VII.
+S|Quinta de Pórcia en Belmonte. Pórcia y el Príncipe de Marruecos.
+P|Descorred las cortinas, y enseñad al príncipe los cofres; él elegirá.
+P|EL PRINCIPE.
+P|El primero es de oro, y en él hay estas palabras: «Quien me elija, ganará lo que muchos desean.» El segundo es de plata, y en él se lee: «Quien me elija, cumplirá sus anhelos.» El tercero es de vil plomo, y en él hay esta sentencia tan dura como el metal: «Quien me elija, tendrá que arriesgarlo todo.» ¿Cómo haré para no equivocarme en la eleccion?
+P|PÓRCIA.
+P|En uno de los cofres está mi retrato. Si le encontrais, soy vuestra.
+P|EL PRÍNCIPE.
+P|Algún dios me iluminará. Volvamos á leer con atencion los letreros. ¿Qué dice el plomo? «Todo tendrá que darlo y arriesgarlo el que me elija.» ¡Tendrá que darlo todo! ¿Y por qué?... Por plomo... ¿Aventurarlo todo por plomo? Deslucido premio en verdad. Para aventurarlo todo, hay que tener esperanza de alguna dicha muy grande, porque á un alma noble no la seduce el brillo de un vil metal. En suma, no doy ni aventuro nada por el plomo. ¿Qué dice la plata del blanco cofrecillo? «Quien me elija logrará lo que merece...» Lo que merece... Despacio, Príncipe: pensémoslo bien. Si atiendo á mi conciencia, yo me estimo en mucho. No es pequeño mi valor, aunque quizá lo sea para aspirar á tan excelsa dama. De otra parte, seria poquedad de ánimo dudar de lo que realmente valgo... ¿Qué merezco yo? Sin duda esta hermosa dama. Para eso soy de noble nacimiento y grandes dotes de alma y cuerpo, de fortuna, valor y linaje; y sobre todo la merezco porque la amo entrañablemente. Sigo en mis dudas. ¿Continuaré la elección ó me pararé aquí? Voy á leer segunda vez el rótulo de la caja de oro: «Quién me elija logrará lo que muchos desean.» Es claro: la posesion de esta dama: todo el mundo la desea, y de los cuatro términos del mundo vienen á postrarse ante el ara en que se venera su imágen. Los desiertos de Hircania, los arenales de la Libia se ven trocados hoy en animados caminos, por donde acuden innumerables príncipes á ver á Pórcia. No bastan á detenerlos playas apartadas, ni el salobre reino de las ondas que lanzan su espuma contra el cielo. Corren el mar, como si fuera un arroyo, sólo por el ansia de ver á Pórcia. Una de estas cajas encierra su imágen, pero ¿cuál? ¿Estará en la de plomo? Necedad seria pensar que tan vil metal fuese sepulcro de tanto tesoro. ¿Estará en la plata que vale diez veces menos que el oro? Bajo pensamiento seria. Sólo en oro puede engastarse joya de tanto precio. En Inglaterra corre una moneda de oro, con un ángel grabado en el anverso. Allí está sólo grabado, mientras que aquí es el ángel mismo quien yace en tálamo de oro. Venga la llave: mi eleccion está hecha, sea cual fuere el resultado.
+P|Tomad la llave, y si en esa caja está mi retrato, seré vuestra esposa.
+S|El Príncipe (abriendo el cofre).
+P|¡Por vida del demonio! sólo encuentro una calavera, y en el hueco de sus ojos este papel: «No es oro todo lo que reluce: así dice el refran antiguo: tú verás si con razon. ¡Á cuántos ha engañado en la vida una vana exterioridad! En dorado sepulcro habitan los gusanos. Si hubieras tenido tanta discrecion y buen juicio como valor y osadía, no te hablaria de esta suerte mi hueca y apagada voz. Véte en buen hora, ya que te ha salido fria la pretension.» Sí que he quedado frio y triste. Toda mi esperanza huyó, y el fuego del amor se ha convertido en hielo. Adios, hermosa Pórcia. No puedo hablar. El desencanto me quita la voz. ¡Cuan triste se aleja el que ve marchitas sus ilusiones!
+P|¡Oh felicidad! Quiera Dios que tengan la misma suerte todos los que vengan, si son del mismo color que éste.
+S|Escena VIII.
+S|Calle en Venecia. Salarino y Salanio.
+P|Ya se ha embarcado Basanio, y con él va Graciano, pero no Lorenzo.
+P|El judío se quejó al Dux, é hizo que le acompañase á registrar la nave de Basanio.
+P|Pero cuando llegaron, era tarde, y ya se habian hecho á la mar. En el puerto dijeron al Dux que poco antes habian visto en una góndola á Lorenzo y á su amada Jéssica, y Antonio juró que no iban en la nave de Basanio.
+P|Nunca he visto tan ciego, loco, incoherente y peregrino furor como el de este maldito hebreo. Decia á voces: «¡Mi hija, mi dinero, mi hija... ha huido con un cristiano... y se ha llevado mi dinero... mis ducados... Justicia... mi dinero... una bolsa... no... dos, llenas de ducados... Y ademas joyas y piedras preciosas... Me lo han robado lodo... Justicia... Buscadla... Lleva consigo mi dinero y mis alhajas.
+P|Los muchachos le persiguen por las calles de Venecia, gritando como él: «Justicia, mis ducados, mis joyas, mi hija.»
+P|¡Pobre Antonio si no cumple el trato!
+P|Y fácil es que no pueda cumplirlo. Ayer me dijo un francés que en el estrecho que hay entre Francia é Inglaterra habia naufragado un barco veneciano. En seguida me acordé de Antonio, y por lo bajo hice votos á Dios para que no fuera el suyo.
+P|Bien harias en decírselo á Antonio, pero de modo que no le hiciera mala impresion la noticia.
+P|No hay en el mundo alma más noble. Hace poco ví cómo se despedía de Basanio. Díjole éste que haria por volver pronto, y Antonio le replicó: «No lo hagas de ningún modo, ni eches á perder, por culpa mia, tu empresa. Necesitas tiempo. No te apures por la fianza que di al judío. Estáte tranquilo, y sólo pienses en alcanzar con mil delicadas galanterías y muestras de amor el premio á que aspiras.» Apenas podia contener el llanto al decir esto. Apartó la cara, dió la mano á su amigo, y se despidió de él por última vez.
+P|Él es toda su vida, segun imagino. Vamos á verle, y tratemos de consolar su honda tristeza.
+P|Vamos.
+S|Escena IX.
+S|Quinta de Pórcia en Belmonte.
+P|(A un criado.) Anda, descorre las cortinas, que ya el Infante de Aragon ha hecho su juramento y viene á la prueba.
+S|(Salen el Infante de Aragon, Pórcia y acompañamiento. Tocan cajas y clarines.)
+P|Egregio Infante: ahí tenéis las cajas: si dais con la que contiene mi retrato, vuestra será mi mano. Pero si la fortuna os fuere adversa, tendréis que alejaros sin más tardanza.
+P|El juramento me obliga á tres cosas: primero, á no decir nunca cuál de las tres cajas fué la que elegí. Segundo, si no acierto en la eleccion, me comprometo á no pedir jamas la mano de una doncella. Tercero, á alejarme de vuestra presencia, si la suerte me fuere contraria.
+P|Esas son las tres condiciones que tiene que cumplir todo el que viene á esta dudosa aventura, y á pretender mi mano indigna de tanta honra.
+P|Yo cumpliré las tres. Fortuna, dame tu favor, ilumíname. Aquí tenemos plata, oro y plomo. «Quien me elija, tendrá que darlo todo y aventurarlo todo.» Para que yo dé ni aventure nada, menester será que el plomo se haga antes más hermoso. ¿Y qué dice la caja de oro? « Quien me elija, alcanzará lo que muchos desean.» Estos serán la turba de necios que se fia de apariencias, y no penetra hasta el fondo de las cosas: á la manera del pájaro audaz que pone su nido en el alero del tejado, expuesto á la intemperie y á todo género de peligros. No es mio pensar como piensa el vulgo. No elegiré lo que muchos desean. No seré como la multitud grosera y sin juicio. Vamos á tí, arca brillante de precioso metal: «Quien me elija, alcanzará lo que merece.» Está bien, ¿qué alma bien nacida querrá obtener ninguna ventaja ni triunfar del hado, sin un mérito real? ¿A quién contentará un honor inmerecido? ¡Dichoso aquel dia en que no por subterráneas intrigas, sino por las dotes reales del alma, se consigan los honores y premios! ¡Cuántas frentes, que ahora están humilladas, se cubrirán de gloria entonces! ¡Cuántos de los que ahora dominan querrian ser entonces vasallos! ¡Qué de ignominias descubriríamos al través de la púrpura de reyes, emperadores y magnates! ¡Y cuánta honra encontraríamos soterrada en el lodo de nuestra edad! Siga la elección: «Alcanzará lo que merece.» Mérito tengo. Venga la llave, que esta caja encierra sin duda mi fortuna.
+P|Mucho lo habeis pensado para tan corto premio como habeis de encontrar.
+P|¿Qué veo? La cara de un estúpido que frunce el entrecejo y me presenta una carta. ¡Cuan diverso es su semblante del de la hermosísima Pórcia! Otra cosa aguardaban mis méritos y esperanzas! «Quien me elija, alcanzará lo que merece.» ¿Y no merezco más? ¿La cara de un imbécil? ¿Ese es el premio que yo ambicionaba? ¿Tan poco valgo?
+P|El juicio no es ofensa: son dos actos distintos.
+P|¿Y qué dice ese papel? (Lee.) «Siete veces ha pasado este metal por la llama: siete pruebas necesita el juicio para no equivocarse. Muchos hay que toman por realidad los sueños: natural es que su felicidad sea sueño también. Bajo este blanco metal has encontrado la faz de un estúpido. Muchos necios hay en el mundo que se ocultan así. Cásate á tu voluntad, pero siempre me tendrás por símbolo. Adios.» Todavía seria estupidez mayor, no irme ahora mismo. Como un necio vine á galantear, y ahora llevo dos cabezas nuevas, la mia y otra ademas. Quédate con Dios, Pórcia: no faltaré á mi juramento.
+P|Huye, como la mariposa que se quema las alas escapa del fuego. ¡Qué necios son por querer pasarse de listos!
+P|Bien dice el proverbio: Sólo su mala fortuna lleva al necio al altar ó á la horca.
+P|¿Dónde está mi señora?
+P|Aquí.
+P|Se apea á vuestra puerta un joven veneciano, anunciando á su señor, que viene á ofreceros sus respetos y joyas de gran valía. El mensajero parece serlo del amor mismo. Nunca amaneció en primavera, anunciadora del ardiente estío, tan risueña mañana como el rostro de este nuncio.
+P|Silencio. ¡Por Dios! tanto me lo encareces, que recelo si acabarás por decirme que es pariente tuyo. Vamos, Nerissa: quiero ver á tan gallardo mensajero.
+P|Su señor es Basanio, ó mucho me equivoco.
+H|Acto III
+S|Escena primera.
+S|Calle de Venecia.
+S|Salanio y Salarino.
+P|Qué se dice en Rialto?
+P|Corren nuevas de que una nave de Antonio, cargada de ricos géneros, ha naufragado en los estrechos de Goodwins, que son unos escollos de los más temibles, y donde han perecido muchas orgullosas embarcaciones. Esto es lo que sucede, si es que no miente la parlera fama, y se porta hoy como mujer de bien.
+P|¡Ojalá que por esta vez mienta como la comadre más embustera de cuantas comen pan! Pero la verdad es, sin andamos en rodeos ni ambages, que el pobre Antonio, el buen Antonio... ¡Oh si encontrara yo un adjetivo bastante digno de su bondad!
+P|Al asunto, al asunto.
+P|¿Al asunto dices? Pues el asunto es que ha perdido un barco.
+P|¡Quiera Dios que no sea más que uno!
+P|¡Ojalá! No sea que eche á perder el demonio mis oraciones, porque aquí viene en forma de judío. (Sale Sylock). ¿Cómo estás, Sylock? ¿Qué novedades cuentan los mercaderes?
+P|Vosotros lo sabéis. ¿Quién habia de saber mejor que vosotros la fuga de mi hija?
+P|Es verdad. Yo era amigo del sastre que hizo al pájaro las alas con que voló del nido.
+P|Y Sylock no ignoraba que el pájaro tenia ya plumas, y que es condición de las aves el echar á volar en cuanto las tienen.
+P|Por eso la condenarán.
+P|Es claro: si la juzga el demonio.
+P|¡Ser infiel á mi carne y sangre!
+P|Más diferencia hay de su carne á la tuya que del marfil al azabache, y de su sangre á la tuya que del vino del Rhin al vino tinto. Dinos: ¿sabes algo de la pérdida que ha tenido Antonio en el mar?
+P|¡Vaya otro negocio! ¡Un mal pagador, que no se atreve á comparecer en Rialto! ¡Un mendigo que hacia alarde de lujo, paseándose por la playa! A ver cómo responde de su fianza. Para eso me llamaba usurero. Que responda de su fianza. Decia que prestaba dinero por caridad cristiana. Que responda de su fianza.
+P|De seguro que si no cumple el contrato, no por eso te has de quedar con su carne. ¿Para qué te sirve?
+P|Me servirá de cebo en la caña de pescar. Me servirá para satisfacer mis odios. Me ha arruinado. Por él he perdido medio millón: él se ha reido de mis ganancias y de mis pérdidas: ha afrentado mi raza y linaje, ha dado calor á mis enemigos y ha desalentado á mis amigos. Y todo ¿por qué? Por que soy judío. ¿Y el judío no tiene ojos, no tiene manos ni órganos ni alma, ni sentidos ni pasiones? ¿No se alimenta de los mismos manjares, no recibe las mismas heridas, no padece las mismas enfermedades y se cura con iguales medicinas, no tiene calor en verano y frio en invierno, lo mismo que el cristiano? Si le pican ¿no sangra? ¿No se rie si le hacen cosquillas? ¿No se muere si le envenenan? Si le ofenden, ¿no trata de vengarse? Si en todo lo demas somos tan semejantes ¿por qué no hemos de parecernos en esto? Si un judío ofende á un cristiano ¿no se venga éste, á pesar de su cristiana caridad? Y si un cristiano á un judío, ¿qué enseña al judío la humildad cristiana? A vengarse. Yo os imitaré en todo lo malo, y para poco he de ser, si no supero á mis maestros.
+P|Señores: mi amo Antonio os espera en su casa, para hablaros de negocios importantes.
+P|Largo tiempo hace que le buscamos. (Sale Túbal).
+P|Hé aquí otro de su misma tribu: no se encontraria otro tercero que los igualase como no fuese el mismísimo demonio. (Vanse).
+P|Túbal, ¿qué noticias traes de Génova? ¿qué sabes de mi hija?
+P|Oí noticias de ella en muchas partes, pero nunca la ví.
+P|Nunca ha caido otra maldición igual sobre nuestra raza. Mira: se llevó un diamante que me habia costado dos mil ducados en la feria de Francfort. Dos mil ducados del diamante, y ademas muchas alhajas preciosas. Poco me importaria ver muerta á mi hija, como tuviera los diamantes en las orejas, y los ducados en el ataud. ¿Pero nada, nada has averiguado de ellos? ¡Maldito sea yo! ¡Y cuánto dinero he gastado en buscarla! ¡Tanto que se llevó el ladrón, y tanto cómo llevo gastado en su busca, y todavía no me he vengado! Cada dia me trae una nueva pérdida. Todo género de lástimas y miserias ha caido sobre mí.
+P|No eres tú el solo desgracido. Me contaron en Génova que también Antonio...
+P|¿Qué, qué? ¿le ha sucedido alguna desgracia?
+P|Se le ha perdido un barco que venia de Trípoli.
+P|¡Bendito sea Dios! ¿Pero eso es cierto?
+P|Me lo han contado algunos marineros escapados del naufragio.
+P|¡Gracias, amigo Túbal, gracias! ¡Qué felices nuevas! ¿Con qué en Génova, eh, en Génova?
+P|Dicen que tu hija ha gastado en Génova ochenta ducados en una noche.
+P|¡Qué daga me estás clavando en el corazon! ¡Pobre dinero mio! ¡En una noche sola ochenta ducados!
+P|Varios acreedores de Antonio, con quienes vengo desde Génova, tienen por inevitable su quiebra.
+P|¡Oh! qué felicidad! Le atormentaré. Me he de vengar con creces.
+P|Uno de esos acreedores me mostró una sortija, con que tu hija le habia pagado un mono que compró.
+P|¡Cállate, maldecido! ¿Quieres martirizarme? Es mi turquesa. Me la regaló Lia, cuando yo era soltero. No la hubiera yo cedido por todo un desierto henchido de monos.
+P|Pero no tiene duda que Antonio está completamente arruinado.
+P|Eso me consuela. Eso tiene que ser verdad. Túbal, avísame un alguacil para dentro de quince dias. Si no paga la fianza, le sacaré las entrañas; si no fuera por él, haria yo en Venecia cuantos negocios quisiera. Túbal, nos veremos en la sinagoga. Adios, querido Túbal.
+S|Escena II.
+S|Quinta de Pórcia.
+S|Basanio, Pórcia, Graciano, Nerissa y criados.
+P|Os ruego que no os deis prisa. Esperad siquiera un dia ó dos, porque si no acertais en la eleccion, os pierdo para siempre. Hay en mi alma algo que me dice (no sé si será amor) que seria para mí un dolor que os fueseis. Odio ya veis que no puede ser. Si no os parecen bastante claras mis palabras (porque una doncella sólo puede hablar de estas cosas con el pensamiento) os suplicaria que permanecieseis aquí uno ó dos meses. Con esto tendré bastante tiempo para enseñaros el modo de no errar. Pero ¡ay! no puedo, porque seria faltar á mi juramento, y no he de ser perjura aunque os pierda. Si errais, hareis que me lamente mucho de haber faltado á mi juramento. ¡Ojalá nunca hubiera yo visto vuestros ojos! Su fulgor me ha partido el alma: sólo la mitad es mia, la otra mitad vuestra... He querido decir mia, pero no es mia, vuestra es tambien, y toda yo os pertenezco. Este siglo infeliz en que vivimos pone obstáculos entre el poseedor y su derecho. Por eso, y á la vez, soy vuestra y no lo soy. El hado tiene la culpa, y él es quien debe pagarla é ir al infierno, yo no. Hablo demasiado, pero es por entretener el tiempo, y detenerle, y con él vuestra eleccion.
+P|Permitid que la suerte decida. Estoy como en el tormento.
+P|¿Basanio en el tormento? pues qué, ¿hay algún engaño en vuestro amor?
+P|Hay un recelo, que me presenta como imposible mi felicidad. Antes harán alianza el fuego y el hielo, que mi amor y la traicion.
+P|Me temo que esteis hablando desde el tormento, donde el hombre, bien contra su voluntad, confiesa lo cierto.
+P|Pórcia, mi vida consiste en vos. Dádmela, y os diré toda la verdad.
+P|Decídmela y vivireis.
+P|Mejor hubierais dicho: «decídmela y amad,» y con esto seria inútil mi confesion, ya que mi único crímen es amar, delicioso tormento en que sólo el verdugo puede salvar al reo. Vamos á las cajas, y que la suerte nos favorezca.
+P|A las cajas, pues. En una de ellas está mi efigie. Si me amais, la encontrareis de seguro. Atrás, Nerissa: atrás, todos vosotros, y mientras elige, resuene la música. Si se equivoca, morirá entre armonías como el cisne, y para que sea mayor la exactitud de la comparacion, mis ojos le darán sepulcro en las nativas ondas. Si vence (y no es imposible), oirá el son agudo de las trompetas, semejante al que saluda al rey que acaba de ser ungido y coronado, ó á las alegres voces que, al despuntar la aurora, penetran en los oidos del extasiado novio. Vedle acercarse con más amor y más vigorosos alientos que Hércules, cuando fué á salvar á Troya del nefando tributo de la doncella que tenia que entregar á la voracidad del monstruo marino, en luctuoso dia. Yo soy la víctima. Vosotros sois como las matronas dárdanas que con llorosos ojos han salido de Troya á contemplar el sacrificio. Adelante, noble Alcides: sal vencedor de la contienda. En tu vida está la mia. Todavía tengo yo más interés en el combate, que tú que vas á pelear, dando celos al mismo Áres. (Miéntras Basanio elige, canta la música: «¿Dónde nace el amor, en los ojos ó en el alma? ¿Quién le dá fuerzas para quitarnos el sosiego? Decídnoslo, decidnoslo.—El amor nace en los ojos, se alimenta de miradas, y muere por desvíos en la misma cuna donde nace. Cantemos dulces himnos en alabanza del amor. ¡Viva el amor, viva el amor!» Dramas de Guillermo Shakespeare pg 51
+S|La eleccion entre las tres cajas.
+P|Muchas veces engañan las apariencias. ¿Ha habido causa tan mala que un elocuente abogado no pudiera hacer probable, buscando disculpas para el crímen más horrendo? ¿Hay alguna herejía religiosa que no tenga sectarios, y que no pueda cubrirse con citas de la Escritura ó con flores retóricas que disimulen su fealdad? ¿Hay vicio que no pueda disfrazarse con la máscara de la virtud? ¿No habeis visto muchos cobardes, tan falsos y movedizos como piedra sobre arena, y que por fuera muestran la belicosa faz de Hércules y las híspidas barbas de Marte, y por de dentro tienen los hígados tan blancos como la leche? Fingen valor, para hacerse temer. Medid la hermosura: se compra al peso, y son más ligeras las que se atavian con los más preciados arreos de la belleza. ¡Cuántas veces los áureos rizos, enroscados como sierpes al rededor de una dudosa belleza, son prenda de otra hermosura que yace en olvidado sepulcro! Los adornos son como la playa de un mar proceloso: como el velo de seda que oculta el rostro de una hermosura india: como la verdad, cuya máscara toma la fraude para engañar á los más prudentes. Por eso desdeño los fulgores del oro, alimento y perdicion del avaro Midas, y también el pálido brillo de la mercenaria plata. Tu quebrado color, oh plomo que pasas por vil y anuncias más desdichas que felicicidad, me atrae más que todo eso. Por tí me decido. ¡Quiera Dios cumplir mi amoroso deseo!
+P|(Aparte.) Como el viento disipa las nubes, así huyen de mi alma todos los recelos, tristezas y desconfianzas. Cálmate, amor; ten sosiego: templa los ímpetus del alma, y dáme el gozo con tasa, porque si no, el corazon estallará de alegría.
+P|(Abre la caja de plomo.) ¿Qué veo? El mismo rostro de la hermosa Pórcia? ¿Qué pincel sobrehumano pudo acercarse tanto á la realidad? ¿Pestañean estos ojos, ó es que los mueve el reflejo de los mios? Exhalan sus labios un aliento más dulce que la miel. De sus cabellos ha tejido el pintor una tela de araña para enredar corazones. ¡Ay de las moscas que caigan en ellos! ¿Pero cómo habrá podido retratar sus ojos, sin cegar? ¿Cómo pudo acabar el uno sin que sus rayos le cegaran de tal modo que dejase sin acabar el otro? Toda alabanza es poca, y seria afrentar al retrato tanto como el retrato al original. Veamos lo que dice la letra, cifra breve de mi fortuna. (Lee.) «Tú á quien no engañan las apariencias, consigues la rara fortuna de acertar. Ya que tal suerte tuviste, no busques otra mejor. Si te parece bien la que te ha dado la fortuna, vuélvete hacia ella, y con un beso de amor tómala por tuya, siguiendo los impulsos de tu alma.» ¡Hermosa leyenda! Señora, perdon. Es necesario cumplir lo que este papel ordena. A la manera que el gladiador, cuando los aplausos ensordecen el anfiteatro, duda si es á él á quien se dirigen, y vuelve la vista en torno suyo; así yo, bella Pórcia, dudo si es verdad lo que miro, y antes de entregarme al gozo, necesito que lo confirmen vuestros labios.
+P|Basanio, tal cual me veis, vuestra soy. No deseó para mí suerte mayor, pero en obsequio vuestro quisiera ser veinte veces más hermosa de lo que soy, y diez mil veces más rica. Yo quisiera exceder á todas en virtud, en belleza, en bienes de fortuna y en amigos, para que me amaseis mucho más. Pero valgo muy poco; soy una niña ignorante y sin experiencia; sólo tengo una cosa buena, y es que todavía no soy vieja para aprender; y otra aún mejor, que no fué tan mala mi educacion primera que no pueda aprender. Y áun tengo otra felicidad mejor, y es la de tener un corazon tan rendido que se humilla á vos como el siervo á su señor y monarca. Mi persona, y la hacienda que fué mia, son desde hoy vuestras. Hace un momento era yo señora de esta quinta y de estos criados, y de mí misma, pero desde ahora yo y mi quinta y mis criados os pertenecemos. Todo os lo doy con este anillo. Si algún dia le destruís ó perdeis, será indicio de que habeis perdido mi amor, y podré reprenderos por tan grave falta.
+P|Señora, me habeis quitado el habla. Sólo os grita mi sangre alborotada en las venas. Tal trastorno habeis producido en mis sentidos, como el tumulto que estalla en una muchedumbre cuando oye el discurso de un príncipe adorado. Mil palabras incoherentes se confunden con gritos que no tienen sentido alguno, pero que expresan un júbilo sincero. Cuando huya de mis dedos ese anillo, irá con él mi vida, y podreis decir que ha muerto Basanio.
+P|Á nosotros, mudos espectadores de tal drama, sólo nos toca daros el parabien. Sed dichosos, amos y señores mios.
+P|Basanio, señor mio; y tú, hermosa dama, disfrutad cuanta ventura deseo para vosotros, ya que no ha de ser á mi costa. Y cuando os prepareis á cerrar solemnemente el contrato, dadme licencia para hacer lo mismo.
+P|Con mucho gusto, si encuentras mujer.
+P|Mil gracias, Basanio. Á tí lo debo. Mis ojos son tan avizores como los tuyos. Tú los pusiste en la señora; yo en la criada: tú amaste; yo tambien. Tu amor no consiente dilaciones; tampoco el mio. Tu suerte dependia de la buena eleccion de las cajas; tambien la mia. Yo ardiendo en amores perseguí á esta esquiva hermosura con tantas y tantas promesas y juramentos, que casi tengo seca la boca de repetirlos. Pero al fin (si las palabras de tal hermosura valen algo), me prometió concederme su amor, si tú acertabas á conquistar el de su señora.
+P|¿Es verdad, Nerissa?
+P|Verdad es, señora, si no lo llevais á mal.
+P|¿Lo dices de verás, Graciano?
+P|De véras, señor.
+P|Vuestro casamiento aumentará los regocijos del nuestro.
+P|¡Pero quién viene! ¿Lorenzo y la judía? ¿y con ellos mi amigo, el veneciano Salerio?
+S|(Salen Lorenzo, Jéssica y Salerio.)
+P|Con bien vengais á esta quinta, Lorenzo y Salerio, si es que mi recien nacida felicidad me autoriza para saludaros en este lugar. ¿Me lo permites, bellísima Pórcia?
+P|Y lo repito: bien venidos sean.
+P|Gracias por tanto favor. Mi intencion no era visitarte, pero Salerio, á quien encontré en el camino, se empeñó tanto, que al cabo consentí en acompañarle.
+P|Lo hice, es verdad, pero no sin razon, porque te traigo un recado del señor Antonio. (Le da una carta.)
+P|Antes de abrir esta carta, dime cómo se encuentra mi buen amigo.
+P|No está enfermo mas que del alma; por su carta verás lo que padece.
+P|Querido Salerio, dame la mano. ¿Qué noticias traes de Venecia? ¿Qué hace el honrado mercader Antonio? ¡Cómo se alegrará al saber nuestra dicha! Somos los Jasones que han encontrado el vellocino de oro.
+P|¡Ojalá hubierais encontrado el áureo vellocino, que él perdió en hora aciaga!
+P|Malas nuevas debe traer la carta. Huye el color de las mejillas de Basanio. Sin duda acaba de saber la muerte de un amigo muy querido, porque ninguna otra mala noticia podria abatir un ánimo tan constante; malo, malo. Perdóname, Basanio, pero soy la mitad de tu alma, y justo es que me pertenezan la mitad de las desgracias que anuncia ese pliego.
+P|¡Amada Pórcia! Leo en esta carta algunas de las frases más tristes que se han escrito nunca sobre el papel. ¡Pórcia hermosísima, cuando por primera vez te confesé mi amor, no tuve reparo en decirte que yo no tenia otra hacienda que la sangre de mis venas, pero que era noble y bien nacido, y te dije la verdad. Pero así y todo hubo jactancia en mis palabras, al decirte que mis bienes eran ningunos. Para ser enteramente veraz, debí añadir que mi fortuna era ménos que nada, porque la verdad es que empeñé mi palabra á mi mejor amigo, dejándole expuesto á la venganza del enemigo más cruel, implacable y sin entrañas: todo para procurarme dineros. Esta carta me parece el cuerpo de mi amigo: cada línea es á modo de una herida, que arroja la sangre á borbotones. Pero ¿es cierto, Salerio? ¿Todo, todo lo ha perdido? ¿Todos sus negocios le han salido mal? ¿Ni en Trípoli, ni en Méjico, ni en Lisboa, ni en Inglaterra, ni en la India, ni en Berberia, escapó ningun barco suyo de esos escollos tan fatales al marino?
+P|Ni uno. Y aunque á Antonio le quedara algun dinero para pagar al judío, de seguro que este no le recibiria. No parece sér humano: nunca he visto á nadie tan ansioso de destruir y aniquilar á su prójimo. Dia y noche pide justicia al Dux, amenazando, si no se le hace justicia, con invocar las libertades del Estado. En vano han querido persuadirle los mercaderes mas ricos, y el mismo Dux y los patricios. Todo en balde. Él persiste en su demanda, y reclama confiscacion, justicia y el cumplimiento de su engañoso trato.
+P|Cuando vivia yo con él, muchas veces le ví jurar á sus amigos Túbal y Chus que preferia la carne de Antonio á veinte veces el valor de la suma que le debia, y si las leyes y el gobierno de Venecia no protegen al infeliz Antonio, mala será su suerte.
+P|¿Y en vuestro amigo recaen todas esas calamidades?
+P|En mi amigo, el mejor y más fiel, el de alma más honrada que hay en toda Italia. En su pecho arde la llama del honor de la antigua Roma.
+P|¿Qué es lo que debe al judio?
+P|Tres mil ducados que me prestó.
+P|¿No más que tres mil? Dale seis mil, duplica, triplica la suma, ántes que consentir que tan buen amigo pierda por tí ni un cabello. Vamos al altar, despidámonos, y luego corre á Venecia á buscar á tu amigo; no vuelvas al lado de Pórcia hasta dejarle en salvo. Llevarás lo bastante para pagar diez veces más de lo que debe al hebreo. Págalo, y vuelve enseguida con tu fiel amigo. Mi doncella Nerissa y yó viviremos entretanto como viudas y como doncellas. Es necesario que partas el dia mismo de nuestras bodas. Piensa en nuestros comensales; no arrugues el ceño, muestra la faz alegre. Ya que tan caro te he comprado, reflexiona cuánto he de amarte. Pero léeme ántes la carta.
+P|«Querido Basanio: mis barcos naufragaron: me acosan mis acreedores; he perdido toda mi hacienda; ha vencido el plazo de mi escritura con el judío, y claro es que si se cumple la cláusula del contrato, tengo forzosamente que morir. Toda deuda entre nosotros queda liquidada, con tal que vengas á verme en la hora de mi muerte. Sin embargo, haz lo que quieras; si nuestra amistad no te obliga á venir, tampoco te hará fuerza esta carta.»
+P|Amor mio, véte en seguida.
+P|Volaré, si me lo permites. Entretanto que vuelvo, el reposo y la soledad de mi lecho serán continuos estímulos para que yo vuelva.
+S|Escena III.
+S|Calle en Venecia. Sylock, Salanio, Antonio y el Carcelero.
+P|Carcelero, no apartes la vista de él. No me digas que tenga compasion..... Éste es aquel insensato que prestaba su dinero sin interes. No le pierdas de vista, carcelero.
+P|Oye, amigo Sylock.
+P|Pido que se cumplan las condiciones de la escritura. He jurado no ceder ni un ápice de mi derecho. En nada te habia ofendido yo cuando ya me llamabas perro. Si lo soy, yo te enseñaré los dientes. No tienes escape. El Dux me hará justicia. No sé, perverso alcaide, por qué has consentido con tanto gusto en sacarle de la prision.
+P|Óyeme: te lo suplico.
+P|No quiero oirte. Cúmpleme el contrato. No quiero oirte. No te empeñes en hablar más. No soy un hombre de buenas entrañas, de los que dan cabida á la compasion, y se rinden al ruego de los cristianos. No volvais á importunarme. Pido que se cumpla el contrato.
+S|(Vase.)
+P|Es el perro más abominable de los que deshonran el género humano.
+P|Déjale. Nada de ruegos inútiles. Quiere mi vida y no atino por qué. Más de una vez he salvado de sus garras á muchos infelices que acudieron á mí, y por eso me aborrece.
+P|No creo que el Dux consienta jamas en que se cumpla semejante contrato.
+P|El Dux tiene que cumplir la ley, porque el crédito de la República perderia mucho si no se respetasen los derechos del extranjero. Toda la riqueza, prosperidad y esplendor de esta ciudad depende de su comercio con los extranjeros. Ea, vamos. Tan agobiado estoy de pesadumbres, que dudo mucho que mañana tenga una libra de carne en mi cuerpo, con que hartar la sed de sangre de ese bárbaro. Adios, buen carcelero. ¡Quiera Dios que Basanio vuelva á verme y pague su deuda! Entonces moriré tranquilo.
+S|Escena IV.
+S|Quinta de Pórcia en Belmeote. Pórcia, Nerissa, Lorenzo, Jéssica y Baltasar.
+P|Señora (no tengo reparo en decirlo delante de vos), alta idea teneis formada de la santa amistad, y buena prueba de ello es la resignacion con que tolerais la ausencia de vuestro marido. Pero si supierais á quién favoreceis de este modo, y cuán buen amigo es del señor Basanio, más os enorgulleceriais de vuestra obra que de la natural cualidad de obrar bien, de que tantas muestras habeis dado.
+P|Nunca me arrepentí de hacer el bien, ni ha de pesarme ahora. Entre amigos que pasan y gastan juntos largas horas, unidos sus corazones por el vínculo sagrado de la amistad, ha de haber gran semejanza de índole, afectos y costumbres. De aquí infiero que siendo Antonio el mejor amigo del esposo á quien adoro, ha de parecerse á él necesariamente. Y si es así, ¡qué poco me habrá costado librar del más duro tormento al fiel espejo del amor mio! Pero no quiero decir más, porque esto parece alabanza propia. Hablemos de otra cosa. En tus manos pongo, honrado Lorenzo, la dirección y gobierno de esta casa hasta que vuelva mi marido. Yo sólo puedo pensar en cumplir un voto que hice secretamente, de estar en oración, sin más compañía que la de Nerissa, hasta que su amante y el mio vuelvan. A dos leguas de aquí hay un convento, donde podremos encerrarnos. No rehuseis el encargo y el peso que hoy me obligan á echar sobre vuestros hombros mi confianza y la situación en que me encuentro.
+P|Lo acepto con toda voluntad, señora, y cumpliré todo lo que me ordeneis.
+P|Ya saben mi intencion los criados. Vos y Jéssica sereis para ellos como Basanio y yo. Quedad con Dios. Hasta la vuelta.
+P|¡Ojalá logreis todas las dichas que mi alma os desea!
+P|Mucho os agradezco la buena voluntad, y os deseo igual fortuna. Adios, Jéssica. (Vanse Jéssica y Lorenzo). Oye, Baltasar. Siempre te he encontrado fiel. Tambien lo has de ser hoy. Lleva esta carta á Pádua, con toda la rapidez que cabe en lo humano, y dásela en propia mano á mi amigo el Dr. Belario. Él te entregará dos trajes y algunos papeles: llévalos á la barca que hace la travesía entre Venecia y la costa cercana. No te detengas en palabras. Corre. Estaré en Venecia antes que tú.
+P|Corro á obedecerte, señora.
+P|(Vase).
+P|Oye, Nerissa: tengo un plan, que todavía no te he comunicado. Vamos á sorprender á tu esposo y al mio.
+P|¿Sin que nos vean?
+P|Nos verán, pero en tal arreo que nos han de atribuir cualidades de que carecemos. Apuesto lo que querais á que cuando estemos vestidas de hombre, yo he de parecer el mejor mozo, y el de más desgarro, y he de llevar la daga mejor que tú. Hablaré recio, como los niños que quieren ser hombres y tratan de pendencias cuando todavía no les apunta el bozo. Inventaré mil peregrinas historias de ilustres damas que me ofrecieron su amor, y á quienes desdeñé, por lo cual cayeron enfermas y murieron de pesar.—¿Qué hacer entonces?—Sentir en medio de mis conquistas cierta lástima de haberlas matado con mís desvíos. Y por este órden ensartaré cien mil desatinos, y pensarán los hombres que hace un año he salido del colegio y revuelvo en el magin cien mil fanfarronadas, que quisiera ejecutar.
+P|Pero, señora, ¿tenemos qué disfrazarnos de hombres?
+P|¿Y lo preguntas? Ven, ya nos espera el coche á la puerta del jardin. Allí te lo explicaré todo. Anda deprisa, que tenemos que correr seis leguas.
+S|Escena V.
+S|Jardin de Pórcia en Belmonte. Lanzarote y Jéssica.
+P|Si, porque habeis de saber que Dios castiga en los hijos las culpas de los padres: por eso os tengo lástima. Siempre os dije la verdad, y no he de callarla ahora. Tened paciencia, porque á la verdad, creo que os vais á condenar. Sólo os queda una esperanza, y esa á medias.
+P|¿Y qué esperanza es esa?
+P|La de que quizas no sea tu padre el judío.
+P|Esa sí que seria una esperanza bastarda. En tal caso pagaria yo los pecados de mi madre.
+P|Dices bien: témome que pagues los de tu padre y los de tu madre. Por eso huyendo de la Scyla de tu padre, doy en la Caríbdis de tu madre, y por uno y otro lado estoy perdido.
+P|Me salvaré por el lado de mi marido, que me cristianizó.
+P|Bien mal hecho. Hartos cristianos éramos para poder vivir en paz. Si continúa ese empeño de hacer cristianos á los judíos, subirá el precio de la carne de puerco y no tendremos ni una lonja de tocino para el puchero.
+S|(Sale Lorenzo.)
+P|Contaré á mi marido tus palabras, Lanzarote. Mírale, aquí viene.
+P|Voy á tener celos de tí, Lanzarote, si sigues hablando en secreto con mi mujer.
+P|Nada de eso, Lorenzo: no tienes motivo para encelarte, porque Lanzarote y yo hemos reñido. Me estaba diciendo que yo no tendria perdon de Dios, por ser hija de judío, y añade que tú no eres buen cristiano, porque, convirtiendo á los judíos, encareces el tocino.
+P|Más fácil me seria, Lanzarote, justificarme de eso, que tú de haber engruesado á la negra mora, que está embarazada por tí, Lanzarote.
+P|No me extraña que la mora esté más gorda de lo justo. Siempre será más mujer de bien de lo que yo creia.
+P|Todo el mundo juega con el equívoco, hasta los más tontos... Dentro de poco, los discretos tendrán que callarse, y sólo merecerá alabanza en los papagayos el don de la palabra. Adentro, pícaro: di á los criados que se dispongan para la comida.
+P|Ya están dispuestos, señor: cada cual tiene su estómago.
+P|¡Qué ganas de broma tienes! Diles que pongan la comida.
+P|Tambien está hecho. Pero mejor palabra seria «cubrir.»
+P|Pues que cubran.
+P|No lo haré, señor: sé lo que debo.
+P|Basta de juegos de palabras. No agotes de una vez el manantial de tus gracias. Entiéndeme, ya que te hablo con claridad. Di á tus compañeros que cubran la mesa y sirvan la comida, que nosotros iremos á comer.
+P|Señor, la mesa se cubrirá, la comida se servirá, y vos ireis á comer ó no, segun mejor cuadre á vuestro apetito.
+S|(Vase.)
+P|¡Oh, qué de necedades ha dicho! Tiene hecha sin duda provision de gracias. Otros bufones conozco dé más alta ralea, que por decir un chiste, son capaces de alterar y olvidar la verdadera significacion de las cosas. ¿Qué piensas, amada Jéssica? Dime con verdad: ¿Te parece bien la mujer de Basanio?
+P|Más de lo que puedo darte á entender con palabras. Muy buena vida debe hacer Basanio, porque tal mujer es la bendicion de Dios y la felicidad del paraíso en la tierra, y si no la estima en la tierra, no merecerá gozarla en el cielo. Si hubiera contienda entre dos divinidades, y la una trajese por apuesta una mujer como Pórcia, no encontraría el otro dios ninguna otra que oponerla en este bajo mundo.
+P|Tan buen marido soy yo para tí, como ella es buena mujer.
+P|Pregúntamelo á mí.
+P|Vamos primero á comer.
+P|No: déjame alabarte, mientras yo quiera.
+P|No: déjalo: vamos á comer: á los postres dirás lo que quieras, y así digeriré mejor.
+S|(Vanse.)
+H|Acto IV
+S|Escena primera.
+S|Tribunal en Venecia. Dux, Senadores, Antonio, Basanio, Graciano, Salarino y Salanio.
+P|Y Antonio?
+P|Á vuestras órdenes, Alteza.
+P|Te tengo lástima, porque vienes á responder á la demanda de un enemigo cruel y sin entrañas, en cuyo pecho nunca halló lugar la compasion ni el amor, y cuya alma no encierra ni un grano de piedad.
+P|Ya sé que V. A. ha puesto empeño en calmar su feroz encono, pero sé tambien que permanece inflexible, y que no me queda, segun las leyes, recurso alguno para salvarme de sus iras. A ellas sólo puedo oponer la paciencia y la serenidad. Mi alma tranquila y resignada soportará todas las durezas y ferocidades de la suya.
+P|Decid que venga el judío ante el tribunal.
+P|Ya viene, señor. Está fuera, esperando vuestras órdenes.
+S|(Entra Sylock.)
+P|¡Haceos atras! ¡Que se presente Sylock! Cree el mundo, y yo con él, que quieres apurar tu crueldad hasta las heces, y luego cuando la sentencia se pronuncie, haces alarde de piedad y mansedumbre, todavía más odiosas que tu crueldad primera. Cree la gente que en vez de pedir el cumplimiento del contrato que te concede una libra de carne de este desdichado mercader, desistirás de tu demanda, te moverás á lástima, le perdonarás la mitad de la deuda, considerando las grandes pérdidas que ha tenido en poco tiempo, y que bastarian á arruinar al más opulento mercader monarca, y á conmover entrañas de bronce y corazones de pedernal, aunque fuesen de turcos ó tártaros selváticos, ajenos de toda delicadeza y buen comedimiento. Todos esperamos de tí una cortes respuesta.
+P|Vuestra Alteza sabe mi intencion, y he jurado por el sábado lograr cumplida venganza. Si me la negais, ¡vergüenza eterna para las leyes y libertades venecianas! Me direis que ¿por qué estimo más una libra de carne de este hombre que tres mil ducados? Porque así se me antoja. ¿Os place esta contestacion? Si en mi casa hubiera un raton importuno, y yo me empeñara en pagar diez mil ducados por matarle, ¿lo llevariais á mal? Hay hombres que no pueden ver en su mesa un lechon asado, otros que no resisten la vista de un gato, animal tan útil é inofensivo, y algunos que orinan, en oyendo el son de una gaita. Efectos de la antipatía que todo lo gobierna. Y así como ninguna de estas cosas tiene razon de ser, yo tampoco la puedo dar para seguir este pleito odioso, á no ser el odio que me inspira hasta el nombre de Antonio. ¿Os place esta respuesta?
+P|No basta, cruel hebreo, para disculpar tu fiereza increible.
+P|Ni yo pretendo darte gusto.
+P|¿Y mata siempre el hombre á los séres que aborrece?
+P|¿Y quién no procura destruir lo que él odia?
+P|No todo agravio provoca á tanta indignacion desde luego.
+P|¿Consentirás que la serpiente te muerda dos veces?
+P|Mira que estás hablando con un judío. Más fácil te fuera arengar á las olas de la playa cuando más furiosas están, y conseguir que se calmen; ó preguntar al lobo por qué devora á la oveja, y deja huérfano al cordero; ó mandar callar á los robles de la selva, y conseguir que el viento no agite sus verdes ramas: en suma, mejor conseguirias cualquier imposible, que ablandar el durísimo corazon de ese hebreo. No le ruegues más, no le importunes: haz que la ley se cumpla pronto, á su voluntad.
+P|En vez de los tres mil ducados toma seis.
+P|Aunque dividieras cada uno de ellos en seis, no lo aceptaria. Quiero que se cumpla el trato.
+P|¿Y quién ha de tener compasion de tí, si no la tienes de nadie?
+P|¿Y qué he de temer, si á nadie hago daño? Tantos esclavos teneis, que pueden serviros como mulos, perros ó asnos en los oficios más viles y groseros. Vuestros son; vuestro dinero os han costado. Si yo os dijera: dejadlos en libertad, casadlos con vuestras hijas, no les hagais sudar bajo la carga, dadles camas tan nuevas como las vuestras y tan delicados manjares como los que vosotros comeis, ¿no me responderiais: « son nuestros?» Pues lo mismo os respondo yo. Esa libra de carne que pido es mia, y buen dinero me ha costado. Si no me la dais, maldigo de las leyes de Venecia, y pido justicia. ¿Me la dais? ¿sí ó no?
+P|Usando de la autoridad que tengo, podria suspender el consejo, si no esperase al Dr. Belario, famoso jurisconsulto de Pisa, á quien deseo oir en este negocio.
+P|Señor: fuera aguarda un criado que acaba de llegar de Pádua con cartas del doctor.
+P|Entregádmelas, y que pase el criado.
+P|¡Valor, Antonio! Te juro por mi nombre, que he de dar al judío toda mi carne, y mi sangre, y mis huesos, antes que consentir que vierta una sola gota de la sangre tuya.
+P|Soy como la res apartada en medio de un rebaño sano. La fruta podrida es siempre la primera que cae del árbol. Dejadla caer: tú, Basanio, sigue viviendo, y con eso pondrás un epitafio sobre mi sepulcro.
+S|(Sale Nerissa, disfrazada de pasante de procurador.)
+P|¿Vienes de Pádua? ¿Traes algun recado del Dr. Belario?
+P|Vengo de Pádua, señor. Belario os saluda.
+S|(Le entrega la carta.)
+P|Sylock, ¿por qué afilas tanto tu cuchillo?
+P|Para cortar á Antonio la carne que me debe.
+P|Ningun metal, ni áun el hierro de la segur del verdugo, te iguala en dureza, maldecido hebreo. ¿No habrá medio de amansarte?
+P|No, por cierto, aunque mucho aguces tu entendimiento.
+P|¡Maldicion sobre tí, infame perro! ¡Maldita sea la justicia que te deja vivir! Cuando te veo, casi doy asenso á la doctrina pitagórica que enseña la transmi-gración de las almas de los brutos á los hombres. Sin duda tu alma ha sido de algun lobo, inmolado por homicida, y que desde la horca fué volando á meterse en tu cuerpo, cuando aún estabas en las entrañas de tu infiel madre: porque tus instintos son rapaces, crueles y sanguinarios como los del lobo.
+P|Como no logres quitar el sello del contrato, nada conseguirás con tus destempladas voces sino ponerte ronco. Graciano, modera tus ímpetus y no pierdas la razon. Yo sólo pido justicia.
+P|Belario en esta carta recomienda al Consejo un jóven bachiller, buen letrado. ¿Dónde está?
+P|Muy cerca de aquí, aguardando vuestra licencia para entrar.
+P|Y se la doy de todo corazon. Vayan dos ó tres á recibirle de la manera más respetuosa. Entre tanto, leamos de nuevo la carta de Belario: «Alteza: cuando recibí vuestra carta me hallaba gravemente enfermo, pero dió la casualidad de que, en el momento de llegar el mensajero, estaba conmigo un jóven doctor de Pádua llamado Baltasar. Le conté el pleito entre Antonio y el judío: repasamos pronto muchos libros: le dije mi parecer, que es el que os expondrá, rectificado por su inmenso saber, para el cual no hay elogio bastante. Él hará lo que deseais. No os fijeis en lo mozo que es, ni creais que por eso vale menos, pues nunca hubo en cuerpo tan juvenil tan maduro entendimiento. Recibidle, pues, y más que mi recomendacion, han de favorecerle sus propias acciones.» Esto es lo que Belario dice. Aquí viene el Doctor, si no me equivoco. (Sale Pórcia, de abogado.) Dadme la mano, ¿Venis por encargo de Belario?
+P|Sí, poderoso señor.
+P|Bien venido seais. Tomad asiento. ¿Estais enterado de la cuestion que ha de sentenciar el tribunal?
+P|Perfectamente enterado. ¿Quiénes son el mercader y el judío?
+P|Antonio y Sylock: acercaos.
+P|¿Sois vos Sylock?
+P|Ese es mi nombre.
+P|Raro litigio teneis: extraña es vuestra demanda, y no se os puede negar, conforme á las leyes de Venecia. Corre mucho peligro vuestra víctima. ¿No es verdad?
+P|Verdad es.
+P|¿Confesais haber hecho ese trato?
+P|Lo confieso.
+P|Entonces es necesario que el judío se compadezca de vos.
+P|¿Y por qué? ¿Qué obligacion tengo? Decídmelo.
+P|La clemencia no quiere fuerza: es como la plácida lluvia del cielo que cae sobre un campo y le fecunda: dos veces bendita porque consuela al que la da y al que la recibe. Ejerce su mayor poder entre los grandes: el signo de su autoridad en la tierra es el cetro, rayo de los monarcas. Pero aún vence al cetro la clemencia, que vive, como en su trono, en el alma de los reyes. La clemencia es atributo divino, y el poder humano se acerca al de Dios, cuando modera con la piedad la justicia. Hebreo, ya que pides no más que justicia, piensa que si sólo justicia hubiera, no se salvaria ninguno de nosotros. Todos los dias, en la oracion, pedimos clemencia, pero la misma oracion nos enseña á perdonar como deseamos que nos perdonen. Te digo esto, sólo para moverte á compasion, porque como insistas en tu demanda, no habrá más remedio, con arreglo á las leyes de Venecia, que sentenciar el pleito en favor tuyo y contra Antonio.
+P|Yo cargo con la responsabilidad de mis actos. Pido que se ejecute la ley, y que se cumpla el contrato.
+P|¿No puede pagar en dinero?
+P|Yo le ofrezco en nombre suyo, y duplicaré la cantidad, y áun la pagaré diez veces, si es necesario, y daré en prenda las manos, la cabeza y hasta el corazon. Si esto no os parece bastante, será porque la malicia vence á la inocencia. Romped para este solo caso esa ley tan dura. Evitareis un gran mal con uno pequeño, y contendreis la ferocidad de ese tigre.
+P|Imposible. Ninguno puede alterar las leyes de Venecia. Seria un ejemplar funesto, una causa de ruina para el Estado. No puede ser.
+P|¡Es un Daniel quien nos juzga! ¡Sabio y jóven juez, bendito seas!
+P|Déjame examinar el contrato.
+P|Tómale, reverendísimo doctor.
+P|Sylock, te ofrecen tres veces el doble de esa cantidad.
+P|¡No! ¡no!: lo he jurado, y no quiero ser perjuro, aunque se empeñe toda Venecia.
+P|Ha espirado el plazo, y dentro de la ley puede el judío reclamar una libra de carne de su deudor. Ten piedad de él: recibe el triplo, y déjame romper el contrato.
+P|Cuando en todas sus partes esté cumplido. Pareces juez íntegro: conoces la ley: has expuesto bien el caso: sólo te pido que con arreglo á esa ley, de la cual eres fiel intérprete, sentencies pronto. Te juro que no hay poder humano que me haga dudar ni vacilar un punto. Pido que se cumpla la escritura.
+P|Pido al tribunal que sentencie.
+P|Bueno: preparad el pecho á recibir la herida.
+P|¡Oh sabio y excelente juez!.
+P|La ley no tiene duda ni admite excepcion en cuanto á la pena.
+P|¡Cierto, cierto! ¡Oh docto y severísimo juez! ¡Cuánto más viejo eres en jurisprudencia que en años!
+P|Apercibid el pecho, Antonio.
+P|Sí, sí, ese es el contrato. ¿No es verdad, sabio juez? ¿No dice que ha de ser cerca del corazon?
+P|Verdad es. ¿Teneis una balanza para pesar la carne?
+P|Aquí la tengo.
+P|Traed un cirujano que restañe las heridas, Sylock, porque corre peligro de desangrarse.
+P|¿Dice eso la escritura?
+P|No entra en el contrato, pero debeis hacerlo como obra de caridad.
+P|No lo veo aquí: la escritura no lo dice.
+P|¿Teneis algo que alegar, Antonio?
+P|Casi nada. Dispuesto estoy á todo y armado de valor. Dame la mano, Basanio. Adios, amigo. No te duelas de que he perecido por salvarte. La fortuna se ha mostrado conmigo más clemente de lo que acostumbra. Suele dejar que el infeliz sobreviva á la pérdida de su fortuna y contemplar con torvos ojos su desdicha y pobreza, pero á mí me ha libertado de esa miseria. Saluda en mi nombre á tu honrada mujer: cuéntale mi muerte: dile cuánto os quise: sé fiel á mi memoria; y cuando ella haya oido toda la historia, podrá juzgar y sentenciar si fuí ó no buen amigo de Basanio. No me quejo del pago de la deuda: pronto la habré satisfecho toda, si la mano del judío no tiembla.
+P|Antonio, quiero más á mi mujer que á mi vida, pero no te amo á tí menos que á mi mujer y á mi alma y á cuanto existe, y juro que lo daria todo por salvarte.
+P|No te habia de agradecer tu esposa tal juramento, si estuviera aquí.
+P|Ciertamente que adoro á mi esposa, ¡Ojalá que estuviese en el cielo para que intercediera con algun santo que calmase la ira de ese perro!
+P|Gracias que no te oye tu mujer, porque con tales deseos no podria haber paz en vuestra casa.
+P|¡Qué cónyuges! ¡Y son cristianos! Tengo una hija, y preferiria que se casase con ella un hijo de Barrabas antes que un cristiano. Pero estamos perdiendo el tiempo. No os detengais: prosiga la sentencia.
+P|Segun la ley y la decision del tribunal, te pertenece una libra de su carne.
+P|¡Oh juez doctísimo! ¿Has oido la sentencia, Antonio? Prepárate.
+P|Un momento no más. El contrato te otorga una libra de su carne, pero ni una gota de su sangre. Toma la carne que es lo que te pertenece; pero si derramas una gota de su sangre, tus bienes serán confiscados, conforme á la ley de Venecia.
+P|¿Lo has oido, Sylock?
+P|¡Oh juez recto y bueno! ¿Eso dice la ley?
+P|Tú mismo lo verás. Justicia pides, y la tendrás tan cumplida como deseas.
+P|¡Oh juez íntegro y sapientísimo!
+P|Me conformo con la oferta del triplo: poned en libertad al cristiano.
+P|Aquí está el dinero.
+P|¡Deteneos! Tendrá el hebreo completa justicia. Se cumplirá la escritura.
+P|¡Qué juez tan prudente y recto!
+P|Prepárate ya á cortar la carne, pero sin derramar la sangre, y ha de ser una libra, ni más ni menos. Si tomas más, aunque sea la vigésima parte de un adarme, ó inclinas, por poco que sea, la balanza, perderás la vida y la hacienda.
+P|¡Es un Daniel, es un Daniel! Al fin te hemos cogido.
+P|¿Qué esperas? Cúmplase la escritura.
+P|Me iré si me dais el dinero.
+P|Aquí está.
+P|Cuando estabas en el tribunal, no quisiste aceptarlo. Ahora tiene que cumplirse la escritura.
+P|¡Es otro Daniel, otro Daniel! Frase tuya felicísima, Sylock.
+P|¿No me dareis ni el capital?
+P|Te daremos lo que te otorga el contrato. Cóbralo, si te atreves, judío.
+P|¡Pues que se quede con todo, y el diablo le lleve! Adios.
+P|Espera, judío. Aun así te alcanzan las leyes. Si algun extraño atenta por medios directos ó indirectos contra la vida de un súbdito veneciano, éste tiene derecho á la mitad de los bienes del reo, y el Estado á la otra media. El Dux decidirá de su vida. Es así que tú directa é indirectamente has atentado contra la existencia de Antonio; luego la ley te coge de medio á medio. Póstrate á las plantas del Dux, y pídele perdon.
+P|Y suplícale que te conceda la merced de que te ahorques por tu mano; aunque estando confiscados tus bienes, no te habrá quedado con que comprar una cuerda, y tendrá que ahorcarte el pueblo á su costa.
+P|Te concedo la vida, Sylock, aun antes que me la pidas, para que veas cuánto nos diferenciamos de tí. En cuanto á tu hacienda, la mitad pertenece á Antonio y la otra mitad al Estado, pero quizá puedas condonarla mediante el pago de una multa.
+P|La parte del Estado, no la de Antonio.
+P|¿Y para qué quiero la vida? ¿cómo he de vivir? Me dejais la casa, quitándome los puntales que la sostienen.
+P|¿Qué puedes hacer por él, Antonio?
+P|Regálale una soga, y basta.
+P|Si el Dux y el tribunal le dispensan del pago de la mitad de su fortuna al Erario, yo le perdono la otra media, con dos condiciones; la primera, que abjure sus errores y se haga cristiano; la segunda, que por una escritura firmada en esta misma audiencia instituya herederos de todo á su hija y á su yerno Lorenzo.
+P|Juro que así lo hará, ó, si no, revocaré el poder que le he concedido.
+P|¿Aceptas, judío? ¿Estás satisfecho?
+P|Estoy satisfecho y acepto.
+P|Hágase, pues, la donacion en forma.
+P|Yo me voy, si me lo permitis, porque estoy enfermo. Enviadme el acta, y yo la firmaré.
+P|Véte, pero lo harás.
+P|Tendrás dos padrinos, cuando te bautices. Si yo fuera juez, habias de tener diez más, para que te llevasen á la horca y no al bautismo.
+S|(Se va Sylock.)
+P|(Á Porcia.) Os convido con mi mesa.
+P|Perdone V. A., pero hoy mismo tengo que ir á Pádua, y no me es lícito detenerme.
+P|¡Lástima que os detengais tan poco tiempo! Antonio, haz algun obsequio al forastero que, á mi entender, algo merece. (Vase el Dux, y con él los Senadores.)
+P|Digno y noble caballero, gracias á vuestra agudeza y buen entendimiento, nos vemos hoy libres mi amigo y yo de una calamidad gravísima. En pago de tal servicio, os ofrecemos los 3,000 ducados que debíamos al judío.
+P|Y será eterno nuestro agradecimiento en obras y en palabras.
+P|Bastante paga es para mí el haberos salvado. Nunca fué el interes norte de mis acciones. Si alguna vez nos encontramos, reconocedme: no os pido más. Adios.
+P|Yo no puedo menos de insistir, hidalgo. Admitid un presente, un recuerdo, no como paga. No rechaceis nuestras ofertas. Perdon.
+P|Necesario es que ceda. (Á Antonio.) Llevaré por memoria vuestros guantes. (Á Basanio.) Y en prenda de cariño vuestra sortija. No aparteis la mano: es un favor que no podeis negarme.
+P|¡Pero si esa sortija nada vale! Vergüenza tendria de dárosla.
+P|Por lo mismo la quiero, y nada más aceptaré. Tengo capricho de poseerla.
+P|Vale mucho más de lo que ha costado. Os daré otra sortija, la de más precio que haya en Venecia. Echaré público pregon para encontrarla. Pero ésta no puede ser... perdonadme.
+P|Sois largo en las promesas, caballero. Primero me enseñasteis á mendigar, y ahora me enseñais cómo se responde á un mendigo.
+P|Es regalo de mi mujer ese anillo, y le hice juramento y voto formal de no darlo, perderlo ni venderlo.
+P|Pretexto fútil, que sirve á muchos para negar lo que se les pide. Aunque vuestra mujer fuera loca, me parece imposible que eternamente le durara el enojo por un anillo, mucho más sabiendo la ocasion de este regalo. Adios.
+S|(Se van Pórcia y Nerissa.)
+P|Basanio, dale el anillo, que tanto como la promesa hecha á tu mujer valen mi amistad y el servicio que nos ha prestado.
+P|Corre, Graciano, alcánzale, dale esta sortija, y si puedes, llévale á casa de Antonio. No te detengas. (Vase Graciano.) Dirijámonos hácia tu casa, y mañana al amanecer volaremos á Belmonte. En marcha, Antonio.
+S|Escena II.
+S|Una calle de Venecia. Pórcia y Nerissa.
+P|Averigua la casa del judío, y hazle firmar en seguida esta acta. Esta noche nos vamos, y llegaremos así un día antes que nuestros maridos. ¡Cuánto me agradecerá Lorenzo la escritura que le llevo!
+P|Grande ha sido mi fortuna en alcanzaros. Al fin, después de haberlo pensado bien, mi amo el señor Basanio os manda esta sortija, y os convida á comer hoy.
+P|No es posible. Pero acepto con gusto la sortija. Decídselo así, y enseñad á este criado mio la casa de Sylock.
+P|Así lo haré.
+P|Señor, oídme un instante. (A Pórcia.) Quiero ver si mi esposo me da el anillo que juró conservar siempre.
+P|De seguro lo conseguirás. Luego nos harán mil juramentos de que á hombres y no á mujeres entregaron sus anillos, pero nosotras les desmentiremos, y si juran, juraremos más que ellos. No te detengas, te espero donde sabes.
+P|Ven, mancebo, enséñame la casa.
+H|Acto V
+S|Escena primera.
+S|Alameda que conduce á la casa de campo de Pórcia en Belmonte. Salen Lorenzo y Jéssica.
+P|Qué hermosa y despejada brilla la luna! Sin duda en una noche como esta en que el céfiro besaba mansamente las hojas de los árboles, escaló el amante Troílo las murallas de Troya, volando su alma hácia las tiendas griegas donde aquella noche reposaba Créssida.
+P|Y, en otra noche como esta, Tisbe, con temerosos pasos, fué marchando sobre la mojada yerba, y viendo la espantosa sombra del león, se quedó aterrada.
+P|Y en otra noche como esta, la reina Dido, armada su diestra con una vara de sauce, bajó á la ribera del mar, y llamó hacia Cartago al fugitivo Eneas.
+P|En otra noche así, fué cogiendo Medea las mágicas yerbas con que rejuveneció al viejo Eson.
+P|Y en otra noche por el mismo estilo, abandonó Jéssica la casa del rico judío de Venecia, y con su amante huyó á Belmonte.
+P|En aquella noche juró Lorenzo que la amaba con amor constante, y la engañó con mil falsos juramentos.
+P|En aquella noche, Jéssica, tan pérfida como hermosa, ofendió á su amante, y él le perdonó la ofensa.
+P|No me vencerías en esta contienda, si estuviéramos solos; pero viene gente. (Sale Esteban).
+P|¿Quién viene en el silencio de la noche?
+P|Un amigo.
+P|¿Quién? Decid vuestro nombre.
+P|Soy Esteban. Vengo á deciros que, antes que apunte el alba, llegará mi señora á Belmonte. Ha venido arrodillándose y haciendo oración al pié de cada cruz que hallaba en el camino, para que fuese feliz su vida conyugal.
+P|¿Quién viene con ella?
+P|Un venerable ermitaño y su doncella. Dime, ¿ha vuelto el amo?
+P|Todavía no, ni hay noticia suya. Vamos á casa, amiga, á hacer los preparativos para recibir al ama como ella merece. (Sale Lanzarote.)
+P|¡Hola, ea!
+P|¿Quién?
+P|¿Habéis visto á Lorenzo ó á la mujer de Lorenzo?
+P|No grites. Aquí estamos.
+P|¿Dónde?
+P|Aquí.
+P|Decidle que aquí viene un nuncio de su amo, cargado de buenas noticias. Mi amo llegará al amanecer.
+S|(Se va.)
+P|Vamos á casa, amada mia, á esperarlos. ¿Pero ya para qué es entrar? Estéban, te suplico que vayas á anunciar la venida del ama, y mandes á los músicos salir al jardín. (Se va Estéban.) ¡Qué mansamente resbalan los rayos de la luna sobre el césped! Recostémonos en él: prestemos atento oido á esa música suavísima, compañera de la soledad y del silencio. Siéntate, Jéssica: mira la bóveda celeste tachonada de astros de oro. Ni áun el más pequeño deja de imitar en su armonioso movimiento el canto de los ángeles, uniendo su voz al coro de los querubines. Tal es la armonía de los seres inmortales; pero mientras nuestro espíritu está preso en esta oscura cárcel, no la entiende ni percibe. (Salen los músicos.) Tañed las cuerdas, despertad á Diana con un himno, halagad los oidos de vuestra señora y conducidla á su casa entre música.
+P|Nunca me alegran los sones de la música.
+P|Es porque se conmueve tu alma. Mira en el campo una manada de alegres novillos ó de ardientes y cerriles potros: míralos correr, agitarse, mugir, relinchar. Pero en llegando á sus oidos son de clarín ó ecos de música, míralos inmóviles, mostrando dulzura en sus miradas, como rendidos y dominados por la armonía. Por eso dicen los poetas que el tracio Orfeo arrastraba en pos de sí árboles, ríos y fieras: porque nada hay tan duro, feroz y selvático que resista al poder de la música. El hombre que no siente ningún género de armonía, es capaz de todo engaño y alevosía, fraude y rapiña; los instintos de su alma son tan oscuros como la noche, tan lóbregos como el Tártaro. ¡Ay de quién se fie de él! Oye, Jéssica.
+S|(Salen Pórcia y Nerissa.)
+P|En mi sala hay luz. ¡Cuan lejos llegan sus rayos! Así es el resplandor de una obra buena en este perverso mundo.
+P|No hemos visto la luz, al brillar los rayos de la luna.
+P|Así oscurece á una gloria menor, otra más resplandeciente. Así brilla el ministro hasta que aparece el monarca, pero entonces desaparece su pompa, como se pierde en el mar un arroyo. ¿No oyes música?
+P|Debe de ser en tu puerta.
+P|Suena áun más agradable que de dia.
+P|Efecto del silencio, señora.
+P|El cantar del cuervo es tan dulce como el de la alondra, cuando no atendemos á ninguno de los dos, y de seguro que si el ruiseñor cantara de dia, cuando graznan los patos, nadie le tendría por tan buen cantor. ¡Cuánta perfeccion tienen las cosas hechas á tiempo! ¡Silencio! Duerme Diana en brazos de Endimion, y no tolera que nadie turbe su sueño. (Calla la música.)
+P|Es voz de Pórcia, ó me equivoco mucho.
+P|Me conoce como conoce el ciego al cuco: en la voz.
+P|Señora mia, bien venida seáis á esta casa.
+P|Hemos rezado mucho por la salud de nuestros maridos. Esperamos que logren buena fortuna gracias á nuestras oraciones. ¿Han vuelto?
+P|Todavía no, pero delante de ellos vino un criado á anunciar su venida.
+P|Nerissa, véte y di á los criados que no cuenten nada de nuestra ausencia. Vosotros haced lo mismo, por favor.
+P|¿No ois el son de una trompa de caza? Vuestro esposo se acerca. Fiad en nuestra discrecion, señora.
+P|Esta noche me parece un dia enfermo: está pálida: parece un dia anubarrado.
+S|(Salen Basanio, Antonio, Graciano y acompañamiento.)
+P|Si amanecierais vos, cuando él se ausenta, seria de dia aquí al mismo tiempo que en el hemisferio contrario.
+P|¡Dios nos ayude! ¡Bien venido seáis á esta casa, señor mio!
+P|Gracias, señora. Esa bienvenida dádsela á mi amigo. Este es aquel Antonio á quien tanto debo.
+P|Grande debe ser la deuda, pues si no he entendido mal, por vos se vió en gran peligro.
+P|Por grande que fuera, está bien pagada.
+P|Con bien vengais á nuestra casa. El agradecimiento se prueba con obras, no con palabras. Por eso no me detengo en discursos vanos.
+P|(A Nerissa.) Te juro por la luna, que no tienes razon y que me agravias. Ese anillo se lo dí á un pasante de letrado. ¡Muerto le viera yo, si hubiera sabido que tanto lo sentirías, amor mio!
+P|¿Qué cuestion es esa?
+P|Todo es por un anillo, un mal anillo de oro que ella me dió, con sus letras grabadas que decian: «Nunca olvides mi amor.»
+P|No se trata del valor del anillo, ni de la inscripcion, sino que cuando te lo dí, me juraste conservarlo hasta tu muerte y llevarlo contigo al sepulcro. Y ya que no fuera por amor mio, á lo menos por los juramentos y ponderaciones que hiciste, debias haberlo guardado como un tesoro. Dices que lo diste al pasante de un letrado. Bien sabe Dios que á ese pasante nunca le saldrán las barbas.
+P|Sí que le saldrán, si llega á ser hombre y á tenerlas. Con esta mano se le dí. Era un rapazuelo, sin bozo, tan bajo como tú, pasante de un abogado, grande hablador. Me pidió el anillo en pago de un favor que me habia hecho, y no supe negárselo.
+P|Pues hiciste muy mal (si he de decirte la verdad) en entregar tan pronto el primer regalo de tu esposa, que ella colocó en tu dedo con tantos juramentos y promesas. Yo dí otro anillo á mi esposo, y le hice jurar que nunca le perderia ni entregaria á nadie. Estoy segura que no lo hará ni por todo el oro del mundo. Graciano, mucha razón tiene tu mujer para estar enojada contigo. Yo me volveria loca.
+P|¿Qué podré hacer? ¿Cortarme la mano izquierda y decir que perdí el anillo defendiéndome?
+P|Pues también á mi amo Basanio le pidió su anillo el juez, y él se lo dió. Luego, el pasante, que nos habia servido bien en su oficio, me pidió el mió, y yo no supe cómo negárselo, porque ni el señor ni el criado quisieron recibir más galardón que los dos anillos.
+P|¿Y tú qué anillo le diste, Basanio? Creo que no seria el que yo te entregué.
+P|Si yo tuviera malicia bastante para acrecentar mi pecado con la mentira, te lo negaría, Pórcia. Pero ya ves, mi dedo está vacío. He perdido el anillo.
+P|No: lo que tienes vacia de verdad es el alma. Y juro á Dios que no he de ocupar tu lecho, hasta que me muestres el anillo.
+P|Ni yo el de éste, hasta que me presente el suyo.
+P|Amada Pórcia, si supieras á quién se lo dí, y por qué, y con cuánto dolor de mi alma, y sólo porque no quiso recibir otra cosa que el anillo, tendrías lástima de mí.
+P|Y si tú supieras las virtudes de ese anillo, ó el valor de quién te lo dio, ó lo que te importaba conservarle, nunca le hubieras dado. ¿Por qué habia de haber hombre tan loco, que defendiéndolo tú con alguna insistencia, se empeñara en arrebatarte un don tan preciado? Bien dice Nerissa: ella está en lo cierto; sin duda diste el anillo á alguna dama.
+P|¡No, señora! lo juro por mi honor, por mi alma, se lo di á un doctor en derecho que no quería aceptar 3,000 ducados, y que me pidió el anillo. Se lo negué, bien á pesar mió, porque se fué desairado el hombre que habia salvado la vida de mi mejor amigo. ¿Y qué he de añadir, amada Pórcia? Tuve que dárselo: la gratitud y la cortesía me mandaban hacerlo. Perdóname, señora; si tú misma hubieras estado allí (pongo por testigos á estos lucientes astros de la noche), me hubieras pedido el anillo para dárselo al juez.
+P|¡Nunca se acerque él á mi casa! Ya que tiene la prenda que yo más queria, y que me juraste por mi amor guardar eternamente, seré tan liberal como tú: no le negaré nada, ni siquiera mi persona ni tu lecho. De seguro que le conoceré. Ten cuidado de dormir todas las noches en casa, y de velar como Argos, porque si no, si me dejas sola, te prometo por mi honra (pues todavía la conservo) que he de dormir con ese abogado.
+P|Y yo con el pasante. ¡Conque, ojo!
+P|Bueno, haz lo que quieras, pero si cojo al pasante, he de cortarle la pluma.
+P|Por mí son todas estas infaustas reyertas.
+P|No os alarmeis, pues á pesar de todo, sereis bien recibido.
+P|Perdón, Pórcia, si te he ofendido, y aquí, delante de estos amigos, te juro por la luz de esos divinos ojos en que me miro...
+P|¡Fijaos bien! Dice que se mira en sus ojos, que ve un Basanio en cada uno de ellos. Juras por la doblez de tu alma, y juras con verdad.
+P|¡Perdóname, por Dios! Te juro que en mi vida volveré á faltar á ninguna palabra que te dé.
+P|Una vez empeñé mi cuerpo en servicio suyo, y hubiera yo perdido la vida, á no ser por el ingenio de aquel hombre á quien vuestro marido galardonó con el anillo. Yo empeño de nuevo mi palabra de que Basanio no volverá á faltar á sus promesas, á lo menos á sabiendas.
+P|Está bien. Saldreis por fiador suyo. Dadle la joya, y pedidle que la tenga en más estima que la primera.
+P|Toma, Basanio, y jura que nunca dejarás este anillo.
+P|¡Dios santo! ¡El mismo que dí al juez!
+P|Él me lo entregó. ¡Perdón, Basanio! Yo le concedí favores por ese anillo.
+P|¡Perdon, Graciano! El rapazuelo del pasante me gozó ayer, en pago de este anillo.
+P|Esto es como allanar las sendas en verano. ¿Ya tenemos cuernos, sin merecerlos?
+P|No decis mal. Pero voy á sacaros de la duda. Leed esta carta cuando queráis. En ella vereis que el letrado fué Pórcia y el pasante Nerissa. Lorenzo podrá dar testimonio de que apenas habiais pasado el umbral de esta casa, salí yo, y que he vuelto ahora mismo. Bien venido seas, Antonio. Tengo buenas nuevas para tí. Lee esta carta. Por ella sabrás que tres de tus barcos, cargados de mercaderías, han llegado á puerto seguro. No he de decirte por qué raros caminos ha llegado á mis manos esta carta.
+P|No sé qué decir.
+P|¿Tú, señora, fuiste el letrado, y yo no te conocia?
+P|¿Y tú, Nerissa, el pasante?
+P|Sí, pero un pasante que no piensa engalanar tu frente, mientras fuere tu mujer.
+P|Amado doctor, partireis mi lecho, y cuando yo falte de casa, podreis dormir con mi mujer.
+P|Bellísima dama, me habeis devuelto la salud y la fortuna. Esta carta me dice que mis bajeles han llegado á puerto de salvacion.
+P|Y para tí, Lorenzo, tambien tiene alguna buena noticia mi pasante.
+P|Y se la daré sin interés. Toma esta escritura. Por ella os hace donacion el judío de toda su hacienda, para cuando él fallezca.
+P|Tus palabras, señora, son como el maná para los cansados israelitas.
+P|Ya despunta el alba, y estoy segura de que todavía no os satisface lo que acabo de deciros. Entrémonos en casa y os responderé á cuanto me pregunteis.
+P|Sea. Y lo primero á que me ha de responder Nerissa, es si quiere más acostarse ahora ó esperar á la noche siguiente, puesto que ya está tan cercana la aurora. Si fuera de dia, yo seria el primero en desear que apareciese la estrella de la tarde, para acostarme con el pasante del letrado. Lo juro por mi honor: mientras viva, no perderé el anillo de Nerissa.

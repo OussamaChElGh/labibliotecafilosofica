@@ -4,6 +4,7 @@ Uso:  python teatro.py "Macbeth (Menéndez y Pelayo tr.)" macbeth-shakespeare --
           --autor "William Shakespeare" --ficha /macbeth-libros-pdf-gratis/ --traductor "Marcelino Menéndez y Pelayo" \
           --edicion "Dramas de Guillermo Shakespeare, Barcelona, 1881"
 
+Si la obra entera está en una sola página, la corta por los encabezados «ACTO I.», «ACTO II.»…
 Pensado para las traducciones en prosa de Menéndez y Pelayo, donde el nombre del personaje va
 centrado y en mayúsculas sobre su intervención. Cada acto es un capítulo; las escenas y las
 acotaciones van como S| y cada intervención como P| con su personaje en «speakers».
@@ -59,8 +60,28 @@ def caps_to_names(text):
     return re.sub(r"\b[A-ZÁÉÍÓÚÑ]{2,}\b", lambda m: m.group(0).capitalize(), text)
 
 
-def convert_act(page):
+def acts_in_page(page):
+    """Obra entera en una sola página («El mercader de Venecia»): un grupo de líneas por cada «ACTO I.», «ACTO II.»…"""
     raw, revision = lines_of(page)
+    acts = []
+    for centered, text in raw:
+        head = re.match(r"ACTO\s+([IVX]+)\.?\s*(.*)", text)
+        if centered and head:
+            acts.append(("Acto " + head.group(1), []))
+            rest = re.sub(r"^_+\s*", "", head.group(2))
+            if not rest.startswith("ESCENA"):  # «ACTO III. ____» sin «ESCENA PRIMERA»
+                acts[-1][1].append((False, "ESCENA PRIMERA."))
+            if rest:
+                acts[-1][1].append((True, rest))
+        elif acts:
+            acts[-1][1].append((centered, text))
+    return acts, revision
+
+
+def convert_act(page, raw=None):
+    revision = None
+    if raw is None:
+        raw, revision = lines_of(page)
     first = next((i for i, (_, text) in enumerate(raw) if text.upper().startswith("ESCENA")), 0)
     blocks, speakers, pending = [], {}, None
     header = False
@@ -72,15 +93,18 @@ def convert_act(page):
         if scene:
             number = scene.group(1)
             blocks.append("S|Escena " + ORDINAL.get(number, number) + ".")
-            if scene.group(2):
-                blocks.append("S|" + caps_to_names(scene.group(2)))
-            pending, header = None, True
+            place, pending, header = scene.group(2), None, True
+            last = re.fullmatch(r"(.*\.)\s+([^.]+)\.", place)
+            if last and is_speaker(last.group(2)):  # «…PÓRCIA y NERISSA. EL PRÍNCIPE.»: el último es quien habla
+                place, pending, header = last.group(1), speaker_name(last.group(2)), False
+            if place:
+                blocks.append("S|" + caps_to_names(place))
         elif text.startswith("↑") or not re.search(r"\w", text):
             continue  # notas al pie sin llamada y restos de puntuación
         elif centered and re.fullmatch(r"([^()]+?)\.?\s*(\(.*\))", text) and is_speaker(text.split("(")[0]):
             name, note = re.fullmatch(r"([^()]+?)\.?\s*(\(.*\))", text).groups()
             pending, header = speaker_name(name) + " " + note.replace(".)", ")"), False
-        elif centered and is_speaker(text):
+        elif (centered or header) and is_speaker(text):
             pending, header = speaker_name(text), False
         elif text.startswith("(") and text.endswith(")") or centered or (header and not pending) or \
                 (not pending and blocks and blocks[-1].startswith("S|") and len(text) < 90 and re.search(r"\b[A-ZÁÉÍÓÚÑ]{3,}\b", text)):
@@ -96,7 +120,18 @@ def convert_act(page):
             text = re.sub(r"^([¿¡«]?[A-ZÁÉÍÓÚÑ])([A-ZÁÉÍÓÚÑ]+)(?=[a-záéíóúñ]|\s+[a-záéíóúñ])",
                           lambda m: m.group(1) + m.group(2).lower(), text)
             blocks.append("P|" + text)
-    return blocks, speakers, revision
+    # Limpieza: escena repetida, espacio antes de puntuación y «De»/«Del» de los nombres en versalitas.
+    clean, moved = [], {}
+    for i, block in enumerate(blocks):
+        if block.startswith("S|") and clean and clean[-1] == block:
+            continue
+        block = re.sub(r"\s+([.,;:])", r"\1", block)
+        if block.startswith("S|"):
+            block = re.sub(r"\b(De|Del)\b(?= [A-ZÁÉÍÓÚÑ])", lambda m: m.group(1).lower(), block)
+        if i in speakers:
+            moved[len(clean)] = speakers[i]
+        clean.append(block)
+    return clean, moved, revision
 
 
 def main():
@@ -110,12 +145,16 @@ def main():
     parser.add_argument("--edicion", default="")
     args = parser.parse_args()
     _, parts, revision = subpages(args.page)
+    if parts:
+        acts = [(sub.split("/", 1)[1], None, sub) for sub, _ in parts]
+    else:  # sin subpáginas: todos los actos en la misma página
+        found, revision = acts_in_page(args.page)
+        acts = [(name, raw, args.page) for name, raw in found]
     body, speakers, chapters = [], {}, []
-    for sub, label in parts:
-        name = sub.split("/", 1)[1]
+    for name, raw, sub in acts:
         if name.lower() == "personajes":
             continue
-        blocks, own, _ = convert_act(sub)
+        blocks, own, _ = convert_act(sub, raw)
         offset = len(body) + 1
         chapters.append({"slug": chapter_slug(name) or f"parte-{len(chapters) + 1}", "title": name.replace("Acto", "Acto"),
                          "summary": "", "start": len(body), "end": len(body) + len(blocks)})

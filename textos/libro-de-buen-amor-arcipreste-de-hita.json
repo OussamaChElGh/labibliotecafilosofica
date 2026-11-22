@@ -1,0 +1,766 @@
+{
+  "slug": "libro-de-buen-amor-arcipreste-de-hita",
+  "title": "Libro de buen amor",
+  "author": "Arcipreste de Hita",
+  "author_route": "",
+  "book_route": "/el-libro-de-buen-amor-pdf-arcipreste-de-hita/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Libro_de_Buen_Amor",
+  "source_revision": 1508745,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "capitulo-001",
+      "title": "JESÚS NAZARENUS REX JUDAEORUM",
+      "summary": "Empieza: «Ésta es oraçión qu'el arçipreste fizo a Dios quando començó este libro suyo.»",
+      "start": 0,
+      "end": 41
+    },
+    {
+      "slug": "capitulo-002",
+      "title": "Intellectum tibi dabo, et instruam te in via hac, qua gradieris:firmabo super te oculos meos",
+      "summary": "Empieza: «»",
+      "start": 42,
+      "end": 42
+    },
+    {
+      "slug": "capitulo-003",
+      "title": "Aquí diso de cómo el arçipreste rogó a Dios, que le diese graçia que podiese faser este libro",
+      "summary": "Empieza: «Dios Padre, Dios Fijo, Dios Spíritu Santo: / El que naçió de la Virgen, esfuerço nos dé tanto,»",
+      "start": 43,
+      "end": 79
+    },
+    {
+      "slug": "capitulo-004",
+      "title": "Gosos de Santa María I",
+      "summary": "Empieza: «Santa María / lus del día,»",
+      "start": 80,
+      "end": 132
+    },
+    {
+      "slug": "capitulo-005",
+      "title": "Gosos de Santa María II",
+      "summary": "Empieza: «Tú, Virgen, del çielo Reyna, / e del mundo melesina,»",
+      "start": 133,
+      "end": 200
+    },
+    {
+      "slug": "capitulo-006",
+      "title": "Aquí fabla de cómo todo ome entre los sus cuydados se deve alegrar: et de la disputación que los griegos et los romanos en uno ovieron",
+      "summary": "Empieza: «Palabras son de sabio, e díxolo Catón, / que omen a sus coydados, que tiene en coraçón,»",
+      "start": 201,
+      "end": 309
+    },
+    {
+      "slug": "capitulo-007",
+      "title": "Aquí dise de cómo segund natura los omes e las otras animalias quieren aver compañía con las fembras",
+      "summary": "Empieza: «Como dise Aristóteles, cosa es verdadera, / el mundo por dos cosas trabaja: la primera,»",
+      "start": 310,
+      "end": 334
+    },
+    {
+      "slug": "capitulo-008",
+      "title": "De cómo el arcipreste fuer enamorado",
+      "summary": "Empieza: «Así fuer que un tiempo una dueña me priso, / de su amor non fuy en ese tiempo repiso,»",
+      "start": 335,
+      "end": 355
+    },
+    {
+      "slug": "capitulo-009",
+      "title": "Enxiemplo de cómo el león estava doliente, e las otras animalias lo venían a ver",
+      "summary": "Empieza: «Dis' que yasíe doliente el león, de dolor: / todas las animalias viníen ver su señor,»",
+      "start": 356,
+      "end": 420
+    },
+    {
+      "slug": "capitulo-010",
+      "title": "Enxiemplo de quando la tierra bramava",
+      "summary": "Empieza: ««Ainsí fuer que la tierra començó a bramar / estava tan finchada, que quería quebrar;»",
+      "start": 421,
+      "end": 449
+    },
+    {
+      "slug": "capitulo-011",
+      "title": "De cómo todas las cosas del mundo son vanidat, sino amar a Dios",
+      "summary": "Empieza: «Como dise Salomón, e dise la verdat, / que las cosas del mundo todas son vanidat,»",
+      "start": 450,
+      "end": 490
+    },
+    {
+      "slug": "capitulo-012",
+      "title": "De lo que contesçió al arçipreste con Fernand Garçía, su mensajero",
+      "summary": "Empieza: «Mis ojos no verán lus / pues perdido he a Crus.»",
+      "start": 491,
+      "end": 521
+    },
+    {
+      "slug": "capitulo-013",
+      "title": "Aquí fabla de la constelaçión, et de la planeta, en que los omes nasçen, el del juiçio del hora quando sabios naturales dieron en el nasçimiento del fijo del rey Alcarás",
+      "summary": "Empieza: «Los antiguos astrólogos disen en la sçiençia / de la astrología una buena sabiençia,»",
+      "start": 522,
+      "end": 694
+    },
+    {
+      "slug": "capitulo-014",
+      "title": "De cómo el arçipreste fue enamorado: et del enxiemplo del ladrón e del mastín",
+      "summary": "Empieza: «Como dise el sabio, cosa dura e fuerte / es dexar la costumbre, el fado, et la suerte;»",
+      "start": 695,
+      "end": 755
+    },
+    {
+      "slug": "capitulo-015",
+      "title": "De cómo el amor vino al arçipreste, et de la pelea que con él ovo el dicho arçipreste",
+      "summary": "Empieza: «Direvos una pelea, que una noche me vino, / pensando en mi ventura sañudo et non con vino:»",
+      "start": 756,
+      "end": 788
+    },
+    {
+      "slug": "capitulo-016",
+      "title": "Enxiemplo del garçón que quería casar con tres mujeres",
+      "summary": "Empieza: «Era un garçón loco, mançebo bien valiente, / non quería casarse con una solamente,»",
+      "start": 789,
+      "end": 829
+    },
+    {
+      "slug": "capitulo-017",
+      "title": "Enxiemplo de las ranas, en cómo demandavan rey a don Júpiter",
+      "summary": "Empieza: «Las ranas en un lago cantavan et jugavan, / cosa non las nusía, bien solteras andavan,»",
+      "start": 830,
+      "end": 902
+    },
+    {
+      "slug": "capitulo-018",
+      "title": "Aquí fabla del pecado de la cobdiçia",
+      "summary": "Empieza: «Contigo siempre traes los mortales pecados, / con mucha cobdiçia, los omes engañados,»",
+      "start": 903,
+      "end": 939
+    },
+    {
+      "slug": "capitulo-019",
+      "title": "Enxiemplo del alano que llevava la pieça de carne en la boca",
+      "summary": "Empieza: «Alano carniçero en un río andava, / una pieça de carne en la boca pasava,»",
+      "start": 940,
+      "end": 956
+    },
+    {
+      "slug": "capitulo-020",
+      "title": "Aquí fabla del pecado de la soberbia",
+      "summary": "Empieza: «Soberbia mucha tienes a do miedo non as, / piensas pues non as miedo tú de qué pasarás,»",
+      "start": 957,
+      "end": 985
+    },
+    {
+      "slug": "capitulo-021",
+      "title": "Enxiemplo del caballo e del asno",
+      "summary": "Empieza: «Iva lidiar en campo el caballo fasiente, / porque forçó la dueña el su señor valiente,»",
+      "start": 986,
+      "end": 1022
+    },
+    {
+      "slug": "capitulo-022",
+      "title": "Aquí fabla del pecado de la avarisia",
+      "summary": "Empieza: «Tú eres avarisia, eres escaso mucho, / al tomar te alegras, al dar non lo as ducho,»",
+      "start": 1023,
+      "end": 1047
+    },
+    {
+      "slug": "capitulo-023",
+      "title": "Enxiemplo del lobo, e de la cabra, e de la grilla",
+      "summary": "Empieza: «El lobo a la cabra comíala por merienda, / atravesósele un hueso, estaba en contienda,»",
+      "start": 1048,
+      "end": 1068
+    },
+    {
+      "slug": "capitulo-024",
+      "title": "Aquí fabla del pecado de la luxuria",
+      "summary": "Empieza: «Siempre está loxuria a do quier que tú seas, / adulterio et forniçio todavía deseas,»",
+      "start": 1069,
+      "end": 1121
+    },
+    {
+      "slug": "capitulo-025",
+      "title": "Enxiemplo del águila et del caçador",
+      "summary": "Empieza: «El águila cabdal canta sobre la faya, / todas las otras aves de allí las atalaya,»",
+      "start": 1122,
+      "end": 1146
+    },
+    {
+      "slug": "capitulo-026",
+      "title": "Aquí fabla del pecado de la invidia",
+      "summary": "Empieza: «Eres pura envidia, en el mundo non ha tanta, / con grand çelo que tienes omen de ti se espanta,»",
+      "start": 1147,
+      "end": 1183
+    },
+    {
+      "slug": "capitulo-027",
+      "title": "Enxiemplo del pavón e de la corneja",
+      "summary": "Empieza: «Al pavón la corneja vídol' faser la rueda, / dixo con grand envidia: 'Yo faré quanto pueda,»",
+      "start": 1184,
+      "end": 1208
+    },
+    {
+      "slug": "capitulo-028",
+      "title": "Aquí fabla del pecado de la gula",
+      "summary": "Empieza: «La golosina tienes, goloso laminero, / querríes a quantas veçes gostarlas tú primero,»",
+      "start": 1209,
+      "end": 1237
+    },
+    {
+      "slug": "capitulo-029",
+      "title": "Enxiemplo del león et del caballo",
+      "summary": "Empieza: «Un caballo muy gordo pasçía en la defesa, / veníe el león de caza, pero con él non pesa,»",
+      "start": 1238,
+      "end": 1262
+    },
+    {
+      "slug": "capitulo-030",
+      "title": "Aquí fabla del pecado de la vanagloria",
+      "summary": "Empieza: «Ira e vanagloria tienes; en el mundo non ay tamaña, / más orgullo e más brío tienes, que toda España,»",
+      "start": 1263,
+      "end": 1291
+    },
+    {
+      "slug": "capitulo-031",
+      "title": "Enxiemplo del león que se mató con ira",
+      "summary": "Empieza: «Ira et vanalgoria al león orgulloso, / que fue a todas bestias cruel e muy dañoso,»",
+      "start": 1292,
+      "end": 1316
+    },
+    {
+      "slug": "capitulo-032",
+      "title": "Aquí diçe del pecado de la açidia",
+      "summary": "Empieza: «De la açidia eres mesonero et posada, / nunca quieres que de bondat faça nada,»",
+      "start": 1317,
+      "end": 1333
+    },
+    {
+      "slug": "capitulo-033",
+      "title": "Aquí fabla del pleyto qu'el lobo e la raposa ovieron ante don Gimio alcalde de Buxía",
+      "summary": "Empieza: «Furtava la raposa a su vesina el gallo: / veíalo el lobo, mandávale dexallo:»",
+      "start": 1334,
+      "end": 1410
+    },
+    {
+      "slug": "capitulo-034",
+      "title": "Aquí fabla de la pelea qu'el arçipreste ovo con don Amor",
+      "summary": "Empieza: «Tal eres, como el lobo, retrahes lo que fases, / estrañas lo que ves, et non el lodo en que yases,»",
+      "start": 1411,
+      "end": 1475
+    },
+    {
+      "slug": "capitulo-035",
+      "title": "Aquí fabla de la pelea que ovo el arçipreste con don Amor",
+      "summary": "Empieza: «Con açidia traes estos males atantos / muchos otros pecados, antojos e espantos;»",
+      "start": 1476,
+      "end": 1552
+    },
+    {
+      "slug": "capitulo-036",
+      "title": "Ensiemplo del mur topo et de la rana",
+      "summary": "Empieza: «Contesçe cada día a tus amigos contigo, / como contesçió al topo, que quiso ser amigo»",
+      "start": 1553,
+      "end": 1617
+    },
+    {
+      "slug": "capitulo-037",
+      "title": "Aquí fabla de la respuesta que don Amor dio al arçipreste I",
+      "summary": "Empieza: «El Amor con mesura diome respuesta luego: / dis': «Arçipreste, sañudo non seyas, yo te ruego,»",
+      "start": 1618,
+      "end": 1686
+    },
+    {
+      "slug": "capitulo-038",
+      "title": "Enxiemplo de los dos peresosos que querían casar con una dueña",
+      "summary": "Empieza: «Desir t'he la fasaña de los dos peresosos / que querían casamiento e andavan acusiosos;»",
+      "start": 1687,
+      "end": 1755
+    },
+    {
+      "slug": "capitulo-039",
+      "title": "Enxiemplo de lo que contesçió a don Pitas Pajas, pintor de Bretaña",
+      "summary": "Empieza: «Del que olvidó la muger te diré la fazaña / si vieres que es burla, dime otra tal mañana;»",
+      "start": 1756,
+      "end": 1820
+    },
+    {
+      "slug": "capitulo-040",
+      "title": "Enxiemplo de la propiedat que el dinero ha I",
+      "summary": "Empieza: «Mucho fas el dinero, et mucho es de amar, / al torpe fase bueno, et omen de prestar,»",
+      "start": 1821,
+      "end": 1901
+    },
+    {
+      "slug": "capitulo-041",
+      "title": "De cómo el Amor enseña al arçipreste, que aya en sí buenas costumbres, e sobre todo que se guarde de beber mucho vino blanco e tinto I",
+      "summary": "Empieza: «Buenas costumbres debes en ti siempre aver. / guárdate, sobre todo, mucho vino beber,»",
+      "start": 1902,
+      "end": 1966
+    },
+    {
+      "slug": "capitulo-042",
+      "title": "De cómo Amor se partió del arçipreste, et de cómo doña Venus lo castigó I",
+      "summary": "Empieza: «Partiose Amor de mí, e dexome dormir: / desque vino el alba començé de comedir»",
+      "start": 1967,
+      "end": 2043
+    },
+    {
+      "slug": "capitulo-043",
+      "title": "Aquí dise de cómo fue fablar con doña Endrina el arçipreste",
+      "summary": "Empieza: «¡Ay Dios, y quán fermosa viene doña Endrina por la plaça! / ¡Qué talle, qué donayre, qué alto cuello de garça!»",
+      "start": 2044,
+      "end": 2116
+    },
+    {
+      "slug": "capitulo-044",
+      "title": "Enxiemplo de la abutarda y de la golondrina I",
+      "summary": "Empieza: ««Érase un caçador muy sotil pajarero, / fue sembrar cañamones en un viçioso ero,»",
+      "start": 2117,
+      "end": 2177
+    },
+    {
+      "slug": "capitulo-045",
+      "title": "De cómo doña Endrina fue a casa de la vieja, e el arçipreste acabó lo que quiso",
+      "summary": "Empieza: «Después fue de Santiago otro día seguiente, / a hora de medio día, quando yanta la gente,»",
+      "start": 2178,
+      "end": 2263
+    },
+    {
+      "slug": "capitulo-046",
+      "title": "Del castigo qu'el arçipreste da a las dueñas, e de los nombles del alcagüeta I",
+      "summary": "Empieza: «Dueñas, abed orejas, oíd buena liçión, / entendet bien las fablas, e guardatvos del varón,»",
+      "start": 2264,
+      "end": 2320
+    },
+    {
+      "slug": "capitulo-047",
+      "title": "De la vieja que vino al arçipreste y de lo que le contesçió con ella",
+      "summary": "Empieza: «El mes era de março, salido el verano / vínome ver una vieja, díxome luego de mano:»",
+      "start": 2321,
+      "end": 2341
+    },
+    {
+      "slug": "capitulo-048",
+      "title": "De cómo el arçipreste fue a provar la sierra e de lo que le contesçió con la serrana",
+      "summary": "Empieza: «Provar todas las cosas el apóstol lo manda: / fui a provar la sierra, e fis loca demanda:»",
+      "start": 2342,
+      "end": 2378
+    },
+    {
+      "slug": "capitulo-049",
+      "title": "Cántica de serrana",
+      "summary": "Empieza: «Pasando una mañana por el puerto de Malagosto / salteome una serrana a la asomada del rostro,»",
+      "start": 2379,
+      "end": 2430
+    },
+    {
+      "slug": "capitulo-050",
+      "title": "De lo que le contesçió al arcipreste con la serrana",
+      "summary": "Empieza: «Después d'esta aventura fuime para Segovia, / non a comprar las joyas para la chata novia,»",
+      "start": 2431,
+      "end": 2491
+    },
+    {
+      "slug": "capitulo-051",
+      "title": "Cántica de serrana",
+      "summary": "Empieza: «Siempre se me verná miente / d'esta serrana valiente»",
+      "start": 2492,
+      "end": 2520
+    },
+    {
+      "slug": "capitulo-052",
+      "title": "De lo que le contesçió al arçipreste con la serrana",
+      "summary": "Empieza: «Lunes antes del alba començé mi camino, / fallé çerca el Cornejo, do tajava un pino,»",
+      "start": 2521,
+      "end": 2537
+    },
+    {
+      "slug": "capitulo-053",
+      "title": "Cántica de serrana",
+      "summary": "Empieza: «So la casa del Cornejo primer día de selmana / en comedio del vallejo encontré una serrana»",
+      "start": 2538,
+      "end": 2574
+    },
+    {
+      "slug": "capitulo-054",
+      "title": "De lo que contesçió al arçipreste con la serrana, et de las figuras d'ella",
+      "summary": "Empieza: «Siempre ha mala manera la sierra et la altura, / si nieva, o si yela, nunca da calentura,»",
+      "start": 2575,
+      "end": 2639
+    },
+    {
+      "slug": "capitulo-055",
+      "title": "Cántica de serrana",
+      "summary": "Empieza: «Cerca la Tablada / la sierra pasada»",
+      "start": 2640,
+      "end": 2744
+    },
+    {
+      "slug": "capitulo-056",
+      "title": "Del ditado qu'el arçipreste ofreçió a Santa María del Vado",
+      "summary": "Empieza: «Santiago apóstol dis', que todo bien complido / e todo don muy bueno, de Dios vien' escogido;»",
+      "start": 2745,
+      "end": 2767
+    },
+    {
+      "slug": "capitulo-057",
+      "title": "De la pasión de nuestro Señor Jesú Christo",
+      "summary": "Empieza: «Miércoles a terçia el cuerpo de Christo / Judea lo apreçia: esa hora fue visto,»",
+      "start": 2768,
+      "end": 2808
+    },
+    {
+      "slug": "capitulo-058",
+      "title": "De la pasión de nuestro Señor Jesú Chirsto II",
+      "summary": "Empieza: «Los que la ley de Christo avemos de guardar, / de su muerte devemos dolernos e acordar.»",
+      "start": 2809,
+      "end": 2839
+    },
+    {
+      "slug": "capitulo-059",
+      "title": "De la pelea que ovo don Carnal con la Quaresma I",
+      "summary": "Empieza: «Açercándose viene un tiempo de Dios santo, / fuime para mi tierra por folgar algún rato,»",
+      "start": 2840,
+      "end": 2900
+    },
+    {
+      "slug": "capitulo-063",
+      "title": "De la penitençia qu'el flayre dio a don Carnal,et de cómo el pecador se deve confesar, et quién ha poder de lo asolver I",
+      "summary": "Empieza: «Vino luego un frayle para lo convertir, / comenzolo a predicar, de Dios a departir,»",
+      "start": 2901,
+      "end": 2961
+    },
+    {
+      "slug": "capitulo-066",
+      "title": "De lo que se fase miércoles corvillo en la Quaresma I",
+      "summary": "Empieza: «Desque ovo la dueña vençido la fasienda, / movió todo el real, mandó coger su tienda,»",
+      "start": 2962,
+      "end": 3010
+    },
+    {
+      "slug": "capitulo-069",
+      "title": "De cómo don Amor y don Carnal venieron e los salieron a resçebir",
+      "summary": "Empieza: «Vigilia era de Pascua, abril çerca pasado, / el sol era salido, por el mundo rayado,»",
+      "start": 3011,
+      "end": 3071
+    },
+    {
+      "slug": "capitulo-070",
+      "title": "De cómo clérigos e legos, e flayres e monjas, e dueñas, e joglares salieron a reçebir a don Amor I",
+      "summary": "Empieza: «Día era muy santo de la Pascua mayor, / el sol era salido muy claro e de noble color,»",
+      "start": 3072,
+      "end": 3132
+    },
+    {
+      "slug": "capitulo-076",
+      "title": "De cómo el arçipreste llamó a su vieja, que le catase algund cobro",
+      "summary": "Empieza: «Día de Quasimodo iglesias et altares / vi llenos de alegrías, de bodas e cantares,»",
+      "start": 3133,
+      "end": 3157
+    },
+    {
+      "slug": "capitulo-077",
+      "title": "De cómo el arçipreste fue enamorado de una dueña que vido estar façiendo oraçión",
+      "summary": "Empieza: «Día era de Sant Marcos, fue fiesta señalada, / toda la santa iglesia fas' proçesión honrada,»",
+      "start": 3158,
+      "end": 3202
+    },
+    {
+      "slug": "capitulo-078",
+      "title": "De cómo Trotaconventos consejó al arçipreste que amase alguna monja, e de lo que le contesçió con ella",
+      "summary": "Empieza: «Ella dixo: «Amigo, oídme un poquillejo, / amad alguna monja, creedme de consejo,»",
+      "start": 3203,
+      "end": 3267
+    },
+    {
+      "slug": "capitulo-079",
+      "title": "Enxiemplo del ortolano e de la culebra",
+      "summary": "Empieza: «Era un ortolano bien simpre e sin mal; / en el mes de enero con fuerte temporal»",
+      "start": 3268,
+      "end": 3304
+    },
+    {
+      "slug": "capitulo-080",
+      "title": "Enxiemplo del galgo e del señor",
+      "summary": "Empieza: «El buen galgo ligero, corredor e valiente / avía quando era joven, pies ligeros, corriente,»",
+      "start": 3305,
+      "end": 3357
+    },
+    {
+      "slug": "capitulo-081",
+      "title": "Enxiemplo del mur de Monferrado et del mur de Guadalaxara",
+      "summary": "Empieza: «Mur de Guadalaxara un lunes madrugava, / fuese a Monferrado, a mercado andava,»",
+      "start": 3358,
+      "end": 3426
+    },
+    {
+      "slug": "capitulo-082",
+      "title": "Enxiemplo del gallo que falló el çafir en el muladar",
+      "summary": "Empieza: «Andava en el muladar el gallo ajevio, / estando escarvando mañana con el frío»",
+      "start": 3427,
+      "end": 3483
+    },
+    {
+      "slug": "capitulo-083",
+      "title": "Enxiemplo del asno e del blanchete",
+      "summary": "Empieza: «Un perrillo blanchete con su señora jugava, / con su lengua e boca las manos le besava,»",
+      "start": 3484,
+      "end": 3528
+    },
+    {
+      "slug": "capitulo-084",
+      "title": "Enxiemplo de la raposa que come las gallinas en la aldea",
+      "summary": "Empieza: «Contesçió en una aldea de muro bien çercada, / que la presta gulhara ansí era vesada,»",
+      "start": 3529,
+      "end": 3581
+    },
+    {
+      "slug": "capitulo-085",
+      "title": "Enxiemplo del león et del mur",
+      "summary": "Empieza: «Dormía el león pardo en la frida montaña, / en espesura tiene su cueva soterraña,»",
+      "start": 3582,
+      "end": 3630
+    },
+    {
+      "slug": "capitulo-086",
+      "title": "Enxiemplo de la raposa et del cuervo",
+      "summary": "Empieza: «»La marfusa un día con la fambre andava, / vido al cuervo negro en un árbol do estava,»",
+      "start": 3631,
+      "end": 3663
+    },
+    {
+      "slug": "capitulo-087",
+      "title": "Enxiemplo de las liebres",
+      "summary": "Empieza: «Andávanse las liebres en las selvas llegadas, / sonó un poco la selva e fueron espantadas,»",
+      "start": 3664,
+      "end": 3700
+    },
+    {
+      "slug": "capitulo-088",
+      "title": "Enxiemplo del ladrón que fiso carta al diablo de su ánima I",
+      "summary": "Empieza: «En tierra sin justiçia eran muchos ladrones, / fueron al rey las nuevas, querellas e pregones,»",
+      "start": 3701,
+      "end": 3761
+    },
+    {
+      "slug": "capitulo-090",
+      "title": "De las figuras del arçipreste I",
+      "summary": "Empieza: ««Señora», dis la vieja, «yo l' veo a menudo, / el cuerpo ha bien largo, miembros grandes, trefudo,»",
+      "start": 3762,
+      "end": 3806
+    },
+    {
+      "slug": "capitulo-092",
+      "title": "De cómo Trotaconventos fabló con la mora de parte del arçipreste, e de la respuesta que le dio",
+      "summary": "Empieza: «Por olvidar la coyta, tristesa, et pesar / rogué a la mi vieja, que me quisiese casar:»",
+      "start": 3807,
+      "end": 3827
+    },
+    {
+      "slug": "capitulo-093",
+      "title": "En cuáles instrumentos non convienen los cantares de arábigo",
+      "summary": "Empieza: «Después fise muchas cántigas de dança e troteras / para judías, et moras, e para entendederas,»",
+      "start": 3828,
+      "end": 3856
+    },
+    {
+      "slug": "capitulo-094",
+      "title": "De cómo morió Trotaconventos, et de cómo el arçipreste fase su planto denostando et maldesiendo la muerte I",
+      "summary": "Empieza: «El petafio de la sepultura de Urraca.»",
+      "start": 3857,
+      "end": 4102
+    },
+    {
+      "slug": "capitulo-096",
+      "title": "El petafio de la sepultura de Urraca",
+      "summary": "Empieza: ««Urraca só, que yago so esta sepultura, / en quanto fui al mundo, ove viçio e soltura,»",
+      "start": 4103,
+      "end": 4115
+    },
+    {
+      "slug": "capitulo-097",
+      "title": "De quáles armas se debe armar lado christiano para vençer el el mundo, e la carne I",
+      "summary": "Empieza: «Señores, acordadvos de bien, si vos lo digo, / non fiedes en tregua de vuestro enemigo,»",
+      "start": 4116,
+      "end": 4168
+    },
+    {
+      "slug": "capitulo-098",
+      "title": "De las propiedades que las dueñas chicas an",
+      "summary": "Empieza: «Quiero abreviar la predicaçión, / que siempre me pagué de pequeño sermón,»",
+      "start": 4169,
+      "end": 4217
+    },
+    {
+      "slug": "capitulo-099",
+      "title": "De don Furón, moço del arçipreste",
+      "summary": "Empieza: «Salida de febrero, entrada de março, / el pecado, que siempre de todo mal es maço,»",
+      "start": 4218,
+      "end": 4250
+    },
+    {
+      "slug": "capitulo-100",
+      "title": "De cómo dice el arçipreste que se ha de entender su libro",
+      "summary": "Empieza: «Porque Santa María, segund que dicho he, / es comienço e fin del bien, tal es mi fe,»",
+      "start": 4251,
+      "end": 4287
+    },
+    {
+      "slug": "capitulo-101",
+      "title": "Gosos de Santa María I",
+      "summary": "Empieza: «Madre de Dios gloriosa, / Virgen Santa María,»",
+      "start": 4288,
+      "end": 4343
+    },
+    {
+      "slug": "capitulo-102",
+      "title": "Gosos de Santa María II",
+      "summary": "Empieza: «Todos bendigamos / a la Virgen Santa,»",
+      "start": 4344,
+      "end": 4397
+    },
+    {
+      "slug": "capitulo-103",
+      "title": "De cómo los escolares demandan por Dios",
+      "summary": "Empieza: «Señores, dat al escolar, / que vos vien' demandar,»",
+      "start": 4398,
+      "end": 4438
+    },
+    {
+      "slug": "capitulo-104",
+      "title": "Del Ave María de Santa María",
+      "summary": "Empieza: «Ave María gloriosa, / Virgen Santa preçiosa»",
+      "start": 4439,
+      "end": 4503
+    },
+    {
+      "slug": "capitulo-105",
+      "title": "Cántica de loores de Santa María I",
+      "summary": "Empieza: «Miraglos muchos fase Virgen siempre pura, / agoardando los coytados de dolor et de tristura,»",
+      "start": 4504,
+      "end": 4524
+    },
+    {
+      "slug": "capitulo-106",
+      "title": "Cántica de loores de Santa María II",
+      "summary": "Empieza: «Santa Virgen escogida, / de Dios Madre muy amada,»",
+      "start": 4525,
+      "end": 4561
+    },
+    {
+      "slug": "capitulo-107",
+      "title": "Cántica de loores de Santa María III",
+      "summary": "Empieza: «Quiero seguir a ti, flor de las flores, / siempre desir cantar de tus loores;»",
+      "start": 4562,
+      "end": 4586
+    },
+    {
+      "slug": "capitulo-108",
+      "title": "Cántica de loores de Santa María IV",
+      "summary": "Empieza: «En ti es mi esperança, / Virgen Santa María;»",
+      "start": 4587,
+      "end": 4621
+    },
+    {
+      "slug": "capitulo-109",
+      "title": "Cántica de los clérigos de Talavera",
+      "summary": "Empieza: «Allá en Talavera, en las calendas de abril, / llegadas son las cartas del arçobispo don Gil,»",
+      "start": 4622,
+      "end": 4705
+    },
+    {
+      "slug": "capitulo-110",
+      "title": "Cantar de ciegos",
+      "summary": "Empieza: «Varones buenos e honrados querednos ya ayudar. / A estos çiegos lasrados la vuestra limosna dar,»",
+      "start": 4706,
+      "end": 4736
+    },
+    {
+      "slug": "capitulo-111",
+      "title": "Otro cantar de ciegos",
+      "summary": "Empieza: «Christianos, de Dios amigos, a estos çiegos mendigos / con meajas et con bodigos queretnos acorrer,»",
+      "start": 4737,
+      "end": 4765
+    }
+  ],
+  "description": "Libro de buen amor de Arcipreste de Hita: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Poesía sobre el amor loco, el amor de Dios y la vida del siglo XIV.",
+  "intro": "<p>El Libro de buen amor es una obra en verso que Juan Ruiz, arcipreste de Hita, compuso en la primera mitad del siglo XIV. Está escrita como una falsa autobiografía: el arcipreste cuenta sus intentos de conquistar a distintas mujeres, casi siempre fracasados, y los adorna con fábulas, cantigas, oraciones y parodias. Él mismo dice que su libro enseña el «buen amor», el de Dios, mostrando los peligros del «loco amor».</p><p>Aquí puedes leer Libro de buen amor completo, dividido en partes. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 62,
+    "art": {
+      "file": "libro-de-buen-amor-arcipreste-de-hita.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/libro-de-buen-amor-arcipreste-de-hita/ilustracion.jpg",
+      "credit": "Músicos en una miniatura de las Cantigas de Santa María (siglo XIII), Real Biblioteca de El Escorial. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Poesía",
+    "unidad": "partes",
+    "tema": "el amor loco, el amor de Dios y la vida del siglo XIV",
+    "resumen": [
+      "El Libro de buen amor es una obra en verso que Juan Ruiz, arcipreste de Hita, compuso en la primera mitad del siglo XIV. Está escrita como una falsa autobiografía: el arcipreste cuenta sus intentos de conquistar a distintas mujeres, casi siempre fracasados, y los adorna con fábulas, cantigas, oraciones y parodias. Él mismo dice que su libro enseña el «buen amor», el de Dios, mostrando los peligros del «loco amor».",
+      "Los episodios más célebres son el de don Melón y doña Endrina, en el que la vieja Trotaconventos actúa de alcahueta; los encuentros con las serranas de la sierra de Guadarrama; la batalla entre don Carnal y doña Cuaresma, y el elogio de las mujeres pequeñas. La mezcla de lo religioso y lo burlesco, la ironía y la variedad de tonos lo hacen uno de los libros más vivos de la Edad Media."
+    ],
+    "personajes": [
+      [
+        "El arcipreste",
+        "Narrador y protagonista, enamoradizo y casi siempre burlado."
+      ],
+      [
+        "Trotaconventos",
+        "Vieja alcahueta que hace de mensajera en los amores del arcipreste."
+      ],
+      [
+        "Don Melón y doña Endrina",
+        "Pareja de amantes del episodio central, adaptado de una comedia latina."
+      ],
+      [
+        "Don Amor",
+        "Personificación del amor, con quien el arcipreste discute."
+      ],
+      [
+        "Las serranas",
+        "Mujeres de la sierra, fuertes y dominantes, que asaltan al viajero."
+      ],
+      [
+        "Don Carnal y doña Cuaresma",
+        "Personajes de la batalla alegórica entre los placeres y la penitencia."
+      ]
+    ],
+    "ideas": [
+      "La ambigüedad entre el buen amor (de Dios) y el loco amor (el deseo).",
+      "La parodia de los géneros cultos y religiosos de la época.",
+      "El retrato vivo de la sociedad del siglo XIV: clérigos, villanos, mercaderes y alcahuetas.",
+      "La cuaderna vía mezclada con canciones de metros variados."
+    ],
+    "faq": [
+      [
+        "¿Quién escribió el Libro de buen amor?",
+        "Juan Ruiz, arcipreste de Hita (Guadalajara). Apenas se sabe de él más que lo que cuenta el propio libro."
+      ],
+      [
+        "¿Qué es el buen amor?",
+        "Para el autor, el amor de Dios, frente al loco amor del deseo carnal. Pero el libro juega con la ambigüedad y deja al lector decidir."
+      ],
+      [
+        "¿Quién es Trotaconventos?",
+        "La vieja alcahueta que lleva los mensajes del arcipreste. Es la antecesora directa de La Celestina."
+      ],
+      [
+        "¿En qué métrica está escrito?",
+        "Sobre todo en cuaderna vía, estrofas de cuatro versos alejandrinos con la misma rima, del mester de clerecía."
+      ],
+      [
+        "¿Cuándo se escribió?",
+        "Los manuscritos conservados están fechados en 1330 y 1343."
+      ]
+    ]
+  }
+}

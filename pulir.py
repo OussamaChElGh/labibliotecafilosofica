@@ -764,6 +764,44 @@ def add_reading_links(document, route, links):
     return document
 
 
+SPINE_COLORS = {"verde": "#143a2c", "burdeos": "#4a1820", "azul": "#16233b", "ocre": "#4f3615", "negro": "#161015"}
+
+
+def book_catalog(pages):
+    """catalogo-libros.json: todas las fichas de libro para la estantería de «Mi biblioteca».
+
+    Ruta, título, autor y portada de cada ficha (datos estructurados Book y su imagen destacada); si la obra
+    tiene lectura online, también la primera página, el número de capítulos y el color de su portada.
+    """
+    readings = {}
+    for config in TEXTS.glob("*.json"):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        if meta.get("chapters") and meta.get("book_route"):
+            readings[meta["book_route"]] = meta
+    catalog = []
+    for page, document in pages.items():
+        route = route_of(page)
+        if route.startswith("/leer/"):
+            continue
+        book = re.search(r'"@type": "Book", "name": "((?:[^"\\]|\\.)*)"(.*?)"author": \{"@type": "Person", "name": "((?:[^"\\]|\\.)*)"',
+                         document)
+        if not book:
+            continue
+        cover = re.search(r'<figure class="featured"><img src="([^"]+)"', document)
+        item = {"route": route, "title": json.loads(f'"{book.group(1)}"'), "author": json.loads(f'"{book.group(3)}"'),
+                "cover": cover.group(1) if cover else ""}
+        meta = readings.get(route)
+        if meta:
+            item.update({"read": f'/leer/{meta["slug"]}/{meta["chapters"][0]["slug"]}/', "slug": meta["slug"],
+                         "chapters": len(meta["chapters"]),
+                         "color": SPINE_COLORS.get(meta.get("cover", {}).get("color", ""), "")})
+        catalog.append(item)
+    catalog.sort(key=lambda item: normalize_title(item["title"]))
+    (OUTPUT / "catalogo-libros.json").write_text(json.dumps(catalog, ensure_ascii=False, separators=(",", ":")) + "\n",
+                                                 encoding="utf-8")
+    return len(catalog)
+
+
 def main():
     swaps, spines = collection_covers()
     books = OUTPUT / "folio-books.json"
@@ -810,7 +848,7 @@ def main():
         if result != originals[page]:
             page.write_text(result, encoding="utf-8")
             changed += 1
-    print(f"{changed} páginas pulidas")
+    print(f"{changed} páginas pulidas · {book_catalog(pages)} libros en catalogo-libros.json")
 
 
 if __name__ == "__main__":

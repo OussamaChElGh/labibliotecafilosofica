@@ -1,0 +1,268 @@
+{
+  "slug": "niebla-miguel-de-unamuno",
+  "title": "Niebla",
+  "author": "Miguel de Unamuno",
+  "author_route": "",
+  "book_route": "/niebla-miguel-de-unamuno/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Niebla",
+  "source_revision": 1398308,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "prologo",
+      "title": "Prólogo",
+      "summary": "",
+      "start": 0,
+      "end": 22
+    },
+    {
+      "slug": "post-prologo",
+      "title": "Post-Prólogo",
+      "summary": "",
+      "start": 23,
+      "end": 27
+    },
+    {
+      "slug": "i",
+      "title": "Capítulo I",
+      "summary": "",
+      "start": 28,
+      "end": 68
+    },
+    {
+      "slug": "ii",
+      "title": "Capítulo II",
+      "summary": "",
+      "start": 69,
+      "end": 129
+    },
+    {
+      "slug": "iii",
+      "title": "Capítulo III",
+      "summary": "",
+      "start": 130,
+      "end": 186
+    },
+    {
+      "slug": "iv",
+      "title": "Capítulo IV",
+      "summary": "",
+      "start": 187,
+      "end": 240
+    },
+    {
+      "slug": "v",
+      "title": "Capítulo V",
+      "summary": "",
+      "start": 241,
+      "end": 312
+    },
+    {
+      "slug": "vi",
+      "title": "Capítulo VI",
+      "summary": "",
+      "start": 313,
+      "end": 397
+    },
+    {
+      "slug": "vii",
+      "title": "Capítulo VII",
+      "summary": "",
+      "start": 398,
+      "end": 410
+    },
+    {
+      "slug": "viii",
+      "title": "Capítulo VIII",
+      "summary": "",
+      "start": 411,
+      "end": 512
+    },
+    {
+      "slug": "ix",
+      "title": "Capítulo IX",
+      "summary": "",
+      "start": 513,
+      "end": 562
+    },
+    {
+      "slug": "x",
+      "title": "Capítulo X",
+      "summary": "",
+      "start": 563,
+      "end": 621
+    },
+    {
+      "slug": "xi",
+      "title": "Capítulo XI",
+      "summary": "",
+      "start": 622,
+      "end": 711
+    },
+    {
+      "slug": "xii",
+      "title": "Capítulo XII",
+      "summary": "",
+      "start": 712,
+      "end": 783
+    },
+    {
+      "slug": "xiii",
+      "title": "Capítulo XIII",
+      "summary": "",
+      "start": 784,
+      "end": 785
+    },
+    {
+      "slug": "xiv",
+      "title": "Capítulo XIV",
+      "summary": "",
+      "start": 786,
+      "end": 787
+    },
+    {
+      "slug": "xv",
+      "title": "Capítulo XV",
+      "summary": "",
+      "start": 788,
+      "end": 789
+    },
+    {
+      "slug": "xvi",
+      "title": "Capítulo XVI",
+      "summary": "",
+      "start": 790,
+      "end": 791
+    },
+    {
+      "slug": "xvii",
+      "title": "Capítulo XVII",
+      "summary": "",
+      "start": 792,
+      "end": 793
+    },
+    {
+      "slug": "xviii",
+      "title": "Capítulo XVIII",
+      "summary": "",
+      "start": 794,
+      "end": 795
+    },
+    {
+      "slug": "xix",
+      "title": "Capítulo XIX",
+      "summary": "",
+      "start": 796,
+      "end": 797
+    },
+    {
+      "slug": "xx",
+      "title": "Capítulo XX",
+      "summary": "",
+      "start": 798,
+      "end": 799
+    },
+    {
+      "slug": "xxi",
+      "title": "Capítulo XXI",
+      "summary": "",
+      "start": 800,
+      "end": 801
+    },
+    {
+      "slug": "xxii",
+      "title": "Capítulo XXII",
+      "summary": "",
+      "start": 802,
+      "end": 803
+    },
+    {
+      "slug": "xxiii",
+      "title": "Capítulo XXIII",
+      "summary": "",
+      "start": 804,
+      "end": 805
+    },
+    {
+      "slug": "xxiv",
+      "title": "Capítulo XXIV",
+      "summary": "",
+      "start": 806,
+      "end": 807
+    },
+    {
+      "slug": "xxv",
+      "title": "Capítulo XXV",
+      "summary": "",
+      "start": 808,
+      "end": 809
+    },
+    {
+      "slug": "xxvi",
+      "title": "Capítulo XXVI",
+      "summary": "",
+      "start": 810,
+      "end": 811
+    },
+    {
+      "slug": "xxvii",
+      "title": "Capítulo XXVII",
+      "summary": "",
+      "start": 812,
+      "end": 814
+    },
+    {
+      "slug": "xxviii",
+      "title": "Capítulo XXVIII",
+      "summary": "",
+      "start": 815,
+      "end": 816
+    },
+    {
+      "slug": "xxix",
+      "title": "Capítulo XXIX",
+      "summary": "",
+      "start": 817,
+      "end": 818
+    },
+    {
+      "slug": "xxx",
+      "title": "Capítulo XXX",
+      "summary": "",
+      "start": 819,
+      "end": 820
+    },
+    {
+      "slug": "xxxi",
+      "title": "Capítulo XXXI",
+      "summary": "",
+      "start": 821,
+      "end": 822
+    },
+    {
+      "slug": "xxxii",
+      "title": "Capítulo XXXII",
+      "summary": "",
+      "start": 823,
+      "end": 937
+    },
+    {
+      "slug": "xxxiii",
+      "title": "Capítulo XXXIII",
+      "summary": "",
+      "start": 938,
+      "end": 939
+    },
+    {
+      "slug": "xxxiv",
+      "title": "XXXIV. Oración fúnebre por modo de epílogo",
+      "summary": "",
+      "start": 940,
+      "end": 941
+    }
+  ]
+}

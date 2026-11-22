@@ -1,0 +1,303 @@
+{
+  "slug": "misericordia-benito-perez-galdos",
+  "title": "Misericordia",
+  "author": "Benito Pérez Galdós",
+  "author_route": "",
+  "book_route": "/misericordia-benito-perez-galdos/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Misericordia",
+  "source_revision": 1398426,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "i",
+      "title": "Capítulo I",
+      "summary": "",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "slug": "ii",
+      "title": "Capítulo II",
+      "summary": "",
+      "start": 11,
+      "end": 33
+    },
+    {
+      "slug": "iii",
+      "title": "Capítulo III",
+      "summary": "",
+      "start": 34,
+      "end": 86
+    },
+    {
+      "slug": "iv",
+      "title": "Capítulo IV",
+      "summary": "",
+      "start": 87,
+      "end": 123
+    },
+    {
+      "slug": "v",
+      "title": "Capítulo V",
+      "summary": "",
+      "start": 124,
+      "end": 166
+    },
+    {
+      "slug": "vi",
+      "title": "Capítulo VI",
+      "summary": "",
+      "start": 167,
+      "end": 218
+    },
+    {
+      "slug": "vii",
+      "title": "Capítulo VII",
+      "summary": "",
+      "start": 219,
+      "end": 229
+    },
+    {
+      "slug": "viii",
+      "title": "Capítulo VIII",
+      "summary": "",
+      "start": 230,
+      "end": 240
+    },
+    {
+      "slug": "ix",
+      "title": "Capítulo IX",
+      "summary": "",
+      "start": 241,
+      "end": 251
+    },
+    {
+      "slug": "x",
+      "title": "Capítulo X",
+      "summary": "",
+      "start": 252,
+      "end": 309
+    },
+    {
+      "slug": "xi",
+      "title": "Capítulo XI",
+      "summary": "",
+      "start": 310,
+      "end": 362
+    },
+    {
+      "slug": "xii",
+      "title": "Capítulo XII",
+      "summary": "",
+      "start": 363,
+      "end": 425
+    },
+    {
+      "slug": "xiii",
+      "title": "Capítulo XIII",
+      "summary": "",
+      "start": 426,
+      "end": 468
+    },
+    {
+      "slug": "xiv",
+      "title": "Capítulo XIV",
+      "summary": "",
+      "start": 469,
+      "end": 506
+    },
+    {
+      "slug": "xv",
+      "title": "Capítulo XV",
+      "summary": "",
+      "start": 507,
+      "end": 530
+    },
+    {
+      "slug": "xvi",
+      "title": "Capítulo XVI",
+      "summary": "",
+      "start": 531,
+      "end": 537
+    },
+    {
+      "slug": "xvii",
+      "title": "Capítulo XVII",
+      "summary": "",
+      "start": 538,
+      "end": 563
+    },
+    {
+      "slug": "xviii",
+      "title": "Capítulo XVIII",
+      "summary": "",
+      "start": 564,
+      "end": 617
+    },
+    {
+      "slug": "xix",
+      "title": "Capítulo XIX",
+      "summary": "",
+      "start": 618,
+      "end": 663
+    },
+    {
+      "slug": "xx",
+      "title": "Capítulo XX",
+      "summary": "",
+      "start": 664,
+      "end": 682
+    },
+    {
+      "slug": "xxi",
+      "title": "Capítulo XXI",
+      "summary": "",
+      "start": 683,
+      "end": 735
+    },
+    {
+      "slug": "xxii",
+      "title": "Capítulo XXII",
+      "summary": "",
+      "start": 736,
+      "end": 806
+    },
+    {
+      "slug": "xxiii",
+      "title": "Capítulo XXIII",
+      "summary": "",
+      "start": 807,
+      "end": 844
+    },
+    {
+      "slug": "xxiv",
+      "title": "Capítulo XXIV",
+      "summary": "",
+      "start": 845,
+      "end": 893
+    },
+    {
+      "slug": "xxv",
+      "title": "Capítulo XXV",
+      "summary": "",
+      "start": 894,
+      "end": 950
+    },
+    {
+      "slug": "xxvi",
+      "title": "Capítulo XXVI",
+      "summary": "",
+      "start": 951,
+      "end": 978
+    },
+    {
+      "slug": "xxvii",
+      "title": "Capítulo XXVII",
+      "summary": "",
+      "start": 979,
+      "end": 1018
+    },
+    {
+      "slug": "xxviii",
+      "title": "Capítulo XXVIII",
+      "summary": "",
+      "start": 1019,
+      "end": 1077
+    },
+    {
+      "slug": "xxix",
+      "title": "Capítulo XXIX",
+      "summary": "",
+      "start": 1078,
+      "end": 1098
+    },
+    {
+      "slug": "xxx",
+      "title": "Capítulo XXX",
+      "summary": "",
+      "start": 1099,
+      "end": 1120
+    },
+    {
+      "slug": "xxxi",
+      "title": "Capítulo XXXI",
+      "summary": "",
+      "start": 1121,
+      "end": 1140
+    },
+    {
+      "slug": "xxxii",
+      "title": "Capítulo XXXII",
+      "summary": "",
+      "start": 1141,
+      "end": 1186
+    },
+    {
+      "slug": "xxxiii",
+      "title": "Capítulo XXXIII",
+      "summary": "",
+      "start": 1187,
+      "end": 1249
+    },
+    {
+      "slug": "xxxiv",
+      "title": "Capítulo XXXIV",
+      "summary": "",
+      "start": 1250,
+      "end": 1267
+    },
+    {
+      "slug": "xxxv",
+      "title": "Capítulo XXXV",
+      "summary": "",
+      "start": 1268,
+      "end": 1343
+    },
+    {
+      "slug": "xxxvi",
+      "title": "Capítulo XXXVI",
+      "summary": "",
+      "start": 1344,
+      "end": 1381
+    },
+    {
+      "slug": "xxxvii",
+      "title": "Capítulo XXXVII",
+      "summary": "",
+      "start": 1382,
+      "end": 1391
+    },
+    {
+      "slug": "xxxviii",
+      "title": "Capítulo XXXVIII",
+      "summary": "",
+      "start": 1392,
+      "end": 1441
+    },
+    {
+      "slug": "xxxix",
+      "title": "Capítulo XXXIX",
+      "summary": "",
+      "start": 1442,
+      "end": 1483
+    },
+    {
+      "slug": "xl",
+      "title": "Capítulo XL",
+      "summary": "",
+      "start": 1484,
+      "end": 1509
+    },
+    {
+      "slug": "final",
+      "title": "Final",
+      "summary": "",
+      "start": 1510,
+      "end": 1537
+    }
+  ]
+}

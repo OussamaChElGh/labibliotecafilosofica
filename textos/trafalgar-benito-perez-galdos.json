@@ -1,0 +1,135 @@
+{
+  "slug": "trafalgar-benito-perez-galdos",
+  "title": "Trafalgar",
+  "author": "Benito Pérez Galdós",
+  "author_route": "",
+  "book_route": "/trafalgar-benito-perez-galdos/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Trafalgar",
+  "source_revision": 1537173,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "1",
+      "title": "Capítulo 1",
+      "summary": "",
+      "start": 0,
+      "end": 20
+    },
+    {
+      "slug": "2",
+      "title": "Capítulo 2",
+      "summary": "",
+      "start": 21,
+      "end": 45
+    },
+    {
+      "slug": "3",
+      "title": "Capítulo 3",
+      "summary": "",
+      "start": 46,
+      "end": 57
+    },
+    {
+      "slug": "4",
+      "title": "Capítulo 4",
+      "summary": "",
+      "start": 58,
+      "end": 115
+    },
+    {
+      "slug": "5",
+      "title": "Capítulo 5",
+      "summary": "",
+      "start": 116,
+      "end": 139
+    },
+    {
+      "slug": "6",
+      "title": "Capítulo 6",
+      "summary": "",
+      "start": 140,
+      "end": 192
+    },
+    {
+      "slug": "7",
+      "title": "Capítulo 7",
+      "summary": "",
+      "start": 193,
+      "end": 223
+    },
+    {
+      "slug": "8",
+      "title": "Capítulo 8",
+      "summary": "",
+      "start": 224,
+      "end": 263
+    },
+    {
+      "slug": "9",
+      "title": "Capítulo 9",
+      "summary": "",
+      "start": 264,
+      "end": 293
+    },
+    {
+      "slug": "10",
+      "title": "Capítulo 10",
+      "summary": "",
+      "start": 294,
+      "end": 323
+    },
+    {
+      "slug": "11",
+      "title": "Capítulo 11",
+      "summary": "",
+      "start": 324,
+      "end": 374
+    },
+    {
+      "slug": "12",
+      "title": "Capítulo 12",
+      "summary": "",
+      "start": 375,
+      "end": 442
+    },
+    {
+      "slug": "13",
+      "title": "Capítulo 13",
+      "summary": "",
+      "start": 443,
+      "end": 488
+    },
+    {
+      "slug": "14",
+      "title": "Capítulo 14",
+      "summary": "",
+      "start": 489,
+      "end": 528
+    },
+    {
+      "slug": "15",
+      "title": "Capítulo 15",
+      "summary": "",
+      "start": 529,
+      "end": 612
+    },
+    {
+      "slug": "16",
+      "title": "Capítulo 16",
+      "summary": "",
+      "start": 613,
+      "end": 644
+    },
+    {
+      "slug": "17",
+      "title": "Capítulo 17",
+      "summary": "",
+      "start": 645,
+      "end": 671
+    }
+  ]
+}

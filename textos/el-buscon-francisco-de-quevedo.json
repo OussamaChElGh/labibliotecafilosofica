@@ -1,0 +1,177 @@
+{
+  "slug": "el-buscon-francisco-de-quevedo",
+  "title": "Historia de la vida del Buscón",
+  "author": "Francisco de Quevedo",
+  "author_route": "",
+  "book_route": "/el-buscon-francisco-de-quevedo/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Historia_de_la_vida_del_Busc%C3%B3n",
+  "source_revision": 1526451,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "libro-primero-capitulo-i",
+      "title": "Capítulo I",
+      "summary": "",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "slug": "libro-primero-capitulo-ii",
+      "title": "Capítulo II",
+      "summary": "",
+      "start": 12,
+      "end": 34
+    },
+    {
+      "slug": "libro-primero-capitulo-iii",
+      "title": "Capítulo III",
+      "summary": "",
+      "start": 35,
+      "end": 67
+    },
+    {
+      "slug": "libro-primero-capitulo-iv",
+      "title": "Capítulo IV",
+      "summary": "",
+      "start": 68,
+      "end": 140
+    },
+    {
+      "slug": "libro-primero-capitulo-v",
+      "title": "Capítulo V",
+      "summary": "",
+      "start": 141,
+      "end": 203
+    },
+    {
+      "slug": "libro-primero-capitulo-vi",
+      "title": "Capítulo VI",
+      "summary": "",
+      "start": 204,
+      "end": 248
+    },
+    {
+      "slug": "libro-primero-capitulo-vii",
+      "title": "Capítulo VII",
+      "summary": "",
+      "start": 249,
+      "end": 261
+    },
+    {
+      "slug": "libro-segundo-capitulo-i",
+      "title": "Capítulo I",
+      "summary": "",
+      "start": 262,
+      "end": 316
+    },
+    {
+      "slug": "libro-segundo-capitulo-ii",
+      "title": "Capítulo II",
+      "summary": "",
+      "start": 317,
+      "end": 351
+    },
+    {
+      "slug": "libro-segundo-capitulo-iii",
+      "title": "Capítulo III",
+      "summary": "",
+      "start": 352,
+      "end": 422
+    },
+    {
+      "slug": "libro-segundo-capitulo-iv",
+      "title": "Capítulo IV",
+      "summary": "",
+      "start": 423,
+      "end": 462
+    },
+    {
+      "slug": "libro-segundo-capitulo-v",
+      "title": "Capítulo V",
+      "summary": "",
+      "start": 463,
+      "end": 483
+    },
+    {
+      "slug": "libro-segundo-capitulo-vi",
+      "title": "Capítulo VI",
+      "summary": "",
+      "start": 484,
+      "end": 504
+    },
+    {
+      "slug": "libro-tercero-capitulo-i",
+      "title": "Capítulo I",
+      "summary": "",
+      "start": 505,
+      "end": 525
+    },
+    {
+      "slug": "libro-tercero-capitulo-ii",
+      "title": "Capítulo II",
+      "summary": "",
+      "start": 526,
+      "end": 563
+    },
+    {
+      "slug": "libro-tercero-capitulo-iii",
+      "title": "Capítulo III",
+      "summary": "",
+      "start": 564,
+      "end": 570
+    },
+    {
+      "slug": "libro-tercero-capitulo-iv",
+      "title": "Capítulo IV",
+      "summary": "",
+      "start": 571,
+      "end": 615
+    },
+    {
+      "slug": "libro-tercero-capitulo-v",
+      "title": "Capítulo V",
+      "summary": "",
+      "start": 616,
+      "end": 636
+    },
+    {
+      "slug": "libro-tercero-capitulo-vi",
+      "title": "Capítulo VI",
+      "summary": "",
+      "start": 637,
+      "end": 660
+    },
+    {
+      "slug": "libro-tercero-capitulo-vii",
+      "title": "Capítulo VII",
+      "summary": "",
+      "start": 661,
+      "end": 714
+    },
+    {
+      "slug": "libro-tercero-capitulo-viii",
+      "title": "Capítulo VIII",
+      "summary": "",
+      "start": 715,
+      "end": 733
+    },
+    {
+      "slug": "libro-tercero-capitulo-ix",
+      "title": "Capítulo IX",
+      "summary": "",
+      "start": 734,
+      "end": 769
+    },
+    {
+      "slug": "libro-tercero-capitulo-x",
+      "title": "Capítulo X",
+      "summary": "",
+      "start": 770,
+      "end": 794
+    }
+  ]
+}

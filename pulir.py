@@ -631,7 +631,7 @@ SITE_VERIFICATION = '<meta name="google-site-verification" content="9Pr25-3zQJ3D
 
 
 # Verificación del dominio en Pinterest (Ajustes → Cuentas reclamadas → Sitios web → etiqueta HTML).
-PINTEREST_VERIFY = ""
+PINTEREST_VERIFY = "2b21d43f1b66cd9c381c2a99b7771a21"
 
 
 def add_pinterest_verification(document):

@@ -33,7 +33,7 @@ BOOK_ASSETS = ('<link rel="stylesheet" href="/lector-libro.css"><script>document
 def with_book_assets(document, meta):
     # Imagen para redes y vista previa de enlaces (la genera portadas.mjs).
     image = f'{BASE}/leer/{meta["slug"]}/social.jpg'
-    social = (f'<meta property="og:type" content="book"><meta property="og:site_name" content="La Biblioteca Filosófica">'
+    social = (f'<meta property="og:type" content="article"><meta property="og:site_name" content="La Biblioteca Filosófica">'
               f'<meta property="og:image" content="{image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
               f'<meta property="og:image:alt" content="Portada de {escape(meta["title"])}, de {escape(meta["author"])}">'
               f'<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{image}">')

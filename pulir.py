@@ -630,6 +630,28 @@ def add_icons(document):
 SITE_VERIFICATION = '<meta name="google-site-verification" content="9Pr25-3zQJ3DDZqOf3zBHWL3_m26MDGwgUiUcFUhpbs">'
 
 
+# Verificación del dominio en Pinterest (Ajustes → Cuentas reclamadas → Sitios web → etiqueta HTML).
+PINTEREST_VERIFY = ""
+
+
+def add_pinterest_verification(document):
+    if not PINTEREST_VERIFY or 'name="p:domain_verify"' in document or "</head>" not in document:
+        return document
+    return document.replace("</head>", f'<meta name="p:domain_verify" content="{PINTEREST_VERIFY}"></head>', 1)
+
+
+def add_rich_pin_meta(document):
+    """Rich Pins de Pinterest (tipo artículo): necesitan og:type «article» y el nombre del sitio."""
+    if "<head>" not in document or 'property="og:title"' not in document:
+        return document
+    extra = ""
+    if 'property="og:type"' not in document:
+        extra += '<meta property="og:type" content="article">'
+    if 'property="og:site_name"' not in document:
+        extra += '<meta property="og:site_name" content="La Biblioteca Filosófica">'
+    return document.replace("</head>", extra + "</head>", 1) if extra else document
+
+
 def add_site_verification(document):
     if "google-site-verification" in document or "</head>" not in document:
         return document
@@ -782,7 +804,7 @@ def main():
             document = render_related(document, suggestions(route, entries, frequency), entries)
         document = add_guide_link(add_paper_box(add_affiliate(seo_head(tag_amazon(document), route))), route, guides)
         # Mismo orden que en las páginas ya publicadas: Google, iconos y verificación de Search Console.
-        document = add_site_verification(add_icons(add_google_tags(document)))
+        document = add_pinterest_verification(add_rich_pin_meta(add_site_verification(add_icons(add_google_tags(document)))))
         pages[page] = add_reading_links(replace_nav(document, menu), route, reading)
     for page, result in pages.items():
         if result != originals[page]:

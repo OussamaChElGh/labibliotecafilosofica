@@ -431,7 +431,13 @@ def add_icons(document):
     return document.replace("</head>", ICONS_HEAD + "</head>", 1)
 
 
+# Verificación de la propiedad en Google Search Console (la que ponía Site Kit en el WordPress).
+SITE_VERIFICATION = '<meta name="google-site-verification" content="9Pr25-3zQJ3DDZqOf3zBHWL3_m26MDGwgUiUcFUhpbs">'
+
+
 def add_google_tags(document):
+    if "google-site-verification" not in document and "</head>" in document:
+        document = document.replace("</head>", SITE_VERIFICATION + "</head>", 1)
     if "pagead/js/adsbygoogle.js" in document or "</head>" not in document:
         return document
     return document.replace("</head>", GOOGLE_HEAD + "</head>", 1)

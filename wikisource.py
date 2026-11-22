@@ -73,6 +73,51 @@ def inline(node, refs):
     return clean(node.text_content())
 
 
+def subpages(page):
+    """Capítulos de una obra dividida en subpáginas (Marianela/I, Marianela/II…), en orden y sin repetir."""
+    data = api(action="parse", page=page, prop="text|revid", redirects=1)
+    if "error" in data:
+        raise SystemExit(f'{page}: {data["error"]["info"]}')
+    title = data["parse"]["title"]
+    prefix = "/wiki/" + title.replace(" ", "_") + "/"
+    seen, out = set(), []
+    for a in html.fromstring(data["parse"]["text"]).xpath("//a[@href]"):
+        href = urllib.parse.unquote(a.get("href")).split("#")[0]
+        if href.startswith(prefix) and href not in seen:
+            seen.add(href)
+            out.append((href[len("/wiki/"):].replace("_", " "), clean(a.text_content())))
+    return title, out, data["parse"].get("revid")
+
+
+def convert_chapters(page):
+    """Une las subpáginas en un solo texto: un H| por capítulo y las notas renumeradas en orden."""
+    title, parts, revision = subpages(page)
+    body, notes, chapters = [], [], []
+    for sub, label in parts:
+        blocks, _, _ = convert(sub)
+        own = [b for b in blocks if b.startswith("N|")]
+        blocks = [b for b in blocks if not b.startswith("N|")]
+        name = sub.split("/", 1)[1]
+        heads = []
+        while blocks and blocks[0].startswith("H|") and len(heads) < 3:
+            heads.append(blocks.pop(0)[2:].strip().rstrip("."))
+        subtitle = next((h for h in heads if h.lower() not in (name.lower(), label.lower(), title.lower())
+                         and not re.fullmatch(r"(cap[ií]tulo\s+)?[IVXLC\d]+", h, re.I)), "")
+        number = name if re.fullmatch(r"[IVXLC\d]+", name) else ""
+        text = subtitle or (label if label and label.lower() != name.lower() and not re.fullmatch(r"[IVXLC\d]+", label) else "")
+        if number:
+            heading = f"{number}. {text}" if text else f"Capítulo {number}"
+        else:
+            heading = text or name
+        offset = len(notes)
+        blocks = [re.sub(r"\[\[(\d+)\]\]", lambda m: f"[[{int(m.group(1)) + offset}]]", b) for b in blocks]
+        notes += own
+        chapters.append({"slug": slugify(name) or f"parte-{len(chapters) + 1}", "title": heading, "summary": "",
+                         "start": len(body), "end": len(body) + len(blocks)})
+        body += ["H|" + heading] + blocks
+    return body + notes, chapters, revision
+
+
 def convert(page):
     data = api(action="parse", page=page, prop="text|revid", redirects=1)
     if "error" in data:
@@ -194,9 +239,15 @@ def main():
     parser.add_argument("--ficha", default="")
     parser.add_argument("--traductor", default="")
     parser.add_argument("--edicion", default="")
+    parser.add_argument("--capitulos", action="store_true", help="obra dividida en subpáginas: un capítulo por subpágina")
     args = parser.parse_args()
-    blocks, speakers, revision = convert(args.page)
-    blocks, speakers = normalize(blocks, speakers)
+    chapters = None
+    if args.capitulos:
+        blocks, chapters, revision = convert_chapters(args.page)
+        speakers = {}
+    else:
+        blocks, speakers, revision = convert(args.page)
+        blocks, speakers = normalize(blocks, speakers)
     (TEXTS / f"{args.slug}.txt").write_text("\n".join(blocks), encoding="utf-8")
     config = TEXTS / f"{args.slug}.json"
     meta = json.loads(config.read_text(encoding="utf-8")) if config.exists() else {}
@@ -210,7 +261,9 @@ def main():
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
         "speakers": {str(k): v for k, v in speakers.items()},
     })
-    if "chapters" not in meta:
+    if chapters:
+        meta["chapters"] = chapters
+    elif "chapters" not in meta:
         meta["chapters"] = provisional_chapters(blocks, speakers)
     config.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     words = sum(len(b.split()) for b in blocks if b[:2] in ("P|", "V|"))

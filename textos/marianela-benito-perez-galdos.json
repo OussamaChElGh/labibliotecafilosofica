@@ -1,0 +1,170 @@
+{
+  "slug": "marianela-benito-perez-galdos",
+  "title": "Marianela",
+  "author": "Benito Pérez Galdós",
+  "author_route": "",
+  "book_route": "/marianela-benito-perez-galdos/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Marianela",
+  "source_revision": 1674904,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "i",
+      "title": "I. Perdido",
+      "summary": "",
+      "start": 0,
+      "end": 31
+    },
+    {
+      "slug": "ii",
+      "title": "II. Guiado",
+      "summary": "",
+      "start": 32,
+      "end": 105
+    },
+    {
+      "slug": "iii",
+      "title": "III. Un diálogo que servirá de exposicion",
+      "summary": "",
+      "start": 106,
+      "end": 191
+    },
+    {
+      "slug": "iv",
+      "title": "IV. La familia de piedra",
+      "summary": "",
+      "start": 192,
+      "end": 244
+    },
+    {
+      "slug": "v",
+      "title": "V. Trabajo.—Paisaje.—Figuras",
+      "summary": "",
+      "start": 245,
+      "end": 261
+    },
+    {
+      "slug": "vi",
+      "title": "VI. Tonterías",
+      "summary": "",
+      "start": 262,
+      "end": 337
+    },
+    {
+      "slug": "vii",
+      "title": "VII. Más tonterías",
+      "summary": "",
+      "start": 338,
+      "end": 409
+    },
+    {
+      "slug": "viii",
+      "title": "VIII. Prosiguen las tonterías",
+      "summary": "",
+      "start": 410,
+      "end": 483
+    },
+    {
+      "slug": "ix",
+      "title": "IX. Los Golfines",
+      "summary": "",
+      "start": 484,
+      "end": 555
+    },
+    {
+      "slug": "x",
+      "title": "X. Historia de dos hijos del pueblo",
+      "summary": "",
+      "start": 556,
+      "end": 570
+    },
+    {
+      "slug": "xi",
+      "title": "XI. El patriarca de Aldeacorba",
+      "summary": "",
+      "start": 571,
+      "end": 622
+    },
+    {
+      "slug": "xii",
+      "title": "XII. El doctor Celipin",
+      "summary": "",
+      "start": 623,
+      "end": 653
+    },
+    {
+      "slug": "xiii",
+      "title": "XIII. Entre dos cestas",
+      "summary": "",
+      "start": 654,
+      "end": 667
+    },
+    {
+      "slug": "xiv",
+      "title": "XIV. De cómo la Virgen Maria se apareció á la Nela",
+      "summary": "",
+      "start": 668,
+      "end": 717
+    },
+    {
+      "slug": "xv",
+      "title": "XV. Los tres",
+      "summary": "",
+      "start": 718,
+      "end": 755
+    },
+    {
+      "slug": "xvi",
+      "title": "XVI. La promesa",
+      "summary": "",
+      "start": 756,
+      "end": 780
+    },
+    {
+      "slug": "xvii",
+      "title": "XVII. Fugitiva y meditabunda",
+      "summary": "",
+      "start": 781,
+      "end": 846
+    },
+    {
+      "slug": "xviii",
+      "title": "XVIII. La Nela se decide á partir",
+      "summary": "",
+      "start": 847,
+      "end": 900
+    },
+    {
+      "slug": "xix",
+      "title": "XIX. Domesticacion",
+      "summary": "",
+      "start": 901,
+      "end": 1004
+    },
+    {
+      "slug": "xx",
+      "title": "XX. El Nuevo Mundo",
+      "summary": "",
+      "start": 1005,
+      "end": 1071
+    },
+    {
+      "slug": "xxi",
+      "title": "XXI. Los ojos matan",
+      "summary": "",
+      "start": 1072,
+      "end": 1224
+    },
+    {
+      "slug": "xxii",
+      "title": "XXII. Adios",
+      "summary": "",
+      "start": 1225,
+      "end": 1237
+    }
+  ]
+}

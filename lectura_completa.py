@@ -93,7 +93,7 @@ def cover_svg(meta, inline=False):
             f'<text x="300" y="{top - size - 28:.0f}" fill="{gold}" font-family="Inter, sans-serif" font-size="20" letter-spacing="7" text-anchor="middle">{escape(meta["author"].upper())}</text>'
             f'<g fill="{ink}" font-family="\'Caslon Display\', Fraunces, Georgia, serif" text-anchor="middle">{title}</g>'
             f'<g stroke="{gold}" stroke-width="1.4" fill="none"><circle cx="300" cy="650" r="54"/><circle cx="300" cy="650" r="20"/>{rays}</g>'
-            f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">Traducción de {escape(meta["translator"])}</text>'
+            f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">{escape(version(meta))}</text>'
             f'<text x="300" y="836" fill="{gold}" font-family="Inter, sans-serif" font-size="12" letter-spacing="4" text-anchor="middle">LECTURA COMPLETA · Nº {number}</text>'
             '</svg>')
 
@@ -133,7 +133,7 @@ def cover_art_svg(meta, inline=False):
             f'<text x="300" y="{top - size - 18:.0f}" fill="{gold}" font-family="Inter, sans-serif" font-size="19" letter-spacing="7" text-anchor="middle">{escape(meta["author"].upper())}</text>'
             f'<g fill="{ink}" font-family="\'Caslon Display\', Fraunces, Georgia, serif" text-anchor="middle">{title}</g>'
             f'<line x1="282" y1="{top + (len(lines) - 1) * size * 1.05 + 34:.0f}" x2="318" y2="{top + (len(lines) - 1) * size * 1.05 + 34:.0f}" stroke="{gold}" stroke-width="1"/>'
-            f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">Traducción de {escape(meta["translator"])}</text>'
+            f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">{escape(version(meta))}</text>'
             f'<text x="300" y="836" fill="{gold}" font-family="Inter, sans-serif" font-size="12" letter-spacing="4" text-anchor="middle">LECTURA COMPLETA · Nº {number}</text>'
             '</svg>')
 
@@ -152,9 +152,20 @@ def write(route, document):
     target.write_text(document, encoding="utf-8")
 
 
+def version(meta, edition=False):
+    """«Traducción de …» o, para obras escritas en español, la edición."""
+    text = f'Traducción de {meta["translator"]}' if meta.get("translator") else "Texto original en español"
+    if edition and meta.get("edition"):
+        text += f' ({meta["edition"]})'
+    return text
+
+
+def translator_schema(meta):
+    return {"translator": {"@type": "Person", "name": meta["translator"]}} if meta.get("translator") else {}
+
+
 def credit(meta):
-    return (f'<p class="rights-note">Texto de dominio público. Traducción de {escape(meta["translator"])} '
-            f'({escape(meta["edition"])}). Transcripción de <a href="{escape(meta["source_url"])}">Wikisource</a>, '
+    return (f'<p class="rights-note">Texto de dominio público. {escape(version(meta, edition=True))}. Transcripción de <a href="{escape(meta["source_url"])}">Wikisource</a>, '
             f'publicada bajo licencia <a href="{escape(meta["license_url"])}">{escape(meta["license"])}</a>. '
             f'División en capítulos, títulos y resúmenes: La Biblioteca Filosófica.{art_credit(meta)}</p>')
 
@@ -228,7 +239,7 @@ def build(meta, blocks):
     index_schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs_index), {
         "@type": "Book", "name": meta["title"], "url": BASE + base_route, "inLanguage": "es",
         "isAccessibleForFree": True, "author": {"@type": "Person", "name": meta["author"]},
-        "translator": {"@type": "Person", "name": meta["translator"]},
+        **translator_schema(meta),
         "license": meta["license_url"],
         "hasPart": [{"@type": "Chapter", "name": c["title"], "position": i, "url": f'{BASE}{base_route}{c["slug"]}/'}
                     for i, c in enumerate(chapters, start=1)]}]}
@@ -323,7 +334,7 @@ def write_ficha(meta):
     body = (f'{TOOLBAR}<article class="reading reader-v2 reader-book guide book-ficha" id="lectura">{breadcrumbs(crumbs)}'
             f'<div class="book-detail"><figure class="featured"><img src="{base}portada-ficha.jpg" alt="Portada de {escape(title)}, de {escape(author)}" width="400" height="600"></figure>'
             f'<div><p class="eyebrow">Ficha de libro · {escape(author)}</p><h1>{escape(title)}, de {escape(author)}</h1>'
-            f'<p class="book-context">Diálogo sobre {escape(ficha["tema"])}. {stats["chapters"]} partes · {duration(stats["minutes"])} de lectura.</p>'
+            f'<p class="book-context">{escape(ficha.get("genero", "Diálogo"))} sobre {escape(ficha["tema"])}. {stats["chapters"]} {ficha.get("unidad", "partes")} · {duration(stats["minutes"])} de lectura.</p>'
             f'<p class="access-badge"><span aria-hidden="true">●</span> Dominio público: lectura online y PDF gratis</p>'
             f'<div class="actions"><a class="button" href="{meta["_start_reading"]}">Leer online gratis ↗</a>'
             f'<a class="button secondary" href="{base}{slug}.pdf" download>Descargar PDF ↓</a></div>'
@@ -337,14 +348,14 @@ def write_ficha(meta):
             f'<h2 id="personajes">Personajes</h2><dl class="guide-characters">{people}</dl>'
             f'<h2 id="ideas">Ideas principales</h2><ul>{ideas}</ul>'
             f'<h2 id="leer">Leer {escape(title)} completo</h2>'
-            f'<p>El texto íntegro, gratis y sin registro, en {stats["chapters"]} partes. También puedes '
+            f'<p>El texto íntegro, gratis y sin registro, en {stats["chapters"]} {ficha.get("unidad", "partes")}. También puedes '
             f'<a href="{base}{slug}.pdf" download>descargar {escape(title)} en PDF</a>.</p><ol class="chapter-list">{chapters}</ol>'
             f'<h2 id="preguntas">Preguntas frecuentes</h2>{faq}'
             f'<p class="guide-link">{author_link}<a href="/leer/">Más obras para leer online</a> · <a href="/resumenes/">Resúmenes</a></p>'
             f'{credit(meta)}</div></article>')
     schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
         "@type": "Book", "name": title, "url": BASE + route, "inLanguage": "es", "isAccessibleForFree": True,
-        "author": {"@type": "Person", "name": author}, "translator": {"@type": "Person", "name": meta["translator"]},
+        "author": {"@type": "Person", "name": author}, **translator_schema(meta),
         "image": f"{BASE}{base}portada-ficha.jpg", "license": meta["license_url"], "description": meta["description"],
         "workExample": {"@type": "Book", "bookFormat": "https://schema.org/EBook", "url": f'{BASE}{meta["_start_reading"]}'}},
         {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
@@ -536,11 +547,11 @@ def write_hubs(metas):
                m["ficha"]["resumen"][0], "Ver resumen y personajes")
               for m in metas if m.get("guide") or m.get("ficha")]
     routes = [
-        hub_page("/leer/", "Leer gratis", f"Lectura completa · {len(reading)} obras", "Libros de filosofía para leer online gratis",
-                 "Leer libros de filosofía online gratis y completos",
-                 "Obras completas de filosofía para leer online gratis y sin registro: textos de dominio público en traducciones clásicas, divididos en capítulos, con notas y marcapáginas.",
+        hub_page("/leer/", "Leer gratis", f"Lectura completa · {len(reading)} obras", "Libros de filosofía y literatura clásica para leer online gratis",
+                 "Leer libros de filosofía y clásicos online gratis y completos",
+                 "Obras completas de filosofía y literatura clásica para leer online gratis y sin registro: textos de dominio público divididos en capítulos, con notas y marcapáginas.",
                  "<p>Obras completas de dominio público para leer aquí mismo, sin descargar nada ni registrarte. Cada libro está dividido en capítulos, "
-                 "conserva las notas del traductor y recuerda en tu navegador dónde lo dejaste. También puedes descargar cada obra en PDF.</p>",
+                 "conserva las notas de la edición y recuerda en tu navegador dónde lo dejaste. También puedes descargar cada obra en PDF.</p>",
                  reading, '<p class="guide-link">¿Prefieres empezar por lo esencial? <a href="/resumenes/">Resúmenes y guías de lectura</a> · '
                           '<a href="/frases/">Frases célebres con su fuente</a>.</p>'),
     ]
@@ -593,8 +604,8 @@ def write_print_edition(meta, rendered):
 <meta name="author" content="{escape(meta["author"])}"><link rel="stylesheet" href="../../impresion.css"></head><body>
 <section class="cover" style="background:{COVER_COLORS.get(meta.get("cover", {}).get("color", "verde"), "#143a2c")}">{cover_svg(meta, inline=True)}</section>
 <section class="title-page"><p class="series">La Biblioteca Filosófica · Lectura completa</p><p class="author">{escape(meta["author"])}</p>
-<h1>{escape(meta["title"])}</h1><p class="translator">Traducción de {escape(meta["translator"])}</p></section>
-<section class="credits"><p>{escape(meta["title"])}, de {escape(meta["author"])}. Traducción de {escape(meta["translator"])} ({escape(meta["edition"])}).
+<h1>{escape(meta["title"])}</h1><p class="translator">{escape(version(meta))}</p></section>
+<section class="credits"><p>{escape(meta["title"])}, de {escape(meta["author"])}. {escape(version(meta, edition=True))}.
 Texto de dominio público.</p><p>Transcripción de <a href="{escape(meta["source_url"])}">Wikisource</a>, publicada bajo licencia
 <a href="{escape(meta["license_url"])}">{escape(meta["license"])}</a>. Esta edición, con su división en capítulos, títulos y resúmenes,
 se publica bajo la misma licencia.{art_credit(meta)}</p><p>Edición de La Biblioteca Filosófica. Léela también online, con marcapáginas, en

@@ -45,7 +45,7 @@ h1{font-family:'Caslon Display',Fraunces,serif;font-weight:400;font-size:${size}
 <div class="cover">${svg}</div>
 <div class="text"><div class="brand">LA BIBLIOTECA FILOSÓFICA</div>
 <div class="author">${esc(meta.author.toUpperCase())}</div><h1>${esc(meta.title)}</h1>
-<div class="tr">Traducción de ${esc(meta.translator)}</div>
+<div class="tr">${meta.translator ? "Traducción de " + esc(meta.translator) : "Texto original en español"}</div>
 <div class="cta"><b>Léelo gratis online</b><span>${meta.chapters.length} capítulos · con marcapáginas</span></div></div>`
 }
 

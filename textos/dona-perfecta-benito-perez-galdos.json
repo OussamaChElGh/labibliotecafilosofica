@@ -1,0 +1,247 @@
+{
+  "slug": "dona-perfecta-benito-perez-galdos",
+  "title": "Doña Perfecta",
+  "author": "Benito Pérez Galdós",
+  "author_route": "",
+  "book_route": "/dona-perfecta-benito-perez-galdos/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Do%C3%B1a_Perfecta",
+  "source_revision": 1674813,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "i",
+      "title": "I. ¡Villahorrenda...!, ¡cinco minutos...!",
+      "summary": "",
+      "start": 0,
+      "end": 17
+    },
+    {
+      "slug": "ii",
+      "title": "II. Un viaje por el corazón de España",
+      "summary": "",
+      "start": 18,
+      "end": 125
+    },
+    {
+      "slug": "iii",
+      "title": "III. Pepe Rey",
+      "summary": "",
+      "start": 126,
+      "end": 144
+    },
+    {
+      "slug": "iv",
+      "title": "IV. La llegada del primo",
+      "summary": "",
+      "start": 145,
+      "end": 183
+    },
+    {
+      "slug": "v",
+      "title": "V. ¿Habrá desavenencia?",
+      "summary": "",
+      "start": 184,
+      "end": 210
+    },
+    {
+      "slug": "vi",
+      "title": "VI. Donde se ve que puede surgir la desavenencia cuando menos se espera",
+      "summary": "",
+      "start": 211,
+      "end": 238
+    },
+    {
+      "slug": "vii",
+      "title": "VII. La desavenencia crece",
+      "summary": "",
+      "start": 239,
+      "end": 266
+    },
+    {
+      "slug": "viii",
+      "title": "VIII. A toda prisa",
+      "summary": "",
+      "start": 267,
+      "end": 339
+    },
+    {
+      "slug": "ix",
+      "title": "IX. La desavenencia sigue creciendo y amenaza convertirse en discordia",
+      "summary": "",
+      "start": 340,
+      "end": 410
+    },
+    {
+      "slug": "x",
+      "title": "X. La existencia de la discordia es evidente",
+      "summary": "",
+      "start": 411,
+      "end": 486
+    },
+    {
+      "slug": "xi",
+      "title": "XI. La discordia crece",
+      "summary": "",
+      "start": 487,
+      "end": 577
+    },
+    {
+      "slug": "xii",
+      "title": "XII. Aquí fue Troya",
+      "summary": "",
+      "start": 578,
+      "end": 663
+    },
+    {
+      "slug": "xiii",
+      "title": "XIII. Un casus belli",
+      "summary": "",
+      "start": 664,
+      "end": 728
+    },
+    {
+      "slug": "xiv",
+      "title": "XIV. La discordia sigue creciendo",
+      "summary": "",
+      "start": 729,
+      "end": 816
+    },
+    {
+      "slug": "xv",
+      "title": "XV. Sigue creciendo, hasta que se declara la guerra",
+      "summary": "",
+      "start": 817,
+      "end": 859
+    },
+    {
+      "slug": "xvi",
+      "title": "XVI. Noche",
+      "summary": "",
+      "start": 860,
+      "end": 885
+    },
+    {
+      "slug": "xvii",
+      "title": "XVII. Luz a oscuras",
+      "summary": "",
+      "start": 886,
+      "end": 1000
+    },
+    {
+      "slug": "xviii",
+      "title": "XVIII. Tropa",
+      "summary": "",
+      "start": 1001,
+      "end": 1072
+    },
+    {
+      "slug": "xix",
+      "title": "XIX. Combate terrible.- Estrategia",
+      "summary": "",
+      "start": 1073,
+      "end": 1172
+    },
+    {
+      "slug": "xx",
+      "title": "XX. Rumores.- Temores",
+      "summary": "",
+      "start": 1173,
+      "end": 1234
+    },
+    {
+      "slug": "xxi",
+      "title": "XXI. Desperta ferro",
+      "summary": "",
+      "start": 1235,
+      "end": 1318
+    },
+    {
+      "slug": "xxii",
+      "title": "XXII. ¡Desperta!",
+      "summary": "",
+      "start": 1319,
+      "end": 1371
+    },
+    {
+      "slug": "xxiii",
+      "title": "XXIII. Misterio",
+      "summary": "",
+      "start": 1372,
+      "end": 1407
+    },
+    {
+      "slug": "xxiv",
+      "title": "XXIV. La confesión",
+      "summary": "",
+      "start": 1408,
+      "end": 1415
+    },
+    {
+      "slug": "xxv",
+      "title": "XXV. Sucesos imprevistos.- Pasajero desconcierto",
+      "summary": "",
+      "start": 1416,
+      "end": 1496
+    },
+    {
+      "slug": "xxvi",
+      "title": "XXVI. María Remedios",
+      "summary": "",
+      "start": 1497,
+      "end": 1533
+    },
+    {
+      "slug": "xxvii",
+      "title": "XXVII. El tormento de un canónigo",
+      "summary": "",
+      "start": 1534,
+      "end": 1629
+    },
+    {
+      "slug": "xxviii",
+      "title": "XXVIII. De Pepe Rey a D. Juan Rey",
+      "summary": "",
+      "start": 1630,
+      "end": 1650
+    },
+    {
+      "slug": "xxix",
+      "title": "XXIX. De Pepe Rey a Rosarito Polentinos",
+      "summary": "",
+      "start": 1651,
+      "end": 1652
+    },
+    {
+      "slug": "xxx",
+      "title": "XXX. El ojeo",
+      "summary": "",
+      "start": 1653,
+      "end": 1693
+    },
+    {
+      "slug": "xxxi",
+      "title": "Capítulo XXXI",
+      "summary": "",
+      "start": 1694,
+      "end": 1777
+    },
+    {
+      "slug": "xxxii",
+      "title": "XXXII. De D. Cayetano Polentinos a un su amigo de Madrid",
+      "summary": "",
+      "start": 1778,
+      "end": 1802
+    },
+    {
+      "slug": "xxxiii",
+      "title": "Capítulo XXXIII",
+      "summary": "",
+      "start": 1803,
+      "end": 1805
+    }
+  ]
+}

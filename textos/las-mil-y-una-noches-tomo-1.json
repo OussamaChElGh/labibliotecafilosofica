@@ -1,0 +1,664 @@
+{
+  "slug": "las-mil-y-una-noches-tomo-1",
+  "title": "Las mil y una noches (Tomo I)",
+  "author": "Anónimo",
+  "author_route": "",
+  "book_route": "/las-mil-y-una-noches-pdf/",
+  "translator": "Vicente Blasco Ibáñez",
+  "edition": "El libro de las mil noches y una noche, versión de J. C. Mardrus, Valencia, Prometeo",
+  "source_url": "https://es.wikisource.org/wiki/Las_mil_y_una_noches",
+  "source_revision": 1488949,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "una-palabra-del-traductor-a-sus-amigos",
+      "title": "Una palabra del traductor a sus amigos",
+      "summary": "Empieza: «Ellas me fueron dulces durante los ocios en remotos mares, bajo un cielo ahora lejano.»",
+      "start": 0,
+      "end": 29
+    },
+    {
+      "slug": "invocacion-preliminar",
+      "title": "Invocación preliminar",
+      "summary": "Empieza: «¡La alabanza a Alah, amo del universo! ¡Y la plegaria y la paz para el príncipe de los enviados, nuestro señor y…»",
+      "start": 30,
+      "end": 37
+    },
+    {
+      "slug": "historia-del-rey-schahriar-y-su-hermano-el-rey-schahzaman",
+      "title": "Historia del rey Schahriar y su hermano el rey Schahzaman",
+      "summary": "Empieza: «Siguiendo las cosas el mismo curso, residieron cada uno en su país, y gobernaron con justicia á sus ovejas durante veinte años.…»",
+      "start": 38,
+      "end": 68
+    },
+    {
+      "slug": "fabula-del-asno-el-buey-y-el-labrador",
+      "title": "Fábula del asno, el buey y el labrador",
+      "summary": "Empieza: ««Has de saber, hija mía, que hubo un comerciante dueño de grandes riquezas y de mucho ganado. Estaba casado y con hijos.…»",
+      "start": 69,
+      "end": 88
+    },
+    {
+      "slug": "historia-del-mercader-y-el-efrit",
+      "title": "Historia del mercader y el efrit",
+      "summary": "Empieza: «He llegado á saber, ¡oh rey afortunado! que hubo un mercader entre los mercaderes, dueño de numerosas riquezas y de negocios comerciales…»",
+      "start": 89,
+      "end": 140
+    },
+    {
+      "slug": "historia-del-pescador-y-el-efrit",
+      "title": "Historia del pescador y el efrit",
+      "summary": "Empieza: «Tenía por costumbre echar las redes sólo cuatro veces al día y nada más. Un día entre los días, á las doce…»",
+      "start": 141,
+      "end": 261
+    },
+    {
+      "slug": "historia-del-mandadero-y-las-tres-doncellas",
+      "title": "Historia del mandadero y las tres doncellas",
+      "summary": "Empieza: «Un día entre los días, mientras estaba en el zoco, indolentemente apoyado en su espuerta, se paró delante de él una mujer…»",
+      "start": 262,
+      "end": 674
+    },
+    {
+      "slug": "historia-de-la-mujer-despedazada-de-las-tres-manzanas-y-del",
+      "title": "Historia de la mujer despedazada, de las tres manzanas y del negro Rihán",
+      "summary": "Empieza: «Una noche entre las noches, el califa Harún Al-Rachid dijo á Giafar Al-Barmaki: «Quiero que recorramos la ciudad, para enterarnos de lo…»",
+      "start": 675,
+      "end": 716
+    },
+    {
+      "slug": "historia-del-visir-nureddin-de-su-hermano-el-visir-chamseddi",
+      "title": "Historia del visir Nureddin, de su hermano el visir Chamseddin y de Hassán Badreddin",
+      "summary": "Empieza: «Sabe, ¡oh Comendador de los Creyentes! que había en el país de Mesr[[53]] un sultán justo y benéfico. Este sultán tenía un…»",
+      "start": 717,
+      "end": 752
+    },
+    {
+      "slug": "noche-20",
+      "title": "Noche 20",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado!, que entonces el visir se levantó, acogiendo con júbilo al hermoso Nureddin y diciéndole: \"Entra,…»",
+      "start": 753,
+      "end": 811
+    },
+    {
+      "slug": "noche-21",
+      "title": "Noche 21",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el efrit terminó su relato con estas palabras: \"Y no esperan otra cosa sino…»",
+      "start": 812,
+      "end": 892
+    },
+    {
+      "slug": "noche-22",
+      "title": "Noche 22",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que Giafar prosiguió así la historia al califa Harún Al-Raschid:»",
+      "start": 893,
+      "end": 910
+    },
+    {
+      "slug": "noche-23",
+      "title": "Noche 23",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que Giafar al-Barmakí, visir del rey Harún Al-Raschid, prosiguió de este modo la historia que…»",
+      "start": 911,
+      "end": 979
+    },
+    {
+      "slug": "noche-24",
+      "title": "Noche 24",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que la abuela de Agib se encolerizó mucho, miró al esclavo de una manera terrible,…»",
+      "start": 980,
+      "end": 1034
+    },
+    {
+      "slug": "historia-del-jorobado-con-el-sastre-el-corredor-nazareno-el",
+      "title": "Historia del jorobado, con el sastre, el corredor nazareno, el intendente y el médico judío; lo que de ello resultó, y sus aventuras sucesivamente referidas",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que en la antigüedad del tiempo y en lo pasado de las edades y de…»",
+      "start": 1035,
+      "end": 1083
+    },
+    {
+      "slug": "noche-25",
+      "title": "Noche 25",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que cuando el sastre vió morir de aquella manera al jorobado, exclamó: \"¡Sólo Alah el…»",
+      "start": 1084,
+      "end": 1119
+    },
+    {
+      "slug": "noche-25-continuacion",
+      "title": "Noche 25 (continuación)",
+      "summary": "Empieza: «Sabe, ¡oh rey del tiempo! que vine a este país para un asunto comercial. Soy un extranjero a quien el Destino encaminó…»",
+      "start": 1120,
+      "end": 1166
+    },
+    {
+      "slug": "noche-26",
+      "title": "Noche 26",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el mercader prosiguió así su historia al corredor copto de El Cairo, el cual…»",
+      "start": 1167,
+      "end": 1207
+    },
+    {
+      "slug": "noche-27",
+      "title": "Noche 27",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que cuando el rey de la China dijo: \"Voy a mandar que os ahorquen a…»",
+      "start": 1208,
+      "end": 1258
+    },
+    {
+      "slug": "noche-27-continuacion",
+      "title": "Noche 27 (continuación)",
+      "summary": "Empieza: «La cosa más extraordinaria que me ocurrió en mi juventud es precisamente esta que vais a oír, ¡oh mis señores llenos de…»",
+      "start": 1259,
+      "end": 1286
+    },
+    {
+      "slug": "noche-28",
+      "title": "Noche 28",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el médico judío continuó de este modo la historia del joven:»",
+      "start": 1287,
+      "end": 1312
+    },
+    {
+      "slug": "noche-28-continuacion",
+      "title": "Noche 28 (continuación)",
+      "summary": "Empieza: «Sabe, pues, ¡oh rey del tiempo! que antes de mi aventura con el jorobado me habían convidado en una casa donde se…»",
+      "start": 1313,
+      "end": 1319
+    },
+    {
+      "slug": "noche-28-continuacion-2",
+      "title": "Noche 28 (continuación 2)",
+      "summary": "Empieza: «Sabed, oh, todos los aquí presentes, que mi padre era uno de los principales mercaderes de Bagdad, y por voluntad de Alah…»",
+      "start": 1320,
+      "end": 1341
+    },
+    {
+      "slug": "noche-29",
+      "title": "Noche 29",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que cuando el joven dijo al barbero: \"Vas a volverme loco y a matarme de…»",
+      "start": 1342,
+      "end": 1378
+    },
+    {
+      "slug": "noche-30",
+      "title": "Noche 30",
+      "summary": "Empieza: «He llegado a saber ¡oh rey afortunado! que el kadí, sorprendido, les dijo: \"¿Qué ha hecho vuestro amo para que yo lo…»",
+      "start": 1379,
+      "end": 1394
+    },
+    {
+      "slug": "noche-30-continuacion",
+      "title": "Noche 30 (continuación)",
+      "summary": "Empieza: «HISTORIAS DEL BARBERO DE BAGDAD Y DE SUS SEIS HERMANOS»",
+      "start": 1395,
+      "end": 1409
+    },
+    {
+      "slug": "noche-30-continuacion-2",
+      "title": "Noche 30 (continuación 2)",
+      "summary": "Empieza: «Así, ¡oh Emir de los Creyentes! que el mayor de mis hermanos, el que quedó cojo, se llama El-Bacbuk, porque cuando se…»",
+      "start": 1410,
+      "end": 1436
+    },
+    {
+      "slug": "noche-30-continuacion-3",
+      "title": "Noche 30 (continuación 3)",
+      "summary": "Empieza: «Sabed, pues, ¡oh Emir de los Creyentes! que mi segundo hermano se llama El-Haddar, porque muge como un camello. Y además está…»",
+      "start": 1437,
+      "end": 1450
+    },
+    {
+      "slug": "noche-31",
+      "title": "Noche 31",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el barbero prosiguió su relato en esta forma:»",
+      "start": 1451,
+      "end": 1459
+    },
+    {
+      "slug": "historia-de-bacbac",
+      "title": "Historia de Bacbac",
+      "summary": "Empieza: «Bacbac el ciego, por otro nombre el Cacareador hinchado, es mi tercer hermano. Era mendigo de oficio, y uno de los principales…»",
+      "start": 1460,
+      "end": 1481
+    },
+    {
+      "slug": "historia-de-el-kuz",
+      "title": "Historia de El-Kuz",
+      "summary": "Empieza: «Mi cuarto hermano, el tuerto El-Kuz, El Assuaní, o el botijo irrompible, ejercía en Bagdad el oficio de carnicero. Sobresalía en la…»",
+      "start": 1482,
+      "end": 1505
+    },
+    {
+      "slug": "historia-de-el-aschar",
+      "title": "Historia de El-Aschar",
+      "summary": "Empieza: «Este hermano mío, ¡oh Emir de los Creyentes! fué precisamente aquel a quien cortaron la nariz y las orejas. Le llaman El-Aschar…»",
+      "start": 1506,
+      "end": 1516
+    },
+    {
+      "slug": "noche-32",
+      "title": "Noche 32",
+      "summary": "Empieza: «Siguió contando la historia al rey Schahriar:»",
+      "start": 1517,
+      "end": 1564
+    },
+    {
+      "slug": "historia-de-schakalik",
+      "title": "Historia de Schakalik",
+      "summary": "Empieza: «Se llama Schakalik o el Tarro hendido, ¡oh Comendador de los Creyentes! Y a este hermano mío le cortaron los labios, y…»",
+      "start": 1565,
+      "end": 1649
+    },
+    {
+      "slug": "historia-de-dulce-amiga",
+      "title": "Historia de Dulce-Amiga",
+      "summary": "Empieza: «He llegado a saber, !oh rey afortunado! que el trono de Bassra fué ocupado por un sultán tributario de su soberano el…»",
+      "start": 1650,
+      "end": 1712
+    },
+    {
+      "slug": "noche-33",
+      "title": "Noche 33",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el visir Fadleddin dijo a su mujer: \"Aquel día mi enemigo el visir Sauí…»",
+      "start": 1713,
+      "end": 1808
+    },
+    {
+      "slug": "noche-34",
+      "title": "Noche 34",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que cuando el capitán contestó a Alí-Nur: \"Para Bagdad, morada de paz\", Alí-Nur suplicó: \"Aguarda,…»",
+      "start": 1809,
+      "end": 1847
+    },
+    {
+      "slug": "noche-35",
+      "title": "Noche 35",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que Alí-Nur se echó a reír, se incorporó bruscamente, y dijo a Ibrahim: ¿Qué estás…»",
+      "start": 1848,
+      "end": 1931
+    },
+    {
+      "slug": "noche-36",
+      "title": "Noche 36",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que cuando el califa dijo a Alí-Nur: \"Te escribiré una carta que entregarás al sultán…»",
+      "start": 1932,
+      "end": 1991
+    },
+    {
+      "slug": "historia-de-ghanem-ben-ayub-y-de-su-hermana-fetnah",
+      "title": "HISTORIA DE GHANEM BEN - AYUB Y DE SU HERMANA FETNAH",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que en la antigüedad de los tiempos, en lo pasado de los siglos y de…»",
+      "start": 1992,
+      "end": 2018
+    },
+    {
+      "slug": "noche-38",
+      "title": "Noche 38",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que cuando uno de los negros sudaneses propuso que cada uno contase la historia de…»",
+      "start": 2019,
+      "end": 2031
+    },
+    {
+      "slug": "historia-del-negro-kafur-segundo-eunuco-sudanes",
+      "title": "Historia del negro Kafur, segundo eunuco sudanés",
+      "summary": "Empieza: «Sabed, ¡oh mis hermanos! que cuando sólo tenía ocho años de edad era ya tan experto en el arte de mentir, que…»",
+      "start": 2032,
+      "end": 2042
+    },
+    {
+      "slug": "noche-39",
+      "title": "Noche 39",
+      "summary": "Empieza: «Entonces corrí al jardín, mientras que las mujeres y todos los demás se dirigían a casa del walí para contarle lo ocurrido.…»",
+      "start": 2043,
+      "end": 2068
+    },
+    {
+      "slug": "historia-del-negro-bakhita-tercer-eunuco-sudanes",
+      "title": "Historia del negro Bakhita, tercer eunuco sudanés",
+      "summary": "Empieza: «Sabed, ¡oh hijos de mi tío! que cuanto acabamos de oír es inocente y vano. Os voy a contar la causa de…»",
+      "start": 2069,
+      "end": 2086
+    },
+    {
+      "slug": "noche-39-continuacion",
+      "title": "Noche 39 (continuación)",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado!, que Ghanem llegó sin contratiempo a su casa, abrió el cajón y ayudó a salir…»",
+      "start": 2087,
+      "end": 2137
+    },
+    {
+      "slug": "noche-41",
+      "title": "Noche 41",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el califa acudió todos los días a la tumba de su favorita durante un…»",
+      "start": 2138,
+      "end": 2182
+    },
+    {
+      "slug": "noche-42",
+      "title": "Noche 42",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que cuando el califa se encolerizó tanto contra Kuat Al-Kulub y la mandó encerrar en…»",
+      "start": 2183,
+      "end": 2210
+    },
+    {
+      "slug": "noche-43",
+      "title": "Noche 43",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que después que Kuat Al.Kulub dijo a la madre y a la hermana de Ghanem:…»",
+      "start": 2211,
+      "end": 2222
+    },
+    {
+      "slug": "noche-44",
+      "title": "Noche 44",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el califa Harún Al-Raschid, encantado por la elocuencia de Ghanem, le hizo acercarse a…»",
+      "start": 2223,
+      "end": 2241
+    },
+    {
+      "slug": "noche-45",
+      "title": "Noche 45",
+      "summary": "Empieza: «A todo esto, Scharkán, el hijo del rey, se enteró del embarazo de la concubina, y experimentó una gran pena, sobre todo…»",
+      "start": 2242,
+      "end": 2274
+    },
+    {
+      "slug": "noche-46",
+      "title": "Noche 46",
+      "summary": "Empieza: «Y he aquí en qué consistían aquellos presentes del rey Afridonios, señor de Contantinia:»",
+      "start": 2275,
+      "end": 2301
+    },
+    {
+      "slug": "noche-47",
+      "title": "Noche 47",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que la vieja, Madre de todas las Calamidades, dijo: \"¡Nada de eso; mi desafío es…»",
+      "start": 2302,
+      "end": 2330
+    },
+    {
+      "slug": "noche-48",
+      "title": "Noche 48",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que la joven dijo a Scharkán, a quien estaba muy lejos de conocer: \"Ahora ven…»",
+      "start": 2331,
+      "end": 2348
+    },
+    {
+      "slug": "noche-49",
+      "title": "Noche 49",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que la joven desconocida dijo a Scharkán: \"¡Oh musulmán! ¿ves como así la vida es…»",
+      "start": 2349,
+      "end": 2393
+    },
+    {
+      "slug": "noche-50",
+      "title": "Noche 50",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que la joven reina Abriza exclamó: \"¡Y veremos quién de todos vosotros es el héroe!\"»",
+      "start": 2394,
+      "end": 2463
+    },
+    {
+      "slug": "noche-51",
+      "title": "Noche 51",
+      "summary": "Empieza: «Vieron relucir a lo lejos las mezquitas gloriosas de la ciudad de paz. Y Scharkán rogó a la reina Abriza y a…»",
+      "start": 2464,
+      "end": 2510
+    },
+    {
+      "slug": "noche-52",
+      "title": "Noche 52",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el horrible negro dijo a la reina: \"¡Oh señora mía! por favor, déjame poseerte\".»",
+      "start": 2511,
+      "end": 2532
+    },
+    {
+      "slug": "noche-53",
+      "title": "Noche 53",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el rey Hardobios mandó llamar inmediatamente a los sabios musulmanes y a las jóvenes…»",
+      "start": 2533,
+      "end": 2574
+    },
+    {
+      "slug": "noche-54",
+      "title": "Noche 54",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que Daul'makán notó que penetraba en él un gran alivio y que le vivificaba como…»",
+      "start": 2575,
+      "end": 2599
+    },
+    {
+      "slug": "noche-55",
+      "title": "Noche 55",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el encargado del hammam alquiló un asno en el cual hizo subir a Daul'makán.…»",
+      "start": 2600,
+      "end": 2629
+    },
+    {
+      "slug": "noche-56",
+      "title": "Noche 56",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que Nozhatú se comió un pedazo de aquella galleta que le había dado su raptor.…»",
+      "start": 2630,
+      "end": 2649
+    },
+    {
+      "slug": "noche-57",
+      "title": "Noche 57",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el mercader dijo: \"No quiero más que verle la cara\". Y se adelantó hacia…»",
+      "start": 2650,
+      "end": 2663
+    },
+    {
+      "slug": "noche-58",
+      "title": "Noche 58",
+      "summary": "Empieza: «Por lo que se refiere a la joven Nozhatú, he aquí que el buen mercader la llevó a su casa, le dió…»",
+      "start": 2664,
+      "end": 2678
+    },
+    {
+      "slug": "noche-59",
+      "title": "Noche 59",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el mercader exclamó: \"Gloria al que te ha modelado, ¡oh maravillosa criatura!\" Y le…»",
+      "start": 2679,
+      "end": 2692
+    },
+    {
+      "slug": "noche-60",
+      "title": "Noche 60",
+      "summary": "Empieza: «Sed testigos de que desde este momento emancipo a esta joven esclava que acabo de comprar y que me caso con ella\".…»",
+      "start": 2693,
+      "end": 2702
+    },
+    {
+      "slug": "palabras-sobre-las-tres-puertas",
+      "title": "Palabras sobre las tres puertas",
+      "summary": "Empieza: «Te hablaré, en primer lugar, ¡oh príncipe valeroso! de la PRIMERA PUERTA: EL ARTE DE SABER CONDUCIRSE.»",
+      "start": 2703,
+      "end": 2717
+    },
+    {
+      "slug": "noche-61",
+      "title": "Noche 61",
+      "summary": "Empieza: «El rey Kesra, el gran rey de los persas, escribió a su hijo, al que había confiado el ejército de sus ejércitos:…»",
+      "start": 2718,
+      "end": 2734
+    },
+    {
+      "slug": "noche-62",
+      "title": "Noche 62",
+      "summary": "Empieza: «No os citaré más que algunos rasgos principales.»",
+      "start": 2735,
+      "end": 2748
+    },
+    {
+      "slug": "noche-63",
+      "title": "Noche 63",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que la joven Nozhatú prosiguió de este modo:»",
+      "start": 2749,
+      "end": 2759
+    },
+    {
+      "slug": "noche-64",
+      "title": "Noche 64",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que la joven Nozhatú prosiguió de este modo:»",
+      "start": 2760,
+      "end": 2778
+    },
+    {
+      "slug": "noche-65",
+      "title": "Noche 65",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que la joven Nozhatú, mientras la escuchaban detrás del tapiz el príncipe Scharkán, los cuatro…»",
+      "start": 2779,
+      "end": 2794
+    },
+    {
+      "slug": "noche-66",
+      "title": "Noche 66",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que la joven Nozhatú prosiguió de este modo:»",
+      "start": 2795,
+      "end": 2807
+    },
+    {
+      "slug": "noche-67",
+      "title": "Noche 67",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que después de aquellas palabras se calló Nozhatú.»",
+      "start": 2808,
+      "end": 2823
+    },
+    {
+      "slug": "noche-68",
+      "title": "Noche 68",
+      "summary": "Empieza: «Y la respuesta, después de la invocación de Alah, estaba concebida en los siguientes términos:»",
+      "start": 2824,
+      "end": 2838
+    },
+    {
+      "slug": "noche-69",
+      "title": "Noche 69",
+      "summary": "Empieza: «Cuando Scharkán oyó estas palabras, se apoderó de él un temblor muy grande, bajó aterrado la cabeza y empezó a palidecer, hasta…»",
+      "start": 2839,
+      "end": 2856
+    },
+    {
+      "slug": "noche-70",
+      "title": "Noche 70",
+      "summary": "Empieza: «Cuando Scharkán leyó esta carta de su padre, mandó llamar inmediatamente a su cuñado el chambelán, y le dijo: \"Envía a buscar…»",
+      "start": 2857,
+      "end": 2870
+    },
+    {
+      "slug": "noche-71",
+      "title": "Noche 71",
+      "summary": "Empieza: «Cuando Daul'makán respiró aquella brisa deliciosa, pensó inmediatamente en la ausencia de su hermana y en el dolor de sus padres al…»",
+      "start": 2871,
+      "end": 2878
+    },
+    {
+      "slug": "noche-72",
+      "title": "Noche 72",
+      "summary": "Empieza: «Entonces el eunuco no se atrevió a insistir más, y salió en busca del hombre de los versos. Pero aunque miró por…»",
+      "start": 2879,
+      "end": 2896
+    },
+    {
+      "slug": "noche-73",
+      "title": "Noche 73",
+      "summary": "Empieza: «Entonces el eunuco salió de la tienda, y empezó a andar por entre la gente dormida, examinándolos uno por uno, pero no…»",
+      "start": 2897,
+      "end": 2910
+    },
+    {
+      "slug": "noche-74",
+      "title": "Noche 74",
+      "summary": "Empieza: «He llegado a saber ¡oh rey afortunado! que el eunuco dijo: \"¡La paz sobre ti!\" Y Daul'makán respondió: \"¡Y sobre ti la…»",
+      "start": 2911,
+      "end": 2921
+    },
+    {
+      "slug": "noche-75",
+      "title": "Noche 75",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que Nozhatú, la esposa del chambelán, encargó al eunuco: \"Ve a rogarle que cante algunos…»",
+      "start": 2922,
+      "end": 2952
+    },
+    {
+      "slug": "noche-76",
+      "title": "Noche 76",
+      "summary": "Empieza: «He llegado a saber, ¡oh rey afortunado! que el eunuco gritó: \"¡Oh grandísimo embustero! ¿Por qué dijiste que no sabías quién había…»",
+      "start": 2953,
+      "end": 2974
+    }
+  ],
+  "description": "Las mil y una noches (Tomo I) de Anónimo: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Cuentos sobre Scheherezade, los genios y los cuentos de Oriente.",
+  "intro": "<p>El rey Schahriar, traicionado por su esposa, decide casarse cada día con una joven y hacerla matar al amanecer. Scheherezade, la hija del visir, se ofrece a casarse con él y, la primera noche, empieza a contarle una historia que deja sin terminar al llegar el alba. Intrigado, el rey la deja vivir un día más para conocer el final, y así noche tras noche.</p><p>Aquí puedes leer Las mil y una noches (Tomo I) completo, dividido en noches. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 65,
+    "art": {
+      "file": "las-mil-y-una-noches-tomo-1.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/las-mil-y-una-noches-tomo-1/ilustracion.jpg",
+      "credit": "Sophie Gengembre Anderson, «Scheherezade» (h. 1880). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Cuentos",
+    "unidad": "noches",
+    "tema": "Scheherezade, los genios y los cuentos de Oriente",
+    "resumen": [
+      "El rey Schahriar, traicionado por su esposa, decide casarse cada día con una joven y hacerla matar al amanecer. Scheherezade, la hija del visir, se ofrece a casarse con él y, la primera noche, empieza a contarle una historia que deja sin terminar al llegar el alba. Intrigado, el rey la deja vivir un día más para conocer el final, y así noche tras noche.",
+      "Este primer tomo, en la traducción de Vicente Blasco Ibáñez de la versión francesa de J. C. Mardrus, reúne las primeras noches: la historia del mercader y el efrit, la del pescador y el efrit, la del mandadero y las tres doncellas con los tres saalukes, la de la mujer despedazada y las tres manzanas, la del visir Nureddin y la del jorobado, entre otras. Los cuentos se encajan unos dentro de otros, mezclan lo maravilloso con la vida de Bagdad y El Cairo y conservan la sensualidad y el humor del original árabe."
+    ],
+    "personajes": [
+      [
+        "Scheherezade",
+        "Hija del visir, culta y astuta, que salva su vida contando historias."
+      ],
+      [
+        "El rey Schahriar",
+        "Rey que, por despecho, mata cada mañana a su nueva esposa."
+      ],
+      [
+        "Doniazada",
+        "Hermana pequeña de Scheherezade, que le pide cada noche un nuevo cuento."
+      ],
+      [
+        "El efrit",
+        "Genio poderoso y temible que aparece en varios cuentos."
+      ],
+      [
+        "El califa Harún al-Raschid",
+        "Califa de Bagdad que recorre la ciudad disfrazado."
+      ],
+      [
+        "El jorobado",
+        "Bufón cuya supuesta muerte enreda a medio Cairo."
+      ]
+    ],
+    "ideas": [
+      "El poder de la palabra: contar historias para salvar la vida.",
+      "Los relatos enmarcados, unos dentro de otros.",
+      "Lo maravilloso (genios, encantamientos, metamorfosis) junto a la vida cotidiana.",
+      "El destino, la astucia y la generosidad como motores de las historias."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Las mil y una noches?",
+        "Scheherezade se casa con el rey Schahriar, que mata a cada esposa al amanecer, y lo entretiene cada noche con un cuento que deja a medias. Así sobrevive mil y una noches."
+      ],
+      [
+        "¿Están aquí Aladino, Alí Babá y Simbad?",
+        "No en este primer tomo. Simbad el marino aparece más adelante, y Aladino y Alí Babá los añadió Antoine Galland en su traducción francesa del siglo XVIII."
+      ],
+      [
+        "¿Quién hizo esta traducción?",
+        "Vicente Blasco Ibáñez, que tradujo al español la versión francesa de J. C. Mardrus para la editorial Prometeo de Valencia."
+      ],
+      [
+        "¿Por qué solo está el tomo I?",
+        "La obra completa ocupa más de mil noches y miles de páginas. Iremos añadiendo los siguientes tomos."
+      ]
+    ]
+  }
+}

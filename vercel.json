@@ -540,6 +540,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/las-mil-y-una-noches-tomo-1/",
+      "destination": "/las-mil-y-una-noches-pdf/",
+      "permanent": true
+    },
+    {
       "source": "/leer/lazarillo-de-tormes/",
       "destination": "/lazarillo-de-tormes/",
       "permanent": true
@@ -647,6 +652,11 @@
     {
       "source": "/leer/voltaire-candido/",
       "destination": "/voltaire-candido/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-diccionario-filosofico/",
+      "destination": "/voltaire-diccionario-filosofico/",
       "permanent": true
     },
     {

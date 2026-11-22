@@ -1,0 +1,716 @@
+{
+  "slug": "voltaire-diccionario-filosofico",
+  "title": "Diccionario filosófico (selección)",
+  "author": "Voltaire",
+  "author_route": "/libros-pdf-gratis/autores/voltaire/",
+  "book_route": "/voltaire-diccionario-filosofico/",
+  "translator": "Cayetano Lanuza",
+  "edition": "Diccionario filosófico, traducción de 1825",
+  "source_url": "https://es.wikisource.org/wiki/Diccionario_Filos%C3%B3fico",
+  "source_revision": 1562014,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "impotencia",
+      "title": "Impotencia",
+      "summary": "Empieza: «En favor de los pobres impotentes, o como los llaman las Decretales frigidi et maleficiati, principio por la siguiente cuestión: ¿Hay algún…»",
+      "start": 0,
+      "end": 37
+    },
+    {
+      "slug": "impuesto",
+      "title": "Impuesto",
+      "summary": "Empieza: «Se han hecho tantas obras filosóficas sobre la naturaleza de los impuestos, que es indispensable decir aquí alguna cosa: Es verdad que…»",
+      "start": 38,
+      "end": 49
+    },
+    {
+      "slug": "incesto",
+      "title": "Incesto",
+      "summary": "Empieza: «Los Tártaros, dice el Espíritu de las leyes, que pueden casarse con sus hijas, no se casan con sus madres.\"»",
+      "start": 50,
+      "end": 59
+    },
+    {
+      "slug": "incubos",
+      "title": "Íncubos",
+      "summary": "Empieza: «¿Ha habido íncubos y subcubos? todos nuestros sabios demonógrafos admiten igualmente los unos y los otros.»",
+      "start": 60,
+      "end": 75
+    },
+    {
+      "slug": "infierno",
+      "title": "Infierno",
+      "summary": "Empieza: «INFERNUM, subterráneo: los pueblos que enterraban los muertos, los pusieron en el subterráneo; luego su alma estaba allí con ellos. He aquí…»",
+      "start": 76,
+      "end": 148
+    },
+    {
+      "slug": "infiernos",
+      "title": "Infiernos",
+      "summary": "Empieza: «NUESTRO compañero que ha hecho el artículo infierno, no ha hablado de la bajada de Jesucristo a los infiernos; que es un…»",
+      "start": 149,
+      "end": 158
+    },
+    {
+      "slug": "infinito",
+      "title": "Infinito",
+      "summary": "Empieza: «¿QUIÉN me dará una idea clara del infinito? Porque yo jamás he tenido mas que una muy confusa. ¿Consistirá esto en que…»",
+      "start": 159,
+      "end": 191
+    },
+    {
+      "slug": "iniciacion",
+      "title": "Iniciación",
+      "summary": "Empieza: «¿Estará el origen de los misterios antiguos en la misma debilidad que forma entre nosotros las cofradías, y que establecía congregaciones bajo…»",
+      "start": 192,
+      "end": 257
+    },
+    {
+      "slug": "inocentes",
+      "title": "Inocentes",
+      "summary": "Empieza: «CUANDO se habla de la degollación de los Inocentes, no se entiende ni las vísperas sicilianas, ni los maitines de París conocidos…»",
+      "start": 258,
+      "end": 272
+    },
+    {
+      "slug": "inquisicion",
+      "title": "Inquisición",
+      "summary": "Empieza: «La inquisición es una jurisdicción eclesiástica, erigida por la silla de Roma en Italia, en España, y en Portugal, y aun también…»",
+      "start": 273,
+      "end": 332
+    },
+    {
+      "slug": "instinto",
+      "title": "Instinto",
+      "summary": "Empieza: «Instinclus, impulsus, impulso; pero ¿cual es la potencia que nos impele?»",
+      "start": 333,
+      "end": 344
+    },
+    {
+      "slug": "intolerancia",
+      "title": "Intolerancia",
+      "summary": "Empieza: «LEED el artículo Intolerancia, en el gran Diccionario enciclopédico; y el Tratado de la Tolerancia, compuesto con motivo del horroroso asesinato de…»",
+      "start": 345,
+      "end": 350
+    },
+    {
+      "slug": "inundacion",
+      "title": "Inundación",
+      "summary": "Empieza: «¿Ha habido un tiempo en que el globo haya estado inundado enteramente? Esto es físicamente imposible. Puede ser que el mar haya…»",
+      "start": 351,
+      "end": 356
+    },
+    {
+      "slug": "japon",
+      "title": "Japón",
+      "summary": "Empieza: «NO se tratará en este artículo, si esa porción de islas que se llama el Japón, es mucho más grande que la…»",
+      "start": 357,
+      "end": 372
+    },
+    {
+      "slug": "jefte",
+      "title": "Jefté",
+      "summary": "Empieza: «Según el texto del libro de los Jueces es evidente, que Jefté prometió que sacrificaría la primera persona que saliera de su…»",
+      "start": 373,
+      "end": 391
+    },
+    {
+      "slug": "jesuitas",
+      "title": "Jesuitas",
+      "summary": "Empieza: «SE ha hablado tanto de los jesuitas, que después de haber ocupado a la Europa por el espacio de doscientos años, al…»",
+      "start": 392,
+      "end": 413
+    },
+    {
+      "slug": "job",
+      "title": "Job",
+      "summary": "Empieza: «Buenos días, amigo Job; tú eres uno de los originales mas antiguos de que hacen mención los libros; tú no eras judío,…»",
+      "start": 414,
+      "end": 431
+    },
+    {
+      "slug": "josef",
+      "title": "Josef",
+      "summary": "Empieza: «No considerando la historia de Josef mas que como un objeto de curiosidad y de literatura, es uno de los monumentos de…»",
+      "start": 432,
+      "end": 443
+    },
+    {
+      "slug": "judea",
+      "title": "Judea",
+      "summary": "Empieza: «A Dios gracias, yo no he estado en Judea, ni iré jamás allá. Yo conozco gentes de todas las naciones que han…»",
+      "start": 444,
+      "end": 450
+    },
+    {
+      "slug": "judios",
+      "title": "Judíos",
+      "summary": "Empieza: «ME mandáis que os haga una pintura fiel del espíritu de los Judíos, y de su historia; y sin entrar en las…»",
+      "start": 451,
+      "end": 509
+    },
+    {
+      "slug": "juliano",
+      "title": "Juliano",
+      "summary": "Empieza: «ALGUNAS veces se hace justicia bien tarde. Dos o tres autores, o mercenarios, o fanáticos, hablan del bárbaro y afeminado Constantino como…»",
+      "start": 510,
+      "end": 553
+    },
+    {
+      "slug": "justo-e-injusto",
+      "title": "Justo e injusto",
+      "summary": "Empieza: «¿Quién nos ha dado el sentimiento de lo justo y de lo injusto? Dios que nos ha dado un cerebro y un…»",
+      "start": 554,
+      "end": 561
+    },
+    {
+      "slug": "kalendas",
+      "title": "Kalendas",
+      "summary": "Empieza: «LA festividad de la Circuncisión que celebra la Iglesia el primero de enero, ha reemplazado otra que se llamaba la fiesta de…»",
+      "start": 562,
+      "end": 570
+    },
+    {
+      "slug": "lagrimas",
+      "title": "Lágrimas",
+      "summary": "Empieza: «LAS lágrimas son el lenguaje mudo del dolor. Mas ¿qué conexión hay entre una idea triste, y este licor cristalino y salado,…»",
+      "start": 571,
+      "end": 582
+    },
+    {
+      "slug": "lamparones",
+      "title": "Lamparones",
+      "summary": "Empieza: «ESCRÓFULAS, llamadas comúnmente postemas frías, aunque son muy cáusticas, y una de las enfermedades casi incurables que desfiguran a la naturaleza humana…»",
+      "start": 583,
+      "end": 591
+    },
+    {
+      "slug": "lenguas",
+      "title": "Lenguas",
+      "summary": "Empieza: «DICEN que los Indios principian casi todos sus libros con estas palabras: ¡\"Bendito sea el inventor de la escritura!\" También podríamos principiar…»",
+      "start": 592,
+      "end": 604
+    },
+    {
+      "slug": "lepra-y-galico",
+      "title": "Lepra y Gálico",
+      "summary": "Empieza: «Se trata de dos grandes divinidades, una antigua y otra moderna, que han reinado en nuestro hemisferio. El reverendo Padre Don Calmet,…»",
+      "start": 605,
+      "end": 628
+    },
+    {
+      "slug": "letras",
+      "title": "Letras",
+      "summary": "Empieza: «En nuestros tiempos bárbaros, cuando los Francos, los Germanos, los Bretones, los Lombardos, los Mozárabes Españoles no sabían ni leer ni escribir,…»",
+      "start": 629,
+      "end": 638
+    },
+    {
+      "slug": "ley-fundamental",
+      "title": "Ley Fundamental",
+      "summary": "Empieza: «LA ley fundamental de todos los países es que se siembre trigo, si se quiere tener pan; que se cultiven el lino…»",
+      "start": 639,
+      "end": 643
+    },
+    {
+      "slug": "ley-natural",
+      "title": "Ley Natural",
+      "summary": "Empieza: «A. El instinto que nos hace sentir la justicia.»",
+      "start": 644,
+      "end": 665
+    },
+    {
+      "slug": "leyes",
+      "title": "Leyes",
+      "summary": "Empieza: «Es difícil que haya una sola nación que viva bajo unas buenas leyes. La causa de esta dificultad no es solamente el…»",
+      "start": 666,
+      "end": 733
+    },
+    {
+      "slug": "leyes-civiles-y-eclesiasticas",
+      "title": "Leyes Civiles y Eclesiásticas",
+      "summary": "Empieza: «ENTRE los papeles de un jurisconsulto se han encontrado las siguientes notas que tal vez merecen un poco de reflexión.»",
+      "start": 734,
+      "end": 750
+    },
+    {
+      "slug": "leyes-criminales",
+      "title": "Leyes Criminales",
+      "summary": "Empieza: «No hay año en que algunos jueces de provincia no condenen a una muerte horrorosa algún padre de familia inocente, y esto…»",
+      "start": 751,
+      "end": 752
+    },
+    {
+      "slug": "libelos",
+      "title": "Libelos",
+      "summary": "Empieza: «SE llaman libelos los libritos de injurias. Estos libros son pequeños, porque teniendo sus autores pocas razones que dar, y no escribiendo…»",
+      "start": 753,
+      "end": 763
+    },
+    {
+      "slug": "libertad",
+      "title": "Libertad",
+      "summary": "Empieza: «O yo me engaño mucho, o Locke el definidor ha definido perfectamente la libertad por la palabra poder. O me engaño todavía…»",
+      "start": 764,
+      "end": 807
+    },
+    {
+      "slug": "libertad-de-conciencia",
+      "title": "Libertad de conciencia",
+      "summary": "Empieza: «EL capellán del príncipe de el cual príncipe es católico romano, amenazaba a un anabaptista de que lo echaría de los pequeños…»",
+      "start": 808,
+      "end": 823
+    },
+    {
+      "slug": "libertad-de-imprimir",
+      "title": "Libertad de imprimir",
+      "summary": "Empieza: «¿QUÉ mal puede hacer a la Rusia la predicción de Juan Santiago? Ninguno: y le será permitido explicarla en un sentido místico,…»",
+      "start": 824,
+      "end": 836
+    },
+    {
+      "slug": "libertad-de-pensar",
+      "title": "Libertad de pensar",
+      "summary": "Empieza: «Hacia el año de 1707, cuando los Ingleses ganaron la batalla de Zaragoza, protegieron al Portugal, y dieron por algún tiempo un…»",
+      "start": 837,
+      "end": 863
+    },
+    {
+      "slug": "libre-albedrio",
+      "title": "Libre albedrío",
+      "summary": "Empieza: «DESDE que los hombres discurren los filósofos han embrollado esta materia; pero los teólogos la han hecho ininteligible con sus absurdas sutilezas…»",
+      "start": 864,
+      "end": 881
+    },
+    {
+      "slug": "libros",
+      "title": "Libros",
+      "summary": "Empieza: «O vosotros, los que pasáis la vida en las vanidades de la ambición, y en los placeres, o en la ociosidad, vosotros…»",
+      "start": 882,
+      "end": 973
+    },
+    {
+      "slug": "limites-del-entendimiento-humano",
+      "title": "Límites del entendimiento humano",
+      "summary": "Empieza: «UN día se preguntaba a Newton, por qué andaba cuando quería andar, y como se movían su brazo y su mano a…»",
+      "start": 974,
+      "end": 986
+    },
+    {
+      "slug": "literatos",
+      "title": "Literatos",
+      "summary": "Empieza: «ESTA voz corresponde precisamente a la de Gramáticos. Entre los Griegos y los Romanos se entendía por gramático, no solamente un hombre…»",
+      "start": 987,
+      "end": 992
+    },
+    {
+      "slug": "locura",
+      "title": "Locura",
+      "summary": "Empieza: «¿Qué cosa es la locura? Tener los pensamientos incoherentes, y lo mismo la conducta. El hombre más cuerdo conocerá la locura si…»",
+      "start": 993,
+      "end": 1003
+    },
+    {
+      "slug": "lujo",
+      "title": "Lujo",
+      "summary": "Empieza: «EN un país donde todo el mundo andaba descalzo ¿tenia lujo el que se puso los primeros zapatos? ¿No era un hombre…»",
+      "start": 1004,
+      "end": 1022
+    },
+    {
+      "slug": "magia",
+      "title": "Magia",
+      "summary": "Empieza: «LA magia es una ciencia mucho mas plausible, que la astrología y que la doctrina de los genios. Desde que se principió…»",
+      "start": 1023,
+      "end": 1027
+    },
+    {
+      "slug": "mahometanos",
+      "title": "Mahometanos",
+      "summary": "Empieza: «NADA tiene la religión mahometana de voluptuosa y sensual: debo repetíroslo, ignorantes, e imbéciles, a quienes otros ignorantes han engañado haciéndoos creer…»",
+      "start": 1028,
+      "end": 1035
+    },
+    {
+      "slug": "maria-magdalena",
+      "title": "María Magdalena",
+      "summary": "Empieza: «CONFIESO que ni se donde ha encontrado el autor de la Historia crítica de Jesucristo [[55]], que santa María Magdalena había tenido…»",
+      "start": 1036,
+      "end": 1053
+    },
+    {
+      "slug": "poblacion",
+      "title": "Población",
+      "summary": "Empieza: «En el año pasado hubo poquísimas orugas en mi canton, y las matamos casi todas; pues en este año nos ha dado…»",
+      "start": 1054,
+      "end": 1099
+    },
+    {
+      "slug": "poder-omnipotencia",
+      "title": "Poder, Omnipotencia",
+      "summary": "Empieza: «Supongo que el que lea este artículo, estará convencido de que este mundo está formado con inteligencia, y que un poco de…»",
+      "start": 1100,
+      "end": 1135
+    },
+    {
+      "slug": "poderes",
+      "title": "Poderes",
+      "summary": "Empieza: «El que tiene el cetro y el incensario, tiene las dos manos bien ocupadas. A este se le puede considerar como un…»",
+      "start": 1136,
+      "end": 1178
+    },
+    {
+      "slug": "poetas",
+      "title": "Poetas",
+      "summary": "Empieza: «Al salir un jóven del colegio, delibera si se hará abogado, médico, teólogo, ó poeta; es decir, si tomará á su cuidado…»",
+      "start": 1179,
+      "end": 1200
+    },
+    {
+      "slug": "policia-de-los-espectaculos",
+      "title": "Policía de los espectáculos",
+      "summary": "Empieza: «Antiguamente se escomulgaba á los reyes de Francia; y desde Felipe I hasta Luis VIII, todos han sido escomulgados solemnemente; lo mismo…»",
+      "start": 1201,
+      "end": 1212
+    },
+    {
+      "slug": "politeismo",
+      "title": "Politeísmo",
+      "summary": "Empieza: «La pluralidad de dioses es la grande acusacion que se hace en el dia á los Romanos y á los Griegos: pero…»",
+      "start": 1213,
+      "end": 1226
+    },
+    {
+      "slug": "politica",
+      "title": "Política",
+      "summary": "Empieza: «La política del hombre consiste primeramente en tratar de igualar á los animales, á los que la naturaleza ha dado el alimento,…»",
+      "start": 1227,
+      "end": 1237
+    },
+    {
+      "slug": "politica-exterior",
+      "title": "Política Exterior",
+      "summary": "Empieza: «Cuando una nacion encontró la metalurgia, es indudable que venció á sus vecinos y que los hizo esclavos.»",
+      "start": 1238,
+      "end": 1244
+    },
+    {
+      "slug": "politica-interior",
+      "title": "Política Interior",
+      "summary": "Empieza: «Se trata de tener en su pais lo mas de poder, de honores y de placeres que sea posible. Para conseguirlo es…»",
+      "start": 1245,
+      "end": 1254
+    },
+    {
+      "slug": "porques-los",
+      "title": "Porques (Los)",
+      "summary": "Empieza: «¿Porqué casi nunca se hace la décima parte del bien que se podria hacer?»",
+      "start": 1255,
+      "end": 1287
+    },
+    {
+      "slug": "preocupaciones",
+      "title": "Preocupaciones",
+      "summary": "Empieza: «La preocupacion es una opinion sin juicio. Y así en toda la tierra se inspiran á los niños todas las opiniones que…»",
+      "start": 1288,
+      "end": 1309
+    },
+    {
+      "slug": "pretensiones",
+      "title": "Pretensiones",
+      "summary": "Empieza: «No hay en nuestra Europa un solo príncipe que no se titule soberano de un pais poseido por otro. Esta manía política…»",
+      "start": 1310,
+      "end": 1325
+    },
+    {
+      "slug": "profecias",
+      "title": "Profecías",
+      "summary": "Empieza: «Esta palabra significa en su acepcion ordinaria prediccion de lo futuro. En este sentido decia Jesus á sus discipulos: [[61]] Es necesario…»",
+      "start": 1326,
+      "end": 1365
+    },
+    {
+      "slug": "profetas",
+      "title": "Profetas",
+      "summary": "Empieza: «El profeta Jurieu fué silvado; los profetas de Cévenes fueron ahorcados ó enrodados; los profetas que pasaron del Languedoc y del Delfinado…»",
+      "start": 1366,
+      "end": 1375
+    },
+    {
+      "slug": "propiedad",
+      "title": "Propiedad",
+      "summary": "Empieza: «Liberty and property, es el apellido de guerra de los Ingleses; y vale mas que San Jorge y mi derecho, San Dionisio…»",
+      "start": 1376,
+      "end": 1389
+    },
+    {
+      "slug": "providencia",
+      "title": "Providencia",
+      "summary": "Empieza: «Estaba yo en un locutorio de monjas; y sor Culona decia á sor Confite: La Providencia toma un cuidado visible de mis…»",
+      "start": 1390,
+      "end": 1403
+    },
+    {
+      "slug": "pruebas",
+      "title": "Pruebas",
+      "summary": "Empieza: «¡Qué todos los absurdos que envilecen á la naturaleza humana, nos vengan del Asia con todas las ciencias y con todas las…»",
+      "start": 1404,
+      "end": 1425
+    },
+    {
+      "slug": "purgatorio",
+      "title": "Purgatorio",
+      "summary": "Empieza: «Es muy singular que se hayan reunido las iglesias protestantes para cargar á los frailes con la invencion del purgatorio. Es muy…»",
+      "start": 1426,
+      "end": 1464
+    },
+    {
+      "slug": "quisquis-de-ramus",
+      "title": "Quisquis de Ramus",
+      "summary": "Empieza: «Poco te importa, mi amado lector, que una de las mas violentas persecuciones de las del siglo XVI contra Ramus, tuviese por…»",
+      "start": 1465,
+      "end": 1519
+    },
+    {
+      "slug": "raro",
+      "title": "Raro",
+      "summary": "Empieza: «Raro en física es lo opuesto á denso y en moral es lo opuesto á comun.»",
+      "start": 1520,
+      "end": 1534
+    },
+    {
+      "slug": "ravaillac",
+      "title": "Ravaillac",
+      "summary": "Empieza: «En mi niñez he conocido un canónigo de Perona de noventa y dos años que habia sido educado por uno de los…»",
+      "start": 1535,
+      "end": 1559
+    },
+    {
+      "slug": "razon",
+      "title": "Razón",
+      "summary": "Empieza: «En el tiempo en que la Francia estaba loca con el sistema de Lass, y cuando este era contralor general, un hombre…»",
+      "start": 1560,
+      "end": 1569
+    },
+    {
+      "slug": "reir-risa",
+      "title": "Reír, Risa",
+      "summary": "Empieza: «Ninguno que se haya reido alguna vez, duda que la risa es la señal de la alegria, como las lágrimas son el…»",
+      "start": 1570,
+      "end": 1576
+    },
+    {
+      "slug": "religion",
+      "title": "Religión",
+      "summary": "Empieza: «Los epicureos, que no tenian ninguna religion, recomendaban la separacion de los negocios públicos, el estudio y la concordia. Esta secta era…»",
+      "start": 1577,
+      "end": 1650
+    },
+    {
+      "slug": "reliquias",
+      "title": "Reliquias",
+      "summary": "Empieza: «Por este nombre se designan los restos, ó las partes que quedan del cuerpo ó de los vestidos de una persona, á…»",
+      "start": 1651,
+      "end": 1673
+    },
+    {
+      "slug": "reloj-de-achar",
+      "title": "Reloj de Achar",
+      "summary": "Empieza: «Es muy sabido que todo es prodigioso en la historia de los Judios. El milagro hecho en favor del rey Ezequías sobre…»",
+      "start": 1674,
+      "end": 1686
+    },
+    {
+      "slug": "resurreccion",
+      "title": "Resurrección",
+      "summary": "Empieza: «El padre Malebranche prueba la resurreccion por las orugas que se convierten en mariposas. Pero todo el mundo ve que esta prueba…»",
+      "start": 1687,
+      "end": 1717
+    },
+    {
+      "slug": "rey",
+      "title": "Rey",
+      "summary": "Empieza: «REY basileus, tyrannos, rex, dux, imperator, melch, baal, bel, pharao, eli, shadai, adoni, shak, sofi, padisha, bogdan, chazan, kan, krall, kong, koenig,…»",
+      "start": 1718,
+      "end": 1731
+    },
+    {
+      "slug": "rios",
+      "title": "Ríos",
+      "summary": "Empieza: «Estos no van al mar con tanta rapidez, como los hombres van al error. No hace mucho tiempo que se ha conocido…»",
+      "start": 1732,
+      "end": 1744
+    },
+    {
+      "slug": "roma-corte-de",
+      "title": "Roma (Corte de)",
+      "summary": "Empieza: «Antes de Constantino el obispo de Roma no era en el concepto de los magistrados, ignorantes de nuestra santa religion, mas que…»",
+      "start": 1745,
+      "end": 1775
+    },
+    {
+      "slug": "sacerdotes",
+      "title": "Sacerdotes",
+      "summary": "Empieza: «Los sacerdotes son en un Estado sobre poco mas ó ménos lo que son los preceptores en las casas de los ciudadanos;…»",
+      "start": 1776,
+      "end": 1786
+    },
+    {
+      "slug": "sacerdotes-de-los-paganos",
+      "title": "Sacerdotes de los paganos",
+      "summary": "Empieza: «Un tal Navarrete refiere en una de sus cartas á Dn. Juan de Austria el discurso siguiente que el dalailama hizo á…»",
+      "start": 1787,
+      "end": 1790
+    },
+    {
+      "slug": "salomon",
+      "title": "Salomón",
+      "summary": "Empieza: «Muchos reyes han sido grandes clérigos y han hecho libros muy buenos. El rey de Prusia Federico el Grande es el último…»",
+      "start": 1791,
+      "end": 1837
+    },
+    {
+      "slug": "sammonocodom",
+      "title": "Sammonocodom",
+      "summary": "Empieza: «Me acuerdo que Sammonocodom, dios de los Siameses, nació de una virgen y se crió sobre una flor. De la misma manera…»",
+      "start": 1838,
+      "end": 1853
+    },
+    {
+      "slug": "samotracia",
+      "title": "Samotracia",
+      "summary": "Empieza: «Que la famosa isla de Samotracia esté á la embocadura del Ebro, como lo dicen tantos diccionarios; ó que esté á las…»",
+      "start": 1854,
+      "end": 1874
+    },
+    {
+      "slug": "sanson",
+      "title": "Sansón",
+      "summary": "Empieza: «En calidad de pobres compiladores por alfabeto, de rebuscadores de anecdotas, de escudriñadores de menudencias, y de traperos que recojen guiñapos por…»",
+      "start": 1875,
+      "end": 1891
+    },
+    {
+      "slug": "secta",
+      "title": "Secta",
+      "summary": "Empieza: «Toda secta, sea del género que quiera, es la reunion de la duda y del error. Escotistas, tomistas, reales, nominales, papistas, calvinistas,…»",
+      "start": 1892,
+      "end": 1908
+    },
+    {
+      "slug": "senor",
+      "title": "Señor",
+      "summary": "Empieza: «¡Qué desgraciado he nacido! decia Ardassan Ongli, jóven icoglan del gran padisha de los Turcos. Si yo no dependiera mas que del…»",
+      "start": 1909,
+      "end": 1921
+    },
+    {
+      "slug": "sensacion",
+      "title": "Sensación",
+      "summary": "Empieza: «Se dice que las ostras tienen dos sentidos, los topos cuatro, y cinco los demas animales como el hombre: algunas personas han…»",
+      "start": 1922,
+      "end": 1934
+    },
+    {
+      "slug": "sentencias-de-muerte",
+      "title": "Sentencias de muerte",
+      "summary": "Empieza: «Al leer la historia y ver en ella esta serie casi nunca interrumpida de calamidades sin número, acinadas sobre este globo, que…»",
+      "start": 1935,
+      "end": 1944
+    },
+    {
+      "slug": "sentencias-notables-sobre-la-libertad-natural",
+      "title": "Sentencias notables sobre la libertad natural",
+      "summary": "Empieza: «En todos los países, y particularmente en Francia se has hecho colecciones de los asesinatos jurídicos, que han cometido con la cuchilla…»",
+      "start": 1945,
+      "end": 1954
+    },
+    {
+      "slug": "serpiente",
+      "title": "Serpiente",
+      "summary": "Empieza: «Despues que este cirujano me ha dado el certificado anterior, me han asegurado dos testigos, que lo han visto matar serpientes de…»",
+      "start": 1955,
+      "end": 1965
+    },
+    {
+      "slug": "sibila",
+      "title": "Sibila",
+      "summary": "Empieza: «La primera muger á la que se le ocurrió pronunciar oráculos en Délfos, se llamaba Sibila. Esta tuvo por padre á Júpiter,…»",
+      "start": 1966,
+      "end": 1978
+    },
+    {
+      "slug": "siclo",
+      "title": "Siclo",
+      "summary": "Empieza: «Peso y moneda de los Judios. Pero como estos nunca han acuñado moneda, y siempre se han servido en su provecho de…»",
+      "start": 1979,
+      "end": 1989
+    },
+    {
+      "slug": "simbolo-o-credo",
+      "title": "Símbolo o credo",
+      "summary": "Empieza: «Nosotros no nos parecemos á la célebre actriz, la señora Duelos, á la que se le decia: \"apuesto á que la Señora…»",
+      "start": 1990,
+      "end": 2008
+    },
+    {
+      "slug": "socrates",
+      "title": "Sócrates",
+      "summary": "Empieza: «¿Se ha roto el molde de los que amaban la virtud por sí misma, como un Confucio, un Pitágoras, un Tales, un…»",
+      "start": 2009,
+      "end": 2015
+    }
+  ],
+  "description": "Diccionario filosófico (selección) de Voltaire: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Ensayo sobre la religión, la tolerancia y la razón.",
+  "intro": "<p>El Diccionario filosófico es una colección de artículos breves ordenados alfabéticamente que Voltaire publicó en 1764 y amplió en ediciones posteriores. Bajo la apariencia de un diccionario, es un arma de la Ilustración: cada entrada le sirve para burlarse del fanatismo, de la superstición y de los abusos de la Iglesia y del poder, y para defender la tolerancia, la razón y la justicia.</p><p>Aquí puedes leer Diccionario filosófico (selección) completo, dividido en artículos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 66,
+    "art": {
+      "file": "voltaire-diccionario-filosofico.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/voltaire-diccionario-filosofico/ilustracion.jpg",
+      "credit": "Taller de Nicolas de Largillière, «Retrato de Voltaire» (h. 1724-1725), Museo Carnavalet de París. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Ensayo",
+    "unidad": "artículos",
+    "tema": "la religión, la tolerancia y la razón",
+    "resumen": [
+      "El Diccionario filosófico es una colección de artículos breves ordenados alfabéticamente que Voltaire publicó en 1764 y amplió en ediciones posteriores. Bajo la apariencia de un diccionario, es un arma de la Ilustración: cada entrada le sirve para burlarse del fanatismo, de la superstición y de los abusos de la Iglesia y del poder, y para defender la tolerancia, la razón y la justicia.",
+      "Esta selección reúne los artículos que hay transcritos de la traducción de Cayetano Lanuza (1825), noventa y tres entradas de las letras I a S, de «Impotencia» a «Sócrates»: Infierno, Inquisición, Intolerancia, Jesuitas, Libertad de pensar, Locura, Propiedad, Razón, Religión, Reliquias y muchas más. Voltaire escribe con ironía, ejemplos históricos y diálogos imaginarios, lo que hace del libro una lectura viva y polémica."
+    ],
+    "personajes": [],
+    "ideas": [
+      "La tolerancia religiosa frente al fanatismo y la persecución.",
+      "La crítica a la Inquisición, al clero y a las supersticiones.",
+      "La ley natural y la justicia como algo común a todos los hombres.",
+      "La ironía como forma de pensar y de convencer."
+    ],
+    "faq": [
+      [
+        "¿Qué es el Diccionario filosófico de Voltaire?",
+        "Un libro de artículos breves, ordenados de la A a la Z, en el que Voltaire critica el fanatismo religioso y defiende la razón y la tolerancia."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "La primera edición, anónima, es de 1764, en Ginebra. Fue condenada y quemada en varios países."
+      ],
+      [
+        "¿Por qué es una selección?",
+        "Wikisource solo tiene transcritos parte de los tomos de la traducción de 1825. Aquí están todos los artículos disponibles."
+      ],
+      [
+        "¿Qué dice Voltaire sobre la tolerancia?",
+        "Que la intolerancia es contraria a la razón y a la humanidad, y que ningún hombre tiene derecho a perseguir a otro por sus creencias."
+      ]
+    ]
+  }
+}

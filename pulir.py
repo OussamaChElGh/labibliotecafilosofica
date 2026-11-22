@@ -395,6 +395,151 @@ def add_affiliate(document):
     return document[:end] + link + document[end:]
 
 
+# Descargas heredadas del WordPress: enlaces a PDF alojados en webs ajenas y a Drive/Mega/Dropbox, en su
+# mayoría de libros con derechos vigentes (riesgo para AdSense y de reclamaciones). Se sustituyen por la
+# lectura online de la biblioteca si la obra la tiene, o por la búsqueda del libro en Amazon; si no se
+# identifica el título, el enlace se quita. Se conservan los botones «Consultar fuente enlazada» de las
+# fichas de clásicos y las fuentes de dominio público (Wikisource, Gutenberg, Cervantes Virtual).
+DOWNLOAD_LINK = re.compile(r'<a\s[^>]*href="#?(https?://[^"]+)"[^>]*>(.*?)</a>', re.S | re.I)
+DOWNLOAD_HOST = re.compile(r"drive\.google\.|docs\.google\.|mega\.nz|mediafire\.|dropbox\.", re.I)
+KEEP_HOST = re.compile(r"wikisource\.org|gutenberg\.org|cervantesvirtual\.com", re.I)
+
+
+def plain(fragment):
+    return " ".join(re.sub(r"<[^>]+>", " ", fragment).replace("&nbsp;", " ").split())
+
+
+def online_readings():
+    """Título normalizado → (título, ruta de lectura online) de las obras de textos/*.json."""
+    index = {}
+    for config in TEXTS.glob("*.json"):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        if meta.get("title"):
+            index[normalize_title(meta["title"])] = (meta["title"], f'/leer/{meta["slug"]}/')
+    return index
+
+
+def normalize_title(text):
+    text = text.lower()
+    for a, b in zip("áéíóúüñ", "aeiouun"):
+        text = text.replace(a, b)
+    return re.sub(r"[^a-z0-9]+", " ", text).strip()
+
+
+def download_title(document, start, inner):
+    """Título del libro de un enlace de descarga: «…» del enlace, celda de la tabla o encabezado previo."""
+    quoted = re.search(r"«([^»]{2,120})»", plain(inner))
+    if quoted:
+        return quoted.group(1).strip()
+    before = document[max(0, start - 2500):start]
+    row = before.rsplit("<tr>", 1)
+    if len(row) == 2 and "</tr>" not in row[1]:
+        cell = re.search(r"<td>(.*?)</td>", row[1], re.S)
+        if cell and plain(cell.group(1)):
+            return re.split(r"\s+[–-]\s+", plain(cell.group(1)))[0].strip()
+    # Encabezado previo, saltando los genéricos («📄 Descargar PDF», «Libro y Autor (pdf)», «Enlaces para…»).
+    for heading in reversed(re.findall(r"<h[2-4][^>]*>(.*?)</h[2-4]>", before, re.S)[-3:]):
+        text = plain(heading)
+        quoted = re.search(r'["“]([^"”]{2,120})["”]', text)
+        if quoted:
+            return quoted.group(1).strip()
+        title = re.sub(r"\(?\bpdf\b\)?", "", text, flags=re.I)
+        title = re.sub(r"^\d+\.\s*", "", title)
+        title = re.sub(r"\s*-\s*", " ", title).strip(" -–:")
+        if title and not GENERIC_HEADING.search(title):
+            return title
+    return None
+
+
+GENERIC_HEADING = re.compile(r"^\W*(descarg|libro y autor|enlaces?\b|leer\b|consigue|gratis|online|comprar)", re.I)
+DOWNLOAD_PARAGRAPH = re.compile(r"<p\b[^>]*>(?:(?!</p>).)*?</p>", re.S)
+
+
+def is_download_url(url):
+    return (bool(DOWNLOAD_HOST.search(url) or re.search(r"\.pdf($|[?#])", url, re.I))
+            and not KEEP_HOST.search(url))
+
+
+def download_link(title, readings):
+    if title and normalize_title(title) in readings:
+        name, route = readings[normalize_title(title)]
+        return f'<a href="{route}">Leer «{name}» online gratis</a>'
+    if title:
+        query = quote_plus(title)
+        return (f'<a class="button secondary" href="https://www.amazon.es/s?k={query}&amp;i=stripbooks&amp;tag={AFFILIATE_TAG}" '
+                f'rel="sponsored nofollow" data-query="{query}">Ver «{title}» en Amazon ↗</a>')
+    return ""
+
+
+def replace_download_paragraphs(document, readings):
+    """Párrafos-botón del WordPress («Leer «X» en PDF.», a veces con enlaces anidados): uno nuevo por párrafo."""
+    def replace(match):
+        paragraph = match.group(0)
+        urls = re.findall(r'href="#?(https?://[^"]+)"', paragraph)
+        marked = 'download-action' in paragraph and any(not KEEP_HOST.search(u) for u in urls)
+        if not (marked or any(is_download_url(u) for u in urls)) or "Consultar fuente enlazada" in paragraph:
+            return paragraph
+        if len(plain(paragraph)) > 200:  # párrafo de texto con un enlace dentro: lo trata el paso por enlace
+            return paragraph
+        title = download_title(document, match.start(), paragraph)
+        opening = re.match(r"<p\b[^>]*>", paragraph).group(0)
+        link = download_link(title, readings)
+        return opening + link + "</p>" if link else ""
+    return DOWNLOAD_PARAGRAPH.sub(replace, document)
+
+
+def replace_downloads(document, readings):
+    if 'href="' not in document:
+        return document
+    out, last = [], 0
+    for match in DOWNLOAD_LINK.finditer(document):
+        url, inner = match.group(1), match.group(2)
+        marked = "download-action" in match.group(0) and not KEEP_HOST.search(url)
+        if not (marked or is_download_url(url)) or "Consultar fuente enlazada" in inner:
+            continue
+        link = download_link(download_title(document, match.start(), inner), readings)
+        out.append(document[last:match.start()] + link)
+        last = match.end()
+    return "".join(out) + document[last:] if out else document
+
+
+def offers_text(document):
+    """¿La página ofrece el texto? Lectura online propia, PDF propio o fuente de dominio público enlazada."""
+    match = re.search(r"<main.*?</main>", document, re.S)
+    body = match.group(0) if match else document
+    return bool(re.search(r'data-read-online|href="/leer/[^"/]+/[^"]*"|Consultar fuente enlazada|'
+                          r'wikisource\.org|gutenberg\.org|cervantesvirtual', body))
+
+
+def honest_pdf_title(title):
+    """Quita la promesa de PDF de un título cuando la página no ofrece el texto."""
+    new = re.sub(r"\s*\[PDF\]", "", title)
+    new = re.sub(r"\s+gratis$", " recomendados", new) if new != title and new.startswith("+20 libros de filosofía") else new
+    new = re.sub(r"^(Colección .+?) en PDF$", r"\1 (libros)", new)
+    return new
+
+
+def honest_pdf_wording(document):
+    """Encabezados de descarga que ya no llevan a ningún PDF."""
+    document = re.sub(r'<h[2-4][^>]*>\s*📄\s*Descargar PDF\s*</h[2-4]>\s*', "", document)
+    document = re.sub(r'<p[^>]*>\s*consigue el libro en pdf gratis!?\s*</p>\s*', "", document, flags=re.I)
+    document = re.sub(r"(<h[2-4][^>]*>)(?:<[^>]+>)*\s*Leer\s+«([^»]+)»\s+en\s+PDF\.?\s*((?:</[^>]+>)*</h[2-4]>)",
+                      r"\1«\2»\3", document)
+    return re.sub(r"(<h[2-4][^>]*>(?:(?!</h[2-4]>).)*?)\s*\(pdf\)", r"\1", document, flags=re.S | re.I)
+
+
+def honest_pdf(document):
+    if offers_text(document):
+        return document
+    match = re.search(r"<title>(.*?) · La Biblioteca Filosófica</title>", document)
+    if match:
+        old = match.group(1)
+        new = honest_pdf_title(old)
+        if new != old:
+            document = document.replace(old, new)
+    return honest_pdf_wording(document)
+
+
 def tag_amazon(document):
     """Enlaces de producto de amazon.es heredados del WordPress sin etiqueta de afiliado: se la añade."""
     return re.sub(r'href="(https://www\.amazon\.es/dp/[0-9A-Z]{10})/?"', rf'href="\1?tag={AFFILIATE_TAG}"', document)
@@ -556,9 +701,13 @@ def main():
         books.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     changed = 0
     originals, pages = {}, {}
+    readings = online_readings()
     for page in sorted(OUTPUT.rglob("index.html")):
         original = page.read_text(encoding="utf-8")
-        result = strip_pdf_label(swap_covers(polish(original), swaps))
+        result = original
+        if not route_of(page).startswith("/leer/"):
+            result = honest_pdf(replace_downloads(replace_download_paragraphs(result, readings), readings))
+        result = strip_pdf_label(swap_covers(polish(result), swaps))
         for _ in range(3):  # Quitar un bloque puede dejar otro vacío: repetir hasta que no cambie.
             again = polish(result)
             if again == result:

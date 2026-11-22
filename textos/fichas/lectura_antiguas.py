@@ -34,6 +34,10 @@ BOOKS = {
                                         unidad="actos", numerar=""),
     "los-viajes-de-gulliver-jonathan-swift": dict(route="/los-viajes-de-gulliver-pdf-jonathan-swift/", color="verde",
                                                   unidad="capítulos", numerar="", number=49),
+    # De momento solo la primera parte (1605); la segunda se añadirá cuando haya una edición completa.
+    "don-quijote-de-la-mancha-cervantes": dict(route="/don-quijote-de-la-mancha-pdf-miguel-de-cervantes/", color="ocre",
+                                               unidad="capítulos", numerar="", number=53,
+                                               alcance="la primera parte (1605) completa"),
 }
 
 
@@ -72,7 +76,7 @@ def main():
         meta["author_route"] = data.get("ruta_autor", "")
         meta["description"] = (f"{title} de {author}: resumen, ideas principales y el libro completo para leer online "
                                f"gratis o descargar en PDF. {data['genero']} sobre {data['tema']}.")[:300]
-        meta["intro"] = f"<p>{data['resumen'][0]}</p><p>Aquí puedes leer {title} completo, dividido en {unit}. " \
+        meta["intro"] = f"<p>{data['resumen'][0]}</p><p>Aquí puedes leer {conf.get('alcance', title + ' completo')}, dividido en {unit}. " \
                         "Se respeta la ortografía de la edición original.</p>"
         meta.setdefault("cover", {}).update({"color": conf["color"], "number": conf.get("number", number)})
         for chapter in meta["chapters"]:

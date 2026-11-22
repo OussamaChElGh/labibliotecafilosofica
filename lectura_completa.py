@@ -277,7 +277,7 @@ def build(meta, blocks):
         crumbs = crumbs_index[:-1] + ([] if single else [("Leer online", base_route)]) + [(chapter["title"], route)]
         body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article" id="lectura">{breadcrumbs(crumbs)}'
                 f'<a class="back-link" href="{index_link}">← {"Ficha" if single else "Índice"} de {escape(meta["title"])}</a>'
-                f'<header class="folio-article-head"><p class="eyebrow">{escape(full_title)} · {"Acto" if meta.get("ficha", {}).get("unidad") == "actos" else "Capítulo"} {number} de {len(rendered)}</p>'
+                f'<header class="folio-article-head"><p class="eyebrow">{escape(full_title)} · {number} de {len(rendered)}</p>'
                 f'<h1>{escape(chapter["title"])}</h1>'
                 f'<div class="reading-meta"><span>{minutes(words)} min de lectura</span><a href="#texto-obra">Empezar a leer ↓</a></div></header>'
                 f'<div class="entry" id="texto-obra">'

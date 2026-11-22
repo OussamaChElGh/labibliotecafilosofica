@@ -440,13 +440,28 @@
       "permanent": true
     },
     {
+      "source": "/leer/la-celestina-fernando-de-rojas/",
+      "destination": "/la-celestina-fernando-de-rojas/",
+      "permanent": true
+    },
+    {
       "source": "/leer/la-gaviota-fernan-caballero/",
       "destination": "/la-gaviota-fernan-caballero/",
       "permanent": true
     },
     {
+      "source": "/leer/la-iliada-homero/",
+      "destination": "/la-iliada-homero/",
+      "permanent": true
+    },
+    {
       "source": "/leer/la-isla-del-tesoro-stevenson/",
       "destination": "/la-isla-del-tesoro-stevenson/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-odisea-homero/",
+      "destination": "/la-odisea-homero/",
       "permanent": true
     },
     {

@@ -131,7 +131,7 @@ def convert_chapters(page):
         while blocks and blocks[0].startswith("H|") and len(heads) < 3:
             heads.append(blocks.pop(0)[2:].strip().rstrip("."))
         subtitle = next((h for h in heads if h.lower() not in (name.lower(), label.lower(), title.lower())
-                         and not re.fullmatch(r"(cap[ií]tulo\s+)?[IVXLC\d]+", h, re.I)), "")
+                         and not re.fullmatch(r"(cap[ií]tulo\s+)?([IVXLC\d]+|primero|único)", h, re.I)), "")
         if "/" in name:  # Libro primero/Capítulo I
             group, name = name.rsplit("/", 1)
             label = label if label.lower() != name.lower() else ""
@@ -159,7 +159,14 @@ def convert(page):
     data = api(action="parse", page=page, prop="text|revid", redirects=1)
     if "error" in data:
         raise SystemExit(f'{page}: {data["error"]["info"]}')
-    tree = html.fromstring(data["parse"]["text"])
+    text = data["parse"]["text"]
+    # Letra capital como imagen flotante (edición de 1905 del Quijote): se queda la letra del alt.
+    text = re.sub(r'<span class="img-float[^"]*"[^>]*><span typeof="mw:File"><a[^>]*><img alt="(\w)"[^>]*/?></a></span></span>',
+                  r"\1", text)
+    # «CAPÍTULO X» y su epígrafe centrados en un div: los dos pasan a ser títulos.
+    text = re.sub(r'<p><span[^>]*>(CAP[ÍI]TULO[^<]*)</span>\s*</p>\s*<span[^>]*>(.*?)</span>\s*</div>',
+                  r"<h4>\1</h4><h4>\2</h4></div>", text, flags=re.S)
+    tree = html.fromstring(text)
     roots = tree.xpath('//div[contains(@class,"prp-pages-output")]') or [tree]
     blocks, speakers, refs, pending = [], {}, [], None
     for root in roots:

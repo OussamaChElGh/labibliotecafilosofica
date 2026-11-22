@@ -1,0 +1,277 @@
+{
+  "slug": "la-odisea-homero",
+  "title": "La Odisea",
+  "author": "Homero",
+  "author_route": "",
+  "book_route": "/la-odisea-homero/",
+  "translator": "Luis Segalá y Estalella",
+  "edition": "Barcelona, 1910",
+  "source_url": "https://es.wikisource.org/wiki/La_Odisea_%28Luis_Segal%C3%A1_y_Estalella%29",
+  "source_revision": 1490065,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "al-lector",
+      "title": "Al lector",
+      "summary": "Empieza: «Así como la Ilíada presenta la Grecia heroica en su lucha con los habitantes de la Tróade, la Odisea describe la época…»",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "slug": "canto-1",
+      "title": "Canto I. Concilio de los dioses. Exhortación de Atenea a Telémaco",
+      "summary": "Empieza: «Háblame, Musa, de aquel varón de multiforme ingenio que, después de destruir la sacra ciudad de Troya, anduvo peregrinando larguísimo tiempo, vió…»",
+      "start": 9,
+      "end": 41
+    },
+    {
+      "slug": "canto-2",
+      "title": "Canto II. Telémaco reúne al pueblo en el ágora. Partida de Telémaco",
+      "summary": "Empieza: «No bien se descubrió la hija de la mañana, la Aurora de rosáceos dedos, el caro hijo de Ulises se levantó de…»",
+      "start": 42,
+      "end": 80
+    },
+    {
+      "slug": "canto-3",
+      "title": "Canto III. Lo de Pilos",
+      "summary": "Empieza: «Ya el sol desamparaba el hermosísimo lago, subiendo al broncíneo cielo para alumbrar á los inmortales dioses y á los mortales hombres…»",
+      "start": 81,
+      "end": 119
+    },
+    {
+      "slug": "canto-4",
+      "title": "Canto IV. Lo de Lacedemonia",
+      "summary": "Empieza: «Apenas llegaron á la vasta y cavernosa Lacedemonia, fuéronse derechos á la mansión del glorioso Menelao y halláronle con muchos amigos, celebrando…»",
+      "start": 120,
+      "end": 205
+    },
+    {
+      "slug": "canto-5",
+      "title": "Canto V. La balsa de Ulises",
+      "summary": "Empieza: «La Aurora se levantaba del lecho, dejando al ilustre Titón, para llevar la luz á los inmortales y á los mortales, cuando…»",
+      "start": 206,
+      "end": 247
+    },
+    {
+      "slug": "canto-6",
+      "title": "Canto VI. Llegada de Ulises al país de los feacios",
+      "summary": "Empieza: «Mientras así dormía el paciente y divinal Ulises, rendido del sueño y del cansancio, Minerva se fué al pueblo y á la…»",
+      "start": 248,
+      "end": 272
+    },
+    {
+      "slug": "canto-7",
+      "title": "Canto VII. Entrada de Ulises en el palacio de Alcínoo",
+      "summary": "Empieza: «Mientras así rogaba el paciente divinal Ulises, la doncella era conducida á la ciudad por las vigorosas mulas. Apenas hubo llegado á…»",
+      "start": 273,
+      "end": 298
+    },
+    {
+      "slug": "canto-8",
+      "title": "Canto VIII. Presentación de Ulises a los feacios",
+      "summary": "Empieza: «Al punto que se descubrió la hija de la mañana, la Aurora de rosáceos dedos, levantáronse de la cama la sacra potestad…»",
+      "start": 299,
+      "end": 360
+    },
+    {
+      "slug": "canto-9",
+      "title": "Canto IX. Relatos a Alcínoo. Cicloplea",
+      "summary": "Empieza: «Respondióle el ingenioso Ulises: «¡Rey Alcínoo, el más esclarecido de todos los ciudadanos! En verdad que es hermoso oir á un aedo…»",
+      "start": 361,
+      "end": 405
+    },
+    {
+      "slug": "canto-10",
+      "title": "Canto X. Lo relativo a Eolo, a los lestrigones y a Circe",
+      "summary": "Empieza: «»Llegamos á la isla Eolia, donde moraba Éolo Hipótada, caro á los inmortales dioses; isla natátil, á la cual cerca broncíneo é…»",
+      "start": 406,
+      "end": 468
+    },
+    {
+      "slug": "canto-11",
+      "title": "Canto XI. Evocación de los muertos",
+      "summary": "Empieza: «»En llegando á la nave y al divino mar, echamos en el agua la negra embarcación, izamos el mástil y descogimos el…»",
+      "start": 469,
+      "end": 531
+    },
+    {
+      "slug": "canto-12",
+      "title": "Canto XII. Las sirenas, Escila, Caribdis, las vacas del Sol",
+      "summary": "Empieza: «»Tan luego como la nave, dejando la corriente del río Océano, llegó á las olas del vasto mar y á la isla…»",
+      "start": 532,
+      "end": 575
+    },
+    {
+      "slug": "canto-13",
+      "title": "Canto XIII. Partida de Ulises del país de los feacios y su llegada a Ítaca",
+      "summary": "Empieza: «Tal fué lo que Ulises contó. Enmudecieron los oyentes y, arrobados por el placer de escucharle, se quedaron silenciosos en el obscuro…»",
+      "start": 576,
+      "end": 620
+    },
+    {
+      "slug": "canto-14",
+      "title": "Canto XIV. Conversación de Ulises con Eumeo",
+      "summary": "Empieza: «Ulises, dejando el puerto, empezó áspero camino por lugares selvosos, entre unas eminencias, hacia donde le indicara Minerva que hallaría al porquerizo;…»",
+      "start": 621,
+      "end": 657
+    },
+    {
+      "slug": "canto-15",
+      "title": "Canto XV. Llegada de Telémaco a la cabaña de Eumeo",
+      "summary": "Empieza: «Mientras tanto encaminóse Palas Minerva á la vasta Lacedemonia, para traerle á las mientes la idea del regreso al hijo ilustre del…»",
+      "start": 658,
+      "end": 724
+    },
+    {
+      "slug": "canto-16",
+      "title": "Canto XVI. Telémaco reconoce a Ulises",
+      "summary": "Empieza: «No bien rayó la luz de la aurora, Ulises y el divinal porquerizo encendieron fuego en la cabaña y prepararon el desayuno,…»",
+      "start": 725,
+      "end": 775
+    },
+    {
+      "slug": "canto-17",
+      "title": "Canto XVII. Telémaco vuelve a la ciudad",
+      "summary": "Empieza: «Así que se descubrió la hija de la mañana, la Aurora de rosáceos dedos, Telémaco, hijo amado del divinal Ulises, ató á…»",
+      "start": 776,
+      "end": 860
+    },
+    {
+      "slug": "canto-18",
+      "title": "Canto XVIII. Pugilato de Ulises e Iro",
+      "summary": "Empieza: «Llegó entonces un mendigo que andaba por todo el pueblo; el cual pedía limosna en la ciudad de Ítaca, se señalaba por…»",
+      "start": 861,
+      "end": 919
+    },
+    {
+      "slug": "canto-19",
+      "title": "Canto XIX. Coloquio de Ulises y Penélope. El baño",
+      "summary": "Empieza: «Quedóse en el palacio el divinal Ulises y, junto con Minerva, pensaba en la matanza de los pretendientes, cuando de súbito dijo…»",
+      "start": 920,
+      "end": 973
+    },
+    {
+      "slug": "canto-20",
+      "title": "Canto XX. Lo que precedió a la matanza de los pretendientes",
+      "summary": "Empieza: «Acostóse á su vez el divinal Ulises en el vestíbulo de la casa: tendió la piel cruda de un buey, echó encima…»",
+      "start": 974,
+      "end": 1031
+    },
+    {
+      "slug": "canto-21",
+      "title": "Canto XXI. El certamen del arco",
+      "summary": "Empieza: «Minerva, la deidad de los brillantes ojos, inspiróle en el corazón á la discreta Penélope, hija de Icario, que en la propia…»",
+      "start": 1032,
+      "end": 1081
+    },
+    {
+      "slug": "canto-22",
+      "title": "Canto XXII. Matanza de los pretendientes",
+      "summary": "Empieza: «Á la hora desnudóse de sus harapos el ingenioso Ulises, saltó al grande umbral con el arco y la aljaba repleta de…»",
+      "start": 1082,
+      "end": 1157
+    },
+    {
+      "slug": "canto-23",
+      "title": "Canto XXIII. Penélope reconoce a Ulises",
+      "summary": "Empieza: «Muy alegre se encaminó la vieja á la estancia superior para decirle á su señora que tenía dentro de la casa al…»",
+      "start": 1158,
+      "end": 1195
+    },
+    {
+      "slug": "canto-24",
+      "title": "Canto XXIV. Las libaciones",
+      "summary": "Empieza: «El cilenio Mercurio llamaba á las almas de los pretendientes, teniendo en su mano la hermosa áurea vara con la cual adormece…»",
+      "start": 1196,
+      "end": 1251
+    }
+  ],
+  "description": "La Odisea de Homero: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Poema épico sobre el regreso de Ulises a Ítaca tras la guerra de Troya.",
+  "intro": "<p>Diez años después de la caída de Troya, Ulises (Odiseo) sigue sin volver a Ítaca. La ninfa Calipso lo retiene en su isla, mientras en su palacio un centenar de pretendientes se comen su hacienda y presionan a su esposa, Penélope, para que elija nuevo marido. Su hijo Telémaco, aconsejado por la diosa Minerva (Atenea), sale en busca de noticias de su padre.</p><p>Aquí puedes leer La Odisea completo, dividido en cantos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 50,
+    "art": {
+      "file": "la-odisea-homero.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/la-odisea-homero/ilustracion.jpg",
+      "credit": "John William Waterhouse, «Ulises y las sirenas» (1891), National Gallery of Victoria. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Poema épico",
+    "unidad": "cantos",
+    "tema": "el regreso de Ulises a Ítaca tras la guerra de Troya",
+    "resumen": [
+      "Diez años después de la caída de Troya, Ulises (Odiseo) sigue sin volver a Ítaca. La ninfa Calipso lo retiene en su isla, mientras en su palacio un centenar de pretendientes se comen su hacienda y presionan a su esposa, Penélope, para que elija nuevo marido. Su hijo Telémaco, aconsejado por la diosa Minerva (Atenea), sale en busca de noticias de su padre.",
+      "Liberado por orden de Júpiter (Zeus), Ulises naufraga en la isla de los feacios y les cuenta sus aventuras: los lotófagos, el cíclope Polifemo, la hechicera Circe, el descenso al Hades, las sirenas, Escila y Caribdis. Los feacios lo llevan a Ítaca, donde, disfrazado de mendigo, se reúne con Telémaco, prepara su venganza y mata a los pretendientes. Penélope lo reconoce por el secreto del lecho conyugal."
+    ],
+    "personajes": [
+      [
+        "Ulises (Odiseo)",
+        "Rey de Ítaca, astuto y paciente, que tarda diez años en volver a casa."
+      ],
+      [
+        "Penélope",
+        "Esposa de Ulises, fiel e ingeniosa, que engaña a los pretendientes tejiendo y destejiendo un sudario."
+      ],
+      [
+        "Telémaco",
+        "Hijo de Ulises, que madura a lo largo del poema."
+      ],
+      [
+        "Minerva (Atenea)",
+        "Diosa de la sabiduría, protectora de Ulises y de su hijo."
+      ],
+      [
+        "Neptuno (Poseidón)",
+        "Dios del mar, enemigo de Ulises por haber cegado a su hijo Polifemo."
+      ],
+      [
+        "Polifemo",
+        "Cíclope que encierra a Ulises y sus compañeros en su cueva."
+      ],
+      [
+        "Circe y Calipso",
+        "Diosas que retienen a Ulises en sus islas."
+      ],
+      [
+        "Antínoo",
+        "El más insolente de los pretendientes de Penélope."
+      ]
+    ],
+    "ideas": [
+      "El nóstos: el viaje de regreso al hogar como aventura y como prueba.",
+      "La astucia y la inteligencia valen más que la fuerza.",
+      "La hospitalidad como ley sagrada y su violación.",
+      "La fidelidad, la paciencia y la identidad."
+    ],
+    "faq": [
+      [
+        "¿De qué trata La Odisea?",
+        "Del largo regreso de Ulises a su reino de Ítaca tras la guerra de Troya, y de cómo, al llegar, recupera su casa y a su esposa Penélope matando a los pretendientes."
+      ],
+      [
+        "¿Cuántos cantos tiene La Odisea?",
+        "Veinticuatro. Los cuatro primeros se centran en Telémaco; los relatos de las aventuras de Ulises están en los cantos IX a XII."
+      ],
+      [
+        "¿Qué diferencia hay entre la Ilíada y la Odisea?",
+        "La Ilíada cuenta un episodio de la guerra de Troya, la cólera de Aquiles. La Odisea narra el regreso de Ulises después de la guerra."
+      ],
+      [
+        "¿Por qué salen Júpiter y Minerva en lugar de Zeus y Atenea?",
+        "Porque Segalá, como era costumbre en su época, usó los nombres latinos de los dioses griegos: Júpiter es Zeus, Minerva es Atenea, Neptuno es Poseidón y Juno es Hera."
+      ],
+      [
+        "¿Quién hizo esta traducción?",
+        "Luis Segalá y Estalella, helenista catalán. Su versión en prosa (1910) sigue siendo una de las más leídas en español."
+      ]
+    ]
+  }
+}

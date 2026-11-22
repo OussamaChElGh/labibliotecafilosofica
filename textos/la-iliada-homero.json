@@ -1,0 +1,277 @@
+{
+  "slug": "la-iliada-homero",
+  "title": "La Ilíada",
+  "author": "Homero",
+  "author_route": "",
+  "book_route": "/la-iliada-homero/",
+  "translator": "Luis Segalá y Estalella",
+  "edition": "Barcelona, 1908",
+  "source_url": "https://es.wikisource.org/wiki/La_Il%C3%ADada_%28Luis_Segal%C3%A1_y_Estalella%29",
+  "source_revision": 1677536,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "al-lector",
+      "title": "Al lector",
+      "summary": "Empieza: «No sin temor pongo en tus manos esta versión en prosa del inmortal poema homérico compuesto hace treinta siglos y no superado…»",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "slug": "canto-1",
+      "title": "Canto I. Peste. Cólera",
+      "summary": "Empieza: «Canta, oh diosa, la cólera del Pelida Aquiles; cólera funesta que causó infinitos males á los aqueos y precipitó al Orco muchas…»",
+      "start": 8,
+      "end": 72
+    },
+    {
+      "slug": "canto-2",
+      "title": "Canto II. Sueño. Beocia o catálogo de las naves",
+      "summary": "Empieza: «Las demás deidades y los hombres que en carros combaten, durmieron toda la noche; pero Júpiter no probó las dulzuras del sueño,…»",
+      "start": 73,
+      "end": 166
+    },
+    {
+      "slug": "canto-3",
+      "title": "Canto III. Juramentos. Desde la muralla. Combate singular de Alejandro y Menelao",
+      "summary": "Empieza: «Puestos en orden de batalla con sus respectivos jefes, los teucros avanzaban chillando y gritando como aves—así profieren sus voces las grullas…»",
+      "start": 167,
+      "end": 225
+    },
+    {
+      "slug": "canto-4",
+      "title": "Canto IV. Violación de los juramentos. Agamenón revista las tropas",
+      "summary": "Empieza: «Sentados en el áureo pavimento á la vera de Júpiter, los dioses celebraban consejo. La venerable Hebe escanciaba néctar, y ellos recibían…»",
+      "start": 226,
+      "end": 283
+    },
+    {
+      "slug": "canto-5",
+      "title": "Canto V. Principalía de Diomedes",
+      "summary": "Empieza: «Entonces Palas Minerva infundió á Diomedes Tidida valor y audacia, para que brillara entre todos los argivos y alcanzase inmensa gloria, é…»",
+      "start": 284,
+      "end": 383
+    },
+    {
+      "slug": "canto-6",
+      "title": "Canto VI. Coloquio de Héctor y Andrómaca",
+      "summary": "Empieza: «Quedaron solos en la batalla horrenda teucros y aqueos, que se arrojaban unos á otros broncíneas lanzas; y la pelea se extendía,…»",
+      "start": 384,
+      "end": 434
+    },
+    {
+      "slug": "canto-7",
+      "title": "Canto VII. Combate singular de Héctor y Áyax",
+      "summary": "Empieza: «Dichas estas palabras, el esclarecido Héctor y su hermano Alejandro traspusieron las puertas, con el ánimo impaciente por combatir y pelear. Como…»",
+      "start": 435,
+      "end": 487
+    },
+    {
+      "slug": "canto-8",
+      "title": "Canto VIII. Batalla interrumpida",
+      "summary": "Empieza: «La Aurora, de azafranado velo, se esparcía por toda la tierra, cuando Júpiter, que se complace en lanzar rayos, reunió la junta…»",
+      "start": 488,
+      "end": 544
+    },
+    {
+      "slug": "canto-9",
+      "title": "Canto IX. Embajada a Aquiles. Súplicas",
+      "summary": "Empieza: «Así los teucros guardaban el campo. De los aqueos habíase enseñoreado la ingente Fuga, compañera del glacial Terror, y los más valientes…»",
+      "start": 545,
+      "end": 577
+    },
+    {
+      "slug": "canto-10",
+      "title": "Canto X. Dolonía",
+      "summary": "Empieza: «Los príncipes aqueos durmieron toda la noche, vencidos por plácido sueño; mas no probó sus dulzuras el Atrida Agamenón, pastor de hombres,…»",
+      "start": 578,
+      "end": 647
+    },
+    {
+      "slug": "canto-11",
+      "title": "Canto XI. Principalía de Agamenón",
+      "summary": "Empieza: «La Aurora se levantaba del lecho, dejando al bello Titón, para llevar la luz á los dioses y á los hombres, cuando,…»",
+      "start": 648,
+      "end": 720
+    },
+    {
+      "slug": "canto-12",
+      "title": "Canto XII. Combate en la muralla",
+      "summary": "Empieza: «En tanto el fuerte hijo de Menetio curaba, dentro de la tienda, la herida de Eurípilo, acometíanse confusamente argivos y teucros. Ya…»",
+      "start": 721,
+      "end": 754
+    },
+    {
+      "slug": "canto-13",
+      "title": "Canto XIII. Batalla junto a las naves",
+      "summary": "Empieza: «Cuando Jove hubo acercado á Héctor y los teucros á las naves, dejó que sostuvieran el trabajo y la fatiga de la…»",
+      "start": 755,
+      "end": 827
+    },
+    {
+      "slug": "canto-14",
+      "title": "Canto XIV. Engaño de Júpiter",
+      "summary": "Empieza: «Néstor, aunque estaba bebiendo, no dejó de advertir la gritería; y hablando al descendiente de Esculapio, pronunció estas aladas palabras:»",
+      "start": 828,
+      "end": 880
+    },
+    {
+      "slug": "canto-15",
+      "title": "Canto XV. Nueva ofensiva desde las naves",
+      "summary": "Empieza: «Cuando los teucros hubieron atravesado en su huída el foso y la estacada, muriendo muchos á manos de los dánaos, llegaron al…»",
+      "start": 881,
+      "end": 958
+    },
+    {
+      "slug": "canto-16",
+      "title": "Canto XVI. Patroclea",
+      "summary": "Empieza: «Así peleaban por la nave de muchos bancos. Patroclo se presentó á Aquiles, pastor de hombres, derramando ardientes lágrimas como fuente profunda…»",
+      "start": 959,
+      "end": 1027
+    },
+    {
+      "slug": "canto-17",
+      "title": "Canto XVII. Principalía de Menelao",
+      "summary": "Empieza: «No dejó de advertir el Atrida Menelao, caro á Marte, que Patroclo había sucumbido en la lid á manos de los teucros;…»",
+      "start": 1028,
+      "end": 1105
+    },
+    {
+      "slug": "canto-18",
+      "title": "Canto XVIII. Fabricación de las armas",
+      "summary": "Empieza: «Mientras los teucros y los aqueos combatían con el ardor de abrasadora llama, Antíloco, mensajero de veloces pies, fué en busca de…»",
+      "start": 1106,
+      "end": 1158
+    },
+    {
+      "slug": "canto-19",
+      "title": "Canto XIX. Renunciación de la cólera",
+      "summary": "Empieza: «La Aurora, de azafranado velo, se levantaba de la corriente del Océano para llevar la luz á los dioses y á los…»",
+      "start": 1159,
+      "end": 1199
+    },
+    {
+      "slug": "canto-20",
+      "title": "Canto XX. Combate de los dioses",
+      "summary": "Empieza: «Mientras los aqueos se armaban junto á los corvos bajeles, alrededor de ti, oh hijo de Peleo, incansable en la batalla, los…»",
+      "start": 1200,
+      "end": 1241
+    },
+    {
+      "slug": "canto-21",
+      "title": "Canto XXI. Batalla junto al río",
+      "summary": "Empieza: «Así que los teucros llegaron al vado del voraginoso Janto, río de hermosa corriente á quien el inmortal Júpiter engendrara, Aquiles los…»",
+      "start": 1242,
+      "end": 1306
+    },
+    {
+      "slug": "canto-22",
+      "title": "Canto XXII. Muerte de Héctor",
+      "summary": "Empieza: «Los teucros, refugiados en la ciudad como cervatos, se recostaban en los hermosos baluartes, refrigeraban el sudor y bebían para apagar la…»",
+      "start": 1307,
+      "end": 1356
+    },
+    {
+      "slug": "canto-23",
+      "title": "Canto XXIII. Juegos en honor de Patroclo",
+      "summary": "Empieza: «Así gemían los teucros en la ciudad. Los aqueos, una vez llegados á las naves y al Helesponto, se fueron á sus…»",
+      "start": 1357,
+      "end": 1453
+    },
+    {
+      "slug": "canto-24",
+      "title": "Canto XXIV. Rescate de Héctor",
+      "summary": "Empieza: «Disolvióse la junta, y los guerreros se dispersaron por las naves, tomaron la cena y se regalaron con el dulce sueño. Aquiles…»",
+      "start": 1454,
+      "end": 1537
+    }
+  ],
+  "description": "La Ilíada de Homero: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Poema épico sobre la cólera de Aquiles en la guerra de Troya.",
+  "intro": "<p>En el décimo año del asedio de Troya, el rey Agamenón arrebata a Aquiles, el mejor guerrero griego, su esclava Briseida. Ofendido, Aquiles se retira del combate y pide a su madre, la diosa Tetis, que Júpiter (Zeus) dé ventaja a los troyanos. Sin él, los aqueos sufren derrota tras derrota ante Héctor, hijo del rey Príamo, mientras los dioses toman partido en la lucha.</p><p>Aquí puedes leer La Ilíada completo, dividido en cantos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 51,
+    "art": {
+      "file": "la-iliada-homero.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/la-iliada-homero/ilustracion.jpg",
+      "credit": "Jacques-Louis David, «Andrómaca llorando a Héctor» (1783), Museo del Louvre. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Poema épico",
+    "unidad": "cantos",
+    "tema": "la cólera de Aquiles en la guerra de Troya",
+    "resumen": [
+      "En el décimo año del asedio de Troya, el rey Agamenón arrebata a Aquiles, el mejor guerrero griego, su esclava Briseida. Ofendido, Aquiles se retira del combate y pide a su madre, la diosa Tetis, que Júpiter (Zeus) dé ventaja a los troyanos. Sin él, los aqueos sufren derrota tras derrota ante Héctor, hijo del rey Príamo, mientras los dioses toman partido en la lucha.",
+      "Cuando los troyanos llegan a las naves griegas, Patroclo, el amigo íntimo de Aquiles, sale a combatir con sus armas y muere a manos de Héctor. Aquiles, enloquecido de dolor, vuelve a la batalla, mata a Héctor y arrastra su cadáver. El poema termina cuando el anciano Príamo entra de noche en la tienda de Aquiles para pedirle el cuerpo de su hijo, y Aquiles, conmovido, se lo devuelve."
+    ],
+    "personajes": [
+      [
+        "Aquiles",
+        "El mejor guerrero de los aqueos, orgulloso y colérico."
+      ],
+      [
+        "Héctor",
+        "Príncipe y defensor de Troya, valiente y humano."
+      ],
+      [
+        "Agamenón",
+        "Rey de Micenas y jefe de los griegos, cuya soberbia provoca la cólera de Aquiles."
+      ],
+      [
+        "Patroclo",
+        "Compañero inseparable de Aquiles, cuya muerte lo cambia todo."
+      ],
+      [
+        "Príamo",
+        "Anciano rey de Troya, padre de Héctor y de Paris."
+      ],
+      [
+        "Andrómaca",
+        "Esposa de Héctor, que presiente su muerte."
+      ],
+      [
+        "Ulises, Áyax y Diomedes",
+        "Otros grandes héroes aqueos."
+      ],
+      [
+        "Paris y Helena",
+        "La pareja cuyo rapto originó la guerra."
+      ]
+    ],
+    "ideas": [
+      "La cólera y sus consecuencias: el orgullo herido arrastra a todos.",
+      "La gloria (kléos) frente a la muerte inevitable.",
+      "Los dioses intervienen, pero los hombres cargan con sus actos.",
+      "La compasión final: enemigos que se reconocen en el dolor."
+    ],
+    "faq": [
+      [
+        "¿De qué trata La Ilíada?",
+        "De la cólera de Aquiles durante el asedio de Troya: su retirada del combate, la muerte de su amigo Patroclo, su venganza sobre Héctor y la devolución del cadáver a Príamo."
+      ],
+      [
+        "¿Aparece el caballo de Troya en la Ilíada?",
+        "No. El poema termina con los funerales de Héctor. El caballo de Troya se menciona en la Odisea y lo cuenta Virgilio en la Eneida."
+      ],
+      [
+        "¿Cuántos cantos tiene La Ilíada?",
+        "Veinticuatro, como la Odisea."
+      ],
+      [
+        "¿Por qué salen Júpiter y Minerva en lugar de Zeus y Atenea?",
+        "Porque Segalá, como era costumbre en su época, usó los nombres latinos de los dioses griegos: Júpiter es Zeus, Minerva es Atenea, Neptuno es Poseidón y Juno es Hera."
+      ],
+      [
+        "¿Quién hizo esta traducción?",
+        "Luis Segalá y Estalella, que la publicó en prosa en 1908. Es la versión española clásica del poema."
+      ]
+    ]
+  }
+}

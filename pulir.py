@@ -415,7 +415,9 @@ GOOGLE_HEAD = (
     f'gtag("js",new Date());gtag("config","{GOOGLE_TAG}");</script>'
     f'<script async src="https://www.googletagmanager.com/gtag/js?id={GOOGLE_TAG}"></script>'
     f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" '
-    'crossorigin="anonymous"></script>')
+    'crossorigin="anonymous"></script>'
+    '<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments);};</script>'
+    '<script defer src="/_vercel/insights/script.js"></script>')
 
 
 # Iconos del sitio, los mismos que usaba el WordPress (Google los muestra junto al nombre en los resultados).

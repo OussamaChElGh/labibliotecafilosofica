@@ -2,15 +2,18 @@
 
 python fichas_antiguas.py  (después de pulir.py)
 
-Para cada ruta con datos en textos/fichas/antiguas/*.py añade a la página que ya existe
-resumen, personajes, ideas principales, preguntas frecuentes (con su FAQPage) y un
-título y un h1 más claros. Se conserva todo el contenido anterior bajo «Sobre la obra»,
-así que la URL no pierde nada de lo que ya posiciona. Es idempotente.
+Para cada ruta con datos en textos/fichas/antiguas/*.py reescribe el cuerpo de la ficha con
+la misma estructura que las fichas nuevas: resumen, cita, personajes, ideas principales,
+contexto, datos del libro y preguntas frecuentes (con su FAQPage), además de un título y un
+h1 más claros. Del texto de WordPress solo se conserva lo aprovechable (la cita destacada,
+la ficha técnica, el contexto, los recuadros de Amazon y los enlaces internos), que se guarda
+la primera vez en textos/fichas/antiguas/extraido.json para que el script sea idempotente.
 """
 import html
 import importlib.util
 import json
 import re
+import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -18,6 +21,17 @@ PUBLIC = ROOT / "public"
 DATA = ROOT / "textos" / "fichas" / "antiguas"
 BASE = "https://labibliotecafilosofica.com"
 MARK = "data-ficha-v2"
+CACHE = DATA / "extraido.json"
+START = '<div class="entry" id="texto-obra">'
+# Solo se muestran las citas antiguas que son literales y del libro de la ficha; el resto
+# (paráfrasis o frases de otra obra) se descarta.
+CITAS_VERIFICADAS = {
+    "/el-extranjero-pdf-albert-camus/", "/albert-camus-el-mito-de-sisifo-pdf/", "/albert-camus-caligula-pdf/",
+    "/albert-camus-el-verano/", "/descartes-discurso-del-metodo-pdf/", "/asi-hablo-zaratustra-friedrich-nietzsche/",
+    "/mas-alla-del-bien-y-del-mal-friedrich-nietzsche/", "/la-gaya-ciencia-pdf-friedrich-nietzsche/",
+    "/ecce-homo-friedrich-nietzsche-pdf/", "/sobre-verdad-y-mentira-en-sentido-extramoral-friedrich-nietzsche-pdf/",
+    "/the-yellow-wallpaper-pdf-charlotte-perkins-gilman/", "/the-ones-who-walk-away-from-omelas-pdf-ursula-k-le-guin/",
+}
 
 
 def esc(text):
@@ -34,13 +48,95 @@ def load_books():
     return books
 
 
+def clean(fragment):
+    """Texto plano sin etiquetas, emojis ni espacios sobrantes."""
+    text = html.unescape(re.sub(r"<[^>]+>", " ", fragment))
+    text = "".join(ch for ch in text if unicodedata.category(ch) not in ("So", "Cn", "Mn") or ch in "\u0301\u0303")
+    text = unicodedata.normalize("NFC", text).replace("\u200d", "")
+    text = re.sub(r"\s+([.,;:!?)»])", r"\1", re.sub(r"\s+", " ", text))
+    return re.sub(r"([(«¿¡])\s+", r"\1", text).strip(" :–-|")
+
+
+def body_bounds(document):
+    start = document.index(START) + len(START)
+    end = document.find('</div><div class="terms">', start)
+    if end < 0:
+        end = document.find("</div></article>", start)
+    return start, end
+
+
+def extract(route, document):
+    """Lo aprovechable del cuerpo de WordPress: cita, ficha técnica, contexto, Amazon y enlaces."""
+    document = re.sub(r"<!--ficha-v2-->.*?<!--/ficha-v2-->", "", document, flags=re.S)
+    start, end = body_bounds(document)
+    body = document[start:end]
+    out = {"paper_box": "", "affiliate": [], "cita": "", "datos": [], "contexto": [], "enlaces": []}
+    box = re.search(r'<aside class="paper-box".*?</aside>', body, re.S)
+    if box:
+        out["paper_box"] = box.group(0)
+    out["affiliate"] = re.findall(r'<aside class="affiliate".*?</aside>', body, re.S)
+    body = re.sub(r"<aside.*?</aside>", "", body, flags=re.S)
+    heads = list(re.finditer(r"<h([2-4])[^>]*>(.*?)</h\1>", body, re.S))
+
+    def after(match):
+        """HTML entre un encabezado y el siguiente."""
+        nxt = [h.start() for h in heads if h.start() > match.end()]
+        return body[match.end():nxt[0] if nxt else len(body)]
+
+    quote = re.search(r"<blockquote[^>]*>(.*?)</blockquote>", body, re.S)
+    if quote:
+        out["cita"] = clean(quote.group(1))
+    for head in heads:
+        name = clean(head.group(2)).lower()
+        if not out["cita"] and "cita destacada" in name:
+            first = re.search(r"<p[^>]*>(.*?)</p>", after(head), re.S)
+            out["cita"] = clean(first.group(1)) if first else ""
+        elif not out["cita"] and name[:1] in "\"«“" and name[-1:] in "\"»”" and len(name) < 200:
+            out["cita"] = clean(head.group(2))
+        elif "ficha técnica" in name or "ficha tecnica" in name:
+            for item in re.findall(r"<li[^>]*>(.*?)</li>", after(head), re.S):
+                key, sep, value = clean(item).partition(":")
+                if sep and value.strip():
+                    out["datos"].append([key.strip(), value.strip()])
+        elif name.startswith("contexto"):
+            section = re.split(r"<hr|<div", after(head))[0]
+            out["contexto"] = [clean(p) for p in re.findall(r"<p[^>]*>(.*?)</p>", section, re.S) if len(clean(p)) > 40]
+    out["cita"] = re.sub(r"^cita destacada:?\s*", "", out["cita"], flags=re.I).strip("\"“”«» ")
+    if len(out["cita"]) > 320:
+        out["cita"] = ""
+    seen = {route}
+    for ul in re.findall(r'<ul class="cards">(.*?)</ul>', body, re.S):
+        for href, text in re.findall(r'<a href="(/[^"#]*)">(.*?)</a>', ul, re.S):
+            if href not in seen:
+                seen.add(href)
+                out["enlaces"].append([href, re.sub(r"\s+-\s+", ", de ", clean(text), count=1)])
+    return out
+
+
+def fact_rows(data, extra):
+    """Datos del libro: lo de la ficha técnica antigua sin repetir autor ni formato."""
+    rows = [("Autor", data["autor"]), ("Género", data["genero"]), ("Publicación", data["año"])]
+    skip = ("autor", "formato", "título", "titulo", "género", "genero", "año", "fecha")
+    for key, value in extra:
+        low = key.lower()
+        if low.startswith(skip) and not low.startswith(("título original", "titulo original")):
+            continue
+        if low.startswith(("extensión", "extension")):
+            value = re.sub(r"^PDF\s*\|?\s*", "", value, flags=re.I)
+        if low == "idioma" and value.lower() == "español":
+            key = "Idioma de esta edición"
+        if value and len(rows) < 9:
+            rows.append((key[:1].upper() + key[1:], value))
+    return rows
+
+
 def crumbs_html(items):
     lis = "".join(f'<li><a href="{href}">{esc(name)}</a></li>' for name, href in items[:-1])
     return (f'<nav class="crumbs" aria-label="Ruta de navegación"><ol>{lis}'
             f'<li aria-current="page">{esc(items[-1][0])}</li></ol></nav>')
 
 
-def upgrade(route, data, document):
+def upgrade(route, data, document, kept):
     title, author = data["titulo"], data["autor"]
     name = f"{title}, de {author}"
     # Recupera el documento original si ya se actualizó: el bloque nuevo va entre marcas.
@@ -77,25 +173,37 @@ def upgrade(route, data, document):
 
     has_people = bool(data.get("personajes"))
     links = [("resumen", "Resumen")] + ([("personajes", "Personajes")] if has_people else []) + \
-            [("ideas", "Ideas principales"), ("sobre-la-obra", "Sobre la obra"), ("preguntas", "Preguntas")]
+            [("ideas", "Ideas principales")] + ([("contexto", "Contexto")] if kept["contexto"] else []) + \
+            [("datos", "Datos del libro"), ("preguntas", "Preguntas")]
     toc = " · ".join(f'<a href="#{i}">{t}</a>' for i, t in links)
-    resumen = "".join(f"<p>{esc(p)}</p>" for p in data["resumen"])
-    people = ("<h2 id=\"personajes\">Personajes</h2><dl class=\"guide-characters\">" +
-              "".join(f"<dt>{esc(n)}</dt><dd>{esc(d)}</dd>" for n, d in data["personajes"]) + "</dl>") if has_people else ""
-    ideas = "".join(f"<li>{esc(i)}</li>" for i in data["ideas"])
-    top = (f'<!--ficha-v2--><nav class="toc-inline" aria-label="En esta ficha">{toc}</nav>'
-           f'<h2 id="resumen">Resumen de {esc(title)}</h2>{resumen}{people}'
-           f'<h2 id="ideas">Ideas principales</h2><ul>{ideas}</ul>'
-           f'<h2 id="sobre-la-obra">Sobre la obra</h2><!--/ficha-v2-->')
-    document = document.replace('<div class="entry" id="texto-obra">', '<div class="entry" id="texto-obra">' + top, 1)
-    faq = "".join(f"<h3>{esc(q)}</h3><p>{esc(a)}</p>" for q, a in data["faq"])
+    parts = [f'<nav class="toc-inline" aria-label="En esta ficha">{toc}</nav>',
+             f'<h2 id="resumen">Resumen de {esc(title)}</h2>' + "".join(f"<p>{esc(p)}</p>" for p in data["resumen"])]
+    if kept["cita"] and route in CITAS_VERIFICADAS:
+        parts.append(f'<blockquote class="editorial-quote"><p>«{esc(kept["cita"])}»</p>'
+                     f'<p class="quote-source">{esc(author)}, <cite>{esc(title)}</cite></p></blockquote>')
+    current = re.search(r'<aside class="paper-box".*?</aside>', document, re.S)
+    box = current.group(0) if current else kept["paper_box"]
+    parts.append(re.sub(r'(<p class="paper-box-title">¿Prefieres leer «)[^»]*(» en papel\?</p>)', rf"\g<1>{esc(name)}\g<2>", box))
+    if has_people:
+        parts.append('<h2 id="personajes">Personajes</h2><dl class="guide-characters">' +
+                     "".join(f"<dt>{esc(n)}</dt><dd>{esc(d)}</dd>" for n, d in data["personajes"]) + "</dl>")
+    parts.append('<h2 id="ideas">Ideas principales</h2><ul>' + "".join(f"<li>{esc(i)}</li>" for i in data["ideas"]) + "</ul>")
+    if kept["contexto"]:
+        parts.append(f'<h2 id="contexto">Contexto de {esc(title)}</h2>' + "".join(f"<p>{esc(p)}</p>" for p in kept["contexto"]))
+    parts.append('<h2 id="datos">Datos del libro</h2><dl class="guide-characters book-facts">' +
+                 "".join(f"<dt>{esc(k)}</dt><dd>{esc(v)}</dd>" for k, v in fact_rows(data, kept["datos"])) +
+                 f"<dt>Tema</dt><dd>{esc(data['tema'][:1].upper() + data['tema'][1:])}</dd></dl>")
+    parts.extend(kept["affiliate"][:1])
+    parts.append(f'<h2 id="preguntas">Preguntas frecuentes sobre {esc(title)}</h2>' +
+                 "".join(f"<h3>{esc(q)}</h3><p>{esc(a)}</p>" for q, a in data["faq"]))
+    if kept["enlaces"]:
+        parts.append('<h2 id="relacionados">Más lecturas relacionadas</h2><ul class="cards">' +
+                     "".join(f'<li><a href="{h}">{esc(t)}</a></li>' for h, t in kept["enlaces"][:8]) + "</ul>")
     author_link = f'<a href="{data["ruta_autor"]}">Más libros de {esc(author)}</a> · ' if data.get("ruta_autor") else ""
-    bottom = (f'<!--ficha-v2--><h2 id="preguntas">Preguntas frecuentes sobre {esc(title)}</h2>{faq}'
-              f'<p class="guide-link">{author_link}<a href="/resumenes/">Más resúmenes</a> · <a href="/leer/">Libros para leer online gratis</a></p><!--/ficha-v2-->')
-    end = document.find('</div><div class="terms">')
-    if end < 0:
-        end = document.find("</div></article>")
-    document = document[:end] + bottom + document[end:]
+    parts.append(f'<p class="guide-link">{author_link}<a href="/resumenes/">Más resúmenes</a> · '
+                 '<a href="/leer/">Libros para leer online gratis</a></p>')
+    start, end = body_bounds(document)
+    document = document[:start] + "<!--ficha-v2-->" + "".join(parts) + "<!--/ficha-v2-->" + document[end:]
 
     # Datos estructurados: migas, Book con descripción y FAQPage.
     def schema(match):
@@ -121,12 +229,17 @@ def upgrade(route, data, document):
 
 def main():
     books = load_books()
+    cache = json.loads(CACHE.read_text(encoding="utf-8")) if CACHE.exists() else {}
     for route, data in books.items():
         target = PUBLIC / route.strip("/") / "index.html"
         if not target.exists():
             print("no existe:", route)
             continue
-        target.write_text(upgrade(route, data, target.read_text(encoding="utf-8")), encoding="utf-8")
+        document = target.read_text(encoding="utf-8")
+        if route not in cache:
+            cache[route] = extract(route, document)
+        target.write_text(upgrade(route, data, document, cache[route]), encoding="utf-8")
+    CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"{len(books)} fichas actualizadas al formato nuevo")
 
 

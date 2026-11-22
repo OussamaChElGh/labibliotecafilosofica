@@ -87,6 +87,8 @@
 .guide .entry blockquote p{margin:0}
 .guide .entry blockquote .quote-source{font:400 13px/1.4 Inter,sans-serif;margin-top:.8em;letter-spacing:0}
 @media (max-width:640px){.guide .guide-characters{grid-template-columns:1fr;gap:.2em}.guide .guide-characters dd{margin-bottom:.8em}}
+.guide .book-facts{font-size:.92em;line-height:1.45}
+@media (max-width:640px){.guide .guide-characters.book-facts{grid-template-columns:minmax(96px,max-content) 1fr;gap:.5em 1em}.guide .book-facts dd{margin-bottom:0}}
 /* Páginas de frases. */
 .quotes-page .quote-card{margin:2.4em 0}
 .quotes-page .quote-card blockquote{margin:0 0 .7em}

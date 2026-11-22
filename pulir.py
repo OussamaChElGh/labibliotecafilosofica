@@ -382,16 +382,46 @@ def add_affiliate(document):
     document, title, author = details
     query = quote_plus(f"{title} {author}".strip())
     # data-query permite a biblioteca.js llevar el enlace a la tienda de Amazon del país del lector.
+    document = document.replace('data-query="{query}"', f'data-query="{query}"')  # arreglo de una versión anterior
     document = re.sub(r'(<a [^>]*href="https://www\.amazon\.es/[^"]*"[^>]*rel="sponsored[^"]*")(?![^>]*data-query)',
                       lambda m: f'{m.group(1)} data-query="{query}"', document)
     head = document.split(START, 1)[0]
     if 'rel="sponsored' in head or '<div class="actions">' not in head:
         return document
     link = (f'<a class="button secondary" href="https://www.amazon.es/s?k={query}&amp;i=stripbooks&amp;tag={AFFILIATE_TAG}" '
-            'rel="sponsored nofollow" data-affiliate data-query="{query}">Ver edición en papel ↗</a>')
+            f'rel="sponsored nofollow" data-affiliate data-query="{query}">Ver edición en papel ↗</a>')
     start = document.index('<div class="actions">')
     end = document.index("</div>", start)
     return document[:end] + link + document[end:]
+
+
+def add_paper_box(document):
+    """Recuadro «Léelo en papel» en las fichas de libro: portada, ventajas y botón grande a Amazon."""
+    if "data-paper-box" in document or "data-affiliate" not in document or START not in document:
+        return document
+    link = re.search(r'<a class="button secondary" href="(https://www\.amazon\.es/[^"]*)"[^>]*data-query="([^"]*)"', document)
+    title = re.search(r"<h1>(.*?)</h1>", document, re.S)
+    cover = re.search(r'<figure class="featured"><img src="([^"]+)"', document)
+    if not link or not title:
+        return document
+    name = re.sub(r"<[^>]+>", "", title.group(1)).strip()
+    image = (f'<img src="{cover.group(1)}" alt="" width="120" height="180" loading="lazy">' if cover else "")
+    box = (f'<aside class="paper-box" data-paper-box aria-label="Edición en papel">'
+           f'<div class="paper-box-cover">{image}</div><div class="paper-box-body">'
+           f'<p class="paper-box-kicker">Edición en papel</p>'
+           f'<p class="paper-box-title">¿Prefieres leer «{name}» en papel?</p>'
+           '<ul><li>Subraya y anota sin pantallas</li><li>Ediciones con introducción y notas</li><li>Un buen regalo para lectores</li></ul>'
+           f'<a class="paper-box-cta" href="{link.group(1)}" rel="sponsored nofollow" data-affiliate data-query="{link.group(2)}">'
+           'Ver ediciones y precios en Amazon <span aria-hidden="true">↗</span></a>'
+           '<p class="paper-box-note">Enlace de afiliado: si compras, la biblioteca recibe una pequeña comisión sin coste extra para ti.</p>'
+           '</div></aside>')
+    if '<h2 id="personajes">' in document:
+        return document.replace('<h2 id="personajes">', box + '<h2 id="personajes">', 1)
+    start = document.index(START) + len(START)
+    body_end = min([i for i in (document.find(m, start) for m in END_MARKERS) if i > 0] or [document.find("</article>", start)])
+    paragraphs = [m.end() for m in re.finditer(r"</p>", document[start:body_end])]
+    at = start + paragraphs[1] if len(paragraphs) >= 3 else body_end
+    return document[:at] + box + document[at:]
 
 
 def guide_links():
@@ -495,7 +525,7 @@ def main():
         route = route_of(page)
         if route in entries:
             document = render_related(document, suggestions(route, entries, frequency), entries)
-        document = add_guide_link(add_affiliate(seo_head(document, route)), route, guides)
+        document = add_guide_link(add_paper_box(add_affiliate(seo_head(document, route))), route, guides)
         pages[page] = add_reading_links(replace_nav(document, menu), route, reading)
     for page, result in pages.items():
         if result != originals[page]:

@@ -325,6 +325,16 @@
       "permanent": true
     },
     {
+      "source": "/leer/amalia-jose-marmol/",
+      "destination": "/amalia-jose-marmol/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/ariel-jose-enrique-rodo/",
+      "destination": "/ariel-jose-enrique-rodo/",
+      "permanent": true
+    },
+    {
       "source": "/leer/carmides-platon/",
       "destination": "/carmides-platon/",
       "permanent": true
@@ -337,6 +347,21 @@
     {
       "source": "/leer/criton-platon/",
       "destination": "/criticon-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumanda-juan-leon-mera/",
+      "destination": "/cumanda-juan-leon-mera/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/dona-perfecta-benito-perez-galdos/",
+      "destination": "/dona-perfecta-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-buscon-francisco-de-quevedo/",
+      "destination": "/el-buscon-francisco-de-quevedo/",
       "permanent": true
     },
     {
@@ -375,6 +400,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/la-regenta-leopoldo-alas-clarin/",
+      "destination": "/la-regenta-leopoldo-alas-clarin/",
+      "permanent": true
+    },
+    {
       "source": "/leer/laques-platon/",
       "destination": "/laques-platon/",
       "permanent": true
@@ -382,6 +412,31 @@
     {
       "source": "/leer/lisis-platon/",
       "destination": "/lisis-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/maria-jorge-isaacs/",
+      "destination": "/maria-jorge-isaacs/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/marianela-benito-perez-galdos/",
+      "destination": "/marianela-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/misericordia-benito-perez-galdos/",
+      "destination": "/misericordia-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/niebla-miguel-de-unamuno/",
+      "destination": "/niebla-miguel-de-unamuno/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/pepita-jimenez-juan-valera/",
+      "destination": "/pepita-jimenez-juan-valera/",
       "permanent": true
     },
     {
@@ -397,6 +452,11 @@
     {
       "source": "/leer/sofista-platon/",
       "destination": "/sofista-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/trafalgar-benito-perez-galdos/",
+      "destination": "/trafalgar-benito-perez-galdos/",
       "permanent": true
     }
   ],

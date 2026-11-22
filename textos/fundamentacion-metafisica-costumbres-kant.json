@@ -1,0 +1,91 @@
+{
+  "slug": "fundamentacion-metafisica-costumbres-kant",
+  "title": "Fundamentación de la metafísica de las costumbres",
+  "author": "Immanuel Kant",
+  "author_route": "",
+  "book_route": "/fundamentacion-de-la-metafisica-de-las-costumbres-immanuel-kant/",
+  "translator": "Manuel García Morente",
+  "edition": "Madrid, Calpe, 1921",
+  "source_url": "https://es.wikisource.org/wiki/Fundamentaci%C3%B3n_para_la_metaf%C3%ADsica_de_las_costumbres",
+  "source_revision": 1287862,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "prologo",
+      "title": "Prólogo",
+      "summary": "Empieza: «La antigua filosofía griega dividíase en tres ciencias: la física, la ética y la lógica. Esta división es perfectamente adecuada a la…»",
+      "start": 0,
+      "end": 15
+    },
+    {
+      "slug": "transito-del-conocimiento-etico-comun-de-la-razon-al-filosofico",
+      "title": "Capítulo primero. Tránsito del conocimiento moral vulgar de la razón al conocimiento filosófico",
+      "summary": "Empieza: «Ni en el mundo, ni, en general, tampoco fuera del mundo, es posible pensar nada que pueda considerarse como bueno sin restricción,…»",
+      "start": 16,
+      "end": 40
+    },
+    {
+      "slug": "transito-del-saber-etico-popular-a-la-metafisica-de-las-costumbres",
+      "title": "Capítulo segundo. Tránsito de la filosofía moral popular a la metafísica de las costumbres",
+      "summary": "Empieza: «Si bien hemos sacado el concepto del deber, que hasta ahora tenemos, del uso vulgar de nuestra razón práctica, no debe inferirse…»",
+      "start": 41,
+      "end": 134
+    },
+    {
+      "slug": "transito-de-la-metafisica-de-las-costumbres-a-la-critica-de-la-razon-pura-practica",
+      "title": "Capítulo tercero. Último paso de la metafísica de las costumbres a la crítica de la razón pura práctica",
+      "summary": "Empieza: «El concepto de la libertad es la clave para explicar la autonomía de la voluntad»",
+      "start": 135,
+      "end": 175
+    }
+  ],
+  "description": "Fundamentación de la metafísica de las costumbres de Immanuel Kant: resumen, ideas principales y el libro completo para leer online gratis o descargar en PDF. Tratado filosófico sobre el fundamento de la moral.",
+  "intro": "<p>Kant busca el principio supremo de la moralidad. Parte de una idea común: lo único bueno sin restricción es una buena voluntad. Una acción tiene valor moral cuando se hace por deber, por respeto a la ley moral, y no solo conforme al deber o por inclinación.</p><p>Aquí puedes leer Fundamentación de la metafísica de las costumbres completo, dividido en partes. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 32,
+    "art": {
+      "file": "fundamentacion-metafisica-costumbres-kant.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/fundamentacion-metafisica-costumbres-kant/ilustracion.jpg",
+      "credit": "Emil Doerstling, «Kant y sus comensales» (1892-1893). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Tratado filosófico",
+    "unidad": "partes",
+    "tema": "el fundamento de la moral",
+    "resumen": [
+      "Kant busca el principio supremo de la moralidad. Parte de una idea común: lo único bueno sin restricción es una buena voluntad. Una acción tiene valor moral cuando se hace por deber, por respeto a la ley moral, y no solo conforme al deber o por inclinación.",
+      "Distingue los imperativos hipotéticos, que mandan algo como medio para un fin, del imperativo categórico, que manda de forma incondicional: obra solo según una máxima que puedas querer que se convierta en ley universal, y trata a la humanidad siempre como un fin y nunca solo como un medio. La moral se funda en la autonomía de la voluntad, que se da a sí misma su ley."
+    ],
+    "personajes": [],
+    "ideas": [
+      "Lo único bueno sin restricción es la buena voluntad.",
+      "Obrar por deber frente a obrar conforme al deber.",
+      "El imperativo categórico y sus formulaciones.",
+      "La persona como fin en sí misma y el reino de los fines.",
+      "Autonomía de la voluntad frente a heteronomía."
+    ],
+    "faq": [
+      [
+        "¿Qué es el imperativo categórico?",
+        "La ley moral que manda sin condiciones: obra solo según una máxima que puedas querer como ley universal."
+      ],
+      [
+        "¿Qué diferencia hay entre imperativo hipotético y categórico?",
+        "El hipotético manda algo si quieres un fin; el categórico manda algo por sí mismo, sin depender de ningún fin."
+      ],
+      [
+        "¿Qué es la autonomía para Kant?",
+        "La capacidad de la voluntad racional de darse a sí misma la ley moral."
+      ]
+    ],
+    "año": "1785"
+  }
+}

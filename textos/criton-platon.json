@@ -1,0 +1,181 @@
+{
+  "slug": "criton-platon",
+  "title": "Critón",
+  "author": "Platón",
+  "author_route": "/libros-pdf-gratis/autores/platon/",
+  "book_route": "/criticon-platon/",
+  "translator": "Patricio de Azcárate",
+  "edition": "Obras completas de Platón, tomo I. Madrid: Medina y Navarro, 1871",
+  "source_url": "https://es.wikisource.org/wiki/Crit%C3%B3n",
+  "source_revision": 1274327,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {
+    "7": "Sócrates",
+    "8": "Criton",
+    "9": "Sócrates",
+    "10": "Criton",
+    "11": "Sócrates",
+    "12": "Criton",
+    "13": "Sócrates",
+    "14": "Criton",
+    "15": "Sócrates",
+    "16": "Criton",
+    "17": "Sócrates",
+    "18": "Criton",
+    "19": "Sócrates",
+    "20": "Criton",
+    "21": "Sócrates",
+    "22": "Criton",
+    "23": "Criton",
+    "24": "Sócrates",
+    "25": "Criton",
+    "26": "Sócrates",
+    "27": "Criton",
+    "28": "Sócrates",
+    "30": "Criton",
+    "31": "Sócrates",
+    "32": "Criton",
+    "33": "Sócrates",
+    "34": "Criton",
+    "35": "Sócrates",
+    "36": "Criton",
+    "37": "Sócrates",
+    "38": "Criton",
+    "40": "Sócrates",
+    "42": "Criton",
+    "43": "Sócrates",
+    "44": "Criton",
+    "45": "Sócrates",
+    "46": "Criton",
+    "47": "Sócrates",
+    "48": "Criton",
+    "49": "Sócrates",
+    "50": "Criton",
+    "51": "Sócrates",
+    "52": "Criton",
+    "53": "Sócrates",
+    "54": "Criton",
+    "55": "Sócrates",
+    "56": "Criton",
+    "57": "Sócrates",
+    "58": "Criton",
+    "59": "Sócrates",
+    "60": "Criton",
+    "61": "Sócrates",
+    "62": "Criton",
+    "63": "Sócrates",
+    "64": "Criton",
+    "65": "Sócrates",
+    "66": "Criton",
+    "67": "Sócrates",
+    "68": "Criton",
+    "69": "Sócrates",
+    "70": "Criton",
+    "71": "Sócrates",
+    "72": "Criton",
+    "73": "Sócrates",
+    "74": "Criton",
+    "75": "Sócrates",
+    "76": "Criton",
+    "77": "Sócrates",
+    "78": "Sócrates",
+    "79": "Criton",
+    "80": "Sócrates",
+    "81": "Criton",
+    "82": "Sócrates",
+    "83": "Criton",
+    "84": "Sócrates",
+    "85": "Criton",
+    "86": "Sócrates",
+    "87": "Criton",
+    "88": "Sócrates",
+    "89": "Criton",
+    "90": "Sócrates",
+    "91": "Criton",
+    "92": "Sócrates",
+    "93": "Criton",
+    "94": "Sócrates",
+    "95": "Criton",
+    "96": "Sócrates",
+    "97": "Criton",
+    "98": "Sócrates",
+    "99": "Criton",
+    "100": "Sócrates",
+    "102": "Criton"
+  },
+  "chapters": [
+    {
+      "slug": "argumento",
+      "title": "Argumento",
+      "summary": "Resumen de la obra que acompaña a la edición de 1871.",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "slug": "parte-1",
+      "title": "Parte 1",
+      "summary": "Empieza: «¿Cómo vienes tan temprano, Criton? ¿No es aún muy de madrugada?»",
+      "start": 5,
+      "end": 77
+    },
+    {
+      "slug": "parte-2",
+      "title": "Parte 2",
+      "summary": "Empieza: «¿Es preciso no cometer injusticia de ninguna manera?»",
+      "start": 78,
+      "end": 102
+    }
+  ],
+  "description": "Critón de Platón: resumen, personajes e ideas principales, y el texto completo para leer online gratis o descargar en PDF. Diálogo sobre la obediencia a las leyes.",
+  "intro": "<p>Critón visita a Sócrates en la cárcel al amanecer, pocos días antes de la ejecución. Ha sobornado al carcelero y tiene todo listo para la fuga: hay dinero, amigos dispuestos a acogerle en Tesalia y, dice, la gente pensará que sus amigos no quisieron salvarle.</p><p>Aquí puedes leer Critón completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 3,
+    "art": {
+      "file": "criton-platon.jpg",
+      "focus": [
+        0.3,
+        0.5
+      ],
+      "url": "/leer/criton-platon/ilustracion.jpg",
+      "credit": "Jacques-Louis David, «La muerte de Sócrates» (1787), Metropolitan Museum of Art. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "tema": "la obediencia a las leyes",
+    "resumen": [
+      "Critón visita a Sócrates en la cárcel al amanecer, pocos días antes de la ejecución. Ha sobornado al carcelero y tiene todo listo para la fuga: hay dinero, amigos dispuestos a acogerle en Tesalia y, dice, la gente pensará que sus amigos no quisieron salvarle.",
+      "Sócrates no discute por miedo ni por afecto, sino por razones: lo que importa no es la opinión de la mayoría, sino vivir bien, es decir, con justicia. Nunca se debe responder a una injusticia con otra. Para mostrarlo imagina que las Leyes de Atenas le hablan: le han dado la vida, la educación y la ciudad, y él aceptó vivir bajo ellas durante setenta años. Huir sería romper ese pacto. Critón no sabe qué responder y Sócrates decide quedarse."
+    ],
+    "personajes": [
+      [
+        "Sócrates",
+        "Condenado a muerte, espera en la cárcel el regreso del barco sagrado de Delos."
+      ],
+      [
+        "Critón",
+        "Amigo de toda la vida, rico y leal, que ha preparado su fuga."
+      ]
+    ],
+    "ideas": [
+      "No hay que dejarse guiar por la opinión de la mayoría, sino por la de quien sabe.",
+      "No se debe cometer injusticia nunca, ni siquiera para devolver una injusticia recibida.",
+      "Quien vive en una ciudad acepta un pacto con sus leyes; incumplirlo es injusto."
+    ],
+    "faq": [
+      [
+        "¿De qué trata el Critón de Platón?",
+        "Del deber de obedecer las leyes. Critón propone a Sócrates escapar de la cárcel y Sócrates explica por qué no lo hará, aunque su condena sea injusta."
+      ],
+      [
+        "¿Por qué Sócrates no huye de la cárcel?",
+        "Porque huir sería cometer una injusticia contra las leyes de Atenas, con las que se comprometió al vivir en la ciudad, y para Sócrates nunca es lícito devolver mal por mal."
+      ],
+      [
+        "¿Qué relación tiene el Critón con la Apología y el Fedón?",
+        "Forman una secuencia: la Apología es el juicio, el Critón transcurre en la cárcel días antes de la ejecución y el Fedón narra el último día y la muerte de Sócrates."
+      ]
+    ]
+  }
+}

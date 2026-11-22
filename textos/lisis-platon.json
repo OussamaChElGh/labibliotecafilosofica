@@ -1,0 +1,103 @@
+{
+  "slug": "lisis-platon",
+  "title": "Lisis",
+  "author": "Platón",
+  "author_route": "/libros-pdf-gratis/autores/platon/",
+  "book_route": "/lisis-platon/",
+  "translator": "Patricio de Azcárate",
+  "edition": "Obras completas de Platón, tomo I. Madrid: Medina y Navarro, 1871",
+  "source_url": "https://es.wikisource.org/wiki/Lisis",
+  "source_revision": 1274338,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "parte-1",
+      "title": "Parte 1",
+      "summary": "Empieza: «Sócrates: Iba de la Academia al Liceo por el camino de las afueras a lo largo de las murallas, cuando al llegar…»",
+      "start": 0,
+      "end": 105
+    },
+    {
+      "slug": "parte-2",
+      "title": "Parte 2",
+      "summary": "Empieza: «Creo que me la confiará.»",
+      "start": 106,
+      "end": 217
+    },
+    {
+      "slug": "parte-3",
+      "title": "Parte 3",
+      "summary": "Empieza: «No lo creo.»",
+      "start": 218,
+      "end": 341
+    },
+    {
+      "slug": "parte-4",
+      "title": "Parte 4",
+      "summary": "Empieza: «Me parece bien que sea así.»",
+      "start": 342,
+      "end": 394
+    }
+  ],
+  "description": "Lisis de Platón: resumen, personajes e ideas principales, y el texto completo para leer online gratis o descargar en PDF. Diálogo sobre la amistad.",
+  "intro": "<p>Camino del Liceo, Sócrates se encuentra con Hipotales, enamorado del joven Lisis, que le pide consejo para conquistarlo. Sócrates le muestra cómo hablarle y entra en la palestra, donde conversa con Lisis y su amigo Menéxeno.</p><p>Aquí puedes leer Lisis completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 10,
+    "art": {
+      "file": "lisis-platon.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/lisis-platon/ilustracion.jpg",
+      "credit": "Jean-Léon Gérôme, «Jóvenes griegos presenciando una pelea de gallos» (1846), Musée d'Orsay. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "tema": "la amistad",
+    "resumen": [
+      "Camino del Liceo, Sócrates se encuentra con Hipotales, enamorado del joven Lisis, que le pide consejo para conquistarlo. Sócrates le muestra cómo hablarle y entra en la palestra, donde conversa con Lisis y su amigo Menéxeno.",
+      "La pregunta es qué es un amigo: ¿quien ama o quien es amado? ¿Se hacen amigos los semejantes o los contrarios? ¿Lo bueno es amigo de lo bueno? Sócrates explora cada posibilidad y llega a la idea de un primer objeto amado por el que queremos todo lo demás, pero las dudas vuelven y los pedagogos interrumpen la charla. Sócrates concluye que se tienen por amigos sin haber sabido decir qué es un amigo."
+    ],
+    "personajes": [
+      [
+        "Sócrates",
+        "Narra el encuentro y conversa con los jóvenes."
+      ],
+      [
+        "Lisis",
+        "Muchacho noble y reflexivo."
+      ],
+      [
+        "Menéxeno",
+        "Amigo de Lisis, aficionado a discutir."
+      ],
+      [
+        "Hipotales",
+        "Joven enamorado de Lisis."
+      ]
+    ],
+    "ideas": [
+      "La amistad plantea si se quiere lo semejante o lo contrario.",
+      "Queremos las cosas por algo que amamos en primer lugar.",
+      "La amistad nace de una carencia: de lo que es propio y nos falta."
+    ],
+    "faq": [
+      [
+        "¿De qué trata el Lisis de Platón?",
+        "De la amistad. Sócrates pregunta a dos jóvenes qué hace que alguien sea amigo de otro."
+      ],
+      [
+        "¿Qué relación tiene el Lisis con El banquete?",
+        "Ambos tratan del amor y del deseo de lo que falta; el Lisis plantea preguntas que El banquete retoma con más amplitud."
+      ],
+      [
+        "¿Se define la amistad en el Lisis?",
+        "No del todo. El diálogo termina reconociendo que no han sabido decir qué es un amigo."
+      ]
+    ]
+  }
+}

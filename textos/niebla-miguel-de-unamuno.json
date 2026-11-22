@@ -1,0 +1,346 @@
+{
+  "slug": "niebla-miguel-de-unamuno",
+  "title": "Niebla",
+  "author": "Miguel de Unamuno",
+  "author_route": "",
+  "book_route": "/niebla-miguel-de-unamuno/",
+  "translator": "",
+  "edition": "Madrid, Renacimiento, 1914",
+  "source_url": "https://es.wikisource.org/wiki/Niebla",
+  "source_revision": 1398308,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "prologo",
+      "title": "Prólogo",
+      "summary": "Empieza: «Se empeña don Miguel de Unamuno en que ponga yo un prólogo a este su libro en que se relata la tan…»",
+      "start": 0,
+      "end": 22
+    },
+    {
+      "slug": "post-prologo",
+      "title": "Post-Prólogo",
+      "summary": "Empieza: «De buena gana discutiría aquí alguna de las afirmaciones de mi prologuista, Víctor Goti, pero como estoy en el secreto de su…»",
+      "start": 23,
+      "end": 27
+    },
+    {
+      "slug": "capitulo-1",
+      "title": "Capítulo I",
+      "summary": "Empieza: «Al aparecer Augusto a la puerta de su casa extendió el brazo derecho, con la mano palma abajo y abierta, y dirigiendo…»",
+      "start": 28,
+      "end": 68
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "Capítulo II",
+      "summary": "Empieza: «Al abrirle el criado la puerta...»",
+      "start": 69,
+      "end": 129
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "Capítulo III",
+      "summary": "Empieza: «Hoy te retrasaste un poco, chico—dijo Víctor a Augusto—, ¡tú, tan puntual siempre!»",
+      "start": 130,
+      "end": 186
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "Capítulo IV",
+      "summary": "Empieza: ««¿Por qué el diminutivo es señal de cariño? –iba diciéndose Augusto camino de su casa–. ¿Es acaso que el amor achica la…»",
+      "start": 187,
+      "end": 240
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "Capítulo V",
+      "summary": "Empieza: «Cruzaba las nubes, águila refulgente, con las poderosas alas perladas de rocío, fijos los ojos de presa en la niebla solar, dormido…»",
+      "start": 241,
+      "end": 312
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "Capítulo VI",
+      "summary": "Empieza: ««Tengo que tomar alguna determinación –se decía Augusto paseándose frente a la casa número 58 de la avenida de la Alameda–; esto…»",
+      "start": 313,
+      "end": 397
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "Capítulo VII",
+      "summary": "Empieza: ««¡Ay, Orfeo! –decía ya en su casaAugusto, dándole la leche a aquel–. ¡Ay, Orfeo! Di el gran paso, el paso decisivo; entré…»",
+      "start": 398,
+      "end": 410
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "Capítulo VIII",
+      "summary": "Empieza: «Augusto temblaba y sentíase como en un potro de suplicio en su asiento; entrábanle furiosas ganas de levantarse de él, pasearse por…»",
+      "start": 411,
+      "end": 512
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "Capítulo IX",
+      "summary": "Empieza: «Al día siguiente de esto hablaba Eugenia en el reducido cuchitril de una portería con un joven, mientras la portera había salido…»",
+      "start": 513,
+      "end": 562
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "Capítulo X",
+      "summary": "Empieza: «Como Augusto necesitaba confidencia se dirigió al Casino, a ver a Víctor, su amigote, al día siguiente de aquella su visita a…»",
+      "start": 563,
+      "end": 621
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "Capítulo XI",
+      "summary": "Empieza: «Cuando llamó aquel otro día Augusto a casa de don Fermín y doña Ermelinda, la criada le pasó a la salita diciéndole:…»",
+      "start": 622,
+      "end": 711
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "Capítulo XII",
+      "summary": "Empieza: «Señorito –entró un día después a decir a Augusto Liduvina–, ahí está la del planchado.»",
+      "start": 712,
+      "end": 783
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "Capítulo XIII",
+      "summary": "Empieza: «Pocos días después de esto entró una mañana Liduvina en el cuarto de Augusto diciéndole que una señorita preguntaba por él. –¿Una…»",
+      "start": 784,
+      "end": 785
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "Capítulo XIV",
+      "summary": "Empieza: «Notó Augusto que algo insólito le ocurría a su amigo Víctor; no acertaba ninguna jugada, estaba displicente y silencioso. –Víctor, algo te…»",
+      "start": 786,
+      "end": 787
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "Capítulo XV",
+      "summary": "Empieza: «Pero ¿qué has hecho, chiquilla? –preguntó doña Ermelinda a su sobrina. –¿Qué he hecho? Lo que usted, si es que tiene vergüenza,…»",
+      "start": 788,
+      "end": 789
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "Capítulo XVI",
+      "summary": "Empieza: «Eres imposible, Mauricio –le decía Eugenia a su novio, en el cuchitril aquel de la portería–, completamente imposible, y si sigues así,…»",
+      "start": 790,
+      "end": 791
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "Capítulo XVII",
+      "summary": "Empieza: «¿Te acuerdas, Augusto –le decía Víctor–, de aquel don Eloíno Rodríguez de Alburquerque y Álvarez de Castro? –¿Aquel empleado de Hacienda tan…»",
+      "start": 792,
+      "end": 793
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "Capítulo XVIII",
+      "summary": "Empieza: «¡Hola, Rosarito! –exclamó Augusto apenas la vio. –Buenas tardes, don Augusto –y la voz de la muchacha era serena y clara y…»",
+      "start": 794,
+      "end": 795
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "Capítulo XIX",
+      "summary": "Empieza: «A los dos días de esto anunciáronle a Augusto que una señora deseaba verle y hablarle. Salió a recibirla y se encontró…»",
+      "start": 796,
+      "end": 797
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "Capítulo XX",
+      "summary": "Empieza: «Emprendería el viaje, ¿sí o no? Ya lo había anunciado primero a Rosarito, sin saber bien lo que se decía, por decir…»",
+      "start": 798,
+      "end": 799
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "Capítulo XXI",
+      "summary": "Empieza: «Sí, tiene usted razón –le decía don Antonio a Augusto aquella tarde, en el Casino, hablando a solas, en un rinconcito–, tiene…»",
+      "start": 800,
+      "end": 801
+    },
+    {
+      "slug": "capitulo-22",
+      "title": "Capítulo XXII",
+      "summary": "Empieza: «Y bien, ¿qué? –le preguntaba Augusto a Víctor ¿cómo habéis recibido al intruso? –¡Ah, nunca lo hubiese creído, nunca! Todavía la víspera…»",
+      "start": 802,
+      "end": 803
+    },
+    {
+      "slug": "capitulo-23",
+      "title": "Capítulo XXIII",
+      "summary": "Empieza: «El pobre Augusto estaba consternado. No era sólo que se encontrase, como el asno de Buridán, entre Eugenia y Rosario; era que…»",
+      "start": 804,
+      "end": 805
+    },
+    {
+      "slug": "capitulo-24",
+      "title": "Capítulo XXIV",
+      "summary": "Empieza: «Cuando salió Augusto de su entrevista con Paparrigópulos íbase diciendo: «De modo que tengo que renunciar a una de las dos o…»",
+      "start": 806,
+      "end": 807
+    },
+    {
+      "slug": "capitulo-25",
+      "title": "Capítulo XXV",
+      "summary": "Empieza: «Fue Augusto a ver a Víctor, a acariciar al tardío hijo de este, a recrearse en la contemplación de la nueva felicidad…»",
+      "start": 808,
+      "end": 809
+    },
+    {
+      "slug": "capitulo-26",
+      "title": "Capítulo XXVI",
+      "summary": "Empieza: «Augusto se dirigió a casa de Eugenia dispuesto a tentar la última experiencia psicológica, la definitiva, aunque temiendo que ella le rechazase.…»",
+      "start": 810,
+      "end": 811
+    },
+    {
+      "slug": "capitulo-27",
+      "title": "Capítulo XXVII",
+      "summary": "Empieza: «Empezó entonces para Augusto una nueva vida. Casi todo el día se lo pasaba en casa de su novia y estudiande no…»",
+      "start": 812,
+      "end": 814
+    },
+    {
+      "slug": "capitulo-28",
+      "title": "Capítulo XXVIII",
+      "summary": "Empieza: «Torció el gesto Augusto cuando una mañana le anunció Liduvina que un joven le esperaba y se encontró luego con que era…»",
+      "start": 815,
+      "end": 816
+    },
+    {
+      "slug": "capitulo-29",
+      "title": "Capítulo XXIX",
+      "summary": "Empieza: «Todo estaba dispuesto ya para la boda. Augusto la quería recogida y modesta, pero ella, su mujer futura, parecía preferir que se…»",
+      "start": 817,
+      "end": 818
+    },
+    {
+      "slug": "capitulo-30",
+      "title": "Capítulo XXX",
+      "summary": "Empieza: «Víctor encontró a Augusto hundido en un rincón de un sofá, mirando más abajo del suelo. –¿Qué es eso? –le preguntó poniéndole…»",
+      "start": 819,
+      "end": 820
+    },
+    {
+      "slug": "capitulo-31",
+      "title": "Capítulo XXXI",
+      "summary": "Empieza: «Aquella tempestad del alma de Augusto terminó, como en terrible calma, en decisión de suicidarse. Quería acabar consigo mismo, que era la…»",
+      "start": 821,
+      "end": 822
+    },
+    {
+      "slug": "capitulo-32",
+      "title": "Capítulo XXXII",
+      "summary": "Empieza: «Aquella misma noche se partió Augusto de esta ciudad de Salamanca adonde vino a verme. Fuese con la sentencia de muerte sobre…»",
+      "start": 823,
+      "end": 937
+    },
+    {
+      "slug": "capitulo-33",
+      "title": "Capítulo XXXIII",
+      "summary": "Empieza: «Cuando recibí el telegrama comunicándome la muerte del pobre Augusto, y supe luego las circunstancias todas de ella, me quedé pensando en…»",
+      "start": 938,
+      "end": 939
+    },
+    {
+      "slug": "capitulo-34",
+      "title": "XXXIV. Oración fúnebre por modo de epílogo",
+      "summary": "Empieza: «Suele ser costumbre al final de las novelas y luego que muere o se casa el héroe o protagonista dar noticia de…»",
+      "start": 940,
+      "end": 941
+    }
+  ],
+  "description": "Niebla de Miguel de Unamuno: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Nivola sobre la existencia, el amor y la libertad del personaje.",
+  "intro": "<p>Augusto Pérez es un joven rico y desocupado que vive sin rumbo, como entre niebla, hasta que se enamora a primera vista de Eugenia Domingo del Arco, una profesora de piano. Ella tiene novio, Mauricio, y desprecia los regalos de Augusto, que incluso paga la hipoteca de su casa. Mientras tanto, Augusto conversa con su perro Orfeo y con su amigo Víctor Goti y se deja atraer por la planchadora Rosario.</p><p>Aquí puedes leer Niebla completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 22,
+    "art": {
+      "file": "niebla-miguel-de-unamuno.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "url": "/leer/niebla-miguel-de-unamuno/ilustracion.jpg",
+      "credit": "Caspar David Friedrich, «El caminante sobre el mar de nubes» (h. 1817), Kunsthalle de Hamburgo. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Nivola",
+    "unidad": "capítulos",
+    "tema": "la existencia, el amor y la libertad del personaje",
+    "resumen": [
+      "Augusto Pérez es un joven rico y desocupado que vive sin rumbo, como entre niebla, hasta que se enamora a primera vista de Eugenia Domingo del Arco, una profesora de piano. Ella tiene novio, Mauricio, y desprecia los regalos de Augusto, que incluso paga la hipoteca de su casa. Mientras tanto, Augusto conversa con su perro Orfeo y con su amigo Víctor Goti y se deja atraer por la planchadora Rosario.",
+      "Eugenia acepta por fin casarse con él, pero huye con Mauricio poco antes de la boda. Desesperado, Augusto decide suicidarse y viaja a Salamanca para consultarlo con Miguel de Unamuno, el autor de la novela. Este le revela que no es más que un personaje de ficción y que ha decidido que muera. Augusto se rebela contra su creador. Unamuno llamó a este libro nivola para separarlo de la novela realista."
+    ],
+    "personajes": [
+      [
+        "Augusto Pérez",
+        "Joven acomodado, soñador e indeciso, que busca dar sentido a su existencia."
+      ],
+      [
+        "Eugenia Domingo del Arco",
+        "Profesora de piano, independiente y calculadora."
+      ],
+      [
+        "Mauricio",
+        "Novio de Eugenia, holgazán y aprovechado."
+      ],
+      [
+        "Víctor Goti",
+        "Amigo de Augusto, que escribe a su vez una nivola."
+      ],
+      [
+        "Rosario",
+        "Joven planchadora por la que Augusto siente afecto."
+      ],
+      [
+        "Orfeo",
+        "Perro de Augusto, confidente de sus monólogos."
+      ],
+      [
+        "Miguel de Unamuno",
+        "El propio autor, que aparece como personaje."
+      ]
+    ],
+    "ideas": [
+      "La duda existencial: ¿qué distingue a una persona de un personaje?",
+      "La relación entre el creador y su criatura, imagen de la de Dios y el hombre.",
+      "El amor como despertar a la vida consciente.",
+      "La nivola: una novela libre de las reglas del realismo."
+    ],
+    "faq": [
+      [
+        "¿Qué es una nivola?",
+        "El nombre que inventó Unamuno para Niebla y otras obras suyas: una novela sin descripciones realistas, hecha sobre todo de diálogo y reflexión, que rompe las normas del género."
+      ],
+      [
+        "¿Cómo termina Niebla?",
+        "Augusto visita a Unamuno para hablar de su suicidio; el autor le dice que es un ente de ficción y que morirá. Augusto vuelve a casa y muere tras darse un atracón. Su perro Orfeo pronuncia una oración fúnebre."
+      ],
+      [
+        "¿Por qué aparece Unamuno en Niebla?",
+        "Para plantear la relación entre autor y personaje, y con ella la pregunta de si los seres humanos somos libres o sueño de alguien."
+      ],
+      [
+        "¿Cuándo se publicó Niebla?",
+        "En 1914."
+      ]
+    ]
+  }
+}

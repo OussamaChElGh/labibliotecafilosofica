@@ -318,6 +318,291 @@
       "source": "/sobre-verdad-y-mentira-en-sentido-extramoral-friedrich-nietzsche/",
       "destination": "/sobre-verdad-y-mentira-en-sentido-extramoral-friedrich-nietzsche-pdf/",
       "permanent": true
+    },
+    {
+      "source": "/categorias/:path*",
+      "destination": "/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/leer/amalia-jose-marmol/",
+      "destination": "/amalia-jose-marmol/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/ariel-jose-enrique-rodo/",
+      "destination": "/ariel-jose-enrique-rodo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/canas-y-barro-vicente-blasco-ibanez/",
+      "destination": "/canas-y-barro-vicente-blasco-ibanez/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/carmides-platon/",
+      "destination": "/carmides-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/clitofon-platon/",
+      "destination": "/clitofon-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/criton-platon/",
+      "destination": "/criticon-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
+      "destination": "/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cuentos-de-la-selva-horacio-quiroga/",
+      "destination": "/cuentos-de-la-selva-horacio-quiroga/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumanda-juan-leon-mera/",
+      "destination": "/cumanda-juan-leon-mera/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/don-segundo-sombra-ricardo-guiraldes/",
+      "destination": "/don-segundo-sombra-ricardo-guiraldes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/dona-perfecta-benito-perez-galdos/",
+      "destination": "/dona-perfecta-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-buscon-francisco-de-quevedo/",
+      "destination": "/el-buscon-francisco-de-quevedo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-extrano-caso-del-dr-jekyll-stevenson/",
+      "destination": "/el-extrano-caso-del-dr-jekyll-stevenson/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sabueso-de-los-baskerville-conan-doyle/",
+      "destination": "/el-sabueso-de-los-baskerville-conan-doyle/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
+      "destination": "/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/eutidemo-platon/",
+      "destination": "/eutidemo-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/eutifron-platon/",
+      "destination": "/eutifron-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fedon-platon/",
+      "destination": "/fedon-platon-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fedro-platon/",
+      "destination": "/fedro-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/filebo-platon/",
+      "destination": "/filebo-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fundamentacion-metafisica-costumbres-kant/",
+      "destination": "/fundamentacion-de-la-metafisica-de-las-costumbres-immanuel-kant/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/gorgias-platon/",
+      "destination": "/gorgias-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/hamlet-shakespeare/",
+      "destination": "/hamlet-shakespeare/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/ion-platon/",
+      "destination": "/ion-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-barraca-vicente-blasco-ibanez/",
+      "destination": "/la-barraca-vicente-blasco-ibanez/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-celestina-fernando-de-rojas/",
+      "destination": "/la-celestina-fernando-de-rojas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-gaviota-fernan-caballero/",
+      "destination": "/la-gaviota-fernan-caballero/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-iliada-homero/",
+      "destination": "/la-iliada-homero/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-isla-del-tesoro-stevenson/",
+      "destination": "/la-isla-del-tesoro-stevenson/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-odisea-homero/",
+      "destination": "/la-odisea-homero/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-regenta-leopoldo-alas-clarin/",
+      "destination": "/la-regenta-leopoldo-alas-clarin/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-voragine-jose-eustasio-rivera/",
+      "destination": "/la-voragine-jose-eustasio-rivera/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/laques-platon/",
+      "destination": "/laques-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lisis-platon/",
+      "destination": "/lisis-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-pazos-de-ulloa-emilia-pardo-bazan/",
+      "destination": "/los-pazos-de-ulloa-emilia-pardo-bazan/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-viajes-de-gulliver-jonathan-swift/",
+      "destination": "/los-viajes-de-gulliver-pdf-jonathan-swift/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/luces-de-bohemia-valle-inclan/",
+      "destination": "/luces-de-bohemia-valle-inclan/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/macbeth-shakespeare/",
+      "destination": "/macbeth-libros-pdf-gratis/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/maria-jorge-isaacs/",
+      "destination": "/maria-jorge-isaacs/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/marianela-benito-perez-galdos/",
+      "destination": "/marianela-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/misericordia-benito-perez-galdos/",
+      "destination": "/misericordia-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/niebla-miguel-de-unamuno/",
+      "destination": "/niebla-miguel-de-unamuno/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/otelo-shakespeare/",
+      "destination": "/otelo-shakespeare/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/pepita-jimenez-juan-valera/",
+      "destination": "/pepita-jimenez-juan-valera/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/primer-alcibiades-platon/",
+      "destination": "/primer-alcibiades-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/romeo-y-julieta-shakespeare/",
+      "destination": "/romeo-y-julieta-libros-pdf-gratis-shakespeare/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/segundo-alcibiades-platon/",
+      "destination": "/segundo-alcibiades-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/sofista-platon/",
+      "destination": "/sofista-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/trafalgar-benito-perez-galdos/",
+      "destination": "/trafalgar-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-asi-va-el-mundo/",
+      "destination": "/voltaire-asi-va-el-mundo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-candido/",
+      "destination": "/voltaire-candido/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-zadig/",
+      "destination": "/voltaire-zadig/",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/leer/(.*)\\.pdf",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex"
+        },
+        {
+          "key": "Content-Disposition",
+          "value": "attachment"
+        }
+      ]
     }
   ]
 }

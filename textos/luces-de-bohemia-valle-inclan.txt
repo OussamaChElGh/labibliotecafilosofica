@@ -1,0 +1,1303 @@
+H|Escena primera
+S|Hora crepuscular. Un guardillón con ventano angosto, lleno de sol. Retratos, grabados, autógrafos repartidos por las paredes, sujetos con chinches de dibujante. Conversación lánguida de un hombre ciego y una mujer pelirrubia, triste y fatigada. El hombre ciego es un hiperbólico andaluz, poeta de odas y madrigales, Máximo Estrella. A la pelirrubia, por ser francesa, le dicen en la vecindad Madama Collet
+P|Vuelve a leerme la carta del Buey Apis.
+P|Ten paciencia, Max.
+P|Pudo esperar a que me enterrasen.
+P|Le toca ir delante.
+P|¡Collet, mal vamos a vernos sin esas cuatro crónicas! ¿Dónde gano yo veinte duros, Collet?
+P|Otra puerta se abrirá.
+P|La de la muerte. Podemos suicidarnos colectivamente.
+P|A mí la muerte no me asusta. ¡Pero tenemos una hija, Max!
+P|¿Y si Claudinita estuviese conforme con mi proyecto de suicidio colectivo?
+P|¡Es muy joven!
+P|También se matan los jóvenes, Collet.
+P|No por cansancio de la vida. Los jóvenes se matan por romanticismo.
+P|Entonces, se matan por amar demasiado la vida. Es una lástima la obcecación de Claudinita. Con cuatro perras de carbón, podíamos hacer el viaje eterno.
+P|No desesperes. Otra puerta se abrirá.
+P|¿En qué redacción me admiten ciego?
+P|Escribes una novela.
+P|Y no hallo editor.
+P|¡Oh! No te pongas a gatas, Max. Todos reconocen tu talento.
+P|¡Estoy olvidado! Léeme la carta del Buey Apis.
+P|No tomes ese caso por ejemplo.
+P|Lee.
+P|Es un infierno de letra.
+P|Lee despacio.
+S|Madama Collet, el gesto abatido y resignado, deletrea en voz baja la carta. Se oye fuera una escoba retozona. Suena la campanilla de la escalera.
+P|Claudinita, deja quieta la escoba, y mira quién llamado.
+P|Siempre será Don Latino.
+P|¡Válgame Dios!
+P|¿Le doy con la puerta en las narices?
+P|A tu padre le distrae.
+P|Ya se siente el olor del aguardiente!
+S|Máximo Estrella se incorpora con un gesto animoso, esparcida sobre el pecho la hermosa barba con mechones de canas. Su cabeza rizada y ciega, de un gran carácter clásico-arcaico, recuerda los Hermes.
+P|¡Espera, Collet! ¡He recobrado la vista! ¡Veo! ¡Oh, cómo veo! ¡Magníficamente! ¡Está hermosa la Moncloa! ¡El único rincón francés en este páramo madrileño! ¡Hay que volver a París, Collet! ¡Hay que volver allá, Collet! ¡Hay que renovar aquellos tiempos!
+P|Estás alucinado, Max.
+P|¡Veo, y veo magníficamente!
+P|¿Pero qué ves?
+P|¡El mundo!
+P|¿A mí me ves?
+P|¡Las cosas que toco, para qué necesito verlas!
+P|Siéntate. Voy a cerrar la ventana. Procura adormecerte.
+P|¡No puedo!
+P|¡Pobre cabeza!
+P|¡Estoy muerto! Otra vez de noche.
+S|Se reclina en el respaldo del sillón. La mujer cierra la ventana, y la guardilla queda en una penumbra rayada de sol poniente. El ciego se adormece, y la mujer, sombra triste, se sienta en una silleta, haciendo pliegues a la carta del Buey Apis. Una mano cautelosa empuja la puerta, que se abre con largo chirrido. Entra un vejete asmático, quepis, anteojos, un perrillo y una cartera con revistas ilustradas. Es Don Latino De Hispalis. Detrás, despeinada, en chancletas, la falda pingona, aparece una mozuela: Claudinita.
+P|¿Cómo están los ánimos del genio?
+P|Esperando los cuartos de unos libros que se ha llevado un vivales para vender.
+P|¿Niña, no conoces otro vocabulario más escogido para referirte al compañero fraternal de tu padre, de ese hombre grande que me llama hermano? ¡Qué lenguaje, Claudinita!
+P|¿Trae usted el dinero, Don Latino?
+P|Madama Collet, la desconozco, porque siempre ha sido usted una inteligencia razonadora. Max había dispuesto noblemente de ese dinero.
+P|¿Es verdad, Max? ¿Es posible?
+P|¡No le saque usted de los brazos de Morfeo!
+P|Papá, ¿tú qué dices?
+P|¡Idos todos al diablo!
+P|¡Oh, querido, con tus generosidades nos has dejado sin cena!
+P|Latino, eres un cínico.
+P|Don Latino, si usted no apoquina, le araño.
+P|Córtate las uñas, Claudinita.
+P|Le arranco los ojos.
+P|¡Claudinita!
+P|¡Golfo!
+P|Max, interpon tu autoridad.
+P|¿Qué sacaste por los libros, Latino?
+P|¡Tres pesetas, Max! ¡Tres cochinas pesetas! ¡Una indignidad! ¡Un robo!
+P|¡No haberlos dejado!
+P|Claudinita, en ese respecto te concedo toda la razón. Me han cogido de pipi. Pero aún se puede deshacer el trato.
+P|¡Oh, sería bien!
+P|Max, si te presentas ahora conmigo en la tienda de ese granuja y le armas un escándalo, le sacas hasta dos duros. Tú tienes otro empaque.
+P|Habría que devolver el dinero recibido.
+P|Basta con hacer el ademán. Se juega de boquilla, maestro.
+P|¿Tú crees?...
+P|¡Naturalmente!
+P|Max, no debes salir.
+P|El aire me refrescará. Aquí hace un calor de horno.
+P|Pues en la calle corre fresco.
+P|¡Vas a tomarte un disgusto sin conseguir nada, Max!
+P|¡Papá, no salgas!
+P|Max, yo buscaré alguna cosa que empeñar.
+P|No quiero tolerar ese robo. ¿A quién le has llevado los libros, Latino?
+P|A Zaratustra.
+P|¡Claudina, mi palo y mi sombrero!
+P|¿Se los doy, mamá?
+P|¡Dáselos!
+P|Madama Collet, verá usted qué faena.
+P|¡Golfo!
+P|¡Todo en tu boca es canción, Claudinita!
+S|Máximo Estrella sale apoyado en el hombro de Don Latino. Madama Collet suspira apocada, y la hija, toda nervios, comienza a quitarse las horquillas del pelo.
+P|¿Sabes cómo acaba todo esto? ¡En la taberna de Pica Lagartos!
+H|Escena segunda
+S|La cueva de Zaratustra en el Pretil de los Consejos. Rimeros de libros hacen escombro y cubren las paredes. Empapelan los cuatro vidrios de una puerta cuatro cromos espeluznantes de un novelón por entregas. En la cueva hacen tertulia el gato, el loro, el can y el librero. Zaratustra, abichado y giboso -la cara de tocino rancio y la bufanda de verde serpiente-, promueve, con su caracterización de fantoche, una aguda y dolorosa disonancia muy emotiva y muy moderna. Encogido en el roto pelote de una silla enana, con los pies entrapados y cepones en la tarima del brasero, guarda la tienda. Un ratón saca el hocico intrigante por un agujero.
+P|¡No pienses que no te veo, ladrón!
+P|¡Fu! ¡Fu! ¡Fu! El CAN: ¡Guau!
+P|¡Viva España!
+S|Están en la puerta Max Estrella y Don Latino De Hispalis. El poeta saca el brazo por entre los pliegues de su capa, y lo alza majestuoso, en un ritmo con su clásica cabeza ciega.
+P|¡Mal Polonia recibe a un extranjero!
+P|¿Qué se ofrece?
+P|Saludarte, y decirte que tus tratos no me convienen.
+P|Yo nada he tratado con usted.
+P|Cierto. Pero has tratado con mi intendente, Don Latino de Hispalis.
+P|¿Y ese sujeto de qué se queja? ¿Era mala la moneda?
+S|Don Latino interviene con ese matiz del perro cobarde, que da su ladrido entre las piernas del dueño.
+P|El maestro no está conforme con la tasa, y deshace el trato.
+P|El trato no puede deshacerse. Un momento antes que hubieran llegado... Pero ahora es imposible: Todo el atadijo, conforme estaba, acabo de venderlo ganando dos perras. Salir el comprador, y entrar ustedes.
+S|El librero, al tiempo que habla, recoge el atadijo que aún está encima del mostrador, y penetra en la lóbrega trastienda, cambiando una seña con Don Latino. Reaparece.
+P|Hemos perdido el viaje. Este zorro sabe más que nosotros, maestro.
+P|Zaratustra, eres un bandido.
+P|Ésas, Don Max, no son apreciaciones convenientes.
+P|Voy a romperte la cabeza.
+P|Don Max, respete usted sus laureles.
+P|¡Majadero!
+S|Ha entrado en la cueva un hombre alto, flaco, tostado del sol. Viste un traje de antiguo voluntario cubano, calza alpargates abiertos de caminante, y se cubre con una gorra inglesa. Es el extraño Don Peregrino Gay, que ha escrito la crónica de su vida andariega en un rancio y animado castellano, trastocándose el nombre en Don Gay Peregrino: Sin pasar de la puerta, saluda jovial y circunspecto.
+P|¡Salutem plúriman!
+P|¿Cómo le ha ido por esos mundos, Don Gay?
+P|Tan guapamente.
+P|¿Por dónde has andado?
+P|De Londres vengo.
+P|¿Y viene usted de tan lejos a que lo desuelle Zaratustra?
+P|Zaratustra es un buen amigo.
+P|¿Ha podido usted hacer el trabajo que deseaba?
+P|Cumplidamente. Ilustres amigos, en dos meses me he copiado en la Biblioteca Real el único ejemplar existente del Palmerín de Constantinopla.
+P|¿Pero, ciertamente, viene usted de Londres?
+P|Allí estuve dos meses.
+P|¿Cómo queda la familia Real?
+P|No los he visto en el muelle. Maestro, ¿usted conoce la Babilonia Londinense?
+P|Sí, Don Gay.
+S|Zaratustra entra y sale en la trastienda, con una vela encendida. La palmatoria pringosa tiembla en la mano del fantoche. Camina sin ruido, con andar entrapado. La mano, calzada con mitón negro, pasea la luz por los estantes de libros. Media cara en reflejo y media en sombra. Parece que la nariz se le dobla sobre una oreja. El loro ha puesto el pico bajo el ala. Un retén de polizontes pasa con un hombre maniatado. Sale alborotando el barrio un chico pelón montado en una caña, con una bandera.
+P|¡Vi-va-Es-pa-ña!
+P|¡Guau! ¡Guau!
+P|¡Está buena España!
+S|Ante el mostrador, los tres visitantes, reunidos como tres pájaros en una rama, ilusionados y tristes, divierten sus penas en un coloquio de motivos literarios. Divagan ajenos al tropel de polizontes, al viva del pelón, al gañido del perro, y al comentario apesadumbrado del fantoche que los explota. Eran intelectuales sin dos pesetas.
+P|Es preciso reconocerlo. No hay país comparable a Inglaterra. Allí el sentimiento religioso tiene tal decoro, tal dignidad, que indudablemente las más honorables familias son las más religiosas. Si España alcanzase un más alto concepto religioso, se salvaba.
+P|¡Recémosle un Réquiem! Aquí los puritanos de conducta son los demagogos de la extrema izquierda. Acaso nuevos cristianos, pero todavía sin saberlo.
+P|Señores míos, en Inglaterra me he convertido al dogma iconoclasta, al cristianismo de oraciones y cánticos, limpio de imágenes milagreras. ¡Y ver la idolatría de este pueblo!
+P|España, en su concepción religiosa, es una tribu del Centro de África.
+P|Maestro, tenemos que rehacer el concepto religioso, en el arquetipo del Hombre-Dios. Hacer la Revolución Cristiana, con todas las exageraciones del Evangelio.
+P|Son más que las del compañero Lenin.
+P|Sin religión no puede haber buena fe en el comercio.
+P|Maestro, hay que fundar la Iglesia Española Independiente.
+P|Y la Sede Vaticana, El Escorial.
+P|¡Magnífica Sede!
+P|Berroqueña.
+P|Ustedes acabarán profesando en la Gran Secta Teosófica. Haciéndose iniciados de la sublime doctrina.
+P|Hay que resucitar a Cristo.
+P|He caminado por todos los caminos del mundo, y he aprendido que los pueblos más grandes no se constituyeron sin una Iglesia Nacional. La creación política es ineficaz si falta una conciencia religiosa con su ética superior a las leyes que escriben los hombres.
+P|Ilustre Don Gay, de acuerdo. La miseria del pueblo español, la gran miseria moral, está en su chabacana sensibilidad ante los enigmas de la vida y de la muerte. La Vida es un magro puchero; la Muerte, una carantoña ensabanada que enseña los dientes; el Infierno, un calderón de aceite albando donde los pecadores se achicharran como boquerones; el Cielo, una kermés sin obscenidades, a donde, con permiso del párroco, pueden asistir las Hijas de María. Este pueblo miserable transforma todos los grandes conceptos en un cuento de beatas costureras. Su religión es una chochez de viejas que disecan al gato cuando se les muere.
+P|Don Gay, y qué nos cuenta usted de esos marimachos que llaman sufragistas.
+P|Que no todas son marimachos. Ilustres amigos, ¿saben ustedes cuánto me costaba la vida en Londres? Tres peniques, una equivalencia de cuatro perras. Y estaba muy bien, mejor que aquí en una casa de tres pesetas.
+P|Max, vámonos a morir a Inglaterra. Apúnteme usted las señas de ese Gran Hotel, Don Gay.
+P|Saint James Squart. ¿No caen ustedes? El Asilo de Reina Elisabeth. Muy decente. Ya digo, mejor que aquí una casa de tres pesetas. Por la mañana té con leche, pan untado de mantequilla. El azúcar, algo escaso. Después, en la comida, un potaje de carne. Alguna vez arenques. Queso, té... Yo solía pedir un poco de cerveza, y me costaba diez céntimos. Todo muy limpio. Jabón y agua caliente para lavatorios, sin tasa.
+P|Es verdad que se lavan mucho los ingleses. Lo tengo advertido. Por aquí entran algunos, y se les ve muy refregados. Gente de otros países, que no siente el frio, como nosotros los naturales de España.
+P|Lo dicho. Me traslado a Inglaterra. Don Gay, ¿cómo no te has quedado tú en ese Paraíso?
+P|Porque soy reumático, y me hace falta el sol de España.
+P|Nuestro sol es la envidia de los extranjeros.
+P|¿Qué sería de este corral nublado? ¿Qué seríamos los españoles? Acaso más tristes y menos coléricos... Quizá un poco más tontos... Aunque no lo creo.
+S|Asoma la chica de una portera: Trenza en perico, caídas calcetas, cara de hambre.
+P|¿Ha salido esta semana entrega d'El Hijo de la Difunta?
+P|Se está repartiendo.
+P|¿Sabe usted si al fin se casa Alfredo?
+P|¿Tú qué deseas, pimpollo?
+P|A mí, plin. Es Doña Loreta la del coronel quien lo pregunta.
+P|Niña, dile a esa señora que es un secreto lo que hacen los personajes de las novelas. Sobre todo en punto de muertes y casamientos.
+P|Zaratustra, ándate con cuidado, que te lo van a preguntar de Real Orden.
+P|Estaría bueno que se divulgase el misterio. Pues no habría novela.
+S|Escapa la chica salvando los charcos con sus patas de caña. El Peregrino Ilusionado en un rincón conferencia con Zaratustra. Máximo Estrella y Don Latino se orientan a la taberna de Pica Lagartos, que tiene su clásico laurel en la calle de la Montera.
+H|Escena tercera
+S|La Taberna de Pica Lagartos: Luz de acetileno: Mostrador de cinc: Zaguán oscuro con mesas y banquillos: Jugadores de mus: Borrosos diálogos. - Máximo Estrella y Don Latino De Hispalis, sombras en las sombras de un rincon obscuro como el dark mas ingles, se regalan con sendos quinces de morapio.
+S|El Chico De La Taberna: Don Max, ha venido buscándole la Marquesa del Tango.
+P|¡Miau!
+P|No conozco a esa dama.
+P|Enriqueta la Pisa Bien.
+P|¿Y desde cuándo titula esa golfa?
+P|Desde que heredó del finado difunto de su papá, que entodavía vive.
+P|¡Mala sombra!
+P|¿Ha dicho si volvería?
+P|Entró, miró, preguntó y se fue rebotada, torciendo la gaita. ¡Ya la tiene usted en la puerta!
+S|Enriqueta La Pisa Bien, una mozuela golfa, revenida de un ojo, periodista y florista, levantaba el cortinillo de verde sarga, sobre su endrina cabeza, adornada de peines gitanos.
+P|¡La vara de nardos! ¡La vara de nardos! Don Max, traigo para usted un memorial de mi mamá: Está enferma y necesita la luz del décimo que le ha fiado.
+P|Le devuelves el décimo y le dices que se vaya al infierno.
+P|De su parte, caballero. ¿Manda usted algo más?
+S|El ciego saca una vieja cartera, y tanteando los papeles con aire vago, extrae el décimo de la lotería y lo arroja sobre la mesa: Queda abierto entre los vasos de vino, mostrando el número bajo el parpadeo azul del acetileno. La Pisa Bien se apresura a echarle la zarpa.
+P|¡Ese número sale premiado!
+P|Don Max desprecia el dinero.
+P|No le deje usted irse, Don Max.
+P|Niño, yo hago lo que me da la gana. Pídele para mí la petaca al amo.
+P|Don Max, es un capicúa de sietes y cincos.
+P|¡Que tiene premio, no falla! Pero es menester apoquinar tres melopeas, y este caballero está afónico. Caballero, me retiro saludándole. Si quiere usted un nardo, se lo regalo.
+P|Estate ahí.
+P|Me espera un cabrito viudo.
+P|Que se aguante. Niño, ve a colgarme la capa.
+P|Por esa pañosa no dan ni los buenos días. Pídale usted las tres beatas a Pica Lagartos.
+P|Si usted le da coba, las tiene en la mano. Dice que es usted segundo Castelar.
+P|Dobla la capa, y ahueca.
+P|¿Qué pido?
+P|Toma lo que quieran darte.
+P|¡Si no la reciben!
+P|Calla, mala sombra.
+P|Niño, huye veloz.
+P|Como la corza herida, Don Max.
+P|Eres un clásico.
+P|Si no te admiten la prenda, dices que es de un poeta.
+P|El primer poeta de España.
+P|¡Cráneo previlegiado!
+P|Yo nunca tuve talento. ¡He vivido siempre de un modo absurdo!
+P|No has tenido el talento de saber vivir.
+P|Mañana me muero, y mi mujer y mi hija se quedan haciendo cruces en la boca.
+S|Tosió cavernoso, con las barbas estremecidas, y en los ojos ciegos un vidriado triste, de alcohol y de fiebre.
+P|No has debido quedarte sin capa.
+P|Y ese trasto ya no parece. Siquiera, convide usted, Don Max.
+P|Tome usted lo que guste, Marquesa.
+P|Una copa de Rute.
+P|Es la bebida elegante.
+P|¡Ay! Don Latino, por algo es una la morganática del Rey de Portugal. Don Max, no puedo detenerme, que mi esposo me hace señas desde la acera.
+P|Invítale a pasar.
+S|Un golfo largo y astroso, que vende periódicos, rie asomado a la puerta, y como perro que se espulga, se sacude con jaleo de hombros, la cara en una gran risa de viruelas. Es el Rey De Portugal, que hace las bellaquerías con Enriqueta La Pisa Bien, Marquesa del Tango.
+P|¡Pasa, Manolo!
+P|Sal tú fuera.
+P|¿Es que temes perder la corona? ¡Entra de incógnito, rebobinad so pelma!
+P|Enriqueta, a ver si te despeino.
+P|¡Filfa!
+P|¡Consideren ustedes que me llama Rey de Portugal para significar que no valgo un chavo! Argumentos de esta golfa desde que fue a Lisboa, y se ha enterado del valor de la moneda. Yo, para servir a ustedes, soy Gorito, y no está medio bien que mi morganática me señale por el alias.
+P|¡Calla, chalado!
+P|¿Te caminas?
+P|Aguarda que me beba una copa de Rute. Don Max me la paga.
+P|¿Y qué tienes que ver con ese poeta?
+P|Colaboramos.
+P|Pues despacha.
+P|En cuanto me la mida Pica Lagartos.
+P|¿Qué has dicho tú, so golfa?
+P|¡Perdona, rico!
+P|Venancio me llamo.
+P|¡Tienes un nombre de novela! Anda, mídeme una copa de Rute, y dale a mi esposo un vaso de agua, que está muy acalorado.
+P|Venancio, no vuelvas a compararme con Castelar. ¡Castelar era un idiota! Dame otro quince.
+P|Me adhiero a lo del quince y a lo de Castelar.
+P|Son ustedes unos doctrinarios. Castelar representa una gloria nacional de España. Ustedes acaso no sepan que mi padre lo sacaba diputado.
+P|¡Hay que ver!
+P|Mi padre era el barbero de Don Manuel Camo. ¡Una gloria nacional de Huesca!
+P|¡Cráneo previlegiado!
+P|Cállate la boca, Zacarías.
+P|¡Acaso falto?
+P|¡Pudieras!
+P|Tiene mucha educación servidorcito.
+P|¡Como que ha salido usted del Colegio de los Escolapios! ¡Se educó usted con mi papá!
+P|¿Quién es tu papá?
+P|Un diputado.
+P|Yo he recibido educación en el estranjero.
+P|¿Viaja usted de incógnito? ¿Por un casual, será usted Don Jaime?
+P|¡Me has sacado por la fotografía!
+P|¡Naturaca! ¿Y va usted sin una flor en la solapa?
+P|Ven tú a ponérmela.
+P|Se la pongo a usted y le obsequio con ella.
+P|¡Hay que ser caballero, Zacarías! ¡Y hay que mirarse mucho, soleche, antes de meter mano! La Enriqueta es cosa mía.
+P|¡Calla, bocón!
+P|¡Soleche, no seas tú provocativa!
+P|No introduzcas tú la pata, pelmazo.
+S|El Chico De La Taberna entra con azorado sofoco, atado a la frente un pañuelo con roeles de sangre. Una ráfaga de emoción mueve caras y actitudes; todas la figuras, en su diversidad, pautan una misma norma.
+P|¡Hay carreras por las calles!
+P|¡Viva la huelga de proletarios!
+P|¡Chócala! Anoche lo hemos decidido por votación en la Casa del Pueblo.
+P|¡Crispín! te alcanzó un cate! ¡Un marica de la Acción Ciudadana!
+P|Niño, sé bien hablado! El propio republicanismo reconoce que la propiedad es sagrada. La Acción Ciudadana está integrada por patronos de todas circunstancias, y por los miembros varones de sus familias. ¡Hay que saber lo que se dice!
+S|Grupos vocingleros corren por el centro de la calle, con banderas enarboladas. Entran en la taberna obreros golfantes -blusa, bufanda y alpargata-, y mujeronas encendidas, de arañada greña.
+P|¡Enriqueta, me hierve la sangre! Si tú no sientes la política, puedes quedarte.
+P|So pelma, yo te sigo a todas partes. ¡Enfermera Honoraria de la Cruz Colorada!
+P|¡Chico, baja el cierre! Se invita a salir, al que quiera jaleo.
+S|La florista y el coime salen empujándose, revueltos con otros parroquianos. Corren por la calle tropeles de obreros. Resuena el golpe de muchos cierres metálicos.
+P|¡Vivan los héroes del Dos de Mayo!
+P|Niño, ¿qué dinero te han dado?
+P|¡Nueve pesetas!
+P|Cóbrate, Venancio. ¡Y tú, trae el décimo, Marquesa!
+P|¡Voló esa pájara!
+P|¡Se lleva el sueño de mi fortuna! ¿Dónde daríamos con esa golfa?
+P|Ésa ya no se aparta del tumulto.
+P|Recala en la Modernista.
+P|Latino, préstame tus ojos para buscar a la Marquesa del Tango.
+P|Max, dame la mano.
+P|¡Cráneo previlegiado!
+P|¡Mueran los maricas de la Acción Ciudadana! ¡Abajo los ladrones!
+H|Escena cuarta
+S|Noche. Máximo Estrella y Don Latino De Hispalis tambalean asidos del brazo por una calle enarenada y solitaria. Faroles rotos, cerradas todas, ventanas y puertas. En la llama de los faroles un igual temblor verde y macilento. La luna sobre el alero de las casas, partiendo la calle por medio. De tarde en tarde, el asfalto sonoro. Un trote épico. Soldados Romanos. Sombras de Guardias: Se extingue el eco de la patrulla. La Buñolería Modernista entreabre su puerta, y una banda de luz parte la acera. Max y Don Latino, borrachos lunáticos, filósofos peripatéticos, bajo la línea luminosa de los faroles, caminan y tambalean.
+P|¿Dónde estamos?
+P|Esta calle no tiene letrero.
+P|Yo voy pisando vidrios rotos.
+P|No ha hecho mala cachiza el honrado pueblo.
+P|¿Qué rumbo consagramos?
+P|Déjate guiar.
+P|Condúceme a casa.
+P|Tenemos abierta La Buñolería Modernista.
+P|De rodar y beber estoy muerto.
+P|Un café de recuelo te integra.
+P|Hace frío, Latino.
+P|¡Corre un cierto gris!...
+P|Préstame tu macferlán.
+P|¡Te ha dado el delirio poético!
+P|¡Me quedé sin capa, sin dinero y sin lotería!
+P|Aquí hacemos la captura de la niña Pisa Bien.
+S|La niña Pisa Bien, despintada, pingona, marchita, se materializa bajo un farol con su pregón de golfa madrileña.
+P|¡5775! ¡El número de la suerte! ¡Mañana sale! ¡Lo vendo! ¡Lo vendo! ¡5775!
+P|¡Acudes al reclamo!
+P|Y le convido a usted a un café de recuelo.
+P|Gracias, preciosidad.
+P|Y a Don Max, a lo que guste. ¡Ya nos ajuntamos los tres tristes trogloditas! Don Max, yo por usted hago la jarra, y muy honrada.
+P|Dame el décimo y vete al infierno.
+P|Don Max, por adelantado decláreme usted en secreto si cameló las tres beatas y si las lleva en el portamonedas.
+P|¡Pareces hermana de Romanones!
+P|¡Quién tuviera los miles de ese pirante!
+P|¡Con sólo la renta de un día, yo me contentaba!
+P|La Revolución es aquí tan fatal como en Rusia.
+P|¡Nos moriremos sin verla!
+P|Pues viviremos muy poco.
+P|¿Ustedes bajaron hasta la Cibeles? Allí ha sido la faena entre los manifestantes, y los Polis Honorarios. A alguno le hemos dado mulé.
+P|Todos los amarillos debían ser arrastrados.
+P|¡Conforme! Y aquel momento que usted no tenga ocupaciones urgentes, nos ponemos a ello, Don Latino.
+P|Dame ese capicúa, Enriqueta.
+P|Venga el parné, y tenga usted su suerte.
+P|La propina, cuando cobre el premio.
+P|¡No mira eso la Enriqueta!
+S|La Buñolería entreabre su puerta, y del antro apestoso de aceite van saliendo deshilados, uno a uno, en fila india, los Epígonos del Parnaso Modernista: Rafael De Los Vélez, Dorio De Gadex, Lucio Vero, Mínguez, Gálvez, Clarinito y Pérez: Unos son largos, tristes y flacos, otros vivaces, chaparros y carillenos. Dorio De Gadex, jovial como un trasgo, irónico como un ateniense, ceceoso como un cañí, mima su saludo versallesco y grotesco.
+P|¡Padre y Maestro Mágico, salud!
+P|¡Salud, Don Dorio!
+P|¡Maestro, usted no ha temido el rebuzno libertario del honrado pueblo!
+P|¡El épico rugido del mar! ¡Yo me siento pueblo!
+P|¡Yo, no!
+P|¡Porque eres un botarate!
+P|¡Maestro, pongámonos el traje de luces de la cortesía! ¡Maestro, usted tampoco se siente pueblo! Usted es un poeta, y los poetas somos aristocracia. Como dice Ibsen, las multitudes y las montañas se unen siempre por la base.
+P|¡No me aburras con Ibsen!
+P|¿Se ha hecho usted crítico de teatros, Don Max?
+P|¡Calla, Pérez!
+P|Aquí sólo hablan los genios.
+P|Yo me siento pueblo. Yo había nacido para ser tribuno de la plebe, y me acanallé perpetrando traducciones y haciendo versos. ¡Eso sí, mejores que los hacéis los modernistas!
+P|Maestro, preséntese usted a un sillón de la Academia.
+P|No lo digas en burla, idiota. ¡Me sobran méritos! Pero esa prensa miserable me boicotea. Odian mi rebeldía y odian mi talento. Para medrar hay que ser agradador de todos los Segismundos. ¡El Buey Apis me despide como a un criado! ¡La Academia me ignora! ¡Y soy el primer poeta de España! ¡El primero! ¡El primero! ¡Y ayuno! ¡Y no me humillo pidiendo limosna! ¡Y no me parte un rayo! ¡Yo soy el verdadero inmortal y no esos cabrones del cotarro académico! ¡Muera Maura!
+P|¡Muera! ¡Muera! ¡Muera!
+P|Maestro, nosotros los jóvenes impondremos la candidatura de usted para un sillón de la Academia.
+P|Precisamente ahora está vacante el sillón de Don Benito el Garbancero.
+P|Nombrarán al Sargento Basallo.
+P|Maestro, ¿usted conoce los Nuevos Gozos del Enano de la Venta? ¡Un Jefe de Obra! Ayer de madrugada los cantamos en la Puerta del Sol. ¡El éxito de la temporada!
+P|¡Con decir que salió el retén de Gobernación!
+P|¡Ni Rafael el Gallo!
+P|Deben ustedes ofrecerle una audición al Maestro.
+P|Don Latino, ni una palabra más.
+P|Usted cantará con nosotros, Don Latino.
+P|Yo doy una nota más baja que el cerdo.
+P|Usted es un clásico.
+P|¿Y qué hace un clásico en el tropel de ruiseñores modernistas? Niños, ¡a ello!
+S|Dorio De Gadex, feo, burlesco y chepudo, abre los brazos, que son como alones sin plumas, en el claro lunero.
+P|El Enano de la Venta.
+P|¡Cuenta! ¡Cuenta! ¡Cuenta!
+P|Con bravatas de valiente.
+P|¡Miente! ¡Miente! ¡Miente!
+P|Quiere gobernar la Harca.
+P|¡Charca! ¡Charca! ¡Charca!
+P|Y es un Tartufo Malsín.
+P|¡Sin! ¡Sin! ¡Sin!
+P|Sin un adarme de seso.
+P|¡Eso! ¡Eso! ¡Eso!
+P|Pues tiene hueca la bola.
+P|¡Chola! ¡Chola! ¡Chola!
+P|Pues tiene la chola hueca.
+P|¡Eureka! ¡Eureka! ¡Eureka!
+S|Gran interrupción. Un trote épico, y la patrulla de soldados romanos desemboca por una calle traviesa. Traen la luna sobre los cascos y en los charrascos. Suena un toque de atención, y se cierra con golpe pronto la puerta de la Buñoleria. Pitito, capitán de los équites municipales, se levanta sobre los estribos.
+P|¿Mentira parece que sean ustedes intelectuales y que promuevan estos escándalos! ¿Qué dejan ustedes para los analfabetos?
+P|¡Eureka! ¡Eureka! ¡Eureka! ¡Pico de Oro! En griego, para mayor claridad, Crisóstomo. Señor Centurión, ¡usted hablará el griego en sus cuatro dialectos!
+P|¡Por borrachín, a la Delega!
+P|¡Y más chulo que un ocho! Señor Centurión, ¡yo también chanelo el sermo vulgaris!
+P|¡Serenooo!.... ¡Serenooo!...
+P|¡Vaaa!...
+P|¡Encárguese usted de este curda!
+S|Llega El Sereno, meciendo a compás el farol y el chuzo. Jadeos y vahos de aguardiente. El Capitán Pitito revuelve el caballo. Vuelan chispas de las herraduras. Resuena el trote sonoro de la patrulla que se aleja.
+P|¡Me responde usted de ese hombre, Sereno!
+P|¿Habrá que darle amoniaco?
+P|Habrá que darle para el pelo.
+P|¡Está bien!
+P|Max, convídale a una copa. Hay que domesticar a este troglodita asturiano.
+P|Estoy apré.
+P|¿No te queda nada?
+P|¡Ni una perra!
+P|Camine usted.
+P|Soy Ciego.
+P|¿Quiere usted que un servidor le vuelva la vista?
+P|¿Eres Santa Lucía?
+P|¡Soy autoridad!
+P|No es lo mismo.
+P|Pudiera serlo. Camine usted.
+P|Ya he dicho que soy ciego.
+P|Usted es un anárquico y estos sujetos de las melenas: ¡Viento! ¡Viento! ¡Viento! ¡Mucho viento!
+P|¡Una galerna!
+P|¡Atrás!
+P|¡Acompañamos al Maestro! ¡Acompañamos al Maestro!
+P|¡Pepeee! ¡Pepeee!
+P|¡Vaaa! Retírense ustedes sin manifestación.
+S|Golpea con el chuzo en la puerta de la Buñolería. Asoma el buñolero, un hombre gordo con delantal blanco: Se informa, se retira musitando, y a poco salen adormilados, ciñéndose el correaje dos guardias municipales.
+P|¿Qué hay?
+P|Este punto para la Delega.
+P|Nosotros vamos al relevo. Lo entregaremos en Gobernación.
+P|Donde la duerma.
+P|¡Pepeee! ¡Pepeee!
+P|¡Otro curda! ¡Vaaa! Sus lo entreao.
+P|Ustedes, caballeros, retírense.
+P|Acompañamos al Maestro.
+P|¡Ni que se llamase este curda Don Mariano de Cavia! ¡Ése sí que es cabeza! ¡Y cuanto más curda, mejor lo saca!
+P|¡Por veces también se pone pelma!
+P|¡Y faltón!
+P|Usted, por lo que habla, ¿le conoce?
+P|Y le tuteo.
+P|¿Son ustedes periodistas?
+P|¡Lagarto! ¡Lagarto!
+P|Son banqueros.
+P|Si quieren acompañar a su amigo, no se oponen las leyes, y hasta lo permiten; pero deberán guardar moderación ustedes. Yo respeto mucho el talento.
+P|Caminemos.
+P|Latino, dame la mano. ¡Señores guardias, ustedes me perdonarán que sea ciego!
+P|Sobra tanta política.
+P|¿Qué ruta consagramos?
+P|Al Ministerio de la Gobernación.
+P|¡Vivo! ¡Vivo!
+P|¡Muera Maura! ¡Muera el Gran Fariseo!
+P|¡Muera! ¡Mueral. ¡Muera!
+P|Muera el judío y toda su execrable parentela.
+P|¡Basta de voces! ¡Cuidado con el poeta curda! ¡Se la está ganando, me caso en Sevilla!
+P|A éste habrá que darle para el pelo. Lo cual que sería lástima, porque debe ser hombre de mérito.
+H|Escena quinta
+S|Zaguán en el Ministerio de la Gobernación. Estantería con legajos. Bancos al filo de la pared. Mesa con carpetas de badana mugrienta. Aire de cueva y olor frío de tabaco rancio. Guardias soñolientos. Policías de la Secreta. Hongos, garrotes, cuellos de celuloide, grandes sortijas, lunares rizosos y flamencos: Hay un viejo chabacano -bisoñé y manguitos de percalina-, que escribe, y un pollo chulapón de peinado reluciente, con brisas de perfumería, que se pasea y dicta humeando un veguero. Don Serafín, le dicen sus obligados, y la voz de la calle, Serafín El Bonito. Leve tumulto. Dando voces, la cabeza desnuda, humorista y lunático, irrumpe Max Estrella: Don Latino le guía por la manga, implorante y suspirante. Detrás asoman los cascos de los Guardias. Y en el corredor se agrupan, bajo la luz de una candileja, pipas, chalinas y melenas del modernismo.
+P|¡Traígo detenida una pareja de guindillas! Estaban emborrachándose en una tasca y los hice salir a darme escolta.
+P|Corrección, señor mío.
+P|No falto a ella, señor Delegado.
+P|Inspector.
+P|Todo es uno y lo mismo.
+P|¿Cómo se llama usted?
+P|Mi nombre es Máximo Estrella. Mi seudónimo, Mala Estrella. Tengo el honor de no ser Académico.
+P|Está usted propasándose. Guardias, ¿por qué viene detenido?
+P|Por escándalo en la vía pública y gritos internacionales. ¡Está algo briago!
+P|¿Su profesión?
+P|Cesante.
+P|¿En qué oficina ha servido usted?
+P|En ninguna.
+P|¿No ha dicho usted que cesante?
+P|Cesante de hombre libre y pájaro cantor. ¿No me veo vejado, vilipendiado, encarcelado, cacheado e interrogado?
+P|¿Dónde vive usted?
+P|Bastardillos. Esquina a San Cosme. Palacio.
+P|Diga usted casa de vecinos. Mi señora, cuando aún no lo era, habitó un sotabanco de esa susodicha finca.
+P|Donde yo vivo, siempre es un palacio.
+P|No lo sabía.
+P|Porque tú, gusano burocrático, no sabes nada. ¡Ni soñar!
+P|¡Queda usted detenido!
+P|¡Bueno! ¿Latino, hay algún banco donde pueda echarme a dormir?
+P|Aquí no se viene a dormir.
+P|¡Pues yo tengo sueño!
+P|¡Está usted desacatando mi autoridad! ¿Sabe usted quién soy yo?
+P|¡Serafín el Bonito!
+P|¡Como usted repita esa gracia, de una bofetada, le doblo!
+P|¡Ya se guardará usted del intento! ¡Soy el primer poeta de España! ¡Tengo influencia en todos los periódicos! ¡Conozco al Ministro! ¡Hemos sido compañeros!
+P|El Señor Ministro no es un golfo.
+P|Usted desconoce la Historia Moderna.
+P|¡En mi presencia no se ofende a Don Paco! Eso no lo tolero. ¡Sepa usted que Don Paco es mi padre!
+P|No lo creo. Permítame usted que se lo pregunte por teléfono.
+P|Se lo va usted a preguntar desde el calabozo.
+P|Señor Inspector, ¡tenga usted alguna consideración! ¡Se trata de una gloria nacional! ¡El Víctor Hugo de España!
+P|Cállese usted.
+P|Perdone usted mi entrometimiento.
+P|¡Si usted quiere acompañarle, también hay para usted alojamiento!
+P|¡Gracias, Señor Inspector!
+P|Guardias, conduzcan ustedes ese curda al Número 2.
+P|¡Camine usted!
+P|No quiero.
+P|Llévenle ustedes a rastras.
+P|¡So golfo!
+P|¡Que me asesinan! ¡Que me asesinan!
+P|¡Bárbaros!
+P|¡Que es una gloria nacional!
+P|Aquí no se protesta. Retírense ustedes.
+P|¡Viva la Inquisición!
+P|¡Silencio, o todos quedan detenidos!
+P|¡Que me asesinan! ¡Que me asesinan!
+P|¡Borracho! ¡Golfo!
+P|¡Hay que visitar las Redacciones!
+S|Sale en tropel el grupo. Chalinas flotantes, pipas apagadas, románticas greñas. Se oyen estallar las bofetadas y las voces tras la puerta del calabozo.
+P|¡Creerán esos niños modernistas que aquí se reparten caramelos!
+H|Escena sexta
+S|El calabozo. Sótano mal alumbrado por una candileja. En la sombra se mueve el bulto de un hombre. Blusa, tapabocas y alpargatas. Pasea hablando solo. Repentinamente se abre la puerta. Max Estrella, empujado y trompicando, rueda al fondo del calabozo. Se cierra de golpe la puerta.
+P|¡Canallasl. ¡Asalariados! ¡Cobardes!
+P|¡Aún vas a llevar mancuerna!
+P|¡Esbirro!
+S|Sale de la tiniebla el bulto del hombre morador del calabozo. Bajo la luz se le ve esposado, con la cara llena de sangre.
+P|¡Buenas noches!
+P|¿No estoy solo?
+P|Así parece.
+P|¿Quién eres, compañero?
+P|Un paria.
+P|¿Catalán?
+P|De todas partes.
+P|¡Paria!... Solamente los obreros catalanes aguijan su rebeldía con ese denigrante epíteto. Paria, en bocas como la tuya, es una espuela. Pronto llegará vuestra hora.
+P|Tiene usted luces que no todos tienen. Barcelona alimenta una hoguera de odio, soy obrero barcelonés, y a orgullo lo tengo.
+P|¿Eres anarquista?
+P|Soy lo que me han hecho las Leyes.
+P|Pertenecemos a la misma Iglesia.
+P|Usted lleva chalina.
+P|¡El dogal de la más horrible servidumbre! Me lo arrancaré, para que hablemos.
+P|Usted no es proletario.
+P|Yo soy el dolor de un mal sueño.
+P|Parece usted hombre de luces. Su hablar es como de otros tiempos.
+P|Yo soy un poeta ciego.
+P|¡No es pequeña desgracia!... En España el trabajo y la inteligencia siempre se han visto menospreciados. Aquí todo lo manda el dinero.
+P|Hay que establecer la guillotina eléctrica en la Puerta del Sol.
+P|No basta. El ideal revolucionario tiene que ser la destrucción de la riqueza, como en Rusia. No es suficiente la degollación de todos los ricos. Siempre aparecerá un heredero, y aun cuando se suprima la herencia, no podrá evitarse que los despojados conspiren para recobrarla. Hay que hacer imposible el orden anterior, y eso sólo se consigue destruyendo la riqueza. Barcelona industrial tiene que hundirse para renacer de sus escombros con otro concepto de la propiedad y del trabajo. En Europa, el patrono de más negra entraña es el catalán, y no digo del mundo porque existen las Colonias Españolas de América. ¡Barcelona solamente se salva pereciendo!
+P|¡Barcelona es cara a mi corazón!
+P|¡Yo también la recuerdo!
+P|Yo le debo los únicos goces en la lobreguez de mi ceguera. Todos los días, un patrono muerto, algunas veces, dos... Eso consuela.
+P|No cuenta usted los obreros que caen...
+P|Los obreros se reproducen populosamente, de un modo comparable a las moscas. En cambio, los patronos, como los elefantes, como todas las bestias poderosas y prehistóricas, procrean lentamente. Saulo, hay que difundir por el mundo la religión nueva.
+P|Mi nombre es Mateo.
+P|Yo te bautizo Saulo. Soy poeta y tengo el derecho al alfabeto. Escucha para cuando seas libre, Saulo. Una buena cacería puede encarecer la piel de patrono catalán por encima del marfil de Calcuta.
+P|En ello laboramos.
+P|Y en último consuelo, aun cabe pensar que exterminando al proletario también se extermina al patrón.
+P|Acabando con la ciudad, acabaremos con el judaísmo barcelonés.
+P|No me opongo. Barcelona semita sea destruida, como Cartago y Jerusalén. ¡Alea jacta est! Dame la mano.
+P|Estoy esposado.
+P|¿Eres joven? No puedo verte.
+P|Soy joven. Treinta años.
+P|¿De qué te acusan?
+P|Es cuento largo. Soy tachado de rebelde... No quise dejar el telar por ir a la guerra y levanté un motín en la fábrica. Me denunció el patrón, cumplí condena, recorrí el mundo buscando trabajo, y ahora voy por tránsitos, reclamado de no sé qué jueces. Conozco la suerte que me espera: Cuatro tiros por intento de fuga. Bueno. Si no es más que eso...
+P|¿Pues qué temes?
+P|Que se diviertan dándome tormento.
+P|¡Bárbaros!
+P|Hay que conocerlos.
+P|Canallas. ¡Y ésos son los que protestan de la leyenda negra!
+P|Por siete pesetas, al cruzar un lugar solitario, me sacarán la vida los que tienen a su cargo la defensa del pueblo. ¡Y a esto llaman justicia los ricos canallas!
+P|Los ricos y los pobres, la barbarie ibérica es unánime.
+P|¡Todos!
+P|¡Todos! ¿Mateo, dónde está la bomba que destripe el terrón maldito de España?
+P|Señor poeta que tanto adivina, ¿no ha visto usted una mano levantada?
+S|Se abre la puerta del calabozo, y El Llavero, con jactancia de rufo, ordena al preso maniatado que le acompañe.
+P|Tú, catalán, ¡disponte!
+P|Estoy dispuesto.
+P|Pues andando. Gachó, vas a salir en viaje de recreo.
+S|El esposado, con resignada entereza, se acerca al ciego y le toca el hombro con la barba. Se despide hablando a media voz.
+P|Llegó la mía... Creo que no volveremos a vernos...
+P|¡Es horrible!
+P|Van a matarme... ¿Qué dirá mañana esa Prensa canalla?
+P|Lo que le manden.
+P|¿Está usted llorando?
+P|De impotencia y de rabia. Abracemonos, hermano.
+S|Se abrazan. El Carcelero y el esposado salen. Vuelve a cerrarse la puerta. Max Estrella tantea buscando la pared, y se sienta con las piernas cruzadas, en una actitud religiosa, de meditación asiática. Exprime un gran dolor tacíturno el bulto del poeta ciego. Llega de fuera tumulto de voces y galopar de caballos.
+H|Escena séptima
+S|La Redacción de El Popular: Sala baja con piso de baldosas: En el centro, una mesa larga y negra, rodeada de sillas vacías, que marcan los puestos, ante roídas carpetas, y rimeros de cuartillas que destacan su blancura en el círculo luminoso y verdoso de una lámpara con enagüillas. Al extremo, fuma y escribe un hombre calvo, el eterno redactor del perfil triste, el gabán con flecos, los dedos de gancho y las uñas entintadas. El hombre lógico y mítico enciende el cigarro apagado. Se abre la mampara, y el grillo de un timbre rasga el silencio. Asoma El Conserje, vejete renegado, bigotudo, tripón, parejo de aquellos bizarros coroneles que en las procesiones se caen del caballo. Un enorme parecido que extravaga.
+P|Ahí está Don Latino de Hispalis, con otros capitalistas de su cuerda. Vienen preguntando por el Señor Director. Les he dicho que solamente estaba usted en la casa. ¿Los recibe usted, Don Filiberto?
+P|Que pasen.
+S|Sigue escribiendo. El Conserje sale, y queda batiente la verde mampara, que proyecta un recuerdo de garitos y naipes. Entra el cotarro modernista, greñas, pipas, gabanes repelados, y alguna capa. El periodista calvo levanta los anteojos a la frente, requiere el cigarro y se da importancia.
+P|¡Caballeros y hombres buenos, adelante! ¿Ustedes me dirán lo que desean de mí y del Journal?
+P|¡Venimos a protestar contra un indigno atropello de la Policía! Max Estrella, el gran poeta, aun cuando muchos se nieguen a reconocerlo, acaba de ser detenido y maltratado brutalmente en un sótano del Ministerio de la Desgobernación.
+P|En España sigue reinando Carlos II.
+P|¡Válgame un santo de palo! ¿Nuestro gran poeta estaría curda?
+P|Una copa de más no justifica esa violación de los derechos individuales.
+P|Max Estrella también es amigo nuestro. ¡Válgame un santo de palo! El Señor Director, cuando a esta hora falta, ya no viene... Ustedes conocen cómo se hace un periódico. ¡El Director es siempre un tirano!... Yo, sin consultarle, no me decido a recoger en nuestras columnas la protesta de ustedes. Desconozco la política del periódico con la Dirección de Seguridad... Y el relato de ustedes, francamente, me parece un poco exagerado.
+P|¡Es pálido, Don Filiberto!
+P|¡Una cobardía!
+P|¡Una vergüenza!
+P|¡Una canallada!
+P|¡En España reina siempre Felipe II!
+P|¡Dorio, hijo mío, no nos anonades!
+P|¡Juventud! ¡Noble apasionamiento! ¡Divino tesoro, como dijo el vate de Nicaragua! ¡Juventud, divino tesoro! Yo también leo, y algunas veces admiro a los genios del modernismo. El Director bromea que estoy contagiado. ¿Alguno de ustedes ha leído el cuento que publiqué en Los Orbes?
+P|¡Yo, Don Filiberto! Leído y admirado.
+P|¿Y usted, amigo Dorio?
+P|Yo nunca leo a mis contemporáneos, Don Filiberto.
+P|¡Amigo Dorio, no quiero replicarle que también ignora a los clásicos!
+P|A usted y a mí nos rezuma el ingenio, Don Filiberto. En el cuello del gabán llevamos las señales.
+P|Con esa alusión a la estética de mi indumentaria, se me ha revelado usted como un joven esteta.
+P|¡Es usted corrosivo, Don Filiberto!
+P|¡Usted me ha buscado la lengua!
+P|¡A eso no llego!
+P|Dorio, no hagas chistes de primero de latín.
+P|Amigo Dorio, tengo alguna costumbre de estas cañas y lanzas del ingenio. Son las justas del periodismo. No me refiero al periodismo de ahora. Con Silvela he discreteado en un banquete, cuando me premiaron en los Juegos Florales de Málaga la Bella. Narciso Díaz aún recordaba poco hace aquel torneo en una crónica suya de El Heraldo. Una crónica deliciosa como todas las suyas, y reconocía que no había yo llevado la peor parte. Citaba mi definición del periodismo. ¿Ustedes la conocen? Se la diré, sin embargo. El periodista es el plumífero parlamentario. El Congreso es una gran redacción, y cada redacción, un pequeño Congreso. El periodismo es travesura, lo mismo que la política. Son el mismo círculo en diferentes espacios. Teosóficamente podría explicarselo a ustedes, si estuviesen ustedes iniciados en la noble Doctrina del Karma.
+P|Nosotros no estamos iniciados, pero quien chanela algo es Don Latino.
+P|¡Más que algo, niño, más que algo! Ustedes no conocen la cabalatrina de mi seudónimo: Soy Latino por las aguas del bautismo, soy Latino por mi nacimiento en la bética Hispalis, y Latino por dar mis murgas en el Barrio Latino de París. Latino, en lectura cabalística, se resuelve en una de las palabras mágicas: Onital. Usted, Don Filiberto, también toca algo en el magismo y la cábala.
+P|No confundamos. Eso es muy serio, Don Latino. ¡Yo soy teósofo!
+P|¡Yo no sé lo que soy!
+P|Lo creo.
+P|Un golfo madrileño.
+P|Dorio, no malgastes el ingenio, que todo se acaba. Entre amigos basta con sacar la petaca, se queda mejor. ¡Vaya, dame un pito!
+P|No fumo.
+P|¡Otro vicio tendrá usted!
+P|Estupro criadas.
+P|¿Es agradable?
+P|Tiene sus encantos, Don Filiberto.
+P|¿Será usted padre innúmero?
+P|Las hago abortar.
+P|¡También infanticida!
+P|Un cajón de sastre.
+P|¡Pérez, no metas la pata Don Filiberto, un servidor es neo-maltusiano.
+P|¿Lo pone usted en las tarjetas?
+P|Y tengo un anuncio luminoso en casa.
+P|Y así, revertiéndonos la olla vacía, los españoles nos consolamos del hambre y de los malos gobernantes.
+P|Y de los malos cómicos, y de las malas comedias, y del servicio de tranvías, y del adoquinado.
+P|¡Eres un iconoclasta!
+P|Pérez, escucha respetuosamente y calla.
+P|En España podrá faltar el pan, pero el ingenio y el buen humor no se acaban.
+P|¿Sabe usted quién es nuestro primer humorista, Don Filiberto?
+P|Ustedes los iconoclastas dirán, quizá, que Don Miguel de Unamuno.
+P|¡No, señor! El primer humorista es Don Alfonso XIII.
+P|Tiene la viveza madrileña borbónica.
+P|El primer humorista, Don Filiberto. ¡El primero! Don Alfonso ha batido el récord haciendo presidente del Consejo a García Prieto.
+P|Aquí, joven amigo, no se pueden proferir esas blasfemias. Nuestro periódico sale inspirado por Don Manuel García Prieto. Reconozco que no es un hombre brillante, que no es un orador, pero es un político serio. En fin, volvamos al caso de nuestro amigo Mala-Estrella. Yo podría telefonear a la secretaría particular del Ministro: Está en ella un muchacho que hizo aquí tribunales. Voy a pedir comunicación. ¡Válgame un santo de palo! Mala-Estrella es uno de los maestros y merece alguna consideración. ¿Qué dejan esos caballeros para los chulos y los guapos? ¡La gentuza de navaja! ¿Mala-Estrella se hallaría como de costumbre?...
+P|Iluminado.
+P|¡Es deplorable!
+P|Hoy no pasaba de lo justo. Yo le acompañaba. ¡Cuente usted! ¡Amigos desde París! ¿Usted conoce París? Yo fui a París con la Reina Doña Isabel. Escribí entonces en defensa de la Señora. Traduje algunos libros para la Casa Garnier. Fui redactor financiero de La Lira Hispano-Americana: ¡Una gran revista! Y siempre mi seudónimo Latino de Hispalis.
+S|Suena el timbre del teléfono. Don Filiberto el periodista calvo y catarroso, el hombre lógico y mítico de todas las redacciones, pide comunicación con el Ministerio de Gobernación, Secretaría Particular. Hay un silencio. Luego murmullos, leves risas, algún chiste en voz baja. Dorio De Gadex se sienta en el sillón del Director, pone sobre la mesa sus botas rotas y lanza un suspiro.
+P|Voy a escribir el artículo de fondo, glosando el discurso de nuestro jefe: «¡Todas las fuerzas vivas del país están muertas!», exclamaba aún ayer en un magnífico arranque oratorio nuestro amigo el ilustre Marqués de Alhucemas. Y la Cámara, completamente subyugada, aplaudía la profundidad del concepto, no más profundo que aquel otro: «Ya se van alejando los escollos.» Todos los cuales se resumen en el supremo apóstrofe: «Santiago y abre España, a la libertad y al progreso.»
+S|Don Filiberto suelta la trompetilla del teléfono y viene al centro de la sala, cubriéndose la calva con las manos amarillas y entintadas. ¡Manos de esqueleto memorialista en el día bíblico del Juicio!
+P|¡Esa broma es intolerable! ¡Baje usted los pies! ¡Dónde se ha visto igual grosería!
+P|En el Senado Yanqui.
+P|¡Me ha llenado usted la carpeta de tierra!
+P|Es mi lección de filosofía ¡Polvo eres, y en polvo te convertirás!
+P|¡Ni siquiera sabe usted decirlo en latín! ¡Son ustedes unos niños procaces!
+P|Don Filiberto, nosotros no hemos faltado.
+P|Ustedes han celebrado la gracia, y la risa en este caso es otra procacidad ¡La risa de lo que está muy por encima de ustedes! Para ustedes no hay nada respetable: ¡Maura es un charlatán!
+P|¡El Rey del Camelo!
+P|¡Benlliure un santi bon barati!
+P|Dicho en valenciano.
+P|Cavestany, el gran poeta un coplero.
+P|Profesor de guitarra por cifra.
+P|¡Qué de extraño tiene que mi ilustre jefe les parezca un mamarracho!
+P|Un yerno más.
+P|Para ustedes en nuestra tierra no hay nada grande, nada digno de admiración. ¡Les compadezco! ¡Son ustedes bien desgraciados! ¡Ustedes no sienten la Patria!
+P|Es un lujo que no podemos permitimos. Espere usted que tengamos automóvil, Don Filiberto.
+P|¡Ni siquiera pueden ustedes hablar en serio! Hay alguno de ustedes, de los que ustedes llaman maestros, que se atreve a gritar viva la bagatela. ¡Y eso no en el café, no en la tertulia de amigos, sino en la tribuna de la Docta Casa! ¡Y eso no puede ser, caballeros! Ustedes no creen en nada: Son iconoclastas y son cínicos. Afortunadamente hay una juventud que no son ustedes, una juventud estudiosa, una juventud preocupada, una juventud llena de civismo.
+P|Protesto, si se refiere usted a los niños de la Acción Ciudadana. Siquiera estos modernistas, llamémosles golfos distinguidos, no han llegado a ser policías honorarios. A cada cual lo suyo. ¿Y parece ser que esta tarde mataron a uno de esos pollos de gabardina? ¿Usted tendrá noticias?
+P|Era un pollo relativo. Sesenta años.
+P|Bueno, pues que lo entierren. ¡Que haya un cadáver más, sólo importa a la funeraria!
+S|Rompe a sonar el timbre del teléfono. Don Filiberto toma la trompetilla y comienza una pantomima de cabeceos, apartes y gritos. Mientras escucha con el cuello torcido y la trompetilla en la oreja, esparce la mirada por la sala, vigilando a los jóvenes modernistas. Al colgar la trompetilla tiene una expresión candorosa de conciencia honrada. Reaparece el teósofo, en su sonrisa plácida, en el marfil de sus sienes, en toda la ancha redondez de su calva.
+P|Ya está transmitida la orden de poner en libertad a nuestro amigo Estrella. Aconséjenle ustedes que no beba. Tiene talento. Puede hacer mucho más de lo que hace. Y ahora váyanse y déjenme trabajar. Tengo que hacerme solo, todo el periódico.
+H|Escena octava
+S|Secretaría particular de Su Excelencia. Olor de brevas habanas, malos cuadros, lujo aparente y provinciano. La estancia tiene un recuerdo partido por medio, de oficina y sala de círculo con timba. De repente el grillo del teléfono se orina en el gran regazo burocrático. Y Dieguito García -Don Diego del Corral, en la Revista de Tribunales y Estrados- pega tres brincos y se planta la trompetilla en la oreja.
+P|¿Con quién hablo? Ya he transmitido la orden para que se le ponga en libertad. ¡De nada! ¡De nada! ¡Un alcohólico! Sí... Conozco su obra. ¡Una desgracia! No podrá ser. ¡Aquí estamos sin un cuarto! Se lo diré. Tomo nota. ¡De nada! ¡De nada!
+S|Max Estrella aparece en la puerta, pálido, arañado, la corbata torcida, la expresión altanera y alocada. Detrás, abotonándose los calzones, aparece El Ujier.
+P|Deténgase usted, caballero.
+P|No me ponga usted la mano encima.
+P|Salga usted sin hacer desacato.
+P|Anúncieme usted al Ministro.
+P|No está visible.
+P|¡Ah! Es usted un gran lógico. Pero estará audible.
+P|Retírese, caballero. Éstas no son horas de audiencia.
+P|Anúncieme usted.
+P|Es la orden... Y no vale ponerse pelmazo, caballero.
+P|Fernández, deje usted a ese caballero que pase.
+P|¡Al fin doy con un indígena civilizado!
+P|Amigo Mala-Estrella, usted perdonará que sólo un momento me ponga a sus órdenes. Me habló por usted la Redacción de El Popular. Allí le quieren a usted. A usted le quieren y le admiran en todas partes. Usted me deja mandado aquí y donde sea. No me olvide... ¡Quién sabe!... Yo tengo la nostalgia del periodismo... Pienso hacer algo... Hace tiempo acaricio la idea de una hoja volandera, un periódico ligero, festivo, espuma de champaña, fuego de virutas. Cuento con usted. Adiós, maestro. ¡Deploro que la ocasión de conocernos haya venido de suceso tan desagradable!
+P|De eso vengo a protestar. ¡Tienen ustedes una policía reclutada entre la canalla más canalla!
+P|Hay de todo, maestro.
+P|No discutamos. Quiero que el Ministro me oiga, y al mismo tiempo darle las gracias por mi libertad.
+P|El Señor Ministro no sabe nada.
+P|Lo sabrá por mí.
+P|El Señor Ministro ahora trabaja. Sin embargo, voy a entrar.
+P|Y yo con usted.
+P|¡Imposible!
+P|¡Daré un escándalo!
+P|¡Está usted loco!
+P|Loco de verme desconocido y negado. El Ministro es amigo mío, amigo de los tiempos heroicos. ¡Quiero oírle decir que no me conoce! ¡Paco! ¡Paco!
+P|Le anunciaré a usted.
+P|Yo me basto. ¡Paco! ¡Paco! ¡Soy un espectro del pasado!
+S|Su Excelencia abre la puerta de su despacho y asoma en mangas de camisa, la bragueta desabrochada, el chaleco suelto, y los quevedos pendientes de un cordón, como dos ojos absurdos bailándole sobre la panza.
+P|¿Qué escándalo es éste, Dieguito?
+P|Señor Ministro, no he podido evitarlo.
+P|¡Un amigo de los tiempos heroicos! ¡No me reconoces, Paco! ¡Tanto me ha cambiado la vida! ¡No me reconoces! ¡Soy Máximo Estrella!
+P|¡ Claro! ¡Claro! ¡Claro! ¿Pero estás ciego?
+P|Como Homero y como Belisario.
+P|Una ceguera accidental, supongo...
+P|Definitiva e irrevocable. Es el regalo de Venus.
+P|Válgate Dios. ¿Y cómo no te has acordado de venir a verme antes de ahora? Apenas leo tu firma en los periódicos.
+P|¡Vivo olvidado! Tú has sido un vidente dejando las letras por hacernos felices gobernando. Paco, las letras no dan para comer. ¡Las letras son colorín, pingajo y hambre!
+P|Las letras, ciertamente, no tienen la consideración que debieran, pero son ya un valor que se cotiza. Amigo Max, yo voy a continuar trabajando. A este pollo le dejas una nota de lo que deseas... Llegas ya un poco tarde.
+P|Llego en mi hora. No vengo a pedir nada. Vengo a exigir una satisfacción y un castigo. Soy ciego, me llaman poeta, vivo de hacer versos y vivo miserable. Estás pensando que soy un borracho. ¡Afortunadamente! Si no fuese un borracho ya me hubiera pegado un tiro. ¡Paco, tus sicarios no tienen derecho a escupirme y abofetearme, y vengo a pedir un castigo para esa turba de miserables, y un desagravio a la Diosa Minerva!
+P|Amigo Max, yo no estoy enterado de nada. ¿Qué ha pasado, Dieguito?
+P|Como hay un poco de tumulto callejero, y no se consienten grupos, y estaba algo excitado el maestro...
+P|He sido injustamente detenido, inquisitorialmente torturado. En las muñecas tengo las señales.
+P|¿Qué parte han dado los guardias, Dieguito?
+P|En puridad, lo que acabo de resumir al Señor Ministro.
+P|¡Pues es mentira! He sido detenido por la arbitrariedad de un legionario, a quien pregunté, ingenuo, si sabía los cuatro dialectos griegos.
+P|Real y verdaderamente la pregunta es arbitraria. ¡Suponerle a un guardia tan altas Humanidades!
+P|Era un teniente.
+P|Como si fuese un Capitán General. ¡No estás sin ninguna culpa! ¡Eres siempre el mismo calvatrueno! ¡Para ti no pasan los años! ¡Ay, cómo envidio tu eterno buen humor!
+P|¡Para mí, siempre es de noche! Hace un año que estoy ciego. Dicto y mi mujer escribe, pero no es posible.
+P|¿Tu mujer es francesa?
+P|Una santa del Cielo, que escribe el español con una ortografía del Infierno. Tengo que dictarle letra por letra. Las ideas se me desvanecen. ¡Un tormento! Si hubiera pan en mi casa, maldito si me apenaba la ceguera. El ciego se entera mejor de las cosas del mundo, los ojos son unos ilusionados embusteros. ¡Adiós, Paco! Conste que no he venido a pedirte ningún favor. Max Estrella no es el pobrete molesto.
+P|Espera, no te vayas, Máximo. Ya que has venido, hablemos. Tú resucitas toda una época de mi vida, acaso la mejor. ¡Oué lejana! Estudiábamos juntos. Vivíais en la calle del Recuerdo. Tenías una hermana. De tu hermana anduve yo enamorado. ¡Por ella hice versos!
+P|¡Calle del Recuerdo, Ventana de Helena, La niña morena Que asomada vi! ¡Calle del Recuerdo Rondalla de tuna, Y escala de luna Que en ella prendí!
+P|¡Qué memoria la tuya! ¡Me dejas maravillado! ¿Qué fue de tu hermana?
+P|Entró en un convento.
+P|¿Y tu hermano Alex?
+P|¡Murió!
+P|¿Y los otros? ¡Érais muchos!
+P|¡Creo que todos han muerto!
+P|¡No has cambiado!... Max, yo no quiero herir tu delicadeza, pero en tanto dure aquí, puedo darte un sueldo.
+P|¡Gracias!
+P|¿Aceptas?
+P|¡Qué remedio!
+P|Tome usted nota, Dieguito. ¿Dónde vives, Max?
+P|Dispóngase usted a escribir largo, joven maestro: -Bastardillos, veintitrés, duplicado, Escalera interior, Guardilla B-. Nota. Si en este laberinto hiciese falta un hilo para guiarse, no se le pida a la portera, porque muerde.
+P|¡Cómo te envidio el humor!
+P|El mundo es mío, todo me sonríe, soy un hombre sin penas.
+P|¡Te envidio!
+P|¡Paco, no seas majadero!
+P|Max, todos los meses te llevarán el haber a tu casa. ¡Ahora, adiós! ¡Dame un abrazo!
+P|Toma un dedo, y no te enternezcas.
+P|¡Adiós, Genio y Desorden!
+P|Conste que he venido a pedir un desagravio para mi dignidad, y un castigo para unos canallas. Conste que no alcanzo ninguna de las dos cosas, y que me das dinero, y que lo acepto porque soy un canalla. No me estaba permitido irme del mundo sin haber tocado alguna vez el fondo de los Reptiles. ¡Me he ganado los brazos de Su Excelencia!
+S|Máximo Estrella, con los brazos abiertos en cruz, la cabeza erguida, los ojos parados, trágicos en su ciega quietud, avanza como un fantasma. Su Excelencia, tripudo, repintado, mantecoso, responde con un arranque de cómico viejo, en el buen melodrama francés. Se abrazan los dos. Su Excelencia, al separarse, tiene una lágrima detenida en los párpados. Estrecha la mano del bohemio, y deja en ella algunos billetes.
+P|¡Adiós! ¡Adiós! Créeme que no olvidaré este momento.
+P|¡Adiós, Paco! ¡Gracias en nombre de dos pobres mujeres!
+S|Su Excelencia toca un timbre. El Ujier acude soñoliento. Máximo Estrella, tanteando con el palo, va derecho hacia el fondo de la estancia, donde hay un balcón.
+P|Fernández, acompañe usted a ese caballero, y déjele en un coche.
+P|Seguramente que me espera en la puerta mi perro.
+P|Quien le espera a usted es un sujeto de edad, en la antesala.
+P|Don Latino de Hispalis: Mi perro.
+S|El Ujier toma de la manga al bohemio. Con aire torpón le saca del despacho, y guipa al soslayo el gesto de Su Excelencia. Aquel gesto manido de actor de carácter en la gran escena del reconocimiento.
+P|¡Querido Dieguito, ahí tiene usted un hombre a quien le ha faltado el resorte de la voluntad! Lo tuvo todo, figura, palabra, gracejo. Su charla cambiaba de colores como las llamas de un ponche.
+P|¡Qué imagen soberbia!
+P|¡Sin duda, era el que más valía entre los de mi tiempo!
+P|Pues véalo usted ahora en medio del arroyo, oliendo a aguardiente, y saludando en francés a las proxenetas.
+P|¡Veinte años! ¡Una vida! ¡E, inopinadamente, reaparece ese espectro de la bohemia! Yo me salvé del desastre renunciando al goce de hacer versos. Dieguito, usted de esto no sabe nada, porque usted no ha nacido poeta.
+P|¡Lagarto! ¡Lagarto!
+P|¡Ay, Dieguito, usted no alcanzará nunca lo que son ilusión y bohemia! Usted ha nacido institucionista, usted no es un renegado del mundo del ensueño. ¡Yo, sí!
+P|¿Lo lamenta usted, Don Francisco?
+P|Creo que lo lamento.
+P|¿El Excelentísimo Señor Ministro de la Gobernación, se cambiaría por el poeta Mala-Estrella?
+P|¡Ya se ha puesto la toga y los vuelillos el Señor Licenciado Don Diego del Corral! Suspenda un momento el interrogatorio su señoría, y vaya pensando cómo se justifican las pesetas que hemos de darle a Máximo Estrella.
+P|Las tomaremos de los fondos de Policía.
+P|¡Eironeia!
+S|Su Excelencia se hunde en una poltrona, ante la chimenea que aventa sobre la alfombra una claridad trémula. Enciende un cigarro con sortija, y pide La Gaceta. Cabálgase los lentes, le pasa la vista, se hace un gorro, y se duerme.
+H|Escena novena
+S|Un café que prolongan empañados espejos. Mesas de mármol. Divanes rojos. El mostrador en el fondo, y detrás un vejete rubiales, destacado el busto sobre la diversa botillería. El Café tiene piano y violín. Las sombras y la música flotan en el vaho de humo, y en el lívido temblor de los arcos voltaicos. Los espejos multiplicadores están llenos de un interés folletinesco. En su fondo, con una geometria absurda, extravaga el Café. El compás canalla de la música, las luces en el fondo de los espejos, el vaho de humo penetrado del temblor de los arcos voltaicos cifran su diversidad en una sola expresión. Entran extraños, y son de repente transfigurados en aquel triple ritmo, Mala Estrella y Don Latino.
+P|¿Qué tierra pisamos?
+P|El Café Colón.
+P|Mira si está Rubén. Suele ponerse enfrente de los músicos.
+P|Allá está como un cerdo triste.
+P|Vamos a su lado, Latino. Muerto yo, el cetro de la poesía pasa a ese negro.
+P|No me encargues de ser tu testamentario.
+P|¡Es un gran poeta!
+P|Yo no lo entiendo.
+P|¡Merecías ser el barbero de Maura!
+S|Por entre sillas y mármoles llegan al rincón donde está sentado y silencioso Rubén Darío. Ante aquella aparición, el poeta siente la amargura de la vida, y con gesto egoísta de niño enfadado, cierra los ojos, y bebe un sorbo de su copa de ajenjo. Finalmente, su máscara de ídolo se anima con una sonrisa cargada de humedad. El ciego se detiene ante la mesa y levanta su brazo, con magno ademán de estatua cesárea.
+P|¡Salud, hermano, si menor en años, mayor en prez!
+P|¡Admirable! ¡Cuánto tiempo sin vernos, Max! ¿Qué haces?
+P|¡Nada!
+P|¡Admirable! ¿Nunca vienes por aquí?
+P|El café es un lujo muy caro, y me dedico a la taberna, mientras llega la muerte.
+P|Max, amemos la vida, y mientras podamos, olvidemos a la Dama de Luto.
+P|¿Por qué?
+P|¡No hablemos de Ella!
+P|¡Tú la temes, y yo la cortejo! ¡Rubén, te llevaré el mensaje que te plazca darme para la otra ribera de la Estigia! Vengo aquí para estrecharte por última vez la mano, guiado por el ilustre camello Don Latino de Hispalis. ¡Un hombre que desprecia tu poesía, como si fuese Académico!
+P|¡Querido Max, no te pongas estupendo!
+P|¿El señor es Don Latino de Hispalis?
+P|¡Si nos conocemos de antiguo, maestro! ¡Han pasado muchos años! Hemos hecho juntos periodismo en La Lira Hispano-Americana.
+P|Tengo poca memoria, Don Latino.
+P|Yo era el redactor financiero. En París nos tuteábamos, Rubén.
+P|Lo había olvidado.
+P|¡Si no has estado nunca en París!
+P|Querido Max, vuelvo a decirte que no te pongas estupendo. Siéntate e invítanos a cenar. Rubén, hoy este gran poeta, nuestro amigo, se llama Estrella Resplandeciente!
+P|¡Admirable! ¡Max, es preciso huir de la bohemia!
+P|¡Está opulento! ¡Guarda dos pápiros de piel de contribuyente!
+P|¡Esta tarde tuve que empeñar la capa, y esta noche te convido a cenar! ¡A cenar con el rubio Champaña, Rubén!
+P|¡Admirable! Como Martín de Tours, partes conmigo la capa, trasmudada en cena. ¡Admirable!
+P|¡Mozo, la carta! Me parece un poco exagerado pedir vinos franceses. ¡Hay que pensar en el mañana, caballeros!
+P|¡No pensemos!
+P|Compartiría tu opinión, si con el café, la copa y el puro nos tomásemos un veneno.
+P|¡Miserable burgués!
+P|Querido Max, hagamos un trato. Yo me bebo modestamente una chica de cerveza, y tú me apoquinas en pasta con lo que me había de costar la bebecua.
+P|No te apartes de los buenos ejemplos, Don Latino.
+P|Servidor no es un poeta. Yo me gano la vida con más trabajo que haciendo versos.
+P|Yo también estudio las matemáticas celestes.
+P|¡Perdón entonces! Pues sí, señor, aun cuando me veo reducido al extremo de vender entregas, soy un adepto de la Gnosis y la Magia.
+P|¡Yo lo mismo!
+P|Recuerdo que alguna cosa alcanzabas.
+P|Yo he sentido que los Elementales son Conciencias.
+P|¡Indudable! ¡Indudable! ¡Indudable! ¡Conciencias, Voluntades y Potestades!
+P|Mar y Tierra, Fuego y Viento, divinos monstruos. ¡Posiblemente Divinos porque son Eternidades!
+P|Eterna la Nada.
+P|Y el fruto de la Nada: Los cuatro Elementales, simbolizados en los cuatro Evangelistas. La Creación, que es pluralidad, solamente comienza en el Cuatrivio. Pero de la Trina Unidad, se desprende el Número. ¡Por eso el Número es Sagrado!
+P|¡Calla, Pitágoras! Todo eso lo has aprendido en tus intimidades con la vieja Blavatsky.
+P|¡Max, esas bromas no son tolerables! ¡Eres un espíritu profundamente irreligioso y volteriano! Madama Blavatsky ha sido una mujer extraordinaria, y no debes profanar con burlas el culto de su memoria. Pudieras verte castigado por alguna camarrupa de su karma. ¡Y no sería el primer caso!
+P|¡Se obran prodigios! Afortunadamente no los vemos ni los entendemos. Sin esta ignorancia, la vida sería un enorme sobrecogimiento.
+P|¿Tú eres creyente, Rubén?
+P|¡Yo creo!
+P|¿En Dios?
+P|¡Y en el Cristo!
+P|¿Y en las llamas del Infierno?
+P|¡Y más todavía en las músicas del Cielo!
+P|¡Eres un farsante, Rubén!
+P|¡Seré un ingenuo!
+P|¿No estás posando?
+P|¡No!
+P|Para mí, no hay nada tras la última mueca. Si hay algo, vendré a decírtelo.
+P|¡Calla, Max, no quebrantemos los humanos sellos!
+P|Rubén, acuérdate de esta cena. Y ahora, mezclemos el vino con las rosas de tus versos. Te escuchamos.
+S|Rubén se recoge estremecido, el gesto de ídolo, evocador de terrores y misterios. Max Estrella, un poco enfático, le alarga la mano. Llena los vasos Don Latino. Rubén sale de su meditación con la tristeza vasta y enorme esculpida en los ídolos aztecas.
+P|Veré si recuerdo una peregrinación a Compostela... Son mis últimos versos.
+P|¿Se han publicado? Si se han publicado, me los habrán leído, pero en tu boca serán nuevos.
+P|Posiblemente no me acordaré.
+S|Un joven que escribe en la mesa vecina, y al parecer traduce, pues tiene ante los ojos un libro abierto y cuartillas en rimero, se inclina tímidamente hacia Rubén Darío.
+P|Maestro, donde usted no recuerde, yo podría apuntarle.
+P|¡Admirable!
+P|¿Dónde se han publicado?
+P|Yo los he leído manuscritos. Iban a ser publicados en una revista que murió antes de nacer.
+P|¿Sería una revista de Paco Villaespesa?
+P|Yo he sido su secretario.
+P|Un gran puesto.
+P|Tú no tienes nada que envidiar, Latino.
+P|¿Se acuerda usted, maestro?
+S|Rubén asiente con un gesto sacerdotal, y tras de humedecer los labios en la copa, recita lento y cadencioso, como en sopor, y destaca su esfuerzo por distinguir de eses y cedas.
+P|¡¡¡La ruta tocaba a su fin. Y en el rincón de un quicio oscuro, nos repartimos un pan duro con el Marqués de Bradomín!!!
+P|Es el final, maestro.
+P|Es la ocasión para beber por nuestro estelar amigo.
+P|¡Ha desaparecido del mundo!
+P|Se prepara a la muerte en su aldea, y su carta de despedida fue la ocasión de estos versos. ¡Bebamos a la salud de un exquisito pecador!
+P|¡Bebamos!
+S|Levanta su copa, y gustando el aroma del ajenjo, suspira y evoca el cielo lejano de París. Piano y violín atacan un aire de opereta, y la parroquia del café lleva el compás con las cucharillas en los vasos. Después de beber, los tres desterrados confunden sus voces hablando en francés. Recuerdan y proyectan las luces de la fiesta divina y mortal. ¡París! ¡Cabaretes! ¡Illusión! Y en el ritmo de las frases, desfila, con su pata coja, Papá Verlaine.
+H|Escena décima
+S|Paseo con jardines. El cielo raso y remoto. La luna lunera. Patrullas de caballería. Silencioso y luminoso, rueda un auto. En la sombra clandestina de los ramajes, merodean mozuelas pingonas y viejas pintadas como caretas. Repartidos por las sillas del paseo, yacen algunos bultos durmientes. Max Estrella y Don Latino caminan bajo las sombras del paseo. El perfume primaveral de las lilas embalsama la humedad de la noche.
+P|¡Morenos! ¡Chis!... ¡Morenos! ¿Queréis venir un ratito?
+P|Cuando te pongas los dientes.
+P|¡No me dejáis siquiera un pitillo!
+P|Te daré La Corres, para que te ilustres; publica una carta de Maura.
+P|Que le den morcilla.
+P|Se le prohibe el rito judaico.
+P|¡Mira el camelista! Esperaros, que llamo a una amiguita. ¡Lunares! ¡Lunares!
+S|Surge La Lunares, una mozuela pingona, medias blancas, delantal, toquilla y alpargatas. Con risa desvergonzada se detiene en la sombra del jardinillo.
+P|¡Ay, qué pollos más elegantes! Vosotros me sacáis esta noche de la calle.
+P|Nos ponen piso.
+P|Dejadme una perra, y me completáis una peseta para la cama.
+P|¡Roñas, siquiera un pitillo!
+P|Toma un habano.
+P|¡Guasíbilis!
+P|Apáñalo, panoli.
+P|¡Sí que lo apaño! ¡Y es de sortija!
+P|Ya me permitirás alguna chupada.
+P|Éste me lo guardo.
+P|Para el Rey de Portugal.
+P|¡Infeliz! ¡Para el de la Higiene!
+P|¿Y vosotros, astrónomos, no hacéis una calaverada?
+S|Las dos prójimas han evolucionado sutiles y clandestinas, bajo las sombras del paseo: La Vieja Pintada está a la vera de Don Latino De Hispalis. La Lunares, a la vera de Mala Estrella.
+P|¡Mira qué limpios llevo los bajos!
+P|Soy ciego.
+P|¡Algo verás!
+P|¡Nada!
+P|Tócame. Estoy muy dura.
+P|¡Un mármol!
+S|La mozuela, con una risa procaz, toma la mano del poeta, y la hace tantear sobre sus hombros, y la oprime sobre los senos. La vieja sórdida, bajo la máscara de albayalde, descubre las encías sin dientes, y tienta capciosa a Don Latino.
+P|Hermoso, vente conmigo, que ya tu compañero se entiende con la Lunares. No te receles. ¡Ven! Si se acerca algún guindilla, lo apartamos con el puro habanero.
+S|Se lo lleva sonriendo, blanca y fantasmal. Cuchicheos. Se pierden entre los árboles del jardín. Parodia grotesca del Jardín de Armida. Mala Estrella y la otra prójima quedan aislados sobre la orilla del paseo.
+P|Pálpame el pecho... No tengas reparo... ¡Tú eres un poeta!
+P|¿En qué lo has conocido?
+P|En la peluca de Nazareno. ¿Me engaño?
+P|No te engañas.
+P|Si cuadrase que yo te pusiese al tanto de mi vida, sacabas una historia de las primeras. Responde: ¿Cómo me encuentras?
+P|¡Una ninfa!
+P|¡Tienes el hablar muy dilustrado! Tu acompañante ya se concertó con la Cotillona. Ven. Entrégame la mano. Vamos a situarnos en un lugar más oscuro. Verás cómo te cachondeo.
+P|Llévame a un banco para esperar a ese cerdo hispalense.
+P|No chanelo.
+P|Hispalis es Sevilla.
+P|Lo será en cañí. Yo soy chamberilera.
+P|¿Cuántos años tienes?
+P|Pues no sé los que tengo.
+P|¿Y es siempre aquí tu parada nocturna?
+P|Las más de las veces.
+P|¡Te ganas honradamente la vida!
+P|Tú no sabes con cuántos trabajos. Yo miro mucho lo que hago. La Cotillona me habló para llevarme a una casa. ¡Una casa de mucho postín! No quise ir... Acostarme no me acuesto... Yo guardo el pan de higos para el gachó que me sepa camelar. ¿Por qué no lo pretendes?
+P|Me falta tiempo.
+P|Inténtalo para ver lo que sacas. Te advierto que me estás gustando.
+P|Te advierto que soy un poeta sin dinero.
+P|Serías tú, por un casual, el que sacó las coplas de Joselito?
+P|¡Ése soy!
+P|¿De verdad?
+P|De verdad.
+P|Dilas.
+P|No las recuerdo.
+P|Porque no las sacaste de tu sombrerera. Sin mentira, ¿cuáles son las tuyas?
+P|Las del Espartero.
+P|¿Y las recuerdas?
+P|Y las canto como un flamenco.
+P|¡Que no eres capaz!
+P|¡Tuviera yo una guitarra!
+P|¿La entiendes?
+P|Para algo soy ciego.
+P|¡Me estás gustando!
+P|No tengo dinero.
+P|Con pagar la cama concluyes. Si quedas contento y quieres convidarme a un café con churros, tampoco me niego.
+S|Máximo Estrella, con tacto de ciego, le pasa la mano por el óvalo del rostro, la garganta y los hombros. La pindonga ríe con dejo sensual de cosquillas. Quítase del moño un peinecillo gitano, y con él peinando los tufos, redobla la risa y se desmadeja.
+P|¿Quieres saber como soy? ¡Soy muy negra y muy fea!
+P|No lo pareces! Debes tener quince años.
+P|Esos mismos tendré. Ya pasa de tres que me visita el nuncio. No lo pienses más y vamos. Aquí cerca hay una casa muy decente.
+P|¿Y cumplirás tu palabra?
+P|¿Cuála? ¿Dejar que te comas el pan de higos? ¡No me pareces bastante flamenco! ¡Qué mano tienes! No me palpes más la cara. Pálpame el cuerpo.
+P|¿Eres pelinegra?
+P|¡Lo soy!
+P|Hueles a nardos.
+P|Porque los he vendido.
+P|¿Cómo tienes los ojos?
+P|¿No lo adivinas?
+P|¿Verdes?
+P|Como la Pastora Imperio. Toda yo parezco una gitana.
+S|De la oscuridad surge la brasa de un cigarro y la tos asmática de Don Latino. Remotamente, sobre el asfalto sonoro, se acompasa el trote de una patrulla de Caballería. Los focos de un auto. El farol de un sereno. El quicio de una verja. Una sombra clandestina. El rostro de albayalde de otra vieja peripatética. Diferentes sombras.
+H|Escena undécima
+S|Una calle del Madrid austriaco. Las tapias de un convento. Un casón de nobles. Las luces de una taberna. Un grupo consternado de vecinas, en la acera. Una mujer, despechugada y ronca, tiene en los brazos a su niño muerto, la sien traspasada por el agujero de una bala. Max Estrella y Don Latino hacen un alto.
+P|También aquí se pisan cristales rotos.
+P|¡La zurra ha sido buena!
+P|¡Canallas!... ¡Todos!... ¡Y los primeros nosotros, los poetas!
+P|¡Se vive de milagro!
+P|¡Maricas, cobardes! ¡El fuego del Infierno os abrase las negras entrañas! ¡Maricas, cobardes!
+P|¿Qué sucede, Latino? ¿Quién llora? ¿Quién grita con tal rabia?
+P|Una verdulera, que tiene a su chico muerto en los brazos.
+P|¡Me ha estremecido esa voz trágica!
+P|¡Sicarios! ¡Asesinos de criaturas!
+P|Está con algún trastorno, y no mide palabras.
+P|La autoridad también se hace el cargo.
+P|Son desgracias inevitables para el restablecimiento del orden.
+P|Las turbas anárquicas me han destrozado el escaparate.
+P|¿Cómo no anduvo usted más vivo en echar los cierres?
+P|Me tomó el tumulto fuera de casa. Supongo que se acordará el pago de daños a la propiedad privada.
+P|El pueblo que roba en los establecimientos públicos, donde se le abastece, es un pueblo sin ideales patrios.
+P|¡Verdugos del hijo de mis entrañas!
+P|El pueblo tiene hambre.
+P|Y mucha soberbia.
+P|¡Maricas, cobardes!
+P|¡Ten prudencia, Romualda!
+P|¡Que me maten como a este rosal de Mayo!
+P|¡Un inocente sin culpa! ¡Hay que considerarlo!
+P|Siempre saldréis diciendo que no hubo los toques de Ordenanza.
+P|Yo los he oído.
+P|¡Mentira!
+P|Mi palabra es sagrada.
+P|El dolor te enloquece, Romualda.
+P|¡Asesinos! ¡Veros es ver al verdugo!
+P|El Principio de Autoridad es inexorable.
+P|Con los pobres. Se ha matado, por defender al comercio, que nos chupa la sangre.
+P|Y que paga sus contribuciones, no hay que olvidarlo.
+P|El comercio honrado no chupa la sangre de nadie.
+P|¡Nos quejamos de vicio!
+P|La vida del proletario no representa nada para el Gobierno.
+P|Latino, sácame de este círculo infernal.
+S|Llega un tableteo de fusilada. El grupo se mueve en confusa y medrosa alerta. Descuella el grito ronco de la mujer, que al ruido de las descargas aprieta a su niño muerto en los brazos.
+P|¡Negros fusiles, matadme también con vuestros plomos!
+P|Esa voz me traspasa.
+P|¡Que tan fría, boca de nardo!
+P|¡Jamás oí voz con esa cólera trágica!
+P|Hay mucho de teatro.
+P|¡Imbécil!
+S|El farol, el chuzo, la caperuza del sereno, bajan con un trote de madreñas por la acera.
+P|¿Qué ha sido, sereno?
+P|Un preso que ha intentado fugarse.
+P|Latino, ya no puedo gritar... ¡Me muero de rabia!... Estoy mascando ortigas. Ese muerto sabía su fin... No le asustaba, pero temía el tormento... La Leyenda Negra, en estos días menguados, es la Historia de España. Nuestra vida es un círculo dantesco. Rabia y vergüenza. Me muero de hambre, satisfecho de no haber llevado una triste velilla en la trágica mojiganga. ¿Has oído los comentarios de esa gente, viejo canalla? Tú eres como ellos. Peor que ellos, porque no tienes una peseta y propagas la mala literatura, por entregas. Latino, vil corredor de aventuras insulsas, llévame al Viaducto. Te invito a regenerarte con un vuelo.
+P|¡Max, no te pongas estupendo!
+H|Escena duodécima
+S|Rinconada en costanilla y una iglesia barroca por fondo. Sobre las campanas negras, la luna clara. Don Latino y Max Estrella filosofan sentados en el quicio de una puerta. A lo largo de su coloquio, se torna lívido el cielo. En el alero de la iglesia pían algunos pájaros. Remotos albores de amanecida. Ya se han ido los serenos, pero aún están las puertas cerradas. Despiertan las porteras.
+P|¿Debe estar amaneciendo?
+P|Así es.
+P|¡Y que frío!
+P|Vamos a dar unos pasos.
+P|Ayúdame, que no puedo levantarme. ¡Estoy aterido!
+P|¡Mira que haber empeñado la capa!
+P|Préstame tu carrik, Latino.
+P|¡Max, eres fantástico!
+P|Ayúdame a ponerme en pie.
+P|¡Arriba, carcunda!
+P|¡No me tengo!
+P|¡Qué tuno eres!
+P|¡Idiota!
+P|¡La verdad es que tienes una fisonomía algo rara!
+P|¡Don Latino de Hispalis, grotesco personaje, te inmortalizaré en una novela!
+P|Una tragedia, Max.
+P|La tragedia nuestra no es tragedia.
+P|¡Pues algo será!
+P|El Esperpento.
+P|No tuerzas la boca, Max.
+P|¡Me estoy helando!
+P|Levántate. Vamos a caminar.
+P|No puedo.
+P|Deja esa farsa. Vamos a caminar.
+P|Échame el aliento. ¿Adónde te has ído, Latino?
+P|Estoy a tu lado.
+P|Como te has convertido en buey, no podía reconocerte. Échame el aliento, ilustre buey del pesebre belenita. ¡Muge, Latino! Tú eres el cabestro, y si muges vendrá el Buey Apis. Lo torearemos.
+P|Me estás asustando. Debías dejar esa broma.
+P|Los ultraístas son unos farsantes. El esperpentismo lo ha inventado Goya. Los héroes clásicos han ido a pasearse en el callejón del Gato.
+P|¡Estás completamente curda!
+P|Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento. El sentido trágico de la vida española sólo puede darse con una estética sistemáticamente deformada.
+P|¡Miau! ¡Te estás contagiando!
+P|España es una deformación grotesca de la civilización europea.
+P|¡Pudiera! Yo me inhibo.
+P|Las imágenes más bellas en un espejo cóncavo son absurdas.
+P|Conforme. Pero a mí me divierte mirarme en los espejos de la calle del Gato.
+P|Y a mí. La deformación deja de serlo cuando está sujeta a una matemática perfecta, Mi estética actual es transformar con matemática de espejo cóncavo las normas clásicas.
+P|¿Y dónde está el espejo?
+P|En el fondo del vaso.
+P|¡Eres genial! ¡Me quito el cráneo!
+P|Latino, deformemos la expresión en el mismo espejo que nos deforma las caras y toda la vida miserable de España.
+P|Nos mudaremos al callejón del Gato.
+P|Vamos a ver qué palacio está desalquilado. Arrímame a la pared. ¡Sacúdeme!
+P|No tuerzas la boca.
+P|Es nervioso. ¡Ni me entero!
+P|¡Te traes una guasa!
+P|Préstame tu carrik.
+P|¡Mira cómo me he quedado de un aire!
+P|No me siento las manos y me duelen las uñas. ¡Estoy muy malo!
+P|Quieres conmoverme, para luego tomarme la coleta.
+P|Idiota, llévame a la puerta de mi casa y déjame morir en paz.
+P|La verdad sea dicha, no madrugan en nuestro barrio.
+P|Llama.
+S|Don Latino De Hispalis, volviéndose de espaldas, comienza a cocear en la puerta. El eco de los golpes tolondrea por el ámbito lívido de la costanilla, y como en respuesta a una provocación, el reloj de la iglesia da cinco campanadas bajo el gallo de la veleta.
+P|¡Latino!
+P|¿Qué antojas? ¡Deja la mueca!
+P|¡Si Collet estuviese despierta!... Ponme en pie para darle una voz.
+P|No llega tu voz a ese quinto cielo.
+P|¡Collet! ¡Me estoy aburriendo!
+P|No olvides al compañero.
+P|Latino, me parece que recobro la vista. ¿Pero cómo hemos venido a este entierro? ¡Esa apoteosis es de París! ¡Estamos en el entierro de Víctor Hugo! ¿Oye, Latino, pero cómo vamos nosotros presidiendo?
+P|No te alucines, Max.
+P|Es incomprensible cómo veo.
+P|Ya sabes que has tenido esa misma ilusión otras veces.
+P|¿A quién enterramos, Latino?
+P|Es un secreto que debemos ignorar.
+P|¡Cómo brilla el sol en las carrozas!
+P|Max, si todo cuanto dices no fuese una broma, tendría una significación teosófica... En un entierro presidido por mí, yo debo ser el muerto... Pero por esas coronas, me inclino a pensar que el muerto eres tú.
+P|Voy a complacerte. Para quitarte el miedo del augurio, me acuesto a la espera. ¡Yo soy el muerto! ¿Qué dirá mañana esa canalla de los periódicos?, se preguntaba el paria catalán.
+S|Máximo Estrella se tiende en el umbral de su puerta. Cruza la costanilla un perro golfo que corre en zigzag. En el centro, encoge la pata y se orina. El ojo legañoso, como un poeta, levantado al azul de la última estrella.
+P|Latino, entona el gori-gori.
+P|Si continúas con esa broma macabra, te abandono.
+P|Yo soy el que se va para siempre.
+P|Incorpórate, Max. Vamos a caminar.
+P|Estoy muerto.
+P|¡Que me estás asustando! Max, vamos a caminar. Incorpórate, ¡no tuerzas la boca, condenado! ¡Max! ¡Max! ¡Condenado, responde!
+P|Los muertos no hablan.
+P|Definitivamente, te dejo.
+P|¡Buenas noches!
+S|Don Latino De Hispalis se sopla los dedos arrecidos y camina unos pasos encorvándose bajo su carrik pingón, orlado de cascarrias. Con una tos gruñona retorna al lado de Max Estrella. Procura incorporarle hablándole a la oreja.
+P|Max, estás completamente borracho y sería un crimen dejarte la cartera encima, para que te la roben. Max, me llevo tu cartera y te la devolveré mañana.
+S|Finalmente se eleva tras de la puerta la voz achulada de una vecina. Resuenan pasos dentro del zaguán. Don Latino se cuela por un callejón.
+P|¡Señá Flora! ¡Señá Flora! Se le han apegado a usted las mantas de la cama.
+P|¿Quién es? Esperarse que encuentre la caja de mixtos.
+P|¡Señá Flora!
+P|Ahora salgo. ¿Quién es?
+P|¡Está usted marmota! ¿Quién será? ¡La Cuca, que se camina al lavadero!
+P|¡Ay, qué centella de mixtos! ¿Son horas?
+P|¡Son horas y pasan de serlo!
+S|Se oye el paso cansino de una mujer en chanclas. Sigue el murmullo de las voces. Rechina la cerradura, y aparecen en el hueco de la puerta dos mujeres: La una, canosa, viva y agalgada, con un saco de ropa cargado sobre la cadera. La otra, jamona, refajo colorado, pañuelo pingón sobre los hombros, greñas y chancletas. El cuerpo del bohemio resbala y queda acostado sobre el umbral al abrirse la puerta.
+P|¡Santísimo Cristo, un hombre muerto!
+P|Es Don Max el poeta, que la ha pescado.
+P|¡Está del color de la cera!
+P|Cuca, por tu alma, quédate a la mira un instante, mientras subo el aviso a Madama Collet.
+S|La Portera sube la escalera chancleando. Se la oye renegar. La Cuca, viéndose sola, con aire medroso, toca las manos del bohemio y luego se inclina a mirarle los ojos entreabiertos bajo la frente lívida.
+P|¡Santísimo Señor! ¡Esto no lo dimana la bebida! ¡La muerte talmente representa! ¡Señá Flora! ¡Señá Flora! ¡Que no puedo demorarme! ¡Ya se me voló un cuarto de día! ¡Que se queda esto a la vindicta pública, señá Flora! ¡Propia la muerte!
+H|Escena decimatercia
+S|Velorio en un sotabanco. Madama Collet y Claudinita, desgreñadas y macilentas, lloran al muerto, ya tendido en la angostura de la caja, amortajado con una sábana, entre cuatro velas. Astillando una tabla, el brillo de un clavo aguza su punta sobre la sien inerme. La caja, embetunada de luto por fuera, y por dentro de tablas de pino sin labrar ni pintar, tiene una sórdida esterilla que amarillea. Está posada sobre las baldosas, de esquina a esquina, y las dos mujeres, que lloran en los ángulos, tienen en las manos cruzadas el reflejo de las velas. Dorio De Gadex, Clarinito y Pérez, arrimados a la pared, son tres fúnebres fantoches en hilera. Repentinamente, entrometiéndose en el duelo, cloquea un rajado repique, la campanilla de la escalera.
+P|A las cuatro viene la funeraria.
+P|No puede ser esa hora.
+P|¿Usted no tendrá reloj, Madama Collet?
+P|¡Que no me lo lleven todavía! ¡Que no me lo lleven!
+P|No puede ser la funeraria.
+P|¡Ninguno tiene reloj! ¡No hay duda que somos unos potentados!
+S|Claudinita, con andar cansado, trompicando, ha salido para abrir la puerta. Se oye rumor de voces, y la tos de Don Latino De Hispalis. La tos clásica del tabaco y del aguardiente.
+P|¡Ha muerto el Genio! ¡No llores, hija mía! ¡Ha muerto y no ha muerto!... ¡El Genio es inmortal!... ¡Consuélate, Claudinita, porque eres la hija del primer poeta español! ¡Que te sirva de consuelo saber que eres la hija de Víctor Hugo! ¡Una huérfana ilustre! ¡Déjame que te abrace!
+P|¡Usted está borracho!
+P|Lo parezco. Sin duda lo parezco. ¡Es el dolor!
+P|¡Si tumba el vaho de aguardiente!
+P|¡Es el dolor! ¡Un efecto del dolor, estudiado científicamente por los alemanes!
+S|Don Latino tambaléase en la puerta, con el cartapacio de las revistas en bandolera y el perrillo sin rabo y sin orejas, entre las cañotas. Trae los espejuelos alzados sobre la frente y se limpia los ojos chispones con un pañuelo mugriento.
+P|Viene a dos velas.
+P|Para el funeral. ¡Siempre correcto!
+P|Max, hermano mío, si menor en años...
+P|Mayor en prez. Nos adivinamos.
+P|¡Justamente! Tú lo has dicho, bellaco.
+P|Antes lo había dicho el maestro.
+P|¡Madama Collet, es usted una viuda ilustre, y en medio de su intenso dolor debe usted sentirse orgullosa de haber sido la compañera del primer poeta español! ¡Murió pobre, como debe morir el Genio! ¡Max, ya no tienes una palabra para tu perro fiel! ¡Max. hermano mío, si menor en años, mayor en...
+P|Prez!
+P|Ya podías haberme dejado terminar, majadero. ¡Jóvenes modernistas, ha muerto el maestro, y os llamáis todos de tú en el Parnaso Hispano-Americano! ¡Yo tenía apostado con este cadáver frío sobre cuál de los dos emprendería primero el viaje, y me ha vencido en esto como en todo! ¡Cuántas veces cruzamos la misma apuesta! ¿Te acuerdas, hermano? ¡Te has muerto de hambre, como yo voy a morir, como moriremos todos los españoles dignos! ¡Te habían cerrado todas las puertas, y te has vengado muriéndote de hambre! ¡Bien hecho! ¡Que caiga esa vergüenza sobre los cabrones de la Academia! ¡En España es un delito el talento!
+S|Don Latino se dobla y besa la frente del muerto. El perrillo, a los pies de la caja, entre el reflejo inquietante de las velas, agita el muñón del rabo. Madama Collet levanta la cabeza con un gesto doloroso dirigido a los tres fantoches en hilera.
+P|¡Por Dios, llévenselo ustedes al pasillo!
+P|Habrá que darle amoniaco. ¡La trae de alivio!
+P|¡Pues que la duerma! ¡Le tengo una hincha!
+P|¡Claudinita! ¡Flor temprana!
+P|¡Si papá no sale ayer tarde, está vivo!
+P|¡Claudinita, me acusas injustamente! ¡Estás ofuscada por el dolor!
+P|¡Golfo! ¡Siempre estorbando!
+P|¡Yo sé que tú me quieres!
+P|Vamos a darnos unas vueltas en el corredor, Don Latino.
+P|¡Vamos! ¡Esta escena es demasiado dolorosa!
+P|Pues no la prolonguemos.
+S|Dorio De Gadex empuja al encurdado vejete y le va llevando hacia la puerta. El perrillo salta por encima de la caja y los sigue, dejando en el salto torcida una vela. En la fila de fantoches pegados a la pared queda un hueco lleno de sugestiones.
+P|Te convido a unas tintas. ¿Qué dices?
+P|Ya sabe usted que soy un hombre complaciente, Don Latino.
+S|Desaparecen en la rojiza penumbra del corredor, largo y triste, con el gato al pie del botijo y el reflejo almagreño de los baldosines. Claudinita los ve salir encendidos de ira los ojos. Después se hinca a llorar con una crisis nerviosa y muerde el pañuelo que estruja entre las manos.
+P|¡Me crispa! ¡No puedo verlo! ¡Ese hombre es el asesino de papá!
+P|¡Por Dios, hija, no digas demencias!
+P|El único asesino. ¡Le aborrezco!
+P|Era fatal que llegase este momento, y sabes que lo esperábamos... Le mató la tristeza de verse ciego... No podía trabajar, y descansa.
+P|Verá usted cómo ahora todos reconocen su talento.
+P|Ya no proyecta sombra.
+P|Sin el aplauso de ustedes, los jóvenes que luchan pasando mil miserias, hubiera estado solo estos últimos tiempos.
+P|¡Más solo que estaba!
+P|El maestro era un rebelde como nosotros.
+P|¡Max, pobre amigo, tú solo te mataste! ¡Tú solamente, sin acordar de estas pobres mujeres! ¡Y toda la vida has trabajado para matarte!
+P|¡Papá era muy bueno!
+P|¡Sólo fue malo para sí!
+S|Aparece en la puerta un hombre alto, abotonado, escueto, grandes barbas rojas de judío anarquista y ojos envidiosos, bajo el testuz de bisonte obstinado. Es un fripón periodista alemán, fichado en los registros policiacos como anarquista ruso y conocido por el falso nombre de Basilio Soulinake.
+P|¡Paz a todos!
+P|¡Perdone usted, Basilio! ¡No tenemos siquiera una silla que ofrecerle!
+P|¡Oh! No se preocupe usted de mi persona. De ninguna manera. No lo consiento, Madama Collet. Y me dispense usted a mí si llego con algún retraso, como la guardia valona, que dicen ustedes siempre los españoles. En la taberna donde comemos algunos emigrados eslavos, acabo de tener la referencia de que había muerto mi amigo Máximo Estrella. Me ha dado el periódico el chico de Pica Lagartos. ¿La muerte vino de improviso?
+P|¡Un colapso! No se cuidaba.
+P|¿Quién certificó la defunción? En España son muy buenos los médicos y como los mejores de otros países. Sin embargo, una autoridad completamente mundial les falta a los españoles. No es como sucede en Alemania. Yo tengo estudiado durante diez años medicina, y no soy doctor. Mi primera impresión al entrar aquí ha sido la de hallarme en presencia de un hombre dormido, nunca de un muerto. Y en esa primera impresión me empecino, como dicen los españoles. Madama Collet, tiene usted una gran responsabilidad. ¡Mi amigo Max Estrella no está muerto! Presenta todos los caracteres de un interesante caso de catalepsia.
+S|Madama Collet y Claudinita se abrazan con un gran grito, repentinamente aguzados los ojos, manos crispadas, revolantes sobre la frente las sortijillas del pelo. Señá Flora, la portera, llega acezando. La pregonan el resuello y sus chancletas.
+P|¡Ahí está la carroza! ¿Son ustedes suficientes para bajar el cuerpo del finado difunto? Si no lo son, subirá mi esposo.
+P|Gracias, nosotros nos bastamos.
+P|Señora portera, usted debe comunicarle al conductor del coche fúnebre que se aplaza el sepelio. Y que se vaya con viento fresco. ¿No es así como dicen ustedes los españoles?
+P|¡Que espere!... Puede usted equivocarse, Basilio.
+P|¡Hay bombines y javiques en la calle, y si no me engaño, un coche de galones! ¡Cuidado lo que es el mundo, parece el entierro de un concejal! ¡No me pensaba yo que tanto representaba el finado! Madama Collet, ¿qué razón le doy al gachó de la carroza? ¡Porque ese tío no se espera! Dice que tiene otro viaje en la calle de Carlos Rubio.
+P|¡Válgame Dios! Yo estoy incierta.
+P|¡Cuatro Caminos! ¡Hay que ver, más de una legua, y no le queda tarde!
+P|¡Que se vaya! ¡Que no vuelva!
+P|Si no puede esperar... Sin duda...
+P|Le cuesta a usted el doble, total por tener el fiambre unas horas más en casa. ¡Deje usted que se lo lleven, Madama Collet!
+P|¡Y si no estuviese muerto!
+P|¿Que no está muerto? Ustedes sin salir de este aire no perciben la corrupción que tiene.
+P|¿Podría usted decirme, señora portera, si tiene usted hechos estudios universitarios acerca de medicina? Si usted los tiene, yo me callo y no hablo más. Pero si usted no los tiene, me permitirá de no darle beligerancia, cuando yo soy a decir que no está muerto, sino cataléptico.
+P|¡Que no está muerto! ¡Muerto y corrupto!
+P|Usted, sin estudios universitarios, no puede tener conmigo controversia. La democracia no excluye las categorías técnicas, ya usted lo sabe, señora portera.
+P|¡Un rato largo! ¿Conque no está muerto? ¡Habría usted de estar como él! Madama Collet, ¿tiene usted un espejo? Se lo aplicamos a la boca, y verán ustedes cómo no lo alienta.
+P|¡Ésa es una comprobación anticientífica! Como dicen siempre ustedes todos los españoles: Un me alegro mucho de verte bueno. ¿No es así como dicen?
+P|Usted ha venido aquí a dar un mitin y a soliviantar con alicantinas a estas pobres mujeres, que harto tienen con sus penas y sus deudas.
+P|Puede usted seguir hablando, señora portera. Ya ve usted que yo no la interrumpo.
+S|Aparece en el marco de la puerta el cochero de la carroza fúnebre: Narices de borracho, chisterón viejo con escarapela, casaca de un luto raido, peluca de estopa y canillejas negras.
+P|¡Que son las cuatro, y tengo otro parroquiano en la calle de Carlos Rubio!
+P|Madama Collet, yo me hago responsable, porque he visto y estudiado casos de catalepsia en los hospitales de Alemania. ¡Su esposo de usted, mi amigo y compañero Max Estrella, no está muerto!
+P|¿Quiere usted no armar escándalo, caballero? Madama Collet, ¿dónde tiene usted un espejo?
+P|¡Es una prueba anticientífica!
+P|Póngale usted un mixto encendido en el dedo pulgar de la mano. Si se consume hasta el final, está tan fiambre como mi abuelo. ¡Y perdonen ustedes si he faltado!
+S|El Cochero fúnebre arrima la fusta a la pared y rasca una cerilla. Acucándose ante el ataúd, desenlaza las manos del muerto y una vuelve por la palma amarillenta. En la yema del pulgar le pone la cerilla luciente, que sigue ardiendo y agonizando. Claudinita, con un grito estridente, tuerce los ojos y comienza a batir la cabeza contra el suelo.
+P|¡Mi padre! ¡Mi padre! ¡Mi padre querido!
+H|Escena decimacuarta
+S|Un patio en el cementerio del Este. La tarde fría. El viento adusto. La luz de la tarde, sobre los muros de lápidas, tiene una aridez agresiva. Dos sepultureros apisonan la tierra de una fosa. Un momento suspenden la tarea: Sacan lumbre del yesquero, y las colillas de tras la oreja. Fuman sentados al pie del hoyo.
+P|Ese sujeto era un hombre de pluma.
+P|¡Pobre entierro ha tenido!
+P|Los papeles lo ponen por hombre de mérito.
+P|En España el mérito no se premia. Se premia el robar y el ser sinvergüenza. En España se premia todo lo malo.
+P|¡No hay que poner las cosas tan negras!
+P|¡Ahí tienes al Pollo del Arete!
+P|¿Y ése qué ha sacado?
+P|Pasarlo como un rey siendo un malasangre. Míralo, disfrutando a la viuda de un concejal.
+P|Di un ladrón del Ayuntamiento.
+P|Ponlo por dicho. ¿Te parece que una mujer de posición se chifle asi por un tal sujeto?
+P|Cegueras. Es propio del sexo.
+P|¡Ahí tienes el mérito que triunfa! ¡Y para todo la misma ley!
+P|¿Tú conoces a la sujeta? ¿Es buena mujer?
+P|Una mujer en carnes. ¡Al andar, unas nalgas que le tiemblan! ¡Buena!
+P|¡Releche con la suerte de ese gatera!
+S|Por una calle de lápidas y cruces, vienen paseando y dialogando dos sombras rezagadas, dos amigos en el cortejo fúnebre de Máximo Estrella. Hablan en voz baja y caminan lentos, parecen almas imbuídas del respeto religioso de la muerte. El uno, viejo caballero con la barba toda de nieve, y capa española sobre los hombros, es el céltico Marqués De Bradomín. El otro es el índico y profundo Rubén Darío.
+P|¡Es pavorosamente significativo que al cabo de tantos años nos hayamos encontrado en un cementerio!
+P|En el Campo Santo. Bajo ese nombre adquiere una significación distinta nuestro encuentro, querido Rubén.
+P|Es verdad. Ni cementerio ni necrópolis. Son nombres de una frialdad triste y horrible, como estudiar Gramática. Marqués, ¿qué emoción tiene para usted necrópolis?
+P|La de una pedantería académica.
+P|Necrópolis, para mí es como el fin de todo, dice lo irreparable y lo horrible, el perecer sin esperanza en el cuarto de un Hotel. ¿Y Campo Santo? Campo Santo tiene una lámpara.
+P|Tiene una cúpula dorada. Bajo ella resuena religiosamente el terrible clarín extraordinario, querido Rubén.
+P|Marqués, la muerte muchas veces sería amable si no existiese el terror de lo incierto. ¡Yo hubiera sido feliz hace tres mil años en Atenas!
+P|Yo no cambio mi bautismo de cristiano por la sonrisa de un cínico griego. Yo espero ser eterno por mis pecados.
+P|¡Admirable!
+P|En Grecia quizá fuese la vida más serena que la vida nuestra...
+P|¡ Solamente aquellos hombres han sabido divinizarla!
+P|Nosotros divinizamos la muerte. No es más que un instante la vida, la única verdad es la muerte... Y de las muertes, yo prefiero la muerte cristiana.
+P|¡Admirable filosofía de hidalgo español! ¡Admirable! ¡Marqués, no hablemos más de Ella!
+S|Callan y caminan en silencio. Los Sepultureros, acabada de apisonar la tierra, uno tras otro beben a chorro de un mismo botijo. Sobre el muro de lápidas blancas, las dos figuras acentúan su contorno negro. Rubén Darío y El Marqués De Bradomín se detienen ante la mancha oscura de la tierra removida.
+P|Marqués, ¿cómo ha llegado usted a ser amigo de Máximo Estrella?
+P|Max era hijo de un capitán carlista que murió a mi lado en la guerra. ¿Él contaba otra cosa?
+P|Contaba que ustedes se habían batido juntos en una revolución, allá en Méjico.
+P|¡Qué fantasía! Max nació treinta años después de mi viaje a Méjico. ¿Sabe usted la edad que yo tengo? Me falta muy poco para llevar un siglo a cuestas. Pronto acabaré, querido poeta. RUBÉN: ¡Usted es eterno, Marqués!
+P|¡Eso me temo, pero paciencia!
+S|Las sombras negras de Los Sepultureros -al hombro las azadas lucientes- se acercan por la calle de tumbas. Se acercan.
+P|¿Serán filósofos, como los de Ofelia?
+P|¿Ha conocido usted alguna Ofelia, Marqués?
+P|En la edad del pavo todas las niñas son Ofelias. Era muy pava aquella criatura, querido Rubén. ¡Y el príncipe, como todos los príncipes, un babieca!
+P|¿No ama usted al divino William?
+P|En el tiempo de mis veleidades literarias, lo elegí por maestro. ¡Es admirable! Con un filósofo tímido y una niña boba en fuerza de inocencia, ha realizado el prodigio de crear la más bella tragedia. Querido Rubén, Hamlet y Ofelia, en nuestra dramática española, serían dos tipos regocijados. ¡Un tímido y una niña boba! ¡Lo que hubieran hecho los gloriosos hermanos Quintero!
+P|Todos tenemos algo de Hamletos.
+P|Usted, que aún galantea. Yo, con mi carga de años, estoy más próximo a ser la calavera de Yorik.
+P|Caballeros, si ustedes buscan la salida, vengan con nosotros. Se va a cerrar.
+P|Rubén, ¿qué le parece a usted quedarnos dentro?
+P|¡ Horrible!
+P|Pues entonces sigamos a estos dos.
+P|Marqués, ¿quiere usted que mañana volvamos para poner una cruz sobre la sepultura de nuestro amigo?
+P|¡Mañana! Mañana habremos los dos olvidado ese cristiano propósito.
+P|¡Acaso!
+S|En silencio y retardándose, siguen por el camino de Los Sepultureros, que, al revolver los ángulos de las calles de tumbas, se detienen a esperarlos.
+P|Los años no me permiten caminar más de prisa.
+P|No se excuse usted, caballero.
+P|Pocos me faltan para el siglo.
+P|¡Ya habrá usted visto entierros!
+P|Si no sois muy antiguos en el oficio, probablemente más que vosotros. ¿Y se muere mucha gente esta temporada?
+P|No falta faena. Niños y viejos.
+P|La caída de la hoja siempre trae lo suyo.
+P|¿A vosotros os pagan por entierro?
+P|Nos pagan un jornal de tres pesetas, caiga lo que caiga. Hoy, a como está la vida, ni para mal comer. Alguna otra cosa se saca. Total, miseria.
+P|En todo va la suerte. Eso lo primero.
+P|Hay familias que al perder un miembro, por cuidarle de la sepultura, pagan uno o dos o medio. Hay quien ofrece y no paga. Las más de las familias pagan los primeros meses. Y lo que es el año, de ciento, una. ¡Dura poco la pena!
+P|¿No habéis conocido ninguna viuda inconsolable?
+P|¡Ninguna! Pero pudiera haberla.
+P|¿Ni siquiera habéis oído hablar de Artemisa y Mausoleo?
+P|Por mi parte, ni la menor cosa.
+P|Vienen a ser tantas las parentelas que concurren a estos lugares, que no es fácil conocerlas a todas.
+S|Caminan muy despacio. Rubén, meditabundo, escribe alguna palabra en el sobre de una carta. Llegan a la puerta, rechina la verja negra. El Marqués, benevolente, saca de la capa su mano de marfil y reparte entre los enterradores algún dinero.
+P|No sabéis mitología, pero sois dos filósofos estoicos. Que sigáis viendo muchos entierros.
+P|Lo que usted ordene. ¡Muy agradecido!
+P|Igualmente. Para servir a usted, caballero.
+S|Quitándose las gorras, saludan y se alejan. El Marqués De Bradomín, con una sonrisa, se arrebuja en la capa. Rubén Darío conserva siempre en la mano el sobre de la carta donde ha escrito escasos renglones. Y dejando el socaire de unas bardas, se acerca a la puerta del cementerio el coche del viejo Marqués.
+P|¿Son versos, Rubén? ¿Quiere usted leérmelos?
+P|Cuando los haya depurado. Todavía son un monstruo.
+P|Querido Rubén, los versos debieran publicarse con todo su proceso, desde lo que usted llama monstruo hasta la manera definitiva. Tendrían entonces un valor como las Pruebas de aguafuerte. ¿Pero usted no quiere leérmelos?
+P|Mañana, Marqués.
+P|Ante mis años y a la Puerta de un cementerio, no se debe pronunciar la palabra mañana. En fin, montemos en el coche, que aún hemos de visitar a un bandolero. Quiero que usted me ayude a venderle a un editor el manuscrito de mis Memorias. Necesito dinero. Estoy completamente arruinado desde que tuve la mala idea de recogerme a mi Pazo de Bradomín. ¡No me han arruinado las mujeres, con haberlas amado tanto, y me arruina la agricultura!
+P|¡Admirable!
+P|Mis Memorias se publicarán después de mi muerte. Voy a venderlas como si vendiese el esqueleto. Ayudémonos.
+H|Escena última
+S|La taberna de Pica Lagartos: Lobreguez con un temblor de acetileno: Don Latino De Hispalis, ante el mostrador, insiste y tartajea convidando al Pollo Del Pay-Pay. Entre traspiés y traspiés, da la pelma.
+P|¡Beba usted, amigo! ¡Usted no sabe la pena que rebosa mi corazón! ¡Beba usted! ¡Yo bebo sin dejar cortinas!
+P|Porque usted no es castizo.
+P|¡Hoy hemos enterrado al primer poeta de España! ¡Cuatro amigos en el cementerio! ¡Acabóse! ¡Ni una cabrona representación de la Docta Casa! ¿Qué te parece, Venancio?
+P|Lo que usted guste, Don Latí.
+P|¡El Genio brilla con luz propia! ¿Que no, Pollo?
+P|Que sí, Don Latino.
+P|¡Yo he tomado sobre mis hombros publicar sus escritos! ¡La honrosa tarea! ¡Soy su fideicomisario! Nos lega una novela social que está a la altura de Los Miserables. ¡Soy su fideicomisario! Y el producto íntegro de todas las obras, para la familia. ¡Y no me importa arruinarme publicándolas! ¡Son deberes de la amistad! ¡Semejante al nocturno peregrino, mi esperanza inmortal no mira al suelo! ¡Señores, ni una representación de la Docta Casa! ¡Eso, sí, los cuatro amigos, cuatro personalidades! El Ministro de la Gobernación, Bradomín, Rubén y este ciudadano. ¿Que no, Pollo?
+P|Por mí, ya puede usted contar que estuvo la Infanta.
+P|Me parece mucho decir que se halló la política representada en el entierro de Don Max. Y si usted lo divulga, hasta podrá tener para usted malas resultas.
+P|¡Yo no miento! ¡Estuvo en el cementerio el Ministro de la Gobernanción! ¡Nos hemos saludado!
+P|¡Sería Fantomas!
+P|Calla tú, mamarracho. ¡Don Antonio Maura estuvo a dar el pésame en la casa del Gallo!
+P|José Gómez, Gallito, era un astro, y murió en la plaza, toreando muy requetebién, porque ha sido el rey de la tauromaquia.
+P|¿Y Terremoto, u séase Juan Belmonte?
+P|¡Un intelectual!
+P|Niño, otra ronda. ¡Hoy es el día más triste de mi vida! ¡Perdí un amigo fraternal y un maestro! Por eso bebo, Venancio.
+P|¡Que ya sube una barbaridad la cuenta, Don Latí! Tantéese usted, a ver el dinero que tiene. ¡No sea caso!
+P|Tengo dinero para comprarte a ti, con tu tabernáculo.
+S|Saca de las profundidades del carrik un manojo de billetes y lo arroja sobre el mostrador, bajo la mirada torcida del chulo y el gesto atónito de Venancio. El Chico De La Taberna se agacha por alcanzar entre las zancas barrosas del curda un billete revolante. La niña Pisa Bien, amurriada en un rincón de la tasca, se retira el pañuelo de la frente, y espabilándose fisga hacia el mostrador.
+P|¿Ha heredado usted, Don Latí?
+P|Me debían unas pocas pesetas, y me las han pagado.
+P|No son unas pocas.
+P|¡Diez mil del ala!
+P|¿Te deben algo?
+P|¡Naturaca! Usted ha cobrado un décimo que yo he vendido.
+P|No es verdad.
+P|El 5775.
+P|¡Ese mismo número llevaba Don Max!
+P|A fin de cuentas no lo quiso, y se lo llevó Don Latí. Y el tío roña aún no ha sido para darme la propi.
+P|¡Se me había olvidado!
+P|Mala memoria que usted se gasta.
+P|Te la daré.
+P|Usted verá lo que hace.
+P|Confía en mi generosidad ilimitada.
+S|El Chico De La Taberna se desliza tras el patrón, y a hurto, con una seña disimulada, le tira del mandil. Pica Lagartos echa la llave al cajón y se junta con el chaval en la oscuridad donde están amontonadas las corambres. Hablan expresivos y secretos, pero atentos al mostrador con el ojo y la oreja. La Pisa Bien le guiña a Don Latino.
+P|Don Latí, ¡me dotará usted con esas diez mil del ala!
+P|Te pondré piso.
+P|¡Olé los hombres!
+P|Crispín, hijo mío, una copa de anisete a esta madama.
+P|¡Va, Don Latí!
+P|¿Te estás confesando?
+P|Don Latí, ¡está usted la mar de simpático! ¡Es usted un flamenco! ¡Amos, deje de pellizcarme!
+P|Don Latino, pupila, que le hacen guiños a esos capitales.
+P|¡Si llevábamos el décimo por mitad! Don Latí una cincuenta, y esta servidora de ustedes, seis reales.
+P|¡Es un atraco, Enriqueta!
+P|¡Deje usted las espantás para el calvorota! ¡Vuelta a pellizcarme! ¡Parece usted un chivo loco!
+P|No le conviene a usted esa gachí.
+P|En una semana lo enterraba.
+P|Ya se vería.
+P|A usted le conviene una mujer con los calores extinguidos.
+P|A usted le conviene mi mamá. Pero mi mamá es una viuda decente, y para sacar algo, hay que llevarla a la calle de la Pasa.
+P|Yo soy un apóstol del amor libre.
+P|Usted se ajunta con mi mamá y conmigo, para ser el caballero formal que se anuncia en La Corres. Precisamente se cansó de dar la pelma un huésped que teníamos, y dejó una alcoba, para usted la propia. ¿Adónde va usted, Don Latí?
+P|A cambiar el agua de las aceitunas. Vuelvo. No te apures, rica. Espérame.
+P|Don Latí, soy una mujer celosa. Yo le acompaño.
+S|Pica Lagartos deja los secretos con el chaval, y en dos trancos cruza el vano de la tasca. Por el cuello del carrik detiene al curda en el umbral de la puerta. Don Latino guiña el ojo, tuerce la jeta, y desmaya los brazos haciendo el pelele.
+P|¡No seas vándalo!
+P|Tenemos que hablar. Aquí el difunto ha dejado una pella que pasa de tres mil reales -ya se verán las cuentas- y considero que debe usted abonarla.
+P|¿Por qué razón?
+P|Porque es usted un vivales, y no hablemos más.
+S|El Pollo Del Pay-Pay se acerca ondulante. A intento deja ver que está empalmado, tose y se rasca ladeando la gorra. Enriqueta tercia el mantón y ocultamente abre una navajilla.
+P|Aquí todos estamos con la pupila dilatada, y tenemos opción a darle un vistazo a ese kilo de billetaje.
+P|Don Latí se va a la calle de ganchete con mangue.
+P|¡Fantasía!
+P|Tú, pelmazo, guarda la herramienta y no busques camorra.
+P|¡Don Latí, usted ha dado un golpe en el Banco!
+P|Naturalmente.
+P|¡Que te frían un huevo, Nicanor! A Don Latí le ha caído la lotería en un décimo del 5775. ¡Yo se lo he vendido!
+P|El muchacho y un servidor lo hemos presenciado. ¿Es verdad, muchacho?
+P|¡Así es!
+P|¡Miau!
+S|Pacona, una vieja que hace celestinazgo y vende periódicos, entra en la taberna con su hatillo de papel impreso, y deja sobre el mostrador un número de El Heraldo. Sale como entró, fisgona y callada. Solamente en la puerta, mirando a las estrellas, vuelve a gritar su pregón.
+P|¡Heraldo de Madrid! ¡Corres! ¡Heraldo! ¡Muerte misteriosa de dos señoras en la calle de Bastardillos! ¡Corres! ¡Heraldo!
+S|Don Latino rompe el grupo y se acerca al mostrador, huraño y enigmático. En el círculo luminoso de la lámpara, con el periódico abierto a dos manos, tartamudea la lectura de los títulos con que adereza el reportero el suceso de la calle de Bastardillos. Y le miran los otros con extrañeza burlona, como a un viejo chiflado.
+P|El tufo de un brasero. Dos señoras asfixiadas. Lo que dice una vecina. Doña Vicenta no sabe nada. ¿Crimen o suicidio? ¡Misterio!
+P|Mire usted si el papel trae los nombres de las gachís, Don Latí.
+P|Voy a verlo.
+P|¡No se cargue usted la cabezota, tío lila!
+P|Don Latí, vámonos.
+P|¡Aventuro que esas dos sujetas son la esposa y la hija de Don Máximo!
+P|¡Absurdo! ¿Por qué habían de matarse?
+P|¡Pasaban muchas fatigas!
+P|Estaban acostumbradas. Solamente tendría una explicación. ¡El dolor por la pérdida de aquel astro!
+P|Ahora usted hubiera podido socorrerlas.
+P|¡Naturalmente! ¡Y con el corazón que yo tengo, Venancio!
+P|¡El mundo es una controversia!
+P|¡Un esperpento!
+P|¡Cráneo previlegiado!

@@ -1,0 +1,237 @@
+{
+  "slug": "voltaire-zadig",
+  "title": "Zadig, o el destino",
+  "author": "Voltaire",
+  "author_route": "/libros-pdf-gratis/autores/voltaire/",
+  "book_route": "/voltaire-zadig/",
+  "translator": "José Marchena",
+  "edition": "Burdeos, 1819",
+  "source_url": "https://es.wikisource.org/wiki/Zadig%2C_o_el_Destino",
+  "source_revision": 1214763,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "dedicatoria-de-zadig-a-la-sultana-cheraah-por-sadi",
+      "title": "Dedicatoria de Zadig a la sultana Cheraah, por Sadi",
+      "summary": "Empieza: «Embeleso de las niñas de los ojos, tormento del corazon, luz del ánimo, no beso yo el polvo de tus piés, porque…»",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "slug": "capitulo-1",
+      "title": "I. El tuerto",
+      "summary": "Empieza: «Reynando el rey Moabdar, vivia en Babilonia un mozo llamado Zadig, de buena índole, que con la educacion se habia mejorado. Sabia…»",
+      "start": 6,
+      "end": 8
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "II. Las narices",
+      "summary": "Empieza: «Un dia que volvia del paseo Azora toda inmutada, y haciendo descompuestos ademanes: ¿Qué tienes, querida? le dixo Zadig; ¿qué es lo…»",
+      "start": 9,
+      "end": 12
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "III. El perro y el caballo",
+      "summary": "Empieza: «EN breve experimentó Zadig que, como dice el libro de Zenda-Vesta, si el primer mes de matrimonio es la luna de miel,…»",
+      "start": 13,
+      "end": 22
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "IV. El envidioso",
+      "summary": "Empieza: «Apeló Zadig á la amistad y á la filosofia para consolarse de los males que le habia hecho la fortuna. En un…»",
+      "start": 23,
+      "end": 33
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "V. El generoso",
+      "summary": "Empieza: «Vino la época de la celebridad de una solemne fiesta que se hacia cada cinco años, porque era estilo en Babilonia declarar…»",
+      "start": 34,
+      "end": 41
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "VI. El ministro",
+      "summary": "Empieza: «Habiendo perdido el rey á su primer ministro, escogió á Zadig para desempeñar este cargo. Todas las hermosas damas de Babilonia aplaudiéron…»",
+      "start": 42,
+      "end": 51
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "VII. Disputas y audiencias",
+      "summary": "Empieza: «De este modo acreditaba Zadig cada dia su agudo ingenío y su buen corazon; todos le miraban con admiracion, y le amaban…»",
+      "start": 52,
+      "end": 59
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "VIII. Los zelos",
+      "summary": "Empieza: «De su misma dicha vino la desgracia de Zadig, pero mas aun de su mérito. Todos los dias conversaba con el rey,…»",
+      "start": 60,
+      "end": 68
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "IX. La muger aporreada",
+      "summary": "Empieza: «Encaminabase Zadig en la direccion de las estrellas, y le guiaban la constelacion de Orion y el luciente astro de Sirio hácia…»",
+      "start": 69,
+      "end": 70
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "X. La esclavitud",
+      "summary": "Empieza: «Entrando en la aldea egipcia, se vió cercado de gente que decia á gritos: Este es el robador de la hermosa Misuf,…»",
+      "start": 71,
+      "end": 77
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "XI. La hoguera",
+      "summary": "Empieza: «Embelesado Setoc hizo de sti esclavo su mas íntimo amigo, y no podia vivir sin él, como habia sucedido al rey de…»",
+      "start": 78,
+      "end": 81
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "XII. La cena",
+      "summary": "Empieza: «No pudiendo Setoc apartarse de este hombre en quien residia la sabiduría, le llevó consigoá la gran feria de Basora, donde se…»",
+      "start": 82,
+      "end": 84
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "XIII. Las citas",
+      "summary": "Empieza: «Miéntras este viage á Basora, concertáron los sacerdotes de las estrellas el castigo de Zadig. Pertenecíanles por derecho divino las piedras preciosas…»",
+      "start": 85,
+      "end": 88
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "XIV. El bayle",
+      "summary": "Empieza: «Tenia que ir Setoc para negocios de su tráfico á la isla de Serendib; pero el primer mes de casados, que, como…»",
+      "start": 89,
+      "end": 94
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "XV. Los ojos azules",
+      "summary": "Empieza: «Mi cuerpo y mi corazon, dixo el rey á Zadig… Oyendo estas palabras no pudo ménos el Babilonio de interrumpir á su…»",
+      "start": 95,
+      "end": 101
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "XVI. El bandolero",
+      "summary": "Empieza: «Al llegar á las fronteras que separan la Arabia petrea de la Syria, y al pasar por junto á un fuerte castillo,…»",
+      "start": 102,
+      "end": 109
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "XVII. El pescador",
+      "summary": "Empieza: «A pocas leguas del castillo de Arbogad, se encontró á orillas de un ríachuelo, lamentando siempre su suerte, y mirándose como el…»",
+      "start": 110,
+      "end": 118
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "XVIII. El basilisco",
+      "summary": "Empieza: «Llegó Zadig á un hermoso prado, donde vió una muchedumbre de mugeres que andaban buscando solícitas cosa que parecia que habian perdido.…»",
+      "start": 119,
+      "end": 131
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "XIX. Las justas",
+      "summary": "Empieza: «Fué recibida la reyna en Babilonia con aquel júbilo con que se recibe siempre una princesa hermosa y desdichada. Entónces Babilonia parecia…»",
+      "start": 132,
+      "end": 138
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "XX. El ermitaño",
+      "summary": "Empieza: «Caminando, como hemos dicho, se encontró con un ermitaño cuya luenga barba descendia hasta el estómago. Llevaba este un libro que iba…»",
+      "start": 139,
+      "end": 150
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "XXI. Las adivinanzas",
+      "summary": "Empieza: «Fuera de sí Zadig, como uno que ha visto caer junto á sí un rayo, caminaba desatentado. Llegó á Babilonia el dia…»",
+      "start": 151,
+      "end": 158
+    }
+  ],
+  "description": "Zadig, o el destino de Voltaire: resumen, ideas principales y el libro completo para leer online gratis o descargar en PDF. Cuento filosófico sobre el destino y la providencia.",
+  "intro": "<p>Zadig es un joven sabio y virtuoso de Babilonia que solo desea ser feliz, pero cada una de sus buenas acciones le trae una desgracia y algunas torpezas le traen fortuna. Es traicionado en el amor, acusado injustamente, nombrado primer ministro del rey Moabdar y obligado a huir por el amor que siente por la reina Astarté.</p><p>Aquí puedes leer Zadig, o el destino completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 31,
+    "art": {
+      "file": "voltaire-zadig.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/voltaire-zadig/ilustracion.jpg",
+      "credit": "Jean-Michel Moreau, ilustración para Zadig (edición de Kehl). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Cuento filosófico",
+    "unidad": "capítulos",
+    "tema": "el destino y la providencia",
+    "resumen": [
+      "Zadig es un joven sabio y virtuoso de Babilonia que solo desea ser feliz, pero cada una de sus buenas acciones le trae una desgracia y algunas torpezas le traen fortuna. Es traicionado en el amor, acusado injustamente, nombrado primer ministro del rey Moabdar y obligado a huir por el amor que siente por la reina Astarté.",
+      "En su exilio es esclavo, consejero, juez y viajero. Un ermitaño, que resulta ser el ángel Jesrad, le muestra que incluso los hechos que parecen injustos forman parte de un orden superior. Al final Zadig vence en un torneo, resuelve los enigmas de los sabios, se casa con Astarté y gobierna Babilonia con justicia."
+    ],
+    "personajes": [
+      [
+        "Zadig",
+        "Joven babilonio sabio y honrado, zarandeado por el destino."
+      ],
+      [
+        "Astarté",
+        "Reina de Babilonia, amada de Zadig."
+      ],
+      [
+        "Moabdar",
+        "Rey de Babilonia, celoso y caprichoso."
+      ],
+      [
+        "Sétoc",
+        "Mercader árabe que compra a Zadig como esclavo y se hace su amigo."
+      ],
+      [
+        "Jesrad",
+        "Ángel disfrazado de ermitaño que le explica el sentido del destino."
+      ]
+    ],
+    "ideas": [
+      "La virtud no garantiza la felicidad en este mundo.",
+      "El destino parece arbitrario, pero quizá obedece a un orden que no comprendemos.",
+      "Sátira de la corte, de los celos y de la superstición.",
+      "El razonamiento por indicios: Zadig deduce cómo son el perro de la reina y el caballo del rey sin haberlos visto."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Zadig de Voltaire?",
+        "De un joven sabio de Babilonia que sufre toda clase de desgracias inmerecidas hasta que un ángel le revela que el destino obedece a un orden superior. Al final llega a ser rey."
+      ],
+      [
+        "¿Por qué Zadig se relaciona con la novela policiaca?",
+        "Porque en el capítulo del perro y el caballo Zadig deduce cómo eran los animales a partir de sus huellas, un método que anticipa a los detectives como Sherlock Holmes."
+      ],
+      [
+        "¿Cuál es el subtítulo de Zadig?",
+        "Zadig o el destino. Historia oriental."
+      ]
+    ],
+    "año": "1747"
+  }
+}

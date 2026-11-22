@@ -1,0 +1,69 @@
+{
+  "slug": "clitofon-platon",
+  "title": "Clitofón",
+  "author": "Platón",
+  "author_route": "/libros-pdf-gratis/autores/platon/",
+  "book_route": "/clitofon-platon/",
+  "translator": "Patricio de Azcárate",
+  "edition": "Obras completas de Platón, tomo I. Madrid: Medina y Navarro, 1871",
+  "source_url": "https://es.wikisource.org/wiki/Clitof%C3%B3n",
+  "source_revision": 1274326,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "parte-1",
+      "title": "Parte 1",
+      "summary": "Empieza: «Sócrates: Clitofón, hijo de Aristonimo, me han dicho hace un instante, que en una conversación que has tenido con Licias, has criticado…»",
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "description": "Clitofón de Platón: resumen, personajes e ideas principales, y el texto completo para leer online gratis o descargar en PDF. Diálogo sobre la exhortación a la justicia.",
+  "intro": "<p>Sócrates se entera de que Clitofón le ha criticado ante Lisias y elogiado al sofista Trasímaco. Clitofón le explica sus razones: los discursos de Sócrates son magníficos para animar a cuidar el alma y practicar la justicia, pero nunca dicen qué es exactamente la justicia ni cómo se consigue.</p><p>Aquí puedes leer Clitofón completo, dividido en partes, con las notas de la traducción de Patricio de Azcárate. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 15,
+    "art": {
+      "file": "clitofon-platon.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/clitofon-platon/ilustracion.jpg",
+      "credit": "Busto de Sócrates, copia romana del siglo I, Museo del Louvre. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "tema": "la exhortación a la justicia",
+    "resumen": [
+      "Sócrates se entera de que Clitofón le ha criticado ante Lisias y elogiado al sofista Trasímaco. Clitofón le explica sus razones: los discursos de Sócrates son magníficos para animar a cuidar el alma y practicar la justicia, pero nunca dicen qué es exactamente la justicia ni cómo se consigue.",
+      "Es un diálogo muy breve y casi sin respuesta: Sócrates escucha y la obra termina con el reproche de Clitofón. Por eso se ha leído como una crítica al método socrático o como un fragmento incompleto."
+    ],
+    "personajes": [
+      [
+        "Sócrates",
+        "Escucha la crítica sin replicar."
+      ],
+      [
+        "Clitofón",
+        "Ateniense que aparece también en La República junto a Trasímaco."
+      ]
+    ],
+    "ideas": [
+      "Exhortar a la virtud no basta: hay que enseñar qué es.",
+      "La justicia como objeto de un saber que todavía hay que encontrar."
+    ],
+    "faq": [
+      [
+        "¿Por qué es tan corto el Clitofón?",
+        "Porque solo recoge el discurso de Clitofón, sin respuesta de Sócrates. Algunos creen que está incompleto o que es un prólogo a La República."
+      ],
+      [
+        "¿Es auténtico el Clitofón?",
+        "Su autoría es dudosa; se transmitió entre los diálogos de Platón pero muchos estudiosos lo consideran de otro autor."
+      ]
+    ]
+  }
+}

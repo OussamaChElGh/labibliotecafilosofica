@@ -1,0 +1,187 @@
+"""Segunda tanda de clásicos en español (mismo formato que clasicos.py).
+
+python textos/fichas/clasicos2.py  →  ficha, descripción, portada y resúmenes de capítulo en textos/<slug>.json.
+"""
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import clasicos  # noqa: E402
+
+NUMBER_START = 36
+
+BOOKS = {
+    "la-barraca-vicente-blasco-ibanez": {
+        "color": "ocre", "genero": "Novela", "tema": "la tierra, la miseria y el odio en la huerta valenciana",
+        "resumen": [
+            "En la huerta de Valencia, unas tierras llevan diez años abandonadas desde que el tío Barret, arruinado por el usurero don Salvador, lo mató y murió en presidio. Los huertanos han jurado que nadie volverá a cultivarlas, para que sirvan de escarmiento a los propietarios. Batiste llega con su mujer, Teresa, y sus hijos, levanta la barraca y se pone a trabajar esa tierra maldita.",
+            "La comunidad le declara la guerra: le niegan el agua del riego, apalean a sus hijos y el pequeño Pascualet muere de fiebres tras caer en una acequia. El velatorio parece traer la reconciliación, pero el odio vuelve, Batiste es herido en una emboscada de Pimentó y una noche le queman la barraca. La familia se marcha derrotada: la tierra sigue sin dueño y la huerta ha ganado.",
+        ],
+        "personajes": [("Batiste", "Labrador honrado y tenaz que intenta sacar adelante las tierras malditas del tío Barret."),
+                       ("Teresa", "Mujer de Batiste, trabajadora y sufrida."),
+                       ("Roseta", "Hija mayor de Batiste, que se enamora de Tonet, nieto del tío Tomba."),
+                       ("Pascualet", "El hijo pequeño de la familia, cuya muerte une por un momento a la huerta."),
+                       ("Pimentó", "Huertano holgazán y bravucón que encabeza el acoso contra Batiste."),
+                       ("El tío Barret", "Antiguo arrendatario, arruinado por el usurero, que acabó matándolo."),
+                       ("Don Salvador", "Propietario usurero de las tierras, asesinado por Barret.")],
+        "ideas": ["La solidaridad de los pobres puede volverse crueldad contra otro pobre.",
+                  "La lucha por la tierra y el agua en la huerta valenciana.",
+                  "El determinismo naturalista: el ambiente decide el destino de los personajes.",
+                  "La injusticia del sistema de arriendos y la usura."],
+        "faq": [("¿De qué trata La barraca?", "De una familia de labradores que cultiva unas tierras que la huerta ha declarado malditas. Los vecinos los acosan hasta destruir su barraca y obligarlos a marcharse."),
+                ("¿Por qué están malditas las tierras del tío Barret?", "Porque Barret, desahuciado por el usurero don Salvador, lo mató y murió en presidio. Los huertanos juraron que nadie las trabajaría para castigar a los propietarios."),
+                ("¿Cómo termina La barraca?", "Con el incendio de la barraca: la familia de Batiste lo pierde todo y abandona la huerta."),
+                ("¿A qué corriente pertenece?", "Al naturalismo. Es una de las novelas valencianas de Blasco Ibáñez, publicada en 1898.")],
+    },
+    "canas-y-barro-vicente-blasco-ibanez": {
+        "color": "verde", "genero": "Novela", "tema": "la vida, la pereza y la culpa en la Albufera de Valencia",
+        "resumen": [
+            "En El Palmar, entre los canales y arrozales de la Albufera, viven tres generaciones de los Paloma: el abuelo, barquero orgulloso; el padre, Toni, que trabaja sin descanso para ganar tierra al lago; y el nieto, Tonet, perezoso, que solo quiere vivir sin esfuerzo. Tonet se va a la guerra de Cuba y al volver encuentra a Neleta, su novia de infancia, casada con el rico tabernero Cañamel.",
+            "Neleta y Tonet se hacen amantes. Al morir Cañamel, su testamento prohíbe a la viuda volver a casarse o tener otra relación si quiere conservar la herencia. Cuando Neleta da a luz un hijo de Tonet, ella le pide que se deshaga de él para no perder la fortuna, y Tonet lo abandona en el lago. Atormentado por la culpa al descubrirse el crimen, se quita la vida y su padre lo entierra en silencio.",
+        ],
+        "personajes": [("Tonet", "Joven perezoso y débil, que encarna la degeneración de la familia Paloma."),
+                       ("Neleta", "Ambiciosa y sensual, prefiere la fortuna de Cañamel a cualquier otra cosa."),
+                       ("Toni", "Padre de Tonet, trabajador incansable que quiere convertir el lago en arrozal."),
+                       ("El tío Paloma", "El abuelo, barquero y pescador, apegado a la vida libre del lago."),
+                       ("Cañamel", "Tabernero rico y enfermo con quien se casa Neleta."),
+                       ("La Borda", "Hija adoptiva de Toni, humilde y fiel."),
+                       ("Sangonera", "Vagabundo borracho y amigo de Tonet.")],
+        "ideas": ["El ambiente de la Albufera moldea a los personajes, según el naturalismo.",
+                  "Tres generaciones, tres actitudes ante el trabajo y la tierra.",
+                  "La codicia y la pasión que llevan al crimen.",
+                  "La culpa como castigo interior."],
+        "faq": [("¿De qué trata Cañas y barro?", "De la familia Paloma en la Albufera y del amor culpable entre Tonet y Neleta, que termina en un infanticidio y en el suicidio de Tonet."),
+                ("¿Dónde transcurre Cañas y barro?", "En El Palmar y la Albufera de Valencia, entre canales, cañas y arrozales."),
+                ("¿Cómo termina Cañas y barro?", "Tonet, consumido por la culpa tras abandonar a su hijo en el lago, se suicida. Su padre lo entierra en silencio."),
+                ("¿Cuándo se publicó?", "En 1902. Es la última de las grandes novelas valencianas de Blasco Ibáñez.")],
+    },
+    "don-segundo-sombra-ricardo-guiraldes": {
+        "color": "ocre", "genero": "Novela", "tema": "la pampa, el gaucho y el aprendizaje de la vida",
+        "resumen": [
+            "Fabio Cáceres, un muchacho huérfano que vive con unas tías en un pueblo de la provincia de Buenos Aires, ve llegar a don Segundo Sombra, un gaucho resero tranquilo y lleno de saber. Fascinado, se escapa para seguirlo y pasa cinco años con él recorriendo la pampa, arreando ganado y aprendiendo el oficio y la vida.",
+            "Con don Segundo aprende a domar potros, a arrear tropas, a pelear, a escuchar cuentos junto al fogón y a soportar el cansancio y la soledad. Al final Fabio descubre que es hijo de un estanciero rico que le deja su herencia. Se convierte en propietario, pero lo que es se lo debe a su padrino, que un día se aleja por el camino y desaparece en el horizonte.",
+        ],
+        "personajes": [("Fabio Cáceres", "Narrador: un chico huérfano que se hace hombre siguiendo al gaucho."),
+                       ("Don Segundo Sombra", "Resero sereno y sabio, figura ideal del gaucho y padrino de Fabio."),
+                       ("Las tías de Fabio", "Mujeres que lo crían sin cariño en el pueblo."),
+                       ("Don Fabio Cáceres", "Estanciero que resulta ser el padre del protagonista y le deja su herencia."),
+                       ("Don Leandro Galván", "Estanciero amigo que acoge a Fabio y lo ayuda a hacerse cargo de su herencia.")],
+        "ideas": ["Novela de aprendizaje: un niño se hace hombre en la pampa.",
+                  "El gaucho como modelo de libertad, sobriedad y coraje.",
+                  "La nostalgia de un mundo rural que estaba desapareciendo.",
+                  "La lengua oral del campo argentino convertida en literatura."],
+        "faq": [("¿De qué trata Don Segundo Sombra?", "De Fabio, un muchacho que sigue a un gaucho resero, don Segundo Sombra, y aprende con él el oficio y la vida durante cinco años de viajes por la pampa."),
+                ("¿Quién es don Segundo Sombra?", "Un gaucho resero que se convierte en el padrino y maestro de Fabio. Representa el ideal de serenidad y libertad del hombre del campo."),
+                ("¿Cómo termina la novela?", "Fabio hereda la estancia de su padre. Don Segundo se queda un tiempo con él y luego se marcha a caballo hasta perderse en el horizonte."),
+                ("¿Cuándo se publicó?", "En 1926. Ricardo Güiraldes murió al año siguiente.")],
+    },
+    "la-voragine-jose-eustasio-rivera": {
+        "color": "verde", "genero": "Novela", "tema": "la selva, las caucherías y la violencia",
+        "resumen": [
+            "Arturo Cova, poeta bogotano, huye con su amante Alicia a los llanos de Casanare. Allí, entre celos, peleas y negocios de ganado, Alicia es raptada por el cauchero Barrera, que la lleva a la selva con otros colonos engañados. Cova parte en su busca y se interna en la selva amazónica.",
+            "En la selva descubre el infierno de las caucherías: indígenas y trabajadores esclavizados por deudas, explotados y torturados por los caucheros colombianos, venezolanos y peruanos. Cova recoge la historia de Clemente Silva, un viejo cauchero que busca a su hijo. Al final mata a Barrera y recupera a Alicia, pero la selva los engulle: el epílogo cuenta que nadie volvió a saber de ellos. «¡Los devoró la selva!».",
+        ],
+        "personajes": [("Arturo Cova", "Poeta narrador, impulsivo y celoso, que se interna en la selva."),
+                       ("Alicia", "Compañera de Cova, raptada por Barrera."),
+                       ("Barrera", "Enganchador de caucheros, cruel y sin escrúpulos."),
+                       ("Clemente Silva", "Viejo cauchero que guía a Cova y busca a su hijo perdido."),
+                       ("Fidel Franco", "Amigo de Cova en los llanos."),
+                       ("La madona Zoraida Ayram", "Comerciante turca que negocia con caucho en la selva.")],
+        "ideas": ["La selva como fuerza que devora a los hombres.",
+                  "La denuncia de la explotación y la esclavitud en las caucherías.",
+                  "La violencia y la codicia en la frontera amazónica.",
+                  "El fracaso del héroe romántico ante la naturaleza."],
+        "faq": [("¿De qué trata La vorágine?", "De Arturo Cova, que se interna en la selva amazónica en busca de Alicia y descubre la explotación brutal de los trabajadores del caucho."),
+                ("¿Qué denuncia La vorágine?", "La esclavitud por deudas, la tortura y la muerte de indígenas y caucheros en las explotaciones de caucho de Colombia, Venezuela y Perú."),
+                ("¿Cómo termina La vorágine?", "Con un telegrama del cónsul que dice que no se sabe nada de Cova ni de sus compañeros: «¡Los devoró la selva!»."),
+                ("¿Cuándo se publicó?", "En 1924. Es la gran novela de José Eustasio Rivera y un clásico de la literatura colombiana.")],
+    },
+    "lazarillo-de-tormes": {
+        "color": "burdeos", "genero": "Novela picaresca", "tema": "el hambre, la astucia y la honra",
+        "resumen": [
+            "Lázaro, hijo de un molinero ladrón, nace junto al río Tormes. Su madre lo entrega como lazarillo a un ciego astuto y cruel, que le enseña a sobrevivir a golpes. Después sirve a un clérigo avaro que lo mata de hambre, y a un escudero que presume de honra pero no tiene ni para comer, de modo que es Lázaro quien lo mantiene mendigando.",
+            "Pasa luego por un fraile de la Merced, un buldero tramposo, un capellán y un alguacil, hasta conseguir un oficio real: pregonero en Toledo. Se casa con la criada del arcipreste de San Salvador, que es en realidad su amante, y acepta la situación a cambio de protección. Lázaro cuenta su vida a «Vuestra Merced» para explicar ese «caso» y presume de estar en la cumbre de su buena fortuna.",
+        ],
+        "personajes": [("Lázaro de Tormes", "Narrador y protagonista, niño pobre que aprende a sobrevivir sirviendo a varios amos."),
+                       ("El ciego", "Su primer amo, astuto y cruel, que le enseña a no fiarse de nadie."),
+                       ("El clérigo de Maqueda", "Amo avaro que guarda el pan bajo llave."),
+                       ("El escudero", "Hidalgo pobre que finge riqueza por la honra."),
+                       ("El buldero", "Vendedor de bulas que engaña a los fieles con milagros falsos."),
+                       ("El arcipreste de San Salvador", "Último protector de Lázaro y amante de su mujer.")],
+        "ideas": ["El hambre y la pobreza como motor de la astucia.",
+                  "La crítica a la hipocresía del clero y a la falsa honra.",
+                  "La primera novela picaresca: un antihéroe que cuenta su propia vida.",
+                  "El ascenso social a costa de la dignidad."],
+        "faq": [("¿Quién escribió el Lazarillo de Tormes?", "Es anónimo. Se han propuesto varios autores, como Diego Hurtado de Mendoza o Alfonso de Valdés, pero ninguna atribución es segura."),
+                ("¿Cuántos amos tiene Lázaro?", "Nueve: el ciego, el clérigo, el escudero, el fraile de la Merced, el buldero, el maestro de pintar panderos, el capellán, el alguacil y el arcipreste."),
+                ("¿Qué es «el caso» del Lazarillo?", "El rumor de que la mujer de Lázaro es amante del arcipreste. Lázaro escribe su vida para explicarlo a Vuestra Merced."),
+                ("¿Cuándo se publicó?", "En 1554, en tres ediciones casi simultáneas (Burgos, Alcalá de Henares y Amberes).")],
+    },
+    "el-sombrero-de-tres-picos-pedro-antonio-de-alarcon": {
+        "color": "burdeos", "genero": "Novela corta", "tema": "el enredo, los celos y la burla al poderoso",
+        "resumen": [
+            "En un pueblo andaluz de principios del siglo XIX viven el tío Lucas, molinero feo pero listo, y su mujer, la señá Frasquita, bellísima y fiel. El corregidor, don Eugenio de Zúñiga, viejo y enamoradizo, se encapricha de ella y trama con su alguacil, Garduña, alejar al molinero de casa con una orden falsa para visitar a Frasquita de noche.",
+            "El corregidor cae al caz del molino, y Frasquita lo echa y va a buscar a su marido. Mientras, Lucas vuelve, encuentra la ropa del corregidor secándose junto al fuego y cree que lo han engañado. Para vengarse se viste con el traje y el sombrero de tres picos del corregidor y va a casa de la corregidora. Tras una noche de enredos, todo se aclara: Frasquita era inocente, y la corregidora da una lección a su marido.",
+        ],
+        "personajes": [("El tío Lucas", "Molinero feo, ingenioso y celoso."),
+                       ("La señá Frasquita", "Su mujer, bellísima, alegre y fiel."),
+                       ("Don Eugenio de Zúñiga", "El corregidor, viejo vanidoso que pretende a Frasquita."),
+                       ("Garduña", "Alguacil servil del corregidor."),
+                       ("Doña Mercedes", "La corregidora, digna e inteligente, que castiga a su marido.")],
+        "ideas": ["El ingenio del pueblo frente al abuso de la autoridad.",
+                  "Los celos y el honor en clave de comedia.",
+                  "La recreación de un romance popular con humor costumbrista.",
+                  "El sombrero de tres picos como símbolo del poder."],
+        "faq": [("¿De qué trata El sombrero de tres picos?", "De un corregidor que intenta seducir a la molinera Frasquita y de la venganza burlesca de su marido, el tío Lucas, que se viste con la ropa del corregidor."),
+                ("¿En qué se basa?", "En un romance y un cuento popular sobre un molinero y un corregidor que Alarcón oyó de niño y reescribió en 1874."),
+                ("¿Qué obra musical inspiró?", "El ballet El sombrero de tres picos de Manuel de Falla, estrenado en Londres en 1919 con decorados de Picasso."),
+                ("¿Cómo termina?", "Todo se aclara: Frasquita y Lucas se reconcilian y el corregidor queda en ridículo ante su mujer.")],
+    },
+    "los-pazos-de-ulloa-emilia-pardo-bazan": {
+        "color": "negro", "genero": "Novela", "tema": "la decadencia de la nobleza rural gallega",
+        "resumen": [
+            "Julián, un joven sacerdote tímido, llega a los Pazos de Ulloa, en Galicia, como capellán del marqués don Pedro Moscoso. Encuentra una casa arruinada y salvaje, gobernada en la sombra por el mayordomo Primitivo, cuya hija Sabel es la amante del marqués y madre de su hijo Perucho.",
+            "Julián convence a don Pedro de casarse con una mujer decente, y este elige a su prima Nucha en Santiago. En los Pazos, Nucha da a luz una niña y no el heredero esperado; enferma, aislada y maltratada por la indiferencia del marido, encuentra apoyo solo en Julián. Primitivo, que no quiere perder su poder, provoca la violencia final. Julián es alejado de la casa y, años después, al volver, comprueba que todo sigue igual: Perucho y la hija de Nucha crecen como hermanos en la ruina.",
+        ],
+        "personajes": [("Julián Álvarez", "Capellán joven, piadoso y débil, que intenta poner orden en los Pazos."),
+                       ("Don Pedro Moscoso", "El marqués de Ulloa, rudo, sensual y dominado por su entorno."),
+                       ("Nucha", "Prima y esposa de don Pedro, delicada y desdichada."),
+                       ("Primitivo", "Mayordomo astuto y violento, verdadero amo de la casa."),
+                       ("Sabel", "Hija de Primitivo y amante del marqués."),
+                       ("Perucho", "Hijo de Sabel y don Pedro.")],
+        "ideas": ["La naturaleza salvaje y el ambiente degradan a las personas, según el naturalismo.",
+                  "La decadencia de la hidalguía gallega.",
+                  "La oposición entre la ciudad civilizada y el campo primitivo.",
+                  "La violencia política del caciquismo."],
+        "faq": [("¿De qué trata Los pazos de Ulloa?", "De un capellán que llega a una casa señorial gallega en ruinas, del matrimonio desdichado del marqués con su prima Nucha y del poder oscuro del mayordomo Primitivo."),
+                ("¿Es una novela naturalista?", "Sí. Emilia Pardo Bazán defendió el naturalismo en La cuestión palpitante y lo aplicó aquí, aunque con matices católicos."),
+                ("¿Tiene continuación?", "Sí, La madre naturaleza (1887), protagonizada por Perucho y Manuela, los hijos del marqués."),
+                ("¿Cuándo se publicó?", "En 1886.")],
+    },
+    "la-gaviota-fernan-caballero": {
+        "color": "azul", "genero": "Novela", "tema": "la vida andaluza y la ambición del éxito",
+        "resumen": [
+            "Fritz Stein, un médico alemán, llega enfermo a un pueblo de la costa de Huelva y es acogido en un antiguo convento por una familia humilde. Allí conoce a Marisalada, hija de un pescador, apodada la Gaviota por su carácter arisco y por su voz prodigiosa. Stein la educa, se casa con ella y la lleva a Sevilla y Madrid.",
+            "En la ciudad la Gaviota triunfa como cantante de ópera, pero la fama la vuelve vanidosa: desprecia a su marido y se enamora del torero Pepe Vera. Stein se marcha a América y muere; Pepe Vera muere en la plaza. Marisalada pierde la voz y regresa al pueblo, donde acaba casada con el barbero, amargada y sin gloria.",
+        ],
+        "personajes": [("Marisalada, la Gaviota", "Hija de pescador, de voz extraordinaria y carácter indómito."),
+                       ("Fritz Stein", "Médico alemán, bondadoso, que la educa y se casa con ella."),
+                       ("Pepe Vera", "Torero de quien se enamora la Gaviota."),
+                       ("La tía María", "Anciana bondadosa que acoge a Stein."),
+                       ("El duque de Almansa", "Noble que protege la carrera de la Gaviota.")],
+        "ideas": ["Las costumbres y la religiosidad del pueblo andaluz.",
+                  "La crítica a la ambición y a la vida de la ciudad.",
+                  "El paso del romanticismo al realismo en la novela española.",
+                  "El castigo de la vanidad."],
+        "faq": [("¿De qué trata La gaviota?", "De Marisalada, una joven pescadora con una voz prodigiosa que triunfa como cantante en Madrid, abandona a su marido y termina sin voz y sin gloria en su pueblo."),
+                ("¿Quién era Fernán Caballero?", "El seudónimo de Cecilia Böhl de Faber, escritora hispano-alemana que firmaba con nombre de hombre."),
+                ("¿Por qué es importante La gaviota?", "Se considera una de las primeras novelas realistas españolas por su retrato detallado de las costumbres andaluzas."),
+                ("¿Cuándo se publicó?", "En 1849, primero por entregas en el diario El Heraldo.")],
+    },
+}
+
+
+if __name__ == "__main__":
+    clasicos.BOOKS = BOOKS
+    clasicos.NUMBER_START = NUMBER_START
+    clasicos.main()

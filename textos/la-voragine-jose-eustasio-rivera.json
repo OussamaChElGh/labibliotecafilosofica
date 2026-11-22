@@ -1,0 +1,139 @@
+{
+  "slug": "la-voragine-jose-eustasio-rivera",
+  "title": "La vorágine",
+  "author": "José Eustasio Rivera",
+  "author_route": "",
+  "book_route": "/la-voragine-jose-eustasio-rivera/",
+  "translator": "",
+  "edition": "Bogotá, 1924",
+  "source_url": "https://es.wikisource.org/wiki/La_vor%C3%A1gine",
+  "source_revision": 1414238,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "prologo",
+      "title": "Prólogo",
+      "summary": "Empieza: «Señor Ministro:»",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "slug": "parte-2",
+      "title": "***",
+      "summary": "Empieza: ««...Los que un tiempo creyeron que mi inteligencia irradiaría extraordinariamente, cual una aureola de mi juventud; los que se olvidaron de mí…»",
+      "start": 7,
+      "end": 9
+    },
+    {
+      "slug": "primera-parte",
+      "title": "Primera parte",
+      "summary": "Empieza: «Antes que me hubiera apasionado por mujer alguna, jugué mi corazón al azar y me lo ganó la Violencia. Nada supe de…»",
+      "start": 10,
+      "end": 1019
+    },
+    {
+      "slug": "segunda-parte",
+      "title": "Segunda parte",
+      "summary": "Empieza: «¡Oh, selva, esposa del silencio, madre de la soledad y de la neblina! ¿Qué hado maligno me dejó prisionero en tu cárcel…»",
+      "start": 1020,
+      "end": 1676
+    },
+    {
+      "slug": "tercera-parte",
+      "title": "Tercera parte",
+      "summary": "Empieza: «¡Yo he sido cauchero, yo soy cauchero! Viví entre fangosos rebalses, en la soledad de las montañas, con mi cuadrilla de hombres…»",
+      "start": 1677,
+      "end": 2461
+    },
+    {
+      "slug": "epilogo",
+      "title": "Epílogo",
+      "summary": "Empieza: «El último cable de nuestro Cónsul, dirigido al señor ministro y relacionado con la suerte de Arturo Cova y sus compañeros, dice…»",
+      "start": 2462,
+      "end": 2466
+    },
+    {
+      "slug": "vocabulario",
+      "title": "Vocabulario",
+      "summary": "Empieza: «»",
+      "start": 2467,
+      "end": 2467
+    }
+  ],
+  "description": "La vorágine de José Eustasio Rivera: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre la selva, las caucherías y la violencia.",
+  "intro": "<p>Arturo Cova, poeta bogotano, huye con su amante Alicia a los llanos de Casanare. Allí, entre celos, peleas y negocios de ganado, Alicia es raptada por el cauchero Barrera, que la lleva a la selva con otros colonos engañados. Cova parte en su busca y se interna en la selva amazónica.</p><p>Aquí puedes leer La vorágine completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 39,
+    "art": {
+      "file": "la-voragine-jose-eustasio-rivera.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/la-voragine-jose-eustasio-rivera/ilustracion.jpg",
+      "credit": "Frederic Edwin Church, «Estación de lluvias en el trópico» (1866). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "la selva, las caucherías y la violencia",
+    "resumen": [
+      "Arturo Cova, poeta bogotano, huye con su amante Alicia a los llanos de Casanare. Allí, entre celos, peleas y negocios de ganado, Alicia es raptada por el cauchero Barrera, que la lleva a la selva con otros colonos engañados. Cova parte en su busca y se interna en la selva amazónica.",
+      "En la selva descubre el infierno de las caucherías: indígenas y trabajadores esclavizados por deudas, explotados y torturados por los caucheros colombianos, venezolanos y peruanos. Cova recoge la historia de Clemente Silva, un viejo cauchero que busca a su hijo. Al final mata a Barrera y recupera a Alicia, pero la selva los engulle: el epílogo cuenta que nadie volvió a saber de ellos. «¡Los devoró la selva!»."
+    ],
+    "personajes": [
+      [
+        "Arturo Cova",
+        "Poeta narrador, impulsivo y celoso, que se interna en la selva."
+      ],
+      [
+        "Alicia",
+        "Compañera de Cova, raptada por Barrera."
+      ],
+      [
+        "Barrera",
+        "Enganchador de caucheros, cruel y sin escrúpulos."
+      ],
+      [
+        "Clemente Silva",
+        "Viejo cauchero que guía a Cova y busca a su hijo perdido."
+      ],
+      [
+        "Fidel Franco",
+        "Amigo de Cova en los llanos."
+      ],
+      [
+        "La madona Zoraida Ayram",
+        "Comerciante turca que negocia con caucho en la selva."
+      ]
+    ],
+    "ideas": [
+      "La selva como fuerza que devora a los hombres.",
+      "La denuncia de la explotación y la esclavitud en las caucherías.",
+      "La violencia y la codicia en la frontera amazónica.",
+      "El fracaso del héroe romántico ante la naturaleza."
+    ],
+    "faq": [
+      [
+        "¿De qué trata La vorágine?",
+        "De Arturo Cova, que se interna en la selva amazónica en busca de Alicia y descubre la explotación brutal de los trabajadores del caucho."
+      ],
+      [
+        "¿Qué denuncia La vorágine?",
+        "La esclavitud por deudas, la tortura y la muerte de indígenas y caucheros en las explotaciones de caucho de Colombia, Venezuela y Perú."
+      ],
+      [
+        "¿Cómo termina La vorágine?",
+        "Con un telegrama del cónsul que dice que no se sabe nada de Cova ni de sus compañeros: «¡Los devoró la selva!»."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1924. Es la gran novela de José Eustasio Rivera y un clásico de la literatura colombiana."
+      ]
+    ]
+  }
+}

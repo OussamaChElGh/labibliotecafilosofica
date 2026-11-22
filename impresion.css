@@ -1,0 +1,56 @@
+/* Edición en PDF de la colección «Lectura completa» (A5).
+   La usa build/impresion/<slug>.html, que genera lectura_completa.py y convierte portadas.mjs. */
+@font-face{font-family:'Caslon Display';src:url('public/fonts/libre-caslon-display.ttf')}
+@font-face{font-family:Inter;src:url('public/fonts/inter.woff2');font-weight:100 900}
+@font-face{font-family:Fraunces;src:url('public/fonts/fraunces.woff2');font-weight:100 900}
+
+@page{size:148mm 210mm;margin:18mm 16mm 20mm;
+  @bottom-center{content:counter(page);font-family:Inter,sans-serif;font-size:8pt;color:#8a7f70}}
+@page cover{margin:0;@bottom-center{content:none}}
+@page front{@bottom-center{content:none}}
+
+*{box-sizing:border-box}
+html{font-family:Fraunces,Georgia,serif;font-size:10.5pt;line-height:1.55;color:#1d1a16;hyphens:auto;-webkit-hyphens:auto}
+body{margin:0}
+a{color:inherit}
+h1,h2{font-family:'Caslon Display',Georgia,serif;font-weight:400;line-height:1.05;break-after:avoid}
+p{margin:0 0 .7em;text-align:justify;orphans:2;widows:2}
+
+.cover{page:cover;width:148mm;height:210mm;break-after:page;overflow:hidden}
+.cover svg{display:block;width:148mm;height:210mm}
+
+.title-page,.credits,.about{page:front;break-after:page}
+.title-page{height:170mm;display:flex;flex-direction:column;justify-content:center;text-align:center}
+.series{font-family:Inter,sans-serif;font-size:7pt;letter-spacing:.28em;text-transform:uppercase;color:#8a6d3b;text-align:center}
+.title-page .author{font-family:Inter,sans-serif;font-size:9pt;letter-spacing:.3em;text-transform:uppercase;text-align:center;margin-top:28mm}
+.title-page h1{font-size:34pt;margin:4mm 0 6mm}
+.title-page .translator{font-style:italic;text-align:center}
+
+.credits{display:flex;flex-direction:column;justify-content:flex-end;height:170mm;font-family:Inter,sans-serif;font-size:7.5pt;line-height:1.5;color:#5b5348}
+.credits p{text-align:left}
+
+.about h2{font-size:18pt;margin:0 0 4mm}
+.about h2+p{margin-top:0}
+.about h2:not(:first-child){margin-top:8mm}
+.contents{padding-left:6mm;font-size:10pt}
+.contents li{margin:0 0 1.5mm}
+.contents a{text-decoration:none}
+
+.chapter{break-before:page}
+.chapter-number{font-family:Inter,sans-serif;font-size:8pt;letter-spacing:.3em;color:#8a6d3b;text-align:left;margin:12mm 0 2mm}
+.chapter h2{font-size:22pt;margin:0 0 4mm}
+.chapter .summary{font-style:italic;color:#5b5348;text-align:left;border-bottom:.4pt solid #cbbfa9;padding-bottom:4mm;margin-bottom:6mm}
+.chapter p strong{font-family:Inter,sans-serif;font-size:8pt;letter-spacing:.12em;text-transform:uppercase;font-weight:600}
+sup{font-size:.65em;line-height:0}
+sup a{text-decoration:none;color:#8a6d3b}
+.reading-notes{margin-top:8mm;border-top:.4pt solid #cbbfa9;padding-top:3mm;font-size:8.5pt;line-height:1.45}
+.reading-notes h2{font-family:Inter,sans-serif;font-size:7pt;letter-spacing:.28em;text-transform:uppercase;margin:0 0 2mm}
+.reading-notes ol{padding-left:5mm;margin:0}
+.reading-notes li{margin-bottom:1.5mm}
+.reading-notes li a{text-decoration:none;color:#8a6d3b}
+
+.colophon{break-before:page;height:160mm;display:flex;flex-direction:column;justify-content:center;text-align:center}
+.colophon h2{font-size:24pt;margin:2mm 0 6mm}
+.colophon p{text-align:center}
+.chapter p.verse{font-style:italic;text-align:center;margin:-.2em 0 .7em}
+.chapter p.stage-note{font-style:italic;font-size:9pt;color:#5b5348;text-align:center;margin:5mm 6mm;padding:2mm 0;border-block:.4pt solid #cbbfa9}

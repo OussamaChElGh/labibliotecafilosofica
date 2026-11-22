@@ -1,0 +1,317 @@
+{
+  "slug": "la-gaviota-fernan-caballero",
+  "title": "La gaviota",
+  "author": "Fernán Caballero",
+  "author_route": "",
+  "book_route": "/la-gaviota-fernan-caballero/",
+  "translator": "",
+  "edition": "Madrid, 1849",
+  "source_url": "https://es.wikisource.org/wiki/La_gaviota_%28Caballero%29",
+  "source_revision": 1310097,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "prologo",
+      "title": "Prólogo",
+      "summary": "Empieza: «Apenas puede aspirar esta obrilla a los honores de la novela. La sencillez de su intriga y la verdad de sus pormenores…»",
+      "start": 0,
+      "end": 15
+    },
+    {
+      "slug": "juicio-critico",
+      "title": "Juicio crítico por el señor don Eugenio de Ochoa",
+      "summary": "Empieza: «Varias veces lo hemos dicho: no es la novela el género de literatura en que más han descollado los españoles en todos…»",
+      "start": 16,
+      "end": 47
+    },
+    {
+      "slug": "parte-primera-capitulo-1",
+      "title": "Parte primera, capítulo I",
+      "summary": "Empieza: «Hay en este ligero cuadro lo que más debe gustar generalmente: novedad y naturalidad.»",
+      "start": 48,
+      "end": 140
+    },
+    {
+      "slug": "parte-primera-capitulo-2",
+      "title": "Parte primera, capítulo II",
+      "summary": "Empieza: «En una mañana de octubre de 1838, un hombre bajaba a pie de uno de los pueblos del condado de Niebla, y…»",
+      "start": 141,
+      "end": 221
+    },
+    {
+      "slug": "parte-primera-capitulo-3",
+      "title": "Parte primera, capítulo III",
+      "summary": "Empieza: «La tía María y el hermano Gabriel se esmeraban a cual más en cuidar al enfermo; pero discordaban en cuanto al método…»",
+      "start": 222,
+      "end": 278
+    },
+    {
+      "slug": "parte-primera-capitulo-4",
+      "title": "Parte primera, capítulo IV",
+      "summary": "Empieza: «Stein, cuya convalecencia adelantaba rápidamente, pudo en breve, con ayuda del hermano Gabriel, salir de su cuarto y examinar menudamente aquella noble…»",
+      "start": 279,
+      "end": 301
+    },
+    {
+      "slug": "parte-primera-capitulo-5",
+      "title": "Parte primera, capítulo V",
+      "summary": "Empieza: «El fin de octubre había sido lluvioso y noviembre vestía su verde y abrigado manto de invierno.»",
+      "start": 302,
+      "end": 359
+    },
+    {
+      "slug": "parte-primera-capitulo-6",
+      "title": "Parte primera, capítulo VI",
+      "summary": "Empieza: «Antes de seguir adelante, no será malo trabar conocimiento con este nuevo personaje.»",
+      "start": 360,
+      "end": 399
+    },
+    {
+      "slug": "parte-primera-capitulo-7",
+      "title": "Parte primera, capítulo VII",
+      "summary": "Empieza: «Cuando Stein llegó al convento, toda la familia estaba reunida, tomando el sol en el patio.»",
+      "start": 400,
+      "end": 471
+    },
+    {
+      "slug": "parte-primera-capitulo-8",
+      "title": "Parte primera, capítulo VIII",
+      "summary": "Empieza: «Al día siguiente, caminaba la tía María hacia la habitación de la enferma, en compañía de Stein y de Momo, escudero pedestre…»",
+      "start": 472,
+      "end": 563
+    },
+    {
+      "slug": "parte-primera-capitulo-9",
+      "title": "Parte primera, capítulo IX",
+      "summary": "Empieza: «Un mes después de las escenas que acabamos de referir, Marisalada se hallaba con notable alivio y no demostraba el menor deseo…»",
+      "start": 564,
+      "end": 722
+    },
+    {
+      "slug": "parte-primera-capitulo-10",
+      "title": "Parte primera, capítulo X",
+      "summary": "Empieza: «Marisalada estaba ya en convalecencia; como si la naturaleza hubiera querido recompensar el acertado método curativo de Stein y el caritativo esmero…»",
+      "start": 723,
+      "end": 795
+    },
+    {
+      "slug": "parte-primera-capitulo-11",
+      "title": "Parte primera, capítulo XI",
+      "summary": "Empieza: «Tres años había que Stein permanecía en aquel tranquilo rincón. Adoptando la índole del país en que se hallaba, vivía al día,…»",
+      "start": 796,
+      "end": 851
+    },
+    {
+      "slug": "parte-primera-capitulo-12",
+      "title": "Parte primera, capítulo XII",
+      "summary": "Empieza: «Convencida la tía María de que ningún apoyo ni ayuda alguna tenía que aguardar del hombre de influencia, al cual había querido…»",
+      "start": 852,
+      "end": 942
+    },
+    {
+      "slug": "parte-primera-capitulo-13",
+      "title": "Parte primera, capítulo XIII",
+      "summary": "Empieza: «El agradecimiento que sentía el pescador hacia el que había salvado a su hija, se había convertido al verle tan interesado por…»",
+      "start": 943,
+      "end": 975
+    },
+    {
+      "slug": "parte-primera-capitulo-14",
+      "title": "Parte primera, capítulo XIV",
+      "summary": "Empieza: «El casamiento de Stein y la Gaviota se celebró en la iglesia de Villamar. El pescador llevaba, en lugar de su camisa…»",
+      "start": 976,
+      "end": 1068
+    },
+    {
+      "slug": "parte-primera-capitulo-15",
+      "title": "Parte primera, capítulo XV",
+      "summary": "Empieza: «Tres años habían transcurrido. Stein, que era de los pocos hombres que no exigen mucho de la vida, se creía feliz. Amaba…»",
+      "start": 1069,
+      "end": 1184
+    },
+    {
+      "slug": "parte-segunda-capitulo-1",
+      "title": "Parte segunda, capítulo I",
+      "summary": "Empieza: «En España, cuyo carácter nacional es enemigo de la afectación, ni se exige ni se reconoce lo que en otras partes se…»",
+      "start": 1185,
+      "end": 1360
+    },
+    {
+      "slug": "parte-segunda-capitulo-2",
+      "title": "Parte segunda, capítulo II",
+      "summary": "Empieza: «El duque había proporcionado a Stein y a su mujer una casa de pupilos, a cargo de una familia pobre, pero honrada…»",
+      "start": 1361,
+      "end": 1422
+    },
+    {
+      "slug": "parte-segunda-capitulo-3",
+      "title": "Parte segunda, capítulo III",
+      "summary": "Empieza: «Durante las escenas que hemos procurado describir en el anterior capítulo, Stein daba la vuelta alrededor de Sevilla, siguiendo la línea de…»",
+      "start": 1423,
+      "end": 1437
+    },
+    {
+      "slug": "parte-segunda-capitulo-4",
+      "title": "Parte segunda, capítulo IV",
+      "summary": "Empieza: «Marisalada pasaba su vida consagrada a perfeccionarse en el arte, que le prometía un porvenir brillante, una carrera de gloria y una…»",
+      "start": 1438,
+      "end": 1604
+    },
+    {
+      "slug": "parte-segunda-capitulo-5",
+      "title": "Parte segunda, capítulo V",
+      "summary": "Empieza: «Completamente restablecido ya el niño de la condesa, había llegado la noche que esta señora había fijado para recibir a María. Algunos…»",
+      "start": 1605,
+      "end": 1707
+    },
+    {
+      "slug": "parte-segunda-capitulo-6",
+      "title": "Parte segunda, capítulo VI",
+      "summary": "Empieza: «María, dirigida en su tocador por los consejos de su patrona, se presentó malísimamente pergeñada. Un vestido de foular demasiado corto, y…»",
+      "start": 1708,
+      "end": 1791
+    },
+    {
+      "slug": "parte-segunda-capitulo-7",
+      "title": "Parte segunda, capítulo VII",
+      "summary": "Empieza: «Había pasado el verano y era llegado septiembre; los días conservaban aún el calor del verano, pero las noches eran ya largas…»",
+      "start": 1792,
+      "end": 1932
+    },
+    {
+      "slug": "parte-segunda-capitulo-8",
+      "title": "Parte segunda, capítulo VIII",
+      "summary": "Empieza: «Era ya Sevilla teatro demasiado estrecho para las miras ambiciosas y para la sed de aplausos que devoraban el corazón de María.…»",
+      "start": 1933,
+      "end": 1969
+    },
+    {
+      "slug": "parte-segunda-capitulo-9",
+      "title": "Parte segunda, capítulo IX",
+      "summary": "Empieza: «La llegada a Madrid del célebre cantor Tenorini puso cima a la gloria de María, por la admiración con que la encomiaba…»",
+      "start": 1970,
+      "end": 2062
+    },
+    {
+      "slug": "parte-segunda-capitulo-10",
+      "title": "Parte segunda, capítulo X",
+      "summary": "Empieza: «No tardó en esparcirse por todo el lugar la voz de que la hija del pescador había sido asesinada.»",
+      "start": 2063,
+      "end": 2109
+    },
+    {
+      "slug": "parte-segunda-capitulo-11",
+      "title": "Parte segunda, capítulo XI",
+      "summary": "Empieza: «El mundo es un compuesto de contrastes. No es muy nueva ni muy original esta observación; pero cada día se nos presentan…»",
+      "start": 2110,
+      "end": 2198
+    },
+    {
+      "slug": "parte-segunda-capitulo-12",
+      "title": "Parte segunda, capítulo XII",
+      "summary": "Empieza: «Apenas cerró el duque la puerta, cuando Pepe Vera salió por la de la alcoba, riéndose a carcajadas.»",
+      "start": 2199,
+      "end": 2238
+    },
+    {
+      "slug": "parte-segunda-capitulo-13",
+      "title": "Parte segunda, capítulo XIII",
+      "summary": "Empieza: «El día siguiente al de los sucesos referidos en el capítulo que precede, el duque estaba sentado en su librería enfrente de…»",
+      "start": 2239,
+      "end": 2334
+    },
+    {
+      "slug": "parte-segunda-capitulo-14",
+      "title": "Parte segunda, capítulo XIV",
+      "summary": "Empieza: «María, indispuesta desde antes de ir a la cena, había empeorado y tenía calentura a la mañana siguiente.»",
+      "start": 2335,
+      "end": 2430
+    },
+    {
+      "slug": "parte-segunda-capitulo-15",
+      "title": "Parte segunda, capítulo XV",
+      "summary": "Empieza: «Seis meses después de los sucesos referidos en el último capítulo, la condesa de Algar estaba un día en su sala en…»",
+      "start": 2431,
+      "end": 2531
+    },
+    {
+      "slug": "parte-segunda-capitulo-16",
+      "title": "Parte segunda, capítulo XVI",
+      "summary": "Empieza: «Si el lector quiere antes de que nos separemos para siempre echar otra ojeada a aquel rinconcillo de la tierra llamado Villamar,…»",
+      "start": 2532,
+      "end": 2627
+    }
+  ],
+  "description": "La gaviota de Fernán Caballero: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre la vida andaluza y la ambición del éxito.",
+  "intro": "<p>Fritz Stein, un médico alemán, llega enfermo a un pueblo de la costa de Huelva y es acogido en un antiguo convento por una familia humilde. Allí conoce a Marisalada, hija de un pescador, apodada la Gaviota por su carácter arisco y por su voz prodigiosa. Stein la educa, se casa con ella y la lleva a Sevilla y Madrid.</p><p>Aquí puedes leer La gaviota completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 43,
+    "art": {
+      "file": "la-gaviota-fernan-caballero.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/la-gaviota-fernan-caballero/ilustracion.jpg",
+      "credit": "Joaquín Sorolla, «Los pescadores con sus redes» (1896). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "la vida andaluza y la ambición del éxito",
+    "resumen": [
+      "Fritz Stein, un médico alemán, llega enfermo a un pueblo de la costa de Huelva y es acogido en un antiguo convento por una familia humilde. Allí conoce a Marisalada, hija de un pescador, apodada la Gaviota por su carácter arisco y por su voz prodigiosa. Stein la educa, se casa con ella y la lleva a Sevilla y Madrid.",
+      "En la ciudad la Gaviota triunfa como cantante de ópera, pero la fama la vuelve vanidosa: desprecia a su marido y se enamora del torero Pepe Vera. Stein se marcha a América y muere; Pepe Vera muere en la plaza. Marisalada pierde la voz y regresa al pueblo, donde acaba casada con el barbero, amargada y sin gloria."
+    ],
+    "personajes": [
+      [
+        "Marisalada, la Gaviota",
+        "Hija de pescador, de voz extraordinaria y carácter indómito."
+      ],
+      [
+        "Fritz Stein",
+        "Médico alemán, bondadoso, que la educa y se casa con ella."
+      ],
+      [
+        "Pepe Vera",
+        "Torero de quien se enamora la Gaviota."
+      ],
+      [
+        "La tía María",
+        "Anciana bondadosa que acoge a Stein."
+      ],
+      [
+        "El duque de Almansa",
+        "Noble que protege la carrera de la Gaviota."
+      ]
+    ],
+    "ideas": [
+      "Las costumbres y la religiosidad del pueblo andaluz.",
+      "La crítica a la ambición y a la vida de la ciudad.",
+      "El paso del romanticismo al realismo en la novela española.",
+      "El castigo de la vanidad."
+    ],
+    "faq": [
+      [
+        "¿De qué trata La gaviota?",
+        "De Marisalada, una joven pescadora con una voz prodigiosa que triunfa como cantante en Madrid, abandona a su marido y termina sin voz y sin gloria en su pueblo."
+      ],
+      [
+        "¿Quién era Fernán Caballero?",
+        "El seudónimo de Cecilia Böhl de Faber, escritora hispano-alemana que firmaba con nombre de hombre."
+      ],
+      [
+        "¿Por qué es importante La gaviota?",
+        "Se considera una de las primeras novelas realistas españolas por su retrato detallado de las costumbres andaluzas."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1849, primero por entregas en el diario El Heraldo."
+      ]
+    ]
+  }
+}

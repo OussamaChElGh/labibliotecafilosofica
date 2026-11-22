@@ -1,0 +1,913 @@
+H|Acto I
+S|Escena primera.
+S|Una plaza de Verona.
+S|Sanson y Gregorio, con espadas y broqueles.
+P|A fe mia, Gregorio, que no hay por qué bajar la cabeza.
+P|Eso seria convertirnos en bestias de carga.
+P|Queria decirte que, si nos hostigan, debemos responder.
+P|Sí: soltar la albarda.
+P|Yo, si me pican, fácilmente salto.
+P|Pero no es fácil picarte para que saltes.
+P|Basta cualquier gozquejo de casa de los Montescos para hacerme saltar.
+P|Quien salta, se va. El verdadero valor está en quedarse firme en su puesto. Eso que llamas saltar es huir.
+P|Los perros de esa casa me hacen saltar primero y me páran despues. Cuando topo de manos á boca con hembra ó varon de casa de los Montescos, pongo pies en pared.
+P|¡Necedad insigne! Si pones pies en pared, te caerás de espaldas.
+P|Cierto, y es condicion propia de los débiles. Los Montescos al medio de la calle, y sus mozas á la acera.
+P|Esa discordia es de nuestros amos. Los criados no tenemos que intervenir en ella.
+P|Lo mismo da. Seré un tirano. Acabaré primero con los hombres y luego con las mujeres.
+P|¿Qué quieres decir?
+P|Lo que tú quieras. Sabes que no soy rana.
+P|No eres ni pescado ni carne. Saca tu espada, que aquí vienen dos criados de casa Montesco.
+P|Ya está fuera la espada: entra tú en lid, y yo te defenderé.
+P|¿Por qué huyes, volviendo las espaldas?
+P|Por no asustarte.
+P|¿Tú asustarme á mí?
+P|Procedamos legalmente. Déjalos empezar á ellos.
+P|Les haré una mueca al pasar, y veremos cómo lo toman.
+P|Veremos si se atreven. Yo me chuparé el dedo, y buena vergüenza será la suya si lo toleran.
+S|(Abraham y Baltasar.)
+P|Hidalgo, ¿os estáis chupando el dedo porque nosotros pasamos?
+P|Hidalgo, es verdad que me chupo el dedo.
+P|Hidalgo, ¿os chupais el dedo porque nosotros pasamos?
+P|¿Estamos dentro de la ley, diciendo que sí?
+P|No por cierto.
+P|Hidalgo, no me chupaba el dedo porque vosotros pasabais, pero la verdad es que me lo chupo.
+P|¿Quereis armar cuestión, hidalgo?
+P|Ni por pienso, señor mio.
+P|Si quereis armarla, aquí estoy á vuestras órdenes. Mi amo es tan bueno como el vuestro.
+P|Pero mejor, imposible.
+P|Está bien, hidalgo.
+P|Dile que el nuestro es mejor, porque aquí se acerca un pariente de mi amo.
+P|Es mejor el nuestro, hidalgo.
+P|Mentira.
+P|Si sois hombre, sacad vuestro acero. Gregorio: acuérdate de tu sábia estocada. (Pelean.)
+S|(Llegan Benvolio y Teobaldo)
+P|Envainad, majaderos. Estais peleando, sin saber por qué.
+P|¿Por qué desnudáis los aceros? Benvolio, ¿quieres ver tu muerte?
+P|Los estoy poniendo en paz. Envaina tú, y no busques quimeras.
+P|¡Hablarme de paz, cuando tengo el acero en la mano! Más odiosa me es tal palabra que el infierno mismo, más que Montesco, más que tú. Ven, cobarde.
+S|(Reúnese gente de uno y otro bando. Trábase la riña.)
+P|Venid con palos, con picas, con hachas. ¡Mueran Capuletos y Montescos!
+S|(Entran Capuleto y la señora de Capuleto.)
+P|¿Qué voces son esas? Dadme mi espada.
+P|¿Qué espada? Lo que te conviene es una muleta.
+P|Mi espada, mi espada, que Montesco viene blandiendo contra mí la suya tan vieja como la mia.
+S|(Entran Montesco y su mujer.)
+P|¡Capuleto infame, déjame pasar, aparta!
+P|No te dejaré dar un paso más.
+S|(Entra el Príncipe con su séquito.)
+P|¡Rebeldes, enemigos de la paz, derramadores de sangre humana! ¿No quereis oir? Humanas fieras que apagais en la fuente sangrienta de vuestras venas el ardor de vuestras iras, arrojad en seguida á tierra las armas fratricidas, y escuchad mi sentencia. Tres veces, por vanas quimeras y fútiles motivos, habéis ensangrentado las calles de Verona, haciendo á sus habitantes, áun los más graves é ilustres, empuñar las enmohecidas alabardas, y cargar con el hierro sus manos envejecidas por la paz. Si volveis á turbar el sosiego de nuestra ciudad, me respondereis con vuestras cabezas. Basta por ahora; retiraos todos. Tú, Capuleto, vendrás conmigo. Tú, Montesco, irás á buscarme dentro de poco á la Audiencia, donde te hablaré más largamente. Pena de muerte á quien permanezca aquí.
+S|(Vase.)
+P|¿Quién ha vuelto á comenzar la antigua discordia? ¿Estabas tú cuando principió, sobrino mio?
+P|Los criados de tu enemigo estaban ya lidiando con los nuestros cuando llegué, y fueron inútiles mis esfuerzos para separarlos. Teobaldo se arrojó sobre mí, blandiendo el hierro que azotaba el aire despreciador de sus furores. Al ruido de las estocadas acorre gente de una parte y otra, hasta que el Príncipe separó á unos y otros.
+P|¿Y has visto á Romeo? ¡Cuánto me alegro de que no se hallara presente!
+P|Sólo faltaba una hora para que el sol amaneciese por las doradas puertas del Oriente, cuando salí á pasear, solo con mis cuidados, al bosque de sicomoros que crece al poniente de la ciudad. Allí estaba tu hijo. Apenas le ví me dirigí á él, pero se internó en lo más profundo del bosque. Y como yo sé que en ciertos casos la compañía estorba, seguí mi camino y mis cavilaciones, huyendo de él con tanto gusto como él de mí.
+P|Dicen que va allí con frecuencia á juntar su llanto con el rocío de la mañana y contar á las nubes sus querellas, y apenas el sol, alegría del mundo, descorre los sombríos pabellones del tálamo de la aurora, huye Romeo de la luz y torna á casa, se encierra sombrío en su cámara, y para esquivar la luz del dia, crea artificialmente una noche. Mucho me apena su estado, y seria un dolor que su razon no llegase á dominar sus caprichos.
+P|¿Sospechais la causa, tio?
+P|No la sé ni puedo indagarla.
+P|¿No has podido arrancarle ninguna explicacion?
+P|Ni yo, ni nadie. No sé si pienso bien ó mal, pero él es el único consejero de sí mismo. Guarda con avaricia su secreto y se consume en él, como el gérmen herido por el gusano antes de desarrollarse y encantar al sol con su hermosura. Cuando yo sepa la causa de su mal, procuraré poner remedio.
+P|Aquí está. Ó me engaña el cariño que le tengo, ó voy á saber pronto la causa de su mal.
+P|¡Oh si pudieses con habilidad descubrir el secreto! Ven, esposa.
+S|(Entra Romeo.)
+P|Muy madrugador estás.
+P|¿Tan joven está el dia?
+P|Aún no han dado las nueve.
+P|¡Tristes horas, cuan lentamente caminais! ¿No era mi padre quien salia ahora de aquí?
+P|Sí por cierto. Pero ¿qué dolores son los que alargan tanto las horas de Romeo?
+P|El carecer de lo que las haria cortas.
+P|¿Cuestion de amores?
+P|Desvíos.
+P|¿De amores?
+P|Mi alma padece el implacable rigor de sus desdenes.
+P|¿Por qué el amor que nace de tan débiles principios, impera luego con tanta tiranía?
+P|¿Por qué, si pintan ciego al Amor, sabe elegir tan extrañas sendas á su albedrío? ¿Dónde vamos á comer hoy? ¡Válgame Dios! Cuéntame lo que ha pasado. Pero no, ya lo sé. Hemos encontrado el Amor junto al odio; amor discorde, odio amante; rara confusion de la naturaleza, caos sin forma, materia grave á la vez que ligera, fuerte y débil, humo y plomo, fuego helado, salud que fallece, sueño que vela, esencia incógnita. No puedo acostumbrarme á tal amor. ¿Te ries? ¡Vive Dios!...
+P|No, primo. No me rio, antes lloro.
+P|¿De qué, alma generosa?
+P|De tu desesperacion.
+P|Es prenda del amor. Se agrava el peso de mis penas, sabiendo que tú también las sientes. Amor es fuego aventado por el aura de un suspiro; fuego que arde y centellea en los ojos del amante. O más bien es torrente desbordado que las lágrimas acrecen. ¿Qué más podré decir de él? Diré que es locura sábia, hiél que emponzoña, dulzura embriagadora. Quédate adios, primo.
+P|Quiero ir contigo. Me enojaré si me dejas así, y no te enojes.
+P|Calla, que el verdadero Romeo debe andar en otra parte.
+P|Dime el nombre de tu amada.
+P|¿Quieres oir gemidos?
+P|¡Gemidos! ¡Donosa idea! Dime formalmente quién es.
+P|¿Dime formalmente?... ¡Oh, qué frase tan cruel! Decid que haga testamento al que está padeciendo horriblemente. Primo, estoy enamorado de una mujer.
+P|Hasta ahí ya lo comprendo.
+P|Has acertado. Estoy enamorado de una mujer hermosa.
+P|¿Y será fácil dar en ese blanco tan hermoso?
+P|Vanos serian mis tiros, porque ella, tan casta como Diana la cazadora, burlará todas las pueriles flechas del rapaz alado. Su recato la sirve de armadura. Huye de las palabras de amor, evita el encuentro de otros ojos, no la rinde el oro. Es rica, porque es hermosa. Pobre, porque cuando muera, sólo quedarán despojos de su perfeccion soberana.
+P|¿Está ligada a Dios por algun voto de castidad?
+P|No es ahorro el suyo, es desperdicio, porque esconde avaramente su belleza, y priva de ella al mundo. Es tan discreta y tan hermosa, que no debiera complacerse en mi tormento, pero aborrece el amor, y ese voto es la causa de mi muerte.
+P|Déjate de pensar en ella.
+P|Enséñame á dejar de pensar.
+P|Hazte libre. Fíjate en otras.
+P|Así brillará más y más su hermosura. Con el negro antifaz resalta más la blancura de la tez. Nunca olvida el don de la vista quien una vez la perdió. La beldad más perfecta que yo viera, sólo seria un libro donde leer que era mayor la perfeccion de mi adorada. ¡Adios! No sabes enseñarme á olvidar.
+P|Me comprometo á destruir tu opinion.
+S|Escena II.
+S|Calle. Capuleto, Páris y un Criado.
+P|La misma orden que á mí obliga á Montesco, y á nuestra edad no debía ser difícil vivir en paz.
+P|Los dos sois iguales en nobleza, y no debierais estar discordes. ¿Qué respondéis á mi peticion?
+P|Ya he respondido. Mi hija acaba de llegar al mundo. Aún no tiene más que catorce años, y no estará madura para el matrimonio, hasta que pasen lo menos dos veranos.
+P|Otras hay más jóvenes y que son ya madres.
+P|Los árboles demasiado tempranos no prosperan. Yo he confiado mis esperanzas á la tierra y ellas florecerán. De todas suertes, Páris, consulta tú su voluntad. Si ella consiente, yo consentiré tambien. No pienso oponerme á que elija con toda libertad entre los de su clase. Esta noche, segun costumbre inmemorial, recibo en casa á mis amigos, uno de ellos vos. Deseo que piseis esta noche el modesto umbral de mi casa, donde vereis brillar humanas estrellas. Vos, como jóven lozano, que no hollais como yo las pisadas del invierno frio, disfrutareis de todo. Allí oireis un coro de hermosas doncellas. Oidlas, vedlas, y elegid entre todas la más perfecta. Quizá después de maduro examen, os parecerá mi hija una de tantas. Tú (al criado) véte recorriendo las calles de Verona, y á todos aquellos cuyos nombres verás escritos en este papel, invítalos para esta noche en mi casa. (Vanse Capuleto y Páris.)
+P|¡Pues es fácil encontrarlos á todos! El zapatero está condenado á usar la vara, el sastre la horma, el pintor el pincel, el pescador las redes, y yo á buscar á todos aquellos cuyos nombres están escritos aquí, sin saber qué nombres son los que aquí están escritos. Dénme su favor los sabios. Vamos.
+S|Benvolio y Romeo.
+P|No digas eso. Un fuego apaga otro, un dolor mata otro dolor, á una pena antigua otra nueva. Un nuevo amor puede curarte del antiguo.
+P|Curarán las hojas del plátano.
+P|¿Y qué curarán?
+P|Las desolladuras.
+P|¿Estás loco?
+P|¡Loco! Estoy atado de piés y manos como los locos, encerrado en cárcel asperísima, hambriento, azotado y atormentado.—Buenos dias, hombre. (Al criado.)
+P|Buenos dias. ¿Sabeis leer, hidalgo?
+P|Ciertamente que sí.
+P|¡Raro alarde! ¿Sabeis leer sin haberlo aprendido? ¿Sabreis leer lo que ahí dice?
+P|Si el concepto es claro y la letra tambien.
+P|¿De verdad? Dios os guarde.
+P|Espera, que probaré á leerlo. «El señor Martin, y su mujer é hijas, el conde Anselmo y sus hermanas, la viuda de Viturbio, el señor Plasencio y sus sobrinas, Mercutio y su hermano Valentin, mi tio Capuleto con su mujer é hijas, Rosalía mi sobrina, Livia, Valencia y su primo Teobaldo, Lucía y la hermosa Elena.» ¡Lucida reunión! ¿Y dónde es la fiesta?
+P|Allí.
+P|¿Dónde?
+P|En mi casa, á cenar.
+P|¿En qué casa?
+P|En la de mi amo.
+P|Lo primero que debí preguntarte es su nombre.
+P|Os lo diré sin ambages. Se llama Capuleto y es generoso y rico. Si no sois Montesco, podéis ir á beber á la fiesta. Id, os lo ruego. (Vase.)
+P|Rosalía á quien adoras, asistirá á esta fiesta con todas las bellezas de Verona. Allí podrás verla y compararla con otra que yo te enseñaré, y el cisne te parecerá grajo.
+P|No permite tan indigna traicion la santidad de mi amor. Ardan mis verdaderas lágrimas, ardan mis ojos (que antes se ahogaban) si tal herejía cometen. ¿Puede haber otra más hermosa que ella? No la ha visto desde la creacion del mundo, el sol que lo ve todo.
+P|Tus ojos no ven más que lo que les halaga. Vas á pesar ahora en tu balanza á una mujer más bella que esa, y verás cómo tu señora pierde de los quilates de su peso, cotejada con ella.
+P|Iré, pero no quiero ver tal cosa, sino gozarme en la contemplacion de mi cielo.
+S|Escena III.
+S|En casa de Capuleto. La señora de Capuleto y el Ama.
+P|Ama, ¿dónde está mi hija?
+P|Sea en mi ayuda mi probada paciencia de doce años. Ya la llamé. Cordero, Mariposa. Válgame Dios. ¿Dónde estará esta niña? Julieta...
+P|¿Quién me llama?
+P|Tu madre.
+P|Señora, aquí estoy. Dime qué sucede.
+P|Sucede que... Ama, déjanos á solas un rato... Pero no, quédate. Deseo que oigas nuestra conversacion. Mi hija está en una edad decisiva.
+P|Ya lo creo. No me acuerdo qué edad tiene exactamente.
+P|Todavía no ha cumplido los catorce.
+P|Apostaria catorce dientes (¡ay de mi, no tengo más que cuatro) á que no son catorce. ¿Cuándo llega el dia de los Ángeles?
+P|Dentro de dos semanas.
+P|Sean pares ó nones, ese dia, en anocheciendo, cumple Julieta años. ¡Válgame Dios! La misma edad tendrian ella y mi Susana. Pero Susana está en el cielo. No merecía yo tanta dicha. Pues como iba diciendo, cumplirá catorce años la tarde de los Ángeles. ¡Vaya si los cumplirá! Me acuerdo bien. Hace once años, cuando el terremoto, la quitamos el pecho. Jamas confundo aquel dia con ningún otro del año. Debajo del palomar, sentada al sol, unté mi pecho con acíbar. Vos y mi amo estabais en Mántua. ¡Me acuerdo tan bien! Pues como digo, la tonta de ella, apenas probó el pecho y lo halló tan amargo, ¡qué furiosa se puso contra mí! ¡Temblaba el palomar! Once años van de esto. Ya se tenia en pié, ya corria... tropezando á veces. Por cierto que el dia antes se habia hecho un chichon en la frente, y mi marido (¡Dios le tenga en gloria!) ¡con qué gracia levantó á la niña! y le dijo: «Vaya, ¿te has caido de frente? No caerás así cuando te entre el juicio. ¿Verdad, Julieta?» Sí, respondió la inocente limpiándose las lágrimas. El tiempo hace verdades las burlas. Mil años que viviera, me acordaria de esto. «¿No es verdad, Julieta?» y ella lloraba y decia que sí.
+P|Basta ya. Cállate, por favor te lo pido.
+P|Me callaré, señora; pero no puedo menos de reirme, acordándome que dijo sí, y creo que tenia en la frente un chichon tamaño como un huevo, y lloraba que no habia consuelo para ella.
+P|Cállate ya; te lo suplico.
+P|Bueno, me callaré. Dios te favorezca, porque eres la niña más hermosa que he criado nunca. ¡Qué grande seria mi placer en verla casada!
+P|Aún no he pensado en tanta honra.
+P|¡Honra! Pues si no fuera por haberte criado yo á mis pechos, te diria que habias mamado leche de discrecion y sabiduría.
+P|Ya puedes pensar en casarte. Hay en Verona madres de familia menores que tú, y yo misma lo era cuando apenas tenia tu edad. En dos palabras, aspira á tu mano el gallardo Páris.
+P|¡Niña mia! ¡Vaya un pretendiente! Si parece de cera.
+P|No tiene flor más linda la primavera de Verona.
+P|¡Eso una flor! Sí que es flor, ciertamente.
+P|Quiero saber si le amarás. Esta noche ha de venir. Verás escrito en su cara todo el amor que te profesa. Fíjate en su rostro y en la armonía de sus facciones. Sus ojos servirán de comentario á lo que haya de confuso en el libro de su persona. Este libro de amor, desencuadernado todavía, merece una espléndida cubierta. La mar se ha hecho para el pez. Toda belleza gana en contener otra belleza. Los áureos broches del libro esmaltan la áurea narración. Todo lo que él tenga será tuyo. Nada perderás en ser su mujer.
+P|¿Nada? Disparate será el pensarlo.
+P|Di si podrás llegar á amar á Páris.
+P|Lo pensaré, si es que el ver predispone á amar. Pero el dardo de mis ojos sólo tendrá la fuerza que le preste la obediencia.
+S|(Entra un criado.)
+P|Los huéspedes se acercan. La cena está pronta. Os llaman. La señorita hace falta. En la cocina están diciendo mil pestes del ama. Todo está dispuesto. Os suplico que vengais en seguida.
+P|Vámonos tras tí, Julieta. El Conde nos espera.
+P|Niña, piensa bien lo que haces.
+S|Escena IV.
+S|Calle. Romeo, Mercutio, Benvolio, y máscaras con teas encendidas.
+P|¿Pronunciaremos el discurso que traiamos compuesto, ó entraremos sin preliminares?
+P|Nada de rodeos. Para nada nos hace falta un Amorcillo de laton con venda por pañuelo, y con arco, espanta pájaros de doncellas. Para nada repetir con el apuntador, en voz medrosa, un prólogo inútil. Mídannos por el compas que quieran, y hagamos nosotros unas cuantas mudanzas de baile.
+P|apuntador, en voz medrosa, un prólogo inútil. Mídannos por el compas que quieran, y hagamos nosotros unas cuantas mudanzas de baile.
+P|Dadme una tea. No quiero bailar. El que está á oscuras necesita luz.
+P|Nada de eso, Romeo; tienes que bailar.
+P|No por cierto. Vosotros llevais zapatos de baile, y yo estoy como tres en un zapato, sin poder moverme.
+P|Pídele sus alas al Amor, y con ellas te levantarás de la tierra.
+P|Sus flechas me han herido de tal modo, que ni siquiera sus plumas bastan para levantarme. Me ha atado de tal suerte, que no puedo pasar la raya de mis dolores. La pesadumbre me ahoga.
+P|No has debido cargar con tanto peso al amor, que es muy delicado.
+P|¡Delicado el amor! Antes duro y fuerte y punzante como el cardo.
+P|Si es duro, sé tú duro con él. Si te hiere, hiérele tú, y verás cómo se da por vencido. Dadme un antifaz para cubrir mi rostro. ¡Una máscara sobre otra máscara!
+P|Llamad á la puerta, y cuando estemos dentro, cada uno baile como pueda.
+P|¡Una antorcha! Yo, imitando la frase de mi abuelo, seré quien lleve la luz en esta empresa, porque el gato escaldado huye del agua.
+P|De noche todos los gatos son pardos, como decia muy bien el Condestable. Nosotros te sacaremos de esa caldera de amor en que te escaldaste. ¡Vamos, que la luz se va acabando!
+P|No por cierto.
+P|Mientras andamos en vanas palabras, se gastan las antorchas. Entiende tú bien lo que quiero decir.
+P|¿Tienes ganas de entrar en el baile? ¿Crees que eso tiene sentido?
+P|¿Y lo dudas?
+P|Tuve anoche un sueño.
+P|Y yo otro esta noche.
+P|¿Y á qué se reduce tu sueño?
+P|Comprendí la diferencia que hay del sueño á la realidad.
+P|En la cama fácilmente se sueña.
+P|Sin duda te ha visitado la reina Mab, nodriza de las hadas. Es tan pequeña como el ágata que brilla en el anillo de un regidor. Su carroza va arrastrada por caballos leves como átomos, y sus rádios son patas de tarántula, las correas son de gusano de seda, los frenos de rayos de luna: huesos de grillo é hilo de araña forman el látigo; y un mosquito de oscura librea, dos veces más pequeño que el insecto que la aguja sutil extrae del dedo de ociosa dama, guia el espléndido equipaje. Una cáscara de avellana forma el coche elaborado por la ardilla; eterna carpintera de las hadas. En ese carro discurre de noche y dia por cabezas enamoradas, y les hace concebir vanos deseos, y anda por las cabezas de los cortesanos, y les inspira vanas cortesías. Corre por los dedos de los abogados, y sueñan con procesos. Recorre los labios de las damas, y sueñan con besos. Anda por las narices de los pretendientes, y sueñan que han alcanzado un empleo. Azota con la punta de un rabo de puerco las orejas del cura, produciendo en ellas sabroso cosquilleo, indicio cierto de beneficio ó canonjía cercana. Se adhiere al cuello del soldado, y le hace soñar que vence y triunfa de sus enemigos y los degüella con su truculento acero toledano, hasta que oyendo los sones del cercano atambor, se despierta sobresaltado, reza un padre nuestro, y vuelve á dormirse. La reina Mab es quien enreda de noche las crines de los caballos, y enmaraña el pelo de los duendes, é infecta el lecho de la cándida vírgen, y despierta en ella por primera vez impuros pensamientos.
+P|Basta, Mercutio. No prosigas en esa charla impertinente.
+P|De sueños voy hablando, fantasmas de la imaginacion dormida, que en su vuelo excede la ligereza de los aires, y es más mudable que el viento.
+P|Tú si que estás arrojando viento y humo por esa boca. Ya nos espera la cena, y no es cosa de llegar tarde.
+P|Demasiado temprano llegareis. Témome que las estrellas están de mal talante, y que mi mala suerte va á empezarse en este banquete, hasta que llegue la negra muerte á cortar esta inútil existencia. Pero en fin, el piloto de mi nave sabrá guiarla. Adelante, amigos mios.
+P|Á son de tambores.
+S|Escena V.
+S|Sala en casa de Capuleto. Músicos y Criados.
+P|¿Dónde anda Cacerola, que ni limpia un plato, ni nos ayuda en nada?
+P|¡Qué pena me da ver la cortesía en tan pocas manos, y éstas sucias!
+P|Fuera los bancos, fuera el aparador. No perdais de vista la plata. Guardadme un pedazo del pastel. Decid al portero que deje entrar á Elena y á Susana la molinera. ¡Cacerola!
+P|Aquí estoy, compañero.
+P|Todos te llaman á comparecer en la sala.
+P|No puedo estar en dos partes al mismo tiempo. Compañeros, acabad pronto, y el que quede sano, que cargue con todo.
+S|(Entran Capuleto, su mujer, Julieta, Teobaldo, y convidados con máscaras.)
+P|Celebro vuestra venida. Os invitan al baile los ligeros piés de estas damas. A la danza, jóvenes. ¿Quién se resiste á tan imperiosa tentacion? Ni siquiera la que por melindre dice que tiene callos. Bien venidos seais. En otro tiempo tambien yo gustaba de enmascararme, y decir al oido de las hermosas secretos que á veces no les desagradaban. Pero el tiempo llevó consigo tales flores. Celebro vuestra venida. Comience la música. ¡Que pasen delante las muchachas! (Comienza el baile.) ¡Luz, más luz! ¡Fuera las mesas! Nada de fuego, que harto calor hace. ¡Cómo te agrada el baile, picarillo! Una silla. á mi primo, que nosotros no estamos para danzas. ¿Cuándo hemos dejado la máscara?
+P|¡Dios mio! Hace más de 30 años.
+P|No tanto, primo. Si fué cuando la boda de Lucencio. Por Pentecostes hará 25 años.
+P|Más tiempo hace, porque su hijo ha cumplido los treinta.
+P|¿Cómo, si, hace dos años, aún no habia llegado á la mayor edad?
+P|(Á su criado.) ¿Dime, qué dama es la que enriquece la mano de ese galán con tal tesoro?
+P|No la conozco.
+P|El brillo de su rostro afrenta al del sol. No merece la tierra tan soberano prodigio. Parece entre las otras como paloma entre grajos. Cuando el baile acabe, me acercaré á ella, y estrecharé su mano con la mia. No fué verdadero mi antiguo amor, que nunca belleza como ésta vieron mis ojos.
+P|Por la voz parece Montesco. (Al criado.) Tráeme la espada. ¿Cómo se atreverá ese malvado á venir con máscara á perturbar nuestra fiesta? Juro por los huesos de mi linaje que sin cargo de conciencia le voy á quitar la vida.
+P|¿Por qué tanta ira, sobrino mio?
+P|Sin duda es un Montesco, enemigo jurado de mi casa, que ha venido aquí para burlarse de nuestra fiesta.
+P|¿Es Romeo?
+P|El infame Romeo.
+P|No más, sobrino. Es un perfecto caballero, y todo Verona se hace lenguas de su virtud, y aunque me dieras cuantas riquezas hay en la ciudad, nunca le ofenderia en mi propia casa. Así lo pienso. Si en algo me estimas, ponle alegre semblante, que esa indignacion y esa mirada torva no cuadran bien en una fiesta.
+P|Cuadra, cuando se introduce en nuestra casa tan ruin huésped. ¡No lo consentiré!
+P|Sí lo consentirás. Te lo mando. Yo sólo tengo autoridad aquí. ¡Pues no faltaba más! ¡Favor divino! ¡Maltratar á mis huéspedes dentro de mi propia casa! ¡Armar quimera con ellos, sólo por echárselas de valiente!
+P|Tio, esto es una afrenta para nuestro linaje.
+P|Lejos, lejos de aquí. Eres un rapaz incorregible. Cara te va á costar la desobediencia. ¡Ea, basta ya! Manos quedas... Traed luces... Yo te haré estar quedo. ¡Pues esto sólo faltaba! ¡A bailar, niñas!
+P|Mis carnes se estremecen en la dura batalla de mi repentino furor y mi ira comprimida. Me voy, porque esta injuria que hoy paso, ha de traer amargas hieles.
+P|(Cogiendo la mano de Julieta.) Si con mi mano he profanado tan divino altar, perdonadme. Mi boca borrará la mancha, cual peregrino ruboroso, con un beso.
+P|El peregrino ha errado la senda aunque parece devoto. El palmero sólo ha de besar manos de santo.
+P|¿Y no tiene labios el santo lo mismo que el romero?
+P|Los labios del peregrino son para rezar.
+P|¡Oh, qué santa! Truequen pues de oficio mis manos y mis labios. Rece el labio y concededme lo que pido.
+P|El santo oye con serenidad las súplicas.
+P|Pues oidme serena mientras mis labios rezan, y los vuestros me purifican. (La besa.)
+P|En mis labios queda la marca de vuestro pecado.
+P|¿Del pecado de mis labios? Ellos se arrepentirán con otro beso. (Torna á besarla.)
+P|Besais muy santamente.
+P|Tu madre te llama.
+P|¿Quién es su madre?
+P|La señora de esta casa, dama tan sabia como virtuosa. Yo crié á su hija, con quien ahora poco estabais hablando. Mucho dinero necesita quien haya de casarse con ella.
+P|¿Con que es Capuleto? ¡Hado enemigo!
+P|Vámonos, que se acaba la fiesta.
+P|Harta verdad es, y bien lo siento.
+P|No os vayais tan pronto, amigos. Aún os espera una parca cena. ¿Os vais? Tengo que daros á todos las gracias. Buenas noches, hidalgos. ¡Luces, luces, aquí! Vamonos á acostar. Ya es muy tarde, primo mio. Vámonos á dormir.
+S|(Quedan solas Julieta y el Ama.)
+P|Ama, ¿sabes quién es este mancebo?
+P|El mayorazgo de Fiter.
+P|¿Y aquel otro que sale?
+P|El joven Petrucio, si no me equivoco.
+P|¿Y el que va detras... aquel que no quiere bailar?
+P|Lo ignoro.
+P|Pues trata de saberlo. Y si es casado, el sepulcro será mi lecho de bodas.
+P|Es Montesco, se llama Romeo, único heredero de esa infame estirpe.
+P|¡Amor nacido del odio, harto pronto te he visto, sin conocerte! ¡Harto tarde te he conocido! Quiere mi negra suerte que consagre mi amor al único hombre á quien debo aborrecer.
+P|¿Qué estás diciendo?
+P|Versos, que me dijo uno bailando.
+P|Te están llamando. Ya va. No te detengas, que ya se han ido todos los huéspedes.
+P|Ved cómo muere en el pecho de Romeo la pasion antigua, y cómo la sustituye una pasion nueva. Julieta viene á eclipsar con su lumbre á la belleza que mataba de amores á Romeo. Él, tan amado como amante. busca en una raza enemiga su ventura. Ella ve pendiente de enemigo anzuelo el cebo sabroso del amor. Ni él ni ella pueden declarar su anhelo. Pero la pasion buscará medios y ocasion de manifestarse.
+H|Acto II
+S|Escena II.
+S|Jardín de Capuleto.
+P|¡Qué bien se burla del dolor ajeno quien nunca sintió dolores..! (Pónese Julieta á la ventana.) ¿Pero qué luz es la que asoma por allí? ¿El sol que sale ya por los balcones de oriente? Sal, hermoso sol, y mata de envidia con tus rayos á la luna, que está pálida y ojeriza porque vence tu hermosura cualquier ninfa de tu coro. Por eso se viste de amarillo color.
+P|¡Que necio el que se arree con sus galas marchitas! ¡Es mi vida, es mi amor el que aparece! ¿Cómo podria yo decirla que es señora de mi alma? Nada me dijo. Pero ¿qué importa? Sus ojos hablarán, y yo responderé. ¡Pero qué atrevimiento es el mio, si no me dijo nada! Los dos más hermosos luminares del cielo la suplican que les sustituya durante su ausencia. Si sus ojos resplandecieran como astros en el cielo, bastaria su luz para ahogar los restantes como el brillo del sol mata el de una antorcha. Tal torrente de luz brotaria de sus ojos, que haria despertar á las aves á media noche, y entonar su cancion como si hubiese venido la aurora! Ahora pone la mano en la mejilla. ¿Quién pudiera tocarla como el guante que la cubre?
+P|¡Ay de mí!
+P|¡Habló! Vuelvo á sentir su voz. ¡Ángel de amores que en medio de la noche te me apareces, cual nuncio de los cielos á la atónita vista de los mortales, que deslumbrados le miran traspasar con vuelo rapidísimo las esferas, y mecerse en las alas de las nubes!
+P|¡Romeo, Romeo! ¿Por qué eres tú Romeo? ¿Por qué no reniegas del nombre de tu padre y de tu madre? Y si no tienes valor para tanto, ámame, y no me tendré por Capuleto.
+P|¿Qué hago, seguirla oyendo ó hablar?
+P|No eres tü mi enemigo. Es el nombre de Montesco, que llevas. ¿Y qué quiere decir Montesco? No es pié ni mano ni brazo, ni semblante ni pedazo alguno de la naturaleza humana. ¿Porqué no tomas otro nombre? La rosa no dejaria de ser rosa, y de esparcir su aroma, aunque se llamase de otro modo. De igual suerte mi querido Romeo, aunque tuviese otro nombre, conservaria todas las buenas cualidades de su alma, que no le vienen por herencia. Deja tu nombre, Romeo, y en cambio de tu nombre que no es cosa alguna sustancial, toma toda mi alma.
+P|Si de tu palabra me apodero, llámame tu amante, y creeré que me he bautizado de nuevo, y que he perdido el nombre de Romeo.
+P|¿Y quién eres tú que, en medio de las sombras de la noche, vienes á sorprender mis secretos?
+P|No sé de cierto mi nombre, porque tú aborreces ese nombre, amada mia, y si yo pudiera, lo arrancaria de mi pecho.
+P|Pocas palabras son las que aún he oido de esa boca, y sin embargo te reconozco. ¿No eres Romeo? ¿No eres de la familia de los Montescos?
+P|No seré ni una cosa ni otra, ángel mio, si cualquiera de las dos te enfada.
+P|¿Cómo has llegado hasta aquí, y para qué? Las paredes de esta puerta son altas y difíciles de escalar, y aquí podrias tropezar con la muerte, siendo quien eres, si alguno de mis parientes te hallase.
+P|Las paredes salté con las alas que me dió el amor, ante quien no resisten aun los muros de roca. Ni siquiera á tus parientes temo.
+P|Si te encuentran, te matarán.
+P|Más homicidas son tus ojos, diosa mia, que las espadas de veinte parientes tuyos. Mírame sin enojos, y mi cuerpo se hará invulnerable.
+P|Yo daria un mundo por que no te descubrieran.
+P|De ellos me defiende el velo tenebroso de la noche. Más quiero morir á sus manos, amándome tú, que esquivarlos y salvarme de ellos, cuando me falte tu amor.
+P|¿Y quién te guió aquí?
+P|El amor que me dijo dónde vivias. De él me aconsejé, él guió mis ojos que yo le había entregado. Sin ser nauchero, te juro que navegaria hasta la playa más remota de los mares por conquistar joya tan preciada.
+P|Si el manto de la noche no me cubriera, el rubor de vírgen subiría á mis mejillas, recordando las palabras que esta noche me has oido. En vano quisiera corregirlas ó desmentirlas... ¡Resistencias vanas! ¿Me amas? Sé que me dirás que sí, y que yo lo creeré. Y sin embargo podrías faltar á tu juramento, porque dicen que Jove se rie de los perjuros de los amantes. Si me amas de veras, Romeo, dilo con sinceridad, y si me tienes por fácil y rendida al primer ruego, dímelo tambien, para que me ponga esquiva y ceñuda, y asi tengas que rogarme. Mucho te quiero, Montesco, mucho, y no me tengas por liviana, antes he de ser más firme y constante que aquellas que parecen desdeñosas porque son astutas. Te confesaré que más disimulo hubiera guardado contigo, si no me hubieses oido aquellas palabras que, sin pensarlo yo, te revelaron todo el ardor de mi corazon. Perdóname, y no juzgues ligereza este rendirme tan pronto. La soledad de la noche lo ha hecho.
+P|Juróte, amada mia, por los rayos de la luna que platean la copa de estos árboles...
+P|No jures por la luna, que en su rápido movimiento cambia de aspecto cada mes. No vayas á imitar su inconstancia.
+P|¿Pues por quién juraré?
+P|No hagas ningun juramento. Si acaso, jura por tí mismo, por tu persona que es el dios que adoro y en quien he de creer.
+P|¡Ojalá que el fuego de mi amor...!
+P|No jures. Aunque me llene de alegría el verte, no quiero esta noche oir tales promesas que parecen violentas y demasiado rápidas. Son como el rayo que se extingue, apenas aparece. Aléjate ahora: quizá cuando vuelvas haya llegado á abrirse, animado por las brisas del estío, el capullo de esta flor. Adios, y ojalá aliente tu pecho en tan dulce calma como el mio!
+P|¿Y no me das más consuelo que ese?
+P|¿Y qué otro puedo darte esta noche?
+P|Tu fé por la mia.
+P|Antes te la dí que tú acertaras á pedírmela. Lo que siento es no poder dártela otra vez.
+P|¿Pues qué? ¿Otra vez quisieras quitármela?
+P|Sí, para dártela otra vez, aunque esto fuera codicia de un bien que tengo ya. Pero mi afán de dártelo toda es tan profundo y tan sin límite como los abismos de la mar. ¡Cuanto mas te doy, más quisiera darte!... Pero oigo ruido dentro. ¡Adios! no engañes mi esperanza... Ama, allá voy... Guárdame fidelidad, Montesco mio. Espera un instante, que vuelvo en seguida.
+P|¡Noche, deliciosa noche! Sólo temo que, por ser de noche, no pase todo esto de un delicioso sueño.
+P|(Asomada otra vez á la ventana.) Sólo te diré dos palabras. Si el fin de tu amor es honrado, si quieres casarte, avisa mañana al mensajero que te enviaré, de cómo y cuándo quieres celebrar la sagrada ceremonia. Yo te sacrificaré mi vida é iré en pos de tí por el mundo.
+P|(Llamando dentro.) Julieta!
+P|Ya voy. Pero si son torcidas tus intenciones, suplícote que...
+P|¡Julieta!
+P|Ya corro... Suplicóte que desistas de tu empeño, y me dejes á solas con mi dolor. Mañana irá el mensajero...
+P|Por la gloria...
+P|Buenas noches.
+P|No. ¿Cómo han de ser buenas sin tus rayos? El amor va en busca del amor como el estudiante huyendo de sus libros, y el amor se aleja del amor como el niño que deja sus juegos para tornar al estudio.
+P|(Otra vez á la ventana.) ¡Romeo! ¡Romeo! ¡Oh, si yo tuviese la voz del cazador de cetrería, para llamar de lejos á los halcones! Si yo pudiera hablar á gritos, penetraria mi voz hasta en la gruta de la ninfa Eco, y llegaría á ensordecerla repitiendo el nombre de mi Romeo.
+P|¡Cuan grato suena el acento de mi amada en la apacible noche, protectora de los amantes! Más dulce es que música en oido atento.
+P|¡Romeo!
+P|¡Alma mia!
+P|¿A qué hora irá mi criado mañana?
+P|A las nueve.
+P|No faltará. Las horas se me harán siglos hasta que esa llegue. No sé para qué te he llamado.
+P|¡Déjame quedar aquí hasta que lo pienses!
+P|Con el contento de verte cerca me olvidaré eternamente de lo que pensaba, recordando tu dulce compañía.
+P|Para que siga tu olvido no he de irme.
+P|Ya es de dia. Vete... Pero no quisiera que te alejaras más que el breve trecho que consiente alejarse al pajarillo la niña que le tiene sujeto de una cuerda de seda, y que á veces le suelta de la mano, y luego le coge ansiosa, y le vuelve á soltar...
+P|¡Ojalá fuera yo ese pajarillo!
+P|¿Y qué quisiera yo sino que lo fueras? aunque recelo que mis caricias habian de matarte. ¡Adios, adios! Triste es la ausencia y tan dulce la despedida, que no sé cómo arrancarme de los hierros de esta ventana.
+P|¡Que el sueño descanse en tus dulces ojos y la paz en tu alma! ¡Ojalá fuera yo el sueño, ojalá fuera yo la paz en que se duerme tu belleza! De aquí voy á la celda donde mora mi piadoso confesor, para pedirle ayuda y consejo en este trance.
+S|Escena III.
+S|Celda de Fray Lorenzo. Fray Lorenzo y Romeo.
+P|Ya la aurora se sonrie mirando huir á la oscura noche. Ya con sus rayos dora las nubes de oriente. Huye la noche con perezosos piés, tropezando y cayendo como un beodo, al ver la lumbre del sol que se despierta y monta en el carro de Titan. Antes que tienda su dorada lumbre, alegrando el dia y enjugando el llanto que vertió la noche, he de llenar este cesto de bien olientes flores y de yerbas primorosas. La tierra es á la vez cuna y sepultura de la naturaleza, y su seno educa y nutre hijos de varia condicion, pero ninguno tan falto de virtud que no dé alimento ó remedio ó solaz al hombre. Extrañas son las virtudes que derramó la pródiga mano de la naturaleza, en piedras, plantas y yerbas. No hay sér inútil sobre la tierra, por vil y despreciable que parezca. Por el contrario, el ser más noble, si se emplea con mal fin, es dañino y abominable. El bien mismo se trueca en mal y el valor en vicio, cuando no sirve á un fin virtuoso. En esta flor que nace duermen escondidos á la vez medicina y veneno: los dos nacen del mismo origen, y su olor comunica deleite y vida á los sentidos, pero si se aplica al labio, esa misma flor tan aromosa mata el sentido. Así es el alma humana; dos monarcas imperan en ella, uno la humildad, otro la pasion; cuando ésta predomina, un gusano roedor consume la planta.
+P|Buenos dias, padre.
+P|Él sea en tu guarda. ¿Quién me saluda con tan dulces palabras, al apuntar el dia? Levantado y á tales horas, revela sin duda intranquilidad de conciencia, hijo mio. En las pupilas del anciano viven los cuidados veladores, y donde reina la inquietud ¿cómo habitará el sosiego? Pero en lecho donde reposa la juventud ajena de todo pesar y duelo, infunde en los miembros deliciosa calma el blando sueño. Tu visita tan de mañana me indica que alguna triste ocasión te hace abandonar tan pronto el lecho. Y si no... será que has pasado la noche desvelado.
+P|¡Eso es, y descansé mejor que dormido!
+P|Perdónete Dios. ¿Estuviste con Rosalía?
+P|¿Con Rosalía? Ya su nombre no suena dulce en mis oidos, ni pienso en su amor.
+P|Bien haces. Luego ¿dónde estuviste?
+P|Te lo diré sin ambages. En la fiesta de nuestros enemigos los Capuletos, donde á la vez herí y fui herido. Sólo tus manos podrán sanar á uno y otro contendiente. Y con esto verás que no conservo rencor á mi adversario, puesto que intercedo por él como si fuese amigo mio.
+P|Dime con claridad el motivo de tu visita, si es que puedo ayudarte en algo.
+P|Pues te diré en dos palabras que estoy enamorado de la hija del noble Capuleto, y que ella me corresponde con igual amor. Ya está concertado todo—sólo falta que vos bendigais esta union. Luego os diré con más espacio dónde y cómo nos conocimos y nos juramos constancia eterna. Ahora lo que importa es que nos caseis al instante.
+P|¡Por vida de mi padre san Francisco! ¡Qué pronto olvidaste á Rosalía, en quien cifrabas antes tu cariño! El amor de los jóvenes nace de los ojos y no del corazón. ¡Cuánto lloraste por Rosalía! y ahora tanto amor y tanto enojo se ha disipado como el eco. Aún no ha disipado el sol los vapores de tu llanto. Aún resuenan en mis oidos tus quejas. Aún se ven en tu rostro las huellas de antiguas lágrimas. ¿No decias que era más bella y gentil que ninguna? y ahora te has mudado. ¡Y luego acusais de inconstantes á las mujeres! ¿Cómo buscais firmeza en ellas, si vosotros les dais el ejemplo de olvidar?
+P|¿Pero vos no reprobabais mi amor por Rosalía?
+P|Yo no reprobaba tu amor, sino tu idolatría ciega.
+P|¿Y no me dijisteis que hiciera todo lo posible por ahogar ese amor?
+P|Pero no para que de la sepultura de ese amor brotase otro amor nuevo y más ardiente.
+P|No os enojeis conmigo, porque mi señora me quiere tanto como yo á ella y con su amor responde al mio, y la otra no.
+P|Es que Rosalía quizá adivinara la ligereza de tu amor. Ven conmigo, inconstante mancebo. Yo te ayudaré á conseguir lo que deseas para que esta boda sea lazo de amistad que extinga el rencor de vuestras familias.
+P|Vamos, pues, sin detenernos.
+P|Vamos con calma para no tropezar.
+S|Escena IV.
+S|Calle. Benvolio y Mercutio.
+P|¿Dónde estará Romeo? ¿Pareció anoche por su casa?
+P|Por casa de su padre no estuvo. Así me lo ha dicho su criado.
+P|¡Válgame Dios! Esa pálida muchachuela, esa Rosalía de duras entrañas acabará por tornarle loco.
+P|Teobaldo, el primo de Capuleto, ha escrito una carta al padre de Romeo.
+P|Sin duda será cartel de desafío.
+P|Pues Romeo es seguro que contestará.
+P|Todo el mundo puede responder á una carta.
+P|Quiero decir que Romeo sabrá tratar como se merece al dueño de la carta.
+P|¡Pobre Romeo! Esa rubia y pálida niña le ha atravesado el corazon á estocadas, le ha traspasado los oidos con una cancion de amor, y el centro del alma con las anchas flechas del volador Cupido... ¿Y quién resistirá á Teobaldo?
+P|¿Quién es Teobaldo?
+P|Algo más que el rey de los gatos; es el mejor y más diestro esgrimidor. Maneja la espada como tú la lengua, guardando tiempo, distancia y compas. Gran cortador de ropillas. Espadachin, espadachín de profesion, y muy enterado del inmortal passato, del punto reverso y del par.
+P|¿Y qué quieres decir con eso?
+P|Mala landre devore á esos nuevos elegantes que han venido con gestos y cortesías á reformar nuestras antiguas costumbres «¡Qué buena espada, qué buen mozo, qué hermosa mujer!» Decidme, abuelos mios, ¿no es mala vergüenza que estemos llenos de estos moscones extranjeros, estos pardonnez moi, tan ufanos con sus nuevas galas y tan despreciadores de lo antiguo? ¡Oh, necedad insigne!
+S|(Sale Romeo.)
+P|¡Aquí tienes á Romeo! ¡Aquí tienes á Romeo!
+P|Bien roma trae el alma. No eres carne ni pescado. ¡Oh materia digna de los versos del Petrarca! Comparada con su amor Laura era una fregona, sino que tuvo mejor poeta que la celebrase; Dido una zagala, Cleopatra una gitana, Hero y Elena dos rameras, y Ciste, á pesar de sus negros ojos, no podría competir con la suya. Bon jour, Romeo. Saludo francés corresponde á vuestras calzas francesas. Anoche nos dejaste en blanco.
+P|¿Qué dices de dejar en blanco?
+P|Que te despediste á la francesa. ¿Lo entiendes ahora?
+P|Perdon, Mercutio. Tenia algo que hacer, y no estaba el tiempo para cortesías.
+P|¿De suerte que tú tambien las usas á veces y doblas las rodillas?
+P|Luego no soy descortes, porque eso es hacer genuflexiones.
+P|Dices bien.
+P|Pero aquello de que hablábamos es cortesía y no genuflexion.
+P|Es que yo soy la flor de la cortesía.
+P|¿Cómo no dices la flor y nata?
+P|Porque la nata la dejo para tí .
+P|Cállate.
+P|¿Y no es mejor esto que andar en lamentaciones exóticas? Ahora te reconozco: eres Romeo, nuestro antiguo y buen amigo. Andabas hecho un necio con ese amor insensato.
+S|(Salen Pedro y el Ama.)
+P|Vela, vela.
+P|Y son dos: una saya y un sayal.
+P|¡Pedro!
+P|¿Qué?
+P|Tráeme el abanico.
+P|Dáselo, Pedro, que siempre será más agradable mirar su abanico que su cara.
+P|Buenas tardes, señores.
+P|Buenas tardes, hermosa dama.
+P|¿Pues hemos llegado á la tarde?
+P|No, pero la mano lasciva del reloj está señalando las doce.
+P|¡Jesús, qué hombre!
+P|Un hombre que Dios crió, para que luego echase él mismo á perder la obra divina.
+P|Bien dicho. Para que echase su obra á perder... ¿Pero me podría decir alguno de vosotros dónde está el joven Romeo?
+P|Yo te lo podré decir, y por cierto que ese joven será ya más viejo cuando le encontreis, que cuando empezabais á buscarlo. Yo soy Romeo, á falta de otro más jóven.
+P|¿Lo decis de veras?
+P|¿Conque á falta de otro mejor, os parece jóven? Discretamente lo entendeis.
+P|Si verdaderamente sois Romeo, tengo que deciros secretamente una palabra.
+P|Si querrá citarle para esta noche...
+P|¿Es una alcahueta, una perra?... ¡Oh, oh!...
+P|¿Qué ruido es ese?
+P|No es que haya encontrado yo ninguna liebre, ni es cosa de seguir la liebre, aunque como dice el cantar: «En cuaresma bien se puede comer una liebre vieja, pero tan vieja llega á podrirse, si se la guarda, que no hay quien la pueda mascar.» ¿Vas á casa de tu padre, Romeo? Allá iremos á comer.
+P|Voy con vosotros.
+P|Adios, hermosa vieja; hermosa, hermosa, hermosa.
+S|(Vanse él y Benvolio.)
+P|Bendito sea Dios, que ya se fué éste. ¿Me podríais decir (á Romeo) quién es este majadero, tan pagado de sus chistes?
+P|Ama, es un amigo mio que se escucha á si mismo y gusta de reirse sus gracias, y que habla más en una hora que lo que escuchas tú en un mes.
+P|Pues si se atreve á hablar mal de mí, él me lo pagará, aunque vengan en su ayuda otros veinte de su calaña, Y si yo misma no puedo, otros sacarán la cara por mí. Pues no faltaba más. ¡El grandísimo inpertinente! ¿Si creerá que yo soy una mujer de esas?... Y tú (á Pedro) que estás ahí tan reposado, y dejas que cualquiera me insulte.
+P|Yo no he visto que nadie os insulte, porque si lo viera, no tardaria un minuto en sacar mi espada. Nadie me gana en valor cuando mi causa es justa, y cuando me favorece la ley.
+P|¡Válgame Dios! todavía me dura el enojo y las carnes me tiemblan... Una palabra sola, caballero. Como iba diciendo, mi señorita me manda con un recado para vos. No voy á repetiros todo lo que me ha dicho. Pero si vuestro objeto es engañarla, ciertamente que será cosa indigna, porque mi señorita es una muchacha joven, y el engañarla seria muy mala obra, y no tendría perdon de Dios.
+P|Ama, puedes jurar á tu señora que...
+P|¡Bien, bien, así se lo diré, y ha de alegrarse mucho!...
+P|¿Y qué le vas á decir, si todavía no me has oido nada?
+P|Le diré que protestais, lo cual, á fe mia, es obrar como caballero.
+P|Dile que invente algún pretexto para ir esta tarde a confesarse al convento de fray Lorenzo, y él nos confesará y casará. Toma este regalo.
+P|No aceptaré ni un dinero, señor mio.
+P|Yo te lo mando.
+P|¿Conque esta tarde? Pues no faltará.
+P|Espérame detras de las tapias del convento, y antes de una hora, mi criado te llevará una escala de cuerdas para poder yo subir por ella hasta la cima de mi felicidad. Adios y séme fiel. Yo te lo premiaré todo. Mis recuerdos á Julieta.
+P|Bendito seais. Una palabra más.
+P|¿Qué, ama?
+P|¿Es de fiar vuestro criado? ¿Nunca oisteis que á nadie fia sus secretos el varon prudente?
+P|Mi criado es fiel como el oro.
+P|Bien, caballero. No hay señorita más hermosa que la mia. ¡Y si la hubierais conocido cuando pequeña!... ¡Ah! Por cierto que hay en la ciudad un tal Páris que de buena gana la abordaría. Pero ella, bendita sea su alma, más quisiera á un sapo feísimo que á él. A veces me divierto en enojarla, diciéndole que Páris es mejor mozo que vos, y ¡si vierais cómo se pone entonces! Mas pálida que la cera. Decidme ahora: ¿Romero y Romeo no tienen la misma letra inicial?
+P|Verdad es que ambos empiezan por R.
+P|Eso es burla. Yo sé que vuestro nombre empieza con otra letra menos áspera... ¡Si vierais qué graciosos equívocos hace con vuestro nombre y con Romero! Gusto os diera oirla.
+P|Recuerdos á Julieta.
+P|Sí que se los daré mil veces. ¡Pedro!
+P|¡Qué!
+P|Toma el abanico, y guíame.
+S|Escena V.
+S|Jardín de Capuleto. Julieta y el Ama.
+P|Las nueve eran cuando envié al ama, y dijo que antes de media hora volveria. ¿Si no lo habrá encontrado? ¡Pero sí! ¡Qué torpe y perezosa! Sólo el pensamiento debiera ser nuncio del amor. El corre más que los rayos del sol cuando ahuyentan las sombras de los montes. Por eso pintan al amor con alas. Ya llega el sol á la mitad de su carrera. Tres horas van pasadas desde las nueve á las doce, y él no vuelve todavía. Si ella tuviese sangre juvenil y alma, volveria con las palabras de su boca; pero la vejez es pesada como un plomo. (Salen el Ama y Pedro.) ¡Gracias á Dios que viene! Ama mia, querida ama... ¿qué noticias traes? ¿Hablaste con él? Que se vaya Pedro.
+P|Vete, Pedro.
+P|Y bien, ama querida. ¡Qué triste estás! ¿Acaso traes malas noticias? Dímelas, á lo menos, con rostro alegre. Y si son buenas, no las eches á perder con esa mirada torva.
+P|Muy fatigada estoy. ¡Qué quebrantados están mis huesos!
+P|¡Tuvieras tus huesos tú y yo mis noticias! Habla por Dios, ama mia.
+P|¡Señor, qué prisa! Aguarda un poco. ¿No me ves sin aliento?
+P|¿Cómo sin aliento, cuándo té sobra para decirme que no le tienes? Menos que en volverlo á decir, tardarias en darme las noticias. ¿Las traes buenas ó malas?
+P|¡Qué mala elección de marido has tenido! ¡Vaya, que el tal Romeo! Aunque tenga mejor cara que los demás, todavía es mejor su pié y su mano y su gallardía. No diré que la flor de los cortesanos, pero tengo para mí que es humilde como una oveja. ¡Bien has hecho, hija! y qué Dios te ayude. ¿Has comido en casa?
+P|Calla, calla: eso ya me lo sabia yo. ¿Pero que hay de la boda? dímelo.
+P|¡Jesús! ¡qué cabeza la mia! Pues, y la espalda... ¡Cómo me mortifican los riñones! ¡La culpa es tuya que me haces andar por esos andurriales, abriéndome la sepultura antes de tiempo.
+P|Mucho siento tus males, pero acaba de decirme, querida ama, lo que te contestó mi amor.
+P|Habló cómo un caballero lleno de discrecion y gentileza; puedes creerme. ¿Dónde está tu madre?
+P|¿Mi madre? Allá dentro. ¡Vaya una pregunta!
+P|¡Válgame Dios! ¿Te enojas conmigo? ¡Buen emplasto para curar mis quebraduras! Otra vez vas tú misma á esas comisiones.
+P|Pero ¡qué confusión! ¿Qué es en suma lo que te dijo Romeo?
+P|¿Te dejarán ir sola á confesar?
+P|Sí.
+P|Pues allí mismo te casarás. Vete á la celda de fray Lorenzo. Ya se cubren de rubor tus mejillas con tan sencilla nueva. Vete al convento. Yo, iré por otra parte á buscar la escalera, con que tu amante ha de escalar el nido del amor. A la celda, pues, y yo á comer.
+P|¡Y yo á mi felicidad! ama mia.
+S|Escena VI.
+S|Celda de Fray Lorenzo. Fray Lorenzo y Romeo.
+P|¡El cielo mire con buenos ojos la ceremonia que vamos á cumplir, y no nos castigue por ella en adelante!
+P|¡Así sea, así sea! Pero por muchas penas que vengan no bastarán á destruir la impresion de este momento de ventura. Junta nuestras manos, y con tal que yo pueda llamarla mia, no temeré ni siquiera á la muerte, verdugo del amor.
+P|Nada violento es duradero: ni el placer ni la pena: ellos mismos se consumen como el fuego y la pólvora al usarse. La excesiva dulcedumbre de la miel empalaga al labio. Ama, pues, con templanza. Aquí está la dama; (sale Julieta) su pié es tan leve que no desgastará nunca la eterna roca; tan ligera que puede correr sobre las telas de araña sin romperlas.
+P|Buenas tardes, reverendo confesor.
+P|Romeo te dará las gracias en nombre de los dos.
+P|Por eso le he incluido en el saludo. Si nó, pecaría él de exceso de cortesía.
+P|¡Oh, Julieta! Si tu dicha es cómo la mia y puedes expresarla con más arte, alegra con tus palabras el aire de este aposento y deja que tu voz proclame la ventura que hoy agita el alma de los dos.
+P|El verdadero amor es más prodigo de obras que de palabras: más rico en la esencia que en la forma. Sólo el pobre cuenta su caudal. Mi tesoro es tan grande que yo no podria contar ni siquiera la mitad.
+P|Acabemos pronto. No os dejaré solos hasta que os ligue la bendición nupcial.
+H|Acto III
+S|Escena primera.
+S|Plaza de Verona.
+S|Mercutio, Benvolio.
+P|Amigo Mercutio, pienso que debíamos refrenarnos, porque hace mucho calor, y los Capuletos andan encalabrinados, y ya sabes que en verano hierve mucho la sangre.
+P|Tú eres uno de esos hombres que cuando entran en una taberna, ponen la espada sobre la mesa, como diciendo: «ojalá que no te necesite,» y luego, á los dos tragos, la sacan, sin que nadie les provoque.
+P|¿Dices que yo soy de esos?
+P|Y de los más temibles espadachines de Italia, tan fácil de entrar en cólera como de provocar á los demas.
+P|¿Por qué dices eso?
+P|Si hubiera otro como tú, pronto os matariais. Capaz eres de reñir por un solo pelo de la barba. Donde nadie veria ocasion de camorra, la ves tú. Llena está de riña tu cabeza, como de yema un huevo, y eso que á porrazos te han puesto tan blanda como una yema, la cabeza. Reñiste con uno porque te vió en la calle y despertó á tu perro que estaba durmiendo al sol. Y con un sastre porque estrenó su ropa nueva antes de Pascua, y con otro porque ataba sus zapatos con cintas viejas. ¿Si vendrás tú á enseñarme moderacion y prudencia?
+P|Si yo fuera tan camorrista como tú, ¿quién me aseguraria la vida ni siquiera un cuarto de hora?... Mira, aquí vienen los Capuletos.
+P|¿Y qué se me da á mí, vive Dios?
+S|(Teobaldo y otros.)
+P|Estad cerca de mí, que tengo que decirles dos palabras. Buenas tardes, hidalgos. Quisiera hablar con uno de vosotros.
+P|¿Hablar sólo? Más valiera que la palabra viniese acompañada de algo, v. g., de un golpe.
+P|Hidalgo, no dejaré de darle si hay motivo.
+P|¿Y no podeis encontrar motivo sin que os lo den?
+P|Mercutio, tú estás de acuerdo con Romeo.
+P|¡De acuerdo! ¿Has creido que somos músicos? Pues aunque lo seamos, no dudes que en esta ocasion vamos á desafinar. Yo te haré bailar con mi arco de violin. ¡De acuerdo! ¡Válgame Dios!
+P|Estamos entre gentes. Buscad pronto algún sitio retirado, donde satisfaceros, ó desocupad la calle, porque todos nos están mirando.
+P|Para eso tienen ojos. No me voy de aquí por dar gusto á nadie.
+P|Adiós, señor. Aquí está el doncel que buscábamos.
+S|(Entra Romeo,)
+P|Mátenme si él lleva los colores de vuestro ecundo. Aunque de fijo os seguirá al campo, y por eso le llamáis doncel.
+P|Romeo, sólo una palabra me consiente decirte el odio que te profeso. Eres un infame.
+P|Teobaldo, tales razones tengo para quererte que me hacen perdonar hasta la bárbara grosería de ese saludo. Nunca he sido infame. No me conoces. Adios.
+P|Mozuelo imberbe, no intentes cobardemente excusar los agravios que me has hecho. No te vayas, y defiéndete.
+P|Nunca te agravié. Te lo afirmo con juramento. Al contrario hoy te amo más que nunca, y quizá sepas pronto la razon de este cariño. Vete en paz, buen Capuleto, nombre que estimo tanto como el mio.
+P|¡Qué extraña cobardía! Decídanlo las estocadas. Teobaldo, espadachin, ¿quieres venir conmigo?
+P|¿Qué me quieres?
+P|Rey de los gatos, sólo quiero una de tus siete vidas, y luego aporrearte á palos las otras seis. ¿Quieres tirar de las orejas á tu espada, y sacarla de la vaina? Anda presto, porque si no, la mia te calentará tus orejas antes que la saques.
+P|Soy contigo.
+P|Detente, amigo Mercutio.
+P|Adelante, hidalgo. Enseñadme ese quite. (Se baten.)
+P|Saca la espada, Benvolio. Separémoslos. ¡Qué afrenta, hidalgos! ¡Oid, Teobaldo! ¡Oye, Mercutio! ¿No sabeis que el Principe ha prohibido sacar la espada en las calles de Verona? Deteneos, Teobaldo y Mercutio. (Se van Teobaldo y sus amigos.)
+P|Mal me han herido. ¡Mala peste á Capuletos y Móntescos! Me hirieron y no los herí.
+P|¿Te han herido?
+P|Un arañazo, nada más, un arañazo, pero necesita cura. ¿Dónde está mi paje, para que me busque un cirujano? (Se va el paje.)
+P|No temas. Quizá sea leve la herida.
+P|No es tan honda como un pozo, ni tan ancha como el pórtico de una iglesia, pero basta. Si mañana preguntas por mí, verásme tan callado como un muerto. Ya estoy escabechado para el otro mundo. Mala landre devore á vuestras dos familias. ¡Vive Dios! ¡Que un perro, una rata, un raton, un gato mate así á un hombre! Un maton, un pícaro, que pelea contra los ángulos y reglas de la esgrima. ¿Para qué te pusiste á separarnos? Por debajo de tu brazo me ha herido.
+P|Fué con buena intencion,
+P|Llévame de aquí, Benvolio, que me voy á desmayar. ¡Mala landre devore á entrambas casas! Ya soy una gusanera. ¡Maldita sea la discordia de Capuletos y Montescos! (Vanse.)
+P|Por culpa mia sucumbe este noble caballero, tan cercano deudo del Príncipe. Estoy afrentado por Teobaldo, por Teobaldo que ha de ser mi pariente dentro de poco. Tus amores, Julieta, me han quitado el brio y ablandado el temple de mi acero.
+P|(Que vuelve.) ¡Ay, Romeo! Mercutio ha muerto. Aquella alma audaz, que hace poco despreciaba la tierra, se ha lanzado ya á las nubes.
+P|Y de este dia sangriento nacerán otros que extremarán la copia de mis males.
+P|Por allí vuelve Teobaldo.
+P|Vuelve vivo y triunfante. ¡Y Mercutio muerto! Huye de mí, dulce templanza. Sólo la ira guie mi brazo. Teobaldo, ese mote de infame que tú me diste, yo te le devuelvo ahora, porque el alma de Mercutio está desde las nubes llamando á la tuya, y tú ó yo ó los dos hemos de seguirle forzosamente.
+P|Pues vete á acompañarle tú, necio, que con él ibas siempre.
+P|Ya lo decidirá la espada. (Se baten, y cae herido Teobaldo.)
+P|Huye, Romeo. La gente acude y Teobaldo está muerto. Si te alcanzan, vas á ser condenado á muerte. No te detengas como pasmado. Huye, huye.
+P|Soy triste juguete de la suerte.
+P|Huye, Romeo.
+S|(Acude gente.)
+P|¿Por dónde habrá huido Teobaldo, el asesino de Mercutio?
+P|Ahí yace muerto Teobaldo.
+P|Seguidme todos. En nombre del Príncipe lo mando.
+S|(Entran el Príncipe con sus guardias, Montescos, Capuletos, etc.)
+P|¿Dónde están los promovedores de esta reyerta?
+P|Ilustre Príncipe, yo puedo referiros todo lo que aconteció. Teobaldo mató al fuerte Mercutio, vuestro deudo, y Romeo mató á Teobaldo.
+P|¡Teobaldo! ¡Mi sobrino, hijo de mi hermano! ¡Oh, Príncipe! un Montesco ha asesinado á mi deudo. Si sois justo, dadnos sangre por sangre. ¡Oh, sobrino mió!
+P|Dime con verdad, Benvolio. ¿Quién comenzó la pelea?
+P|Teobaldo, que luego murió á manos de Romeo. En vano Romeo con dulces palabras le exhortaba á la concordia, y le traia al recuerdo vuestras ordenanzas: todo esto con mucha cortesía y apacible ademan. Nada bastó á calmar los furores de Teobaldo, que ciego de ira, arremetió con el acero desnudo contra el infeliz Mercutio. Mercutio le resiste primero á hierro, y apartando de sí la suerte, quiere arrojarla del lado de Teobaldo. Este le esquiva con ligereza. Romeo se interpone, clamando: «Paz, paz, amigos.» En pos de su lengua va su brazo á interponerse entre las armas matadoras, pero de súbito, por debajo de ese brazo, asesta Teobaldo una estocada que arrebata la vida al pobre Mercutio; Teobaldo huye á toda prisa, pero á poco rato vuelve, y halla a Romeo, cuya cólera estalla. Arrójanse como rayos al combate, y antes de poder atravesarme yo, cae Teobaldo y huye Romeo. Esta es la verdad lisa y llana, por vida de Benvolio.
+P|No ha dicho verdad. Es pariente de los Montescos, y la aficion que les tiene le ha obligado á mentir. Más de veinte espadas se desenvainaron contra mi pobre sobrino. Justicia, Príncipe. Si Romeo mató á Teobaldo, que muera Romeo.
+P|Él mató á Mercutio, según se infiere del relato. ¿Y quién pide justicia, por una sangre tan cara?
+P|No era Teobaldo el deudor, aunque fuese amigo de Mercutio, ni debia haberse tomado la justicia por su mano, hasta que las leyes decidiesen.
+P|En castigo, yo te destierro. Vuestras almas están cegadas por el encono, y á pesar vuestro he de haceros llorar la muerte de mi deudo. Seré inaccesible á lágrimas y á ruegos. No me digáis palabra. Huya Romeo; porque si no huye, le alcanzará la muerte. Levantad el cadáver. No seria clemencia perdonar al homicida.
+S|Escena II.
+S|Jardín en casa de Capuleto. Julieta y el Ama.
+P|Corred, corred á la casa de Febo, alados corceles del sol. El látigo de Faeton os lance al ocaso. Venga la dulce noche á tender sus espesas cortinas. Cierra ¡oh sol! tus penetrantes ojos, y deja que en el silencio venga á mí mi Romeo, é invisible se lance en mis brazos. El amor es ciego y ama la noche, y á su luz misteriosa cumplen sus citas los amantes. Ven, majestuosa noche, matrona de humilde y negra túnica, y enséñame á perder en el blando juego, donde las vírgenes empeñan su castidad. Cubre con tu manto la pura sangre que arde en mis mejillas. Ven, noche; ven, Romeo, tú que eres mi dia en medio de esta noche, tú que ante sus tinieblas pareces un copo de nieve sobre las negras alas del cuervo. Ven, tenebrosa noche, amiga de los amantes, y vuélveme á mi Romeo. Y cuando muera, convierte tú cada trozo de su cuerpo en una estrella relumbrante, que sirva de adorno á tu manto, para que todos se enamoren de la noche, desenamorándose del sol. Ya he adquirido el castillo de mi amor, pero aún no le poseo. Ya estoy vendida, pero no entregada á mi señor. ¡Qué dia tan largo! tan largo como víspera de domingo para el niño que ha de estrenar en él un traje nuevo. Pero aquí viene mi ama, y me traerá noticias de él. (Llega el ama con una escala de cuerdas.) Ama, ¿qué noticias traes? ¿Esa es la escala que te dijo Romeo?
+P|Sí, esta es la escala.
+P|¡Ay, Dios! ¿Qué sucede? ¿Por qué tienes las manos cruzadas?
+P|¡Ay, señora! murió, murió. Perdidas somos. No hay remedio... Murió. Le mataron... Está muerto.
+P|¿Pero cabe en el mundo tal maldad?
+P|En Romeo cabe. ¿Quién pudiera pensar tal cosa de Romeo?
+P|¿Y quién eres tú, demonio, que así vienes á atormentarme? Suplicio igual sólo debe de haberle en el infierno. Dime, ¿qué pasa? ¿Se ha matado Romeo? Dime que sí, y esta palabra basta. Será más homicida que mirada de basilisco. Di que sí ó que no, que vive ó que muere. Con una palabra puedes calmar ó serenar mi pena.
+P|Sí: yo he visto la herida. La he visto por mis ojos. Estaba muerto: amarillo como la cera, cubierto todo de grumos de sangre cuajada. Yo me desmayé al verle.
+P|¡Estalla, corazon mio, estalla! ¡Ojos mios, yacereis desde ahora en prision tenebrosa, sin tornar á ver la luz del dia! ¡Tierra, vuelve á la tierra! Sólo resta morir, y que un mismo túmulo cubra mis restos y los de Romeo.
+P|¡Oh, Teobaldo amigo mio, caballero sin igual, Teobaldo! ¿Por qué he vivido yo para verte muerto?
+P|Pero ¡qué confusion es esta en que me pones! ¿Dices que Romeo ha muerto, y que ha muerto Teobaldo, mi dulce primo? Toquen, pues, la trompeta del juicio final. Si esos dos han muerto, ¿qué importa que vivan los demas?
+P|A Teobaldo mató Romeo, y éste anda desterrado.
+P|¡Válgame Dios! ¿Conque Romeo derramó la sangre de Teobaldo? ¡Alma de sierpe, oculta bajo capa de flores! ¿Qué dragón tuvo jamas tan espléndida gruta? Hermoso tirano, demonio angelical, cuervo con plumas de paloma, cordero rapaz como lobo, materia vil de forma celeste, santo maldito, honrado criminal, ¿en qué pensabas, naturaleza de los infiernos, cuando encerraste en el paraíso de ese cuerpo el alma de un condenado? ¿Por qué encuadernaste tan bellamente un libro de tan perversa lectura? ¿Cómo en tan magnífico palacio pudo habitar la traicion y el dolo?
+P|Los hombres son todos unos. No hay en ellos verdad, ni fe, ni constancia. Malvados, pérfidos, trapaceros... ¿Dónde está mi escudero? Dame unas gotas de licor. Con tantas penas voy á envejecer antes de tiempo. ¡Qué afrenta para Romeo!
+P|¡Maldita la lengua que tal palabra osó decir! En la noble cabeza de Romeo no es posible deshonra. En su frente reina el honor como soberano monarca. ¡Qué necia yo que antes decia mal de él!
+P|¿Cómo puedes disculpar al que mató á tu primo?
+P|¿Y cómo he de decir mal de quien es mi esposo? Mató á mi primo, porque si no, mi primo le hubiera matado á él. ¡Atrás, lágrimas mias, tributo que erradamente ofrecí al dolor, en vez de ofrecerle al gozo! Vive mi esposo, á quien querian dar muerte, y su matador yace por tierra. ¿A qué es el llanto? Pero creo haberte oido otra palabra que me angustia mucho más que la muerte de Teobaldo. En vano me esfuerzo por olvidarla. Ella pesa sobre mi conciencia, como puede pesar en el alma de un culpable el remordimiento. Tú dijiste que Teobaldo habia sido muerto y Romeo desterrado. Esta palabra desterrado me pesa más que la muerte de diez mil Teobaldos. ¡No bastaba con la muerte de Teobaldo, ó es que las penas se deleitan con la compañía y nunca vienen solas! ¿Por qué cuando dijiste: «ha muerto Teobaldo,» no añadiste: «tu padre ó tu madre, ó los dos?» Aun entonces no hubiera sido mayor mi pena. ¡Pero decir: Romeo desterrado! Esta palabra basta á causar la muerte á mi padre y á mi madre, y á Romeo y á Julieta. «¡Desterrado Romeo!» Dime, ¿podrá encontrarse término ó límite á la profundidad de este abismo? ¿Dónde están mi padre y mi madre? Dímelo.
+P|Llorando sobre el cadáver de Teobaldo. ¿Quieres que te acompañe allá?
+P|Ellos con su llanto enjugarán las heridas. Yo entre tanto lloraré por el destierro de Romeo. Toma tú esa escalera, á quien su ausencia priva de su dulce objeto. Ella debia haber sido camino para mi lecho nupcial. Pero yo moriré virgen y casada. ¡Adios, escala de cuerda! ¡Adios, nodriza! Me espera el tálamo de la muerte.
+P|Retírate á tu aposento. Voy á buscar á Romeo sin pérdida de tiempo. Está escondido en la celda de Fray Lorenzo. Esta noche vendrá á verte.
+P|Dale en nombre mío esta sortija, y dile que quiero oir su postrera despedida.
+S|Escena III.
+S|Celda de Fray Lorenzo. Fray Lorenzo y Romeo.
+P|Ven, pobre Romeo. La desgracia se ha enamorado de tí, y el dolor se ha desposado contigo.
+P|Decidme, padre.¿Qué es lo que manda el Príncipe? ¿Hay alguna pena nueva que yo no haya sentido?
+P|Te traigo la sentencia del Príncipe.
+P|¿Y cómo ha de ser si no es de muerte?
+P|No. Es algo menos dura. No es de muerte sino de destierro.
+P|¡De destierro! Clemencia, padre. Decid de muerte. El destierro me infunde más temor que la muerte. No me hableis de destierro.
+P|Te manda salir de Verona, pero no temas: ancho es el mundo.
+P|Fuera de Verona no hay mundo, sino purgatorio, infierno y desesperacion. Desterrarme de Verona es como desterrarme de la tierra. Lo mismo dá que digais muerte que destierro. Con una hacha de oro cortais mi cabeza, y luego os reís del golpe mortal.
+P|¡Oh, qué negro pecado es la ingratitud! Tu crímen merecia muerte, pero la indulgencia del Príncipe trueca la muerte en destierro, y aún no se lo agradeces.
+P|Tal clemencia es crueldad. El cielo está aquí donde vive Julieta. Un perro, un raton, un gato pueden vivir en este cielo y verla. Sólo Romeo no puede. Más prez, más gloria, más felicidad tiene una mosca ó un tábano inmundo que Romeo. Ellos pueden tocar aquella blanca y maravillosa mano de Julieta, ó posarse en sus benditos labios, en esos labios tan llenos de virginal modestia que juzgan pecado el tocarse. No lo hará Romeo. Le mandan volar y tiene envidia á las moscas que vuelan. ¿Por qué decís que el destierro no es la muerte? ¿No teniais algún veneno sutil, algún hierro aguzado que me diese la muerte más pronto que esa vil palabra, «desterrado?» Eso es lo que en el infierno se dicen unos á otros los condenados. ¿Y tú, sacerdote, confesor mio y mi amigó mejor, eres el que vienes á matarme con esa palabra?
+P|Oye, jóven loco y apasionado.
+P|¿Vais á hablarme otra vez del destierro?
+P|Yo te daré tal filosofía que te sirva de escudo y vaya aliviándote.
+P|¡Destierro! ¡Filosofía! Si no basta para crear otra Julieta, para arrancar un pueblo de su lugar, ó para hacer variar de voluntad á un príncipe, no me sirve de nada, ni la quiero, ni os he de oir.
+P|¡Ah, hijo mio! Los locos no oyen.
+P|¿Y cómo han de oir, si los que están en su seso no tienen ojos?
+P|Te daré un buen consejo.
+P|No podeis hablar de lo que no sentís. Si fuerais jóven, y recien casado con Julieta, y la adoraseis ciegamente como yo, y hubierais dado muerte á Teobaldo, y os desterrasen, os arrancariais los cabellos al hablar, y os arrastrariais por el suelo como yo, midiendo vuestra sepultura.
+S|(Llaman dentro.)
+P|Llaman. Levántate y ocúltate, Romeo.
+P|No me levantaré. La nube de mis suspiros me ocultará de los que vengan.
+P|¿No oyes? ¿Quién va?... Levántate, Romeo, que te van á prender... Ya voy... Levántate. Pero, Dios mio, ¡qué terquedad, qué locura! Ya voy. ¿Quién llama? ¿Qué quiere decir esto?
+P|(Dentro.) Dejadme entrar. Traigo un recado de mi ama Julieta.
+P|Bienvenida seas.
+S|(Entra el Ama.)
+P|Decidme, santo fraile. ¿Dónde está el esposo y señor de mi señora?
+P|Mírale ahí tendido en el suelo y apacentándose de sus lágrimas.
+P|Lo mismo está mi señora: enteramente igual.
+P|¡Funesto amor! ¡Suerte cruel!
+P|Lo mismo que él: llorar y gemir. Levantad, levantad del suelo: tened firmeza varonil. Por amor de ella, por amor de Julieta. Levantaos, y no lanceis tan desesperados ayes.
+P|Ama.
+P|Señor, la muerte lo acaba todo.
+P|Decias no sé qué de Julieta. ¿Qué es de ella? ¿No llama asesino á mí que manché con sangre la infancia de nuestra ventura? ¿ Dónde está ? ¿ Qué dice ?
+P|Nada, señor. Llorar y más llorar. Unas veces se recuesta en el lecho, otras se levanta, grita: «Teobaldo,» Romeo,» y vuelve á acostarse.
+P|Como si ese nombre fuera bala de arcabuz que la matase, como lo fué la infame mano de Romeo que mató á su pariente. Decidme, padre, ¿en qué parte de mi cuerpo está mi nombre? Decídmelo, porque quiero saquear su odiosa morada. (Saca el puñal.)
+P|Detén esa diestra homicida. ¿Eres hombre? Tu exterior dice que sí, pero tu llanto es de mujer, y tus acciones de bestia falta de libre albedrío. Horror me causas. Juro por mi santo hábito que yo te habia creído de voluntad más firme. ¡Matarte después de haber matado á Teobaldo! Y matar ademas á la dama que sólo vive por ti. Dime, ¿por qué maldices de tu linaje, y del cielo y de la tierra? Todo lo vas á perder en un momento, y á deshonrar tu nombre y tu familia, y tu amor y tu juicio. Tienes un gran tesoro, tesoro de avaro, y no lo empleas en realzar tu persona, tu amor y tu ingenio. Ese tu noble apetito es figura de cera, falta de aliento viril. Tu amor es perjurio y juramento vacío, y profanacion de lo que juraste, y tu entendimiento, que tanto realce daba á tu amor y á tu fortuna, es el que ciega y descamina á tus demás potencias, como soldado que se inflama con la misma pólvora que tiene, y perece víctima de su propia defensa. ¡Alienta, Romeo! Acuérdate que vive Julieta, por quien hace un momento hubieras dado la vida. Este es un consuelo. Teobaldo te buscaba para matarte, y le mataste tú. Hé aquí otro consuelo. La ley te condenaba á muerte, y la sentencia se conmutó en destierro. Otro consuelo más. Caen sobre tí las bendiciones del cielo, y tú, como mujer liviana, recibes de mal rostro á la dicha que llama á tus puertas. Nunca favorece Dios á los ingratos. Vete á ver á tu esposa: sube por la escala, como lo dejamos convenido. Consuélala, y huye de su lado antes que amanezca. Irás á Mántua, y allí permanecerás, hasta que se pueda divulgar tu casamiento, hechas las paces entre vuestras familias y aplacada la indignacion del Príncipe. Entonces volverás, mil veces más alegre que triste te vas ahora. Véte, nodriza. Mil recuerdos á tu ama. Haz que todos se recojan presto, lo cual será fácil por el disgusto de hoy. Dila que allá va Romeo.
+P|Toda la noche me estaria oyéndoos. ¡Qué gran cosa es el saber! Voy á animar á mi ama con vuestra venida.
+P|Sí: dile que se prepare á reñirme.
+P|Toma este anillo que ella me dió, y véte, que ya cierra la noche. (Vase.)
+P|Ya renacen mis esperanzas.
+P|Adios. No olvides lo que te he dicho. Sal antes que amanezca, y si sales despues, véte disfrazado; y á Mántua. Tendrás con frecuencia noticias mias, y sabrás todo lo que pueda interesarte. Adios. Dame la mano. Buenas noches.
+S|Escena IV.
+S|Sala en casa de Capuleto. Capuleto, su Mujer y Páris.
+P|La reciente desgracia me ha impedido hablar con mi hija. Tanto ella como yo queríamos mucho á Teobaldo. Pero la muerte es forzosa. Ya es tarde para que esta noche nos veamos, y á fe mia os juro que si no fuera por vos, ya hace una hora que me habría acostado.
+P|Ni es ésta ocasion de galanterías sino de duelo. Dad mis recuerdos á vuestra hija.
+P|Páris, os prometo solemnemente la mano de mi hija. Creo que ella me obedecerá. Puedo asegurároslo. Esposa mia, antes de acostarte, vé á contarla el amor de Páris, y dila que el miércoles próximo... Pero ¿qué dia es hoy?
+P|Lunes.
+P|¡Lunes! Pues no puede ser el miércoles. Que sea el juéves. Dile que el jueves se casará con el conde. ¿Estais contento? No tendremos fiesta. Sólo convidaré á los amigos íntimos, porque estando tan fresca la muerte de Teobaldo, el convidar á muchos parecería indicio de poco sentimiento. ¿Os parece bien el juéves?
+P|¡Ojalá fuese mañana!
+P|Adelante, pues: que sea el juéves. Avisa á Julieta, antes de acostarte. Adios, amigo. Alumbradme. Voy á mi alcoba. Es tan tarde, que pronto amanecerá. Buenas noches.
+S|Escena V.
+S|Galería cerca del cuarto de Julieta, con una ventana que da al jardín. Romeo y Julieta.
+P|¿Tan pronto te vas? Aún tarda el dia. Es el canto del ruiseñor, no el de la alondra el que resuena. Todas las noches se posa á cantar en aquel granado. Es el ruiseñor, amado mio.
+P|Es la alondra que anuncia el alba; no es el ruiseñor. Mira, amada mia, cómo se van tiñendo las nubes del oriente con los colores de la aurora. Ya se apagan las antorchas de la noche. Ya se adelanta el dia con rápido paso sobre las húmedas cimas de los montes. Tengo que partir, ó si no, aquí me espera la muerte.
+P|No es esa luz la de la aurora. Te lo aseguro. Es un meteoro que desprende de su lumbre el sol para guiarte en el camino de Mántua. Quédate. ¿Por qué te vas tan luego?
+S|Despedida de Romeo y Julieta.
+P|¡Que me prendan, que me maten! Mandándolo tú, poco importa. Diré que aquella luz gris que allí veo no es la de la mañana sino el pálido reflejo de la luna. Diré que no es el canto de la alondra el que resuena. Más quiero quedarme que partir. Ven, muerte, pues Julieta lo quiere. Amor mio, hablemos, que aún no amanece.
+P|Sí, vete, que es la alondra la que canta con voz áspera y destemplada. ¡Y dicen que son armoniosos sus sones, cuando á nosotros viene á separarnos! Dicen que cambia de ojos como el sapo. ¡Ojalá cambiara de voz! Maldita ella que me aparta de tus atractivos. Vete, que cada vez se clarea más la luz.
+P|¿Has dicho la luz? No, sino las tinieblas de nuestro destino.
+S|(Entra el Ama.)
+P|¡Julieta!
+P|¡Ama!
+P|Tu madre viene. Ya amanece. Prepárate y no te descuides.
+P|¡Un beso! ¡Adios, y me voy!
+S|(Vase por la escala.)
+P|¿Te vas? Mi señor, mi dulce dueño, dame nuevas de tí todos los dias, á cada instante. Tan pesados corren los dias infelices, que temo envejecer antes de tornar á ver á mi Romeo.
+P|Adios. Te mandaré noticias mias y mi bendicion por todos los medios que yo alcance.
+P|¿Crees que volveremos á vernos?
+P|Sí, y que en dulces coloquios de amor recordaremos nuestras angustias de ahora.
+P|¡Válgame Dios! ¡Qué présaga tristeza la mia! Parece que te veo difunto sobre un catafalco. Aquel es tu cuerpo, ó me engañan los ojos.
+P|Pues también á tí te ven los mios pálida y ensangrentada. ¡Adios, adios!
+S|(Vase.)
+P|¡Oh, fortuna! te llaman mudable: á mi amante fiel poco le importan tus mudanzas. Sé mudable en buen hora, y así no le detendrás y me le restituirás luego.
+P|(Dentro.) Hija, ¿estás despierta?
+P|¿Quién me llama? Madre, ¿estás despierta todavía ó te levantas ahora? ¿Qué novedad te trae á mí? (Entra la señora de Capuleto.)
+P|¿Qué es esto, Julieta?
+P|Estoy mala.
+P|¿Todavía lloras la muerte de tu primo? ¿Crees que tus lágrimas pueden devolverle la vida? Vana esperanza. Cesa en tu llanto, que aunque es signo de amor, parece locura.
+P|Dejadme llorar tan dura suerte.
+P|Eso es llorar la pérdida, y no al amigo.
+P|Llorando la pérdida, lloro tambien al amigo.
+P|Más que por el muerto ¿lloras por ese infame que le ha matado?
+P|¿Qué infame, madre?
+P|Romeo.
+P|(Aparte.) ¡Cuánta distancia hay entre él y un infame! (Alto.) Dios le perdone como le perdono yo, aunque nadie me ha angustiado tanto como él.
+P|Eso será porque todavía vive el asesino.
+P|Sí, y donde mi venganza no puede alcanzarle. Yo quisiera vengar á mi primo.
+P|Ya nos vengaremos. No llores. Yo encargué á uno de Mántua, donde ese vil ha sido desterrado, que le envenenen con alguna mortífera droga. Entonces irá á hacer compañía á Teobaldo, y tú quedarás contenta y vengada.
+P|Satisfecha no estaré, mientras no vea á Romeo... muerto... Señora, si hallas alguno que se comprometa á darle el tósigo, yo misma le prepararé, y así que lo reciba Romeo, podrá dormir tranquilo. Hasta su nombre me es odioso cuando no le tengo cerca, para vengar en él la sangre de mi primo.
+P|Busca tú el modo de preparar el tósigo, mientras yo busco á quien ha de administrárselo. Ahora oye tú una noticia agradable.
+P|¡Buena ocasion para gratas nuevas! ¿Y cuál es, señora?
+P|Hija, tu padre es tan bueno que deseando consolarte, te prepara un dia de felicidad que ni tú ni yo esperábamos.
+P|¿Y que dia es ese?.
+P|Pues es que el juéves, por la mañana temprano, el conde Páris, ese gallardo y discreto caballero, se desposará contigo en la iglesia de San Pedro.
+P|Pues te juro, por la iglesia de San Pedro, y por san Pedro purísimo, que no se desposará. ¿A qué es tanta prisa? ¿Casarme con él cuando todavía no me ha hablado de amor? Decid á mi padre, señora, que todavía no quiero casarme. Cuando lo haga, con juramento os digo que antes será mi esposo Romeo, á quien aborrezco, que Páris. ¡Vaya una noticia que me traeis!
+P|Aquí viene tu padre. Díselo tú, y verás cómo no le agrada.
+S|(Entran Capuleto y el Ama.)
+P|A la puesta del sol cae el rocío, pero cuando muere el hijo de mi hermano, cae la lluvia á torrentes. ¿Aún no ha acabado el aguacero, niña? Tú débil cuerpo es nave y mar y viento. En tus ojos hay marea de lágrimas, y en ese mar navega la barca de tus ansias, y tus suspiros son el viento que la impele. Dime, esposa, ¿has cumplido ya mis órdenes?
+P|Sí, pero no lo agradece. ¡Insensata! Con su sepulcro debia casarse.
+P|¿Eh? ¿Qué es eso? Esposa mia. ¿Qué es eso de no querer y no agradecer? ¿Pues no la enorgullece el que la hayamos encontrado para esposo un tan noble caballero?
+P|¿Enorgullecerme? No, agradecer sí. ¿Quién ha de estar orgullosa de lo que aborrece? Pero siempre se agradece la buena voluntad, hasta cuando nos ofrece lo que odiamos.
+P|¡Qué retóricas son esas! «¡Enorgullecerse! » «Sí y no.» «¡Agradecer y no agradecer!» Nada de agradecimientos ni de orgullo, señorita. Prepárate á ir por tus piés el juéves próximo á la iglesia de San Pedro á casarte con Páris, ó si no, te llevo arrastrando en un seron, ¡histérica, nerviosa, pálida, necia!
+P|¿Estás en tí? Cállate.
+P|Padre mio, de rodillas os pido que me escúcheis una palabra sola.
+P|¡Escucharte! ¡Necia, malvada! Oye, el juéves irás á San Pedro, ó no me volverás á mirar la cara. No me supliques ni me digas una palabra más. El pulso me tiembla. Esposa mia, yo siempre creí que era poca bendicion de Dios el tener una hija sola, pero ahora veo que es una maldicion, y que áun ésta sobra.
+P|¡Dios sea con ella! No la maltrateis, señor.
+P|¿Y por qué no, entremetida vieja? Cállate, y habla con tus iguales.
+P|A nadie ofendo... No puede una hablar.
+P|Calla, cigarron, y vete á hablar con tus comadres, que aquí no metes baza.
+P|Loco estás.
+P|Loco sí. De noche, de dia, de mañana, de tarde, durmiendo, velando, solo y acompañado, en casa y en la calle, siempre fué mi empeño el casarla, y ahora que la encuentro un joven de gran familia, rico, gallardo, discreto, lleno de perfecciones, segun dicen, contesta esta mocosa que no quiere casarse, que no puede amar, que es muy jóven. Pues bien, te perdonaré, si no te casas, pero no vivirás un momento aquí. Poco falta para el juéves. Piénsalo bien. Si consientes, te casarás con mi amigo. Si no, te ahorcarás,ó oirás pidiendo limosna, y te morirás de hambre por esas calles, sin que ninguno de los mios te socorra. Piénsalo bien, que yo cumplo siempre mis juramentos.
+S|(Vase.)
+P|¿Y no hay justicia en el cielo que conozca todo el abismo de mis males? No me dejes, madre. Dilatad un mes, una semana el casamiento, ó si no, mi lecho nupcial será el sepulcro de Teobaldo.
+P|Nada me digas, porque no he de responderte. Decídete como quieras.
+S|(Se va.)
+P|¡Válgame Dios! Ama mia, ¿qué haré? Mi esposo está en la tierra, mi fe en el cielo. ¿Y cómo ha de volver á la tierra mi fe, si mi esposo no la envia desde el cielo? Aconséjame, consuélame. ¡Infeliz de mí! ¿Por qué el cielo ha de emplear todos sus recursos contra un sér tan débil como yo? ¿Qué me dices? ¿Ni una palabra que me consuele?
+P|Sólo te diré una cosa. Romeo está desterrado, y puede apostarse doble contra sencillo á que no vuelve á verte, ó vuelve ocultamente, en caso de volver. Lo mejor seria, pues, á mi juicio, que te casaras con el Conde, que es mucho más gentil y discreto caballero que Romeo. Ni un águila tiene tan verdes y vivaces ojos como Páris. Este segundo esposo te conviene más que el primero. Y ademas, al primero puedes darle por muerto. Para tí como si lo estuviera.
+P|¿Hablas con el alma?
+P|Con el alma, ó maldita sea yo.
+P|Así sea.
+P|¿Por qué?
+P|Por nada. Buen consuelo me has dado. Véte, di a mi madre que he salido. Voy á confesarme con Fray Lorenzo, por el enojo que he dado á mi padre.
+P|Obras con buen seso.
+S|(Vase.)
+P|¡Infame vieja! ¡Aborto de los infiernos! ¿Cuál es mayor pecado en tí: querer hacerme perjura, ó mancillar con tu lengua al mismo á quien tantas veces pusiste por las nubes? Maldita sea yo si vuelvo á aconsejarme de tí. Sólo mi confesor me dará amparo y consuelo, ó á lo menos fuerzas para morir.
+H|Acto IV
+S|Escena primera.
+S|Celda de Fray Lorenzo.
+S|Fray Lorenzo y Páris.
+P|El juéves dices? Pronto es.
+P|Así lo quiere Capuleto, y yo lo deseo tambien
+P|¿Y todavía no sabeis si la novia os quiere? Mala manera es esa de hacerlas cosas, á mi juicio.
+P|Ella no hace más que llorar por Teobaldo y no tiene tiempo para pensar en amores, porque el amor huye de los duelos. A su padre le acongoja el que ella se angustie tanto, y por eso quiere hacer la boda cuanto antes, para atajar ese diluvio de lágrimas, que pudiera parecer mal á las gentes. Esa es la razón de que nos apresuremos.
+P|(Aparte.) ¡Ojalá no supiera yo las verdaderas causas de la tardanza! Conde Páris, hé aquí la dama que viene á mi celda.
+P|Bien hallada, señora y esposa mia.
+P|Lo seré cuando me case.
+P|Eso será muy pronto: el juéves.
+P|Será lo que sea.
+P|Claro es. ¿Venis á confesaros con el padre?
+P|Con vos me confesaria, si os respondiera.
+P|No me negueis que me amais.
+P|No os negaré que quiero al padre.
+P|Y le confesareis que me teneis cariño.
+P|Más valdria tal confesion á espaldas vuestras, que cara á cara.
+P|Las lágrimas marchitan vuestro rostro.
+P|Poco hacen mis lágrimas: no valia mucho mi rostro, antes que ellas le ajasen.
+P|Más la ofenden esas palabras que vuestro llanto.
+P|Señor, en la verdad no hay injuria, y más si se dice frente á frente.
+P|Mio es ese rostro del cual decis mal.
+P|Vuestro será quizá, puesto que ya no es mio. Padre, ¿podéis oirme en confesion, ó volveré al Ave-María?
+P|Pobre niña, dispuesto estoy á oirte ahora. Dejadnos solos. Conde.
+P|No seré yo quien ponga obstáculos á tal devocion. Julieta, adios. El juéves muy temprano te despertaré.
+S|(Vase.)
+P|Cerrad la puerta, padre, y venid á llorar conmigo: ya no hay esperanza ni remedio.
+P|Julieta, ya sé cuál es tu angustia, y también ella me tiene sin alma. Sé que el juéves quieren casarte con el Conde.
+P|Padre, no me digais que dicen tal cosa, si al mismo tiempo no discurrís, en vuestra sabiduría y prudencia, algún modo de evitarlo. Y si vos no me consolais, yo con un puñal sabré remediarme. Vos, en nombre del Señor, juntasteis mí mano con la de Romeo, y antes que esta mano, donde fué por vos estampado su sello, consienta en otra union, ó yo amancille su fe, matarános este hierro. Aconsejadme bien, ó el hierro sentenciará el pleito que ni vuestras canas ni vuestra ciencia saben resolver. No os detengais: respondedme ó muero.
+P|Hija mia, detente. Aun veo una esperanza, pero tan remota y tan violenta, como es violenta tu situacion actual. Pero ya que prefieres la muerte á la boda con Páris, pasarás por algo que se parezca á la muerte. Sí te atreves á hacerlo, yo te daré el remedio.
+P|Padre, á trueque de no casarme con París, mandadme que me arroje de lo alto de una torre, que recorra un camino infestado por bandoleros, que habite y duerma entre sierpes y osos, ó en un cementerio, entre huesos humanos, que crujan por la noche, y amarillas calaveras, ó enterradme con un cadáver reciente. Todo lo haré, por terrible que sea, antes que ser infiel al juramento que hice á Romeo.
+P|Bien: vete á tu casa, fíngete alegre: di que te casarás con Páris. Mañana es miércoles: por la noche quédate sola, sin que te acompañe ni siquiera tu ama, y cuando estés acostada, bebe el licor que te doy en esta ampolleta. Un sueño frío embargará tus miembros. No pulsarás ni alentarás, ni darás señal alguna de vida. Huirá el color de tus rosados labios y mejillas, y le sucederá una palidez terrea. Tus párpados se cerrarán como puertas de la muerte que excluyen la luz del dia, y tu cuerpo quedará rígido, inmóvil, frio como el mármol de un sepulcro. Así permanecerás 42 horas justas, y entonces despertarás como de un apacible sueño. A la mañana anterior habrá venido el novio á despertarte, te habrá creido muerta, y ataviándote, según es uso, con las mejores galas, te habrán llevado en ataúd abierto al sepulcro de los Capuletos. Durante tu sueño, yo avisaré por carta á Romeo; él vendrá en seguida, y velaremos juntos hasta que despiertes. Esa misma noche Romeo volverá contigo á Mántua. Es el único modo de salvarte del peligro actual, si un vano y mujeril temor no te detiene.
+P|Dáme la ampolleta, y no hablemos de temores.
+P|Tómala. Valor y fortuna. Voy á enviar á un lego con una carta á Mántua.
+P|Dios me dé valor, aunque ya le siento en mí. Adios, padre mio.
+S|Escena II.
+S|Casa de Capuleto. Capuleto, su Mujer, el Ama y Criados.
+P|(A un criado.) Convidarás á todos los que van en esta lista. Y tú buscarás veinte cocineros.
+P|Los buscaré tales que se chupen el dedo.
+P|¡Rara cualidad!
+P|Nunca es bueno el cocinero que no sabe chuparse los dedos, ni traeré á nadie que no sepa.
+P|Véte, que el tiempo apremia, y nada tenemos dispuesto. ¿Fué la niña á confesarse con Fray Lorenzo?
+P|Sí.
+P|Me alegro: quizá él pueda rendir el ánimo de esa niña mal criada.
+P|Vedla, qué alegre viene del convento.
+P|(A Julieta.) ¿Dónde has estado, terca?
+P|En la confesion, donde me arrepentí de haberos desobedecido. Fray Lorenzo me manda que os pida perdon, postrada á vuestros piés. Así lo hago, y desde ahora prometo obedecer cuanto me mandáreis.
+P|Id en busca de Páris, y que lo prevenga todo para la comida que ha de celebrarse mañana.
+P|Ví á ese caballero en la celda de Fray Lorenzo, y le concedí cuanto podia concederle mi amor, sin agravio del decoro.
+P|¡Cuánto me alegro! Levántate: has hecho bien en todo. Quiero hablar con el Conde. (A un criado.) Dile que venga. ¡Cuánto bien hace este fraile en la ciudad!
+P|Ama, ven á mi cuarto, para que dispongamos juntas las galas de desposada.
+P|No: eso debe hacerse el juéves: todavía hay tiempo.
+P|No: ahora, ahora: mañana temprano á la iglesia.
+S|(Se van Julieta y el Ama.)
+P|Apenas nos queda tiempo. Es de noche.
+P|Todo se hará, esposa mia. Ayuda á Julieta á vestirse. Yo no me acostaré, y por esta vez seré guardian de la casa. ¿Qué es eso? ¿Todos los criados han salido? Voy yo mismo en busca de Páris, para avisarle que mañana es la boda. Este cambio de voluntad me da fuerzas y mocedad nueva.
+S|Escena III.
+S|Habitación de Julieta. Julieta y su Madre.
+P|Sí, ama, sí: este traje está mejor, pero yo quisiera quedarme sola esta noche, para pedir á Dios en devotas oraciones que me ilumine y guie en estado tan lleno de peligros.
+S|(Entra la señora de Capuleto.)
+P|Bien trabajais. ¿Quereis que os ayude?
+P|No, madre. Ya estarán escogidas las galas que he de vestirme mañana. Ahora quisiera que me dejaseis sola, y que el ama velase en vuestra compañía, porque es poco el tiempo, y falta mucho que disponer.
+P|Buenas noches, hija. Vete á descansar, que falta te hace.
+S|(Vase.)
+P|¡Adios! ¡Quién sabe si volveremos á vernos! Un miedo helado corre por mis venas y casi apaga en mí el aliento vital. ¿Les diré que vuelvan? Ama... Pero ¿á qué es llamarla? Yo sola debo representar esta tragedia. Ven á mis manos, ampolla. Y si este licor no produjese su efecto, ¿tendria yo que ser esposa del Conde? No, no, jamas: tú sabrás impedirlo. Aquí, aquí le tengo guardado. (Señalando el puñal.) ¿Y si este licor fuera un veneno preparado por el fraile para matarme y eludir su responsabilidad por haberme casado con Romeo? Pero mi temor es vano. ¡Si dicen que es un santo! ¡Lejos de mí tan ruines pensamientos! ¿Y si me despierto encerrada en el ataúd, antes que vuelva Romeo? ¡Qué horror! En aquel estrecho recinto, sin luz, sin aire... me voy á ahogar antes que él llegue. Y la espantosa imagen de la muerte... y la noche... y el horror del sitio... la tumba de mis mayores... aquellos huesos amontonados por tantos siglos... el cuerpo de Teobaldo que está en putrefaccion muy cerca de allí... los espíritus que, según dicen, interrumpen... de noche, el silencio de aquella soledad... ¡Ay, Dios mio! ¿no será fácil que al despertarme, respirando aquellos miasmas, oyendo aquellos lúgubres gemidos que suelen entorpecer á los mortales, aquellos gritos semejantes á las quejas de la mandragora cuando se la arranca del suelo... ¿no es fácil que yo pierda la razon, y empiece á jugar en mi locura con los huesos de mis antepasados, ó á despojar de su velo funeral el cadáver de Teobaldo, ó á machacarme el cráneo con los pedazos del esqueleto de alguno de mis ilustres mayores? Ved... Es la sombra de mi primo, que viene con el acero desnudo, buscando á su matador Romeo. ¡Detente, Teobaldo! ¡A la salud de Romeo! (Bebe.)
+S|Escena IV.
+S|Casa de Capuleto. La Señora y el Ama.
+P|Toma las llaves: tráeme más especias.
+P|Ahora piden clavos y dátiles.
+P|(Que entra.) Vamos, no os detengais, que ya ha sonado por segunda vez el canto del gallo. Ya tocan á maitines. Son las tres. Tú, Ángela, cuida de los pasteles, y no repareis en el gasto.
+P|Idos adormir, señor impertinente. De seguro que por pasar la noche en vela, amaneceis enfermo mañana.
+P|¡Qué bobería! Muchas noches he pasado en vela sin tanto motivo, y nunca he enfermado.
+P|Sí: buen raton fuiste en otros tiempos. Ahora ya velo yo, para evitar tus veladas.
+P|¡Ahora celos! ¿Qué traes, muchacho?
+P|El cocinero lo pide. No sé lo que es.
+P|Véte corriendo: busca leña seca. Pedro te dirá dónde puedes encontrarla.
+P|Yo la encontraré: no necesito molestar á Pedro.
+S|(Se van.)
+P|Dice bien, á fe mia. ¡Es gracioso ese galopin! Por vida mia. Ya amanece. Pronto llegará Páris con música, según anunció. ¡Ahí está! Ama, mujer mia, venid aprisa! (Suena música.) (Al Ama.) Véte, despierta y viste á Julieta, mientras yo hablo con Páris. Y no te detengas mucho, que el novio llega. No te detengas.
+S|Escena V.
+S|Aposento de Julieta. Esta en el lecho. El Ama y la Señora.
+P|¡Señorita, señorita! ¡Cómo duerme! ¡Señorita, novia, cordero mio! ¿No despiertas? Haces bien: duerme para ocho dias, que mañana ya se encargará Páris de no dejarte dormir. ¡Válgame Dios, y cómo duerme! Pero es necesario despertarla. ¡Señorita, señorita! No falta más sino que venga el Conde y te halle en la cama. Bien te asustarias. Dime, ¿no es verdad? ¿Vestida estás, y te volviste á acostar? ¿Cómo es esto? ¡Señorita, señorita!... ¡Válgame Dios! Socorro, que mi ama se ha muerto. ¿Por qué he vivido yo para ver esto? Maldita sea la hora en que nací. ¡Esencias, pronto! ¡Señor, señora, acudid!
+P|(Entrando.) ¿Por qué tal alboroto?
+P|¡Dia aciago!
+P|¿Qué sucede?
+P|Ved, ved. ¡Aciago dia!
+P|¡Dios mio, Dios mió! ¡Pobre niña! ¡Vida mia! Abre los ojos, ó déjame morir contigo. ¡Favor, favor!
+S|(Entra Capuleto.)
+P|¿No os da vergüenza? Ya debia de haber salido Julieta. Su novio la está esperando.
+P|¡Si está muerta! ¡Aciago dia!
+P|¡Aciago dia! ¡Muerta, muerta!
+P|!Dejádmela ver! ¡Oh, Dios! qué espanto. ¡Helada su sangre, rígidos sus miembros! Huyó la rosa de sus labios. ¡Yace tronchada como la flor por prematura y repentina escarcha! ¡Hora infeliz!
+P|¡Dia maldito!
+P|¡Aciago dia!
+P|La muerte que fiera la arrebató, traba mi lengua é impide mis palabras.
+S|(Entran Fray Lorenzo, Páris y músicos.)
+P|¿Cuándo puede ir la novia á la iglesia?
+P|Sí irá, pero para quedarse allí. En vísperas de boda, hijo mío, vino la muerte á llevarse á tu esposa, flor que deshojó inclemente la Parca. Mi yerno y mi heredero es el sepulcro: él se ha desposado con mí hija. Yo moriré también, y él heredará todo lo que poseo.
+P|¡Yo que tanto deseaba ver este dia, y ahora es tal vista la que me ofrece!
+P|¡Infeliz, maldito, aciago dia! ¡Hora la más terrible que en su dura peregrinacion ha visto el tiempo! ¡Una hija sola! ¡Una hija sola, y la muerte me la lleva! ¡Mi esperanza, mi consuelo, mi ventura!...
+P|¡Dia aciago y horroroso, el más negro que he visto nunca! ¡El más horrendo que ha visto el mundo! ¡Aciago dia!
+P|¡Y yo burlado, herido, descasado, atormentado! ¡Cómo te mofas de mí, cómo me conculcas á tus plantas, fiera muerte! ¡Ella, mi amor, mi vida, muerta ya!
+P|¡Y yo despreciado, abatido, muerto! Tiempo cruel, ¿por qué viniste con pasos tan callados á turbar la alegría de nuestra fiesta? ¡Hija mia, que más que mi hija era mi alma! ¡Muerta, muerta, mi encanto, mi tesoro!
+P|Callad, que no es la queja remedio del dolor. Antes vos y el cielo poseiais á esa doncella: ahora el cielo solo la posee, y en ello gana la doncella. No pudisteis arrancar vuestra parte á la muerte. El cielo guarda para siempre la suya. ¿No queríais verla honrada y ensalzada? ¿Pues á qué vuestro llanto, cuando Dios la ensalza y encumbra más allá del firmamento? No amais á vuestra hija tanto como la ama Dios. La mejor esposa no es la que más vive en el mundo, sino la que muere joven y recien casada. Detened vuestras lágrimas. Cubrid su cadáver de romero, y llevadla á la iglesia según costumbre, ataviada con sus mejores galas. La naturaleza nos obliga al dolor, pero la razón se rie.
+P|Los preparativos de una fiesta se convierten en los de un entierro: nuestras alegres músicas en solemne doblar de campanas: el festin en comida funeral: los himnos en trenos: las flores en adornos de ataud... todo en su contrario.
+P|Retiraos, señor, y vos, señora, y vos, conde Páris. Prepárense todos á enterrar este cadáver. Sin duda el cielo está enojado con vosotros. Ved si con paciencia y mansedumbre lograis desarmar su cólera.
+S|(Vanse.)
+P|Recojamos los instrumentos, y vámonos.
+P|Recogedlos sí, buena gente. Ya veis que el caso no es para música.
+P|1.º
+P|Más alegre podia ser.
+S|(Entra Pedro.)
+P|¡Oh, músicos, músicos! «La paz del corazón.» «La paz del corazón.» Tocad por vida mia «la paz del corazon.»
+P|¿Y por qué «la paz del corazón?»
+P|¡Oh, músicos! porque mi corazon está tañendo siempre «mi dolorido corazon.» Cantad una cancion alegre, para que yo me distraiga.
+P|No es esta ocasión de canciones.
+P|¿Y por qué no?
+P|Claro que no.
+P|Pues entonces yo os voy á dar de veras.
+P|¿Qué nos darás?
+P|No dinero ciertamente, pues soy un pobre lacayo, pero os daré que sentir.
+P|¡Vaya con el lacayo!
+P|Pues el cuchillo del lacayo os marcará cuatro puntos en la cara. ¿Venirme á mí con corchetes y bemoles? Yo os enseñaré la solfa.
+P|Y vos la notareis, si quereis enseñárnosla.
+P|Envainad la daga, y sacad á plaza vuestro ingenio.
+P|Con mi ingenio más agudo que un puñal os traspasaré, y por ahora envaino la daga. Respondedme finalmente: «La música argentína» ¿y qué quiere decir «la música argentina?» ¿Por qué ha de ser argentina la música? ¿Qué dices á esto, Simón Bordón?
+P|¡Toma! Porque el sonido de la plata es dulce.
+P|Está bien, ¿y vos, Hugo Rabel, qué decis á esto?
+P|Yo digo «música argentina», porque el son de la plata hace tañer á los músicos.
+P|Tampoco está mal. ¿Y qué dices tú, Jaime Clavija?
+P|Ciertamente que no sé qué decir.
+P|Os pido que me perdonéis la pregunta. Verdad es que sois el cantor. Se dice «música argentina» porque á músicos de vuestra calaña nadie los paga con oro, cuando tocan.
+P|Este hombre es un pícaro.
+P|Así sea su fin. Vamos allá á aguardar la comitiva fúnebre, y luego á comer.
+H|Acto V
+S|Escena primera.
+S|Calle de Mántua.
+S|Romeo y Baltasar.
+P|Si hemos de confiar en un dulce y agradable sueño, alguna gran felicidad me espera. Desde la aurora pensamientos de dicha agitan mi corazón, rey de mi pecho, y como que me dan alas para huir de la tierra. Soñé con mi esposa y que me encontraba muerto. ¡Raro, fenómeno: que piense un cadáver! Pero con sus besos me dio tal vida que, al despertar, no me hubiera trocado por un emperador. ¡Oh, cuan dulces serán las realidades del amor, cuando tanto lo son las sombras! (Entra Baltasar.) ¿Traes alguna nueva de Verona? ¿Te ha dado Fray Lorenzo alguna carta para mí? ¿Cómo está mi padre? ¿Y Julieta? Nada malo puede sucederme si ella está buena.
+P|Pues ya nada malo puede sucederte, porque su cuerpo reposa en el sepulcro, y su alma está con los ángeles. Yace en el panteon de su familia. Y perdonadme que tan pronto haya venido á traeros tan mala noticia, pero vos mismo, señor, me encargasteis que os avisara de todo.
+P|¿Será verdad? ¡Cielo cruel, yo desafio tu poder! Dadme papel y plumas. Busca esta tarde caballos, y vamonos á Verona esta noche.
+P|Señor, dejadme acompañaros, porque vuestra horrible palidez me anuncia algún mal suceso.
+P|Nada de eso. Déjame en paz y obedece. ¿No traes para mí carta de Fray Lorenzo?
+P|Ninguna.
+P|Lo mismo da. Busca en seguida caballos, y en marcha. (Se va Baltasar.) Sí, Julieta, esta noche descansaremos juntos. ¿Pero cómo? ¡Ah, infierno, cuan presto vienes en ayuda de un ánimo desesperado! Ahora me acuerdo que cerca de aquí vive un boticario de torvo ceño y mala catadura, gran herbolario de yerbas medicinales. El hambre le ha convertido en esqueleto. Del techo de su lóbrega covacha tiene colgados una tortuga, un cocodrilo, y varias pieles de fornidos peces; y en cajas amontonadas, frascos vacíos y verdosos, viejas semillas, cuerdas de bramante, todo muy separado para aparentar más. Yo, al ver tal miseria, he pensado que aunque está prohibido so pena de muerte, el despachar veneno, quizá este infeliz, si se lo pagaran, lo venderia. Bien lo pensé, y ahora voy á ejecutarlo. Cerrada tiene la botica. ¡Hola, eh!
+S|(Sale el Boticario.)
+P|¿Quién grita?
+P|Oye. Tu pobreza es manifiesta. Cuarenta ducados te daré por una dosis de veneno tan activo que, apenas circule por las venas, extinga el aliento vital tan rápidamente como una bala de cañon.
+P|Tengo esos venenos, pero las leyes de Mántua condenan á muerte al que los venda.
+P|Y en tu pobreza extrema ¿qué te importa la muerte? Bien clara se ve el hambre en tu rostro, y la tristeza y la desesperacion. ¿Tiene el mundo alguna ley, para hacerte rico? Si quieres salir de pobreza, rompe la ley y recibe mi dinero.
+P|Mi pobreza lo recibe, no mi voluntad.
+P|Yo no pago tu voluntad, sino tu pobreza.
+P|Este es el ingrediente: desleidlo en agua ó en un licor cualquiera, bebedlo, y caereis muerto en seguida, aunque tengais la fuerza de veinte hombres.
+P|Recibe tú el dinero. Él es la verdadera ponzoña, engendradora de más asesinatos que todos los venenos que no debes vender. La venta la he hecho yo, no tú. Adios: compra pan, y cúbrete. No un veneno, sino una bebida consoladora llevo conmigo al sepulcro de Julieta.
+S|Escena II.
+S|Celda de Fray Lorenzo. Fray Juan y Fray Lorenzo.
+P|¡Hermano mio, santo varon!
+P|Sin duda es Fray Juan el que me llama. Bien venida seais de Mántua; ¿qué dice Romeo? Dadme su carta, si es que traeis alguna.
+P|Busqué á un fraile descalzo de nuestra orden, para que me acompañara. Al fin le encontré, curando enfermos. La ronda, al vernos salir de una casa, temió que en ella hubiese peste. Sellaron las puertas, y no nos dejaron salir. Por eso se desbarató el viaje á Mántua.
+P|¿Y quién llevó la carta á Romeo?
+P|Nadie: aquí está. No pude encontrar siquiera quién os la devolviese. Tal miedo tenian todos á la peste.
+P|¡Qué desgracia! ¡Por vida de mi padre san Francisco! Y no era carta inútil, sino con nuevas de grande importancia. Puede ser muy funesto el retardo. Fray Juan, búscame en seguida un azadon y llévale á mi celda.
+P|En seguida, hermano.
+S|(Vase.)
+P|Sólo tengo que ir al cementerio, porque dentro de tres horas ha de despertar la hermosa Julieta de su desmayo. Mucho se enojará conmigo porque no dí oportunamente aviso á Romeo. Volveré á escribir á Mántua, y entre tanto la tendré en mi celda esperando á Romeo. ¡Pobre cadáver vivo encerrado en la cárcel de un muerto!
+S|Escena III.
+S|Cementerio, con el panteon de los Capuletos. Páris y un Paje con flores y antorchas.
+P|Dame una tea. Apártate: no quiero ser visto. Ponte al pié de aquel arbusto, y estáte con el oido fijo en la tierra, para que nadie huelle el movedizo suelo del cementerio, sin notarlo yo. Apenas sientas á alguno, da un silbido. Dame las flores, y obedece.
+P|Así lo haré; (aparte) aunque mucho temor me da el quedarme solo en este cementerio.
+P|Vengo á cubrir de flores el lecho nupcial de la flor más hermosa que salió de las manos de Dios. Hermosa Julieta, que moras entre los coros de los ángeles, recibe este mi postrer recuerdo. Viva, te amé: muerta! vengo á adornar con tristes ofrendas tu sepulcro. (El paje silba.) Siento la señal del paje: álguien se acerca. ¿Qué pié infernal es el que se llega de noche á interrumpir mis piadosos ritos? ¡Y trae una tea encendida! ¡Noche, cúbreme con tu manto! (Entran Romeo y Baltasar.)
+P|Dame ese azadon y esa palanca. Toma esta carta. Apenas amanezca, procurarás que la reciba Fray Lorenzo. Dame la luz, y si en algo estimas la vida, nada te importe lo que veas ú oigas, ni quieras estorbarme en nada. La principal razon que aquí me trae no es ver por última vez el rostro de mi amada, sino apoderarme del anillo nupcial que aún tiene en su dedo, y llevarle siempre como prenda de amor. Aléjate, pues. Y si la curiosidad te mueve á seguir mis pasos, júrote que he de hacerte trizas, y esparcir tus miembros desgarrados por todos los rincones de este cementerio. Más negras y feroces son mis intenciones, que tigres hambrientos ó mares alborotadas.
+P|En nada pienso estorbaros, señor.
+P|Es la mejor prueba de amistad que puedes darme. Toma, y sé feliz, amigo mio.
+P|(Aparte.) Pues, á pesar de todo, voy á observar lo que hace; porque su rostro y sus palabras me espantan.
+P|¡Abominable seno de la muerte, que has devorado la mejor prenda de la tierra, aún has de tener mayor alimento!
+S|(Abre las puertas del sepulcro.)
+P|Este es Montesco, el atrevido desterrado, el asesino de Teobaldo, del primo de mi dama, que por eso murió de pena, según dicen. Sin duda ha venido aquí á profanar los cadáveres. Voy á atajarle en su diabólico intento. Cesa, infame Montesco; ¿no basta la muerte á detener tu venganza y tus furores? ¿Por qué no te rindes, malvado proscrito? Sígueme, que has de morir.
+P|Sí: á morir vengo. Noble joven, no tientes á quien viene ciego y desalentado. Huye de mí: déjame; acuérdate de los que fueron y no son. Acuérdate y tiembla, no me provoques más, joven insensato. Por Dios te lo suplico. No quieras añadir un nuevo pecado á los que abruman mi cabeza. Te quiero más que lo que tú puedes quererte. He venido á luchar conmigo mismo. Huye, si quieres salvar la vida, y agradece el consejo de un loco.
+P|¡Vil desterrado, en vano son esas súplicas!
+P|¿Te empeñas en provocarme? Pues muere... (Pelean.)
+P|¡Ay, Dios! pelean: voy á pedir socorro. (Vase. Cae herido Páris.)
+P|¡Ay de mí, muerto soy! Si tienes lástima de mi, ponme en el sepulcro de Julieta.
+P|Sí que lo haré. Veámosle el rostro. ¡El pariente de Mercutio, el conde Páris! Al tiempo de montar á caballo, ¿no oí, como entre sombras decir, á mi escudero, que iban á casarse Páris y Julieta? ¿Fué realidad ó sueño?¿Ó es que estaba yo loco y creí que me hablaban de Julieta? Tu nombre está escrito con el mio en el sangriento libro del destino. Triunfal sepulcro te espera. ¿Qué digo sepulcro? Morada de luz, pobre jóven. Allí duerme Julieta, y ella basta para dar luz y hermosura al mausoleo. Yace tú á su lado: un muerto es quien te entierra. Cuando el moribundo se acerca al trance final, suele reanimarse, y á esto lo llaman el último destello. Esposa mia, amor mio, la muerte que ajó el néctar de tus labios, no ha podido vencer del todo tu hermosura. Todavía irradia en tus ojos y en tu semblante, donde aún no ha podido desplegar la muerte su odiosa bandera. Ahora quiero calmar la sombra de Teobaldo, que yace en ese sepulcro. La misma mano que cortó tu vida, va á cortar la de tu enemigo. Julieta, ¿por qué estás aún tan hermosa? ¿Será que el descarnado monstruo te ofrece sus amores y te quiere para su dama? Para impedirlo, dormiré contigo en esta sombría gruta de la noche, en compañía de esos gusanos, que son hoy tus únicas doncellas. Este será mi eterno reposo. Aquí descansará mi cuerpo, libre de la fatídica ley de los astros. Recibe tú la última mirada de mis ojos, el último abrazo de mis brazos, el último beso de mis labios, puertas de la vida, que vienen á sellar mi eterno contrato con la muerte. Ven, áspero y vencedor piloto: mi nave, harta de combatir con las olas, quiere quebrantarse en los peñascos. Brindemos por mi dama. ¡Oh, cuan portentosos son los efectos de tu bálsamo, alquimista veraz! Así, con este beso... muero. (Cae.)
+S|(Llega Fray Lorenzo.)
+P|¡Por san Francisco y mi santo hábito! ¡Esta noche mi viejo pié viene tropezando en todos los sepulcros! ¿Quién á tales horas interrumpe el silencio de los muertos?
+P|Un amigo vuestro, y de todas veras.
+P|Con bien seas. ¿Y para qué sirve aquella luz, ocujada en alumbrar á gusanos y calaveras? Me parece que está encendida en el monumento de los Capuletos.
+P|Verdad es, padre mio, y allí se encuentra mi amo, á quien tanto quereis.
+P|¿De quién hablas?
+P|De Romeo.
+P|¿Y cuánto tiempo hace que ha venido?...
+P|Una media hora.
+P|Sígueme.
+P|¿Y cómo, padre, si mi amo cree que no estoy aquí, y me ha amenazado con la muerte, si yo le seguia?
+P|Pues quédate, é iré yo solo. ¡Dios mio! Alguna catástrofe temo.
+P|Dormido al pié de aquel arbusto, soñé que mi señor mataba á otro en desafío.
+P|¡Romeo! Pero ¡Dios mio! ¿qué sangre es esta en las gradas del monumento? ¿Qué espadas estas sin dueño, y tintas todavía de sangre? (Entra en el sepulcro.) ¡Romeo! ¡Pálido está como la muerte!
+S|Muerte de Romeo y Julieta.
+P|¡Y Páris cubierto de sangre!... La doncella se mueve.
+S|(Despierta Julieta.)
+P|Padre, ¿dónde está mi esposo? Ya recuerdo dónde debia yo estar y allí estoy. Pero ¿dónde está Romeo, padre mió?
+P|Oigo ruido. Deja tú pronto ese foco de infeccion, ese lecho de fingida muerte. La suprema voluntad de Dios ha venido á desbaratar mis planes. Sígueme. Tu esposo yace muerto á tu lado, y Páris muerto también. Sígueme á un devoto convento y nada más me digas, porque la gente se acerca. Sígueme, Julieta, que no podemos detenernos aquí.
+S|(Vase.)
+P|Yo aquí me quedaré. ¡Esposo mio! Mas ¿qué veo? Una copa tiene en las manos. Con veneno ha apresurado su muerte. ¡Cruel! no me dejó ni una gota que beber. Pero besaré tus labios que quizá contienen algún resabio del veneno. Él me matará y me salvará. (Le besa.) Aún siento el calor de sus labios.
+S|Alguacil 1.º (dentro) .
+P|¿Dónde está? Guiadme.
+P|Siento pasos. Necesario es abreviar. (Coge el puñal de Romeo.) Dulce hierro, descansa en mi corazon, mientras yo muero!
+S|(Se hiere y cae sobre el cuerpo de Romeo.)
+S|(Entran la ronda y el paje de Páris.)
+P|Aquí es donde brillaba la luz.
+P|Recorred el cementerio. Huellas de sangre hay. Prended á todos los que encontrareis. ¡Horrenda vista! Muerto Páris, y Julieta, á quien hace dos dias enterramos por muerta, se está desangrando, caliente todavía. Llamad al Príncipe, y á los Capuletos y á los Móntescos. Sólo vemos cadáveres, pero no podemos atinar con la causa de su muerte.
+S|(Traen algunos á Baltasar.)
+P|Este es el escudero de Romeo, y aquí le hemos encontrado.
+P|Esperemos la llegada del Príncipe.
+S|(Entran otros con Fray Lorenzo.)
+P|Tembloroso y suspirando hemos hallado á este fraile cargado con una palanca y un azadon; salia del cementerio.
+P|Sospechoso es todo eso: detengámosle.
+S|(Llegan el Príncipe y sus guardas.)
+P|¿Qué ha ocurrido para despertarme tan de madrugada?
+S|(Entran Capuleto, su mujer, etc.)
+P|¿Qué gritos son, los que suenan por esas calles?
+P|Unos dicen «Julieta,» otros «Romeo,» otros «Páris,» y todos corriendo y dando gritos, se agolpan al cementerio.
+P|¿Qué historia horrenda y peregrina es esta?
+P|Príncipe, ved. Aquí están el conde Páris y Romeo, violentamente muertos, y Julieta, caliente todavía y desangrándose.
+P|¿Averiguasteis la causa de estos delitos?
+P|Sólo hemos hallado á un fraile y al paje de Romeo, cargados con picos y azadones propios para levantar la losa de un sepulcro.
+P|¡Dios mio! Esposa mia, ¿no ves correr la sangre de nuestra hija? Ese puñal ha errado el camino: debia haberse clavado en el pecho del Montesco y no en el de nuestra inocente hija.
+P|¡Dios mio! Siento el toque de las campanas que guian mi vejez al sepulcro. (Llegan Montesco y otros.)
+P|Mucho has amanecido, Montesco, pero mucho antes cayó tu primogénito.
+P|¡Poder de lo alto! Ayer falleció mi mujer de pena por el destierro de mi hijo. ¿Hay reservada alguna pena más para mi triste vejez?
+P|Tú mismo puedes verla.
+P|¿Por qué tanta descortesía, hijo mió? ¿Por qué te atreviste á ir al sepulcro antes qué tu padre?
+P|Contened por un momento vuestro llanto, mientras busco la fuente de estas desdichas. Luego procuraré consolaros ó acompañaros hasta la muerte. Callad entre tanto: la paciencia contenga un momento al dolor. Traed acá á esos presos.
+P|Yo el más humilde y á la vez el más respetable por mi estado sacerdotal, pero el más sospechoso por la hora y el lugar, voy á acusarme y á defenderme al mismo tiempo.
+P|Decidnos lo que sepais.
+P|Lo diré brevemente, porque la corta vida que me queda, no consiente largas relaciones. Romeo se habia desposado con Julieta. Yo los casé, y el mismo dia murió Teobaldo. Esta muerte fué causa del destierro del desposado y del dolor de Julieta. Vos creisteis mitigarle, casándola con Páris. En seguida vino á mi celda, y loca y ciega me rogó que buscase una manera de impedir esta segunda boda, porque si no, iba á matarse en mi presencia. Yo le di un narcótico preparado por mí, cuyos efectos simulaban la muerte, y avisé á Romeo por una carta, que viniese esta noche (en que ella despertaría) á ayudarme á desenterrarla. Fray Juan, á quien entregué la carta, no pudo salir de Verona, por súbito accidente. Entonces me vine yo solo á la hora prevista, para sacarla del mausoleo y llevarla á mi convento, donde esperase á su marido. Pero cuando llegué, pocos momentos antes de que ella despertara, hallé muertos á Páris y á Romeo. Despertó ella, y le rogué por Dios que me siguiese y respetara la voluntad suprema. Ella desesperada no me siguió, y á lo que parece, se ha dado la muerte. Hasta aquí sé. Del casamiento puede dar testimonio su ama. Y si yo delinquí en algo, dispuesto estoy á sacrificar mi vida al fallo de la ley, que sólo en pocas horas podrá adelantar mi muerte.
+P|Siempre os hemos tenido por varon santo y de virtudes. Oigamos ahora al criado de Romeo.
+P|Yo di á mi amo noticia de la muerte de Julieta. A toda prisa salimos de Mántua, y llegamos á este cementerio. Me dió una carta para su padre, y se entró en el sepulcro desatentado y fuera de sí, amenazándome con la muerte, si en algo yo le resistia.
+P|Quiero la carta; ¿y dónde está el paje que llamó á la ronda?
+P|Mi amo vino á derramar flores sobre el sepulcro de Julieta. Yo me quedé cerca de allí, según sus órdenes. Llegó un caballero y quiso entrar en el panteón. Mi amo se lo estorbó, riñeron, y yo fui corriendo á pedir auxilio.
+P|Esta carta confirma las palabras de este bendito fraile. En ella habla Romeo de su amor y de su muerte: dice que compró veneno á un boticario de Mántua, y que quiso morir, y descansar con su Julieta. ¡Capuletos, Móntescos, esta es la maldicion divina que cae sobre vuestros rencores! No tolera el cielo dicha en vosotros, y yo pierdo por causa vuestra dos parientes. A todos alcanza hoy el castigo de Dios.
+P|Montesco, dame tu mano, el dote de mi hija: más que esto no puede pedir tu hermano.
+P|Y aún te daré más. Prometo hacer una estatua de oro de la hermosa Julieta, y tal que asombre á la ciudad.
+P|Y á su lado haré yo otra igual para Romeo.
+P|¡Tardía amistad y reconciliacion, que alumbra un sol bien triste! Seguidme: aún hay que hacer más; premiar á unos y castigar á otros. Triste historia es la de Julieta y Romeo.

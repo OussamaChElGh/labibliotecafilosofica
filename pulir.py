@@ -1,0 +1,538 @@
+"""Limpieza editorial de las páginas ya generadas en public/.
+
+Se ejecuta después de migrate.py y lectura_completa.py:  python pulir.py
+Es idempotente: se puede ejecutar varias veces sin cambiar el resultado.
+
+Quita los restos del WordPress que el exportador arrastra dentro del texto:
+- el bloque de donación («Ayuda a nuestra Biblioteca… Donar»),
+- el widget «¿quieres conocer más libros de…?» con fichas copiadas,
+- el bloque de descarga de Elementor repetido al final de las fichas,
+- párrafos vacíos y títulos sin texto debajo.
+
+Además, en las obras con lectura completa pone la portada de la colección y,
+en todo el sitio, quita «[PDF]» del texto visible (no del <title>).
+
+En las fichas de libro corrige el autor y el título de los datos estructurados
+(Book) y añade un enlace de afiliado «Ver edición en papel» si no tienen uno.
+"""
+import json
+import re
+from pathlib import Path
+from urllib.parse import quote_plus
+
+from lxml import html as dom
+
+from migrate import navigation
+
+OUTPUT = Path("public")
+TEXTS = Path("textos")
+# Mismos colores que COVER_COLORS en lectura_completa.py.
+SPINES = {"verde": "#143a2c", "burdeos": "#4a1820", "azul": "#16233b", "ocre": "#4f3615", "negro": "#161015"}
+START = '<div class="entry" id="texto-obra">'
+END_MARKERS = ('<div class="terms">', '<section class="related">', '<a class="button secondary" href="#lectura">')
+LEGACY_HEADING = re.compile(r"quieres conocer más (libros|colecciones)", re.I)
+DONATION = re.compile(r"ayuda a nuestra biblioteca de filosof|ayúdanos a seguir con una donación", re.I)
+HEADINGS = ("h2", "h3", "h4")
+
+
+def text(node):
+    return " ".join(node.text_content().split())
+
+
+def is_empty(node):
+    if node.tag != "p":
+        return False
+    if node.xpath(".//img|.//a|.//iframe|.//video"):
+        return False
+    return not text(node)
+
+
+def drop(node):
+    """Quita el nodo conservando el texto que le sigue (tail)."""
+    parent = node.getparent()
+    if parent is not None:
+        node.drop_tree()
+
+
+def truncate_legacy(root):
+    """Desde el widget de «más libros» o la donación hasta el final, todo es plantilla."""
+    for node in list(root):
+        legacy = node.tag in HEADINGS and LEGACY_HEADING.search(text(node))
+        if legacy or (node.tag in HEADINGS + ("p", "div") and DONATION.search(text(node))):
+            following = list(node.itersiblings())
+            for item in following:
+                item.drop_tree()
+            node.drop_tree()
+            # El texto suelto «Donar» queda como tail del último nodo.
+            last = root[-1] if len(root) else None
+            if last is not None:
+                last.tail = None
+            else:
+                root.text = None
+            return True
+    return False
+
+
+def clean_downloads(root, header):
+    """El bloque de descarga de Elementor: imagen decorativa, saltos de línea y «Descargar»."""
+    for link in root.xpath('.//a[contains(concat(" ", normalize-space(@class), " "), " download-action ")]'):
+        block = link
+        while block.getparent() is not None and block.getparent() is not root:
+            block = block.getparent()
+        href = link.get("href", "")
+        if href and f'href="{href}"' in header:
+            for img in block.xpath('preceding-sibling::*[1][self::img][contains(@src, "left-side-figs")]'):
+                img.drop_tree()
+            block.drop_tree()
+            continue
+        for img in link.xpath('preceding-sibling::img[contains(@src, "left-side-figs")]|ancestor::p//img[contains(@src, "left-side-figs")]'):
+            img.drop_tree()
+        if "button" not in (link.get("class") or "").split() and text(link).lower() == "descargar":
+            for br in link.xpath(".//br"):
+                br.drop_tree()
+            label = text(link) or "Descargar"
+            for child in list(link):
+                child.drop_tree()
+            link.text = "Descargar PDF ↗" if label.lower() == "descargar" else label
+            link.set("class", "button download-action")
+            if block.tag == "p":
+                for br in block.xpath("./br"):
+                    br.drop_tree()
+                block.text = None
+                block.set("class", "download-cta")
+
+
+def drop_empty(root):
+    for node in list(root):
+        if is_empty(node):
+            node.drop_tree()
+
+
+def drop_empty_headings(root):
+    """Un título seguido directamente de otro del mismo nivel o superior no tiene texto."""
+    removed = []
+    changed = True
+    while changed:
+        changed = False
+        nodes = list(root)
+        for index, node in enumerate(nodes):
+            if node.tag not in HEADINGS:
+                continue
+            following = nodes[index + 1] if index + 1 < len(nodes) else None
+            empty = following is None or (following.tag in HEADINGS and following.tag <= node.tag)
+            if empty:
+                if node.get("id"):
+                    removed.append(node.get("id"))
+                node.drop_tree()
+                changed = True
+                break
+    return removed
+
+
+def fix_toc(document, remaining):
+    match = re.search(r'<details class="toc"><summary>En esta lectura <span>\d+ secciones</span></summary><ol>(.*?)</ol></details>', document, flags=re.S)
+    if not match:
+        return document
+    items = re.findall(r'<li><a href="#([^"]+)">.*?</a></li>', match.group(1), flags=re.S)
+    kept = [li for li in re.findall(r'<li><a href="#[^"]+">.*?</a></li>', match.group(1), flags=re.S)
+            if re.search(r'href="#([^"]+)"', li).group(1) in remaining]
+    if len(kept) == len(items):
+        return document
+    toc = "" if len(kept) < 3 else (f'<details class="toc"><summary>En esta lectura <span>{len(kept)} secciones</span></summary>'
+                                   f'<ol>{"".join(kept)}</ol></details>')
+    return document[:match.start()] + toc + document[match.end():]
+
+
+def polish(document):
+    start = document.find(START)
+    if start < 0:
+        return document
+    body_start = start + len(START)
+    ends = [document.find(marker, body_start) for marker in END_MARKERS]
+    ends = [e for e in ends if e >= 0]
+    if not ends:
+        return document
+    close = document.rfind("</div>", body_start, min(ends))
+    markup = document[body_start:close]
+    # Shortcodes [caption] que el exportador dejó como texto.
+    markup = re.sub(r"\[caption[^\]]*\]\s*(<img[^>]*>)\s*(.*?)\s*\[/caption\]",
+                    lambda m: f'<figure class="wp-caption">{m[1]}<figcaption>{m[2].strip()}</figcaption></figure>' if m[2].strip() else f"<figure>{m[1]}</figure>",
+                    markup, flags=re.S)
+    markup = re.sub(r"\[/?caption[^\]]*\]", "", markup)
+    root = dom.fragment_fromstring(markup, create_parent="div")
+    truncate_legacy(root)
+    clean_downloads(root, document[:start])
+    # Imagen decorativa de Elementor que acompañaba a los botones de descarga.
+    for img in root.xpath('.//img[contains(@src, "/elementor/thumbs/left-side-figs")]'):
+        holder = img.getparent()
+        if holder is not root and holder.tag in ("figure", "p") and len(holder) == 1 and not text(holder):
+            holder.drop_tree()
+        else:
+            img.drop_tree()
+    drop_empty(root)
+    drop_empty_headings(root)
+    lead = root.text or ""
+    cleaned = lead + "".join(dom.tostring(node, encoding="unicode") for node in root)
+    remaining = set(root.xpath(".//@id"))
+    document = document[:body_start] + cleaned + document[close:]
+    return fix_toc(document, remaining)
+
+
+def strip_pdf_label(document):
+    """«[PDF]» se queda en el título de Google (<title>), pero no en el texto visible."""
+    head_end = document.find("</head>")
+    if head_end < 0:
+        return document
+    body = re.sub(r"\s*\[PDF\]", "", document[head_end:])
+    body = re.sub(r"<h1>(.*?)</h1>", lambda m: "<h1>" + " ".join(m[1].split()) + "</h1>", body, flags=re.S)
+    return document[:head_end] + body
+
+
+STOP = {"pdf", "libros", "libro", "gratis", "de", "la", "el", "los", "las", "y", "en", "del", "a", "o", "un", "una",
+        "para", "que", "por", "con", "online", "epub", "filosofia", "sobre", "al", "es", "lo", "se", "mas", "leer"}
+# Etiquetas y secciones que comparten casi todas las páginas: no dicen nada del tema.
+GENERIC = re.compile(r"^/(tag/libros-pdf[^/]*|libros-pdf-gratis|articulos|historia|biografias|libros-gratis-en-online)/$")
+RELATED = re.compile(r'<section class="related"><h2>Sigue explorando</h2><ul class="cards">.*?</ul></section>', re.S)
+
+
+def route_of(page):
+    parts = page.parent.relative_to(OUTPUT).parts
+    return "/" + "/".join(parts) + "/" if parts else "/"
+
+
+def tokens(route):
+    return {t for t in re.split(r"[-/]", route.lower()) if len(t) > 2 and t not in STOP and not t.isdigit()}
+
+
+def related_index(pages):
+    """Páginas candidatas a «Sigue explorando», con sus etiquetas y palabras clave."""
+    entries = {}
+    for page, document in pages.items():
+        if not RELATED.search(document):
+            continue
+        route = route_of(page)
+        h1 = re.search(r"<h1>(.*?)</h1>", document, re.S)
+        terms = re.search(r'<div class="terms">(.*?)</div>', document, re.S)
+        entries[route] = {
+            "title": " ".join(re.sub(r"<[^>]+>", "", h1[1]).split()) if h1 else route,
+            "book": "reader-book" in document,
+            "terms": {t for t in re.findall(r'href="([^"]+)"', terms[1]) if not GENERIC.search(t)} if terms else set(),
+            "tokens": tokens(route),
+            "length": len(document),
+        }
+    # Las lecturas completas también son candidatas, ligadas a su ficha.
+    for config in sorted(TEXTS.glob("*.json")):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        ficha = entries.get(meta["book_route"])
+        if ficha:
+            entries[f'/leer/{meta["slug"]}/'] = {
+                "title": f'Leer online gratis: {meta["title"]}, de {meta["author"]}', "book": True, "online": True,
+                "terms": set(ficha["terms"]), "tokens": tokens(meta["book_route"]) | tokens(meta["slug"]),
+                "ficha": meta["book_route"], "length": ficha["length"]}
+    # Autores: una ficha enlazada desde la página de un autor comparte ese autor.
+    for page, document in pages.items():
+        route = route_of(page)
+        if re.fullmatch(r"/libros-pdf-gratis/autores/[^/]+/", route):
+            for link in set(re.findall(r'href="(/[^"#]+/)"', document)):
+                if link in entries:
+                    entries[link]["terms"].add(route)
+    frequency = {}
+    for entry in entries.values():
+        for key in entry["terms"] | {"t:" + t for t in entry["tokens"]}:
+            frequency[key] = frequency.get(key, 0) + 1
+    return entries, frequency
+
+
+def suggestions(route, entries, frequency, size=3):
+    import math
+    me = entries[route]
+    total = len(entries)
+    weight = lambda key: math.log(total / frequency.get(key, total)) if frequency.get(key) else 0
+    mine = me["terms"] | {"t:" + t for t in me["tokens"]}
+    scored = []
+    for other, entry in entries.items():
+        if other == route or entry.get("ficha") == route or me.get("ficha") == other:
+            continue
+        shared = mine & (entry["terms"] | {"t:" + t for t in entry["tokens"]})
+        score = sum(weight(key) * (2 if "/autores/" in key else 1) for key in shared)
+        if score <= 0.5:
+            continue
+        if entry["book"] == me["book"]:
+            score += 0.5
+        if entry.get("online"):
+            score += 1.5
+        scored.append((round(score, 3), entry["length"], other))
+    # A igual parecido, primero las páginas con más contenido.
+    scored.sort(key=lambda item: (-item[0], -item[1], item[2]))
+    picks = [other for _, _, other in scored]
+    # Si hay una lectura completa del mismo autor, ocupa siempre el primer hueco.
+    online = [other for score, _, other in scored if entries[other].get("online") and score >= 2.5]
+    if online:
+        picks = online[:1] + [other for other in picks if other != online[0]]
+    return picks[:size]
+
+
+def render_related(document, picks, entries):
+    if len(picks) < 2:
+        return document
+    items = "".join(f'<li><a href="{other}">{entries[other]["title"]}</a></li>' for other in picks)
+    return RELATED.sub(lambda _: f'<section class="related"><h2>Sigue explorando</h2><ul class="cards">{items}</ul></section>', document, count=1)
+
+
+# Títulos de Google que se repetían entre dos páginas distintas.
+TITLES = {
+    "/libros-pdf-gratis/colecciones/": ("Colecciones de libros de filosofía en PDF · La Biblioteca Filosófica",
+                                        "Colecciones completas de introducción e historia de la filosofía: Filosofía en 90 minutos, Descubrir la filosofía, Copleston y más, con ficha de cada libro."),
+}
+BASE = "https://labibliotecafilosofica.com"
+
+
+def seo_head(document, route):
+    """Títulos únicos y una imagen para compartir en las páginas que no la tienen."""
+    if route in TITLES:
+        title, description = TITLES[route]
+        document = re.sub(r"<title>.*?</title>", f"<title>{title}</title>", document, count=1)
+        document = re.sub(r'<meta property="og:title" content="[^"]*">', f'<meta property="og:title" content="{title}">', document, count=1)
+        document = re.sub(r'<meta name="description" content="[^"]*">', f'<meta name="description" content="{description}">', document, count=1)
+        document = re.sub(r'<meta property="og:description" content="[^"]*">', f'<meta property="og:description" content="{description}">', document, count=1)
+    if 'property="og:image"' not in document:
+        image = re.search(r'<figure class="featured"><img[^>]*?src="(/[^"]+)"', document)
+        if image and image[1].endswith("/portada-ficha.jpg"):
+            # Obra de la colección: la tarjeta horizontal hecha para redes.
+            social = image[1].replace("/portada-ficha.jpg", "/social.jpg")
+            document = document.replace("</head>", f'<meta property="og:image" content="{BASE}{social}"><meta property="og:image:width" content="1200">'
+                                        f'<meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">'
+                                        f'<meta name="twitter:image" content="{BASE}{social}"></head>', 1)
+        elif image:
+            document = document.replace("</head>", f'<meta property="og:image" content="{BASE}{image[1]}"><meta name="twitter:card" content="summary">'
+                                        f'<meta name="twitter:image" content="{BASE}{image[1]}"></head>', 1)
+    return document
+
+
+def collection_covers():
+    """Obras con lectura completa: su portada de la colección sustituye a la imagen antigua.
+
+    Devuelve {imagen antigua: (portada nueva, texto alternativo)} y {portada nueva: color del lomo}.
+    """
+    swaps, spines = {}, {}
+    for config in sorted(TEXTS.glob("*.json")):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        ficha = OUTPUT / meta["book_route"].strip("/") / "index.html"
+        if not ficha.exists():
+            continue
+        found = re.search(r'<div class="book-detail"><figure class="featured"><img[^>]*?src="([^"]+)"', ficha.read_text(encoding="utf-8"))
+        new = f'/leer/{meta["slug"]}/portada-ficha.jpg'
+        spines[new] = SPINES.get(meta.get("cover", {}).get("color", "verde"))
+        if found and found[1] != new:
+            swaps[found[1]] = (new, f'Portada de {meta["title"]}, de {meta["author"]}')
+    return swaps, spines
+
+
+def swap_covers(document, swaps):
+    for old, (new, alt) in swaps.items():
+        def replace(match):
+            tag = re.sub(r'\s(srcset|sizes)="[^"]*"', "", match[0]).replace(f'src="{old}"', f'src="{new}"')
+            tag = re.sub(r'\swidth="\d+"\s+height="\d+"', ' width="400" height="600"', tag)
+            return re.sub(r'alt="[^"]*"', f'alt="{alt}"', tag)
+        document = re.sub(r'<img[^>]*?src="' + re.escape(old) + r'"[^>]*>', replace, document)
+    return document
+
+
+# Fichas de libro: autor real en el JSON-LD y enlace de afiliado.
+AFFILIATE_TAG = "labibliote044-21"
+# Autores que el WordPress ponía delante del título («Voltaire - Zadig»).
+LEADING_AUTHORS = ("Albert Camus", "Descartes", "Hannah Arendt", "Marques de Sade", "Voltaire",
+                   "Karl Marx, Friederich Engels", "Platón")
+AUTHOR_FIX = {"Marques de Sade": "Marqués de Sade", "Descartes": "René Descartes",
+              "Gabriel García Marquez": "Gabriel García Márquez"}
+KNOWN = {"El Castillo de Otranto": "Horace Walpole", "Cantar de Mio Cid": "Anónimo", "Las Mil y Una Noches": "Anónimo"}
+BOOK_LD = re.compile(r'(\{"@type": "Book", "name": ")([^"]*)(", "url": "[^"]*", "inLanguage": "es", "isAccessibleForFree": )(true|false)(, "author": \{"@type": "Person", "name": ")Labibliotecafilosofica(")')
+
+
+def split_book_name(name):
+    """«Voltaire - Zadig» o «Zadig [PDF] - Voltaire» → («Zadig», «Voltaire»)."""
+    clean = re.sub(r"\s*\[PDF\]\s*", " ", name).strip()
+    parts = [part.strip() for part in re.split(r"\s*-\s+|\s+[-–]\s*", clean, maxsplit=1)]
+    if len(parts) == 1:
+        title, author = parts[0], KNOWN.get(parts[0], "")
+    elif parts[0] in LEADING_AUTHORS:
+        author, title = parts
+    else:
+        title, author = parts
+    return title, AUTHOR_FIX.get(author, author)
+
+
+def book_details(document):
+    """Corrige el Book del JSON-LD y devuelve (documento, título, autor) o None si no es ficha."""
+    match = BOOK_LD.search(document)
+    if match:
+        title, author = split_book_name(match.group(2))
+        free = "true" if "data-read-online" in document else match.group(4)
+        if author:
+            document = BOOK_LD.sub(lambda m: f"{m.group(1)}{title}{m.group(3)}{free}{m.group(5)}{author}{m.group(6)}", document, count=1)
+        return document, title, author
+    match = re.search(r'\{"@type": "Book", "name": "([^"]*)".*?"author": \{"@type": "Person", "name": "([^"]*)"', document)
+    return (document, match.group(1), match.group(2)) if match else None
+
+
+def add_affiliate(document):
+    details = book_details(document)
+    if not details:
+        return document
+    document, title, author = details
+    query = quote_plus(f"{title} {author}".strip())
+    # data-query permite a biblioteca.js llevar el enlace a la tienda de Amazon del país del lector.
+    document = document.replace('data-query="{query}"', f'data-query="{query}"')  # arreglo de una versión anterior
+    document = re.sub(r'(<a [^>]*href="https://www\.amazon\.es/[^"]*"[^>]*rel="sponsored[^"]*")(?![^>]*data-query)',
+                      lambda m: f'{m.group(1)} data-query="{query}"', document)
+    head = document.split(START, 1)[0]
+    if 'rel="sponsored' in head or '<div class="actions">' not in head:
+        return document
+    link = (f'<a class="button secondary" href="https://www.amazon.es/s?k={query}&amp;i=stripbooks&amp;tag={AFFILIATE_TAG}" '
+            f'rel="sponsored nofollow" data-affiliate data-query="{query}">Ver edición en papel ↗</a>')
+    start = document.index('<div class="actions">')
+    end = document.index("</div>", start)
+    return document[:end] + link + document[end:]
+
+
+def add_paper_box(document):
+    """Recuadro «Léelo en papel» en las fichas de libro: portada, ventajas y botón grande a Amazon."""
+    if "data-paper-box" in document or "data-affiliate" not in document or START not in document:
+        return document
+    link = re.search(r'<a class="button secondary" href="(https://www\.amazon\.es/[^"]*)"[^>]*data-query="([^"]*)"', document)
+    title = re.search(r"<h1>(.*?)</h1>", document, re.S)
+    cover = re.search(r'<figure class="featured"><img src="([^"]+)"', document)
+    if not link or not title:
+        return document
+    name = re.sub(r"<[^>]+>", "", title.group(1)).strip()
+    image = (f'<img src="{cover.group(1)}" alt="" width="120" height="180" loading="lazy">' if cover else "")
+    box = (f'<aside class="paper-box" data-paper-box aria-label="Edición en papel">'
+           f'<div class="paper-box-cover">{image}</div><div class="paper-box-body">'
+           f'<p class="paper-box-kicker">Edición en papel</p>'
+           f'<p class="paper-box-title">¿Prefieres leer «{name}» en papel?</p>'
+           '<ul><li>Subraya y anota sin pantallas</li><li>Ediciones con introducción y notas</li><li>Un buen regalo para lectores</li></ul>'
+           f'<a class="paper-box-cta" href="{link.group(1)}" rel="sponsored nofollow" data-affiliate data-query="{link.group(2)}">'
+           'Ver ediciones y precios en Amazon <span aria-hidden="true">↗</span></a>'
+           '<p class="paper-box-note">Enlace de afiliado: si compras, la biblioteca recibe una pequeña comisión sin coste extra para ti.</p>'
+           '</div></aside>')
+    if '<h2 id="personajes">' in document:
+        return document.replace('<h2 id="personajes">', box + '<h2 id="personajes">', 1)
+    start = document.index(START) + len(START)
+    body_end = min([i for i in (document.find(m, start) for m in END_MARKERS) if i > 0] or [document.find("</article>", start)])
+    paragraphs = [m.end() for m in re.finditer(r"</p>", document[start:body_end])]
+    at = start + paragraphs[1] if len(paragraphs) >= 3 else body_end
+    return document[:at] + box + document[at:]
+
+
+def guide_links():
+    """Rutas de ficha → guía de lectura (resumen) de las obras que la tienen."""
+    links = {}
+    for config in sorted(TEXTS.glob("*.json")):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        if meta.get("guide"):
+            links[meta["book_route"]] = (f'/leer/{meta["slug"]}/resumen/', meta["title"])
+    return links
+
+
+def add_guide_link(document, route, links):
+    if route not in links or "data-guide-link" in document:
+        return document
+    href, title = links[route]
+    link = f'<a class="text-link" href="{href}" data-guide-link>Resumen y personajes →</a>'
+    marker = '<a class="text-link" href="#texto-obra">Leer el análisis ↓</a>'
+    return document.replace(marker, marker + link, 1) if marker in document else document
+
+
+NAV = re.compile(r'(<nav class="main-nav" id="primary-navigation" aria-label="Navegación principal">).*?(<a class="mobile-library-link")', re.S)
+
+
+def replace_nav(document, menu):
+    """El menú vive en migrate.navigation(); aquí se aplica a todas las páginas ya generadas."""
+    return NAV.sub(lambda m: m.group(1) + menu + m.group(2), document, count=1)
+
+
+def reading_links():
+    """Enlaces a lectura online, resúmenes y frases para fichas, páginas de autor y artículos."""
+    pages = json.loads((TEXTS / "frases" / "paginas.json").read_text(encoding="utf-8")) if (TEXTS / "frases" / "paginas.json").exists() else []
+    by_route = {}
+    for config in sorted(TEXTS.glob("*.json")):
+        meta = json.loads(config.read_text(encoding="utf-8"))
+        quotes = next((f'/frases/{p["slug"]}/#{meta["slug"]}' for p in pages if p.get("author") == meta["author"]), None)
+        entry = by_route.setdefault(meta.get("author_route"), [])
+        entry.append(meta)
+        if quotes:
+            by_route.setdefault(("frases", meta["book_route"]), quotes)
+    for page in pages:
+        for route in page.get("link_from", []):
+            by_route.setdefault(("article", route), []).append(page)
+    return by_route, pages
+
+
+def add_reading_links(document, route, links):
+    by_route, pages = links
+    if "data-reading-link" in document:
+        return document
+    quotes = by_route.get(("frases", route))
+    marker = '<a class="text-link" href="#texto-obra">Leer el análisis ↓</a>'
+    if quotes and marker in document:
+        link = f'<a class="text-link" href="{quotes}" data-reading-link>Frases de la obra →</a>'
+        guide = re.search(r'<a class="text-link" href="[^"]*" data-guide-link>[^<]*</a>', document)
+        anchor = guide.group(0) if guide else marker
+        return document.replace(anchor, anchor + link, 1)
+    metas = by_route.get(route)
+    if metas and '<ul class="subsections">' in document:
+        author = metas[0]["author"]
+        items = "".join(f'<li><a href="/leer/{m["slug"]}/" data-reading-link>Leer {m["title"]} online →</a></li>' for m in metas)
+        items += "".join(f'<li><a href="/leer/{m["slug"]}/resumen/">Resumen de {m["title"]} →</a></li>' for m in metas if m.get("guide"))
+        items += "".join(f'<li><a href="/frases/{p["slug"]}/">{p["title"]} →</a></li>' for p in pages if p.get("author") == author)
+        return document.replace('<ul class="subsections">', '<ul class="subsections">' + items, 1)
+    related = by_route.get(("article", route))
+    if related and '<div class="entry" id="texto-obra">' in document:
+        links_html = " · ".join(f'<a href="/frases/{p["slug"]}/">{p["title"]}</a>' for p in related)
+        extra = "".join(f' · <a href="{href}">{label}</a>' for p in related for href, label in p.get("link_from_extra", []))
+        note = f'<p class="guide-link" data-reading-link>Lee también: {links_html}{extra}.</p>'
+        return document.replace('<div class="entry" id="texto-obra">', '<div class="entry" id="texto-obra">' + note, 1)
+    return document
+
+
+def main():
+    swaps, spines = collection_covers()
+    books = OUTPUT / "folio-books.json"
+    if books.exists() and spines:
+        catalog = json.loads(books.read_text(encoding="utf-8"))
+        for item in catalog:
+            if item.get("source") in swaps:
+                item["cover"] = item["source"] = swaps[item["source"]][0]
+            if item.get("source") in spines:
+                item["spineColor"] = spines[item["source"]]
+        books.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    changed = 0
+    originals, pages = {}, {}
+    for page in sorted(OUTPUT.rglob("index.html")):
+        original = page.read_text(encoding="utf-8")
+        result = strip_pdf_label(swap_covers(polish(original), swaps))
+        for _ in range(3):  # Quitar un bloque puede dejar otro vacío: repetir hasta que no cambie.
+            again = polish(result)
+            if again == result:
+                break
+            result = again
+        originals[page], pages[page] = original, result
+    # «Sigue explorando»: obras del mismo autor o tema, no las tres primeras de la categoría.
+    entries, frequency = related_index(pages)
+    guides = guide_links()
+    menu, reading = navigation(), reading_links()
+    for page, document in pages.items():
+        route = route_of(page)
+        if route in entries:
+            document = render_related(document, suggestions(route, entries, frequency), entries)
+        document = add_guide_link(add_paper_box(add_affiliate(seo_head(document, route))), route, guides)
+        pages[page] = add_reading_links(replace_nav(document, menu), route, reading)
+    for page, result in pages.items():
+        if result != originals[page]:
+            page.write_text(result, encoding="utf-8")
+            changed += 1
+    print(f"{changed} páginas pulidas")
+
+
+if __name__ == "__main__":
+    main()

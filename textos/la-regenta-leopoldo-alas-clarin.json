@@ -1,0 +1,307 @@
+{
+  "slug": "la-regenta-leopoldo-alas-clarin",
+  "title": "La Regenta",
+  "author": "Leopoldo Alas «Clarín»",
+  "author_route": "",
+  "book_route": "/la-regenta-leopoldo-alas-clarin/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/La_Regenta",
+  "source_revision": 1391678,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "prologo",
+      "title": "Prólogo",
+      "summary": "Empieza: «Creo que fue Wieland quien dijo que los pensamientos de los hombres valen más que sus acciones, y las buenas novelas más…»",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "slug": "capitulo-1",
+      "title": "Capítulo I",
+      "summary": "Empieza: «La heroica ciudad dormía la siesta. El viento Sur, caliente y perezoso, empujaba las nubes blanquecinas que se rasgaban al correr hacia…»",
+      "start": 17,
+      "end": 143
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "Capítulo II",
+      "summary": "Empieza: «El coro había terminado: los venerables canónigos dejaban cumplido por aquel día su deber de alabar al Señor entre bostezo y bostezo.…»",
+      "start": 144,
+      "end": 260
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "Capítulo III",
+      "summary": "Empieza: «Aquella tarde hablaron la Regenta y el Magistral en el paseo. El Arcipreste procuró que se encontraran y por su confianza con…»",
+      "start": 261,
+      "end": 424
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "Capítulo IV",
+      "summary": "Empieza: «La familia de los Ozores era una de las más antiguas de Vetusta. Era el tal apellido de muchos condes y marqueses,…»",
+      "start": 425,
+      "end": 554
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "Capítulo V",
+      "summary": "Empieza: «La señorita doña Anunciación Ozores había llegado a los cuarenta y siete años sin salir de la provincia de Vetusta. Era por…»",
+      "start": 555,
+      "end": 863
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "Capítulo VI",
+      "summary": "Empieza: «El Casino de Vetusta ocupaba un caserón solitario, de piedra ennegrecida por los ultrajes de la humedad, en una plazuela sucia y…»",
+      "start": 864,
+      "end": 1012
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "Capítulo VII",
+      "summary": "Empieza: «Estas y otras calidades distinguían a Pepe Ronzal, a quien Joaquinito Orgaz tenía mucho miedo. Tal vez sabía el de Pernueces que…»",
+      "start": 1013,
+      "end": 1263
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "Capítulo VIII",
+      "summary": "Empieza: «El marqués de Vegallana era en Vetusta el jefe del partido más reaccionario entre los dinásticos; pero no tenía afición a la…»",
+      "start": 1264,
+      "end": 1535
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "Capítulo IX",
+      "summary": "Empieza: «En la Plaza Nueva, en una rinconada sumida ya en la sombra está el palacio de los Ozores, de fachada ostentosa, recargada,…»",
+      "start": 1536,
+      "end": 1693
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "Capítulo X",
+      "summary": "Empieza: «A las ocho en punto, la berlina de la Marquesa venía arrancando chispas por las mal empedradas calles de la Encimada; llegaba…»",
+      "start": 1694,
+      "end": 1831
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "Capítulo XI",
+      "summary": "Empieza: «El Magistral era gran madrugador. Su vida llena de ocupaciones de muy distinto género, no le dejaba libre para el estudio más…»",
+      "start": 1832,
+      "end": 2122
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "Capítulo XII",
+      "summary": "Empieza: «Don Francisco de Asís Carraspique era uno de los individuos más importantes de la Junta Carlista de Vetusta, y el que hizo…»",
+      "start": 2123,
+      "end": 2481
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "Capítulo XIII",
+      "summary": "Empieza: «El sol entraba en el salón amarillo y en el gabinete de la Marquesa por los anchos balcones abiertos de par en…»",
+      "start": 2482,
+      "end": 2751
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "Capítulo XIV",
+      "summary": "Empieza: «Era el Espolón un paseo estrecho, sin árboles, abrigado de los vientos del Nordeste, que son los más fríos en Vetusta, por…»",
+      "start": 2752,
+      "end": 2947
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "Capítulo XV",
+      "summary": "Empieza: «En lo alto de la escalera, en el descanso del primer piso, doña Paula, con una palmatoria en una mano y el…»",
+      "start": 2948,
+      "end": 3155
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "Capítulo XVI",
+      "summary": "Empieza: «Con Octubre muere en Vetusta el buen tiempo. Al mediar Noviembre suele lucir el sol una semana, pero como si fuera ya…»",
+      "start": 3156,
+      "end": 3347
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "Capítulo XVII",
+      "summary": "Empieza: «Al obscurecer de aquel mismo día, que era el de Difuntos, Petra anunció a la Regenta, que paseaba en el Parque, entre…»",
+      "start": 3348,
+      "end": 3558
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "Capítulo XVIII",
+      "summary": "Empieza: «Las nubes pardas, opacas, anchas como estepas, venían del Oeste, tropezaban con las crestas de Corfín, se desgarraban y deshechas en agua,…»",
+      "start": 3559,
+      "end": 3641
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "Capítulo XIX",
+      "summary": "Empieza: «Don Robustiano Somoza, en cuanto asomaba Marzo, atribuía las enfermedades de sus clientes a la Primavera médica, de la que no tenía…»",
+      "start": 3642,
+      "end": 3776
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "Capítulo XX",
+      "summary": "Empieza: «Don Pompeyo Guimarán, presidente dimisionario de la Libre Hermandad, natural de Vetusta, era de familia portuguesa; y don Saturnino Bermúdez, el arqueólogo…»",
+      "start": 3777,
+      "end": 4026
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "Capítulo XXI",
+      "summary": "Empieza: «Ana leyó en su lecho, a escondidas de don Víctor, los cuarenta capítulos de la Vida de Santa Teresa escrita por ella…»",
+      "start": 4027,
+      "end": 4198
+    },
+    {
+      "slug": "capitulo-22",
+      "title": "Capítulo XXII",
+      "summary": "Empieza: «Alegre, rozagante, como nuevo volvió de los baños de Termasaltas el señor Arcediano don Restituto Mourelo, dispuesto a emprender otra campaña, que…»",
+      "start": 4199,
+      "end": 4537
+    },
+    {
+      "slug": "capitulo-23",
+      "title": "Capítulo XXIII",
+      "summary": "Empieza: «Esto leyó la Regenta sin entenderlo bien; y la traducción del Eucologio decía: «Tú poseerás el principado y el imperio en el…»",
+      "start": 4538,
+      "end": 4663
+    },
+    {
+      "slug": "capitulo-24",
+      "title": "Capítulo XXIV",
+      "summary": "Empieza: «Pero, ¿y si él se empeña en que vaya?»",
+      "start": 4664,
+      "end": 4845
+    },
+    {
+      "slug": "capitulo-25",
+      "title": "Capítulo XXV",
+      "summary": "Empieza: «Al día siguiente Glocester delante del Magistral, sin compasión, refería en la catedral todo lo que había sucedido en el baile. «La…»",
+      "start": 4846,
+      "end": 4953
+    },
+    {
+      "slug": "capitulo-26",
+      "title": "Capítulo XXVI",
+      "summary": "Empieza: «Desde el día en que presidió el entierro de don Santos Barinaga, don Pompeyo no volvió a tener hora buena, de salud…»",
+      "start": 4954,
+      "end": 5211
+    },
+    {
+      "slug": "capitulo-27",
+      "title": "Capítulo XXVII",
+      "summary": "Empieza: «¡Las diez! ¿Has oído? el reloj del comedor ha dado las diez... ¿Te parece que subamos?...»",
+      "start": 5212,
+      "end": 5533
+    },
+    {
+      "slug": "capitulo-28",
+      "title": "Capítulo XXVIII",
+      "summary": "Empieza: «¿Adónde van ustedes? -gritaba la Marquesa desde el Belvedere al Magistral y a don Víctor que uno tras otro, a veinte pasos…»",
+      "start": 5534,
+      "end": 5786
+    },
+    {
+      "slug": "capitulo-29",
+      "title": "Capítulo XXIX",
+      "summary": "Empieza: ««El día de Navidad venga usted a comer el pavo con nosotros. Me lo han mandado de León lleno de nueces. Será…»",
+      "start": 5787,
+      "end": 6049
+    },
+    {
+      "slug": "capitulo-30",
+      "title": "Capítulo XXX",
+      "summary": "Empieza: «Y ahora mucho cuidado; mira lo que vas a hacer.»",
+      "start": 6050,
+      "end": 6541
+    }
+  ],
+  "description": "La Regenta de Leopoldo Alas «Clarín»: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre la insatisfacción, el deseo y la hipocresía de una ciudad.",
+  "intro": "<p>En Vetusta, una ciudad provinciana inspirada en Oviedo, vive Ana Ozores, conocida como la Regenta por estar casada con don Víctor Quintanar, antiguo regente de la Audiencia, mucho mayor que ella. Ana es sensible, soñadora y se siente sola en un matrimonio sin pasión. Dos hombres la rodean: el magistral don Fermín de Pas, su confesor, ambicioso y enamorado en secreto, y don Álvaro Mesía, el seductor de la ciudad.</p><p>Aquí puedes leer La Regenta completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 27,
+    "art": {
+      "file": "la-regenta-leopoldo-alas-clarin.jpg",
+      "focus": [
+        0.5,
+        0.3
+      ],
+      "url": "/leer/la-regenta-leopoldo-alas-clarin/ilustracion.jpg",
+      "credit": "Achille Devéria, «Retrato de una mujer española» (1831), litografía, Art Institute of Chicago. Dominio público (CC0)."
+    }
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "la insatisfacción, el deseo y la hipocresía de una ciudad",
+    "resumen": [
+      "En Vetusta, una ciudad provinciana inspirada en Oviedo, vive Ana Ozores, conocida como la Regenta por estar casada con don Víctor Quintanar, antiguo regente de la Audiencia, mucho mayor que ella. Ana es sensible, soñadora y se siente sola en un matrimonio sin pasión. Dos hombres la rodean: el magistral don Fermín de Pas, su confesor, ambicioso y enamorado en secreto, y don Álvaro Mesía, el seductor de la ciudad.",
+      "Ana oscila entre el misticismo que le propone Fermín y la tentación que representa Álvaro, mientras Vetusta entera espía y murmura. Cuando por fin cae en el adulterio, don Víctor lo descubre, se bate en duelo con Mesía y muere. Ana queda aislada y despreciada por la misma sociedad que alimentó el escándalo. La Regenta es la gran novela naturalista española y un retrato implacable de la hipocresía."
+    ],
+    "personajes": [
+      [
+        "Ana Ozores (la Regenta)",
+        "Mujer joven, inteligente e insatisfecha, atrapada entre el deseo y la culpa."
+      ],
+      [
+        "Don Fermín de Pas",
+        "Magistral de la catedral y confesor de Ana; ambicioso y dominante."
+      ],
+      [
+        "Don Álvaro Mesía",
+        "Presidente del Casino, donjuán vanidoso que se propone conquistar a Ana."
+      ],
+      [
+        "Don Víctor Quintanar",
+        "Marido de Ana, bondadoso, aficionado a la caza y al teatro del Siglo de Oro."
+      ],
+      [
+        "Doña Paula",
+        "Madre de don Fermín, que controla su carrera con mano de hierro."
+      ],
+      [
+        "Frígilis",
+        "Amigo inseparable de don Víctor."
+      ]
+    ],
+    "ideas": [
+      "La asfixia de la vida provinciana y la murmuración como forma de poder.",
+      "La hipocresía religiosa y social.",
+      "El deseo femenino reprimido y la falta de salidas para la mujer.",
+      "El naturalismo: la influencia del ambiente y la herencia en los personajes."
+    ],
+    "faq": [
+      [
+        "¿De qué trata La Regenta?",
+        "De Ana Ozores, una mujer casada con un hombre mayor en la ciudad de Vetusta, disputada por su confesor, el magistral Fermín de Pas, y por el seductor Álvaro Mesía. Su adulterio termina en tragedia."
+      ],
+      [
+        "¿Qué ciudad es Vetusta?",
+        "Una ciudad inventada que retrata a Oviedo, donde Clarín vivió y fue catedrático."
+      ],
+      [
+        "¿Cómo termina La Regenta?",
+        "Don Víctor muere en duelo con Mesía, que huye a Madrid. Ana queda sola y rechazada, y en la última escena, en la catedral, el magistral la aparta con violencia."
+      ],
+      [
+        "¿Cuándo se publicó La Regenta?",
+        "En dos tomos, entre 1884 y 1885."
+      ]
+    ]
+  }
+}

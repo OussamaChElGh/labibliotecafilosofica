@@ -1,0 +1,146 @@
+{
+  "slug": "cuentos-de-la-selva-horacio-quiroga",
+  "title": "Cuentos de la selva",
+  "author": "Horacio Quiroga",
+  "author_route": "",
+  "book_route": "/cuentos-de-la-selva-horacio-quiroga/",
+  "translator": "",
+  "edition": "Buenos Aires, 1918",
+  "source_url": "https://es.wikisource.org/wiki/Cuentos_de_la_selva",
+  "source_revision": 1343613,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "la-tortuga-gigante",
+      "title": "La tortuga gigante",
+      "summary": "Empieza: «abía una vez un hombre que vivía en Buenos Aires, y estaba muy contento porque era un hombre sano y trabajador. Pero…»",
+      "start": 0,
+      "end": 45
+    },
+    {
+      "slug": "las-medias-de-los-flamencos",
+      "title": "Las medias de los flamencos",
+      "summary": "Empieza: «ierta vez las víboras dieron un gran baile. Invitaron a las ranas y los sapos, a los flamencos, y a los yacarés…»",
+      "start": 46,
+      "end": 94
+    },
+    {
+      "slug": "el-loro-pelado",
+      "title": "El loro pelado",
+      "summary": "Empieza: «abía una vez una bandada de loros que vivían en el monte. De mañana, temprano iban a comer choclos a la chacra,…»",
+      "start": 95,
+      "end": 159
+    },
+    {
+      "slug": "la-guerra-de-los-yacares",
+      "title": "La guerra de los yacarés",
+      "summary": "Empieza: «n un río muy grande, en un país desierto donde nunca había estado un hombre, vivían muchos yacarés. Eran más de cien…»",
+      "start": 160,
+      "end": 283
+    },
+    {
+      "slug": "la-gama-ciega",
+      "title": "La gama ciega",
+      "summary": "Empieza: «abía una vez una venado, —una gama— que tuvo dos hijos melizos, cosa rara entre los venados. Un gato montés se comió…»",
+      "start": 284,
+      "end": 348
+    },
+    {
+      "slug": "historia-de-dos-cachorros-de-coati-y-de-dos-cachorros-de-hombre",
+      "title": "Historia de dos cachorros de coatí y de dos cachorros de hombre",
+      "summary": "Empieza: «abía una vez una coatí que tenía tres hijos. Vivían en el monte comiendo frutas, raíces y huevos de pajaritos. Cuando estaban…»",
+      "start": 349,
+      "end": 401
+    },
+    {
+      "slug": "el-paso-del-yabebiri",
+      "title": "El paso del Yabebirí",
+      "summary": "Empieza: «n el río Yabebirí, que está en Misiones, hay muchísimas rayas, porque \"Yabebirí\" quiere decir precisamente \"Río - de - las -…»",
+      "start": 402,
+      "end": 516
+    },
+    {
+      "slug": "la-abeja-haragana",
+      "title": "La abeja haragana",
+      "summary": "Empieza: «abía una vez en una colmena una abeja que no quería trabajar. Es decir, recorría los árboles uno por uno para tomar…»",
+      "start": 517,
+      "end": 622
+    }
+  ],
+  "description": "Cuentos de la selva de Horacio Quiroga: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Cuentos sobre los animales y la naturaleza de la selva de Misiones.",
+  "intro": "<p>Ocho cuentos para niños ambientados en la selva de Misiones, en el norte de Argentina, donde Horacio Quiroga vivió muchos años. Los protagonistas son animales que hablan: una tortuga que salva a un hombre enfermo cargándolo hasta Buenos Aires, unos flamencos que acaban con las patas rojas por querer lucir medias, un loro que pierde las plumas, unos yacarés que defienden su río de un buque de guerra.</p><p>Aquí puedes leer Cuentos de la selva completo, dividido en cuentos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 54,
+    "art": {
+      "file": "cuentos-de-la-selva-horacio-quiroga.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/cuentos-de-la-selva-horacio-quiroga/ilustracion.jpg",
+      "credit": "Augusto Ballerini, «La cascada del Iguazú» (1892), Museo Nacional de Bellas Artes de Buenos Aires. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Cuentos",
+    "unidad": "cuentos",
+    "tema": "los animales y la naturaleza de la selva de Misiones",
+    "resumen": [
+      "Ocho cuentos para niños ambientados en la selva de Misiones, en el norte de Argentina, donde Horacio Quiroga vivió muchos años. Los protagonistas son animales que hablan: una tortuga que salva a un hombre enfermo cargándolo hasta Buenos Aires, unos flamencos que acaban con las patas rojas por querer lucir medias, un loro que pierde las plumas, unos yacarés que defienden su río de un buque de guerra.",
+      "Completan el libro la historia de una gama que queda ciega por desobedecer a su madre, la de dos cachorros de coatí y dos niños, la de las rayas que defienden a un hombre en el paso del Yabebirí y la de una abeja perezosa que aprende el valor del trabajo. Son fábulas sencillas, con humor y algo de crueldad, que enseñan a respetar la naturaleza."
+    ],
+    "personajes": [
+      [
+        "La tortuga gigante",
+        "Lleva a cuestas al cazador enfermo que la había salvado."
+      ],
+      [
+        "Los flamencos",
+        "Vanidosos, se ponen medias de víboras de coral para ir a un baile."
+      ],
+      [
+        "El loro pelado",
+        "Loro charlatán que se queda sin plumas por culpa de un tigre."
+      ],
+      [
+        "Los yacarés",
+        "Cocodrilos del río que luchan contra un buque de guerra."
+      ],
+      [
+        "La gama ciega",
+        "Cervatilla que queda ciega por comer miel de avispas."
+      ],
+      [
+        "La abeja haragana",
+        "Abeja perezosa que aprende, tras una noche de miedo, a trabajar."
+      ]
+    ],
+    "ideas": [
+      "La selva como un mundo con sus propias leyes.",
+      "El respeto entre los animales y el ser humano.",
+      "Fábulas con enseñanza: la vanidad, la obediencia, el trabajo y la gratitud.",
+      "El humor y la crueldad de la naturaleza contados para niños."
+    ],
+    "faq": [
+      [
+        "¿Cuántos cuentos tiene Cuentos de la selva?",
+        "Ocho: La tortuga gigante, Las medias de los flamencos, El loro pelado, La guerra de los yacarés, La gama ciega, Historia de dos cachorros de coatí y de dos cachorros de hombre, El paso del Yabebirí y La abeja haragana."
+      ],
+      [
+        "¿Dónde transcurren los cuentos?",
+        "En la selva de Misiones, en el norte de Argentina, junto al río Paraná."
+      ],
+      [
+        "¿Por qué las medias de los flamencos son rojas?",
+        "Según el cuento, los flamencos fueron a un baile con medias hechas de piel de víbora de coral. Las víboras los mordieron y desde entonces tienen las patas rojas de dolor."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1918, con el título Cuentos de la selva para los niños."
+      ]
+    ]
+  }
+}

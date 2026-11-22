@@ -1,0 +1,1264 @@
+H|Acto I
+S|Escena primera.
+S|Una calle en Venecia.
+S|Rodrigo y Yago.
+P|No vuelvas á tocar esa cuestión, Yago: mucho me pesa que estés tan enterado de eso tú á quien confié mi bolsa, como si fuera tuya.
+P|¿Por qué no me ois? Si alguna vez me ha pasado tal pensamiento por la cabeza, castigadme como os plazca.
+P|¿No me dijiste que le aborrecias?
+P|Y podeis creerlo. Más de tres personajes de esta ciudad le pidieron con la gorra en la mano que me hiciese teniente suyo. Yo sé si valgo como soldado y si sabria cumplir con mi obligacion. Pero él, orgulloso y testarudo se envuelve en mil retóricas hinchadas y bélicas metáforas, y acaba por decirles que no, fundado en que ya tiene su hombre. ¿Y quién es él? Un tal Miguel Casio, florentino, gran matemático, lindo y condenado como una mujer hermosa. Nunca ha visto un campo de batalla, y entiende tanto de guerra como una vieja. No sabe más que la teoría, lo mismo que cualquier togado. Habilidad y práctica ninguna. Á ese ha preferido, y yo que delante de Otelo derramé tantas veces mi sangre en Chipre, en Rodas y en otras mil tierras de cristianos y de gentiles, le he parecido inferior á ese necio sacacuentas. Él será el teniente del moro, y yo su alférez.
+P|¡Ira de Dios! Yo mejor seria su verdugo.
+P|Cosa inevitable. En la milicia se asciende por favor y no por antigüedad. Decidme ahora si hago bien ó mal en aborrecer al moro.
+P|Pues entonces, ¿por qué no dejas su servicio?
+P|Sosiégate: le sigo por mi interes. No todos podemos mandar, ni se encuentran siempre fieles criados. A muchos verás satisfechos con su condición servil, bestias de carga de sus amos, á quienes agradecen la pitanza, aunque en su vejez los arrojen á la calle. ¡Qué lástima de palos! Otros hay que con máscara de sumision y obediencia atienden sólo á su utilidad, y viven y engordan á costa de sus amos, y llegan á ser personas de cuenta. Éstos aciertan, y de éstos soy yo. Porque habeis de saber, Rodrigo, que si yo fuera el moro, no seria Yago, pero siéndolo, tengo que servirle, para mejor servicio mio. Bien lo sabe Dios: si le sirvo no es por agradecimiento ni por cariño ni obligación, sino por ir derecho á mi propósito. Si alguna vez mis acciones dieran indicio de los ocultos pensamientos de mi alma, colgarla de la manga mi corazón para pasto de grajos. No soy lo que parezco.
+P|¡Qué fortuna tendría el de los labios gruesos, si consiguiera lo que desea!
+P|Vete detrás del padre: cuenta el caso por las plazas: amotina á todos los parientes, y aunque habite en delicioso clima, hiere tú sin cesar sus oidos con moscas que le puncen y atormenten: de tal modo que su misma felicidad llegue á él tan mezclada con el dolor, que pierda mucho de su eficacia.
+P|Hemos llegado á su casa. Le llamaré.
+P|Llámale á gritos y con expresiones de angustia y furor, como si de noche hubiese comenzado á arder la ciudad.
+P|¡Levantaos, señor Brabancio!
+P|¡Levantaos, Brabancio! ¡Que los ladrones se llevan vuestra riqueza y vuestra hija! ¡Al ladrón, al ladrón!
+S|(Aparece Brabancio en la ventana.)
+P|¿Qué ruido es ese? ¿Qué pasa?
+P|¿Teníais en casa toda la familia?
+P|¿Estaban cerradas todas las puertas?
+P|¿Por qué esas preguntas?
+P|Porque os han robado. Vestios presto, por Dios vivo. Ahora mismo está solazándose con vuestra blanca cordera un macho negro y feo. Pedid ayuda á los ciudadanos, ó si no, os vais á encontrar con nietos por arte del diablo. Salid.
+P|¿Te has vuelto loco?
+P|¿No me conocéis, señor?
+P|No te conozco. ¿Quién sois?
+P|Soy Rodrigo, señor.
+P|Pues lo siento mucho. Ya te he dicho que no pasees la calle á mi hija, porque no ha de ser esposa tuya, y ahora sales de la taberna medio borracho, á interrumpir mi sueño con gritos é impertinencias.
+P|¡Señor, señor!
+P|Pero has de saber que mi condicion y mi nobleza me dan fáciles medios de vengarme de ti.
+P|Calma, señor.
+P|¿Qué decias de robos? ¿Estamos en despoblado o en Venecia?
+P|Respetable señor Brabancio, la intencion que à vos me trae es buena y loable.
+P|Vos, señor Brabancio, sois de aquellos que no obedecerian al diablo aunque él les mandase amar a Dios. ¿Asi nos agradeceis el favor que os hacemos? ¿O será mejor que del cruce de vuestra hija con ese cruel berberisco salgan potros que os arrullen con sus relinchos?
+P|¿Quién eres tú que tales insolencias ensartas? Eres un truhan.
+P|Y vos... un consejero.
+P|Caro te ha de costar, Rodrigo.
+P|Como querais. Sólo os preguntarė si consentisteis que vuestra hija, á hora desusada de la noche, y sin más compañía que la de un miserable gondolero, fuera á entregarse á ese moro soez. Si fué con noticia y con- sentimiento vuestro , confieso que os hemos ofendido, pero si fué sin saberlo vos, ahora nos reñis injusta- mente. ¿Cómo habia de faltaros al respeto yo, que al fin soy noble y caballero ? Insisto en que vuestra hija os ha hecho muy torpe engaño, á no ser que la hayais dado licencia para juntar su hermosura, su linaje y sus tesoros con los de ese infame aventurero, cuyo origen se ignora. Vedlo : averiguadlo; y si por casua- lidad la encontrais en su cuarto o en otra parte de la casa, podeis castigarme como calumniador, conforme lo mandan las leyes.
+P|¡Dadme una luz! Despierten mis criados. Sueño pa- rece lo que me pasa. El recelo basta para matarme.
+P|¡Luz, luz! (Brabancio se quita de la ventana.)
+P|Me voy. No me conviene ser testigo contra el moro.
+P|A pesar de este escándalo, no puede la Republica des- tituirle sin grave peligro de que la isla de Chipre se pierda. Nadie más que él puede salvarla, ni á peso de oro se encontraria otro hombre igual. Por eso, aunque le odio más que al mismo Lucifer, debo fingirme su- miso y cariñoso con él y aparentar lo que no siento.
+P|Los que vayan en persecucion suya, le alcanzarán de seguro en el Sagitario. Yo estaré con él. Adios. (Se va.)
+S|Salen Brabancio y sus servidores con antorchas.
+P|Cierta es mi desgracia. Ha huido mi hija. Lo que me resta de vida será una cadena de desdichas.Respóndeme, Rodrigo. ¿Dónde viste á mi niña? ¿La viste con el moro? Respondeme. ¡Ay de mi! ¿La conociste bien? ¿Quién es el burlador? ¿Te habló algo? ¡Luces, luces! ¡Levántense todos mis parientes y familiares! ¿Estarán ya casados? ¿Qué piensas tú?
+P|Creo que lo estarán.
+P|¿Y cómo habrá podido escaparse? ¡Qué traicion más negra! ¿Qué padre podrá desde hoy en adelante tener confianza en sus hijas, aunque parezcan honestas? Sóbranle al demonio encantos y brujerias con que triunfar de su recato. Rodrigo, ¿no has visto en libros algo de esto?
+P|Algo he leido.
+P|Despertad á mi hermano. ¡Ojalá que la hubiera yo casado con vos! Corred en persecucion suya, unos por un lado, otros por otro. ¿Dónde podríamos encontrarla á ella y al moro?
+P|Yo los encontraré fácilmente, si me dais gente de brios que me acompañe.
+P|Id delante. Llamaremos todas las puertas, y si alguien se resiste, autoridad tengo para hacer abrir. Armas, y llamad á la ronda. Sigueme, Rodrigo: yo premiaré tu buen celo. (Se van.)
+S|Escena II.
+S|Otra calle.
+S|Otelo, Yago y criados con teas encendidas.
+P|En la guerra he matado sin escrúpulo á muchos, pero tengo por pecado grave el matar a nadie de caso pensado. Soy demasiado bueno, más de lo que convendria á mis intereses. Ocho o diez veces anduve à punto de traspasarle de una estocada.
+P|Prefiero que no lo hayas hecho.
+P|Pues yo lo siento, porque anduvo tan provocativo y tales insolencias dijo contra ti, que yo que soy tan poco sufrido, apenas pude irme a la mano. Pero dime, ¿os habeis casado ya? El senador Brabancio es hombre de mucha autoridad y tiene más partido que el mismo Dux. Pedirá el divorcio, invocará las leyes, y si no consigue su propósito, os inquietará de mil modos.
+P|Por mucho que él imagine, más han de poder los servicios que tengo hechos al Senado. Todavía no he dicho a nadie, pero lo diré ahora que la alabanza puede honrarme, que desciendo de reyes, y que merezco la dicha que he alcanzado. A fe mia, Yago, que si no fuera por mi amor á Desdémona, no me hubiera yo sometido, siendo de tan soberbia condicion, al servicio de la República, aunque me dieran todo el oro de la otra parte de los mares. Pero ¿qué antorchas veo alli?
+P|Son el padre y los parientes de Desdémona, que vienen furiosos contra ti. Retírate.
+P|No, aqui me encontrarán, para que mi valor, mi nobleza y mi alma dén testimonio de quién soy. ¿Llegan?
+P|Me parece que no, por vida mia.
+S|Salen Casio, y soldados con antorchas.
+P|Es mi teniente con algunos criados del Dux. Buenas noches, amigos mios. ¿Qué novedades traeis?
+P|General, el Dux me envia á que os salude, y desea veros en seguida.
+P|Pues ¿qué sucede?
+P|Deben de ser noticias de Chipre. Es urgente el peligro. Esta noche han llegado uno tras otro, doce mensajeros de las galeras, y el Dux y muchos consejeros están secretamente reunidos, a pesar de ser tan avanzada la hora. Os llaman con mucha prisa: no os han encontrado en vuestra posada, y á mi me han enviado más de una vez en busca vuestra.
+P|Y gracias a Dios que me encontrasteis. Voy a dar un recado en mi casa, y vuelvo inmediatamente. (Se va.)
+P|¿Cómo aqui, alférez Yago?
+P|Calculo que esta noche he alcanzado buena presa.
+P|No lo entiendo.
+P|El moro se ha casado.
+P|¿Y con quién?
+S|(Sale Otelo.)
+P|Con... ¿En marcha, capitan?
+P|Andando.
+P|Mucha gente viene buscándoos.
+P|Son los de Brabancio. Cuidado, general, que no traen buenas intenciones. (Salen Brabancio, Rodrigo y alguaciles con armas y teas encendidas.)
+P|Deteneos.
+P|Aquí está Otelo, señor.
+P|¡Ladron de mi honra! ¡matadle! (Trábase la pelea.)
+P|Ea, caballero Rodrigo: aqui, à pie firme, os espero.
+P|Envainad esos aceros virgenes, porque el rocio de la noche podria violarlos. Venerable anciano, vuestros años me vencen más que vuestra espada.
+P|¡Infame ladron! ¿Donde tienes á mi hija? ¿Con qué hechizos le has perturbado el juicio? Porque si no la hubieras hechizado con artes diabòlicas, como seria posible que una niña tan hermosa y tan querida y tan sosegada, que ha despreciado los más ventajosos casamientos de la ciudad, hubiera abandonado la casa de su padre, atropellando mis canas y su honra, y siendo ludibrío universal, para ir a entregarse à un asqueroso monstruo como tú, afrenta del linaje humano, y cuya vista no produce deleite sino horror? ¡Que digan cuantos tengan recto juicio si aqui no han intervenido malas artes y engaño del demonio, por virtud de brebajes ó de drogas que trastornan el seso, y encadenan el libre albedrío! Yo he de ponerlo todo en claro. Y entre tanto aquí te prendo y te acuso criminalmente como embaidor y hechicero, que pro- fesa ciencias malas y reprobadas. Prendedle, y si se re- siste , matadle.
+P|Deteneos, amigos y adversarios. Yo sé cuál es mi obligacion cuando se trata de pelear. Ahora debo responder en juicio. Dime en dónde.
+P|Por de pronto irás un calabozo, hasta que la ley te llame á comparecer ante el tribunal.
+P|¿Y crees que el Dux te lo agradecerá ? Mira : todos éstos han venido de su parte, llamándome á compa- recer ante él para un gran negocio de Estado.
+P|¿Llamarte el Dux á consejo? ¿Y a media noche?
+P|¿Para qué? Prendedle: que el Dux y el Consejo han de sentir esta afrenta mia como propia suya. Porque si tales crímenes hubieran de quedar impunes, valdria mas que rigieran la República viles siervos ó paganos.
+S|Escena III.
+S|Sala del Consejo.
+S|El Dux y los Senadores sentados á una mesa.
+P|Estas noticias entre sí no tienen relación.
+P|En verdad que no concuerdan, porque según las cartas que yo he recibido, las galeras son 107.
+P|Pues aquí dice que 137.
+P|Y esta que yo tengo asegura que llegan á 200. Pero aunque en el número no convengan (y en tales ocasiones bien fácil es equivocarse), lo cierto y averiguado es que una armada turca navega hacia Chipre.
+P|Esto es lo principal y lo indudable, y esta es bastante causa para nuestros temores.
+P|(Dentro.) Ah del Senado!
+P|Trae noticias de la armada. (Sale el marinero.)
+P|¿Qué sucede?
+P|El capitán me envia á deciros que los turcos navegan hacia Ródas.
+P|¿Qué pensais de esta novedad?
+P|No la creo: es algun ardid para engañarnos. No sólo Chipre es para el turco conquista más importante que la de Rodas, sino más fácil, por estar enteramente desguarnecida, y ser menos fuerte por naturaleza. Y no hemos de creer tan necio al turco, que deje lo cierto por lo dudoso, empeñándose en una empresa estéril y de dudoso resultado.
+P|Para mi es seguro que no piensa en atacar á Rodas.
+P|Ahora llegan otras noticias. (Entra el marinero 2.°)
+P|Ilustrísimo Senado, el turco se ha reforzado en Rodas con buen número de naves.
+P|Lo sospeché. ¿Sabes cuántas?
+P|Treinta. Y ahora navega de retorno hacia Chipre, con propósito manifiesto de atacarla. Esto me manda á deciros con todo respeto vuestro fiel servidor Montano.
+P|No hay duda que atacarán a Chipre. ¿Está alli Már cos Luchesi?
+P|Está en Florencia.
+P|Escribidle de mi parte que vuelva en seguida.
+P|Aquí llegan Brabancio y el moro.
+S|(Salen Brabancio, Otelo, Yago, Rodrigo, Alguaciles, etc.)
+P|Esforzado Otelo, necesario es que sin dilacion salgais á combatir al turco. (A Brabancio.) Señor, bien venido seais: no os vi al entrar. ¡Lástima que esta noche nos hayan faltado vuestra ayuda y consejo!
+P|Más me ha faltado á mi el vuestro. Perdon, señor. No me he levantado tan à deshora por tener yo noticia de este peligro, ni ahora me conmueven las calamidades públicas, porque mi dolor particular, como despeñado torrente, lleva delante de sí y devora cuantos pesares se le atraviesan en el camino.
+P|¿Qué ha acontecido?
+P|¡Ay hija mia, desdichada hija mia!
+P|¿Ha muerto?
+P|Peor aún. Para mí como si hubiese muerto. La han sacado de mi casa, le han trastornado el seso con bebedizos de charlatanes, porque sin arte diabólica ¿cómo ella, que no está loca ni ciega, habia de caer en tal desvario?
+P|Sea quien fuere el autor de vuestra afrenta, el que ha privado de la razon á vuestra hija y la ha arrancado de vuestra casa, vos mismo aplicareis con inflexible rigor la sangrienta ley, aunque recaiga en mi propio hijo.
+P|Gracias, señor. Quien la robó es el moro.
+P|¡Lástima grande!
+P|¿Qué contestais, Otelo? ¿Qué podeis decir en propia defensa?
+P|¿Qué ha de decir, sino confesar la verdad?
+P|Generoso é ilustre Senado, dueños y señores mios, confieso que he robado á la hija de este anciano, y que me he casado con ella, pero ese es todo mi delito. Mi lenguaje es tosco: la vida del campo no me ha dejado aprender palabras suaves, porque desde que apenas contaba yo seis años y mis brazos iban cobrando vigor, los he empleado en las lides, y por eso sé menos del mundo que de las armas. Mala será, pues, mi defensa, y poco ha de aprovecharme; con todo eso, si me otorgais, vénia, os contaré breve y sencillamente como llegue al término de mi amor, y con qué filtros y hechicerias logré vencer à la hija de Brabancio.
+P|¡Una niña tan tierna é inocente que de todo se ruborizaba! ¿cómo habia de enamorarse de un monstruo feisimo como tú, que ni eres de su edad, ni de su indole ni de su tierra? Es aberracion contra naturaleza suponer tal desvario en una niña que es la misma perfeccion. No: sólo con ayuda de Satanas puedes haber triunfado. Por eso vuelvo á sostener que has alterado su sangre con yerbas ó con veneno.
+P|No basta que lo creais ni que lo sospecheis. Es necesario probarlo, y las conjeturas no son pruebas.
+P|Dime, Otelo, ¿es cierto que la has seducido con algun engaño, ó es que mutuamente os amabais?
+P|Mandad á buscar á mi esposa, que está á bordo del Sagitario. Ella sabrá defenderse y contestarle á su padre. Y si despues de oirla me condenais, no sólo despojadme del mando que me habeis confiado, sino condenadme á dura muerte.
+P|Que venga Desdémona.
+P|Acompáñalos, alférez mio. (A Yago.) Tú sabes dónde está. Y mientras llega, yo, tan sinceramente como á Dios me confieso, os referiré de qué manera fué creciendo el amor de esa dama y el mio.
+P|Hablad, Otelo.
+P|Era su padre muy amigo mio, y con frecuencia me convidaba, gustando de oirme contar mi vida año por año: mis viajes, desastres, peleas y aventuras. Todo se lo referí, cuanto me habia sucedido desde mis primeros años: naufragios y asaltos de mar y tierra, en que á duras penas salvé la vida: cómo fuí vendido por esclavo: cómo me rescaté, y cómo peregriné por desiertos, cavernas, precipicios, y rocas que parecen levantarse a las nubes: le hablé de los antropófagos caribes que se devoran los unos á los otros, y de aquellos pueblos que tienen la cabeza bajo los hombros. Desdémona escuchaba con avidez mi relacion, levantándose á veces cuando la llamaban las faenas de la casa, pero volviendo á sentarse en cuanto volvia, y devorando con los oidos mis palabras. Yo lo advertí, y aprovechando una ocasion favorable, hice que un dia estando á solas, me pidiese la entera relacion de mi vida. La hice llorar, contándole las desgracias de mis primeros años, y con lágrimas y sollozos premió mi narracion, que llamaba lastimosa y peregrina. Me dió mil gracias y acabó diciéndome que si algun dia era yo amigo de algun amante suyo, le enseñase á contar aquella historia, porque era el modo más seguro de vencerla. Esto me dijo. Ella me amó por mis trabajos, victorias y desdichas. Yo la amé por su compasion, y no hubo más sortilegios. Aquí llega Desdémona que puede dar testimonio de ello.
+S|(Salen Desdémona y Yago.)
+P|Y pienso que aún mi hija se hubiera movido á compasion con tal historia. Respetable Brabancio, consolaos y echadlo todo á buena parte. Más vale en la lid espada vieja que mano desarmada.
+P|Oigámosla, señor, y si ella me confiesa que le tuvo algun cariño, ¡caiga sobre mí la maldicion del cielo, si vuelvo á quejarme de ellos! Ven acá, niña: entre todos los que están aquí congregados ¿á quién debes obedecer más?
+P|Padre mio, dos obligaciones contrarias tengo: vos me habeis dado el sér y la crianza, y en agradecimiento á una y otra debo respetaros y obedeceros como hija. Pero aquí veo á mi esposo, y creo que debo preferirle, como mi madre os prefirió a su padre, y os obedeció más que á él. El moro es mi esposo y mi señor.
+P|¡Dios sea en tu ayuda! Nada más puedo decir, señor; si quereis, tratemos ahora de los negocios de la República. ¡Cuánto más vale adoptar á un hijo extraño que tenerlos propios! Óyeme, Otelo: de buena voluntad te doy todo lo que te negaria, si ya no lo tuvieras. Desdémona, ¡cuánto me alegro de no tener más hijos! Porque despues de tu fuga, yo los hubiera encarcelado y tratado como tirano.
+P|Poco voy á decir, y quiero que mis palabras sirvan como de escalera que hagan entrar en vuestra gracia á esos enamorados. ¿De qué sirven el llanto y las quejas cuando no hay esperanza? Sólo de acrecentar el dolor. Pero el alma que se resigna con serena firmeza, burla los embates de la suerte. Quien se ria del ladron podrá robarle, y al contrario el que llora es ladron de sí mismo.
+P|No estemos ociosos, mientras que el turco nos arrebata á Chipre. No estemos sosegados y con la risa en los labios. Poco le importa la condenacion ajena al que sale libre del tribunal, pero no así al mísero reo que sólo tiene el recurso de conformarse con la sentencia y el dolor. Siempre son oportunas vuestras sentencias, pero de sentencias no pasan, por más que digan que las dulces palabras curan el ánimo. Hablemos ya de los asuntos de la República.
+P|Poderosa escuadra otomana va á atacar á Chipre. Vos, Otelo, conoceis bien aquella isla, y aunque teneis un teniente de toda nuestra confianza, la opinion, dueña del éxito, os cree más idóneo que á él. No os pese de interrumpir vuestra dicha de hoy con esta nueva y peligrosa expedicion.
+P|Generoso Senado, la costumbre ha trocado para mí en lecho de muelle pluma el siliceo y férreo tálamo de la guerra. Mi corazon está dispuesto siempre al peligro. Ya ardo en deseos de encontrarme con el turco. Humildemente os pido que presteis á mi esposa, durante mi ausencia, el acatamiento que á su rango se debe, con casa y criados dignos de ella.
+P|Que viva en casa de su padre.
+P|De ninguna suerte.
+P|No, en modo alguno.
+P|Ni yo tampoco quiero turbar la tranquilidad de mi padre, estando siempre delante de sus ojos. Oid propicio, señor, lo que quiero deciros, y concededme una sencilla peticion.
+P|¿Cuál, Desdémona?
+P|Que no quiero separarme del moro ni un punto solo: para eso me rendí á él como el vasallo al monarca: no me enamoré de su rostro sino de su valor y de sus hazañas: por eso le rendí mi alma y mi vida. Si él va ahora á la guerra, y yo como polilla me quedo en la paz, ¿de qué me ha servido este enlace? ¿Qué fruto cogeré de él sino llorar en triste soledad su ausencia? Quiero acompañarle.
+P|Concédaselo el ilustre Senado, y á fe mia que no lo deseo por carnal apetito y brutal ardor (que ya se va apagando el de mi sangre africana), sino por corresponder á su generoso amor. Y no temais que por ella olvide el alto empeño que me fiais. No ¡vive Dios! Y si alguna vez la torpe lujuria amortigua ó entorpece mis sentidos, ó roba vigor á mi brazo, consentiré que las viejas truequen mi yelmo en olla ó marmita, y que caiga sobre mi nombre la niebla de oscuridad.
+P|Conviene que resolvais pronto si ella le ha de acompañar ó no.
+P|Debeis salir esta misma noche.
+P|Iré gustoso.
+P|Nos reuniremos á las nueve. Un oficial que para esto dejeis os enviará los despachos y las insignias de vuestra dignidad, Otelo.
+P|Si quereis, puede quedarse mi alférez, cuya probidad tengo experimentada. Él podrá acompañar á mi mujer, si consentis en ello.
+P|Así será. Buenas noches. Oidme una palabra, Brabancio: si la virtud es el mejor adorno, no hay duda que vuestro yerno es hermoso.
+P|Moro, amad mucho á Desdémona.
+P|Moro, guárdala bien, porque engaño á su padre, y puede engañarte á ti.
+S|(Vanse todos menos Otelo, Yago y Desdémona.)
+P|¡Con mi vida respondo de su fidelidad! Yago, te confio á Desdémona: tu mujer puede acompañarla. Llévala pronto á Chipre. Ven, hermosa mia: sólo una hora nos queda para coloquios de amor. El tiempo urge, y es preciso conformarse al tiempo.
+S|(Vanse Desdémona y Otelo.)
+P|Yago.
+P|¿Qué dices, noble caballero?
+P|¿Y qué imaginas tú que haré?
+P|Acostarte y reposar.
+P|Voy á echarme de cabeza al agua.
+P|Si haces tal locura, no seremos amigos. ¡Vaya un mentecato!
+P|La locura es la vida cuando la vida es dolor, y la mejor medicina de un ánimo enfermo es la muerte.
+P|¡Qué desvario! Conozco bien el mundo, y todavía no sé de un hombre que se ame de veras á sí mismo. Antes que ahogarme por una mujer, me convertiria en mono.
+P|¿Y qué he de hacer? Me avergüenzo de estar enamorado, pero ¿cómo remediarlo?
+P|¿Pues no has de remediarlo? La voluntad es el hortelano de la vida, y puede criar en ella ortigas y cardos, ó hisopos y tomillo: una sola yerba ó muchas: enriquecer la tierra ó empobrecerla: tenerla de barbecho ó abonarla. Para eso es la prudencia, el seso y el libre albedrío. Si en la balanza de la humana naturaleza, el platillo de la razon no contrapesara al de los sentidos, nos llevaria el apetito á cometer mil aberraciones. Pero por dicha tenemos la luz de la mente que doma esa sensualidad, de la cual me parece que no es más que una rama lo que llamais amor.
+P|No lo creo.
+P|Hervor de sangre, y flaqueza de voluntad. Muéstrate hombre. No te ahogues en poca agua. Siempre he sido amigo tuyo, y estoy ligado á tí por invencible afecto. Ahora puedo servirte como nunca. Toma dinero: síguenos á la guerra, disfrazado y con barba postiza. Toma dinero. ¿Piensas tú que á Desdémona le ha de durar mucho su amor por el moro? Toma dinero. ¿Qué ha de durar? ¿No ves que el fin ha de ser tan violento como el principio? Toma dinero. Los moros son versátiles é inconstantes. Dinero, mucho dinero. Pronto le amargará el dulzor de ahora. Ella es joven y ha de cansarse de él, y caer en infidelidad y mudanza. Toma dinero. Y si te empeñas en irte al infierno, véte de un modo algo más dulce que ahogándote. Recoge todo el dinero que puedas. Tú la lograrás, si es que mis artes y el poder del infierno no bastan á triunfar de la bendicion de un clérigo, y de un juramento de amor prestado á un salvaje vagabundo por una discretísima veneciana. Toma dinero, mucho dinero. No te ahogues, ni te vuelvas loco. Más vale que te ahorquen despues que la hayas poseido, que no ahogarte antes.
+P|¿Me prometes ayudarme, si me arrojo á tal empresa?
+P|No lo dudes. Pero toma dinero. Te repetiré lo que mil veces te he dicho. Aborrezco de muerte al moro: yo sé por qué, y la razon es poderosa. Tú no le aborreces menos. Conjurémonos los dos para vengaroos. Tú tendrás el deleite, yo la risa. Muchas cosas andan envueltas en el seno del porvenir. Véte, y toma dinero y disfrázate. Mañana volveremos á hablar. Pásalo bien.
+P|¿Dónde nos veremos?
+P|En mi posada.
+P|Iré temprano.
+P|Así sea. ¿Rodrigo?
+P|¿Tienes más que decirme?
+P|No te ahogues. ¿Eh?
+P|Ya no pienso en eso: voy á convertir en dinero todo lo que poseo.
+P|Hazlo así, y mucho dinero, mucho dinero en el bolsillo. (Se va Rodrigo.) Este necio será mi tesorero. Bien poco me habia de servir mi experiencia del mundo si yo fuera á perder más tiempo con él. Pero aborrezco al moro, porque se susurra que enamoró á mi mujer. No sé si es verdad, pero tengo sospechas, y me bastan como si fueran verdad averiguada. Él me estima mucho: así podré engañarle mejor. Casio es apuesto mancebo. ¡Qué bien me: valdria su empleo! Así mataria dos pájaros á la vez. ¿Qué haré? Yo he de pensarlo despacio. Dejaré correr algun tiempo, y luego me insinuaré en el ánimo de Otelo, haciéndole entender que es muy sospechosa la amistad de Casio con su mujer. Las apariencias suyas, son propias para seducir á las hembras. Por otra parte, el moro es hombre sencillo y crédulo: á todos cree buenos, y se dejará llevar del ronzal como un asno. ¡Ya he encontrado el medio! ¡Ya voy engendrando mi plan! ¡El infierno le dará luz para salir!
+H|Acto II
+S|Escena primera.
+S|Un puerto de Chipre.
+S|Salen Montano y dos Caballeros.
+P|Qué se descubre en alta mar?
+P|Nada distingo, porque la tormenta crece, y confundidos mar y cielo no dejan ver ni una sola nave.
+P|Paréceme que el viento anda muy desatado en tierra: nunca he visto en nuestra isla temporal tan horrendo. Si es lo mismo en altamar, qué quilla, por fuerte que sea, habrá podido resistir al empuje de esos montes de olas? ¿Qué resultará de aquí?
+P|Sin duda el naufragio de la armada de los turcos. Pero acerquémonos á la orilla, y ved como las espumosas olas quieren asaltar las nubes, y óomo arrojan su rugidora, ingente y líquida cabellera sobre la ardiente Osa, como queriendo apagar el brillo de las estrellas del polo inmóvil. Nunca he visto tal tormenta en el mar.
+P|Es seguro que la armada turca ha perecido, á menos que se haya refugiado en algun puerto ó ensenada. Imposible parece que resista á tan brava tempestad.
+S|(Sale otro caballero.)
+P|Albricias, amigos mios. Acabó la guerra. La tormenta ha dispersado las naves turcas. Una de Venecia, que ahora llega, ha visto naufragar la mayor parte de los barcos, y á los restantes con graves averías.
+P|¿Dices verdad?
+P|Ahora acaba de entrar en el puerto la nave, que es Veronesa. De ella ha desembarcado Miguel Casio, teniente de Otelo, el esforzado moro, quien arribará de un momento á otro, y trae toda potestad del gobierno de Venecia.
+P|Mucho me complace la eleccion de tan buen gobernador.
+P|Pero Casio, aunque se alegra del descalabro de los turcos, está inquieto y hace mil votos por que llegue salvo el moro, á quien una tempestad separó de él.
+P|Ojalá se salve. Yo he peleado cerca de él, y es bravo capitan. Vamos á la playa, á ver si Otelo llega, ó se descubre en el mar su nave, aunque sea en el límite donde el azul del cielo se confunde con el del mar.
+P|No nos detengamos: puede estar ahí dentro de un instante. (Sale Casio.)
+P|Valerosos isleños, gracias por el amor que mostrais al moro. Ayúdele el cielo contra la furia de los elementos, que me separaron de él en lo más recio de la borrasca.
+P|¿Es fuerte su navío?
+P|Y bien carenado, y lleva un piloto de larga ciencia y experiencia. Por eso no pierdo aún toda esperanza.
+S|(Suenan dentro voces: «vela, vela.») (Sale otro caballero.)
+P|¿Qué ruido es ese?
+P|El pueblo se agolpa á la playa, gritando «una vela.»
+P|El alma me está diciendo que es la de Otelo. (Se oye el disparo de un cañon.)
+P|¿Ois el cañon? Es gente amiga.
+P|Preguntad quién ha llegado.
+P|No tardaré. (Vase.)
+P|Decid, señor Casio: ¿el gobernador es casado?
+P|É hizo una gran boda, porque su dama es de tal perfeccion y hermosura que ni pluma ni lengua humana pueden describirla, y vence todos los primores del arte la realidad de sus encantos. (Sale el caballero 2.°) ¿Quién ha llegado?
+P|Yago, el alférez del gobernador.
+P|Rápido y feliz ha sido su viaje. Huracanes, mares alborotados, vientos sonoros, bancos de arena y falaces rocas, escollo del confiado navegante, han amansado un instante su natural dureza, cual si tuvieran entendimiento de hermosura, para dejar paso libre y seguro á Desdémona.
+P|¿Y quién es Desdémona?
+P|Aquella de quien te hablé, la mujer de nuestro gobernador, que dejó á cargo de Yago el conducirla aquí. Por cierto que se ha adelantado cerca de siete dias á nuestras esperanzas. ¡Dios soberano, protege á Otelo, manda á sus velas viento favorable, para que
+S|Llegada de Desdémona á Chipre.
+P|su nave toque pronto la bendecida orilla, y él torne amante á los brazos de su hermosa Desdémona, inflame el valor de nuestros pechos y asegure la tranquilidad de Chipre! (Salen Desdémona, Emilia, Yago, Rodrigo y acompañamiento.) ¡Vedla! Ahí está. La nave ha echado á tierra su tesoro. ¡Ciudadanos de Chipre, doblad la rodilla ante ella! Bien venida seais, señora. La celeste sonrisa os acompañe y guie por doquiera.
+P|Gracias, amigo Casio. ¿Qué sabeis de mi marido?
+P|Todavía no ha llegado, pero puedo deciros que está bueno y que no tardará.
+P|Mi temor es que... ¿Por qué no vinisteis juntos?
+P|Nos separamos en la tremenda porfía del cielo y del mar. (Voces de «una vela, una vela». Cañonazos.) ¿Ois? Una vela se divisa.
+P|Han hecho el saludo á la playa. Gente amiga son.
+P|Veamos qué novedades hay. Salud, alférez, y vos, señora (á Emilia). (La besa). No os enojeis, señor Yago, por esta libertad, que no es más que cortesía.
+P|Bien os portariais si con los labios os deleitase tanto como á mí con la lengua.
+P|¡Pero si nunca habla!
+P|A veces más de lo justo, sobre todo cuando tengo sueño. Sin duda, delante de vos se reporta, y riñe sólo con el pensamiento.
+P|¿Y puedes quejarte de mí?
+P|Eres tan buena como las demas mujeres. Sonajas en el estrado, gatas en la cocina, santas cuando ofendeis, demonios cuando estais agraviadas, perezosas en todo menos en la cama.
+P|¡Deslenguado!
+P|Verdades digo. Y todavía la cama os parece estrecha.
+P|¡Buen panegírico harias de mi!
+P|Más vale no hacerle.
+P|Y si tuvieras que hacer el mio, ¿qué dirias?
+P|No me desafieis, señora, porque no acierto á decir nada sin punta de sátira.
+P|Hagamos la prueba. ¿Fué álguien al puerto?
+P|Sí, señora.
+P|Mi aparente alegría oculta honda tristeza. ¿Qué dirias de mí, si tuvieras que alabarme?
+P|Por más vueltas que doy al magin, con nada atino. Parece que mi ingenio se me escapa como liga de frisa. Hé aquí por fin el parto de mi musa. «Si es blanca y rubia, su hermosura engendrará placer de que ella sabiamente participe.»
+P|No dices mal. ¿Y si es morena y discreta?
+P|Si es discreta y morena, puede estar segura de hechizar á algun blanco.
+P|¡Mal, mal!
+P|¿Y si es necia y hermosa?
+P|Nunca la hermosa fué necia, porque no hay ninguna tan necia que no llegue á casarse.
+P|Chistes de mal gusto, frias agudezas de taberna. ¿Qué elogio podrás hacer de la que es necia y fea?
+P|«Ninguna hay tan necia ni tan fea que al cabo no logre ser amada.»
+P|¡Oh ignorante! El mayor elogio para quien menos lo merece. ¿Y qué podrás decir de la mujer virtuosa? en quien no puede clavar el diente la malicia misma.
+P|«La hermosa, que jamas cae en pecado de vanidad, la que no habla palabras ociosas, la que, siendo rica, no hace ostentacion de lujosas galas, la que nunca pasa de la ocasion al deseo, la que no se venga del agravio, aunque la venganza sea fácil, la que nunca equivoca la cabeza del salmon con la cola, la que hace todas las cosas con maduro seso y no por ciego capricho, la que no mira atras aunque la sigan, tal mujer como esta, si pudiera hallarse, seria muy apetecible.»
+P|¿Y para qué la querrias?
+P|Para criar necios y hacer su labor.
+P|Fria y mal entendida conclusion. No hagas caso de él, Emilia, aunque sea tu marido, y tú, Casio, ¿qué dices? ¿No te parece deslenguado é insolente?
+P|Peca de franco, señora mia, y es mejor soldado que hombre de córte.
+S|(Hablan entre sí Casio y Desdémona.)
+P|(Aparte.) Ahora le coge de la mano: hablad, hablad quedo, aunque la red es harto pequeña para coger tan gran pez como Casio. Mírale de hito en hito: sonríete. Yo te cogeré en tus propias redes. Bien, bien: así está bien. Si de esta manera pierdes tu oficio de teniente, más te valiera no haber besado nunca esa mano. ¡Bien, admirable beso! No te lleves los dedos á la boca. (Óyese una trompeta.) El moro llega.
+P|Él es.
+P|Vamos á recibirle.
+P|Viene por allí.
+S|(Sale Otelo.)
+P|¡Mi hermosa guerrera!
+P|¡Otelo!
+P|Tan grande es mi alegría como mi admiracion de verte aquí antes de lo que esperaba. Si la tempestad ha de producir luego esta calma, soplen en hora buena los vendavales, levántense las olas y alcen las naves hasta tocar las estrellas, ó las sepulten luego en los abismos del infierno. ¡Qué grande seria mi dicha en morir ahora! ¡Tan rico estoy de felicidad, que dudo que mi suerte me reserve un dia tan feliz como éste!
+P|¡Quiera Dios que crezcan nuestro amor y nuestra felicidad al paso de los años!
+P|¡Quiéralo Dios! Apenas puedo resistir lo intenso de mi alegría: fáltanme palabras y el contento se desborda. ¡Oh, la menor armonía que suene entre nosotros sea la de este beso! (La besa.)
+P|(Aparte.) Todavía estais en buen punto, pero yo trastornaré muy pronto las llaves de esa armonía.
+P|Vamos, amigos. Se acabó la guerra: los turcos van de vencida. ¿Qué tal, mis antiguos compañeros? Bien recibida serás en Chipre, amada mia. Grande honra me hizo el Senado en enviarme aquí. No sé lo que me digo, bien mio, porque estoy loco de placer. Véte á la playa, amigo Yago, haz que saquen mis equipajes, y conduce al castillo al piloto de la nave, que es hombre de valor y de experiencia, y merece ser recompensado. Ven, Desdémona. (Vanse.)
+P|(A Rodrigo.) Espérame en el puerto. Pero oye antes una cosa, si es que eres valiente (y dicen que el amor hace valientes hasta á los cobardes). Esta noche el teniente estará de guardia en el patio del castillo. Has de saber que Desdémona está ciegamente enamorada de él.
+P|Pero cómo?
+P|Déjate guiar por mí. Tú recuerda con qué ardor se enamoró del moro, sólo por haber oido sus bravatas. ¿Pero crees tú que eso puede durar? Si tienes entendimiento ¿cómo has de creerlo? Sus ojos desean contemplar algo agradable, y ver á Otelo es como ver al demonio. Ademas la sangre, despues del placer, se enfria y necesita alimento nuevo: alguna armonía de líneas y proporciones, alguna semejanza de edad ó de costumbres. Nada de esto tiene el moro, y por eso Desdémona se encontrará burlada: empezará por fastidiarse y acabará por aborrecerle, y entonces la naturaleza, que es la mejor maestra, le guiará á nueva eleccion. Y dando por supuestas todas estas cosas llanas y naturales, ¿quién está en más favorable coyuntura que Casio? Él es listo y discreto: conciencia ninguna: todo en él es hipocresía y simulada apariencia y falsa cortesía, para lograr sus torpes antojos. Es un pícaro desalmado: no dejará perder ninguna ocasion oportuna, y hasta sabe fingir favores que no existen. Luego, es mozo y apuesto y posee cuantas cualidades pueden llevar detras de sí los ojos de una mujer. Yo veo que ya piensa en ella.
+P|Pues yo de ella no sospecho nada: me parece la virtud misma.
+P|¡Buena virtud la de tus narices! Si poseyera esa virtud, ¿se hubiera casado con el moro? ¡No está mala la virtud! ¿no has reparado con qué cariño le estrechaba la mano?
+P|Seria cortesía.
+P|Seria lujuria: una especie de prólogo de sus livianos apetitos. Y luego se besaron hasta confundirse los alientos. No dudes que se aman, Rodrigo. Cuando se empieza con estas confianzas, el término está muy cercano. Calla y déjate guiar: no olvides que yo te hice salir de Venecia. Tú harás guardia esta noche, donde yo te indique. Casio no te ha visto nunca. Yo me alejaré poco. Procura tú mover á indignacion á Casio con cualquier pretexto, desobedeciendo sus órdenes, verbi gratia.
+P|Así lo haré.
+P|Tiene mal genio, y fácilmente se incomodará y te pondrá la mano en el rostro; con tal ocasion le desafias, y esto me basta para que se arme un tumulto entre los isleños, que llevan muy á mal el gobierno de Casio. No pararemos hasta quitarle su empleo. Así allanas el camino que puede conducirte á tu felicidad. Yo te ayudaré de mil modos, pero antes hay que derribar el obstáculo mayor, y sin esto no podemos hacer nada.
+P|Haré todo lo que las circunstancias exijan.
+P|Ten confianza en lo que te digo. Esperaré en el castillo, á donde tengo que llevar los cofres del moro. Adios.
+P|Adios. (Se va.)
+P|Para mí es seguro que Casio está enamorado de ella, y parece natural que ella le ame. Á pesar del odio que le tengo, no dejo de conocer que es el moro hombre bueno, firme y tenaz en sus afectos, y á la vez de apacible y serena condicion, y creo que será buen marido para Desdémona. Yo tambien la quiero, y no con torpe intencion (aunque quizá sea mayor mi pecado). La quiero por instinto de venganza, porque tengo sospechas de que el antojadizo mozo merodeó en otro tiempo por mi jardin. Y de tal manera me conmueve y devora esta sospecha, que no quedaré contento hasta verme vengado. Mujer por mujer: y si esto no consigo, trastornar el seso del moro con celos matadores. Para eso, si no me sirve este gozquecillo veneciano que estoy criando para que siga la pista, me servirá Miguel Casio. Yo le acusaré ante el moro de amante de su mujer. (Y mucho me temo que ni áun la mia está segura con Casio.) Con esto lograré que Otelo me tenga por buen amigo suyo y me agradezca y premie con liberal mano, por haberle hecho hacer papel de bestia, enloqueciéndole y privándole de sosiego. Todavía mi pensamiento vive confuso y entre sombras: que los pensamientos ruínes sólo en la ejecucion se descubren del todo.
+S|Escena II.
+S|Calle.
+S|Un Pregonero, seguido de pueblo.
+P|Manda nuestro general y gobernador Otelo que, sabida la destruccion completa de la armada turca, todos la celebren y se regocijen, bailando y encendiendo hogueras, ó con otra cualquier muestra de alegría que bien les pareciere. Ademas hoy celebra sus bodas. Este es el bando que me manda pregonar. Estará abierto el castillo, y puede durar libremente la fiesta desde las cinco que ahora son, hasta que suene la campana de las doce. Dios guarde á Chipre y á Otelo.
+S|Escena III.
+S|Sala del castillo.
+S|Salen Otelo, Desdémona, Casio y acompañamiento.
+P|Miguel, amigo mio, quédate esta noche á guardar el castillo. No olvidemos aquel prudente precepto de la moderacion en la alegría.
+P|Ya he dado mis órdenes á Yago. Con todo eso, tendré la vigilancia necesaria.
+P|Yago es hombre de bien. Buenas noches, Casio. Mañana temprano te hablaré. Ven, amor mio (á Desdémona): despues de comprar un objeto entra el disfrutar de él. Todavía no hemos llegado á la posesion, esposa mia. Buenas noches. (Vanse todos menos Casio y Yago.)
+P|Buenas noches, Yago. Es preciso hacer la guardia.
+P|Aún tenemos una hora: no han dado las diez. El general nos ha despedido tan pronto, por quedarse solo con Desdémona. Y no me extraña: aún no la ha disfrutado, y por cierto que es digna del mismo Jove.
+P|Sí que es mujer bellísima.
+P|Y tiene trazas de ser alegre y saltadora como un cabrito.
+P|Me parece lozana y hermosa.
+P|Tiene ojos muy provocativos. Parece que tocan á rebato.
+P|Y á pesar de eso, su mirada es honesta.
+P|¿Has oido su voz tan halagüeña que convida á amar?
+P|Ciertamente que es perfectísima.
+P|¡Benditas sean sus bodas! Ven, teniente mio: vaciemos un tonel de vino de Chipre á la salud de Otelo. Allá fuera tengo dos amigos que no dejarán de acompañarnos.
+P|Mala noche para eso, Yago. Mi cabeza no resiste el vino. ¿Por qué no se habrá inventado otra manera de pasar el rato?
+P|Es broma entre amigos. Nada más que una copa. Lo demas lo beberé yo por vos, si os empeñais en decir que no.
+P|Esta noche no he bebido más que un vaso de vino y ése aguado, y así y todo ya siento los efectos. Mi debilidad es tan grande, que no me atrevo á acrecentar el daño.
+P|Cállate. Es noche de alegría. Darás gusto á los amigos.
+P|¿Dónde están?
+P|Ahí fuera. Les diré que entren, si quereis.
+P|Díselo, pero á fe que no lo hago de buen grado.
+S|(Se va.)
+P|Con otra copa más que yo le haga beber, sobre la de esta tarde, se alborotará más que un gozquecillo ladrador. Ese Rodrigo, que es un necio, loco de amor, ha bebido esta noche largo y tendido á la salud de Desdémona. Él hace la guardia y con él tres mancebos de Chipre, nobles, pundonorosos y valientes, á quienes ya he exaltado los cascos con largas libaciones. Veremos si Casio, mezclado con esta tropa de borrachos, hace alguna locura, que le acarree enemistades en la isla. Aquí viene. Si esto me sale bien, adelantarán mucho mis proyectos. (Sale Casio con Montano y criados con ánforas de vino.)
+P|Por Dios vivo... ya siento el efecto.
+P|Pues si no ha sido nada: apenas una botella.
+P|¡Ea! ¡Traed vino! (Canta.) ¡Sacudid, sacudid las copas: el soldado es mortal, y debe beber sin término! ¡Más vino, amigos!
+P|¡Linda cancion, á fe mia!
+P|En Inglaterra la oí: tierra de grandes bebedores. Nada valen en cotejo con ellos daneses, alemanes y flemáticos holandeses.
+P|¿Bebe más el ingles?
+P|Fácil le es poner debajo de la mesa al danes, y con poca fatiga al aleman, y antes de apurar la última botella, al holandes.
+P|Brindo por el general.
+P|¡Oh, dulce Inglaterra! (Canta) «Hubo un rey, noble y caballero, que se llamaba Estéban: las calzas le costaban un doblon, y se enojaba de gastar tanto dinero, y llamaba al sastre ladron. Si esto hacia el que era tan gran monarca, ¿qué has de hacer tú, pobre pechero? ¡A cuántos perdió el subirse á mayores!» ¡Más vino!
+P|Más me gusta esta cancion que la primera.
+P|¿Quereis que la repita?
+P|No, porque quien tales cosas canta merece perder su empleo. En fin. Dios es poderoso, y unos se salvarán y otros se condenarán.
+P|Bien dicho, teniente Casio.
+P|Sin agravio del gobernador, ni de ningun otro personaje, yo creo que me salvaré.
+P|Y yo tambien lo creo, mi teniente.
+P|Pero permitidme que os diga que primero me he de salvar yo, porque el teniente debe ir antes que el alférez. Basta. Cada cual á su negocio... No creais que estoy borracho, amigos mios. Ved: aquí está mi alférez: esta es mi mano derecha, esta mi mano izquierda: os aseguro que no estoy borracho. ¿No veis que hablo con sustancia y concierto?
+P|Hablais en todo seso.
+P|¡Ya lo creo! En entera razon. No vayais á creer que estoy borracho. (Se va.)
+P|Vamos á la explanada á hacer la guardia.
+P|¿Habeis visto á ese mancebo que acaba de irse? Digno es de mandar al lado del mismo César. ¡Lástima que tenga ese vicio, equinoccio de su virtud, porque la iguala! ¡Cuánto lo siento! ¡Pobre isla de Chipre si cuando se la confiara Otelo, acertase Casio á padecer este accidente!
+P|¿Suele embriagarse?
+P|Todas las noches antes de acostarse. Tardaria más de 24 horas en dormirse, si con la bebida no arrullara el sueño.
+P|Bien haríamos en avisar al gobernador con tiempo. Puede que no haya reparado en ello. Tal es la estimacion que profesa á Casio, cuyas buenas cualidades compensan sus defectos. ¿No es verdad?
+S|(Sale Rodrigo.)
+P|¿Qué hay de nuevo? Véte detras de Casio: no te detengas. (Se va Rodrigo.)
+P|¡Lástima que el moro otorgue tanta amistad y confianza á un hombre dominado por tan feo vicio! Convendrá hablar á Otelo.
+P|No he de ser yo quien le hable, porque quiero muy de veras á Casio, y me alegraria de curarle. ¿Oyes el ruido? (Voces dentro.)
+S|(Sale Casio persiguiendo á Rodrigo.)
+P|¡Infame, perverso!
+P|¿Qué sucede, mi teniente?
+P|¿Tú enseñarme á mí? ¡Mil palos le he de dar, á fe de quien soy!
+P|¡Tú apalearme!
+P|¿Y todavía te atreves á replicar?
+P|Manos quedas, señor teniente.
+P|Déjame, ó te señalo en la cara.
+P|Estais beodo.
+P|¿Beodo yo?
+P|(A Rodrigo.) Echa á correr gritando: «favor, alarma.»
+P|(Se va Rodrigo.) Paz, señores. ¡Favor, favor! ¡órden! ¡Buena guardia está la nuestra! (Óyese el tañido de una campana.) ¿Quién tocará la campana? ¡Qué alboroto! ¡Válgame el cielo! Deteneos, señor teniente. Caminais ciego á vuestra ruina.
+S|(Sale Otelo con sus criados.)
+P|¿Qué ha sucedido?
+P|Yo me voy en sangre. Me han herido de muerte.
+P|¡Deteneos!
+P|¡Deteneos, teniente Casio! ¡Montano, amigos mios! ¿Tan olvidados estais de vuestras obligaciones? ¿No veis que el general os está dando sus órdenes?
+P|¿Qué pendencia es esta? ¿Estamos entre turcos, ó nos destrozamos á nosotros mismos, ya que el cielo no permitió que ellos lo hiciesen? Si sois cristianos, contened vuestras iras, ó caro le ha de costar al primero que levante el arma ó dé un paso más. Haced callar esta campana que altera el sosiego de la isla. ¿Qué es esto, caballeros? Tú, mi buen Yago, ¿por qué palideces? Cuéntamelo todo. ¿Quién comenzó la pendencia? No me ocultes nada. Tu lealtad invoco.
+P|El motivo no lo sé. Hace poco estaban en tanta paz y armonía como dos novios antes de entrar en el lecho, pero de repente, como si alguna maligna influencia sideral los hubiese tocado, desenvainan los aceros y se atacan y pelean á muerte. Repito que no sé la causa de la rencilla. ¡Ojalá yo hubiera perdido, lidiando bizarramente en algun combate glorioso, las dos piernas que me trajeron á ser testigo de tal escena!
+P|¿Por qué tal atropello, amigo Casio?
+P|Perdonadme, señor: ahora no puedo deciros nada.
+P|Y vos, amigo Montano, que soliais ser tan cortes, y que áun de jóven teniais fama bien ganada de prudente, ¿cómo habeis venido á perderla ahora, cual si fuerais cualquier pendenciero nocturno? Respondedme.
+P|Mis heridas apenas me lo consienten, señor. Vuestro alférez Yago os podrá responder por mí. No tengo conciencia de haber ofendido á nadie esta noche, de obra ni de palabra, á no ser que sea agravio el defender la propia existencia contra un agresor injusto.
+P|¡Vive Dios! Ya la sangre y la pasion vencen en mí al juicio. Y si llego á enojarme y á levantar el brazo, juro que el más esforzado ha de caer por tierra. Decidme cómo empezó la cuestion, quién la provocó. ¡Infeliz de él, aunque fuera mi hermano gemelo! ¿Estabais locos? Cuando todavía resuenan en el castillo los gritos de guerra, cuando aún estarán llenas de terror las gentes de la isla, ¿mis propios guardas han de alterar el sosiego de la noche con disputas y rebatos? Dímelo con verdad, Yago. ¿Quién comenzó?
+P|No te juzgaré buen soldado, si por amistad con Casio faltas á la verdad.
+P|No me obligueis tan duramente. Antes que faltar á mi amigo Casio, me morderia la lengua. Pero hablaré, porque creo que el decir yo la verdad no le perjudica en nada. Las cosas pasaron así, señor gobernador. Estaba Montano hablando conmigo, cuando se nos acercó un mancebo pidiéndonos ayuda contra Casio que venia detras de él, espada en mano. Este amigo se interpuso y rogó á Casio que se detuviera. Yo corrí detras del fugitivo, para que no alarmara al pueblo con sus gritos, como al fin sucedió, porque no pude alcanzarle. Con esto volví á donde sonaba ruido de espadas, y juramentos de Casio, que nunca hasta esta noche se le habian oido. Andaba entre ellos tan recia y trabada la pelea como cuando vos los separasteis. Nada más sé ni puedo deciros. El hombre es hombre, y el más justo cae y peca. Y tengo para mí que aunque Casio golpeó á Montano, como hubiera podido golpear á su mejor amigo en un arrebato de furor, fué sin duda porque habia recibido del fugitivo alguna ofensa intolerable.
+P|La amistad que con Casio tienes, y tu natural benévolo, amigo Yago, te mueven á disculparle. Mucho te quiero, Casio, pero ya no puedes ser mi teniente. (Sale Desdémona.) Ved: con el alboroto habeis despertado á mi esposa. Voy á hacer en vosotros un ejemplar castigo.
+P|¿Qué ha sido esto?
+P|Ya está acabado todo, amiga mia. Vámonos á descansar. Yo haré curar vuestra herida, caballero, (á Montano.) Yago, procura calmar al pueblo, si es que anda alterado con la riña. Vámonos, Desdémona. Esta es la vida del guerrero. Hasta en el seno del placer viene á despertarle ruido de armas. (Quedan solos Casio y Yago.)
+P|¿Estais herido, teniente?
+P|Sí, y no hay cirujano que pueda curarme.
+P|¡No lo quiera Dios!
+P|¡He perdido la fama, el buen nombre, lo más espiritual y puro de mi sér, y sólo me queda la parte brutal, ¡El buen nombre, el buen nombre, Yago!
+P|Por Dios vivo, creí que habiais recibido alguna herida material, la cual debiera angustiaros más que la pérdida de la fama. La fama no es sino vano ruido y falsedad é impostura, que las más veces se gana sin mérito y se pierde sin culpa. Y si vos no dais por perdida la fama, de fijo que no la habeis perdido. ¡Valor, amigo Casio! Medios teneis para volver á la gracia del general. Os ha quitado el empleo en un momento de ira, y más por política y buen parecer, que por mala intencion. Así pega uno á veces al perro fiel, para asus tar al bravo leon. Suplicadle, pedidle perdon, y todo os lo concederá.
+P|¡Cómo ha de atreverse á suplicar nada á un jefe tan íntegro y bueno, un oficial tan perdido, borracho, y sin seso como yo! ¡Embriagarme yo, perder el juicio, hablar por los codos, disputar, decir bravatas y reñir hasta con mi sombra! ¿Cómo te llamaré, espíritu incorpóreo del vino, que aún no tienes nombre? Sin duda que debo llamarte demonio.
+P|¿Y á quién perseguiais con el acero desnudo? ¿Qué os habia hecho?
+P|Lo. ignoro.
+P|¿Es posible?
+P|Muchas cosas recuerdo, pero todas confusas é incoherentes. Sólo sé que hubo una pendencia, pero de la causa no puedo dar razon. ¡Dios mio! ¿No es buena locura que los hombres beban á su propio enemigo, y que se conviertan, por medio del júbilo y de la algazara, en brutos animales?
+P|Ya os vais serenando. ¿Cómo habeis recobrado el juicio tan pronto?
+P|El demonio de la ira venció al de la embriaguez. Un defecto provoca á otro, para que yo me avergüence más y más de mí mismo.
+P|Esa moral es severa con exceso. Por la hora, por el lugar, y por el estado intranquilo de la isla, valiera más que esto no hubiera sucedido, pero ya que pasó y no podeis remediarlo, tratad de reparar el yerro.
+P|Cuando yo le vuelva á pedir mi empleo, me llamará borracho. Aunque yo tuviera todas las bocas de la hidra, esta respuesta bastaria para hacerlas callar. ¡Pasar yo en breve rato desde el estado de hombre juicioso al de loco frenético y luego al de bestia! ¡Qué horror! Cada copa es una maldicion del infierno, cada botella un demonio.
+P|No digais eso, que el buen vino alegra el corazon humano, cuando no se abusa de él. No creo, teniente Casio, que dudareis de la firmeza de mi amistad.
+P|Tengo pruebas de ello. ¡Borracho yo!
+P|Vos y cualquiera puede emborracharse alguna vez. Ahora oid lo que os toca hacer. La mujer de nuestro gobernador le domina á él, porque él está encantado y absorto en la contemplacion de su belleza. Decidle la verdad, ponedla por intercesora, para que os restituya vuestro empleo. Ella es tan buena, dulce y cariñosa que hará de seguro más de lo que acerteis á pedirla: ella volverá á componer esa amistad quebrada entre vos y su esposo, y apostaria toda mi dicha futura á que este disgustillo sirve para estrecharla más y más.
+P|Me das un buen consejo.
+P|Y tan sincero y honrado como es mi amistad hácia vos.
+P|Así lo creo. Lo primero que haré mañana será rogar á Desdémona, que interceda por mí. Si ella me abandona, ¿qué esperanza puede quedarme?
+P|Bien decis. Buenas noches, teniente. Voy á la guardia.
+P|Buenas noches, Yago.
+P|¿Y quién dirá que soy un malvado, y que no son buenos y sanos mis consejos? Ese es el único modo de persuadir á Otelo, y muy fácil es que Desdémona interceda en favor de él, porque su causa es buena, y porque Desdémona es más benigna que un ángel del cielo. Y poco le ha de costar persuadir al moro. Aunque le exigiera que renegase de la fe de Cristo, de tal manera le tiene preso en la red de su amor, que puede llevarle á donde quiera, y le maneja á su antojo. ¿En qué está mi perfidia, si aconsejo á Casio el medio más fácil de alcanzar lo que desea? ¡Diabólico consejo el mio! ¡Arte propia del demonio engañar á un alma incauta con halagos que parecen celestiales! Así lo hago yo, procurando que este necio busque la intercesion de Desdémona, para que ella niegue al moro en favor de él. Y entre tanto yo destilaré torpe veneno en los oidos del moro, persuadiéndole que Desdémona pone tanto empeño en que no se vaya Casio, porque quiere conservar su ilícito amor. Y cuanto ella haga por favorecerle, tanto más crecerán las sospechas de Otelo. De esta manera convertiré el vicio en virtud, tejiendo con la piedad de Desdémona la red en que ambos han de caer. (Sale Rodrigo.) ¿Qué novedades traes, Rodrigo?
+P|Sigo la caza, pero sin fruto. Mi dinero se acaba: esta noche me han apaleado, y creo que el mejor desenlace de todo seria volverme á Venecia, con alguna experiencia de más, harto duramente adquirida, y con algunos ducados de menos.
+P|¡Pobre del que no tiene paciencia! ¿Qué herida se curó de primera intencion? No procedemos por ensalmos, sino con maña y cautela, y dando tiempo al tiempo. ¿No ves en qué estado andan las cosas? Es verdad que Casio te ha apaleado, pero él en cambio pierde su oficio. La mala yerba crece sin sol, pero la flor temprana es señal de temprana fruta. Ten paciencia y sosiego. Véte á tu posada: luego sabrás lo restante: véte, véte. Dos cosas tengo que hacer. La primera, hacer que mi mujer ayude á Desdémona en su peticion á favor de Casio: y cuando ella esté suplicando con más ahinco, me interpondré yo y hablaré al moro. No es ocasion de timideces ni de esperas.
+H|Acto III
+S|Escena primera.
+S|Sala del castillo.
+S|Casio y Músicos.
+P|Y
+P|O os pago. Tocad un breve rato para festejar el natalicio del gobernador.
+S|(Sale el Bufon.)
+P|Señores, ¿vuestros instrumentos han adquirido en Nápoles esa voz tan gangosa?
+P|¿Qué decis?
+P|Tomad dinero: el gobernador gosta tanto de vuestra música que os paga para que no continueis,
+P|Bien, señor. Callaremos,
+P|Tocad sólo alguna música que no se oiga, si es que la sabeis. En cuanto a la que se oye, el general no puede sufrirla.
+P|Nunca hemos sabido tales músicas.
+P|Pues idos con la vuestra á otra parte, porque si no, me iré yo. ¡Idos lejos! (Se van.)
+P|¿Oyes, amigo?
+P|No oigo al amigo: te oigo, á tí.
+P|Basta de bromas: toma una moneda de oro. Si la dama que acompaña á la mujer del gobernador está ya levantada, dile que un tal Casio quiere hablarla. ¿Se lo dirás?
+P|Ya está levantada, y si la encuentro, le diré lo que deseais.
+P|Díselo, amigo mio. (Se va el Bufon.—Sale Yago.) Bien venido, Yago.
+P|¿No os habeis acostado?
+P|Era casi de dia, cuando me separé de tí. Ahora he enviado un recado á tu mujer, para que me facilite una entrevista con Desdémona.
+P|Yo haré que la veas, y procuraré alejar á Otelo, para que no os interrumpa.
+P|De todas veras te lo agradeceré. (Aparte.) Ni en Florencia misma he hallado hombre tan cortes y atento.
+S|(Sale Emilia.)
+P|Buenos dias, teniente. Mucho siento el percance que os ha pasado, pero creo que al fin ha de remediarse. De ello están hablando el gobernador y su mujer. Ella os defiende mucho. Otelo replica que heristeis á una persona muy conocida en Chipre: que era forzoso el castigo, y que por eso os destituyó. Pero como es tan amigo vuestro, no tardará en devolveros el empleo, apenas haya ocasion propicia.
+P|A pesar de todo, me parece conveniente hablar á solas á Desdémona, si es que mi pretension no te parece descabellada.
+P|Ven conmigo: yo te llevaré á sitio donde puedas hablarla con toda libertad.
+P|Mucho os agradeceré tal favor. (Se van.)
+S|Escena II.
+S|Una sala del castillo.
+S|Salen Otelo, Yago y varios Caballeros.
+P|Yago, entrega tú estas cartas al piloto, para que las comunique al Senado. Entre tanto yo voy á las murallas. Allí me encontrarás.
+P|Está bien, general.
+P|Caballeros, ¿quereis visitar la fortificacion?
+P|Cómo gusteis.
+S|Escena III.
+S|Jardin del castillo.
+S|Desdémona, Emilia y Casio.
+P|Pierde el temor, amigo mio. Te prestaré toda la ayuda y favor que pueda.
+P|Señora, os suplico que lo hagais, porque mi marido lo toma como asunto propio.
+P|Es muy honrado. Espero veros pronto amigos á Otelo y á tí, buen Casio.
+P|Generosa señora, sucédame lo que quiera, Miguel Casio será siempre esclavo vuestro.
+P|En mucho aprecio tu amistad. Sé que hace tiempo la tienes con mi marido, y que sólo se alejará de tí el breve tiempo que la prudencia lo exija.
+P|Pero esa prudencia puede durar tanto, ó acrecentarse con tan perverso alimento, ó atender á tan falsas apariencias, que estando ausente yo, y sucediéndome otro en el destino, olvide el general mis servicios.
+P|No tengas ese recelo. A Emilia pongo por testigo de que no he de desistir hasta que te restituyan el em pleo. Yo cumplo siempre lo que prometo y juro. No dejaré descansar á mi marido, de dia y de noche he de seguirle y abrumarle con ruegos y súplicas en tu favor. Ni en la mesa ni en el lecho cesaré de importunarle. Buen abogado vas á tener. Antes moriré que abandonar la pretension de Casio.
+P|Señora, el amo viene.
+P|Adios, señora.
+P|Quédate, y oye lo que voy á decirle.
+P|No puedo oirte ahora ni estoy de buen temple para hablar en causa propia.
+P|Como querais. (Se va Casio.—Salen Otelo y Yago.)
+P|No me parece bien esto.
+P|¿Qué dices entre dientes?
+P|Nada... No lo sé, señor.
+P|¿No era Casio el que hablaba con mi mujer?
+P|¿Casio? No, señor. ¿Por qué habia de huir él tan pronto, apenas os vió llegar?
+P|Pues me pareció que era Casio.
+P|¿Tú de vuelta, amor mio? Ahora estaba hablando con un pobre pretendiente, que se queja de tus enojos.
+P|¿Quién?
+P|Tu teniente Casio. Y si en algo estimas mi amor y mis caricias, óyeme benévolo. O yo no entiendo nada de fisonomías, ó Casio ha pecado más que por malicia, por ignorancia. Perdónale.
+P|¿Era el que se fué de aquí ahora mismo?
+P|Sí, tan triste y abatido, que me dejó parte de su tristeza. Haz que vuelva contento, esposo mio.
+P|Ahora no: otra vez será, esposa mia.
+P|¿Pronto?
+P|Tus ruegos adelantarán el plazo.
+P|¿Esta noche, á la hora de cenar?
+P|Esta noche no puede ser.
+P|¿Mañana á la hora de comer?
+P|Mañana no comeré en casa. Tenemos junta militar en el castillo.
+P|Entonces mañana por la noche, ó el mártes por la mañana, por la tarde ó por la noche, ó el miércoles muy de madrugada. Fíjame un término y que sea corto: tres dias á lo más. Ya está arrepentido. Y aunque dicen que las leyes de la guerra son duras, y que á veces exigen el sacrificio de los mejores, su falta es bien leve, y digna sólo de alguna reprension privada. Dime, Otelo: ¿cuándo volverá? Si tú me pidieras algo, no te lo negaria yo ciertamente. Mira que en nada pienso tanto como en esto. ¿No te acuerdas que Casio fué confidente de nuestros amores? ¿No sabes que él te defendia siempre, cuando yo injustamente y por algun arrebato de celos, hablaba mal de tí? ¿Por qué dudas en perdonarle? No sé cómo persuadirte...
+P|Basta, mujer: no me digas más. Que vuelva cuando quiera.
+P|No te he pedido gracia, ni sacrificio, sino cosa que á tí mismo te está bien y te importa. Es como si te pidiera que te abrigaras, ó que te pusieras guantes, ó que comieses bien. Si mi peticion fuera de cosa más difícil ó costosa, á fe que tendria yo que medir y pesar bien las palabras, y aún así sabe Dios si lo alcanzaria.
+P|Nada te negaré. Una cosa sola he de pedirte. Déjame solo un rato.
+P|¿Yo dejar de obedecerte? Adios, señor mio, adios.
+P|Adios, Desdémona. Pronto seré contigo.
+P|Ven, Emilia. (A Otelo.) Siempre seré rendida esclava de tus voluntades. (Se van.)
+P|¡Alma de mi alma! Condenada sea mi alma, si yo no te quiero; y si alguna vez dejo de quererte, ¡confúndase y acábese el universo!
+P|General.
+P|¿Qué dices, Yago?
+P|¿Miguel Casio tuvo alguna noticia de vuestros amores con la señora?
+P|Lo supo todo, desde el principio hasta el fin. ¿A qué esa pregunta?
+P|Por nada: para matar un recelo mio.
+P|¿Qué recelo?
+P|Yo creí que nunca la habia tratado.
+P|¡Si fué confidente y mensajero de nuestros amores!
+P|¿Eso dices?
+P|La verdad digo. ¿Por qué te sorprende? Pues ¿no es hombre de fiar?
+P|Sí: hombre de bien.
+P|Muy de bien.
+P|Así que sepa...
+P|¿Qué estais murmurando?
+P|¿Murmurar?
+P|¡Sí, algo piensas, vive Dios! Vas repitiendo como un eco mis palabras, como si tuvieras en la conciencia algun mónstruo, y no te atrevieras á arrojarle. Hace un momento, cuando viste juntos á Casio y á mi mujer, dijiste que no te parecia bien. ¿Y por qué no? Ahora cuando te he referido que fué medianero de nuestros amores, preguntaste: «¿Es verdad eso?» y te quedaste caviloso, como si madurases alguna siniestra idea. Si eres amigo mio, dime con verdad lo que piensas.
+P|Señor, ya sabeis que de todas veras os amo.
+P|Por lo mismo que lo sé y lo creo, y que te juzgo hombre sério y considerado en lo que dices, me asustan tus palabras y tu silencio. No los extrañaria en hombres viles y soeces, pero en un hombre honrado como tú son indicios de que el alma está ardiendo, y de que quiere estallar la indignacion comprimida.
+P|Juro que tengo á Miguel Casio por hombre de honor.
+P|Yo tambien.
+P|El hombre debe ser lo que parece, ó á lo menos, aparentarlo.
+P|Dices bien.
+P|Repito que á Casio le tengo por hombre honrado.
+P|Eso no es decírmelo todo. Declárame cuanto piensas y recelas, hasta lo peor y más oculto.
+P|Perdonadme, general: os lo suplico. Yo estoy obligado á obedeceros en todo, menos en aquellas cosas donde ni el mismo esclavo debe obedecer. ¿Revelaros mi pensamiento? ¿Y si mi pensamiento fuera torpe, vil y menguado? ¿En qué palacio no penetra alguna vez la alevosía? ¿En qué pecho no caben injustos recelos y cavilosidades? Hasta con el más recto juicio pueden unirse bajos pensamientos.
+P|Yago, faltas á la amistad, si creyendo infamado á tu amigo, no le descubres tu sospecha.
+P|¿Y si mi sospecha fuera infundada? Porque yo soy naturalmente receloso y perspicaz, y quizá veo el mal donde no existe. No hagais caso de mis malicias, vagas é infundadas, ni perturbeis vuestro reposo por ellas, ni yo como hombre honrado y pundonoroso debo revelaros el fondo de mi pensamiento.
+P|¿Qué quieres decir con eso?
+P|¡Ay, querido jefe mio!, la buena reputacion, así en hombre como en mujer, es el tesoro más preciado. Poco roba quien roba mi dinero: antes fué algo, despues nada: antes mio, ahora suyo, y puede ser de otros cincuenta. Pero quien me roba la fama, no se enriquece, y á mí me deja pobre.
+P|¿Qué estás pensando? Dímelo, por Dios vivo. Quiero saberlo.
+P|No lo sabreis nunca, aunque tengais mi corazon en la mano.
+P|¿Por qué?
+P|Señor, temed mucho á los celos, pálido mónstruo, burlador del alma que le da abrigo. Feliz el engañado que descubre el engaño y consigue aborrecer á la engañadora, pero ¡ay del infeliz que aún la ama, y duda, y vive entre amor y recelo!
+P|¡Horrible tortura!
+P|Más feliz que el rico es el pobre, cuando está resignado con su suerte. Por el contrario el rico, aunque posea todos los tesoros de la tierra, es infeliz por el temor que á todas horas le persigue, de perder su... ¡Dios mio, aparta de mis amigos, los celos!
+P|¿Qué quieres decir? ¿Imaginas que he de pasar la vida entre sospechas y temores, cambiando de rostro como la luna? No: la duda y la resolucion sólo pueden durar en mí un momento, y si alguna vez hallares que me detengo en la sospecha y que no la apuro, llámame imbécil. Yo no me encelo si me dicen que mi mujer es hermosa y alegre, que canta y toca y danza con primor, ó que se complace en las fiestas. Si su virtud es sincera, más brillará así. Tampoco he llegado á dudar nunca de su amor. Ojos tenia ella y entendimiento para escoger. Yago, para dudar necesito pruebas, y así que las adquiera, acabaré con el amor ó con los celos.
+P|Dices bien. Y así conocerás mejor la lealtad que te profeso. Ahora no puedo darte pruebas. Vigila á tu esposa: repárala bien cuando hable con Casio, pero que no conozcan tus recelos en la cara. No sea que se burlen de tu excesiva buena fe. Las venecianas sólo confian á Dios el secreto, y saben ocultársele al marido. No consiste su virtud en no pecar, sino en esconder el pecado.
+P|¿Eso dices?
+P|A su padre engañó por amor tuyo, y cuando fingia mayor esquiveza, era cuando más te amaba.
+P|Verdad es.
+P|Pues la que tan bien supo fingir, hasta engañar á su padre, que no podia explicarse vuestro amor sino como obra de hechicería... Pero ¿qué estoy diciendo? Perdóname si me lleva demasiado lejos el cariño que te profeso.
+P|Eterna será mi gratitud.
+P|Mal efecto te han hecho mis palabras, señor.
+P|No. Mal efecto, ninguno.
+P|Paréceme que sí. Repara que cuanto te he dicho ha sido por tu bien. Pero, señor, ¡estais desconcertado! Ruégoos que no entendais mis palabras más que como suenan, ni deis demasiado crédito é importancia á una sospecha.
+P|Te lo prometo.
+P|Si no, lo sentiria, y áun seria más pronto el desenlace, que lo que yo imaginé. Casio es amigo mio... Pero ¡estais turbado!
+P|¿Por qué? Yo tengo á Desdémona por honrada.
+P|¡Que lo sea mucho tiempo! ¡Que por muchos años lo creas tú así!
+P|Pero cuando la naturaleza comienza á extraviarse...
+P|Ahí está el peligro. Y á decir verdad, el haber despreciado tan ventajosos casamientos de su raza, de su patria y de su condicion y haberse inclinado á tí, parece indicio no pequeño de torcidas y livianas inclinaciones. La naturaleza hubiera debido moverla á lo contrario. Pero... perdonadme: al decir esto, no aludo á ella solamente, aunque temo que al compararos con los mancebos de Venecia, pudiera arrepentirse.
+P|Adios, adios, y si algo más averiguas, no dejes de contármelo. Que tu mujer los vigile mucho. Adios, Yago.
+P|Me voy, general. Quédate con Dios. (Se aparta breve trecho.)
+P|¿Para qué me habré casado? Sin duda este amigo sabe mucho más que lo que me ha confesado.
+P|Gobernador, os suplico que no volvais á pensar en eso. Dad tiempo al tiempo, y aunque parece justo que Casio recobre su empleo, puesto que es hábil para desempeñarlo, mantened las cosas en tal estado algun tiempo más, y entre tanto podeis estudiar su carácter, y advertir si vuestra mujer toma con mucho calor su vuelta. Este será vehemente indicio, pero entre tanto, inclinaos á pensar que me he equivocado en mis sospechas y temores, y no desconfieis de su fidelidad.
+P|Nada temas.
+P|Adios otra vez. (Vase.)
+P|Este Yago es buen hombre y muy conocedor del mundo. ¡Ay, halcon mio! si yo te encontrara fiel, aunque te tuviera sujeto al corazon con garfios ó correas, te lanzaria al aire en busca de presa. ¿Quizá me estará engañando por ser yo viejo y negro, ó por no tener la cortesía y ameno trato propios de la juventud? ¿Pero qué me importa la razon? Lo cierto es que la he perdido, que me ha engañado, y que no tengo más recurso que aborrecerla. ¡Maldita boda: ser yo dueño de tan hermosa mujer pero no de su alma! Más quisiera yo ser un sapo asqueroso ó respirar la atmósfera de una cárcel, que compartir con nadie la posesion de esa mujer. Pero tal es la maldicion que pesa sobre los grandes, más infelices en esto que la plebe. Maldicion que nos amenaza, desde que comenzamos á respirar el vital aliento. Aquí viene Desdémona. (Salen Desdémona y Emilia.) (Aparte.) ¿Será verdad que es infiel? ¿Se burlará el cielo de sí mismo?
+P|Otelo, vén: los nobles de la isla están ya congregados para el banquete.
+P|¡Qué insensatez la mia!
+P|¿Por qué hablas entre dientes? ¿Estás malo?
+P|Me duele la cabeza.
+P|Sin duda, por el insomnio. Pero pronto sanarás. Yo te vendaré la cabeza, y antes de una hora estarás aliviado. (Intenta ponerle el pañuelo.)
+P|Ese pañuelo es pequeño. (Se cae el pañuelo.) Déjalo. Me voy contigo.
+P|Mucho siento tu incomodidad. (Vanse.)
+P|¡Oh felicidad! Este es el pañuelo, primera ofrenda amorosa del moro. Mi marido me ha pedido mil veces que se lo robe á Desdémona, pero como ella lo tiene en tanto aprecio, y Otelo se lo encomendó tanto, jamas lo deja de la mano, y muchas veces le besa y acaricia. Haré copiar la misma labor, y se le daré á Yago, aunque no puedo atinar para qué le desea: Dios lo sabe. A mí sólo me toca obedecer. (Sale Yago.)
+P|¿Cómo estás sola?
+P|No te enojes, que algo tengo que regalarte.
+P|¿A mí qué? Buena cosa será.
+P|¡Ya lo creo!
+P|Eres necia, esposa mia.
+P|¡Ya lo creo! ¿Cuánto me darás por aquel pañuelo?
+P|¿Qué pañuelo?
+P|Aquel que el moro regaló á Desdémona, y que tantas veces me has mandado robar.
+P|¿Y ya lo has hecho?
+P|No le he robado, sino que le he recogido del suelo, donde ella le dejó caer. Tómale, aquí está.
+P|Dámele, pues, amor mio.
+P|¿Y para qué? ¿Cómo tuviste tanto empeño en que yo le robara?
+P|(Cogiendo el pañuelo.) ¿Qué te importa? Dámele.
+P|Si no le necesitas para cosa de importancia, devuélvemele pronto, Yago, porque mi señora se morirá de pena, así que eche de ver la falta.
+P|No le confieses nada. Necesito el pañuelo. ¿Oyes? Véte. (Vase Emilia.) Voy á tirar este pañuelo en el aposento de Casio, para que allí le encuentre Otelo. La sombra más vana, la más ligera sospecha son para un celoso irrecusables pruebas. Ya comienza á hacer su efecto el veneno: al principio apenas ofende los labios, pero luego, como raudal de lava, abrasa las entrañas. Aquí viene el moro. (Aparte.) No podrás conciliar hoy el sueño tan apaciblemente como ayer, aunque la adormidera, el beleño y la mandrágora mezclen para tí sus adormecedores jugos.
+P|¡Infiel! ¡Infiel!
+P|¿Qué decis, gobernador?
+P|¡Lejos, lejos de mí! Tus sospechas me han puesto en el tormento. Vale más ser engañado del todo que padecer, víctima de una duda.
+P|¿Por qué decis eso, general?
+P|¿Qué me importaban sus ocultos retozos, si yo no los veia ni me percataba de ellos, ni perdia por eso el sueño, la alegría, ni el reposo? Jamas advertí en sus labios la huella del beso de Casio. Y si el robado no conoce el robo, ¿qué le importa que le hurten?
+P|Duéleme oirte hablar así.
+P|Yo hubiera podido ser feliz aunque los más ínfimos soldados del ejército hubiesen disfrutado de la hermosura de ella. ¡Pero haberlo sabido! ¡Adios, paz de mi alma! ¡Adios, bizarros escuadrones, glorioso campo de pelea, que truecas la ambicion en virtud! ¡Adios, corceles de batalla, clarin bastardo, bélicos atambores, pífanos atronantes, banderas desplegadas, pompa de los ojos, lujo y estruendo de las armas! ¡Adios todo, que la gloria de Otelo se ha acabado!
+P|¿Será verdad, señor?
+P|¡Infame! Dame pruebas infalibles de que mi esposa es adúltera. ¿Me oyes? Quiero pruebas que entren por los ojos, y si no me las das, perro malvado, más te valiera no haber nacido que encontrarte al alcance de mis manos. ¡Haz que yo lo vea, ó á lo menos pruébalo de tal suerte, que la duda no encuentre resquicio ni pared donde aferrarse! Y si no, ¡ay de tí!
+P|¡Señor, jefe mio!
+P|Si lo que me has dicho, si el tormento en que me has puesto no es más que una calumnia, no vuelvas á rezar en todos los dias de tu vida: sigue acumulando horrores y maldades, porque tu eterna condenacion es tan segura que poco puede importarte un crímen más.
+P|¡Piedad, Dios mio! ¿Sois hombre, Otelo, ó es que habeis perdido el juicio? Desde ahora renuncio á mi empleo. ¡Qué necio yo, cuyos favores se toman por agravios! ¡Cuán triste cosa es en este mundo ser honrado y generoso! Mucho me alegro de haberlo aprendido. Desde hoy prometo no querer bien á nadie, si la amistad se paga de este modo.
+P|No te vayas. Escúchame. Mejor es que seas honrado.
+P|No: seré ladino y cauteloso. La bondad se convierte en insensatez cuando trabaja contra sí misma.
+P|¡Por Dios vivo! Yo creo y no creo que mi mujer es casta, y creo y no creo que tú eres hombre de bien. Pruebas, pruebas. Su nombre, que resplandecia antes más que el rostro de la luna, está ahora tan oscuro y negro como el mio. No he de sufrirlo, mientras haya en el mundo cuerdas, aceros, venenos, hogueras y rios desbordados. ¡Pruebas, pruebas!
+P|Señor, veo que sois juguete de la pasion, y ya me va pesando de mi franqueza. ¿Quereis pruebas?
+P|No las quiero: las tendré.
+P|Y podeis tenerlas. ¡Pero qué género de pruebas! ¿Quereis verlos juntos? ¡Qué grosería!
+P|¡Condenacion! ¡Muerte!
+P|Y tengo para mí que habia de ser difícil sorprenderlos en tal ocasion. Buen cuidado tendrán ellos de ocultar sus adúlteras caricias de la vista de todos. ¿Qué prueba bastará convenceros? ¿Ni cómo habeis de verlos? Aunque estuviesen más ardorosos que jimios ó cabras ó que lobos en el celo, ó más torpes y necios que la misma estupidez. De todas suertes, aunque yo no pueda daros pruebas evidentes, tengo indicios tales, que pueden llevaros á la averiguacion de la verdad.
+P|Dame alguna prueba clara y evidente de su infidelidad.
+P|A fe mia que no me gusta el oficio de delator, pero á tal extremo han llegado las cosas que ya no puedo evitarlo. Ya sabes que mi aposento está cerca del de Casio, y que aquejado por el dolor de muelas, no puedo dormir. Hay hombres tan ligeros que entre sueños descubren su secreto. Así Casio, que entre sueños decia: «Procedamos con cautela, amada Desdémona.» Y luego me cogió la mano, y me la estrechó con fuerza, diciéndome: «Amor mio», y me besó como si quisiera desarraigar los besos de mis labios, y dijo en altas voces: «¡Maldita fortuna la que te hizo esposa del moro!»
+P|¡Qué horror!
+P|Pero todo eso fué un sueño.
+P|Prueba palpable, aunque fuera sueño, puesto que descubre que su amor ha llegado á la posesion definitiva.
+P|Esta prueba sirve para confirmar otras, aunque ninguna de ellas convence.
+P|Quiero destrozarla.
+P|Ten prudencia. Con certidumbre no sé nada. ¿Quién sabe si será fiel todavía? ¿No has visto alguna vez un pañuelo bordado en manos de Desdémona?
+P|Sí, por cierto; fué el primer regalo que la hice.
+P|No lo sabia yo, pero ví en poder de Casio un pañue lo, del todo semejante. Sí: estoy seguro de que era el de vuestra mujer.
+P|¡Si fuera el mismo!...
+P|Aquel ú otro: basta que fuera de ella para ser un indicio desfavorable.
+P|Ojalá tuviera él cien mil vidas, que una sola no me basta para saciar mi venganza. Mira, Yago: con mi aliento arrojo para siempre mi amor. ¡Sal de tu caverna, hórrida venganza! Amor, ¡ríndete al mónstruo del odio! ¡Pecho mio, llénate de víboras!
+P|Cálmate, señor.
+P|¡Sangre, Yago, sangre!
+P|Sangre no: paciencia. ¿Quién sabe si mudareis de pensamiento?
+P|Nunca, Yago. Así como el gélido mar corre siempre con rumbo á la Propóntide y al Helesponto, sin volver nunca atras su corriente, así mis pensamientos de venganza no se detienen nunca en su sanguinaria carrera, ni los templará el amor, mientras no los devore la venganza. Lo juro solemnemente por el cielo que nos cubre. (Se arrodilla.)
+P|No os levanteis. (Se arrodilla tambien.) Sed testigos, vosotros, luceros de la noche, y vosotros, elementos que girais en torno del mundo, de que Yago va á dedicar su corazon, su ingenio y su mano á la venganza de Otelo. Lo que él mande, yo lo obedeceré, aunque me parezca feroz y sanguinario.
+P|Gracias, y acepto gustoso tus ofertas, y voy á ponerte á prueba en seguida. Ojalá dentro de tres dias puedas decirme: «ya no existe Casio.»
+P|Dad por muerto á mi amigo, aunque ella viva.
+P|No, no: ¡vaya al infierno esa mujer carnal y lujuriosa! Voy á buscar astutamente medios de dar muerte á tan hermoso demonio. Yago, desde hoy serás mi teniente.
+P|Esclavo vuestro siempre.
+S|Escena IV.
+S|Explanada delante del castillo.
+S|Salen Desdémona, Emilia y un Bufon.
+P|Dime: ¿dónde está Casio?
+P|No en parte alguna que yo sepa.
+P|¿Por qué dices eso? ¿No sabes á lo menos cuál es su alojamiento?
+P|Si os lo dijera, seria una mentira.
+P|¿No me dirás algo con seriedad?
+P|No sé cuál es su posada, y si yo la inventara ahora, seria hospedarme yo mismo en el pecado mortal.
+P|¿Podrás averiguarlo y adquirir noticias de él?
+P|Preguntaré como un catequista, y os traeré las noticias que me dieren.
+P|Véte á buscarle; dile que venga, porque ya he persuadido á mi esposo en favor suyo, y tengo por arreglado su negocio. (Vase.)
+P|Emilia, ¿dónde habré perdido aquel pañuelo?
+P|No lo sé, señora mia.
+P|Créeme. Preferiria yo haber perdido un bolsillo lleno de ducados. A fe que si el moro no fuera de alma tan generosa y noble incapaz de dar en la ceguera de los celos, bastaria esto para despertar sus sospechas.
+P|¿No es celoso?
+P|El sol de su nativa África limpió su corazon de todas esas malas pasiones.
+P|Por allí viene.
+P|No me separaré de él hasta que llegue Casio. (Sale Otelo.) ¿Cómo estás, Otelo?
+P|Muy bien, esposa mia. (Aparte.) ¡Cuán difícil me parece el disimulo! ¿Cómo te va, Desdémona?
+P|Bien, amado esposo.
+P|Dame tu mano, amor mio. ¡Qué húmeda está!
+P|No la quitan frescura ni la edad ni los pesares.
+P|Es indicio de un alma apasionada. Es húmeda y ardiente. Requiere oracion, largo ayuno, mucha penitencia y recogimiento, para que el diablillo de la carne no se subleve. Mano tierna, franca y generosa.
+P|Y tú puedes decirlo, pues con esa mano te dí toda el alma.
+P|¡Qué mano tan dadivosa! En otros tiempos el alma hacia el regalo de la mano. Hoy es costumbre dar manos sin alma.
+P|Nada sé de eso. ¿Te has olvidado de tu palabra?
+P|¿Qué palabra?
+P|He mandado á llamar á Casio para que hable contigo.
+P|Tengo un fuerte resfriado. Dame tu pañuelo.
+P|Tómale, esposo mio.
+P|El que yo te dí.
+P|No le tengo aquí.
+P|¿No?
+P|No, por cierto.
+P|Falta grave es esa, porque aquel pañuelo se lo dió á mi madre una sábia hechicera, muy hábil en leer las voluntades de las gentes, y díjole que mientras le conservase, siempre seria suyo el amor de mi padre, pero si perdia el pañuelo, su marido la aborreceria y buscaria otros amores. Al tiempo de su muerte me lo entregó, para que yo se le regalase á mi esposa el dia que llegara á casarme. Hícelo así, y repito que debes guardarle bien y con tanto cariño cómo á las niñas de tus ojos, porque igual desdicha seria para tí perderlo que regalarlo.
+P|¿Será verdad lo que cuentas?
+P|Indudable. Hay en esos hilos oculta y maravillosa virtud, como que los tejió una sibila agitada de divina inspiracion. Los gusanos que hilaron la seda eran asimismo divinos. Licor de momia y corazon de vírgen sirvieron para el hechizo.
+P|¿Dices verdad?
+P|No lo dudes. Y haz por no perderle.
+P|¡Ojalá que nunca hubiera llegado á mis manos!
+P|¿Por qué? ¿Qué ha sucedido?
+P|¿Por qué hablas con tal aceleramiento?
+P|¿Le has perdido? ¿Dónde? Contéstame.
+P|¡Favor del cielo!
+P|¿Qué estás diciendo?
+P|No le perdí. Y si por casualidad le hubiera perdido...
+P|¿Perderle?
+P|Te juro que no le perdí.
+P|Pues damele, para que yo le vea.
+P|Ahora mismo podria dártele, pero no quiero hacerlo, porque tú no accedes á mis ruegos, ni vuelves su empleo á Casio.
+P|Muéstrame el pañuelo. Mis sospechas crecen.
+P|Hazme ese favor, Otelo. Nunca hallarás hombre más hábil é inteligente.
+P|¡El pañuelo!
+P|Hablemos de Casio.
+P|¡El pañuelo!
+P|Casio que en todo tiempo fué amigo y protegido tuyo, que á tu lado corrió tantas aventuras...
+P|¡El pañuelo!
+P|Grande es tu impaciencia.
+P|¡Aparta! (Se va.)
+P|¿Estará celoso?
+P|Es la primera vez que le veo así. Sin duda aquel pañuelo está encantado. ¡Cuánto siento haberlo perdido!
+P|No bastan un año ni dos, para conocer el carácter de un hombre. Son abismos que á nosotras nos devoran, y cuando se hartan, nos arrojan de sí. Aquí vienen mi marido y Casio. (Salen Casio y Yago.)
+P|Ya no queda otro recurso. Ella es quien ha de hacerlo. Allí está. ¡Oh fortuna! Id á rogárselo.
+P|¿Qué noticias traes, Casio?
+P|Nada, sino mi antigua pretension, señora. Deseo, merced á vuestra generosa intercesion, volver á la luz, á la vida, á la amistad del hombre á quien tanto respeto y agradecimiento debo. Sólo os suplico que intercedais con mucha eficacia, y si mi culpa es tan grande que ni mis servicios pasados, ni mi infortunio presente, ni mis méritos futuros bastan á que sea perdonada, sépalo yo de cierto, y alegrándome, con forzada alegría, de saberlo, pediré limosna á la fortuna por otro camino.
+P|¡Ay, buen señor Casio! Mis ruegos no suenan ya bien en los oidos de mi señor. Mi esposo no es el de antes. Si su rostro hubiera cambiado tanto como su índole, de fijo que yo no le conoceria. Todos los santos me sean testigos de que le he suplicado en favor tuyo con cuanto empeño he podido, hasta incurrir en su indignacion por mi atrevimiento y tenacidad. Es preciso dar tiempo al tiempo. Yo haré lo que pueda, y más que si se tratase de negocio mio.
+P|¿Se enojó contra tí el general?
+P|Ahora acaba de irse de aquí, con ceño muy torvo.
+P|¿Será verdad? Grave será el motivo de su enojo, porque nunca le he visto inmutarse, ni siquiera cuando á su lado una bala de cañon mató á su hermano. Voy á buscar á Otelo. (Vase.)
+P|Será sin duda algun negocio político, del gobierno de Venecia, ó alguna conspiracion de Chipre lo que ha turbado la calma de mi marido. Cuando los hombres por cualquier motivo grave se enojan, riñen hasta sobre las cosas más insignificantes. De la misma suerte, con un dedo que nos duela, todos los demas miembros se resienten. Los hombres no son dioses, ni tenemos derecho para pedirles siempre ternura. Bien haces, Emilia, en reprenderme mi falta de habilidad. Cuando ya bien á las claras mostraba su ánimo el enojo, yo misma soborné á los testigos, levantándole falso testimonio.
+P|Quiera Dios que sean negocios de Estado, como sospechais, y no vanos recelos y sospechas infundadas.
+P|¡Celos de mí! ¿Y por qué causa, si nunca le he dado motivo?
+P|No basta eso para convencer á un celoso. Los celos nunca son razonados. Son celos porque lo son: mónstruo que se devora á sí mismo.
+P|Quiera Dios que nunca tal mónstruo se apodere del alma de Otelo.
+P|Así sea, señora mia.
+P|Yo le buscaré. No te alejes mucho, amigo Casio. Y si él se presenta propicio, redoblaré mis instancias, hasta conseguir lo que deseas.
+P|Humildemente os lo agradezco, reina. (Vanse Emilia y Desdémona.) (Sale Blanca.)
+P|Buenos dias, amigo Casio.
+P|¿Cómo has venido, hermosa Blanca? Bien venida, seas siempre. Ahora mismo pensaba ir á tu casa.
+P|Y yo á tu posada, Casio amigo. ¡Una semana sin
+S|Casio y Bianca.
+P|verme! ¡Siete dias y siete noches! ¡Veinte veces ocho horas, más otras ocho! ¡Y horas más largas que las del reloj, para el alma enamorada! ¡Triste cuenta!
+P|No te enojes, Blanca mia. La pena me ahogaba. En tiempo más propicio pagaré mi deuda. Hermosa Blanca, cópiame la labor de este pañuelo. (Se le da.)
+P|Casio, ¿de dónde te ha venido este pañuelo? Sin duda de alguna nueva querida. Si antes lloré tu ausencia, ahora debo llorar más el motivo.
+P|Calla, niña. Maldito sea el demonio que tales dudas te inspiró. Ya tienes celos y crees que es de alguna dama. Pues no es cierto, Blanca mia.
+P|¿De quién es?
+P|Lo ignoro. En mi cuarto lo encontré, y porque me gustó la labor, quiero que me la copies, antes que vengan á reclamármelo. Hazlo, bien mio, te lo suplico. Ahora véte.
+P|¿Y por qué he de irme?
+P|Porque va á venir el general, y no me parece bien que me encuentre con mujeres.
+P|¿Y por qué?
+P|No porque yo no te adore.
+P|Porque no me amas. Acompáñame un poco. ¿Vendrás temprano esta noche?
+P|Poco tiempo podré acompañarte, porque estoy de espera. Pero no tardaremos en vernos.
+P|Bien está. Es fuerza acomodarse al viento.
+H|Acto IV
+S|Escena primera.
+S|Plaza delante del castillo.
+S|Salen Otelo y Yago.
+P|Qué pensais?
+P|¿Qué he de pensar, Yago?
+P|¿Qué os parece de ese beso?
+P|Beso ilícito.
+P|Puede ser sin malicia.
+P|¿Sin malicia? Eso es hipocresla y querer engañar al demonio. Arrojarse á tales cosas sin malicia es querer tentar la omnipotencia divina.
+P|Con todo es pecado venial. Y si yo hubiera dado á mi mujer un pañuelo...
+P|¿Qué?
+P|Señor: en dándosele yo, suyo es, y puede regalársele á quien quiera.
+P|Tambien es suyo mi honor, y sin embargo no puede darle.
+P|El honor, general mio, es cosa invisible, y á veces le gasta más quien nunca le tuvo. Pero el pañuelo...
+P|¡Por Dios vivo! Ya le hubiera yo olvidado. Una cosa que me dijiste anda revoloteando sobre mí como el grajo sobre techo infestado de pestilencia. Me dijiste que Casio habia recibido ese pañuelo.
+P|¿Y qué importa?
+P|Pues no me parece nada bien.
+P|¿Y si yo os dijera que presencié vuestro agravio, ó á lo menos que le he oido contar, porque hay gentes que apenas han logrado, á fuerza de importunidades, los favores de una dama, no paran hasta contarlo?
+P|¿Y él ha dicho algo?
+P|Sí, general mio. Pero tranquilizaos, porque todo lo desmentirá.
+P|¿Y qué es lo que dijo?
+P|Que estuvo con ella... No sé qué más dijo.
+P|¿Con ella?
+P|Sí, con ella.
+P|¡Con ella! ¡Eso es vergonzoso, Yago! ¡El pañuelo... confesion... el pañuelo! ¡Confesion y horca! No: ahorcarle primero y confesarle despues... Horror me da el pensarlo. Horribles presagios turban mi mente. Y no son vanas sombras, no... Oidos, labios... ¿Será verdad?... Confesion, pañuelo... (Cae desmayado.)
+P|¡Sigue, sigue, eficaz veneno mio! El mismo se va enredando incauta y desatentadamente. Así vienen á perder su fama las más castas matronas, sin culpa suya. ¡Levantaos, señor, levantaos! ¿Me ois, Otelo? ¿Qué sucede, Casio? (A Casio que entra.)
+P|¿Qué ha pasado?
+P|El general tiene un delirio convulsivo, lo mismo que ayer.
+P|Frótale las sienes.
+P|No: es mejor dejar que la naturaleza obre y el delirio pase, porque si no, empezará á echar espumarajos por la boca, y caerá en un arrebato de locura. Ya empieza á moverse. Retírate un poco. Pronto volverá de su accidente. Despues que se vaya, te diré una cosa muy importante. (Se va Casio.) General, ¿os duele aún la cabeza?
+P|¿Te estás burlando de mí?
+P|¿Burlarme yo? No lo quiera Dios. Pero quiero que resistais con viril fortaleza vuestro infeliz destino.
+P|Marido deshonrado, más que hombre, es una bestia, un mónstruo.
+P|Pues muchas bestias y muchos mónstruos debe de haber en el mundo.
+P|¿Él lo dijo?
+P|Tened valor, general, pensando que casi todos los que van sujetos al yugo, pueden tirar del mismo carro que vos. Infinitos maridos hay que, sin sospecha, descansan en tálamos profanados por el adulterio, aunque ellos se imaginan tener la posesion exclusiva. Mejor ha sido vuestra fortuna. Es gran regocijo para el demonio, el ver á un honrado varon tener por casta á la consorte infiel. En cambio, al que todo lo sabe, fácil le es tomar venganza de su injuria.
+P|Bien pensado, á fe mia.
+P|Acéchalos un rato y ten paciencia. Cuando más rendido estabais al peso de la tristeza, llegó á este aposento Casio. Yo le despedí, dando una explicacion plausible de vuestro desmayo. Prometió venir luego á hablarme. Ocultaos, y reparad bien sus gestos, y la desdeñosa expresion de su semblante. Yo le haré contar otra vez el lugar, ocasion y modo con que triunfó de vuestra esposa. Reparad su semblante, y tened paciencia, porque si no, diré que vuestra ira es loca é impropia de hombre racional.
+P|¿Lo entiendes bien, Yago? Ahora, por muy breve tiempo, voy á hacer el papel de sufrido, luego el de verdugo.
+P|Dices bien, pero no conviene que te precipites. Ahora escóndete. (Se aleja Otelo.) Para averiguar dónde está Casio, lo mejor es preguntárselo á Blanca, una infeliz á quien Casio mantiene, en cambio de su venal amor. Tal es el castigo de las rameras: engañar á muchos, para ser al fin engañadas por uno solo. Siempre que le hablan de ella, se rie estrepitosamente. Pero aquí viene el mismo Casio. (Sale Casio.) Su risa provocará la ira de Otelo. Toda la alegría y regocijo del pobre Casio la interpretará con la triste luz de sus celos. ¿Qué tal, teniente mio?
+P|Mal estoy, cuando te oigo saludarme con el nombre de ese cargo, cuya pérdida tanto me afana.
+P|Insistid en vuestros ruegos, y Desdémona lo conseguirá. (En voz baja.) Si de Blanca dependiera el conseguirlo, ya lo tendriais.
+P|¡Pobre Blanca!
+P|(Aparte.) ¡Qué risa la suya!
+P|Está locamente enamorada de tí.
+P|¡Ah, sí! ¡pobrecita! Pienso que me ama de todas veras.
+P|(Aparte.) Hace como quien lo niega, y al mismo tiempo se rie.
+P|Óyeme, Casio.
+P|(Aparte.) Ahora le está importunando para que repita la narracion. ¡Bien! ¡cosa muy oportuna!
+P|¿Pues no dice que os casareis con ella? ¿Pensais en eso?
+P|¡Oh qué linda necedad!
+P|(Aparte.) ¿Triunfas, triunfas?
+P|¡Yo casarme con ella! ¿Yo con una perdida? No me creas capaz de semejante locura. ¡Ah, ah!
+P|(Aparte.) ¡Cómo se rie este truhan afortunado!
+P|Pues la gente dice que os vais á casar con ella.
+P|Dime la verdad entera.
+P|Que me emplumen, si no la digo.
+P|¿Con que me han engañado? Está bien.
+P|Ella misma es la que divulga esa necedad, pero yo no le he dado palabra alguna.
+P|Yago me está haciendo señas. Ahora va á empezar la historia.
+P|Ahora poco la he visto: en todas partes me sigue. Dias pasados estaba yo en la playa hablando con unos venecianos, cuando ella me sorprende y se arroja á mi cuello...
+P|(Aparte.) Y te diria: «hermoso Casio» ó alguna cosa por el estilo.
+P|Y me abrazaba llorando, y se empeñaba en llevarme consigo.
+P|Y ahora contará cómo le llevó á mi lecho. ¿Por qué, por qué estaré yo viendo las narices de ese infame, y no el perro á quien he de arrojárselas?
+P|Tengo que dejarla.
+P|Mírala: allí viene.
+P|¡Y qué cargada de perfumes! (Sale Blanca.) ¿Por qué me persigues sin cesar?
+P|¡El diablo es quien te persigue! ¿Para qué me has dado, hace poco, ese pañuelo? ¡Qué necia fuí en tomarle! ¿Querias que yo te copiase la labor? ¡Qué inocencia! Encontrarle en su cuarto, y no saber quién le dejó. Será regalo de alguna querida, ¿y tenias empeño en que yo copiase la labor? Aquí te lo devuelvo: dásele: que no quiero copiar ningun dibujo de ella.
+P|Pero, Blanca, ¿qué te pasa? Calla, calla.
+P|¡Poder del cielo! ¿No es ese mi pañuelo?
+P|Vente conmigo, si quieres cenar esta noche. Si no, ven cuando quieras. (Vase.)
+P|Síguela.
+P|Tengo que seguirla. Si, no, alborotará á las gentes.
+P|¿Y cenarás con ella?
+P|Pienso que sí.
+P|Allí os buscaré, porque tengo que hablaros.
+P|¿Vendreis á cenar con nosotros?
+P|Iré.
+P|(A Yago.) ¿Qué muerte elegiré para él, Yago?
+P|Ya visteis con qué algazara celebraba su delito.
+P|¡Ay, Yago!
+P|¿Visteis el pañuelo?
+P|¡Era el mio!
+P|El mismo. Y ya vereis qué amor tiene á vuestra insensata mujer. Ella le regala su pañuelo, y él se le da á su querida.
+P|Nueve años seguidos quisiera estarla matando. ¡Oh, qué divina y admirable mujer!
+P|No os acordeis de eso.
+P|Esta noche ha de bajar al infierno. No quiero que viva ni un dia más. Mi corazon es de piedra: al herirle me hiero la mano. ¡Oh, qué hermosa mujer! No la hay igual en el mundo. Merecia ser esposa de un emperador que la obedeciese como siervo.
+P|No os acordeis de eso.
+P|¡Maldicion sobre ella! Pero ¿quién negará su hermosura? ¡Y qué manos tan hábiles para la labor! ¡Qué voz para el canto! Es capaz de amansar las fieras. ¡Qué gracia, qué ingenio!
+P|Eso la hace mil veces peor.
+P|Sí, ¡mil veces peor! Y es, ademas, tan dulce, tan sumisa.
+P|Demasiado blanda de condicion.
+P|Dices verdad. Pero, á pesar de todo, amigo Yago, ¡qué dolor, qué dolor!
+P|Si tan enamorado estais de ella, á pesar de su alevosía, dejadla pecar á rienda suelta. Para vos es el mal: si os dais por contento, ¿á los demas qué nos importa?
+P|Pedazos quiero hacerla. ¡Engañarme á mí!
+P|¡Oh, perversa mujer!
+P|¡Enamorarse de mi teniente!
+P|Eso es todavía peor.
+P|Búscame un veneno, Yago, para esta misma noche. No quiero hablarla, no quiero que se disculpe, porque me vencerán sus hechizos. Para esta misma noche, Yago.
+P|No estoy por el veneno. Mejor es que la ahogueis sobre el mismo lecho que ha profanado.
+P|¡Admirable justicia! Lo encuentro muy bien.
+P|De Casio yo me encargo. Allá á las doce de la noche sabreis lo demas.
+P|¡Admirable plan! ¿Pero qué trompeta es la que suena?
+P|Alguna embajada de Venecia, enviada por el Dux. Allí veo á Ludovico acompañado de vuestra mujer.
+S|(Salen Ludovico, Desdémona, etc.)
+P|General, os saludo respetuosamente.
+P|Bien venido seais.
+P|Os saludan el Dux y Senadores de Venecia.
+S|(Le da una carta.)
+P|Beso la letra, expresion de su voluntad. (Besa la carta.)
+P|¿Qué pasa por Venecia, primo mio Ludovico?
+P|Caballero, mucho me alegro de veros en Chipre.
+P|Gracias, hidalgo, ¿y dónde está el teniente Casio?
+P|Vivo y sano.
+P|Entre él y mi marido ha habido ciertas disensiones, pero vos los pondreis en paz, de seguro.
+P|¿Así lo crees?
+P|¿Qué dices, esposo mio?
+P|(Leyendo.) «Es preciso cumplirlo sin demora.»
+P|No os oye: está ocupado en la lectura: ¿Con que, han reñido él y Casio?
+P|Sí, y no sé cuánto hubiera yo dado por hacer las paces entre ellos, porque tengo buena voluntad á Casio.
+P|¡Rayos y centellas!
+P|¡Esposo mio!
+P|¿Piensas lo que estás diciendo?
+P|¿Cómo? ¿Está furioso?
+P|Puede ser que le haya hecho mal efecto la carta, porque (si no me equivoco) se le manda en ella volver á Venecia, dejando en el gobierno á Casio.
+P|Mucho me alegro.
+P|¿Te alegras?
+P|¡Esposo mio!
+P|Pláceme verte loca.
+P|¿Qué dices, esposo?
+P|¡Aparta, demonio!
+P|¿Tal he merecido?
+P|Ni con juramento lo creeria nadie en Venecia. ¡Qué ultraje tan brutal! ¿No veis cómo está llorando?
+P|¡Víbora! Si el llanto de las mujeres pudiera fecundar la tierra, de cada gota naceria un cocodrilo. ¡Lejos, lejos de aquí!
+P|Me iré por no verte enojado.
+P|¡Qué humildad y modestia! Compadeceos de ella, señor gobernador. Volvedla á llamar.
+P|Venid aquí, señora.
+P|¿Qué me quereis, esposo mio?
+P|¿Qué la quereis vos?
+P|Nada, señor.
+P|Sí. ¿Qué la quereis? ¿No me deciais que la llamase? Sí, sí, ella volverá y llorará, porque sabe llorar, caballero, sabe llorar, y es muy humilde, muy sumisa, como antes deciais. Llora, llora más.—Esta carta me manda volver... ¡Oh perfidia astuta!—Me mandan volver.—Retírate. Luego nos veremos.—Obedezco. Volveré á Venecia. ¡Lejos, lejos de aquí, Desdémona! (Se va Desdémona.)
+P|Casio me ha de suceder. Esta noche venid á cenar conmigo. Bien venido seais á Chipre. (Aparte.) ¡Monos lascivos, esposos sufridos!
+S|(Se va.)
+P|¿Y este es aquel moro, de quien tantas ponderaciones oí en el Senado? ¿Este el de alma severa, firme é imperturbable contra los golpes de la suerte ó los furores de la pasion?
+P|Parece otro.
+P|¿Estará sano? ¿Habrá perdido la cabeza?
+P|Es lo que es. No está bien que yo os diga más. ¡Ojalá que volviera á ser lo que ha sido!
+P|¿Cómo podrá haberse arrebatado hasta el extremo de golpear á su mujer?
+P|Mal ha hecho, pero ojalá sea el último ese golpe.
+P|¿Es costumbre suya, ó efecto de la lectura de la carta?
+P|¡Cuánto lo deploro! Pero estaria mal en mí el descubriros lo que sé. Vos mismo lo ireis viendo, y en sus actos lo descubrireis, de tal modo que nada os quede que saber ni que preguntarme.
+P|Yo le creia de muy diverso carácter. ¡Qué lástima!
+S|Escena II.
+S|Sala del castillo.
+S|Otelo y Emilia.
+P|¿Nada has visto?
+P|Ni oido ni sospechado.
+P|Pero á Casio y á ella los has visto juntos.
+P|Pero nada sospechoso he advertido entre ellos, y eso que ni una sola de sus palabras se me ha escapado.
+P|¿Nunca han hablado en secreto?
+P|Jamas, señor.
+P|¿Nunca te mandaron salir?
+P|Nunca.
+P|¿Nunca te han enviado á buscar los guantes ó el velo ó cualquier otra cosa?
+P|Jamas.
+P|Rara cosa.
+P|Me atreveria á jurar que es fiel y casta. Desterrad de vuestro ánimo toda sospecha contra ella. Maldito sea el infame que os la haya infundido. Caiga sobre él el anatema de la serpiente. Si ella no es mujer de bien, imposible es que haya mujer honrada ni esposo feliz.
+P|Llámala. Dile que venga pronto. (Vase Emilia.) Ella habla claro, pero si fuera confidente de sus amores, ¿no diria lo mismo? Es moza ladina y quizá oculta mil horribles secretos. Y sin embargo, yo la he visto arrodillada y rezando. (Salen Desdémona y Emilia.)
+P|¿Qué mandais, señor?
+P|Ven, amada mia.
+P|¿Qué me quieres?
+P|Verte los ojos. Mírame á la cara.
+P|¿Qué horrible sospecha?...
+S|(A Emilia.) Aléjate, déjanos solos, y cierra la puerta. Si álguien se acerca, haznos señal tosiendo. Mucha cautela. Véte. (Se va Emilia.)
+P|Te lo suplico de rodillas. ¿Qué pensamientos son los tuyos? No te entiendo, pero pareces loco furioso.
+P|¿Y tú qué eres?
+P|Tu fiel esposa.
+P|Si lo juras, te condenas eternamente, aunque puede que el demonio, al ver tu rostro de ángel, dude en apoderarse de tí. Vuelve, vuelve á condenarte: júrame que eres mujer de bien.
+P|Dios lo sabe.
+P|Dios sabe que eres tan falsa como el infierno.
+P|¿Falsa yo? ¿con quién? ¿Por qué, esposo mio? ¿Yo falsa?
+P|¡Lejos, lejos de aquí, Desdémona!
+P|¡Dia infausto! ¿Por qué lloras, amado mio? ¿Soy yo la causa de tus lágrimas? No me eches la culpa de haber perdido tu empleo, quizá por odio de mi padre. Lo que tú pierdes, lo pierdo yo tambien.
+P|¡Ojalá que el cielo agotara sobre mi fortaleza todas las calamidades! ¡Ojalá que vertiese sobre mi frente dolores y vergüenzas sin número, y me sepultara en el abismo de toda miseria, ó me encerrara en cautiverio fierísimo y sin esperanza! Todavía encontraria yo en algun rincon de mi alma una gota de paciencia. ¡Pero convertirme en espantajo vil, para que el vulgo se mofe de mí y me señale con el dedo! ¡Y aún esto podria yo sufrirlo! Pero encontrar cegada y seca para siempre la que juzgué fuente inagotable de vida y de afectos, ó verla convertida en sucio pantano, morada de viles renacuajos, en nido de infectos amores, ¿quién lo resistirá? ¡Angel de labios rojos! ¿por qué me muestras ceñudo como el infierno tu rostro?
+P|Creo que me tiene por fiel y honrada mi esposo.
+P|Fiel como las moscas que en verano revolotean por una carnicería. ¡Ojalá nunca hubieras brotado, planta hermosísima, y envenenadora del sentido!
+P|¿Pero qué delito es el mio?
+P|¿Por qué en tan bello libro, en tan blancas hojas, sólo se puede leer esta palabra: «ramera»? ¿Qué delito es el tuyo, me preguntas? Infame cortesana, si yo me atreviera á contar tus lascivas hazañas, el rubor subiria á mis mejillas, y volaria en cenizas mi modestia. ¿Qué delito es el tuyo? El mismo sol, la misma luna se escandalizan de él, y hasta el viento que besa cuanto toca, se esconde en los más profundos senos de la tierra, por no oirlo. ¿Cuál es tu delito? ¡Infame meretriz!
+P|¿Por qué me ofende así?
+P|Pues qué, ¿no eres mujer ramera?
+P|No: te lo juro como soy cristiana. Yo me he conservado tan pura é intacta como el vaso que sólo tocan los labios del dueño.
+P|¿No eres infiel?
+P|No: así Dios me salve.
+P|¿De veras lo dices?
+P|¡Piedad, Dios mio!
+P|Perdonadme, señora: os confundí con aquella astuta veneciana que fué esposa de Otelo. (Levantando la voz.) Tú que enfrente de san Pedro guardas la puerta del infierno... (Sale Emilia.) Contigo hablaba. Ya está arreglado todo. Recoge tu dinero: cierra la puerta, y nada digas. (Se va Otelo.)
+P|¿Qué sospecha atormenta á vuestro marido? ¿Qué os sucede, señora?
+P|Me parece que estoy soñando.
+P|Señora, ¿qué le sucede á mi señor? decídmelo.
+P|¿Y quién es tu señor?
+P|El vuestro, el moro.
+P|Ya no lo es, Emilia, no hablemos más. No puedo llo rar, ni hablar sin llorar. Esta noche ataviarás mi lecho con las galas nupciales. Dí á Yago que venga.
+P|¡Qué alteracion es esta! (Se va.)
+P|¿Será justo lo que hace conmigo? ¿Habré andado alguna vez poco recatada, dando ocasion á sus sospechas? (Salen Emilia y Yago.)
+P|¿Me llamabais? ¿Estais sola, señora?
+P|No lo sé. El que reprende á un niño debe hacerlo con halago y apacible manera, y yo soy como un niño.
+P|¿Pues qué ha sido, señora mia?
+P|¡Ay, Yago! El moro la ha insultado, llamándola ramera y otros vocablos groseros y viles, intolerables para todo pecho bien nacido.
+P|¿Y yo merecia eso?
+P|¿Qué, señora mia?
+P|Lo que él me ha dicho.
+P|¡Llamarla ramera! No dijera tal un pícaro en la taberna, hablando de su querida.
+P|¿Y todo por qué?
+P|Lo ignoro. Pero yo no soy lo que él ha dicho.
+P|Serenaos, por Dios. No lloreis. ¡Dia infeliz!
+P|¡Para eso ha dejado su patria y á su padre y á tantos ventajosos casamientos! ¡Para que la llamen «ramera»! Ira me da el pensarlo.
+P|Esa es mi desdicha.
+P|¡Ira de Dios caiga sobre él! ¿Quién le habrá infundido tan necios recelos?
+P|Dios lo sabe, Yago.
+P|Maldita sea yo, si no es algun malsin calumniador, algun vil lisonjero quien ha tramado esta maraña, para conseguir de él algun empleo. Ahorcada me vea yo, si no acierto.
+P|No hay hombre tan malvado. Dices un absurdo. Cállate.
+P|Y si le hay, Dios le perdone.
+P|¡Perdónele la cuchilla del verdugo! ¡Roa Satanas sus huesos! ¡Llamarla ramera! ¿Con qué gentes ha tratado? ¿Qué sospecha, áun la más leve, ha dado? ¿Quién será el traidor bellaco que ha engañado al moro? ¡Dios mio! ¿por qué no arrancas la máscara á tanto infame? ¿Por qué no pones un látigo en la mano de cada hombre honrado, para que á pencazos batanee las desnudas espaldas de esa gavilla sin ley, y los persiga hasta los confines del orbe?
+P|No grites tanto.
+P|¡Infames! De esa laya seria el que una vez te dió celos, fingiendo que yo tenia amores con el moro.
+P|¿Estás en tu juicio? Cállate.
+P|Yago, amigo Yago, ¿qué haré para templar la indignacion de Otelo? Dímelo tú. Te juro por el sol que nos alumbra que nunca ofendí á mi marido, ni áun de pensamiento. De rodillas te lo digo: huya de mi todo consuelo y alegría, si alguna vez le he faltado en idea, palabra ú obra; si mis sentidos han encontrado placer en algo que no fuera Otelo: si no le he querido siempre como ahora le quiero, como le seguiré queriendo, aunque con ingratitud me arroje lejos de sí. Ni la pérdida de su amor aunque baste á quitarme la vida, bastará á despojarme del afecto que le tengo. Hasta la palabra «adúltera» me causa horror, y ni por todos los tesoros y grandezas del mundo cometeria yo tal pecado.
+P|Calma, señora; el moro es de carácter violento, y ademas está agriado por los negocios políticos, y descarga en vos el peso de sus iras.
+P|¡Ojalá que así fuera! Pero mi temor es...
+P|Pues la causa no es otra que la que os he dicho. Podeis creerlo. (Tocan las trompetas.) ¿Ois? Ha llegado la hora del festin. Ya estarán aguardando los enviados de Venecia. No os presenteis llorando, que todo se remediará. (Vanse Emilia y Desdémona.) (Sale Rodrigo.) ¿Qué pasa, Rodrigo?
+P|Pienso que no procedes de buena fe conmigo.
+P|¿Y por qué?
+P|No hay dia que no me engañes, y más parece que dificultas el éxito de mis planes, que no que le allanas; y á fe mia, que ya no tengo paciencia ni sufriré más, porque fuera ser necio.
+P|¿Me oyes, Rodrigo?
+P|Demasiado te he oido, porque tienes tan buenas palabras como malas obras.
+P|Ese cargo es muy injusto.
+P|Razon me sobra. He gastado cuanto tenia. Con las joyas que he regalado á Desdémona, bastaba para haber conquistado á una sacerdotisa de Vesta. Tú me has dicho que las ha recibido de buen talante: tú me has dado todo género de esperanzas, prometiéndome su amor muy en breve. Todo inútil.
+P|Bien está, muy bien; prosigue.
+P|¡Qué está muy bien, dices! Pues no quiero proseguir. Nada está bien, sino todo malditamente, y empiezo á conocer que he sido un insensato y un majadero.
+P|Está bien.
+P|Repito que está muy mal. Voy á ver por mí mismo á Desdémona, y con tal que me vuelva mis joyas, renunciaré á todo amor y á toda loca esperanza. Y si no me las vuelve, me vengaré en tí.
+P|¿Y eso es todo lo que se te ocurre?
+P|Sí, y todas mis palabras las haré buenas con mis obras.
+P|Veo que eres valiente, y desde ahora te estimo más que antes. Dame la mano, Rodrigo. Aunque no me agradan tus sospechas, algun fundamento tienen, pero yo soy inocente del todo.
+P|Pues no lo pareces.
+P|Así es en efecto, y lo que has pensado no deja de tener agudeza y discrecion. Pero si tienes, como has dicho ahora, y ya lo voy creyendo, corazon y brios y mano fuerte, esta noche puedes probarlo, y si mañana no logras la posesion de Desdémona, consentiré que me mates, aunque sea á traicion.
+P|¿Lo que me propones es fácil, ó á lo menos posible?
+P|Esta noche se han recibido órdenes del Senado, para que Otelo deje el gobierno, sustituyéndole Casio.
+P|Entonces Otelo y Desdémona se irán juntos á Venecia.
+P|No: él se irá á Levante, llevando consigo á su mujer, si algun acontecimiento imprevisto no lo impide, es decir si Casio no desaparece de la escena.
+P|¿Qué quieres decir con eso?
+P|Que convendria quitarle de en medio.
+P|¿Y he de ser yo quien le mate?
+P|Tú debes de ser, si quieres conseguir tu objeto, y satisfacer tu venganza. Casio cena esta noche con su querida y conmigo. Todavía no sabe nada de su nom bramiento. Espérale á la puerta: yo haré que salga á eso de las doce de la noche, y te ayudaré á matarle. Sígueme: no te quedes embobado. Yo te probaré clarísimamente la necesidad de matarle. Ya es hora de cenar. No te descuides.
+P|Dame alguna razon más que me convenza.
+P|Ya te la daré. (Vanse.)
+S|Escena III.
+S|Sala del castillo.
+P|Señor: no os molesteis en acompañarme.
+P|No: me place andar en vuestra compañía.
+P|Adios, señora. Os doy muy cumplidas gracias.
+P|Y yo me felicito de vuestra venida.
+P|¿Vamos, caballero? ¡Oh! aquí está Desdémona.
+P|¡Esposo mio!
+P|Retírate pronto á acostar. No tardaré en volver. Despide á la criada, y obedéceme.
+P|Así lo haré, esposo mio.
+S|(Vanse todos menos Emilia y Desdémona.)
+P|¿Qué tal? ¿Se ha amansado en algo el mal humor de tu marido?
+P|Me prometió volver pronto, y me mandó que me acostase, despidiéndose en seguida.
+P|¿Y por qué dejarte sola?
+P|Él lo mandó y sólo me toca obedecer, y no resistirme en nada. Dame la ropa de noche, y aléjate.
+P|¡Ojalá no le hubieras conocido nunca!
+P|Nunca diré yo eso. Le amo con tal extremo que hasta sus celos y sus furores me encantan. Desátame las cintas.
+P|Ya está; ¿adorno vuestro lecho con las ropas nupciales como me dijisteis?
+P|Lo mismo da. ¡Qué fáciles somos en cambiar de pensamientos! Si muero antes que tú, amortájame con esas ropas.
+P|¡Pensar ahora en morirte! ¡Qué absurdo!
+P|Bárbara se llamaba una doncella de mi madre. Su amante la abandonó, y ella solia entonar una vieja cancion del sauce, que expresaba muy bien su desconsuelo. Todavía la cantaba al tiempo de morir. Esta noche me persigue tenazmente el recuerdo de aquella cancion, y al repetirla siento la misma tristeza que Bárbara sentia. No te detengas... ¡Es agradable Ludovico!
+P|Mozo gallardo.
+P|Y muy discreto en sus palabras.
+P|Dama veneciana hay, que iria de buen grado en romería á Tierra Santa sólo por conquistar un beso de Ludovico.
+S|Desdémona (canta) .
+P|«Llora la niña al pié del sicomoro. Cantad el sauce: cantad su verdor. Con la cabeza en la rodilla y la mano en el pecho, llora la infeliz. Cantad el fúnebre y lloroso sauce. La fuente corria repitiendo sus quejas. Cantad el sauce y su verdor. Hasta las piedras se movian á compasion de oirla.»
+P|Recoge esto.
+P|«Cantad el sauce, cantad su verdor.»
+P|Véte, que él volverá muy pronto. (Canta.) «Tejed una guirnalda de verde sauce. No os quejeis de él, pues su desden fué justo.»
+P|No, no es así el cantar. Alguien llama.
+P|Es el viento.
+P|(Canta.) «Yo me quejé de su inconstancia, y él ¿qué me respondió? Cantad el sauce, cantad su verdor. Si yo me miro en la luz de otros ojos, busca tú otro amante.»
+P|Buenas noches. Los ojos me pican. ¿Será anuncio de lágrimas?
+P|No es anuncio de nada.
+P|Siempre lo he oido decir. ¡Qué hombres! ¿Crees, Emilia, que existen mujeres que engañen á sus maridos de tan ruin manera?
+P|Ya lo creo que existen.
+P|¿Lo harias tú, Emilia, aunque te diesen todos los tesoros del mundo?
+P|¿Y tú qué harias?
+P|Nunca lo haria, te lo juro por esa luz.
+P|Yo no lo haria por esa luz, pero quizá lo haria á oscuras.
+P|¿Lo harias, si te dieran el mundo entero?
+P|Grande es el mundo, y comparado con él, parece pequeño ese delito.
+P|Yo creo que no lo harias.
+P|Sí que lo haria, para deshacerlo despues. No lo haria por un collar ni por una sortija ni por un manto, pero si me daban el mundo, y podia yo hacer rey á mi marido, ¿cómo habia de dudar?
+P|Pues yo, ni por todo el mundo haria tal ofensa á mi marido.
+P|Es que el mundo no la juzgaria ofensa, y si os daban el mundo, como la ofensa era en vuestro mundo, fácil era convertirla en bien.
+P|Pues yo no creo que haya tales mujeres.
+P|Más de una y más de veinte: tantas que bastarian para llenar un mundo. Pero la culpa es de los maridos. Si ellos van á prodigar con otras el amor que es nuestro, ó nos encierran en casa por ridículos celos, ó nos golpean, ó gastan malamente nuestra hacienda, ¿no hemos de enfurecernos tambien? Cierto que somos benignas de condicion, pero capaces de ira. Y sepan los maridos que las mujeres tienen sentidos lo mismo que ellos, y ven y tocan y saborean, y saben distinguir lo dulce de lo amargo. Cuando ellos abandonan á su mujer por otra, ¿qué es lo que buscan sino el placer a que les donnina sino la pasion? ¿qué les vence sino la flaqueza? ¿nosotras no tenemos tambien apetitos, pasiones y flaquezas? Conforme nos traten, así seremos.
+P|Adios. El Señor me ampare, y haga que el meltrato de mi marido produzca en mi virtudes, y no vicios.
+H|Acto V
+S|Escena primera.
+S|Calle.
+S|Yago y Rodrigo.
+P|Escóndete, que ahora viene; en cuanto aparezca, desenvaina la espada, y ¡á él sin miedo! Yo te guardaré las espaldas. Es cuestion de vida ó muerte. Decídete, pues, y ten resolucion.
+P|No te alejes, por si me sale mal mi intento.
+P|Estaré detras de tí. En guardia. (Se va.)
+P|Del resultado no tengo confianza, y sin embargo, las razones que me da me convencen. Que muera uno ¿qué importa? (Se retira.)
+P|Tanto me he burlado de este necio que ya empieza á conocerlo. Mate él á Casio, mátele Casio á él ó mueran los dos, siempre saldré ganando. Si Rodrigo escapa, comenzará á pedirme el dinero y las joyas que le he sacado, so pretexto de seducir á Desdémona. Y si se salva Casio, su presencia será un perpétuo acusador contra mí, y ademas el moro podrá referir á Casio lo que ha pasado entre nosotros, y ponerme en grave peligro. Muera, pues. Le siento llegar. (Sale Casio.)
+P|Él es. Le conozco. ¡Muere, traidor!
+S|(Le da una estocada.)
+P|La vida me hubiera costado esta estocada, á no traer el jubon tan bien aforrado. Veamos cómo está el tuyo.
+S|(Hiere á Rodrigo.)
+P|¡Confesion! ¡Muerto soy! (Yago hiere en las piernas á Casio y huye luego.)
+P|¡Me han dejado cojo para siempre! ¡Asesino! ¡Favor!
+S|(Sale Otelo.)
+P|Voz es de Casio. Yago ha cumplido bien su palabra.
+P|¡Qué infame he sido!
+P|Sí, él es: no hay duda.
+P|¡Favor! ¡Luces! ¡Un cirujano!
+P|Es Casio, es Casio. ¡Oh valeroso Yago, que has sentido como propia la afrenta de un amigo, tú me muestras el camino de la venganza! ¡Adúltera mujer! Ya ha sucumbido tu amante, y se acerca tu última hora. Voy á buscarte, borrando de mi corazon hasta el último recuerdo de tus hechizos y de la luz de tus ojos. Sangre de tu torpe corazon ha de purificar nuestro lecho mancillado por tí. (Se va.) (Salen Ludovico y Graciano.)
+P|¿Dónde está la ronda? ¿Nadie acude? ¡Favor! ¿Por qué no prendeis al asesino?
+P|¡Oh qué desgracia! ¡Qué espanto causan en mí esas voces!
+P|¡Ayuda!
+P|¡Silencio!
+P|¡Infame!
+P|Oigo los gemidos de dos ó tres personas. ¡Infausta noche! ¿Será alguna zalagarda? Procedamos con cautela. ¿Quién se arroja á darles auxilio sin la ronda?
+P|Socorredme, que me desangro.
+P|¿No lo oyes? (Sale Yago en cuerpo y con una luz.)
+P|Ahí viene un hombre medio desnudo, con armas y luz.
+P|¿Quién es? ¿Quién grita «asesino»?
+P|No lo sabemos.
+P|¿No habeis oido voces?
+P|¡Favor de Dios! ¡Por aquí, por aquí!
+P|¿Qué sucede?
+P|Si no me equivoco, es la voz del alférez de Otelo.
+P|No tiene duda. Y es Valentin tu mancebo.
+P|¿Quién eres tú que tan amargamente te quejas?
+P|Yago, me han acometido unos asesinos, dame favor.
+P|¡Dios mio! ¡Mi teniente! ¿Quién os ha puesto de esa manera?
+P|Uno de ellos está herido cerca de mí, y no puede huir.
+P|¡Villanos, alevosos! ¿Quién sois? ¡Favor, ayuda!
+P|¡Favor, Dios mio!
+P|Uno de ellos es aquel.
+P|¡Traidor, asesino! (Saca el puñal y hiere á Rodrigo.)
+P|¡Maldito Yago! ¡Perro infernal!
+P|¡Asaltarle de noche y á traicion! ¡Bandidos! ¡Qué silencio, qué soledad! ¡Muerte! ¡Socorro! ¿Y vosotros veniais de paz ó en son de combate?
+P|Por nuestros hechos podeis conocerlo.
+P|¡Ilustre Ludovico!
+P|El mismo soy.
+P|Perdon os pido. Ahí yace Casio á manos de traidores.
+P|¡Casio!
+P|¿Qué tal, hermano?
+P|Tengo herida la pierna.
+P|¡No lo quiera Dios! ¡Luz, luz! Yo vendaré las heridas con mi ropa. (Sale Blanca.)
+P|¿Qué pasa? ¿Qué voces son esas?
+P|¿De quién son las voces?
+P|¡Casio, mi amado Casio, mi dulce Casio!
+P|¡Ramera vil! Amigo Casio, ¿y ni áun sospechais quién pudo ser el agresor?
+P|Lo ignoro.
+P|¡Cuánto me duele veros así! Venia á buscaros.
+P|¡Dadme una venda! Gracias. ¡Oh si yo tuviera una silla de manos, para llevarle á casa!
+P|¡Ay que pierde el sentido! ¡Casio, mi dulce Casio!
+P|Amigos mios, yo tengo mis recelos de que esta jóven tiene parte no escasa en el delito. Esperad un momento. Que traigan luces, á ver si podremos conocer al muerto. ¡Amigo y paisano mio, Rodrigo! ¡No, no es! Sí, sí, ¡Rodrigo! ¡Qué suceso más extraño!
+P|¿Rodrigo el de Venecia?
+P|El mismo, caballero. ¿Le conociais vos?
+P|Ya lo creo que le conocia.
+P|¡Amigo Graciano! perdonadme. Con este lance estoy tan turbado que no sé lo que me sucede.
+P|Mucho me place el veros.
+P|¿Cómo os sentís, Casio? ¡Que traigan una silla de manos!
+P|¡Rodrigo!
+P|No cabe duda que es él. Lo deploro. Venga la litera. Llevadle despacio á casa de alguna persona caritativa. Me iré á llamar al médico de Otelo. No tengais cuidado, señora. El desdichado que ahí yace muerto, fué muy amigo mio. ¿Cuál seria la causa de la pendencia?
+P|Ciertamente que no lo sé. Ni siquiera le conozco.
+S|(A Blanca.) ¿Perdeis el color? Retirad el cadáver. No me abandoneis, caballeros. Mucho palideceis, señora mia. ¿No veis qué asustada y sin sosiego está? Creo que ella podria decirnos algo. Miradla, miradla de espacio. ¿No lo advertis, caballeros? La lengua calla, pero la conciencia habla á gritos. (Sale Emilia.)
+P|¿Qué pasa? ¡Ay, esposo mio!
+P|A traicion han acometido á Rodrigo. Algunos se han escapado. Él queda muerto y Casio herido.
+P|¡Infeliz Casio! ¡Pobre caballero!
+P|¡Fruto natural de la vida que él traia! Véte, Emilia, y pregunta á Casio dónde cenó esta noche. (A Blanca.) ¿Por qué temblais, señora?
+P|En mi casa cenó, pero no tiemblo por eso.
+P|¿Con que en tu casa? Pues ven conmigo.
+P|¡Mala mujer, ramera!
+P|Soy tan honrada como vos. No me insulteis.
+P|¡Tan honrada como yo! ¡Perdida!
+P|Vamos á cuidar de Casio, amigos mios. Señora, venid, que pronto hablareis de otra manera. Emilia, véte á toda prisa al castillo, refiéreselo todo al moro y á Desdémona. Venid conmigo. (Aparte.) Esta noche será la de mi felicidad ó la de mi ruina. (Se van.)
+S|Escena II.
+S|Alcoba en el castillo.
+S|Desdémona dormida. Á su lado una luz.
+S|(Sale Otelo.)
+P|Con razon lo hago, con razon ¡alma mia! No os lo quiero contar, castas estrellas. Tampoco quiero derramar la sangre de ella, ni ajar su cútis más blanco que la nieve, y más tierno que mármol sepulcral. Y con todo eso, tengo que matarla, para que no engañe á otros hombres. Apagaré esta luz... y luego aquella. Si apago esta luz y luego me arrepiento, puedo volver á encenderla, pero si te apago á tí, luz clarísima, primor y ejemplar de la naturaleza, ¿dónde hallaré el fuego de Prometeo, para volverte á dar la vida? Si arranco la flor de su tallo, ¿cómo he de restituirla su frescura y lozanía? Necesario es que se marchite. Quiero respirar por la última vez su deleitoso aroma. (La besa.) ¡Oh regalado aliento de su boca, casi bastas para arrancar el hierro de la mano de la justicia! Otro beso y nada más. ¡Quédate así, cuando yo te mate: que muerta y todo te he de amar! Otro beso, el último. Nunca le hubo más delicioso ni más fatal: lloremos. Mi llanto es feroz, y mi ira es como la de Dios, que hiere donde más ama. Ahora se despierta.
+S|Muerte de Desdémona.
+P|(Despertándose.) ¿Eres tú, Otelo?
+P|Yo soy, Desdémona.
+P|Esposo mio, ¿quieres descansar?
+P|¿Has rezado esta noche, Desdémona?
+P|Sí.
+P|Pues pide á Dios perdon, si te acuerdas de algun crímen, que Dios no te haya perdonado todavía.
+P|¡Dios mio! ¿Qué me quieres decir, esposo?
+P|Hazlo, y pronto. Yo me alejaré entre tanto. No quiero que mueras sin confesion. No quiero condenar tu alma.
+P|¿Qué? ¿Quieres matarme?
+P|Sí, por cierto.
+P|¡Perdon, Dios mio!
+P|¡Así sea! Dilo con todas las fuerzas de tu alma.
+P|Tú que así hablas no puedes matarme.
+P|¿Qué?
+P|Con todo eso, te tiemblo. Tu mirada me aterra. Y no sé por qué es mi temor, pues de ningun crímen me reconozco culpable. Y sin embargo, tiemblo.
+P|Acuérdate de tus pecados.
+P|Será el amor que te profeso.
+P|Por ese amor te mato.
+P|¿Matarme porque te amo? ¡Oh indigna muerte! ¿Por qué te muerdes los labios? ¡Ciega pasion te descamina! Agüeros son de mal suceso; pero yo espero que no me amenazan á mí.
+P|¡Calla, calla!
+P|Sí callaré, ¿pero qué pasa?
+P|¿Tú diste á Casio aquel pañuelo, regalo mio y que yo tanto apreciaba?
+P|¡No, te lo juro por mi vida! Pregúntaselo á él.
+P|No jures en falso, amada mia, que ya estás en el tálamo de la muerte.
+P|¿Tan pronto?
+P|En seguida. Confiesa, pues, tus culpas, una por una, que aunque las niegues con los más firmes juramentos, no has de disminuir en un ápice mi firme conviccion. De todas maneras, morirás.
+P|Entonces, Dios tenga compasion de mí.
+P|Así sea.
+P|Y tenla tú tambien. Jamas te falté, ni áun de pensamiento. Nunca puse mi corazon en Casio ni le dí prenda alguna de amor. Quísele sólo con la amistad que Dios aprueba.
+P|¡Dios mio! ¡Y yo que he visto el pañuelo en sus manos! ¡Tú quieres volverme loco, y hacer que trueque en asesinato lo que quiero que sea sacrificio! Yo he visto el pañuelo.
+P|Él lo encontró en el suelo. Yo no se le dí. Que él venga y nos declare la verdad.
+P|Ya la ha confesado.
+P|¿Y qué confesó?
+P|Que alcanzó favores tuyos.
+P|¿Ilícitos?
+P|Sí.
+P|Falso. No lo repetirá delante de mí.
+P|No, porque Yago le ha cerrado la boca.
+P|¡Ah! Tiemblo. ¿Casio ha muerto?
+P|¡Ojalá hubiera tenido tantas vidas como cabellos, para que mi venganza las hubiera devorado una por una!
+P|¡Calumnia, calumnia atroz, que nos ha perdido!
+P|¡Infame! ¿Y te atreves á llorarle delante de mí?
+P|¡Esposo mio, destiérrame de tu presencia, pero no me mates!
+P|Apártate, vil adúltera.
+P|Déjame vivir siquiera esta noche. Mátame mañana.
+P|¿Aún te defiendes?
+P|Siquiera una hora de vida.
+P|La hora inevitable ha llegado.
+P|Dejadme rezar una oracion.
+P|Ya es tarde.
+S|(La estrangula.)
+P|(Dentro.) ¡Abrid, señor, abrid!
+P|¿Quién llama? ¿Estará muerta del todo? En medio de todo, la tengo lástima, y no quiero alargar su agonía.
+P|(Dentro.) ¡Abrid, señor!
+P|¿Quién es?
+P|(Dentro.) Señor, dejadme deciros dos palabras.
+P|Es Emilia.—Voy á abrirla.—Ya ha muerto Desdémona.—¿Vendrá Emilia á contarme la muerte de Casio?—Aquí era el ruido.—Está inmóvil, yerta como la losa de un sepulcro.—¿Abriré? ¿Será una imprudencia?—¡Me parece que se mueve!—No es nada.—¿Qué haré? Si entra, preguntará por mi mujer. ¡Mi mujer, mi mujer!—¿Y quién es mi mujer? Yo no la tengo. ¡Hora tristísima! ¡Ojalá hubiese ahora un eclipse de sol y de luna, y se abriera el centro de la tierra!
+P|¡Abrid, señor! Que es muy importante lo que tengo que deciros.
+P|Ya no me acordaba de tí, Emilia. Entra, pero despacio. Voy á cerrar las cortinas del lecho.
+S|(Abre la puerta.) (A Emilia.)
+P|¿Qué nuevas traes? Dímelas.
+P|Señor, cerca de aquí acaban de matar á uno.
+P|En este instante.
+P|Ahora mismo.
+P|Influjos son de la luna, que anda ahora muy cerca de la tierra, y hace sentir aquí sus efectos.
+P|Casio ha dado muerte á un mancebo veneciano llamado Rodrigo.
+P|¿Muerto Rodrigo? Y Casio muerto tambien.
+P|No. Casio no ha muerto.
+P|¡Casio no ha muerto! Entonces ese homicidio, lejos de serme grato, me es aborrecible.
+P|¡Oh muerte cruel!
+P|¿Qué grito ha sonado?
+P|¿Grito? ¿Dónde?
+P|Grito de mi señora. Amparadme, por Dios. Decidme algo, señora, amada Desdémona.
+P|Muere sin culpa.
+P|¿Y quién la mató?
+P|Nadie. Yo me maté. Que Otelo me conserve en su recuerdo. Adios, esposo mio.
+P|¿Pues cómo ha muerto?
+P|¿Quién lo sabe?
+P|Ya has oido que ella misma dice que yo no fuí.
+P|Vos fuisteis. Y es preciso que digais la verdad.
+P|Por la mentira se ha condenado y baja al infierno. Yo la maté.
+P|¡Ella era un ángel, vos sois un demonio!
+P|Ella fué pecadora y adúltera.
+P|La estais calumniando infame y diabólicamente.
+P|Fué falsa y mudable como el agua que corre.
+P|Y tú violento y rápido como el fuego. Siempre te guardó fidelidad, y fué tan casta como los ángeles del cielo.
+P|Casio gozó de su amor. Que te lo cuente tu marido. ¡Oh, mereceria yo pagar mi necio crímen en lo más hondo del infierno, si antes de arrojarme á la venganza, no hubiera examinado bien la justicia de los motivos! Yago lo averiguó.
+P|¿Mi marido?
+P|Tu marido.
+P|¿Él averiguó que Desdémona te habia sido infiel?
+P|Sí, con Casio. Y si no me hubiera sido traidora, te juro que no la hubiera trocado ni por un mundo que el cielo hubiese fabricado para mí de un crisólito íntegro y sin mancha.
+P|¡Mi marido!
+P|Él me lo descubrió todo. Es hombre de bien, y aborrece toda infamia y torpeza.
+P|¡Mi marido!
+P|¿Por qué repites tanto: «mi marido»?
+P|¡Ay pobre señora mia, cómo la maldad se burla del amor! ¡Qué negra iniquidad! ¿Y mi marido te dijo que ella habia sido infiel?
+P|Sí, tu marido. ¿Lo entiendes bien ahora? Yago, mi fiel amigo Yago.
+P|Pues si tales cosas te ha dicho, consúmase su alma, un átomo cada dia. ¡Ha mentido como un infame! Bien deseaba el puesto que tan caro ha comprado.
+P|¡Por Dios vivo!...
+P|Puedes matarme: será un hecho tan indigno de memoria como lo eres tú.
+P|Debias callar.
+P|Áun mayor que tu poder es mi valor. ¡Necio, más estúpido que el polvo de la tierra! ¡Vaya una bravata! Me rio de tu acero. Voy á contar á gritos quién eres, aunque me cueste la vida y cien vidas. ¡Socorro, que el moro ha asesinado á mi señora! ¡Socorro!
+P|¿Qué pasa, general?
+P|¿Ahí estás, Yago? ¡Qué habilidad tienes! ¡Dejar que un infame te acuse para disculpar sus crímenes!
+P|¿Pero qué ha pasado?
+P|Si eres hombre, desmiéntele. Él cuenta que tú le dijiste que su mujer le era infiel. Yo sé bien que no lo has dicho, porque no eres tan malvado. Habla, respóndele, que el corazon quiere saltárseme.
+P|Le dije lo que yo tenia por cierto, y lo que luego él ha averiguado.
+P|¿Y tú le dijiste que mi señora no era honrada?
+P|Sí que se lo dije.
+P|Pues dijiste una mentira odiosa, infernal y diabólica. ¡Poder de Dios! ¿Y le dijiste que era infiel con Casio, con Casio?
+P|Sí, con Casio. Cállate, mujer.
+P|No he de callar. Es necesario que yo hable. Mi pobre señora yace muerta en su lecho.
+P|¡No lo consienta Dios!
+P|Y tus delaciones son causa de su muerte.
+P|No os asombreis, señores. Así ha sucedido.
+P|¡Horrenda verdad!
+P|¡Espantoso crímen!
+P|Aquí se esconde alguna infernal añagaza... Y empiezo á sospechar... ¡Ah, sí: ya caigo!... Lo que siempre recelé... ¡Infame! ¡Me ahoga la ira! ¡Oh trama inicua!
+P|¿Estás loca? Véte á casa. Te lo mando.
+P|Caballeros, dejadme hablar. Otra vez le obedeceré, no ahora. Y quizá nunca volveré á tu casa, Yago.
+P|¡Ay! ¡Ay!
+P|¿Al fin lo sientes? Ruge, ruge. Has asesinado á la más santa y hermosa criatura que ha visto nunca la luz del sol.
+P|(Levantándose.) ¡Fué adúltera! No os habia conocido, tio. (A Graciano.) Ahí teneis muerta á vuestra sobrina, y muerta á mis manos. Sé que esto os parecerá horrible...
+P|¡Pobre Desdémona! Cuán feliz es tu padre en haber pasado ya de esta vida. Tu boda le mató: el pesar de ella bastó á cortar el hilo de sus dias. Pero si hoy viviera, y la viese muerta, pienso que habia de maldecir hasta de su ángel de guarda, provocando la indignacion del cielo.
+P|¡Qué dolor! Pero Yago sabe que ella mil veces se entregó á Casio. El mismo Casio lo confesaba, y ademas recibió de ella, en pago de su amor, el pañuelo, el regalo nupcial que yo le hice, un pañuelo que mi padre habia dado á mi madre. Yo mismo le he visto en manos de Casio.
+P|¡Dios poderoso! ¡Dios de bondad!
+P|¡Calla, te digo!
+P|No: no puedo callar, no quiero. Hablaré libre como el viento, aunque me condenen Dios y los hombres y el infierno. No callaré: debo hablar.
+P|No digas locuras. A casa, á casa.
+P|Jamas iré. (Yago la amenaza.)
+P|¿Qué? ¿La espada sacais contra una débil mujer?
+P|¡Perverso Otelo! Yo encontré aquel pañuelo: yo misma se le dí á mi marido, porque con muchas instancias me habia pedido que lo robara.
+P|¡Infame prostituta!
+P|¿Que ella se lo dió á Casio? No: ¡si le encontré yo, y se le dí á mi marido!
+P|Mientes, malvada.
+P|No miento, no. Caballeros, no miento. ¡Bestia cruel! ¡Estúpido! ¿Cómo habias tú de poder contra esa santa?
+P|¡Monstruo! ¿No hay rayos en el cielo, ó es que el trueno se los apropió todos?
+S|(Se arroja sobre Yago, pero este hiere á Emilia y huye.)
+P|Sin duda ha muerto á su mujer.
+P|Sí: muerta soy: colocadme al lado de mi ama.
+P|Él ha huido dejándola muerta.
+P|¡Infame asesino! Toma tú esta espada que he quitado de manos del moro. Guardad la puerta: no le dejeis salir, aunque sea preciso matarle. Yo iré detras de ese malvado, el más abominable de cuantos existen en el mundo. (Vanse Montano y Graciano.)
+P|Hasta el valor he perdido: un niño podria desarmarme. Pero ¿qué importa? ¡Vaya con la virtud la honra! ¡Húndase todo!
+P|Quiero acordarme de las palabras de tu canto, señora mia, óyeme, si es que aún tienes oidos. Moriré cantando como el cisne:
+P|Cantad el sauce, y su verdor cantad.
+P|Moro: ella fué honesta.
+P|Moro: ella te amaba.
+P|Verdad es: así yo me salve. Muero diciendo la verdad. Muero. (Cae.)
+P|Otra arma tengo aquí: una hoja española, reciamente templada en las aguas del Tajo. Ahora es cuando debo desnudarla, amado tio.
+P|(Dentro.) Vana empresa será el defenderte: no tienes armas, has de ceder.
+P|Entra, y óyeme, ó embestiré desnudo como estoy.
+S|(Sale Graciano.)
+P|¿Qué sucede?
+P|Espada tengo, la mejor que ciñó ningun guerrero: esta hoja y este brazo han allanado obstáculos veinte veces mayores que tu resistencia. Pero ¡qué insensato alarde! ¿Quién lidia contra la fortuna? Todo ha cambiado: no me temes aunque me ves con armas. Este es el término de mi viaje, la bahía y el puerto. ¿Te retiras tembloroso? ¿A qué ese miedo? Aunque ataques á Otelo con una débil caña, Otelo cederá. ¿Y á dónde ha de ir Otelo? Déjame ver tu rostro por última vez, infeliz esposa mia. Tan pálido está como tu vestidura. Cuando los dos comparezcamos ante el tribunal divino, esa mirada tuya bastará á arrojar mi alma del cielo, y los demonios harán presa en ella con sus uñas. ¡Ay de mí, siervo del pecado! ¡Furias, arrojadme del cielo con vuestros azotes! Demonios, arrastradme en vuestro gran torbellino, hacedme hervir en azufre ó en pilas de hirviente metal. ¡Desdémona, Desdémona!
+S|(Salen Ludovico, Montano, Casio herido, y Yago preso.)
+P|¿Dónde está este infeliz temerario?
+P|Aquí teneis al que fué Otelo.
+P|¿Dónde ese basilisco, ese horrible Yago?
+P|¡Lástima que seas demonio, porque no podré matarte! (Le hiere.)
+P|Desarmadle.
+P|Me has herido, pero no de muerte.
+P|Y no lo siento. Quiero que vivas, porque el morir es una dicha.
+P|Otelo, tú que antes fuiste tan bueno y generoso, ¿cómo has caido en los lazos de este traidor artero? ¿Qué dirán de tí?
+P|Cuanto quieran, si así lo creeis; seré un delincuente honrado. Por honor la maté, no por odio.
+P|En parte ya ha confesado su crímen. ¿Los dos concertasteis la muerte de Casio?
+P|Sí.
+P|Y sin razon ninguna.
+P|Téngolo por cierto y te pido perdon. Preguntad á ese demonio, qué motivo le pudo inducir á infernar de ese modo mi cuerpo y mi alma.
+P|No me pregunteis nada, no he de responder. Todo lo sabeis. Desde ahora no he de hablar.
+P|¿Ni siquiera para rezar?
+P|El tormento te obligará á mover la lengua.
+P|Bien harás.
+P|Sabedlo todo, pues aún hay algo que no ha llegado á vuestra noticia. En el bolsillo de Rodrigo se han encontrado dos cartas. Una de ellas explica cómo Rodrigo se encargó de dar muerte á Casio.
+P|¡Cobarde!
+P|¡Infame!
+P|La otra carta contiene mil quejas contra Yago, pero se conoce que antes de enviarle Rodrigo la carta, encontró á Yago, y éste resolvió todas sus dudas y le decidió á lo que hizo.
+P|¡Perro traidor! ¿Y cómo llegó á tus manos, Casio, aquel pañuelo de mi mujer?
+P|Le hallé en mi aposento, y él mismo acaba de confesar que le dejó allí con este intento.
+P|¡Necio, mentecato!
+P|En la misma carta le echa en cara Rodrigo, entre otras mil acusaciones, el haberle excitado en el cuerpo de guardia á que riñese conmigo, de cuya riña resultó el perder yo mi empleo. Y él ha dicho antes de morir que Yago le acusó y le hirió.
+P|Necesario es que vengais con nosotros sin demora. El gobierno queda en manos de Casio. Y en cuanto á Yago creed que si hay algun tormento que pueda hacerle padecer eternamente sin matarle, á él se aplicará. Vos estareis preso, hasta que sentencie vuestra causa el Senado de Venecia.
+P|Oidme una palabra, nada más, y luego os ireis. He servido bien y lealmente á la República, y ella lo sabe, pero no tratemos de eso. Sólo os pido por favor una cosa: que cuando en vuestras cartas al Senado refirais este lastimoso caso, no trateis de disculparme, ni de agravar tampoco mi culpa. Decid que he sido un desdichado: que amé sin discrecion y con furor, que aunque tardo en recelar, me dejé arrastrar como loco por la corriente de los celos: decid que fuí tan insensato como el indio que arroja al lodo una pieza preciosa que vale más que toda su tribu. Decid que mis ojos que antes no lloraban nunca, han destilado luego largo caudal de lágrimas, como destilan su balsámico jugo los árboles de Arabia. Contádselo todo así, y decid tambien que un dia que en Alepo un turco puso la mano en un veneciano, ultrajando la majestad de la República, yo agarré del cuello á aquel perro infiel y le maté así. (Se hiere.)
+P|¡Lastimosa muerte!
+P|Vanas fueron nuestras palabras.
+P|Esposa mia, quise besarte antes de matarte. Ahora te beso, y muero al besarte. (Muere.)
+P|Yo lo recelé, porque era de alma muy generosa, pero creí que no tenia armas.
+P|¡Perro ladron, más crudo y sanguinario que la muerte misma, más implacable que el mar alborotado! ¡Mira, mira los dos cadáveres que abruman ese lecho! Gózate en tu obra, cuyo solo espectáculo basta para envenenar los ojos. Cubrid el cadáver: haced guardar la casa, Graciano. Haced inventario de los bienes del moro. Sois su heredero. Y á vos, gobernador, incumbe el castigar á este perro sin ley, fijando el modo y la hora del tormento. Y ¡que sea cruel, muy cruel! Yo con lágrimas en los ojos voy á llevar á Venecia la relación del triste caso.

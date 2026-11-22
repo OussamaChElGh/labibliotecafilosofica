@@ -1,0 +1,643 @@
+{
+  "slug": "amalia-jose-marmol",
+  "title": "Amalia",
+  "author": "José Mármol",
+  "author_route": "",
+  "book_route": "/amalia-jose-marmol/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Amalia",
+  "source_revision": 1334139,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "explicacion",
+      "title": "Explicacion",
+      "summary": "Empieza: «La mayor parte de los personajes históricos de esta novela, existen aún, y ocupan la posición política ó social que en la…»",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "slug": "traicion",
+      "title": "Traición",
+      "summary": "Empieza: «Parte Primera»",
+      "start": 4,
+      "end": 178
+    },
+    {
+      "slug": "la-primera-curacion",
+      "title": "La primera curación",
+      "summary": "Empieza: «Capítulo II.»",
+      "start": 179,
+      "end": 371
+    },
+    {
+      "slug": "las-cartas",
+      "title": "Las cartas",
+      "summary": "Empieza: «Capítulo III.»",
+      "start": 372,
+      "end": 441
+    },
+    {
+      "slug": "la-hora-de-comer",
+      "title": "La hora de comer",
+      "summary": "Empieza: «Capítulo IV.»",
+      "start": 442,
+      "end": 650
+    },
+    {
+      "slug": "el-comandante-cuitino",
+      "title": "El comandante Cuitiño",
+      "summary": "Empieza: «Capítulo V.»",
+      "start": 651,
+      "end": 754
+    },
+    {
+      "slug": "victorica",
+      "title": "Victorica",
+      "summary": "Empieza: «Capítulo VI.»",
+      "start": 755,
+      "end": 898
+    },
+    {
+      "slug": "el-caballero-juan-enrique-mandeville",
+      "title": "El caballero Juan Enrique Mandeville",
+      "summary": "Empieza: «Capítulo VII.»",
+      "start": 899,
+      "end": 1113
+    },
+    {
+      "slug": "el-amanecer",
+      "title": "El amanecer",
+      "summary": "Empieza: «Capítulo VIII.»",
+      "start": 1114,
+      "end": 1130
+    },
+    {
+      "slug": "el-angel-y-el-diablo",
+      "title": "El ángel y el diablo",
+      "summary": "Empieza: «Capítulo IX.»",
+      "start": 1131,
+      "end": 1304
+    },
+    {
+      "slug": "una-agente-de-daniel",
+      "title": "Una agente de Daniel",
+      "summary": "Empieza: «Capítulo X.»",
+      "start": 1305,
+      "end": 1434
+    },
+    {
+      "slug": "donde-aparece-el-hombre-de-la-cana-de-la-india",
+      "title": "Donde aparece el hombre de la caña de la India",
+      "summary": "Empieza: «Capítulo XI.»",
+      "start": 1435,
+      "end": 1584
+    },
+    {
+      "slug": "florencia-y-daniel",
+      "title": "Florencia y Daniel",
+      "summary": "Empieza: «Capítulo XII.»",
+      "start": 1585,
+      "end": 1719
+    },
+    {
+      "slug": "el-presidente-salomon",
+      "title": "El presidente Salomón",
+      "summary": "Empieza: «Capítulo XIII.»",
+      "start": 1720,
+      "end": 1816
+    },
+    {
+      "slug": "amalia-saenz-de-olavarrieta",
+      "title": "Amalia Sáenz de Olavarrieta",
+      "summary": "Empieza: ««Tucumán es el jardín del universo, en cuanto a la grandeza y sublimidad de su naturaleza», escribió el capitán Andrews en su…»",
+      "start": 1817,
+      "end": 1939
+    },
+    {
+      "slug": "como-una-sola-puerta-tenia-tres-llaves",
+      "title": "Cómo una sola puerta tenía tres llaves",
+      "summary": "Empieza: «Acababan de dar las cinco de la tarde en el reloj de San Francisco; y el sol, próximo a su ocaso, no…»",
+      "start": 1940,
+      "end": 2076
+    },
+    {
+      "slug": "treinta-y-dos-veces-veinte-y-cuatro",
+      "title": "Treinta y dos veces veinte y cuatro",
+      "summary": "Empieza: «¡Despacio, Daniel, más despacio, porque me ahogo! -dijo Don Cándido al llegar a la esquina de la calle de Chacabuco.»",
+      "start": 2077,
+      "end": 2221
+    },
+    {
+      "slug": "quinientas-onzas",
+      "title": "Quinientas onzas",
+      "summary": "Empieza: «Reflexionando iba Daniel sobre las raras condiciones de su primer maestro, más que sobre otros asuntos de mayor importancia que le preocupaban…»",
+      "start": 2222,
+      "end": 2324
+    },
+    {
+      "slug": "la-rosa-blanca",
+      "title": "La rosa blanca",
+      "summary": "Empieza: «Ahora el lector tendrá la bondad de volver con nosotros a nuestra conocida quinta de Barracas, en la mañana del 24 de…»",
+      "start": 2325,
+      "end": 2510
+    },
+    {
+      "slug": "veinte-y-cuatro",
+      "title": "Veinte y cuatro",
+      "summary": "Empieza: «El sol del 24 de mayo de 1840 había llegado a su ocaso, y precipitado en la eternidad aquel día que recordaba…»",
+      "start": 2511,
+      "end": 2536
+    },
+    {
+      "slug": "escenas-de-un-baile",
+      "title": "Escenas de un baile",
+      "summary": "Empieza: «Entretanto, desde las nueve de la noche, los convidados al baile dedicado a Su Excelencia el Gobernador, y a su hija, empezaban…»",
+      "start": 2537,
+      "end": 2740
+    },
+    {
+      "slug": "daniel-bello",
+      "title": "Daniel Bello",
+      "summary": "Empieza: «El joven Daniel entraba al baile a las doce y media de la noche, pero antes de seguirlo en él, veamos lo…»",
+      "start": 2741,
+      "end": 2858
+    },
+    {
+      "slug": "promesas-de-la-imaginacion",
+      "title": "Promesas de la imaginación",
+      "summary": "Empieza: «A la plaza Nueva -dijo Daniel a su cochero inglés, que hizo partir los caballos a gran trote dirigiéndose al lugar indicado…»",
+      "start": 2859,
+      "end": 2916
+    },
+    {
+      "slug": "donde-continuan-las-escenas-de-un-baile",
+      "title": "Donde continúan las escenas de un baile",
+      "summary": "Empieza: «Daniel entraba a los salones del baile a las doce de la noche, como se ha visto al final del capítulo VII.»",
+      "start": 2917,
+      "end": 3036
+    },
+    {
+      "slug": "escenas-de-la-mesa",
+      "title": "Escenas de la mesa",
+      "summary": "Empieza: «La señorita de Rosas ocupaba una de las cabeceras de la mesa; a su izquierda estaba el señor ministro de Hacienda Don…»",
+      "start": 3037,
+      "end": 3096
+    },
+    {
+      "slug": "despues-del-baile",
+      "title": "- i -",
+      "summary": "Empieza: «Durante que Daniel estaba en la mesa, la señora Doña Agustina Rosas de Mansilla de nuevo había restablecido sus reales sobre los…»",
+      "start": 3097,
+      "end": 3155
+    },
+    {
+      "slug": "en-montevideo",
+      "title": "En Montevideo",
+      "summary": "Empieza: «El lector tendrá que acompañarnos esta vez a un paseo de pocas horas a la parte septentrional del Plata, siguiendo con nosotros…»",
+      "start": 3156,
+      "end": 3191
+    },
+    {
+      "slug": "conferencias",
+      "title": "Conferencias",
+      "summary": "Empieza: «Daniel dejó su capa, su sobretodo y sus pistolas en una pequeña antesala, arregló un poco su cabello, y pasó a la…»",
+      "start": 3192,
+      "end": 3267
+    },
+    {
+      "slug": "continuacion-del-anterior",
+      "title": "Continuación del anterior",
+      "summary": "Empieza: «Por la primera vez de su vida, Daniel sintió cierta timidez en su espíritu, cierto no sé qué de desconfianza en sí…»",
+      "start": 3268,
+      "end": 3410
+    },
+    {
+      "slug": "indiscreciones",
+      "title": "Indiscreciones",
+      "summary": "Empieza: «El café de Don Antonio era la bolsa política de Montevideo en 1840, desde las siete hasta las once de la noche,…»",
+      "start": 3411,
+      "end": 3469
+    },
+    {
+      "slug": "monologo-en-el-mar",
+      "title": "Monólogo en el mar",
+      "summary": "Empieza: «A las diez de la noche, la ballenera de Mr. Douglas partía como una flecha, o más bien se deslizaba como un…»",
+      "start": 3470,
+      "end": 3508
+    },
+    {
+      "slug": "dona-maria-josefa-ezcurra",
+      "title": "Doña María Josefa Ezcurra",
+      "summary": "Empieza: «Después del cuadro político que acaba de leerse, y que la necesidad de dejar dibujada a grandes rasgos la época en que…»",
+      "start": 3509,
+      "end": 3685
+    },
+    {
+      "slug": "la-pareja",
+      "title": "La pareja",
+      "summary": "Empieza: «Ya Doña María Josefa Ezcurra se disponía para hacer a su Juan Manuel la segunda visita de las tres que le hacía…»",
+      "start": 3686,
+      "end": 3816
+    },
+    {
+      "slug": "preambulo-de-un-drama",
+      "title": "Preámbulo de un drama",
+      "summary": "Empieza: «Después de la noche del 24 de mayo en que cerramos la segunda parte de los acontecimientos de esta historia, los asuntos…»",
+      "start": 3817,
+      "end": 3894
+    },
+    {
+      "slug": "el-primero-acto-de-un-drama",
+      "title": "El primero acto de un drama",
+      "summary": "Empieza: «De todos cuantos allí había, Amalia era la única que no conocía a Doña María Josefa Ezcurra; pero cuando al pasar al…»",
+      "start": 3895,
+      "end": 4034
+    },
+    {
+      "slug": "una-noche-toledana",
+      "title": "Una noche toledana",
+      "summary": "Empieza: «Por muy de prisa que anduviese Daniel, le era imposible volver a Barracas en el término de. una hora, teniendo que ir…»",
+      "start": 4035,
+      "end": 4101
+    },
+    {
+      "slug": "xi-continuacion-del-anterior",
+      "title": "Continuación del anterior",
+      "summary": "Empieza: «Amalia permanecía parada aún junto a la mesa, cuando Daniel, después de haberse retirado Cuitiño, entró a la sala, riéndose como un…»",
+      "start": 4102,
+      "end": 4205
+    },
+    {
+      "slug": "de-como-se-leen-cosas-que-no-estan-escritas",
+      "title": "De cómo se leen cosas que no están escritas",
+      "summary": "Empieza: «En la mañana siguiente a la noche en que ocurrieron los sucesos que acaban de conocerse, es decir, en la mañana del…»",
+      "start": 4206,
+      "end": 4361
+    },
+    {
+      "slug": "como-sacamos-en-limpio-que-don-candido-rodriguez-se-parecia-a-don-juan-manuel-rosas",
+      "title": "Cómo sacamos en limpio que Don Cándido Rodríguez se parecía a Don Juan Manuel Rosas",
+      "summary": "Empieza: «En esa misma mañana en que su señoría el señor ministro plenipotenciario de Su Majestad Británica machacaba el maíz para la mazamorra…»",
+      "start": 4362,
+      "end": 4477
+    },
+    {
+      "slug": "los-dos-amigos",
+      "title": "Los dos amigos",
+      "summary": "Empieza: «Vamos, pero hasta la puerta del gabinete solamente, porque yo soy el médico del alma de este hombre, y sabe usted que…»",
+      "start": 4478,
+      "end": 4581
+    },
+    {
+      "slug": "amalia-en-presencia-de-la-policia",
+      "title": "Amalia en presencia de la policía",
+      "summary": "Empieza: «Daniel llegó a su casa, montó en su soberbio alazán, partió a gran galope para Barracas, tomando las peores calles de la…»",
+      "start": 4582,
+      "end": 4716
+    },
+    {
+      "slug": "todos-comprometidos",
+      "title": "Todos comprometidos",
+      "summary": "Empieza: «Una hora después el soberbio alazán que había llegado a la quinta a gran galope, volvía paso a paso en dirección a…»",
+      "start": 4717,
+      "end": 4827
+    },
+    {
+      "slug": "el-16-de-agosto",
+      "title": "El 16 de agosto",
+      "summary": "Empieza: «Once días después de los acontecimientos anteriores, es decir, el 16 de agosto, el destino de Buenos Aires estaba sobre un monte…»",
+      "start": 4828,
+      "end": 4929
+    },
+    {
+      "slug": "el-gobernador-delegado",
+      "title": "El gobernador delegado",
+      "summary": "Empieza: «Pasado el zaguán que conducía del primero al segundo patio en la casa de Don Felipe Arana, calle de Representantes, núm. 153,…»",
+      "start": 4930,
+      "end": 5020
+    },
+    {
+      "slug": "de-como-era-y-no-era-gobernador-delegado-don-felipe",
+      "title": "De cómo era y no era gobernador delegado don Felipe",
+      "summary": "Empieza: «Por más que apresuró sus pasos el cura Gaete para entrar a casa de Arana antes que el jefe de policía, no…»",
+      "start": 5021,
+      "end": 5180
+    },
+    {
+      "slug": "de-como-don-felipe-arana-explicaba-los-fenomenos-del-magnetismo",
+      "title": "De cómo Don Felipe Arana explicaba los fenómenos del magnetismo",
+      "summary": "Empieza: «No bien atravesó el patio el señor jefe de policía, cuando el cura Gaete, que lo vio por entre los cristales de…»",
+      "start": 5181,
+      "end": 5351
+    },
+    {
+      "slug": "asi-fue",
+      "title": "Así fue",
+      "summary": "Empieza: «En el cataclismo a que habían caído, arrojados por la mano de Rosas, todos los principios de la constitución moral, social y…»",
+      "start": 5352,
+      "end": 5413
+    },
+    {
+      "slug": "sor-marta-del-rosario",
+      "title": "Sor Marta del Rosario",
+      "summary": "Empieza: «En un pequeño banco de piedra, en el centro de un bosque de naranjos de Tucumán, sentada estaba Sor Marta del Rosario,…»",
+      "start": 5414,
+      "end": 5468
+    },
+    {
+      "slug": "como-don-candido-se-decide-a-emigrar-y-cuales-fueron-las-consecuencias-de-su-primera-tentativa",
+      "title": "Cómo Don cándido se decide a emigrar, y cuáles fueron las consecuencias de su primera tentativa",
+      "summary": "Empieza: «Pero no bien nuestro secretario privado tuvo un pie en la vereda, y otro sobre el alto escalón de la portería del…»",
+      "start": 5469,
+      "end": 5556
+    },
+    {
+      "slug": "la-guardia-de-lujan-y-santos-lugares",
+      "title": "La guardia de Luján y Santos Lugares",
+      "summary": "Empieza: «Era el 21 de agosto.»",
+      "start": 5557,
+      "end": 5624
+    },
+    {
+      "slug": "manuela-rosas",
+      "title": "Manuela Rosas",
+      "summary": "Empieza: «Ya que hemos dejado al lector en conocimiento de la situación política y militar, en sus grandes manifestaciones, a la época a…»",
+      "start": 5625,
+      "end": 5772
+    },
+    {
+      "slug": "x-continuacion-del-anterior",
+      "title": "Continuación del anterior",
+      "summary": "Empieza: «Era en efecto Daniel Bello el que había entrado al salón de Rosas; y después de atravesar por entre los concurrentes dando…»",
+      "start": 5773,
+      "end": 5891
+    },
+    {
+      "slug": "de-como-empezo-para-daniel-una-aventura-de-fabulas",
+      "title": "De cómo empezó para Daniel una aventura de fábulas",
+      "summary": "Empieza: «Por más de un momento Daniel llegó a creer con toda buena fe que se hallaba de veras en el infierno. Se…»",
+      "start": 5892,
+      "end": 6035
+    },
+    {
+      "slug": "el-despertar-del-cura-gaete",
+      "title": "El despertar del cura Gaete",
+      "summary": "Empieza: «Aquel día tan fatal para Don Cándido Rodríguez, en que vio frustrada su tentativa de embarque clandestino, y en el momento en…»",
+      "start": 6036,
+      "end": 6202
+    },
+    {
+      "slug": "la-casa-sola",
+      "title": "La casa sola",
+      "summary": "Empieza: «Siguiendo el camino del Bajo que conduce de Buenos Aires a San Isidro, se encuentra, como a tres leguas de la ciudad,…»",
+      "start": 6203,
+      "end": 6304
+    },
+    {
+      "slug": "aparicion",
+      "title": "Aparición",
+      "summary": "Empieza: «Según las órdenes de Amalia ninguna luz se veía en la casa. Las puertas de las habitaciones estaban cerradas, a excepción de…»",
+      "start": 6305,
+      "end": 6486
+    },
+    {
+      "slug": "el-jefe-de-dia",
+      "title": "El jefe de día",
+      "summary": "Empieza: «¡Es inútil, Eduardo! Vamos a reventar los caballos sin conseguir lo que deseas -decía Daniel, mientras que los caballos volaban.»",
+      "start": 6487,
+      "end": 6639
+    },
+    {
+      "slug": "xvi-continuacion-del-anterior",
+      "title": "Continuación del anterior",
+      "summary": "Empieza: «La comitiva del jefe de día tomó por la calle de la Reconquista, que conducía al cuartel del coronel Ravelo.»",
+      "start": 6640,
+      "end": 6739
+    },
+    {
+      "slug": "patria-amor-y-amistad",
+      "title": "Patria, amor y amistad",
+      "summary": "Empieza: «Daniel entró a su casa y él mismo condujo su caballo al pesebre, porque no lo esperaba su fiel Fermín, y los…»",
+      "start": 6740,
+      "end": 6781
+    },
+    {
+      "slug": "setiembre",
+      "title": "Setiembre",
+      "summary": "Empieza: «El primer día de setiembre de 1840 se extendió sobre el cielo de Buenos Aires oscuro, triste, cargado de vapores, como si…»",
+      "start": 6782,
+      "end": 6850
+    },
+    {
+      "slug": "santos-lugares",
+      "title": "Santos Lugares",
+      "summary": "Empieza: «Las primeras luces del alba se dibujaban sobre el oriente, y la vista se fatigaba por definir los objetos informes que, aquí…»",
+      "start": 6851,
+      "end": 6996
+    },
+    {
+      "slug": "un-vaso-de-sangre",
+      "title": "Un vaso de sangre",
+      "summary": "Empieza: «¿Ya se iba?»",
+      "start": 6997,
+      "end": 7027
+    },
+    {
+      "slug": "donde-aparece-como-aparece-siempre-nuestro-don-candido-rodriguez",
+      "title": "Donde aparece, como aparece siempre, nuestro Don Cándido Rodríguez",
+      "summary": "Empieza: «Si los capítulos anteriores han podido dar una ligerísima idea de la ferocidad de Rosas, también habrán hecho reflexionar, es probable, sobre…»",
+      "start": 7028,
+      "end": 7159
+    },
+    {
+      "slug": "pilades-enojado",
+      "title": "Pílades enojado",
+      "summary": "Empieza: «Don Cándido se estremeció.»",
+      "start": 7160,
+      "end": 7322
+    },
+    {
+      "slug": "el-contrabandista-de-hombres",
+      "title": "El contrabandista de hombres",
+      "summary": "Empieza: «Apenas se había retirado el doctor Alcorta, cuando sintiéronse dos palmadas en el escritorio de Daniel, contiguo al aposento, como se sabe.»",
+      "start": 7323,
+      "end": 7430
+    },
+    {
+      "slug": "el-jefe-de-ronda",
+      "title": "El jefe de ronda",
+      "summary": "Empieza: «Dos días después de aquel en que Pílades había pasado por tanta agitación de espíritu y de cuerpo, en las calles, y…»",
+      "start": 7431,
+      "end": 7560
+    },
+    {
+      "slug": "la-ballenera",
+      "title": "La ballenera",
+      "summary": "Empieza: «La noche estaba nebulosa pero suave; el río tranquilo; una brisa fresca, pero suave, picaba ligerísimamente las aguas que, en alta marca,…»",
+      "start": 7561,
+      "end": 7670
+    },
+    {
+      "slug": "la-ronda-federal",
+      "title": "La ronda federal",
+      "summary": "Empieza: «Todavía Eduardo tenía vuelta su gallarda cabeza hacia la dirección de la descarga, y las manos llevadas instintivamente a los bolsillos donde…»",
+      "start": 7671,
+      "end": 7800
+    },
+    {
+      "slug": "primavera-de-sangre",
+      "title": "Primavera de sangre",
+      "summary": "Empieza: «Ya los pájaros cantaban al asomar el día el himno misterioso de la Naturaleza a su creador.»",
+      "start": 7801,
+      "end": 7831
+    },
+    {
+      "slug": "de-cuarenta-solo-diez",
+      "title": "De cuarenta, sólo diez",
+      "summary": "Empieza: «En la noche siguiente a aquella en que la policía federal comenzó a hacer de las suyas en la Casa Sola, y…»",
+      "start": 7832,
+      "end": 7899
+    },
+    {
+      "slug": "la-ley-de-hambre",
+      "title": "La ley de hambre",
+      "summary": "Empieza: «Imposible es dar a conocer en los rasgos fugitivos del romance la situación pública de Buenos Aires, después de la retirada del…»",
+      "start": 7900,
+      "end": 7943
+    },
+    {
+      "slug": "el-traje-de-boda",
+      "title": "El traje de boda",
+      "summary": "Empieza: «Era el 5 de octubre.»",
+      "start": 7944,
+      "end": 8065
+    },
+    {
+      "slug": "asilo-ingles",
+      "title": "Asilo inglés",
+      "summary": "Empieza: «Tenemos que retroceder con el lector para recoger ciertos personajes de esta historia, pocos días después de aquella noche de esperanzas y…»",
+      "start": 8066,
+      "end": 8176
+    },
+    {
+      "slug": "mr-slade",
+      "title": "Mr. Slade",
+      "summary": "Empieza: «A pesar que el mal humor que dominaba a Eduardo lo había descompuesto a tal punto, que su despedida del caballero Mandeville…»",
+      "start": 8177,
+      "end": 8300
+    },
+    {
+      "slug": "de-como-don-candido-rodriguez-era-pariente-de-cuitino",
+      "title": "De cómo don Cándido Rodríguez era pariente de Cuitiño",
+      "summary": "Empieza: «A las ocho de la mañana de uno de los últimos días de setiembre, el maestro de primeras letras de Daniel sorbía…»",
+      "start": 8301,
+      "end": 8490
+    },
+    {
+      "slug": "el-reloj-del-alma",
+      "title": "El reloj del alma",
+      "summary": "Empieza: «El lector tendrá a bien recordar ahora aquel lindísimo día, 5 de octubre, en que dejamos a Amalia arrodillada, conversando con Dios,…»",
+      "start": 8491,
+      "end": 8544
+    },
+    {
+      "slug": "el-velo-de-la-novia",
+      "title": "El velo de la novia",
+      "summary": "Empieza: «Amalia no se había equivocado, porque eran en efecto las personas que ella había esperado por tantas horas y con tanta angustia.»",
+      "start": 8545,
+      "end": 8617
+    },
+    {
+      "slug": "el-talamo-nupcial",
+      "title": "El tálamo nupcial",
+      "summary": "Empieza: «Cuando el reloj de la quinta daba las diez de la noche, Pedro abría el portón para que entrase Daniel, después de…»",
+      "start": 8618,
+      "end": 8706
+    },
+    {
+      "slug": "especie-de-epilogo",
+      "title": "Especie de epílogo",
+      "summary": "Empieza: «La crónica, que nos revelará más tarde quizá algo interesante sobre el destino de ciertos personajes que han figurado en esta larga…»",
+      "start": 8707,
+      "end": 8710
+    }
+  ],
+  "description": "Amalia de José Mármol: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre el amor y la persecución política bajo Rosas.",
+  "intro": "<p>Buenos Aires, mayo de 1840. Eduardo Belgrano, joven unitario, sobrevive herido a una emboscada de la Mazorca, la policía política del gobernador Juan Manuel de Rosas, cuando intentaba huir a Montevideo. Su amigo Daniel Bello, que finge apoyar al régimen, lo esconde en la casa de su prima Amalia, una joven viuda tucumana.</p><p>Aquí puedes leer Amalia completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 29,
+    "art": {
+      "file": "amalia-jose-marmol.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/amalia-jose-marmol/ilustracion.jpg",
+      "credit": "Prilidiano Pueyrredón, «Paisaje (Recuerdo del Brasil)» (h. 1840-1870). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "el amor y la persecución política bajo Rosas",
+    "resumen": [
+      "Buenos Aires, mayo de 1840. Eduardo Belgrano, joven unitario, sobrevive herido a una emboscada de la Mazorca, la policía política del gobernador Juan Manuel de Rosas, cuando intentaba huir a Montevideo. Su amigo Daniel Bello, que finge apoyar al régimen, lo esconde en la casa de su prima Amalia, una joven viuda tucumana.",
+      "Mientras Eduardo se recupera, él y Amalia se enamoran, y Daniel conspira desde dentro del círculo de Rosas, burlando a espías como doña María Josefa Ezcurra. La novela mezcla la historia de amor con el retrato del terror político en la ciudad. La noche de la boda, la Mazorca asalta la casa y la tragedia se impone. Amalia es considerada la primera novela argentina."
+    ],
+    "personajes": [
+      [
+        "Amalia",
+        "Joven viuda, culta y valiente, que da refugio a Eduardo."
+      ],
+      [
+        "Eduardo Belgrano",
+        "Joven unitario perseguido por el régimen de Rosas."
+      ],
+      [
+        "Daniel Bello",
+        "Amigo de Eduardo, conspirador astuto que aparenta lealtad al gobierno."
+      ],
+      [
+        "Florencia Dupasquier",
+        "Novia de Daniel."
+      ],
+      [
+        "Juan Manuel de Rosas",
+        "Gobernador de Buenos Aires, retratado como tirano."
+      ],
+      [
+        "María Josefa Ezcurra",
+        "Cuñada de Rosas, jefa de una red de delatores."
+      ]
+    ],
+    "ideas": [
+      "El amor romántico amenazado por la violencia política.",
+      "La denuncia de la dictadura de Rosas desde el bando unitario.",
+      "El miedo y la delación como forma de gobierno.",
+      "La novela como documento histórico de su tiempo."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Amalia de José Mármol?",
+        "Del amor entre Amalia y Eduardo Belgrano, un unitario perseguido por la Mazorca, en el Buenos Aires de 1840 gobernado por Rosas."
+      ],
+      [
+        "¿Por qué Amalia es la primera novela argentina?",
+        "Porque se publicó por entregas entre 1851 y 1855 y es la primera novela extensa escrita en Argentina con tema nacional."
+      ],
+      [
+        "¿Qué era la Mazorca?",
+        "La Sociedad Popular Restauradora, un grupo armado que perseguía a los opositores de Rosas."
+      ],
+      [
+        "¿Cuándo transcurre Amalia?",
+        "En Buenos Aires, en 1840, durante el segundo gobierno de Juan Manuel de Rosas."
+      ]
+    ]
+  }
+}

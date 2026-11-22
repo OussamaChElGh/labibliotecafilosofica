@@ -1,0 +1,332 @@
+{
+  "slug": "la-isla-del-tesoro-stevenson",
+  "title": "La isla del tesoro",
+  "author": "Robert Louis Stevenson",
+  "author_route": "",
+  "book_route": "/la-isla-del-tesoro-stevenson/",
+  "translator": "Manuel Caballero",
+  "edition": "1901",
+  "source_url": "https://es.wikisource.org/wiki/La_isla_del_tesoro_%28Manuel_Caballero%29",
+  "source_revision": 1344882,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "capitulo-1",
+      "title": "I. El viejo lobo marino en la posada del «Almirante Benbow»",
+      "summary": "Empieza: «Imposible me ha sido rehusarme á las repetidas instancias que el Caballero Trelawney, el Doctor Livesey y otros muchos señores me han…»",
+      "start": 0,
+      "end": 28
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "II. «Black Dog» aparece y desaparece",
+      "summary": "Empieza: «No mucho tiempo después de lo referido en el capítulo precedente, ocurrió el primero de los sucesos misteriosos que nos desembarazaron, por…»",
+      "start": 29,
+      "end": 85
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "III. El disco negro",
+      "summary": "Empieza: «Á eso de medio día lleguéme al cuarto del Capitán llevándole algunos refrigerantes y medicinas. Lo encontré acostado casi en la misma…»",
+      "start": 86,
+      "end": 134
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "IV. El cofre del muerto",
+      "summary": "Empieza: «Sin perder un instante, por supuesto, hice entonces lo que quizás debí haber hecho mucho tiempo antes, que fué contar á mi…»",
+      "start": 135,
+      "end": 166
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "V. Del fin que tuvo el mendigo ciego",
+      "summary": "Empieza: «Mi curiosidad, empero, pudo más que mis temores: comprendí que el permanecer allí donde estaba no me traía más utilidad que la…»",
+      "start": 167,
+      "end": 212
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "VI. Los papeles del capitán",
+      "summary": "Empieza: «Caminamos bastante de prisa hasta que por fin nos detuvimos á la puerta del Doctor Livesey. La casa estaba enteramente oscura en…»",
+      "start": 213,
+      "end": 267
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "VII. Salgo para Brístol",
+      "summary": "Empieza: «Pasó mucho más tiempo del que el Caballero Trelawney se imaginó al principio, antes de que estuviésemos listos para hacernos á la…»",
+      "start": 268,
+      "end": 303
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "VIII. La taberna de «El Vigía»",
+      "summary": "Empieza: «En cuanto que hube almorzado, el Caballero me dió una carta dirigida á John Silver, á su taberna de “El Vigía” y…»",
+      "start": 304,
+      "end": 356
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "IX. Pólvora y armas",
+      "summary": "Empieza: «La Española estaba á una distancia considerable y nosotros hicimos nuestro camino entre las elaboradas y elegantes proas de unos buques y…»",
+      "start": 357,
+      "end": 419
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "X. El viaje",
+      "summary": "Empieza: «Toda aquella noche la pasamos en gran movimiento alistándolo todo, poniendo cada cosa en su lugar y viendo llegar, uno tras de…»",
+      "start": 420,
+      "end": 456
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "XI. Lo que oí desde el barril",
+      "summary": "Empieza: «¡No! ¡yo no!, decía Silver. Flint era el Capitán: yo no era más que contramaestre, con mi pierna de palo. En el…»",
+      "start": 457,
+      "end": 503
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "XII. Consejo de guerra",
+      "summary": "Empieza: «Pasos precipitados sonaron por donde quiera al grito de ¡tierra! apresurándose todos á subir sobre cubierta, tanto mis amigos de la cámara…»",
+      "start": 504,
+      "end": 549
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "XIII. Cómo empezó la aventura",
+      "summary": "Empieza: «Cuando subí sobre cubierta á la mañana siguiente, el aspecto de la isla había cambiado en gran manera. Aun cuando la brisa…»",
+      "start": 550,
+      "end": 582
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "XIV. El primer golpe",
+      "summary": "Empieza: «Me sentía yo tan satisfecho de haber dejado á Silver con un palmo de narices, que ya comenzaba á recrearme y á…»",
+      "start": 583,
+      "end": 615
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "XV. El hombre de la isla",
+      "summary": "Empieza: «De uno de los lados del cerro que era, en aquel sitio, escarpado y pedregoso, un guijarro se desprendió por el cauce…»",
+      "start": 616,
+      "end": 675
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "XVI. El doctor prosigue la narración y refiere cómo fué abandonado el buque",
+      "summary": "Empieza: «Sería la una y media de la tarde cuando los dos botes de La Española se fueron á tierra. El Capitán, el…»",
+      "start": 676,
+      "end": 713
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "XVII. El doctor, continuando la narración, describe el último viaje del serení",
+      "summary": "Empieza: «Este quinto viaje fué ya, sin embargo, bien distinto de los precedentes. En primer lugar aquella cascarita de nuez en que íbamos…»",
+      "start": 714,
+      "end": 755
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "XVIII. En que cuenta el doctor cómo concluyó el primer día de pelea",
+      "summary": "Empieza: «Una vez en tierra, dímonos toda la prisa que era posible para franquear la tierra de bosque que nos separaba de nuestro…»",
+      "start": 756,
+      "end": 802
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "XIX. El narrador primero toma otra vez la palabra: la guarnición de la estacada",
+      "summary": "Empieza: «No bien Ben Gunn hubo visto la bandera, hizo alto inmediatamente, me tomó por el brazo para detenerme y se sentó.»",
+      "start": 803,
+      "end": 850
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "XX. La embajada de Silver",
+      "summary": "Empieza: «¡Era cierto! Dos hombres estaban allá, fuera de la estacada, uno de ellos agitando una bandera blanca, y el otro de pie,…»",
+      "start": 851,
+      "end": 906
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "XXI. El ataque",
+      "summary": "Empieza: «No bien hubo desaparecido Silver, el Capitán que le había seguido escrupulosamente con la mirada, se volvió hacia el interior del reducto,…»",
+      "start": 907,
+      "end": 960
+    },
+    {
+      "slug": "capitulo-22",
+      "title": "XXII. De cual fué el principio de mi aventura",
+      "summary": "Empieza: «Los sublevados no volvieron ya; ni siquiera un disparo más volvió á salir de entre los árboles. Ya habían recibido su ración…»",
+      "start": 961,
+      "end": 992
+    },
+    {
+      "slug": "capitulo-23",
+      "title": "XXIII. El reflujo corre",
+      "summary": "Empieza: «El esquife de Ben Gunn, como yo me lo figuré desde antes, con sobra de razón, era un bote muy seguro para…»",
+      "start": 993,
+      "end": 1020
+    },
+    {
+      "slug": "capitulo-24",
+      "title": "XXIV. El viaje del «coracle»",
+      "summary": "Empieza: «Era ya día claro cuando desperté y me encontré caracoleando sobre las olas al Sudoeste de la isla. El sol se había…»",
+      "start": 1021,
+      "end": 1051
+    },
+    {
+      "slug": "capitulo-25",
+      "title": "XXV. ¡Abajo la bandera del pirata!",
+      "summary": "Empieza: «Apenas me había sido dable encaramarme en el bauprés cuando el ondulante foque aleteó, por decirlo así, cargándose sobre la otra amura…»",
+      "start": 1052,
+      "end": 1088
+    },
+    {
+      "slug": "capitulo-26",
+      "title": "XXVI. Israel Hands",
+      "summary": "Empieza: «El viento, que parecía servirnos al pensamiento, cambió al Oeste. Esto facilitó muchísimo nuestro curso, de la punta Noreste de la isla…»",
+      "start": 1089,
+      "end": 1136
+    },
+    {
+      "slug": "capitulo-27",
+      "title": "XXVII. «¡Piezas de á ocho!»",
+      "summary": "Empieza: «Debido á la gran inclinación en que había quedado la goleta, los mástiles se veían suspensos en gran parte encima del agua;…»",
+      "start": 1137,
+      "end": 1174
+    },
+    {
+      "slug": "capitulo-28",
+      "title": "XXVIII. El campo enemigo",
+      "summary": "Empieza: «La claridad rojiza de la antorcha iluminando el interior de la cabaña, me hizo ver que, cuanto de malo pude imaginar en…»",
+      "start": 1175,
+      "end": 1244
+    },
+    {
+      "slug": "capitulo-29",
+      "title": "XXIX. Otra vez el disco negro",
+      "summary": "Empieza: «La sesión de los filibusteros había durado ya por un rato bastante considerable, cuando uno de ellos volvió á entrar al reducto…»",
+      "start": 1245,
+      "end": 1289
+    },
+    {
+      "slug": "capitulo-30",
+      "title": "XXX. Bajo palabra",
+      "summary": "Empieza: «Una voz clara y alegre que sonaba á la orilla del bosque llamando á los del reducto me despertó, y despertó igualmente…»",
+      "start": 1290,
+      "end": 1351
+    },
+    {
+      "slug": "capitulo-31",
+      "title": "XXXI. En busca del tesoro: el directorio de Flint",
+      "summary": "Empieza: «Jim, díjome Silver en cuanto que estuvimos solos: si yo salvé tu vida, tú has salvado también la mía y te ofrezco…»",
+      "start": 1352,
+      "end": 1390
+    },
+    {
+      "slug": "capitulo-32",
+      "title": "XXXII. La voz del alma en pena",
+      "summary": "Empieza: «En parte por la influencia aterrorizadora de aquella alarma y en parte para que descansaran Silver y sus compañeros enfermos, todos los…»",
+      "start": 1391,
+      "end": 1439
+    },
+    {
+      "slug": "capitulo-33",
+      "title": "XXXIII. La caída de un caudillo",
+      "summary": "Empieza: «Jamás trastorno alguno en la vida ha sido más sentido que aquel. Se diría que un rayo había herido á todos aquellos…»",
+      "start": 1440,
+      "end": 1488
+    },
+    {
+      "slug": "capitulo-34",
+      "title": "XXXIV. Se cuenta el fin de esta verdadera historia",
+      "summary": "Empieza: «Á los primeros albores de la mañana siguiente ya todos estábamos en movimiento y á la obra, porque lo cierto es que…»",
+      "start": 1489,
+      "end": 1517
+    }
+  ],
+  "description": "La isla del tesoro de Robert Louis Stevenson: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela de aventuras sobre piratas, tesoros y el paso a la edad adulta.",
+  "intro": "<p>Jim Hawkins ayuda a su madre en la posada del Almirante Benbow, en la costa de Inglaterra. Allí se aloja un viejo pirata, Billy Bones, que muere tras recibir la «mancha negra» y deja un cofre con el mapa de una isla donde el capitán Flint enterró su tesoro. El doctor Livesey y el caballero Trelawney fletan la goleta Hispaniola, con el capitán Smollett, y llevan a Jim como grumete.</p><p>Aquí puedes leer La isla del tesoro completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 47,
+    "art": {
+      "file": "la-isla-del-tesoro-stevenson.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/la-isla-del-tesoro-stevenson/ilustracion.jpg",
+      "credit": "N. C. Wyeth, «El ciego Pew», ilustración para La isla del tesoro (1911). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela de aventuras",
+    "unidad": "capítulos",
+    "tema": "piratas, tesoros y el paso a la edad adulta",
+    "resumen": [
+      "Jim Hawkins ayuda a su madre en la posada del Almirante Benbow, en la costa de Inglaterra. Allí se aloja un viejo pirata, Billy Bones, que muere tras recibir la «mancha negra» y deja un cofre con el mapa de una isla donde el capitán Flint enterró su tesoro. El doctor Livesey y el caballero Trelawney fletan la goleta Hispaniola, con el capitán Smollett, y llevan a Jim como grumete.",
+      "El cocinero del barco, John Silver el Largo, un pirata cojo y encantador, ha reclutado a gran parte de la tripulación para quedarse con el tesoro. Jim lo descubre escondido en un barril de manzanas. En la isla estalla la lucha entre los dos bandos. Jim conoce al náufrago Ben Gunn, que ya había desenterrado el tesoro, recupera el barco y ayuda a vencer a los piratas. Silver escapa con una parte del oro."
+    ],
+    "personajes": [
+      [
+        "Jim Hawkins",
+        "Joven narrador, valiente e impulsivo, que vive la aventura de su vida."
+      ],
+      [
+        "John Silver el Largo",
+        "Cocinero cojo con un loro al hombro, líder secreto de los piratas."
+      ],
+      [
+        "El doctor Livesey",
+        "Médico sensato y justo, uno de los jefes de la expedición."
+      ],
+      [
+        "El caballero Trelawney",
+        "Rico y entusiasta, financia el viaje pero habla demasiado."
+      ],
+      [
+        "El capitán Smollett",
+        "Capitán de la Hispaniola, severo y desconfiado con razón."
+      ],
+      [
+        "Ben Gunn",
+        "Pirata abandonado en la isla durante tres años."
+      ],
+      [
+        "Billy Bones",
+        "Viejo pirata que guarda el mapa del tesoro."
+      ]
+    ],
+    "ideas": [
+      "La aventura como aprendizaje y paso a la edad adulta.",
+      "La ambigüedad moral: Silver es un villano y a la vez un personaje que atrae.",
+      "La codicia que mueve a piratas y caballeros.",
+      "La lealtad y la traición en el grupo."
+    ],
+    "faq": [
+      [
+        "¿De qué trata La isla del tesoro?",
+        "De Jim Hawkins, un muchacho que encuentra el mapa del tesoro del pirata Flint y viaja a la isla en una expedición, donde tiene que enfrentarse a los piratas de John Silver."
+      ],
+      [
+        "¿Quién es John Silver el Largo?",
+        "El cocinero de la Hispaniola, un pirata cojo y astuto que organiza el motín para quedarse con el tesoro."
+      ],
+      [
+        "¿Cómo termina La isla del tesoro?",
+        "Los protagonistas vuelven a Inglaterra con el tesoro, que Ben Gunn había desenterrado, y Silver escapa en un puerto con una parte del dinero."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1883, después de aparecer por entregas. Esta traducción de Manuel Caballero es de 1901."
+      ]
+    ]
+  }
+}

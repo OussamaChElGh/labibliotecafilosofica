@@ -1,0 +1,550 @@
+{
+  "slug": "maria-jorge-isaacs",
+  "title": "María",
+  "author": "Jorge Isaacs",
+  "author_route": "",
+  "book_route": "/maria-jorge-isaacs/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Mar%C3%ADa_%28Jorge_Isaacs%29",
+  "source_revision": 1409507,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "juicio-critico",
+      "title": "Juicio crítico",
+      "summary": "Empieza: «Cuando aparece un joven en la sociedad y se hace conocer por el imprescindible comienzo de unos articulones de política, bien atestados…»",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "slug": "a-los-hermanos-de-efrain",
+      "title": "A los hermanos de Efraín",
+      "summary": "Empieza: «He aquí, caros amigos míos, la historia de la adolescencia de aquél a quien tanto amasteis y que ya no existe. Mucho…»",
+      "start": 17,
+      "end": 18
+    },
+    {
+      "slug": "capitulo-1",
+      "title": "Capítulo I",
+      "summary": "Empieza: «Era yo niño aún cuando me alejaron de la casa paterna para que diera principio a mis estudios en el colegio del…»",
+      "start": 19,
+      "end": 24
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "Capítulo II",
+      "summary": "Empieza: «Pasados seis años, los últimos días de un lujoso agosto me recibieron al regresar al nativo valle. Mi corazón rebosaba de amor…»",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "Capítulo III",
+      "summary": "Empieza: «A las ocho fuimos al comedor, que estaba pintorescamente situado en la parte oriental de la casa. Desde él se veían las…»",
+      "start": 31,
+      "end": 47
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "Capítulo IV",
+      "summary": "Empieza: «Dormí tranquilo, como cuando me adormecía en la niñez uno de los maravillosos cuentos del esclavo Pedro.»",
+      "start": 48,
+      "end": 58
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "Capítulo V",
+      "summary": "Empieza: «Habían pasado tres días cuando me convidó mi padre a visitar sus haciendas del valle, y fue preciso complacerlo; por otra parte,…»",
+      "start": 59,
+      "end": 82
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "Capítulo VI",
+      "summary": "Empieza: «¿Qué había pasado en aquellos cuatro días en el alma de María?»",
+      "start": 83,
+      "end": 90
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "Capítulo VII",
+      "summary": "Empieza: «Cuando hizo mi padre el último viaje a las Antillas, Salomón, primo suyo a quien mucho había amado desde la niñez, acababa…»",
+      "start": 91,
+      "end": 100
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "Capítulo VIII",
+      "summary": "Empieza: «A prima noche llamó Emma a mi puerta para que fuera a la mesa. Me bañé el rostro para ocultar las huellas…»",
+      "start": 101,
+      "end": 105
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "Capítulo IX",
+      "summary": "Empieza: «Levantéme al día siguiente cuando amanecía. Los resplandores que delineaban hacia el Oriente las cúspides de la cordillera central, doraban en semicírculo…»",
+      "start": 106,
+      "end": 118
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "Capítulo X",
+      "summary": "Empieza: «A mi regreso, que hice lentamente, la imagen de María volvió a asirse a mi memoria. Aquellas soledades, sus bosques silenciosos, sus…»",
+      "start": 119,
+      "end": 122
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "Capítulo XI",
+      "summary": "Empieza: «Hice esfuerzos para mostrarme jovial durante el resto del día. En la mesa hablé con entusiasmo de las mujeres hermosas de Bogotá,…»",
+      "start": 123,
+      "end": 142
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "Capítulo XII",
+      "summary": "Empieza: «La luna, que acababa de elevarse llena y grande bajo un cielo profundo sobre las crestas altísimas de los montes, iluminaba las…»",
+      "start": 143,
+      "end": 151
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "Capítulo XIII",
+      "summary": "Empieza: «Las páginas de Chateaubriand iban lentamente dando tintas a la imaginación de María. Tan cristiana y llena de fe, se regocijaba al…»",
+      "start": 152,
+      "end": 155
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "Capítulo XIV",
+      "summary": "Empieza: «Pasados tres días, al bajar una tarde de la montaña, me pareció notar algún sobresalto en los semblantes de los criados con…»",
+      "start": 156,
+      "end": 164
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "Capítulo XV",
+      "summary": "Empieza: «Cuando salí al corredor que conducía a mi cuarto, un cierzo impetuoso columpiaba los sauces del patio; y al acercarme al huerto,…»",
+      "start": 165,
+      "end": 179
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "Capítulo XVI",
+      "summary": "Empieza: «En la tarde del mismo día se despidió de nosotros el doctor, después de dejar casi completamente restablecida a María y de…»",
+      "start": 180,
+      "end": 246
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "Capítulo XVII",
+      "summary": "Empieza: «Diez días habían pasado desde que tuvo lugar aquella penosa conferencia. No sintiéndome capaz de cumplir los deseos de mi padre sobre…»",
+      "start": 247,
+      "end": 285
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "Capítulo XVIII",
+      "summary": "Empieza: «Ya estaba yo listo para partir cuando Emma entró a mi cuarto. Extrañó verme con semblante risueño.»",
+      "start": 286,
+      "end": 327
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "Capítulo XIX",
+      "summary": "Empieza: «Había hecho yo algo más de una legua de camino, y bregaba ya por abrir la puerta de golpe que daba entrada…»",
+      "start": 328,
+      "end": 407
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "Capítulo XX",
+      "summary": "Empieza: «Mi madre y Emma salieron al corredor a recibirme. Mi padre había montado para ir a visitar los trabajos.»",
+      "start": 408,
+      "end": 468
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "Capítulo XXI",
+      "summary": "Empieza: «Al día siguiente al amanecer tomé el camino de la montaña, acompañado de Juan Ángel, que iba cargado con algunos regalos de…»",
+      "start": 469,
+      "end": 605
+    },
+    {
+      "slug": "capitulo-22",
+      "title": "Capítulo XXII",
+      "summary": "Empieza: «Las instancias de los montañeses me hicieron permanecer con ellos hasta las cuatro de la tarde, hora en que después de larguísimas…»",
+      "start": 606,
+      "end": 731
+    },
+    {
+      "slug": "capitulo-23",
+      "title": "Capítulo XXIII",
+      "summary": "Empieza: «Carlos y yo nos presentamos en el comedor. Los asientos estaban distribuidos así: presidía mi padre la mesa; a su izquierda acababa…»",
+      "start": 732,
+      "end": 788
+    },
+    {
+      "slug": "capitulo-24",
+      "title": "Capítulo XXIV",
+      "summary": "Empieza: «Llegó la hora de retirarnos, y temiendo yo que me hubiesen preparado cama en el mismo cuarto que a Carlos, me dirigí…»",
+      "start": 789,
+      "end": 803
+    },
+    {
+      "slug": "capitulo-25",
+      "title": "Capítulo XXV",
+      "summary": "Empieza: «Despertóme al amanecer el cuchicheo de los niños, que en vano se estimulaban a respetar mi sueño. Las palomas cogidas en esos…»",
+      "start": 804,
+      "end": 917
+    },
+    {
+      "slug": "capitulo-26",
+      "title": "Capítulo XXVI",
+      "summary": "Empieza: «Impuesta mi madre de nuestro proyecto de caza, hizo que se nos sirviera temprano el almuerzo a Carlos, a Braulio y a…»",
+      "start": 918,
+      "end": 960
+    },
+    {
+      "slug": "capitulo-27",
+      "title": "Capítulo XXVII",
+      "summary": "Empieza: «Hasta entonces había conseguido que Carlos no me hiciera confidencia alguna sobre las pretensiones que en mala hora para él lo habían…»",
+      "start": 961,
+      "end": 1038
+    },
+    {
+      "slug": "capitulo-28",
+      "title": "Capítulo XXVIII",
+      "summary": "Empieza: «Aquella tarde, antes de que se levantasen las señoras a preparar el café, como lo hacían siempre que había extraños en casa,…»",
+      "start": 1039,
+      "end": 1106
+    },
+    {
+      "slug": "capitulo-29",
+      "title": "Capítulo XXIX",
+      "summary": "Empieza: «La llegada de los correos y la visita de los señores de M*** habían aglomerado quehaceres en el escritorio de mi padre.…»",
+      "start": 1107,
+      "end": 1170
+    },
+    {
+      "slug": "capitulo-30",
+      "title": "Capítulo XXX",
+      "summary": "Empieza: «En la mañana siguiente, mi padre dictaba y yo escribía, mientras él se afeitaba, operación que nunca interrumpía los trabajos empezados, no…»",
+      "start": 1171,
+      "end": 1205
+    },
+    {
+      "slug": "capitulo-31",
+      "title": "Capítulo XXXI",
+      "summary": "Empieza: «Serían las once. Terminado el trabajo, estaba yo acodado en la ventana de mi cuarto.»",
+      "start": 1206,
+      "end": 1314
+    },
+    {
+      "slug": "capitulo-32",
+      "title": "Capítulo XXXII",
+      "summary": "Empieza: «En la mañana siguiente tuve que hacer un esfuerzo para que mi padre no comprendiese lo penoso que me era acompañarlo en…»",
+      "start": 1315,
+      "end": 1360
+    },
+    {
+      "slug": "capitulo-33",
+      "title": "Capítulo XXXIII",
+      "summary": "Empieza: «Los soles de siete días se habían apagado sobre nosotros, y altas horas de sus noches nos sorprendieron trabajando. En la última,…»",
+      "start": 1361,
+      "end": 1398
+    },
+    {
+      "slug": "capitulo-34",
+      "title": "Capítulo XXXIV",
+      "summary": "Empieza: «No todas las personas que nos aguardaban estaban en el corredor: no descubrí entre ellas a María. Algunas cuadras antes de llegar…»",
+      "start": 1399,
+      "end": 1465
+    },
+    {
+      "slug": "capitulo-35",
+      "title": "Capítulo XXXV",
+      "summary": "Empieza: «El día siguiente, doce de diciembre, debía verificarse el matrimonio de Tránsito. Después de nuestra llegada se mandó decir a José que…»",
+      "start": 1466,
+      "end": 1642
+    },
+    {
+      "slug": "capitulo-36",
+      "title": "Capítulo XXXVI",
+      "summary": "Empieza: «Habíamos llegado. Extrañé ver cerradas las ventanas del aposento de mi madre. Le había ayudado a ella a apearse y estaba haciendo…»",
+      "start": 1643,
+      "end": 1746
+    },
+    {
+      "slug": "capitulo-37",
+      "title": "Capítulo XXXVII",
+      "summary": "Empieza: «Después de tres días, la fiebre resistía aún a todos los esfuerzos del médico para combatirla: los síntomas eran tan alarmantes que…»",
+      "start": 1747,
+      "end": 1852
+    },
+    {
+      "slug": "capitulo-38",
+      "title": "Capítulo XXXVIII",
+      "summary": "Empieza: «Pasados diez días, mi padre estaba convaleciente, y la alegría había vuelto a nuestra casa. Cuando una enfermedad nos ha hecho temer…»",
+      "start": 1853,
+      "end": 1908
+    },
+    {
+      "slug": "capitulo-39",
+      "title": "Capítulo XXXIX",
+      "summary": "Empieza: «A las ocho sonó la campanilla del comedor; pero no me consideré con la serenidad necesaria para estar cerca de María después…»",
+      "start": 1909,
+      "end": 1962
+    },
+    {
+      "slug": "capitulo-40",
+      "title": "Capítulo XL",
+      "summary": "Empieza: «Cuando llegué a las haciendas en la mañana del día siguiente, encontré en la casa de habitación al médico que reemplazaba a…»",
+      "start": 1963,
+      "end": 2026
+    },
+    {
+      "slug": "capitulo-41",
+      "title": "Capítulo XLI",
+      "summary": "Empieza: «Poco menos que dos semanas habían pasado desde la llegada del sacerdote francés al país de los Kombu-Manez. Sea porque solamente Sinar…»",
+      "start": 2027,
+      "end": 2048
+    },
+    {
+      "slug": "capitulo-42",
+      "title": "Capítulo XLII",
+      "summary": "Empieza: «Al amanecer del día en que el jefe de los Kombu-Manez había ordenado se diera principio a las pomposas fiestas que se…»",
+      "start": 2049,
+      "end": 2082
+    },
+    {
+      "slug": "capitulo-43",
+      "title": "Capítulo XLIII",
+      "summary": "Empieza: «Explotábanse en aquel tiempo muchas minas de oro en el Chocó; y si se tiene en cuenta el rudimental sistema empleado para…»",
+      "start": 2083,
+      "end": 2120
+    },
+    {
+      "slug": "capitulo-44",
+      "title": "Capítulo XLIV",
+      "summary": "Empieza: «El cura había administrado los sacramentos a la enferma. Dejando el médico a la cabecera, monté para ir al pueblo a disponer…»",
+      "start": 2121,
+      "end": 2156
+    },
+    {
+      "slug": "capitulo-45",
+      "title": "Capítulo XLV",
+      "summary": "Empieza: «Pasados unos días, empezó a calmarse el pesar que la muerte de Feliciana había causado en los ánimos de mi madre, Emma…»",
+      "start": 2157,
+      "end": 2218
+    },
+    {
+      "slug": "capitulo-46",
+      "title": "Capítulo XLVI",
+      "summary": "Empieza: «A las doce del día siguiente bajé de la montaña. El sol, desde el cenit, sin nubes que lo estorbaran, lanzaba viva…»",
+      "start": 2219,
+      "end": 2291
+    },
+    {
+      "slug": "capitulo-47",
+      "title": "Capítulo XLVII",
+      "summary": "Empieza: «Mi padre había resuelto ir a la ciudad antes de mi partida, tanto porque los negocios lo exigían urgentemente como para tomarse…»",
+      "start": 2292,
+      "end": 2341
+    },
+    {
+      "slug": "capitulo-48",
+      "title": "Capítulo XLVIII",
+      "summary": "Empieza: «A las siete de la mañana siguiente ya había salido de casa el equipaje de mi padre, y él y yo tomábamos…»",
+      "start": 2342,
+      "end": 2484
+    },
+    {
+      "slug": "capitulo-49",
+      "title": "Capítulo XLIX",
+      "summary": "Empieza: «Salíamos del patio por detrás de la cocina cuando mi comadre nos gritaba:»",
+      "start": 2485,
+      "end": 2649
+    },
+    {
+      "slug": "capitulo-50",
+      "title": "Capítulo L",
+      "summary": "Empieza: «El reloj del salón daba las cinco. Mi madre y Emma me esperaban paseándose en el corredor. María estaba sentada en los…»",
+      "start": 2650,
+      "end": 2685
+    },
+    {
+      "slug": "capitulo-51",
+      "title": "Capítulo LI",
+      "summary": "Empieza: «El veintiocho de enero, dos días antes del señalado para mi viaje, subí a la montaña muy temprano. Braulio había venido a…»",
+      "start": 2686,
+      "end": 2725
+    },
+    {
+      "slug": "capitulo-52",
+      "title": "Capítulo LII",
+      "summary": "Empieza: «Descendía lentamente hasta el fondo de la cañada: sólo el canto lejano de las gurríes y el rumor del río turbaban el…»",
+      "start": 2726,
+      "end": 2792
+    },
+    {
+      "slug": "capitulo-53",
+      "title": "Capítulo LIII",
+      "summary": "Empieza: «A las once de la noche del veintinueve me separé de la familia y de María en el salón. Velé en mi…»",
+      "start": 2793,
+      "end": 2804
+    },
+    {
+      "slug": "capitulo-54",
+      "title": "Capítulo LIV",
+      "summary": "Empieza: «Hacía dos semanas que estaba yo en Londres, y una noche recibí cartas de la familia. Rompí con mano trémula el paquete,…»",
+      "start": 2805,
+      "end": 2814
+    },
+    {
+      "slug": "capitulo-55",
+      "title": "Capítulo LV",
+      "summary": "Empieza: «Durante un año tuve dos veces cada mes cartas de María. Las últimas estaban llenas de una melancolía tan profunda que, comparadas…»",
+      "start": 2815,
+      "end": 2838
+    },
+    {
+      "slug": "capitulo-56",
+      "title": "Capítulo LVI",
+      "summary": "Empieza: «Hundíase en los confines nebulosos del Pacífico el sol del veinticinco de julio, llenando el horizonte de resplandores de oro y rubí;…»",
+      "start": 2839,
+      "end": 2896
+    },
+    {
+      "slug": "capitulo-57",
+      "title": "Capítulo LVII",
+      "summary": "Empieza: «A las cuatro llamó el buen amigo a mi puerta, y hacía una hora que lo esperaba yo, listo ya para marchar.…»",
+      "start": 2897,
+      "end": 2994
+    },
+    {
+      "slug": "capitulo-58",
+      "title": "Capítulo LVIII",
+      "summary": "Empieza: «Lorenzo me llamó a la madrugada: vio mi reloj y eran las tres. A favor de la luna, la noche parecía un…»",
+      "start": 2995,
+      "end": 3027
+    },
+    {
+      "slug": "capitulo-59",
+      "title": "Capítulo LIX",
+      "summary": "Empieza: «Al sentarnos a la mesa manifesté a D*** que deseaba continuar el viaje la misma tarde si era posible, suplicándole venciese inconvenientes.…»",
+      "start": 3028,
+      "end": 3064
+    },
+    {
+      "slug": "capitulo-60",
+      "title": "Capítulo LX",
+      "summary": "Empieza: «Al día siguiente a las cuatro de la tarde llegué al alto de las Cruces. Apeéme para pisar aquel suelo desde donde…»",
+      "start": 3065,
+      "end": 3086
+    },
+    {
+      "slug": "capitulo-61",
+      "title": "Capítulo LXI",
+      "summary": "Empieza: «Me fue imposible darme cuenta de lo que por mí había pasado, una noche que desperté en un lecho rodeado de personas…»",
+      "start": 3087,
+      "end": 3099
+    },
+    {
+      "slug": "capitulo-62",
+      "title": "Capítulo LXII",
+      "summary": "Empieza: «Tres semanas habían corrido desde mi regreso, durante las cuales me detuvieron a su lado Emma y mi madre aconsejadas por el…»",
+      "start": 3100,
+      "end": 3148
+    },
+    {
+      "slug": "capitulo-63",
+      "title": "Capítulo LXIII",
+      "summary": "Empieza: «Dos meses después de la muerte de María, el diez de setiembre, oía yo a Emma el final de aquella relación que…»",
+      "start": 3149,
+      "end": 3167
+    },
+    {
+      "slug": "capitulo-64",
+      "title": "Capítulo LXIV",
+      "summary": "Empieza: «¡Inolvidable y última noche pasada en el hogar donde corrieron los años de mi niñez y los días felices de mi juventud!…»",
+      "start": 3168,
+      "end": 3173
+    },
+    {
+      "slug": "capitulo-65",
+      "title": "Capítulo LXV",
+      "summary": "Empieza: «En la tarde de ese día, durante el cual había visitado yo todos los sitios que me eran queridos, y que no…»",
+      "start": 3174,
+      "end": 3184
+    }
+  ],
+  "description": "María de Jorge Isaacs: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre el primer amor y la pérdida.",
+  "intro": "<p>Efraín vuelve a la hacienda familiar del valle del Cauca, en Colombia, después de estudiar seis años en Bogotá. Allí reencuentra a su prima María, huérfana criada por sus padres, y entre los dos nace un amor delicado, hecho de miradas, flores y paseos por los campos. La felicidad se ve amenazada cuando María sufre un ataque de la misma enfermedad que mató a su madre.</p><p>Aquí puedes leer María completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 24
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "el primer amor y la pérdida",
+    "resumen": [
+      "Efraín vuelve a la hacienda familiar del valle del Cauca, en Colombia, después de estudiar seis años en Bogotá. Allí reencuentra a su prima María, huérfana criada por sus padres, y entre los dos nace un amor delicado, hecho de miradas, flores y paseos por los campos. La felicidad se ve amenazada cuando María sufre un ataque de la misma enfermedad que mató a su madre.",
+      "El padre de Efraín decide enviarlo a estudiar medicina a Londres y le pide que espere para casarse. Las cartas cruzan el océano mientras la salud de María empeora. Cuando por fin lo llaman para que regrese, Efraín llega tarde: María ha muerto. La novela, contada como un recuerdo, es la obra cumbre del romanticismo hispanoamericano."
+    ],
+    "personajes": [
+      [
+        "Efraín",
+        "Narrador y protagonista, joven sensible que recuerda su amor de juventud."
+      ],
+      [
+        "María",
+        "Prima de Efraín, de origen judío, dulce y frágil, enferma de epilepsia."
+      ],
+      [
+        "El padre de Efraín",
+        "Hacendado que antepone el porvenir de su hijo a su felicidad inmediata."
+      ],
+      [
+        "Emma",
+        "Hermana de Efraín y confidente de María."
+      ],
+      [
+        "Carlos",
+        "Amigo de Efraín que pide la mano de María."
+      ],
+      [
+        "Tránsito y Braulio",
+        "Pareja campesina cuyo amor sencillo contrasta con el de los protagonistas."
+      ]
+    ],
+    "ideas": [
+      "El amor idealizado y la fatalidad propios del romanticismo.",
+      "La naturaleza del valle del Cauca como reflejo de los sentimientos.",
+      "La memoria y la nostalgia: la historia se cuenta desde la pérdida.",
+      "El presagio: el ave negra anuncia la desgracia."
+    ],
+    "faq": [
+      [
+        "¿De qué trata María de Jorge Isaacs?",
+        "Del amor entre Efraín y su prima María en una hacienda del valle del Cauca. Él viaja a Londres a estudiar medicina y, cuando regresa, ella ya ha muerto de su enfermedad."
+      ],
+      [
+        "¿De qué muere María?",
+        "De una enfermedad nerviosa, descrita como epilepsia, que había heredado de su madre."
+      ],
+      [
+        "¿Qué significa el ave negra en María?",
+        "Es un presagio de la desgracia que aparece en los momentos clave de la novela."
+      ],
+      [
+        "¿Cuándo se publicó María?",
+        "En 1867, en Bogotá."
+      ]
+    ]
+  }
+}

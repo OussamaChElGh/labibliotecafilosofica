@@ -66,7 +66,7 @@ def upgrade(route, data, document):
         document = re.sub(r'<a class="back-link" href="[^"]*">[^<]*</a>',
                           f'<a class="back-link" href="{data["ruta_autor"]}">← Más libros de {esc(author)}</a>', document, count=1)
     context = f'{data["genero"]} · {data["año"]}. Sobre {data["tema"]}.'
-    document = re.sub(r'<p class="eyebrow">Ficha de libro[^<]*</p><h1>.*?</h1>',
+    document = re.sub(r'<p class="eyebrow">(?:Ficha de libro|La Biblioteca · Lecturas e ideas)[^<]*</p><h1>.*?</h1>',
                       f'<p class="eyebrow">Ficha de libro · {esc(author)}</p><h1>{esc(name)}</h1>'
                       f'<!--ficha-v2--><p class="book-context">{esc(context)}</p><!--/ficha-v2-->', document, count=1, flags=re.S)
     document = re.sub(r'<a class="button" href="#texto-obra">Leer sobre la obra ↓</a>',
@@ -114,7 +114,8 @@ def upgrade(route, data, document):
     if "/lector-libro.css" not in document:
         document = document.replace("</head>", '<link rel="stylesheet" href="/lector-libro.css"></head>', 1)
     if MARK not in document:
-        document = document.replace('<article class="reading reader-v2 reader-book"', f'<article {MARK} class="reading reader-v2 reader-book guide book-ficha"', 1)
+        document = re.sub(r'<article class="reading reader-v2 (reader-book|reader-article)"',
+                          rf'<article {MARK} class="reading reader-v2 \1 guide book-ficha"', document, count=1)
     return document
 
 

@@ -1,0 +1,112 @@
+{
+  "slug": "pepita-jimenez-juan-valera",
+  "title": "Pepita Jiménez",
+  "author": "Juan Valera",
+  "author_route": "",
+  "book_route": "/pepita-jimenez-juan-valera/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Pepita_Jim%C3%A9nez",
+  "source_revision": 1565482,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "introduccion",
+      "title": "Introducción",
+      "summary": "Empieza: «Nescit labi virtus.»",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "slug": "cartas-de-mi-sobrino",
+      "title": "Cartas de mi sobrino",
+      "summary": "Empieza: «I -»",
+      "start": 9,
+      "end": 393
+    },
+    {
+      "slug": "paralipomenos",
+      "title": "Paralipómenos",
+      "summary": "Empieza: «No hay más cartas de D. Luis de Vargas que las que hemos transcrito. Nos quedaríamos, pues, sin averiguar el término que…»",
+      "start": 394,
+      "end": 804
+    },
+    {
+      "slug": "epilogo",
+      "title": "Epílogo: cartas de mi hermano",
+      "summary": "Empieza: «La historia de Pepita y Luisito debiera terminar aquí. Este epílogo está de sobra; pero el señor deán le tenía en el…»",
+      "start": 805,
+      "end": 832
+    }
+  ],
+  "skip": [
+    10
+  ],
+  "description": "Pepita Jiménez de Juan Valera: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre la vocación religiosa y el amor.",
+  "intro": "<p>Luis de Vargas, un joven seminarista a punto de ordenarse sacerdote, pasa unas semanas en su pueblo andaluz con su padre, don Pedro. En cartas a su tío, el deán, cuenta la vida del lugar y habla cada vez más de Pepita Jiménez, una viuda joven, rica y discreta a la que su propio padre pretende.</p><p>Aquí puedes leer Pepita Jiménez completo, dividido en partes. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 26
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "partes",
+    "tema": "la vocación religiosa y el amor",
+    "resumen": [
+      "Luis de Vargas, un joven seminarista a punto de ordenarse sacerdote, pasa unas semanas en su pueblo andaluz con su padre, don Pedro. En cartas a su tío, el deán, cuenta la vida del lugar y habla cada vez más de Pepita Jiménez, una viuda joven, rica y discreta a la que su propio padre pretende.",
+      "Las cartas muestran, a veces sin que él lo advierta, cómo Luis se enamora de Pepita y lucha entre su vocación mística y el amor. Con la ayuda de la criada Antoñona, los dos jóvenes se encuentran; Luis se bate en duelo con el conde de Genazahar, que había ofendido a Pepita, y acaba renunciando al sacerdocio para casarse con ella, con la bendición de don Pedro. Valera escribe con ironía y elegancia una de las mejores novelas psicológicas del siglo XIX."
+    ],
+    "personajes": [
+      [
+        "Luis de Vargas",
+        "Seminarista de veintidós años, idealista, que descubre el amor."
+      ],
+      [
+        "Pepita Jiménez",
+        "Viuda de veinte años, hermosa, inteligente y respetada en el pueblo."
+      ],
+      [
+        "Don Pedro de Vargas",
+        "Padre de Luis, cacique del lugar y pretendiente de Pepita."
+      ],
+      [
+        "El deán",
+        "Tío de Luis, destinatario de sus cartas y narrador de la segunda parte."
+      ],
+      [
+        "Antoñona",
+        "Antigua nodriza y criada de Pepita, astuta y decidida."
+      ],
+      [
+        "El conde de Genazahar",
+        "Pretendiente despechado de Pepita."
+      ]
+    ],
+    "ideas": [
+      "El conflicto entre el amor divino y el amor humano.",
+      "El autoengaño: Luis se cuenta a sí mismo una vocación que no siente.",
+      "La novela epistolar como retrato psicológico.",
+      "La ironía y el humor de Valera frente al dramatismo romántico."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Pepita Jiménez?",
+        "De Luis de Vargas, un seminarista que, de visita en su pueblo, se enamora de la joven viuda Pepita Jiménez, pretendida por su padre. Al final deja el sacerdocio y se casa con ella."
+      ],
+      [
+        "¿Cómo está estructurada Pepita Jiménez?",
+        "En tres partes: las cartas de Luis a su tío el deán, un relato llamado Paralipómenos y un epílogo con cartas de don Pedro."
+      ],
+      [
+        "¿Termina bien Pepita Jiménez?",
+        "Sí. Luis y Pepita se casan y viven felices, y don Pedro acepta el matrimonio."
+      ],
+      [
+        "¿Cuándo se publicó Pepita Jiménez?",
+        "En 1874."
+      ]
+    ]
+  }
+}

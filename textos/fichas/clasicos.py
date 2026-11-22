@@ -178,7 +178,7 @@ BOOKS = {
                 ("¿Cuándo se publicó Ariel?", "En 1900, en Montevideo.")],
     },
     "pepita-jimenez-juan-valera": {
-        "color": "ocre", "genero": "Novela", "tema": "la vocación religiosa y el amor",
+        "color": "ocre", "genero": "Novela", "unidad": "partes", "tema": "la vocación religiosa y el amor",
         "resumen": [
             "Luis de Vargas, un joven seminarista a punto de ordenarse sacerdote, pasa unas semanas en su pueblo andaluz con su padre, don Pedro. En cartas a su tío, el deán, cuenta la vida del lugar y habla cada vez más de Pepita Jiménez, una viuda joven, rica y discreta a la que su propio padre pretende.",
             "Las cartas muestran, a veces sin que él lo advierta, cómo Luis se enamora de Pepita y lucha entre su vocación mística y el amor. Con la ayuda de la criada Antoñona, los dos jóvenes se encuentran; Luis se bate en duelo con el conde de Genazahar, que había ofendido a Pepita, y acaba renunciando al sacerdocio para casarse con ella, con la bendición de don Pedro. Valera escribe con ironía y elegancia una de las mejores novelas psicológicas del siglo XIX.",

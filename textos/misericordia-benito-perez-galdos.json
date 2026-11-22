@@ -13,291 +13,356 @@
   "speakers": {},
   "chapters": [
     {
-      "slug": "i",
+      "slug": "capitulo-1",
       "title": "Capítulo I",
-      "summary": "",
+      "summary": "Empieza: «Dos caras, como algunas personas, tiene la parroquia de San Sebastián... mejor será decir la iglesia... dos caras que seguramente son más…»",
       "start": 0,
       "end": 10
     },
     {
-      "slug": "ii",
+      "slug": "capitulo-2",
       "title": "Capítulo II",
-      "summary": "",
+      "summary": "Empieza: «Tomada el agua bendita, don Carlos Moreno Trujillo se dirigió a la capilla de Nuestra Señora de la Blanca. Era hombre tan…»",
       "start": 11,
       "end": 33
     },
     {
-      "slug": "iii",
+      "slug": "capitulo-3",
       "title": "Capítulo III",
-      "summary": "",
+      "summary": "Empieza: «Más adentro, como a la mitad del pasadizo, a la izquierda, había otro grupo, compuesto de un ciego, sentado; una mujer, también…»",
       "start": 34,
       "end": 86
     },
     {
-      "slug": "iv",
+      "slug": "capitulo-4",
       "title": "Capítulo IV",
-      "summary": "",
+      "summary": "Empieza: «¡María Santísima, San José bendito, qué comentarios, qué febril curiosidad, qué ansia de investigar y sorprender los propósitos del buen D. Carlos!…»",
       "start": 87,
       "end": 123
     },
     {
-      "slug": "v",
+      "slug": "capitulo-5",
       "title": "Capítulo V",
-      "summary": "",
+      "summary": "Empieza: «Esto pensaba, cuando Almudena, volviendo de una meditación calculista, que debía de ser muy triste por la cara que ponía, te dijo:»",
       "start": 124,
       "end": 166
     },
     {
-      "slug": "vi",
+      "slug": "capitulo-6",
       "title": "Capítulo VI",
-      "summary": "",
+      "summary": "Empieza: «Casi no es hipérbole decir que la señáBenina, al salir de Santa Casilda, poseyendo el incompleto duro que calmaba sus mortales angustias,…»",
       "start": 167,
       "end": 218
     },
     {
-      "slug": "vii",
+      "slug": "capitulo-7",
       "title": "Capítulo VII",
-      "summary": "",
+      "summary": "Empieza: «Ya pasaba de los sesenta la por tantos títulos infeliz Doña Francisca Juárez de Zapata, conocida en los años de aquella su…»",
       "start": 219,
       "end": 229
     },
     {
-      "slug": "viii",
+      "slug": "capitulo-8",
       "title": "Capítulo VIII",
-      "summary": "",
+      "summary": "Empieza: «Tantas desdichas, parecerá mentira, no eran más que el preámbulo del infortunio grande, aterrador, en que el infeliz linaje de los Juárez…»",
       "start": 230,
       "end": 240
     },
     {
-      "slug": "ix",
+      "slug": "capitulo-9",
       "title": "Capítulo IX",
-      "summary": "",
+      "summary": "Empieza: «No se había consolado aún la desventurada señora de la pena que el desatino de su hija le causara, y se pasaba…»",
       "start": 241,
       "end": 251
     },
     {
-      "slug": "x",
+      "slug": "capitulo-10",
       "title": "Capítulo X",
-      "summary": "",
+      "summary": "Empieza: «Pues señor, atando ahora el cabo de esta narración, sigo diciendo que aquel día comió la señora con buen apetito, y mientras…»",
       "start": 252,
       "end": 309
     },
     {
-      "slug": "xi",
+      "slug": "capitulo-11",
       "title": "Capítulo XI",
-      "summary": "",
+      "summary": "Empieza: «No le he dicho eso, señora, ni había para qué -replicó Benina, viendo que Doña Francisca se excitaba demasiado, y que toda…»",
       "start": 310,
       "end": 362
     },
     {
-      "slug": "xii",
+      "slug": "capitulo-12",
       "title": "Capítulo XII",
-      "summary": "",
+      "summary": "Empieza: ««El demontre del viejo -se decía la señáBenina, metiéndose a buen andar por la calle de las Urosas-, no puede hacer más…»",
       "start": 363,
       "end": 425
     },
     {
-      "slug": "xiii",
+      "slug": "capitulo-13",
       "title": "Capítulo XIII",
-      "summary": "",
+      "summary": "Empieza: «No había acabado el marroquí su oriental leyenda, cuando Benina vio entrar en el café a una mujer vestida de negro. «Ahí…»",
       "start": 426,
       "end": 468
     },
     {
-      "slug": "xiv",
+      "slug": "capitulo-14",
       "title": "Capítulo XIV",
-      "summary": "",
+      "summary": "Empieza: ««¿Pero tú ves algo, Almudena? -le preguntóCuarto e kilo.»",
       "start": 469,
       "end": 506
     },
     {
-      "slug": "xv",
+      "slug": "capitulo-15",
       "title": "Capítulo XV",
-      "summary": "",
+      "summary": "Empieza: «El largo descanso en el café le permitió recorrer como una exhalación la distancia entre el Rastro y la calle de la…»",
       "start": 507,
       "end": 530
     },
     {
-      "slug": "xvi",
+      "slug": "capitulo-16",
       "title": "Capítulo XVI",
-      "summary": "",
+      "summary": "Empieza: «Del arte exquisito para conservar la ropa no hablemos. Nadie como él sabía encontrar en excéntricos portales sastres económicos, que por poquísimo…»",
       "start": 531,
       "end": 537
     },
     {
-      "slug": "xvii",
+      "slug": "capitulo-17",
       "title": "Capítulo XVII",
-      "summary": "",
+      "summary": "Empieza: «Con el espantoso desequilibrio que trajeron al menguado presupuesto, las botas nuevas y otros artículos de verdadera superfluidad, como pomada, tarjetas, etc.,…»",
       "start": 538,
       "end": 563
     },
     {
-      "slug": "xviii",
+      "slug": "capitulo-18",
       "title": "Capítulo XVIII",
-      "summary": "",
+      "summary": "Empieza: «Con la reparadora substancia del almuerzo, los cuerpos parecía que resucitaban, y los espíritus fortalecidos levantaron el vuelo a las más altas…»",
       "start": 564,
       "end": 617
     },
     {
-      "slug": "xix",
+      "slug": "capitulo-19",
       "title": "Capítulo XIX",
-      "summary": "",
+      "summary": "Empieza: ««Sí, D. Frasco -le dijo codeándose con él en la calle de San Pedro Mártir-. Usted no tiene confianza conmigo, y debe…»",
       "start": 618,
       "end": 663
     },
     {
-      "slug": "xx",
+      "slug": "capitulo-20",
       "title": "Capítulo XX",
-      "summary": "",
+      "summary": "Empieza: «De tal modo se posesionaron de su espíritu la idea y las imágenes expresadas por el ciego africano, que a punto estuvo…»",
       "start": 664,
       "end": 682
     },
     {
-      "slug": "xxi",
+      "slug": "capitulo-21",
       "title": "Capítulo XXI",
-      "summary": "",
+      "summary": "Empieza: «La dueña del establecimiento brillaba por su ausencia. Fue recibida Benina por la encargada, y por un hombre llamado Prieto, que disfrutaba…»",
       "start": 683,
       "end": 735
     },
     {
-      "slug": "xxii",
+      "slug": "capitulo-22",
       "title": "Capítulo XXII",
-      "summary": "",
+      "summary": "Empieza: «A poco de volver las dos mujeres al lado del desmayado Frasquito, entró el Comadreja, que era un mocetón achulado, de buen…»",
       "start": 736,
       "end": 806
     },
     {
-      "slug": "xxiii",
+      "slug": "capitulo-23",
       "title": "Capítulo XXIII",
-      "summary": "",
+      "summary": "Empieza: «Todo iba bien a la mañana siguiente: Don Frasquito mejorando de hora en hora, y con las entendederas en estado de mediana…»",
       "start": 807,
       "end": 844
     },
     {
-      "slug": "xxiv",
+      "slug": "capitulo-24",
       "title": "Capítulo XXIV",
-      "summary": "",
+      "summary": "Empieza: «Después de revolcarse en el suelo con epiléptica contracción de brazos y piernas, y de golpearse la cara y tirarse de los…»",
       "start": 845,
       "end": 893
     },
     {
-      "slug": "xxv",
+      "slug": "capitulo-25",
       "title": "Capítulo XXV",
-      "summary": "",
+      "summary": "Empieza: «No desistía el apasionado marroquí de ganar la voluntad de la dama (que así debemos llamarla en este caso, toda vez que…»",
       "start": 894,
       "end": 950
     },
     {
-      "slug": "xxvi",
+      "slug": "capitulo-26",
       "title": "Capítulo XXVI",
-      "summary": "",
+      "summary": "Empieza: ««Ja, ja... Di lo que quieras... -prosiguió Doña Paca-. ¿Te atreverías a decir algo ofensivo de mí? ¡Que no he sabido llevar…»",
       "start": 951,
       "end": 978
     },
     {
-      "slug": "xxvii",
+      "slug": "capitulo-27",
       "title": "Capítulo XXVII",
-      "summary": "",
+      "summary": "Empieza: «A la mañanita del siguiente día iba Benina camino de las Cambroneras, con su cesta al brazo, pensando, no sin inquietud, en…»",
       "start": 979,
       "end": 1018
     },
     {
-      "slug": "xxviii",
+      "slug": "capitulo-28",
       "title": "Capítulo XXVIII",
-      "summary": "",
+      "summary": "Empieza: «Encontrose a un anciano harapiento que solía pedir, con una niña en brazos, en el Oratorio del Olivar, el cual le contó…»",
       "start": 1019,
       "end": 1077
     },
     {
-      "slug": "xxix",
+      "slug": "capitulo-29",
       "title": "Capítulo XXIX",
-      "summary": "",
+      "summary": "Empieza: «Con todo su ingenio y travesura no pudo la anciana convencer al marroquí de la oportunidad de volverse al Madrid alto. «Y…»",
       "start": 1078,
       "end": 1098
     },
     {
-      "slug": "xxx",
+      "slug": "capitulo-30",
       "title": "Capítulo XXX",
-      "summary": "",
+      "summary": "Empieza: «Trepando difícilmente por el declive pedregoso, cayendo y levantándose a cada instante, cogidos del brazo, las cabezas gachas, huían del formidable tiroteo.…»",
       "start": 1099,
       "end": 1120
     },
     {
-      "slug": "xxxi",
+      "slug": "capitulo-31",
       "title": "Capítulo XXXI",
-      "summary": "",
+      "summary": "Empieza: «Repuesto de su herida el ciego moro, volvió a pedir, a instancias de su amiga, pues no estaban los tiempos para pasarse…»",
       "start": 1121,
       "end": 1140
     },
     {
-      "slug": "xxxii",
+      "slug": "capitulo-32",
       "title": "Capítulo XXXII",
-      "summary": "",
+      "summary": "Empieza: «Aunque Nina no lo pensara y dijera, bien se comprenderá que el desasosiego y consternación de Doña Paca en aquella triste noche…»",
       "start": 1141,
       "end": 1186
     },
     {
-      "slug": "xxxiii",
+      "slug": "capitulo-33",
       "title": "Capítulo XXXIII",
-      "summary": "",
+      "summary": "Empieza: «Acudió el propio Frasquito con el socorro del agua, y D. Romualdo, en cuanto la señora bebió y se repuso de su…»",
       "start": 1187,
       "end": 1249
     },
     {
-      "slug": "xxxiv",
+      "slug": "capitulo-34",
       "title": "Capítulo XXXIV",
-      "summary": "",
+      "summary": "Empieza: «Gracias a los cuidados de Doña Paca, asistida de las chicas de la cordonera, pronto se repuso Ponte de aquella nueva manifestación…»",
       "start": 1250,
       "end": 1267
     },
     {
-      "slug": "xxxv",
+      "slug": "capitulo-35",
       "title": "Capítulo XXXV",
-      "summary": "",
+      "summary": "Empieza: «Sentía Ponte Delgado vivas ganas de pedir explicaciones al tipo aquel por su mirar impertinente. La causa de este no podía ser…»",
       "start": 1268,
       "end": 1343
     },
     {
-      "slug": "xxxvi",
+      "slug": "capitulo-36",
       "title": "Capítulo XXXVI",
-      "summary": "",
+      "summary": "Empieza: «No se consolaba Doña Paca de la ausencia de Nina, ni aun viéndose rodeada de sus hijos, que fueron a participar de…»",
       "start": 1344,
       "end": 1381
     },
     {
-      "slug": "xxxvii",
+      "slug": "capitulo-37",
       "title": "Capítulo XXXVII",
-      "summary": "",
+      "summary": "Empieza: «No queriendo ser Obdulia inferior a su cuñada, ni aparecer en la casa con menos autoridad y mangoneo que la intrusa chulita,…»",
       "start": 1382,
       "end": 1391
     },
     {
-      "slug": "xxxviii",
+      "slug": "capitulo-38",
       "title": "Capítulo XXXVIII",
-      "summary": "",
+      "summary": "Empieza: «Temblorosa llegó a la calle Imperial, y habiendo mandado al moro que se arrimara a la pared y la esperase allí, mientras…»",
       "start": 1392,
       "end": 1441
     },
     {
-      "slug": "xxxix",
+      "slug": "capitulo-39",
       "title": "Capítulo XXXIX",
-      "summary": "",
+      "summary": "Empieza: «Dicho lo que antecede, se limpió las lágrimas con mano temblorosa, y pensó en tomar las resoluciones de orden práctico que las…»",
       "start": 1442,
       "end": 1483
     },
     {
-      "slug": "xl",
+      "slug": "capitulo-40",
       "title": "Capítulo XL",
-      "summary": "",
+      "summary": "Empieza: «Las adversidades se estrellaban ya en el corazón de Benina, como las vagas olas en el robusto cantil. Rompíanse con estruendo, se…»",
       "start": 1484,
       "end": 1509
     },
     {
       "slug": "final",
       "title": "Final",
-      "summary": "",
+      "summary": "Empieza: «Ejemplo de los admirables efectos de la voluntad humana en el gobierno de las grandes como de las pequeñas agrupaciones de seres,…»",
       "start": 1510,
       "end": 1537
     }
-  ]
+  ],
+  "description": "Misericordia de Benito Pérez Galdós: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre la caridad y la pobreza en el Madrid de fin de siglo.",
+  "intro": "<p>Benina es la criada de doña Francisca Juárez, una señora arruinada que no sabe vivir sin las apariencias de su antigua posición. Para que a su ama no le falte nada, Benina pide limosna a escondidas a la puerta de la iglesia de San Sebastián y le hace creer que trabaja para un sacerdote, don Romualdo. Entre los mendigos conoce a Almudena, un ciego de origen marroquí que la quiere con devoción.</p><p>Aquí puedes leer Misericordia completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 20
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "la caridad y la pobreza en el Madrid de fin de siglo",
+    "resumen": [
+      "Benina es la criada de doña Francisca Juárez, una señora arruinada que no sabe vivir sin las apariencias de su antigua posición. Para que a su ama no le falte nada, Benina pide limosna a escondidas a la puerta de la iglesia de San Sebastián y le hace creer que trabaja para un sacerdote, don Romualdo. Entre los mendigos conoce a Almudena, un ciego de origen marroquí que la quiere con devoción.",
+      "Galdós recorre el Madrid de los pobres con ternura y humor. Cuando a doña Paca le llega por sorpresa una herencia, la familia se avergüenza de Benina y la despide. Ella, sin rencor, se queda con Almudena y sigue ayudando a quien lo necesita. Su bondad sin cálculo hace de ella una de las grandes figuras de la novela española."
+    ],
+    "personajes": [
+      [
+        "Benina",
+        "Criada anciana, generosa y fantasiosa, que mendiga para sostener a su señora."
+      ],
+      [
+        "Doña Francisca (doña Paca)",
+        "Señora venida a menos, derrochadora y orgullosa."
+      ],
+      [
+        "Almudena",
+        "Mendigo ciego de origen marroquí, enamorado de Benina."
+      ],
+      [
+        "Obdulia",
+        "Hija soñadora de doña Paca, casada con un hombre que la abandonó."
+      ],
+      [
+        "Antoñito",
+        "Hijo de doña Paca, gandul y tramposo."
+      ],
+      [
+        "Juliana",
+        "Nuera de doña Paca, mujer dominante que acaba expulsando a Benina."
+      ]
+    ],
+    "ideas": [
+      "La caridad verdadera es la que se da sin esperar nada a cambio.",
+      "La pobreza vergonzante: quienes prefieren el hambre a perder las apariencias.",
+      "La imaginación como forma de sobrevivir: las mentiras piadosas de Benina.",
+      "La ingratitud de los que suben de posición."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Misericordia de Galdós?",
+        "De Benina, una criada que pide limosna a escondidas para mantener a su señora arruinada, doña Paca. Cuando la familia hereda, la despiden, pero ella responde con perdón."
+      ],
+      [
+        "¿Quién es don Romualdo en Misericordia?",
+        "El sacerdote que Benina inventa para justificar el dinero que trae a casa. En la novela aparece después un clérigo real con ese nombre, lo que da a la obra un toque de misterio."
+      ],
+      [
+        "¿Por qué se considera a Benina una santa laica?",
+        "Porque practica la caridad sin interés, perdona a quienes la tratan mal y se entrega a los más pobres. Galdós la presenta como ejemplo de bondad humana."
+      ],
+      [
+        "¿Cuándo se publicó Misericordia?",
+        "En 1897, dentro de la etapa espiritualista de Galdós."
+      ]
+    ]
+  }
 }

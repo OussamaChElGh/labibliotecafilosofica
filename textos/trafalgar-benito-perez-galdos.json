@@ -13,123 +13,188 @@
   "speakers": {},
   "chapters": [
     {
-      "slug": "1",
+      "slug": "capitulo-1",
       "title": "Capítulo 1",
-      "summary": "",
+      "summary": "Empieza: «Se me permitirá que antes de referir el gran suceso de que fui testigo, diga algunas palabras sobre mi infancia, explicando por…»",
       "start": 0,
       "end": 20
     },
     {
-      "slug": "2",
+      "slug": "capitulo-2",
       "title": "Capítulo 2",
-      "summary": "",
+      "summary": "Empieza: «En uno de los primeros días de Octubre de aquel año funesto (1805), mi noble amo me llamó a su cuarto, y…»",
       "start": 21,
       "end": 45
     },
     {
-      "slug": "3",
+      "slug": "capitulo-3",
       "title": "Capítulo 3",
-      "summary": "",
+      "summary": "Empieza: «D. Alonso Gutiérrez de Cisniega pertenecía a una antigua familia del mismo Vejer. Consagráronle a la carrera naval, y desde su juventud,…»",
       "start": 46,
       "end": 57
     },
     {
-      "slug": "4",
+      "slug": "capitulo-4",
       "title": "Capítulo 4",
-      "summary": "",
+      "summary": "Empieza: ««Señor Marcial —dijo ésta con redoblado furor: —si quiere usted ir a la escuadra a que le den la última mano, puede…»",
       "start": 58,
       "end": 115
     },
     {
-      "slug": "5",
+      "slug": "capitulo-5",
       "title": "Capítulo 5",
-      "summary": "",
+      "summary": "Empieza: «Para oponerse a la insensata determinación de su marido, Doña Francisca no se fundaba sólo en las razones anteriormente expuestas; tenía, además…»",
       "start": 116,
       "end": 139
     },
     {
-      "slug": "6",
+      "slug": "capitulo-6",
       "title": "Capítulo 6",
-      "summary": "",
+      "summary": "Empieza: «Recuerdo muy bien que al día siguiente de los pescozones que me aplicó D. Francisca, movida del espectáculo de mi irreverencia y…»",
       "start": 140,
       "end": 192
     },
     {
-      "slug": "7",
+      "slug": "capitulo-7",
       "title": "Capítulo 7",
-      "summary": "",
+      "summary": "Empieza: «A la mañana siguiente se me preparaba una gran sorpresa, y a mi ama el más fuerte berrinche que creo tuvo en…»",
       "start": 193,
       "end": 223
     },
     {
-      "slug": "8",
+      "slug": "capitulo-8",
       "title": "Capítulo 8",
-      "summary": "",
+      "summary": "Empieza: «No puedo describir el entusiasmo que despertó en mi alma la vuelta a Cádiz. En cuanto pude disponer de un rato de…»",
       "start": 224,
       "end": 263
     },
     {
-      "slug": "9",
+      "slug": "capitulo-9",
       "title": "Capítulo 9",
-      "summary": "",
+      "summary": "Empieza: «Octubre era el mes, y 18 el día. De esta fecha no me queda duda, porque al día siguiente salió la escuadra.…»",
       "start": 264,
       "end": 293
     },
     {
-      "slug": "10",
+      "slug": "capitulo-10",
       "title": "Capítulo 10",
-      "summary": "",
+      "summary": "Empieza: «Al amanecer del día 20, el viento soplaba con mucha fuerza, y por esta causa los navíos estaban muy distantes unos de…»",
       "start": 294,
       "end": 323
     },
     {
-      "slug": "11",
+      "slug": "capitulo-11",
       "title": "Capítulo 11",
-      "summary": "",
+      "summary": "Empieza: «Un navío de la retaguardia disparó el primer tiro contra el Royal Sovereign, que mandaba Collingwood. Mientras trababa combate con este el…»",
       "start": 324,
       "end": 374
     },
     {
-      "slug": "12",
+      "slug": "capitulo-12",
       "title": "Capítulo 12",
-      "summary": "",
+      "summary": "Empieza: «Cuando el espíritu, reposando de la agitación del combate, tuvo tiempo de dar paso a la compasión, al frío terror producido por…»",
       "start": 375,
       "end": 442
     },
     {
-      "slug": "13",
+      "slug": "capitulo-13",
       "title": "Capítulo 13",
-      "summary": "",
+      "summary": "Empieza: «La lancha se dirigió... ¿a dónde? Ni el mismo Marcial sabía a dónde nos dirigíamos. La obscuridad era tan fuerte, que perdimos…»",
       "start": 443,
       "end": 488
     },
     {
-      "slug": "14",
+      "slug": "capitulo-14",
       "title": "Capítulo 14",
-      "summary": "",
+      "summary": "Empieza: «Buena parte de la noche se pasó con la relación de Malespina y de otros oficiales. El interés de aquellas narraciones me…»",
       "start": 489,
       "end": 528
     },
     {
-      "slug": "15",
+      "slug": "capitulo-15",
       "title": "Capítulo 15",
-      "summary": "",
+      "summary": "Empieza: ««Hemos salido de Guatemala para entrar en Guatepeor -dijo Marcial cuando le pusieron sobre cubierta-. Pero donde manda capitán no manda marinero.…»",
       "start": 529,
       "end": 612
     },
     {
-      "slug": "16",
+      "slug": "capitulo-16",
       "title": "Capítulo 16",
-      "summary": "",
+      "summary": "Empieza: «Volvió, no sé cuándo, a iluminar turbiamente mi espíritu la noción de la vida; sentí un frío intensísimo, y sólo este accidente…»",
       "start": 613,
       "end": 644
     },
     {
-      "slug": "17",
+      "slug": "capitulo-17",
       "title": "Capítulo 17",
-      "summary": "",
+      "summary": "Empieza: «Traté de retardar el momento de presentarme a mi amo; pero, al fin, el hambre, la desnudez en que me hallaba y…»",
       "start": 645,
       "end": 671
     }
-  ]
+  ],
+  "description": "Trafalgar de Benito Pérez Galdós: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela histórica sobre la batalla de Trafalgar contada por un testigo.",
+  "intro": "<p>Gabriel Araceli, ya anciano, recuerda cómo de niño, huérfano y pícaro en Cádiz, entró a servir en casa de don Alonso Gutiérrez de Cisniega, un viejo marino retirado. En 1805, contra la voluntad de su esposa doña Francisca, don Alonso decide embarcarse con la escuadra hispano-francesa acompañado de Marcial, un marinero mutilado al que llaman Medio-hombre, y del propio Gabriel.</p><p>Aquí puedes leer Trafalgar completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 21
+  },
+  "ficha": {
+    "genero": "Novela histórica",
+    "unidad": "capítulos",
+    "tema": "la batalla de Trafalgar contada por un testigo",
+    "resumen": [
+      "Gabriel Araceli, ya anciano, recuerda cómo de niño, huérfano y pícaro en Cádiz, entró a servir en casa de don Alonso Gutiérrez de Cisniega, un viejo marino retirado. En 1805, contra la voluntad de su esposa doña Francisca, don Alonso decide embarcarse con la escuadra hispano-francesa acompañado de Marcial, un marinero mutilado al que llaman Medio-hombre, y del propio Gabriel.",
+      "A bordo del Santísima Trinidad, Gabriel vive la batalla de Trafalgar: el combate contra la flota de Nelson, la muerte de oficiales como Churruca, el hundimiento de los barcos y la tormenta que siguió. La experiencia le enseña el valor del sacrificio y lo absurdo de la guerra. Trafalgar abre los Episodios nacionales, la gran historia novelada de la España del siglo XIX."
+    ],
+    "personajes": [
+      [
+        "Gabriel Araceli",
+        "Narrador y protagonista; un muchacho de catorce años que crece a través de la guerra."
+      ],
+      [
+        "Don Alonso Gutiérrez de Cisniega",
+        "Viejo marino que quiere participar en una última batalla."
+      ],
+      [
+        "Marcial (Medio-hombre)",
+        "Marinero veterano, mutilado en combates anteriores, entrañable y valiente."
+      ],
+      [
+        "Doña Francisca",
+        "Esposa de don Alonso, que se opone a que vuelva a la mar."
+      ],
+      [
+        "Rosita",
+        "Hija de don Alonso, de la que Gabriel está enamorado en secreto."
+      ],
+      [
+        "Rafael Malespina",
+        "Joven oficial, prometido de Rosita."
+      ]
+    ],
+    "ideas": [
+      "La historia vista por un hombre corriente y no por los generales.",
+      "El patriotismo y el heroísmo frente al horror de la guerra.",
+      "El paso de la niñez a la madurez del narrador.",
+      "La decadencia de la marina española a principios del siglo XIX."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Trafalgar de Galdós?",
+        "Gabriel Araceli, un muchacho de Cádiz, acompaña a su amo don Alonso a la batalla de Trafalgar de 1805 y cuenta lo que vivió a bordo del Santísima Trinidad."
+      ],
+      [
+        "¿Qué son los Episodios nacionales?",
+        "Una serie de 46 novelas históricas de Galdós sobre la España del siglo XIX, desde Trafalgar hasta la Restauración. Trafalgar es la primera."
+      ],
+      [
+        "¿Quién narra Trafalgar?",
+        "Gabriel Araceli, que en su vejez recuerda los hechos que vivió con catorce años. Protagoniza toda la primera serie de los Episodios."
+      ],
+      [
+        "¿Cuándo se publicó Trafalgar?",
+        "En 1873."
+      ]
+    ]
+  }
 }

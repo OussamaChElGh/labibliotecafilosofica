@@ -89,6 +89,21 @@ def subpages(page):
     return title, out, data["parse"].get("revid")
 
 
+def roman(text):
+    values = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
+    total = 0
+    for a, b in zip(text, text[1:] + " "):
+        total += -values[a] if values.get(b, 0) > values[a] else values[a]
+    return total
+
+
+def chapter_slug(name):
+    """«I» o «1» → capitulo-1; «Libro primero/Capítulo I» → libro-primero-capitulo-1."""
+    parts = [f"capitulo-{roman(p) if re.fullmatch(r'[IVXLC]+', p) else p}" if re.fullmatch(r"[IVXLC]+|\d+", p) else
+             re.sub(r"-([ivxlc]+)$", lambda m: f"-{roman(m.group(1).upper())}", slugify(p)) for p in name.split("/")]
+    return "-".join(parts)
+
+
 def convert_chapters(page):
     """Une las subpáginas en un solo texto: un H| por capítulo y las notas renumeradas en orden."""
     title, parts, revision = subpages(page)
@@ -103,16 +118,24 @@ def convert_chapters(page):
             heads.append(blocks.pop(0)[2:].strip().rstrip("."))
         subtitle = next((h for h in heads if h.lower() not in (name.lower(), label.lower(), title.lower())
                          and not re.fullmatch(r"(cap[ií]tulo\s+)?[IVXLC\d]+", h, re.I)), "")
+        if "/" in name:  # Libro primero/Capítulo I
+            group, name = name.rsplit("/", 1)
+            label = label if label.lower() != name.lower() else ""
+            name_prefix = group + ", "
+        else:
+            name_prefix = ""
         number = name if re.fullmatch(r"[IVXLC\d]+", name) else ""
         text = subtitle or (label if label and label.lower() != name.lower() and not re.fullmatch(r"[IVXLC\d]+", label) else "")
         if number:
             heading = f"{number}. {text}" if text else f"Capítulo {number}"
         else:
             heading = text or name
+        if name_prefix:
+            heading = name_prefix + (heading[0].lower() + heading[1:] if heading.startswith("Capítulo") else heading)
         offset = len(notes)
         blocks = [re.sub(r"\[\[(\d+)\]\]", lambda m: f"[[{int(m.group(1)) + offset}]]", b) for b in blocks]
         notes += own
-        chapters.append({"slug": slugify(name) or f"parte-{len(chapters) + 1}", "title": heading, "summary": "",
+        chapters.append({"slug": chapter_slug(sub.split("/", 1)[1]) or f"parte-{len(chapters) + 1}", "title": heading, "summary": "",
                          "start": len(body), "end": len(body) + len(blocks)})
         body += ["H|" + heading] + blocks
     return body + notes, chapters, revision

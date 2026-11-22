@@ -1,6 +1,6 @@
 {
   "slug": "el-buscon-francisco-de-quevedo",
-  "title": "Historia de la vida del Buscón",
+  "title": "El Buscón",
   "author": "Francisco de Quevedo",
   "author_route": "",
   "book_route": "/el-buscon-francisco-de-quevedo/",
@@ -13,165 +13,226 @@
   "speakers": {},
   "chapters": [
     {
-      "slug": "libro-primero-capitulo-i",
-      "title": "Capítulo I",
-      "summary": "",
+      "slug": "libro-primero-capitulo-1",
+      "title": "Libro primero, capítulo I",
+      "summary": "Empieza: «Yo, señora, soy de Segovia. Mi padre se llamó Clemente Pablo, natural del mismo pueblo; Dios le tenga en el cielo. Fue,…»",
       "start": 0,
       "end": 11
     },
     {
-      "slug": "libro-primero-capitulo-ii",
-      "title": "Capítulo II",
-      "summary": "",
+      "slug": "libro-primero-capitulo-2",
+      "title": "Libro primero, capítulo II",
+      "summary": "Empieza: «A otro día ya estaba comprada la cartilla y hablado el maestro. Fui, señora, a la escuela; recibióme muy alegre diciendo que…»",
       "start": 12,
       "end": 34
     },
     {
-      "slug": "libro-primero-capitulo-iii",
-      "title": "Capítulo III",
-      "summary": "",
+      "slug": "libro-primero-capitulo-3",
+      "title": "Libro primero, capítulo III",
+      "summary": "Empieza: «Determinó, pues, don Alonso de poner a su hijo en pupilaje, lo uno por apartarle de su regalo, y lo otro por…»",
       "start": 35,
       "end": 67
     },
     {
-      "slug": "libro-primero-capitulo-iv",
-      "title": "Capítulo IV",
-      "summary": "",
+      "slug": "libro-primero-capitulo-4",
+      "title": "Libro primero, capítulo IV",
+      "summary": "Empieza: «Entramos en casa de don Alonso y echáronnos en dos camas con mucho tiento, porque no se nos desparramasen los huesos de…»",
       "start": 68,
       "end": 140
     },
     {
-      "slug": "libro-primero-capitulo-v",
-      "title": "Capítulo V",
-      "summary": "",
+      "slug": "libro-primero-capitulo-5",
+      "title": "Libro primero, capítulo V",
+      "summary": "Empieza: «Antes que anocheciese salimos del mesón a la casa que nos tenían alquilada, que estaba fuera la puerta de Santiago, patio de…»",
       "start": 141,
       "end": 203
     },
     {
-      "slug": "libro-primero-capitulo-vi",
-      "title": "Capítulo VI",
-      "summary": "",
+      "slug": "libro-primero-capitulo-6",
+      "title": "Libro primero, capítulo VI",
+      "summary": "Empieza: ««Haz como viere» dice el refrán, y dice bien. De puro considerar en él, vine a resolverme de ser bellaco con los…»",
       "start": 204,
       "end": 248
     },
     {
-      "slug": "libro-primero-capitulo-vii",
-      "title": "Capítulo VII",
-      "summary": "",
+      "slug": "libro-primero-capitulo-7",
+      "title": "Libro primero, capítulo VII",
+      "summary": "Empieza: «En este tiempo vino a don Diego una carta de su padre, en cuyo pliego venía otra de un tío mío llamado…»",
       "start": 249,
       "end": 261
     },
     {
-      "slug": "libro-segundo-capitulo-i",
-      "title": "Capítulo I",
-      "summary": "",
+      "slug": "libro-segundo-capitulo-1",
+      "title": "Libro segundo, capítulo I",
+      "summary": "Empieza: «Llegó el día de apartarme de la mejor vida que hallo haber pasado. Dios sabe lo que sentí el dejar tantos amigos…»",
       "start": 262,
       "end": 316
     },
     {
-      "slug": "libro-segundo-capitulo-ii",
-      "title": "Capítulo II",
-      "summary": "",
+      "slug": "libro-segundo-capitulo-2",
+      "title": "Libro segundo, capítulo II",
+      "summary": "Empieza: «Yo tomé mi camino para Madrid y él se despidió de mí por ir diferente jornada. Y ya que estaba apartado, volvió…»",
       "start": 317,
       "end": 351
     },
     {
-      "slug": "libro-segundo-capitulo-iii",
-      "title": "Capítulo III",
-      "summary": "",
+      "slug": "libro-segundo-capitulo-3",
+      "title": "Libro segundo, capítulo III",
+      "summary": "Empieza: «Recogióse un rato a estudiar herejías y necedades para los ciegos. Entre tanto, se hizo hora de comer; comimos, y luego pidióme…»",
       "start": 352,
       "end": 422
     },
     {
-      "slug": "libro-segundo-capitulo-iv",
-      "title": "Capítulo IV",
-      "summary": "",
+      "slug": "libro-segundo-capitulo-4",
+      "title": "Libro segundo, capítulo IV",
+      "summary": "Empieza: «Tenía mi buen tío su alojamiento junto al matadero, en casa de un aguador. Entramos en ella, y díjome:»",
       "start": 423,
       "end": 462
     },
     {
-      "slug": "libro-segundo-capitulo-v",
-      "title": "Capítulo V",
-      "summary": "",
+      "slug": "libro-segundo-capitulo-5",
+      "title": "Libro segundo, capítulo V",
+      "summary": "Empieza: «Partía aquella mañana del mesón un arriero con cargas a la Corte. Llevaba un jumento; alquilómele, y salíme a aguardarle a la…»",
       "start": 463,
       "end": 483
     },
     {
-      "slug": "libro-segundo-capitulo-vi",
-      "title": "Capítulo VI",
-      "summary": "",
+      "slug": "libro-segundo-capitulo-6",
+      "title": "Libro segundo, capítulo VI",
+      "summary": "Empieza: ««-Lo primero ha de saber que en la Corte hay siempre el más necio y el más sabio, más rico y más…»",
       "start": 484,
       "end": 504
     },
     {
-      "slug": "libro-tercero-capitulo-i",
-      "title": "Capítulo I",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-1",
+      "title": "Libro tercero, capítulo I",
+      "summary": "Empieza: «Entramos en la Corte a las diez de la mañana; fuímonos a pasear, de conformidad, en casa de los amigos de don…»",
       "start": 505,
       "end": 525
     },
     {
-      "slug": "libro-tercero-capitulo-ii",
-      "title": "Capítulo II",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-2",
+      "title": "Libro tercero, capítulo II",
+      "summary": "Empieza: «Amaneció el Señor y pusímonos todos en arma. Ya estaba yo tan hallado con ellos como si todos fuéramos hermanos (que esta…»",
       "start": 526,
       "end": 563
     },
     {
-      "slug": "libro-tercero-capitulo-iii",
-      "title": "Capítulo III",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-3",
+      "title": "Libro tercero, capítulo III",
+      "summary": "Empieza: «Entró Merlo Díaz, hecha la pretina una sarta de búcaros y vidros, los cuales, pidiendo de beber en los tornos de las…»",
       "start": 564,
       "end": 570
     },
     {
-      "slug": "libro-tercero-capitulo-iv",
-      "title": "Capítulo IV",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-4",
+      "title": "Libro tercero, capítulo IV",
+      "summary": "Empieza: «Echáronnos, en entrando, a cada uno dos pares de grillos y sumiéronnos en un calabozo. Yo, que me vi ir allá, aprovechéme…»",
       "start": 571,
       "end": 615
     },
     {
-      "slug": "libro-tercero-capitulo-v",
-      "title": "Capítulo V",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-5",
+      "title": "Libro tercero, capítulo V",
+      "summary": "Empieza: «Salí de la cárcel. Halléme solo y sin los amigos; aunque me avisaron que iban camino de Sevilla a costa de la…»",
       "start": 616,
       "end": 636
     },
     {
-      "slug": "libro-tercero-capitulo-vi",
-      "title": "Capítulo VI",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-6",
+      "title": "Libro tercero, capítulo VI",
+      "summary": "Empieza: «No cerré los ojos con toda la noche, considerando mi desgracia, que no fue dar en el tejado sino en las manos…»",
       "start": 637,
       "end": 660
     },
     {
-      "slug": "libro-tercero-capitulo-vii",
-      "title": "Capítulo VII",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-7",
+      "title": "Libro tercero, capítulo VII",
+      "summary": "Empieza: «Amaneció y despertamos a dar traza en los criados, plata y merienda. En fin, como el dinero ha dado en mandarlo todo…»",
       "start": 661,
       "end": 714
     },
     {
-      "slug": "libro-tercero-capitulo-viii",
-      "title": "Capítulo VIII",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-8",
+      "title": "Libro tercero, capítulo VIII",
+      "summary": "Empieza: «He aquí a la mañana amanece a mi cabecera la huéspeda de casa, vieja de bien, arrugada y llena de afeite, que…»",
       "start": 715,
       "end": 733
     },
     {
-      "slug": "libro-tercero-capitulo-ix",
-      "title": "Capítulo IX",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-9",
+      "title": "Libro tercero, capítulo IX",
+      "summary": "Empieza: «Topé en un paraje una compañía de farsantes que iban a Toledo. Llevaban tres carros, y quiso Dios que entre los compañeros…»",
       "start": 734,
       "end": 769
     },
     {
-      "slug": "libro-tercero-capitulo-x",
-      "title": "Capítulo X",
-      "summary": "",
+      "slug": "libro-tercero-capitulo-10",
+      "title": "Libro tercero, capítulo X",
+      "summary": "Empieza: «Pasé el camino de Toledo a Sevilla prósperamente, porque como yo tenía ya mis principios de fullero y llevaba dados cargados con…»",
       "start": 770,
       "end": 794
     }
-  ]
+  ],
+  "description": "El Buscón de Francisco de Quevedo: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela picaresca sobre las andanzas de un pícaro que quiere ser caballero.",
+  "intro": "<p>Pablos, hijo de un barbero ladrón y de una madre acusada de bruja, cuenta su vida desde Segovia. Quiere ser caballero y entra al servicio de don Diego Coronel, un niño rico. Juntos pasan hambre en el pupilaje del dómine Cabra y luego estudian en Alcalá, donde Pablos sufre novatadas crueles y aprende a engañar para sobrevivir.</p><p>Aquí puedes leer El Buscón completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 23
+  },
+  "ficha": {
+    "genero": "Novela picaresca",
+    "unidad": "capítulos",
+    "tema": "las andanzas de un pícaro que quiere ser caballero",
+    "resumen": [
+      "Pablos, hijo de un barbero ladrón y de una madre acusada de bruja, cuenta su vida desde Segovia. Quiere ser caballero y entra al servicio de don Diego Coronel, un niño rico. Juntos pasan hambre en el pupilaje del dómine Cabra y luego estudian en Alcalá, donde Pablos sufre novatadas crueles y aprende a engañar para sobrevivir.",
+      "Tras recibir la herencia de sus padres, que le entrega su tío, el verdugo Alonso Ramplón, Pablos marcha a Madrid. Allí se une a una cofradía de falsos hidalgos y finge ser noble para casarse con una dama rica, pero es descubierto y apaleado. Termina como mendigo, actor y delincuente en Sevilla, y decide pasar a las Indias, donde le fue peor. Quevedo convierte la picaresca en un juego de ingenio verbal y sátira feroz."
+    ],
+    "personajes": [
+      [
+        "Pablos",
+        "Narrador y protagonista, pícaro de origen humilde que intenta ascender socialmente."
+      ],
+      [
+        "Don Diego Coronel",
+        "Hijo de un caballero segoviano, primer amo y compañero de Pablos."
+      ],
+      [
+        "El dómine Cabra",
+        "Clérigo avaro que mata de hambre a sus pupilos."
+      ],
+      [
+        "Alonso Ramplón",
+        "Tío de Pablos, verdugo de Segovia."
+      ],
+      [
+        "Don Toribio",
+        "Falso hidalgo que introduce a Pablos en la cofradía de estafadores de Madrid."
+      ]
+    ],
+    "ideas": [
+      "La imposibilidad de cambiar de clase social en la España del Siglo de Oro.",
+      "La sátira de la hidalguía vacía y la obsesión por la honra.",
+      "El hambre como motor de la picaresca.",
+      "El virtuosismo del lenguaje: chistes, juegos de palabras y caricaturas."
+    ],
+    "faq": [
+      [
+        "¿De qué trata El Buscón de Quevedo?",
+        "De la vida de Pablos, un pícaro segoviano que intenta hacerse pasar por caballero y fracasa una y otra vez, hasta acabar emigrando a América."
+      ],
+      [
+        "¿Quién es el dómine Cabra?",
+        "El clérigo que regenta el pupilaje donde Pablos y don Diego casi mueren de hambre. Su retrato es una de las caricaturas más famosas de la literatura española."
+      ],
+      [
+        "¿Cuál es el título completo de El Buscón?",
+        "Historia de la vida del Buscón, llamado don Pablos, ejemplo de vagabundos y espejo de tacaños."
+      ],
+      [
+        "¿Cuándo se publicó El Buscón?",
+        "En 1626, en Zaragoza, aunque Quevedo lo había escrito años antes y circulaba manuscrito."
+      ]
+    ]
+  }
 }

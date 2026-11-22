@@ -59,7 +59,8 @@ for (const file of readdirSync('textos').filter(f => f.endsWith('.json')).sort()
   if (!existsSync(source)) { console.warn(`Falta ${source}: ejecuta antes python lectura_completa.py`); continue }
   let svg = readFileSync(source, 'utf8')
   // La pintura se enlaza por URL en la web; aquí se incrusta para que la captura la vea.
-  svg = svg.replace(/href="(\/leer\/[^"]+\.jpg)"/g, (_, url) => `href="data:image/jpeg;base64,${readFileSync(join('public', url)).toString('base64')}"`)
+  svg = svg.replace(/href="(\/(?:leer|img)\/[^"]+\.(jpg|png))"/g, (_, url, ext) =>
+    `href="data:image/${ext === 'png' ? 'png' : 'jpeg'};base64,${readFileSync(join('public', url)).toString('base64')}"`)
   const shots = [
     [coverPage(svg), 600, 900, 5 / 3, 'portada.jpg'],
     [socialPage(svg, meta), 1200, 630, 1, 'social.jpg'],

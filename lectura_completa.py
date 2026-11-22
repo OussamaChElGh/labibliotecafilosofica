@@ -80,7 +80,6 @@ def cover_svg(meta, inline=False):
     size = min(92, int(470 / (longest * 0.48)))
     top = 470 - (len(lines) - 1) * size * 0.55
     title = "".join(f'<text x="300" y="{top + i * size * 1.05:.0f}" font-size="{size}">{escape(line)}</text>' for i, line in enumerate(lines))
-    rays = "".join(f'<line x1="300" y1="618" x2="300" y2="600" transform="rotate({angle} 300 650)"/>' for angle in range(0, 360, 15))
     number = f'{int(cover.get("number", 1)):02d}'
     return (f'<svg class="book-cover-art" viewBox="0 0 600 900" role="img" aria-label="Portada de {escape(meta["title"])}, de {escape(meta["author"])}" xmlns="http://www.w3.org/2000/svg">'
             f'<rect width="600" height="900" fill="{bg}"/>'
@@ -92,7 +91,7 @@ def cover_svg(meta, inline=False):
             f'<line x1="270" y1="128" x2="330" y2="128" stroke="{gold}" stroke-width="1"/>'
             f'<text x="300" y="{top - size - 28:.0f}" fill="{gold}" font-family="Inter, sans-serif" font-size="20" letter-spacing="7" text-anchor="middle">{escape(meta["author"].upper())}</text>'
             f'<g fill="{ink}" font-family="\'Caslon Display\', Fraunces, Georgia, serif" text-anchor="middle">{title}</g>'
-            f'<g stroke="{gold}" stroke-width="1.4" fill="none"><circle cx="300" cy="650" r="54"/><circle cx="300" cy="650" r="20"/>{rays}</g>'
+            f'<image href="/img/logo-portada.png" x="216" y="578" width="168" height="146"/>'
             f'<text x="300" y="790" fill="{ink}" opacity=".85" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="19" text-anchor="middle">{escape(version(meta))}</text>'
             f'<text x="300" y="836" fill="{gold}" font-family="Inter, sans-serif" font-size="12" letter-spacing="4" text-anchor="middle">LECTURA COMPLETA · Nº {number}</text>'
             '</svg>')

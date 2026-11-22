@@ -507,6 +507,8 @@ def offers_text(document):
     """¿La página ofrece el texto? Lectura online propia, PDF propio o fuente de dominio público enlazada."""
     match = re.search(r"<main.*?</main>", document, re.S)
     body = match.group(0) if match else document
+    # Los enlaces «Leer «X» online gratis» que pone replace_downloads en las listas no cuentan.
+    body = re.sub(r'<a href="/leer/[^"]*">Leer «[^»]*» online gratis</a>', "", body)
     return bool(re.search(r'data-read-online|href="/leer/[^"/]+/[^"]*"|Consultar fuente enlazada|'
                           r'wikisource\.org|gutenberg\.org|cervantesvirtual', body))
 

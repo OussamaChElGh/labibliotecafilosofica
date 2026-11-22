@@ -1,0 +1,191 @@
+{
+  "slug": "romancero-gitano-lorca",
+  "title": "Romancero gitano",
+  "author": "Federico García Lorca",
+  "author_route": "",
+  "book_route": "/romancero-gitano-lorca/",
+  "translator": "",
+  "edition": "Madrid, Revista de Occidente, 1928",
+  "source_url": "https://es.wikisource.org/wiki/Romancero_gitano",
+  "source_revision": 1419352,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "romance-de-la-luna-luna",
+      "title": "Romance de la luna, luna",
+      "summary": "Empieza: «La luna vino a la fragua / con su polisón de nardos.»",
+      "start": 0,
+      "end": 36
+    },
+    {
+      "slug": "preciosa-y-el-aire",
+      "title": "Preciosa y el aire",
+      "summary": "Empieza: «Su luna de pergamino / Preciosa tocando viene,»",
+      "start": 37,
+      "end": 98
+    },
+    {
+      "slug": "reyerta",
+      "title": "Reyerta",
+      "summary": "Empieza: «En la mitad del barranco / las navajas de Albacete,»",
+      "start": 99,
+      "end": 138
+    },
+    {
+      "slug": "romance-sonambulo",
+      "title": "Romance sonámbulo",
+      "summary": "Empieza: «Verde que te quiero verde. / Verde viento. Verdes ramas.»",
+      "start": 139,
+      "end": 229
+    },
+    {
+      "slug": "la-monja-gitana",
+      "title": "La monja gitana",
+      "summary": "Empieza: «Silencio de cal y mirto. / Malvas en las hierbas finas.»",
+      "start": 230,
+      "end": 266
+    },
+    {
+      "slug": "la-casada-infiel",
+      "title": "La casada infiel",
+      "summary": "Empieza: «Y que yo me la llevé al río / creyendo que era mozuela,»",
+      "start": 267,
+      "end": 323
+    },
+    {
+      "slug": "romance-de-la-pena-negra",
+      "title": "Romance de la pena negra",
+      "summary": "Empieza: «Las piquetas de los gallos / cavan buscando la aurora,»",
+      "start": 324,
+      "end": 371
+    },
+    {
+      "slug": "san-miguel-granada",
+      "title": "San Miguel (Granada)",
+      "summary": "Empieza: «Se ven desde las barandas, / por el monte, monte, monte,»",
+      "start": 372,
+      "end": 427
+    },
+    {
+      "slug": "san-rafael-cordoba",
+      "title": "San Rafael (Córdoba)",
+      "summary": "Empieza: «Coches cerrados llegaban / a las orillas de juncos»",
+      "start": 428,
+      "end": 479
+    },
+    {
+      "slug": "san-gabriel-sevilla",
+      "title": "San Gabriel (Sevilla)",
+      "summary": "Empieza: «Un bello niño de junco, / anchos hombros, fino talle,»",
+      "start": 480,
+      "end": 551
+    },
+    {
+      "slug": "prendimiento-de-antonito-el-camborio-en-el-camino-a-sevilla",
+      "title": "Prendimiento de Antoñito el Camborio en el camino a Sevilla",
+      "summary": "Empieza: «ANTONIO Torres Heredia, / hijo y nieto de Camborios,»",
+      "start": 552,
+      "end": 599
+    },
+    {
+      "slug": "muerte-de-antonito-el-camborio",
+      "title": "Muerte de Antoñito el Camborio",
+      "summary": "Empieza: «Voces de muerte sonaron / cerca del Guadalquivir.»",
+      "start": 600,
+      "end": 653
+    },
+    {
+      "slug": "muerto-de-amor",
+      "title": "Muerto de amor",
+      "summary": "Empieza: «¿Que es aquello que reluce / por los altos corredores?»",
+      "start": 654,
+      "end": 710
+    },
+    {
+      "slug": "el-emplazado",
+      "title": "El emplazado",
+      "summary": "Empieza: «¡Mi soledad sin descanso! / Ojos chicos de mi cuerpo»",
+      "start": 711,
+      "end": 772
+    },
+    {
+      "slug": "romance-de-la-guardia-civil-espanola",
+      "title": "Romance de la Guardia Civil Española",
+      "summary": "Empieza: «Los caballos negron son. / Las herraduras son negras.»",
+      "start": 773,
+      "end": 905
+    },
+    {
+      "slug": "martirio-de-santa-olalla",
+      "title": "Martirio de Santa Olalla",
+      "summary": "Empieza: «Por la calle brinca y corre / caballo de larga cola,»",
+      "start": 906,
+      "end": 981
+    },
+    {
+      "slug": "burla-de-don-pedro-a-caballo",
+      "title": "Burla de don Pedro a caballo",
+      "summary": "Empieza: «Por una vereda / venía Don Pedro.»",
+      "start": 982,
+      "end": 1051
+    },
+    {
+      "slug": "thamar-y-amnon",
+      "title": "Thamar y Amnón",
+      "summary": "Empieza: «La luna gira en el cielo / sobre las tierras sin agua»",
+      "start": 1052,
+      "end": 1156
+    }
+  ],
+  "description": "Romancero gitano de Federico García Lorca: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Poesía sobre Andalucía, los gitanos, la luna y la muerte.",
+  "intro": "<p>El Romancero gitano reúne dieciocho romances que Federico García Lorca publicó en 1928. Toma la forma tradicional del romance, de versos octosílabos con rima en los pares, y la llena de imágenes nuevas y sorprendentes. Los gitanos de Andalucía son el centro del libro: un pueblo libre, apasionado y perseguido, que vive en un mundo de mito donde la luna, el viento o la noche son personajes.</p><p>Aquí puedes leer Romancero gitano completo, dividido en romances. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 73,
+    "art": {
+      "file": "romancero-gitano-lorca.jpg",
+      "focus": [
+        0.45,
+        0.5
+      ],
+      "url": "/leer/romancero-gitano-lorca/ilustracion.jpg",
+      "credit": "John Singer Sargent, «El Jaleo» (1882), Isabella Stewart Gardner Museum. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Poesía",
+    "unidad": "romances",
+    "tema": "Andalucía, los gitanos, la luna y la muerte",
+    "resumen": [
+      "El Romancero gitano reúne dieciocho romances que Federico García Lorca publicó en 1928. Toma la forma tradicional del romance, de versos octosílabos con rima en los pares, y la llena de imágenes nuevas y sorprendentes. Los gitanos de Andalucía son el centro del libro: un pueblo libre, apasionado y perseguido, que vive en un mundo de mito donde la luna, el viento o la noche son personajes.",
+      "En Romance de la luna, luna la luna se lleva a un niño gitano; en el Romance sonámbulo, una muchacha espera en una baranda a un amante que llega herido; en La casada infiel, un gitano cuenta una noche de amor junto al río; y en el Romance de la Guardia Civil española, los guardias arrasan la ciudad de los gitanos. Los tres arcángeles, Antoñito el Camborio y Thamar y Amnón completan un libro lleno de pena, sensualidad y muerte."
+    ],
+    "personajes": [],
+    "ideas": [
+      "El gitano como símbolo de libertad, pasión y destino trágico.",
+      "La pena negra: el dolor andaluz.",
+      "La luna, el agua, el caballo y los colores como símbolos.",
+      "La unión de la tradición popular y la vanguardia."
+    ],
+    "faq": [
+      [
+        "¿Cuántos romances tiene el Romancero gitano?",
+        "Dieciocho: quince romances y tres históricos, de Santa Olalla, don Pedro a caballo y Thamar y Amnón."
+      ],
+      [
+        "¿De qué trata el Romance sonámbulo?",
+        "Del verso «Verde que te quiero verde»: una gitana espera en la baranda a su amante contrabandista, que llega herido de muerte cuando ella ya se ha ahogado en el aljibe."
+      ],
+      [
+        "¿Qué representa la luna en Lorca?",
+        "Casi siempre la muerte. En Romance de la luna, luna se lleva al niño de la fragua."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1928, en Madrid. Fue el libro más popular de Lorca en vida."
+      ]
+    ]
+  }
+}

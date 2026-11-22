@@ -1,0 +1,136 @@
+{
+  "slug": "poeta-en-nueva-york-lorca",
+  "title": "Poeta en Nueva York",
+  "author": "Federico García Lorca",
+  "author_route": "",
+  "book_route": "/poeta-en-nueva-york-lorca/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Poeta_en_Nueva_York",
+  "source_revision": 1279378,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "poemas-de-la-soledad-en-columbia-university",
+      "title": "Poemas de la soledad en Columbia University",
+      "summary": "Empieza: «Los poemas de este libro están escritos en la ciudad de Nueva York el año 1929-1930, en el que el poeta vivió…»",
+      "start": 0,
+      "end": 156
+    },
+    {
+      "slug": "los-negros",
+      "title": "Los Negros",
+      "summary": "Empieza: «Para Ángel del Río»",
+      "start": 157,
+      "end": 349
+    },
+    {
+      "slug": "calles-y-suenos",
+      "title": "Calles y sueños",
+      "summary": "Empieza: «A Rafael R. Rapún»",
+      "start": 350,
+      "end": 733
+    },
+    {
+      "slug": "poemas-del-lago-edem-mills",
+      "title": "Poemas del lago Edem Mills",
+      "summary": "Empieza: «A Eduardo Ugarte»",
+      "start": 734,
+      "end": 816
+    },
+    {
+      "slug": "en-la-cabana-del-farmer",
+      "title": "En la cabaña del Farmer",
+      "summary": "Empieza: «(Campo de Newburg)»",
+      "start": 817,
+      "end": 934
+    },
+    {
+      "slug": "introduccion-a-la-muerte",
+      "title": "Introducción a la muerte",
+      "summary": "Empieza: «Poemas de la soledad en Vermont Para Rafael Sánchez Ventura»",
+      "start": 935,
+      "end": 1175
+    },
+    {
+      "slug": "vuelta-a-la-ciudad",
+      "title": "Vuelta a la ciudad",
+      "summary": "Empieza: «Debajo de las multiplicaciones / hay una gota de sangre de pato;»",
+      "start": 1176,
+      "end": 1317
+    },
+    {
+      "slug": "dos-odas",
+      "title": "Dos odas",
+      "summary": "Empieza: «Manzanas levemente heridas / por los finos espadines de plata,»",
+      "start": 1318,
+      "end": 1531
+    },
+    {
+      "slug": "huida-de-nueva-york",
+      "title": "Huída de Nueva York",
+      "summary": "Empieza: «En Viena hay diez muchachas, / un hombro donde solloza la muerte»",
+      "start": 1532,
+      "end": 1622
+    },
+    {
+      "slug": "el-poeta-llega-a-la-habana",
+      "title": "El poeta llega a la Habana",
+      "summary": "Empieza: «Cuando llegue la luna llena / iré a Santiago de Cuba.»",
+      "start": 1623,
+      "end": 1792
+    }
+  ],
+  "inner_titles": true,
+  "description": "Poeta en Nueva York de Federico García Lorca: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Poesía sobre la ciudad moderna, la soledad y la injusticia.",
+  "intro": "<p>Poeta en Nueva York nace del viaje de Federico García Lorca a Estados Unidos y Cuba en 1929 y 1930. Instalado en la Universidad de Columbia, Lorca descubre una ciudad de rascacielos, multitudes y máquinas que le parece deshumanizada, y la retrata con imágenes surrealistas, versos libres y un tono de angustia y denuncia.</p><p>Aquí puedes leer Poeta en Nueva York completo, dividido en secciones. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 74,
+    "art": {
+      "file": "poeta-en-nueva-york-lorca.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/poeta-en-nueva-york-lorca/ilustracion.jpg",
+      "credit": "George Bellows, «New York» (1911), National Gallery of Art. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Poesía",
+    "unidad": "secciones",
+    "tema": "la ciudad moderna, la soledad y la injusticia",
+    "resumen": [
+      "Poeta en Nueva York nace del viaje de Federico García Lorca a Estados Unidos y Cuba en 1929 y 1930. Instalado en la Universidad de Columbia, Lorca descubre una ciudad de rascacielos, multitudes y máquinas que le parece deshumanizada, y la retrata con imágenes surrealistas, versos libres y un tono de angustia y denuncia.",
+      "El libro se divide en diez secciones: los poemas de la soledad en Columbia, los dedicados a los negros de Harlem, las calles y sueños, el lago Edem Mills, la cabaña del granjero, la introducción a la muerte, la vuelta a la ciudad, dos odas (entre ellas la Oda a Walt Whitman), la huida de Nueva York y la llegada a La Habana, donde el poeta recupera la alegría. Se publicó en 1940, después de la muerte del autor."
+    ],
+    "personajes": [],
+    "ideas": [
+      "La deshumanización de la gran ciudad capitalista.",
+      "La solidaridad con los marginados: los negros de Harlem, los pobres.",
+      "La soledad y la crisis personal del poeta.",
+      "El surrealismo y el verso libre."
+    ],
+    "faq": [
+      [
+        "¿Cuándo estuvo Lorca en Nueva York?",
+        "Entre junio de 1929 y marzo de 1930, como estudiante en la Universidad de Columbia. Después pasó tres meses en Cuba."
+      ],
+      [
+        "¿Es un libro surrealista?",
+        "Tiene muchas imágenes cercanas al surrealismo, aunque Lorca nunca se consideró parte del movimiento."
+      ],
+      [
+        "¿Qué es la Oda a Walt Whitman?",
+        "Uno de los poemas más famosos del libro: un homenaje al poeta estadounidense y una reflexión sobre el amor entre hombres."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1940, en México y Nueva York, cuatro años después del asesinato de Lorca."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,2702 @@
+H|Jornada primera
+S|Escena primera
+S|Rosaura. Clarín.
+V|Hipogrifo violento
+V|Que corriste parejas con el viento,
+V|¿Dónde, rayo sin llama,
+V|Pájaro sin matiz, pez sin escama,
+V|Y bruto sin instinto
+V|Natural, al confuso laberinto
+V|Destas desnudas peñas
+V|Te desbocas, arrastras y despeñas?
+V|Quédate en este monte,
+V|Donde tengan los brutos su Faetonte;
+V|Que yo, sin más camino
+V|Que el que me dan las leyes del destino.
+V|Ciega y desesperada,
+V|Bajaré la aspereza enmarañada
+V|Deste monte eminente,
+V|Que arruga al sol el ceño de su frente.
+V|Mal, Polonia, recibes
+V|A un extranjero, pues con sangre escribes
+V|Su entrada en tus arenas,
+V|Y apenas llega, cuando llega á penas.
+V|Bien mi suerte lo dice;
+V|Mas ¿Dónde halló piedad un infelice?
+V|Di dos, y no me dejes
+V|En la posada á mí cuando te quejes;
+V|Que si dos hemos sido
+V|Los que de nuestra patria hemos salido
+V|A probar aventuras,
+V|Dos los que, entre desdichas y locuras.
+V|Aquí habemos llegado,
+V|Y dos los que del monte hemos rodado:
+V|¿No es razón que yo sienta
+V|Meterme en el pesar, y no en la cuenta?
+V|No te quiero dar parte
+V|En mis quejas, Clarín, por no quitarte,
+V|Llorando tu desvelo,
+V|El derecho que tienes tú al consuelo.
+V|Que tanto gusto habia
+V|En quejarse, un filósofo decia.
+V|Que, á trueco de quejarse,
+V|Habían las desdichas de buscarse.
+V|El filósofo era
+V|Un borracho barbón: ¡Oh! ¡Quién le diera
+V|Más de mil bofetadas!
+V|Quejárase después de muy bien dadas.
+V|Mas ¿Qué harémos, señora,
+V|A pié, solos, perdidos y á esta hora.
+V|En un desierto monte.
+V|Cuando se parte el sol á otro horizonte?
+V|¡Quién ha visto sucesos tan extraños!
+V|Mas, si la vista no padece engaños
+V|Que hace la fantasía,
+V|A la medrosa luz que aun tiene el día.
+V|Me parece que veo
+V|Un edificio.
+V|O miente mi deseo,
+V|O termino las señas.
+V|Rústico nace, entre desnudas peñas.
+V|Un palacio tan breve,
+V|Que al sol apenas á mirar se atreve.
+V|Con tan rudo artificio
+V|La arquitectura está de su edificio,
+V|Que parece, á las plantas
+V|De tantas rocas y de peñas tantas
+V|Que al sol tocan la lumbre,
+V|Peñasco que ha rodado de la cumbre.
+V|Vámonos acercando;
+V|Que este es mucho mirar, señora, cuando
+V|Es mejor que la gente
+V|Que habita en ella generosamente
+V|Nos admita.
+V|La puerta
+V|(Mejor diré funesta boca) abierta
+V|Está, y desde su centro
+V|Nace la noche, pues la engendra dentro.
+S|({Suenan dentro cadenas.)
+V|¡Qué es lo que escucho, cielo!
+V|Inmóvil bulto soy de fuego y hielo.
+V|¿Cadenita hay que suena?
+V|Mátenme, si no es galeote en pena:
+V|Bien mi temor lo dice.
+S|Escena ii
+S|(Segismundo (en la torre). Rosaura. Clarín.)
+S|(Dentro.
+V|) ¡Ay mísero de mí! ¡Ay infelice!
+V|¡Qué triste voz escucho!
+V|Con nuevas penas y tormentos lucho.
+V|Yo con nuevos temores.
+V|Clarín...
+V|Señora...
+V|Huyamos los rigores
+V|Desta encantada torre.
+V|Yo aun no tengo
+V|Animo para huir, cuando á eso vengo.
+V|¿No es breve luz aquella
+V|Caduca exhalación, pálida estrella,
+V|Que en trémulos desmayos,
+V|Pulsando ardores y latiendo rayos.
+V|Hace más tenebrosa
+V|La oscura habitación con luz dudosa?
+V|Si, pues a sus reflejos
+V|Puedo determinar (aunque de lejos,)
+V|Una prisión oscura,
+V|Que es de un vivo cadáver sepultura;
+V|Y, porque mas me asombre,
+V|En el traje de fiera yace un hombre
+V|De prisiones cargado,
+V|Y sólo de una luz acompañado.
+V|Pues huir no podemos,
+V|Desde aquí sus desdichas escuchemos:
+V|Sepamos lo que dice.
+S|(Abrense las hojas de la puerta, y descúbrese Segismundo con una cadena y vestido de pieles. Hay luz en la torre.)
+V|¡Ay mísero de mí! ¡Ay infelice!
+V|Apurar, cielos, pretendo,
+V|Ya que me tratáis así,
+V|Qué delito cometí.
+V|Contra vosotros, naciendo;
+V|Aunque si nací, ya entiendo
+V|Qué delito he cometido:
+V|Bastante causa ha tenido
+V|Vuestra justicia y rigor;
+V|Pues el delito mayor
+V|Del hombre es haber nacido.
+V|Sólo quisiera saber,
+V|Para apurar mis desvelos
+V|(Dejando á una parte, cielos,
+V|El delito del nacer),
+V|¿Qué más os pude ofender
+V|Para castigarme más?
+V|¿No nacieron los demás?
+V|Pues si los demás nacieron,
+V|¿Qué privilegios tuvieron,
+V|Que yo no gocé jamas?
+V|Nace el ave, y con las galas
+V|Que le dan belleza suma,
+V|Apenas es flor de pluma
+V|Ó ramillete con alas,
+V|Cuando las etéreas salas
+V|Corta con velocidad.
+V|Negándose á la piedad
+V|Del nido que deja en calma:
+V|¿Y teniendo yo más alma,
+V|Tengo menos libertad?
+V|Nace el bruto, y con la piel
+V|Que dibujan manchas bellas,
+V|Apénas signo es de estrellas
+V|(Gracias al docto pincel),
+V|Cuando, atrevido y cruel,
+V|La humana necesidad
+V|Le enseña á tener crueldad,
+V|Monstruo de su laberinto:
+V|¿Y yo, con mejor instinto;
+V|Tengo menos libertad?
+V|Nace el pez, que no respira,
+V|Aborto de ovas y lamas;
+V|Y, apénas bajel de escamas
+V|Sobre las ondas se mira,
+V|Cuando á todas partes gira,
+V|Midiendo la inmensidad
+V|De tanta capacidad
+V|Como le da el centro frio:
+V|¿Y yo, con más albedrío.
+V|Tengo menos libertad?
+V|Nace el arroyo, culebra
+V|Que entre flores se desata,
+V|Y, apenas, sierpe de plata.
+V|Entre las flores se quiebra,
+V|Cuando, músico, celebra
+V|De las flores la piedad,
+V|Que le da la majestad
+V|Del campo abierto á su huida:
+V|¿Y, teniendo yo mas vida,
+V|Tengo menos libertad?
+V|¡En llegando á esta pasión,
+V|Un volcan, un Etna hecho.
+V|Quisiera arrancar del pecho
+V|Pedazos del corazon!
+V|¿Qué ley, justicia ó razon
+V|Negar á los hombres sabe
+V|Prívilegio tan süave,
+V|Excepcíon tan principal,
+V|Que Dios le ha, dado á. un cristal,
+V|A un pez, á un bruto y á, un ave?
+V|Temor y piedad en mí
+V|Sus razones han causado.
+V|¿Quién mis voces ha escuchado?
+V|¿Es Clotaldo?
+V|(Ap. á su ama.) Dí que sí.
+V|No es sino un triste (!Ay de mí!),
+V|Que en estas bóvedas frias
+V|Oyó tus melancolías.
+V|Pues muerte aquí te daré,
+V|Porque no sepas que sé (Asela.)
+V|Que sabes ﬂaquezas mías.
+V|Sólo porque me has oido,
+V|Entre mis membrudos brazos
+V|Te tengo de hacer pedazos.
+V|Yo soy sordo y no he podido
+V|Escucharte.
+V|Si has nacido
+V|Humano, baste el postrarme
+V|A tus píés para, librarme.
+V|Tu voz pudo enternecerme,
+V|Tu presencia. suspenderme,
+V|Y tu respeto turbarme.
+V|¿ Quién eres? Que aunque yo aquí
+V|Tan poco del mundo sé,
+V|Que cuna y sepulcro fué
+V|Esta torre para mí,
+V|Y aunque desde que nací
+V|(Si esto es nacer) solo advierto
+V|Este rústico desierto,
+V|Donde miserable vivo,
+V|Siendo un esqueleto vivo,
+V|Siendo un animado muerto;
+V|Y aunque nunca vi ni hablé
+V|Sino á un hombre solamente,
+V|Que aquí mis desdichas siente.
+V|Por quien las noticias sé
+V|De cielo y tierra; y aunque
+V|Aquí, porque mas te asombres
+V|Y monstruo humano me nombres.
+V|Entre asombros y quimeras.
+V|Soy un hombre de las fieras,
+V|Y una fiera de los hombres;
+V|Y aunque, en desdichas tan graves,
+V|La política he estudiado,
+V|De los brutos enseñado.
+V|Advertido de las aves,
+V|Y de los astros suaves
+V|Los círculos he medido:
+V|Tú solo, tú, has suspendido
+V|La pasión á mis enojos.
+V|La suspensión á mis ojos.
+V|La admiración á mi oído.
+V|Con cada vez que te veo
+V|Nueva admiración me das,
+V|Y cuando te miro más.
+V|Aun más mirarte deseo.
+V|Ojos hidrópicos creo
+V|Que mis ojos deben ser;
+V|Pues cuando es muerte el beber,
+V|Beben más; y desta suerte.
+V|Viendo que el ver me da muerte,
+V|Estoy muriendo por ver.
+V|Pero véate yo y muera;
+V|Que no sé, rendido ya.
+V|Si el verte muerte me da.
+V|El no verte qué me diera.
+V|Fuera, mas que muerte fiera,
+V|Ira, rabia y dolor fuerte;
+V|Fuera muerte: desta suerte
+V|Su rigor he ponderado.
+V|Pues dar vida á un desdichado
+V|Es dar á un dichoso muerte.
+V|Con asombro de mirarte,
+V|Con admiración de oirte.
+V|Ni sé qué pueda decirte.
+V|Ni qué pueda preguntarte:
+V|Solo diré que á esta parte
+V|Hoy el cielo me ha guiado
+V|Para haberme consolado,
+V|Si consuelo puede ser
+V|Del que es desdichado, ver
+V|Otro que es más desdichado.
+V|Cuentan de un sabio, que un dia
+V|Tan pobre y mísero estaba,
+V|Que sólo se sustentaba
+V|De unas yerbas que cogia.
+V|¿Habrá otro (entre sí decía)
+V|Más pobre y triste que yo?
+V|Y cuando el rostro volvió.
+V|Halló la respuesta, viendo
+V|Que iba otro sabio cogiendo
+V|Las hojas que él arrojó.
+V|Quejoso de la fortuna.
+V|Yo en este mundo vivia,
+V|Y, cuando entre mí decía:
+V|¿Habrá otra persona alguna
+V|De suerte más importuna?
+V|Piadoso me has respondido;
+V|Pues, volviendo en mi sentido.
+V|Hallo que las penas mias.
+V|Para hacerlas tú alegrías,
+V|Las hubieras recogido.
+V|Y, por si acaso mis penas
+V|Pueden en algo aliviarte,
+V|Óyelas atento, y toma
+V|Las que de ellas me sobraren.
+V|Yo soy ...
+V|(Dentro.) Guardas desta torre, que, dormidas ó cobardes,
+V|Disteis paso a dos personas que han quebrantado la cárcel...
+V|Nueva confusión padezco.
+V|Este es Clotaldo, mi alcaide.
+V|¿Aun no acaban mis desdichas?
+V|(Dentro.) Acudid, y vigilantes,
+V|Sin que puedan defenderse, o prendedles ó matadles.
+V|(Dentro.) ¡Traición!
+V|Guardas desta torre, que entrar
+V|aquí nos dejasteis,
+V|Pues que nos dais á escoger, el prendernos es más fácil.
+S|(Salen Clotaldo y los soldados: él con una pistola y todos con los rostros cubiertos.)
+S|(Ap. á los soldados, al salir.)
+V|Todos os cubrid los rostros; que es diligencia importante.
+V|Mientras estamos aquí, que no nos conozca nadie.
+V|¿Enmascaraditos hay?
+V|Oh vosotros, que, ignorantes.
+V|De aqueste vedado sitio coto y término pasasteis
+V|Contra el decreto del Rey, que manda que no ose nadie
+V|Examinar el prodigio que entre esos peñascos yace:
+V|Rendid las armas y vidas, ó aquesta pistola, áspid
+V|De metal, escupirá el veneno penetrante
+V|De dos balas, cuyo fuego será escándalo del aire.
+V|Primero, tirano dueño, que los ofendas ni agravies,
+V|Será mi vida despojo destos lazos miserables;
+V|Pues en ellos, vive Dios, tengo de despedazarme
+V|Con las manos, con los dientes, entre aquestas peñas, antes
+V|Que su desdicha consienta y que llore sus ultrajes.
+V|Si sabes que tus desdichas, Segismundo, son tan grandes.
+V|Que antes de nacer moriste por ley del cielo; si sabes
+V|Que aquestas prisiones son de tus furias arrogantes
+V|Un freno que las detenga, y una rueda que las pare:
+V|¿Por qué blasonas? La puerta (A los soldados.) cerrad de esa
+V|estrecha cárcel;
+V|Escondedle en ella.
+V|¡Ah, cielos, qué bien hacéis en quitarme
+V|La libertad! Porque fuera contra vosotros gigante.
+V|Que para quebrar al sol esos vidrios y cristales.
+V|Sobre cimientos del piedra pusiera montes de jaspe.
+V|Quizá, porque no los pongas, hoy padeces tantos males.
+S|(Llévanse algunos soldados á Segismundo, y enciérranle en su prisión.)
+V|Ya que vi que la soberbia te ofendió tanto, ignorante
+V|Fuera en no pedirte humilde vida que á tus plantas yace.
+V|Muévate en mí la piedad; que será rigor notable
+V|Que no hallen favor en tí ni soberbias ni humildades.
+V|Y si humildad ni soberbia no te obligan — personajes
+V|Que han movido y removido mil Autos sacramentales,
+V|— Yo, ni humilde ni soberbio, sino entre las dos mitades
+V|Entreverado, te pido que nos remedies y ampares.
+V|¡Hola!
+V|Señor ...
+V|A los dos quitad las armas, y atadles
+V|Los ojos, porque no vean cómo ni de dónde salen.
+V|Mi espada es ésta, que á tí solamente ha de entregarse;
+V|Porque, al fin, de todos eres el principal, y no sabe
+V|Rendirse á menos valor.
+V|La mia es tal, que puede darse
+V|Al más ruin: tomadla vos. (A un soldado.)
+V|Y si he de morir, dejarte
+V|Quiero, en fe desta piedad, prenda que pudo estimarse
+V|Por el dueño que algún dia se la ciñó: que la guardes
+V|Te encargo, porque aunque yo no sé qué secreto alcance,
+V|Sé que esta dorada espada encierra misterios grandes;
+V|Pues solo fiado en ella, vengo á Polonia á vengarme
+V|De un agravio.
+V|(Ap.) ¡Santos cielos! ¡Qué es esto! Ya son más graves
+V|Mis penas y confusiones, mis ansias y mis pesares.
+V|Quién te la dio?
+V|Una mujer.
+V|¿Cómo se llama?
+V|Que calle
+V|Su nombre es fuerza.
+V|¿De qué infieres ahora, ó sabes.
+V|Que hay secreto en esta espada?
+V|Quien me la dio, dijo: «Parte
+V|A Polonia, y solicita con ingenio, estudio ó arte.
+V|Que te vean esa espada los nobles y principales;
+V|Que yo sé que alguno dellos te favorezca y ampare;»
+V|Que, por si acaso era muerto, no quiso entonces nombrarle.
+V|(Ap.) ¡Válgame el cielo, qué escucho! Aun no sé determinarme
+V|Si tales sucesos son ilusiones ó verdades.
+V|Esta es la espada que yo dejé á la hermosa Violante,
+V|Por señas que el que ceñida la trajera, habia de hallarme
+V|Amoroso como hijo, y piadoso como padre.
+V|¿Pues qué he de hacer (¡Ay de mí!) en confusión semejante,
+V|Si quien la trae por favor, para su muerte la trae.
+V|Pues que sentenciado á muerte llega á mis pies? ¡Qué notable
+V|Confusión! ¡Qué triste hado! ¡Qué suerte tan inconstante!
+V|Este es mi hijo, y las señas dicen bien con las señales
+V|Del corazón, que por verlo llama al pecho, y en él bate
+V|Las alas, y no pudiendo romper los candados, hace
+V|Lo que aquel que está encerrado, y oyendo ruido en la calle,
+V|Se asoma por la ventana. El así, como no sabe
+V|Lo que pasa, y oye el ruido, va á los ojos á asomarse.
+V|Que son ventanas del pecho, por donde en lágrimas sale.
+V|¿Qué he de hacer? (¡Valedme, cielos!) ¿Qué he de hacer? Porque llevarle
+V|Al Rey, es llevarle (¡A triste!) a morir. Pues ocultarle
+V|Al Rey no puedo, conforme a la ley del homenaje.
+V|De una parte el amor propio, y la lealtad de otra parte
+V|Me rinden. Pero ¿Qué dudo? La lealtad al Rey ¿No es ántse
+V|Que la vida y que el honor? Pues ella viva y él falte.
+V|Fuera de que, si ahora atiendo a que dijo que á vengarse
+V|Viene de un agravio, hombre que está agraviado, es infame.
+V|— No es mi hijo, no es mi hijo, ni tiene mi noble sangre.
+V|Pero, si ya ha sucedido un peligro, de quien nadie
+V|Se libró, porque el honor es de materia tan frágil,
+V|Que con una acción se quiebra ó se mancha con un aire:
+V|¿Qué más puede hacer, qué más, el que es noble, de su parte.
+V|Que, á costa de tantos riesgos haber venido á buscarle?
+V|Mi hijo es, mi sangre tiene, pues tiene valor tan grande;
+V|Y así, entre una y otra duda, el medio más importante
+V|Es irme al Rey, y decirle que es mi hijo y que le mate.
+V|Quizá la misma piedad de mi honor podrá obhgarle;
+V|Y si le merezco vivo, yo le ayudaré á vengarse
+V|De su agravio; mas si el Rey, en sus rigores constante,
+V|Le da muerte, morirá sin saber que soy su padre.
+V|— Venid conmigo, extranjeros; (A Rosaura y Clarín.) no temáis,
+V|no, de que os falte
+V|Compañía en las desdichas, pues en duda semejante
+V|De vivir ó de morir, no sé cuáles son más grandes. (Vanse.)
+S|Astolfo y soldados, que salen por un lado, y por el otro la Infanta
+V|Bien al ver los excelentes
+V|Rayos, que fueron cometas,
+V|Mezclan salvas diferentes
+V|Las cajas y las trompetas,
+V|Los pájaros y las fuentes:
+V|Siendo, con música igual,
+V|Y con maravilla suma,
+V|A tu vista celestial
+V|Unos, clarines de pluma.
+V|Y otras, aves de metal;
+V|Y así os saludan, señora.
+V|Como á su Reina las balas.
+V|Los pájaros como Aurora,
+V|Las trompetas como á Palas,
+V|Y las flores como á Flora;
+V|Porque sois, burlando el dia
+V|Que ya la noche destierra,
+V|Aurora en el alegría,
+V|Flora en paz. Palas en guerra,
+V|Y Reina en el alma mia.
+V|Si la voz se ha de medir
+V|Con las acciones humanas.
+V|Mal habéis hecho en decir
+V|Finezas tan cortesanas.
+V|Donde os pueda desmentir
+V|Todo ese marcial trofeo,
+V|Con quien ya atrevida lucho;
+V|Pues no dicen, según creo,
+V|Las lisonjas que os escucho.
+V|Con los rigores que veo.
+V|Y advertid que es baja acción,
+V|Que solo á una fiera toca.
+V|Madre de engaño y traición,
+V|El halagar con la boca
+V|Y matar con la intención.
+V|Muy mal informada estáis,
+V|Estrella, pues que la fe
+V|De mis finezas dudáis,
+V|Y os suplico que me oigáis
+V|La causa, á ver si la sé.
+V|Falleció Eustorgio Tercero,
+V|Rey de Polonia, y quedó
+V|Basilio por heredero,
+V|Y dos hijas, de quien yo
+V|Y vos nacimos. — No quiero
+V|Cansar con lo que no tiene
+V|Lugar aquí. — Clorilene,
+V|Vuestra madre y mi señora,
+V|Que en mejor imperio ahora
+V|Dosel de luceros tiene,
+V|Fué la mayor, de quien vos
+V|Sois hija; fué la segunda.
+V|Madre y tia de los dos.
+V|La gallarda Recisunda,
+V|Que guarde mil años Dios;
+V|Casó en Moscovia, de quien
+V|Nací yo. Volver ahora
+V|Al otro principio es bien.
+V|Basilio, que ya, señora,
+V|Se rinde al común desden
+V|Del tiempo, más inclinado
+V|A los estudios que dado
+V|A mujeres, enviudó
+V|Sin hijos; y vos y yo
+V|Aspiramos á este Estado.
+V|Vos alegáis que habéis sido
+V|Hija de hermana mayor;
+V|Yo, que varón he nacido,
+V|Y aunque de hermana menor,
+V|Os debo ser preferido.
+V|Vuestra intención y la mia
+V|A nuestro tio contamos:
+V|El respondió que quería
+V|Componernos, y aplazamos
+V|Este puesto y este dia.
+V|Con esta intención salí
+V|De Moscovia y de su tierra;
+V|Con esta llegué hasta aquí,
+V|En vez de haceros yo guerra,
+V|A que me la hagáis á mí.
+V|¡Oh! quiera amor, sabio dios,
+V|Que el vulgo, astrólogo cierto.
+V|Hoy lo sea con los dos,
+V|Y que pare este concierto
+V|En que seáis Reina vos,
+V|Pero Reina en mi albedrío.
+V|Dándoos, para más honor,
+V|Su corona nuestro tio.
+V|Sus triunfos vuestro valor,
+V|Y su imperio el amor mio.
+V|A tan cortés bizarría
+V|Menos mi pecho no muestra.
+V|Pues la imperial monarquía
+V|Para solo hacerla vuestra
+V|Me holgara que fuera mia;
+V|Aunque no está satisfecho
+V|Mi amor de que sois ingrato.
+V|Si en cuanto decis, sospecho
+V|Que os desmiente ese retrato
+V|Que está pendiente del pecho.
+V|Satisfaceros intento
+V|Con él ... Mas lugar no da
+V|'Tanto sonoro instrumento, (Tocan cajas.)
+V|Que avisa que sale ya
+V|El Rey con su parlamento.
+S|Escena vi
+S|(El Rey Basilio. Acompañamiento. Astolfo. Estrella.)
+S|(Damas. Soldados.)
+V|Sabio Tales ...
+V|Docto Euclídes ...
+V|Que entre signos ...
+V|Que entre estrellas ...
+V|Hoy gobiernas ...
+V|Hoy resides ...
+V|Y sus caminos ...
+V|Sus huellas ...
+V|Describes ...
+V|Tasas y mides ...
+V|Deja que en humildes lazos ...
+V|Deja que en tiernos abrazos ...
+V|Hiedra dése tronco sea.
+V|Rendido á tus pies me vea.
+V|Sobrinos, dadme los brazos,
+V|Y creed, pues que leales
+V|A mi precepto amoroso,
+V|Venis con afectos tales,
+V|Que á nadie deje quejoso
+V|Y los dos quedéis iguales;
+V|Y así, cuando me confieso
+V|Rendido al prolijo peso,
+V|Sólo os pido en la ocasión
+V|Silencio, que admiración
+V|Ha de pedirla el suceso.
+V|Ya sabéis (estadme atentos, amados sobrinos mios.
+V|Corte ilustre de Polonia, vasallos, deudos y amigos).
+V|Ya sabéis que yo en el mundo por mi ciencia he merecido
+V|El sobrenombre de docto, pues, contra el tiempo y olvido.
+V|Los pinceles de Timantes, los mármoles de Lisipo.
+V|En el ámbito del orbe me aclaman el gran Basilio.
+V|Ya sabéis que son las ciencias que más curso y más estimo,
+V|Matemáticas sutiles, por quien al tiempo le quito.
+V|Por quien á la fama rompo la jurisdicción y oficio
+V|De enseñar más cada dia; pues, cuando en mis tablas miro
+V|Presentes las novedades de los venideros siglos.
+V|Le gano al tiempo las gracias de contar lo que yo he dicho.
+V|Esos círculos de nieve, esos doseles de vidrio,
+V|Que el sol ilumina á rayos, que parte la luna á giros;
+V|Esos orbes de diamantes, esos globos cristalinos.
+V|Que las estrellas adornan y que campean los signos,
+V|Son el estudio mayor de mis años, son los libros
+V|Donde, en papel de diamante, en cuadernos de zafiro,
+V|Escribe con líneas de oro, en caracteres distintos,
+V|El Cielo nuestros sucesos, ya adversos ó ya benignos.
+V|Estos leo tan veloz, que con mi espíritu sigo
+V|Sus rápidos movimientos por rumbos y por caminos.
+V|¡Pluguiera al Cielo, primero que mi ingenio hubiera sido
+V|De sus márgenes comento y de sus hojas registro.
+V|Hubiera sido mi vida el primero desperdicio
+V|De sus iras, y que en ellas mi tragedia hubiera sido,
+V|Porque de los infelices aun el mérito es cuchillo,
+V|Que á quien le daña el saber, homicida es de sí mismo!
+V|Dígalo yo, aunque mejor lo dirán sucesos mios,
+V|Para cuya admiración otra vez silencio os pido.
+V|En Clorilene, mi esposa, tuve un infelice hijo.
+V|En cuyo parto los cielos se agotaron de prodigios.
+V|Antes que á la luz hermosa le diese el sepulcro vivo
+V|De un vientre (porque el nacer y el morir son parecidos),
+V|Su madre infinitas veces, entre ideas y delirios
+V|Del sueño, vio que rompía sus entrañas, atrevido.
+V|Un monstruo en forma de hombre; y entre su sangre teñido.
+V|La daba muerte, naciendo víbora humana del siglo.
+V|Llegó de su parto el dia, y los presagios cumplidos
+S|(Porque tarde ó nunca son mentirosos los impíos)
+V|Nació en horóscopo tal, que el sol, en su sangre tinto,
+V|Entraba sañudamente con la luna en desafío;
+V|Y siendo valla la tierra, los dos faroles divinos
+V|A luz entera luchaban, ya que no á brazo partido.
+V|El mayor, el más horrendo eclipse que ha padecido
+V|El sol, después que con sangre lloró la muerte de Cristo,
+V|Este fué, porque anegado el orbe en incendios vivos.
+V|Presumió que padecía el último parasismo:
+V|Los cielos se oscurecieron, temblaron los edificios,
+V|Llovieron piedras las nubes, corrieron sangre los ríos.
+V|En aqueste, pues, del Sol, ya frenesí ó ya delirio.
+V|Nació Segismundo, dando de su condición indicios,
+V|Pues dio la muerte á su madre, con cuya fiereza dijo:
+V|— «Hombre soy, pues que ya empiezo a pagar mal beneficios.»
+V|— Yo, acudiendo á mis estudios, en ellos y en todo miro
+V|Que Segismundo seria el hombre más atrevido,
+V|El príncipe más cruel y el monarca más impío.
+V|Por quien su reino vendría a ser parcial y diviso.
+V|Escuela de las traiciones y academia de los vicios;
+V|Y él, de su furor llevado, entre asombros y delitos.
+V|Había de poner en mí las plantas; y yo rendido
+V|A sus pies me habia de ver (¡Con qué vergüenza lo digo!).
+V|Siendo alfombra de sus plantas las canas del rostro mió.
+V|¿Quién no da crédito al daño, y mas al daño que ha visto
+V|En su estudio, donde hace el amor propio su oficio?
+V|Pues, dando crédito yo a los hados que, adivinos,
+V|Me pronosticaban daños en fatales vaticinios.
+V|Determiné de encerrar la fiera que habia nacido.
+V|Por ver si el sabio tenia en las estrellas dominio.
+V|Publicóse que el infante nació muerto; y, prevenido,
+V|Hice labrar una torre entre las peñas y riscos
+V|De esos montes, donde apenas la luz ha hallado camino,
+V|Por defenderle la entrada sus rústicos obeliscos.
+V|Las graves penas y leyes que, con públicos edictos.
+V|Declararon que ninguno entrase á un vedado sitio
+V|Del monte, se ocasionaron de las causas que os he dicho.
+V|Allí Segismundo vive, mísero, pobre y cautivo.
+V|Adonde solo Clotaldo le ha hablado, tratado y visto.
+V|Este le ha enseñado ciencias, este en la ley le ha instruido
+V|Católica, siendo solo de sus miserias testigo.
+V|Aquí hay tres cosas: la una, que yo, Polonia, os estimo
+V|Tanto, que os quiero librar de la opresión y servicio
+V|De un Rey tirano, porque no fuera señor benigno
+V|El que á su patria y su imperio pusiera en tanto peligro.
+V|La otra es considerar que, si á mi sangre le quito
+V|El derecho que le dieron humano fuero y divino.
+V|No es cristiana caridad; pues ninguna ley ha dicho
+V|Que, por reservar yo á otro de tirano y de atrevido.
+V|Pueda yo serlo; supuesto que si es tirano mi hijo.
+V|Porque él delitos no haga, vengo yo á hacer los delitos.
+V|Es la última y tercera el ver cuánto yerro ha sido
+V|Dar crédito fácilmente a los sucesos previstos;
+V|Pues aunque su inclinación le dicte sus precipicios,
+V|Quizá no le vencerán; porque el hado más esquivo.
+V|La inclinación más violenta, el planeta más impío,
+V|Solo el albedrío inclinan, no fuerzan el albedrío.
+V|Y así, entre una y otra causa, vacilante y discursivo.
+V|Previne un remedio tal, que os suspenda los sentidos.
+V|Yo he de ponerle mañana, sin que él sepa que es mi hijo
+V|Y Rey vuestro, á Segismundo (que aqueste su nombre ha sido),
+V|En mi dosel, en mi silla, en fin, en el puesto mió.
+V|Donde os gobierne y os mande, y donde todos rendidos
+V|La obediencia le juréis; pues con aquesto consigo
+V|Tres cosas, con que respondo a las otras tres que he dicho.
+V|Es la primera que, siendo prudente, cuerdo y benigno.
+V|Desmintiendo en todo al hado, que del tantas cosas dijo.
+V|Gozaréis del natural príncipe vuestro, que ha sido
+V|Cortesano de unos montes y de sus fieras vecino.
+V|Es la segunda, que si él, soberbio, osado, atrevido
+V|Y cruel, con rienda suelta corre el campo de sus vicios,
+V|Habré y piadoso entonces con mi obligación cumplido;
+V|Y luego en desposeerle haré como Rey invicto,
+V|Siendo el volverle á la cárcel no crueldad, sino castigo.
+V|Es la tercera, que siendo el Príncipe como os digo.
+V|Por lo que os amo, vasallos, os daré Reyes mas dignos
+V|De la corona y el cetro; pues serán mis dos sobrinos.
+V|Que junto en uno el derecho de los dos, y convenidos
+V|Con la fe del matrimonio, tendrán lo que han merecido.
+V|Esto como rey os mando, esto como padre os pido.
+V|Esto como sabio os ruego, esto como anciano os digo.
+V|Y si el Séneca español, «Que era humilde esclavo, dijo,
+V|De su república un Rey», como esclavo os lo suplico.
+V|Si á mí el responder me toca, como el que en efecto ha sido
+V|Aquí el mas interesado: en nombre de todos digo
+V|Que Segismundo parezca, pues le basta ser tu hijo.
+V|Danos al Príncipe nuestro, que ya por Rey le pedimos.
+V|Vasallos, esa fineza os agradezco y estimo.
+V|Acompañad á sus cuartos a los dos atlantes mios,
+V|Que mañana le veréis.
+V|¡Viva el grande rey Basilio!
+S|(Entranse todos acompañando á Estrella y á Astólfo: quédase el Rey.
+V|)
+S|Escena vii
+S|(Clotaldo. Rosaura. Clarín. Basilio.)
+V|¿Podréte hablar? (Al Rey.)
+V|Oh Clotaldo! Tú seas muy bien venido.
+V|Aunque viniendo á tus plantas era fuerza haberlo sido,
+V|Esta vez rompe, señor, el hado triste y esquivo
+V|El privilegio á la ley, y á la costumbre el estilo.
+V|¿Qué tienes?
+V|Una desdicha, señor, que me ha sucedido,
+V|Cuando pudiera tenerla por el mayor regocijo.
+V|Prosigue.
+V|Este bello joven, osado ó inadvertido,
+V|Entró en la torre, señor, adonde al Príncipe ha visto,
+V|Y es ...
+V|No os aflijáis, Clotaldo; si otro dia hubiera sido.
+V|Confieso que lo sintiera: pero ya el secreto he dicho,
+V|Y no importa que él lo sepa, supuesto que yo lo digo.
+V|Vedme después, porque tengo muchas cosas que advertiros,
+V|Y muchas que hagáis por mí; que habéis de ser, os aviso,
+V|Instrumento del mayor suceso que el mundo ha visto:
+V|Y á esos presos, porque al fin no presumáis que castigo
+V|Descuidos vuestros, perdono. (Vase.)
+V|¡Vivas, gran señor, mil siglos!
+S|Escena viii
+S|(Clotaldo. Rosaura. Clarín.)
+V|(Ap. Mejoró el cielo la suerte. Ya no diré que es mi hijo.
+V|Pues que lo puedo excusar.) Extranjeros peregrinos.
+V|Libres estáis.
+V|Tus pies beso mil veces.
+V|Y yo los piso,
+V|Que una letra más ó menos no reparan dos amigos.
+V|La vida, señor, me has dado; y pues á tu cuenta vivo.
+V|Eternamente seré esclavo tuyo.
+V|No ha sido
+V|Vida la que yo te he dado, porque un hombre bien nacido.
+V|Si está agraviado, no vive; y supuesto que has venido
+V|A vengarte de un agravio, según tú proprio me has dicho.
+V|No te he dado vida yo, porque tú no la has traído;
+V|Que vida infame no es vida. (Ap. Bien con aquesto le animo.)
+V|Confieso que no la tengo, aunque de tí la recibo:
+V|Pero yo, con la venganza, dejaré mi honor tan limpio,
+V|Que pueda mi vida luego, atropellando peligros.
+V|Parecer dádiva tuya.
+V|Toma el acero bruñido
+V|Que trajiste; que yo sé que él baste, en sangre teñido
+V|De tu enemigo, á vengarte; porque acero que fué mío . . .
+V|(Digo: este instante, este rato que en mi poder le he tenido),
+V|Sabrá vengarte.
+V|En tu nombre segunda vez me le ciño,
+V|Y en él juro mi venganza, aunque fuese mi enemigo
+V|Más poderoso.
+V|¿Eslo mucho?
+V|Tanto, que no te lo digo,
+V|No porque de tu prudencia mayores cosas no fio,
+V|Sino porque no se vuelva contra mí el favor que admiro
+V|En tu piedad.
+V|Antes fuera ganarme á mí con decirlo;
+V|Pues fuera cerrarme el paso de ayudar á tu enemigo.
+S|(Ap. ¡Oh si supiera quién es!)
+V|Porque no pienses que estimo
+V|En poco esa confianza, sabe que el contrario ha sido
+V|No menos que Astolfo, Duque de Moscovia.
+V|(Ap. Mal resisto
+V|El dolor, porque es más grave, que fué imaginado, visto.
+V|Apuremos más el caso.) Si moscovita has nacido.
+V|El que es natural señor, mal agraviarte ha podido:
+V|Vuélvete á tu patria pues, y deja el ardiente brio
+V|Que te despeña.
+V|Yo sé que, aunque mi Príncipe ha sido.
+V|Pudo agraviarme.
+V|No pudo, aunque pusiera, atrevido,
+V|La mano en tu rostro. (Ap. ¡Ay, cielos!)
+V|Mayor fué el agravio mió.
+V|Dilo ya, pues que no puedes decir más que yo imagino.
+V|Sí dijera; mas no sé con qué respeto te miro.
+V|Con qué afecto te venero, con qué estimación te asisto,
+V|Que no me atrevo á decirte que es este exterior vestido
+V|Enigma, pues no es de quien parece: juzga advertido.
+V|Si no soy ]o que parezco, y Astolfo á casarse vino
+V|Con Estrella, si podrá agraviarme. — Harto te he dicho.
+S|(Vanse Rosaura y Clarín.)
+V|¡Escucha, aguarda, detente!? Qué confuso laberinto
+V|Es este, donde no puede hallar la razón el hilo?
+V|¡Mi honor es el agraviado, poderoso el enemigo.
+V|Yo vasallo, ella mujer: Descubra el Cielo camino! ...
+V|Aunque no sé si podrá, cuando, en tan confuso abismo.
+V|Es todo el cielo un presagio, y es todo el mundo un prodigio.
+H|Jornada segunda
+V|Todo, como lo mandaste, queda efectuado.
+V|Cuenta,
+V|Clotaldo, cómo pasó.
+V|Fué, señor, desta manera:
+V|Con la apacible bebida que, de confecciones llena,
+V|Hacer mandaste, mezclando la virtud de algunas yerbas,
+V|Cuyo tirano poder y cuya secreta fuerza
+V|Así al humano discurso priva, roba y enajena,
+V|Que deja vivo cadáver á un hombre, y cuya violencia,
+V|Adormecido, le quita los sentidos y potencias ...
+V|— No tenemos que argüir que aquesto posible sea.
+V|Pues tantas veces, señor, nos ha dicho la experiencia,
+V|Y es cierto, que de secretos naturales está llena
+V|La medicina, y no hay animal, planta ni piedra
+V|Que no tenga calidad determinada. Y si llega
+V|A examinar mil venenos la humana malicia nuestra,
+V|Que den la muerte, ¿Qué mucho que, templada su violencia.
+V|Pues hay venenos que maten, haya venenos que aduerman?
+V|Dejando aparte el dudar, si es posible que suceda.
+V|Pues que ya queda probado con razones y evidencias ...
+V|— Con la bebida, en efecto, que el opio, la adormidera
+V|Y el beleño compusieron, bajé á la cárcel estrecha
+V|De Segismundo; con él hablé un rato de las letras
+V|Humanas, que le ha enseñado la muda naturaleza
+V|De los montes y los cielos, en cuya divina escuela
+V|La retórica aprendió de las aves y las fieras.
+V|Para levantarle más el espíritu á la empresa
+V|Que solicitas, tomó por asunto la presteza
+V|De un águila caudalosa, que despreciando la esfera
+V|Del viento, pasaba á ser en las regiones supremas
+V|Del fuego rayo de pluma, ó desasido cometa.
+V|Encarecí el vuelo altivo, diciendo: «Al fin eres reina
+V|De las aves; así á todas es justo que las prefieras.»
+V|El no hubo menester más; que, en tocando esta materia
+V|De la majestad, discurre con ambición y soberbia;
+V|Porque, en efecto, la sangre lo incita, mueve y alienta
+V|A cosas grandes, y dijo: — «¡Que en la república inquieta
+V|De las aves también haya quien les jure la obediencia!
+V|En llegando á este discurso, mis desdichas me consuelan,
+V|Pues, por lo menos, si estoy sujeto, lo estoy por fuerza;
+V|Porque voluntariamente á otro hombre no me rindiera.»
+V|Viéndole ya enfurecido con esto, que ha sido el tema
+V|De su dolor, le brindé con la pócima, y apenas
+V|Pasó desde el vaso al pecho el licor, cuando las fuerzas
+V|Rindió al sueño, discurriendo por los miembros y las venas
+V|Un sudor frió, de modo que, á no saber yo que era
+V|Muerte fingida, dudara de su vida. En esto llegan
+V|Las gentes de quien tú fias el valor de esta experiencia;
+V|Y, poniéndole en un coche, hasta tu cuarto le llevan,
+V|Donde prevenida estaba la majestad y grandeza
+V|Que es digna de su persona. Allí en tu cama le acuestan,
+V|Donde, al tiempo que el letargo haya perdido la fuerza.
+V|Como á tí mismo, señor, le sirvan, que así lo ordenas.
+V|Y si haberte obedecido te obliga á que yo merezca
+V|Galardón, sólo te pido (perdona mi inadvertencia)
+V|Que me digas ¿ Qué es tu intento, trayendo desta manera
+V|A Segismundo á palacio?
+V|Clotaldo, muy justa es esa
+V|Duda que tienes, y quiero sólo á tí satisfacerla.
+V|A Segismundo, mi hijo, el influjo de su estrella
+V|(Bien lo sabes) amenaza mil desdichas y tragedias:
+V|Quiero examinar si el Cielo, que no es posible que mienta,
+V|Y más habiéndonos dado de su rigor tantas muestras.
+V|En su cruel condición, ó se mitiga ó se templa
+V|Por lo menos; y, vencido, con valor y con prudencia.
+V|Se desdice; porque el hombre predomina en las estrellas.
+V|Esto quiero examinar, trayéndole donde sepa
+V|Que es mi hijo, y donde haga de su talento la prueba.
+V|Si magnánimo la vence, reinará; pero, si muestra
+V|El ser cruel y tirano, le volveré á su cadena.
+V|Ahora preguntarás que, para aquesta experiencia,
+V|¿Qué importó haberle traído dormido desta manera?
+V|Y quiero satisfacerte, dándote á todo respuesta.
+V|Si él supiera que es mi hijo hoy, y mañana se viera
+V|Segunda vez reducido á su prisión y miseria.
+V|Cierto es de su condición que desesperara en ella;
+V|Porque, sabiendo quién es, ¿Qué consuelo habrá que tenga?
+V|Y así he querido dejar abierta al daño la puerta
+V|Del decir que fué soñado cuanto vio. Con esto llegan
+V|A examinarse dos cosas: Su condición, la primera;
+V|Pues él, despierto, procede en cuanto imagina y piensa:
+V|Y el consuelo la segunda; pues, aunque ahora se vea
+V|Obedecido, y después a sus prisiones se vuelva,
+V|Podrá entender que soñó, y hará bien cuando lo entienda:
+V|Porque en el mundo, Clotaldo, todos los que viven sueñan.
+V|Razones no me faltaran para probar que no aciertas;
+V|Mas ya no tiene remedio; y, según dicen las señas.
+V|Parece que ha despertado, y hacia nosotros se acerca.
+V|Yo me quiero retirar: Tú, como ayo suyo, llega,
+V|Y de tantas confusiones como su discurso cercan.
+V|Le saca con la verdad.
+V|¿En fin, que me das licencia
+V|Para que lo diga?
+V|Sí; que podrá ser, con saberla,
+V|Que conocido el peligro, más fácilmente se venza. (Vase.)
+S|Escena ii
+S|(Clarín. Clotaldo.)
+V|(Ap.) A costa de cuatro palos, que el llegar aquí me
+V|cuesta.
+V|De un alabardero rubio que barbó de su librea.
+V|Tengo de ver cuanto pasa; que no hay ventana más cierta
+V|Que aquella que, sin rogar á un ministro de boletas.
+V|Un hombre se trae consigo; pues para todas las fiestas.
+V|Despojado y despejado, se asoma á su desvergüenza.
+V|(Ap. Este es Clarín, el criado de aquella (¡ay cielos!),
+V|de aquella
+V|Que, tratante de desdichas, pasó á Polonia mi afrenta.]
+V|Clarin, ¿Qué hay de nuevo?
+V|Hay, señor, que tu gran clemencia.
+V|Dispuesta á vengar agravios de Rosaura, la aconseja
+V|Que tome su propio traje.
+V|Y es bien, porque no parezca
+V|Liviandad.
+V|Hay que, mudando su nombre, y tomando, cuerda,
+V|Nombre de sobrina tuya, hoy tanto honor se acrecienta,
+V|Que dama en palacio ya de la singular Estrella
+V|Vive.
+V|Es bien que de una vez tome su honor por mi cuenta.
+V|Hay que ella está esperando que ocasión y tiempo venga
+V|En que vuelvas por su honor.
+V|Prevención segura es esa;
+V|Que, al fin, el tiempo ha de ser quien haga esas diligencias.
+V|Hay que ella está regalada, servida como una reina,
+V|En fe de sobrina tuya; y hay que, viniendo con ella.
+V|Estoy yo muriendo de hambre y nadie de mí se acuerda
+V|Sin mirar que soy Clarin, y que si el tal Clarin suena,
+V|Podra decir cuanto pasa al Rey, á Astoifo y á Estrella;
+V|Porque Clarín y criado son dos cosas que se llevan
+V|Con el secreto muy mal; y podrá ser, si me deja
+V|El silencio de su mano, se cante por mí esta letra:
+S|(Clarín que rompe el albor)
+S|(No suena mejor.)
+V|Tu queja está bien fundada; yo satisfaré tu queja,
+V|Y en tanto sírveme á mi.
+V|Pues ya Segismundo llega.
+S|Escena iii
+S|(Músicos, cantando, y criados, dando de vestir á Segismundo, que sale como asombrado. Clotaldo. Clarín.)
+V|¡Válgame el cielo, qué veo!
+V|¡Válgame el cielo, qué miro!
+V|Con poco espanto lo admiro.
+V|Con mucha duda lo creo.
+V|¿Yo en palacios suntuosos?
+V|¿Yo entre telas y brocados?
+V|¿Yo cercado de criados
+V|Tan lucidos y briosos?
+V|¿Yo despertar de dormir
+V|En lecho tan excelente?
+V|¿Yo en medio de tanta gente.
+V|Que me sirva de vestir?
+V|Decir que sueño es engaño:
+V|Bien sé que despierto estoy.
+V|¿Yo Segismundo no soy?
+V|Dadme, cielos, desengaño.
+V|Decidme, ¿Qué pudo ser
+V|Esto que á mi fantasía
+V|Sucedió mientras dormia.
+V|Que aquí me he llegado á ver?
+V|Pero, sea lo que fuere,
+V|¿Quién me mete en discurrir?
+V|Dejarme quiero servir,
+V|Y venga lo que viniere.
+V|CRIADO 1° (Ap. al criado 2° y á Clarín.)
+V|¡Qué melancólico está!
+V|CRIADO 2° ¿Pues á quién le sucediera
+V|Esto, que no lo estuviera?
+V|A mí.
+V|CRIADO 2° Llega á hablarle ya.
+V|CRIADO 1° (A Segismundo.)
+V|¿Volverán á cantar?
+V|No.
+V|No quiero que canten mas.
+V|CRIADO 2° Como tan suspenso estás.
+V|Quise divertirte.
+V|Yo
+V|No tengo de divertir
+V|Con sus voces mis pesares;
+V|Las músicas militares
+V|Sólo he gustado de oir.
+V|Vuestra Alteza, gran señor,
+V|Me dé su mano á besar,
+V|Que el primero os ha de dar
+V|Esta obediencia mi honor.
+V|(Ap.) ¡Clotaldo es! — ¿Pues cómo así,
+V|Quien en prisión me maltrata,
+V|Con tal respeto me trata?
+V|¿Qué es lo que pasa por mí?
+V|Con la grande confusión
+V|Que el nuevo estado te da.
+V|Mil dudas padecerá
+V|El discurso y la razón;
+V|Pero ya librarte quiero
+V|De todas (si puede ser),
+V|Porque has, señor, de saber
+V|Que eres príncipe heredero
+V|De Polonia. Si has estado
+V|Retirado y escondido,
+V|Por obedecer ha sido
+V|A la inclemencia del hado,
+V|Que mil tragedias consiente
+V|A este imperio, cuando en él
+V|El soberano laurel
+V|Corone tu augusta frente.
+V|Mas, fiando á tu atención
+V|Que vencerás las estrellas.
+V|Porque es posible vencellas
+V|Un magnánimo varón,
+V|A Palacio te han traido.
+V|De la torre en que vivias.
+V|Mientras al sueño tenias
+V|El espíritu rendido.
+V|Tu padre, el Rey, mi señor,
+V|Vendrá á verte; y del sabrás,
+V|Segismundo, lo demás.
+V|Pues, vil, infame, traidor,
+V|¿Qué tengo mas que saber.
+V|Después de saber quién soy.
+V|Para mostrar desde hoy
+V|Mi soberbia y mi poder?
+V|¿Cómo á tu patria le has hecho
+V|Tal traición, que me ocultaste
+V|A mí, pues que me negaste.
+V|Contra razón y derecho.
+V|Este estado?
+V|¡Ay de mí triste!
+V|Traidor fuiste con la ley,
+V|Lisonjero con el Rey,
+V|Y cruel conmigo fuiste;
+V|Y así el Rey, la ley y yo.
+V|Entre desdichas tan fieras.
+V|Te condenan á que mueras
+V|A mis manos.
+S|CRIADO 2° ¡Señor!...
+V|No
+V|Me estorbe nadie, que es vana
+V|Diligencia; y ¡Vive Dios!
+V|Si os ponéis delante vos.
+V|Que os eche por la ventana.
+V|CRIADO 2° Huye, Clotaldo.
+V|¡Ay de tí!
+V|¡Qué soberbia vas mostrando.
+V|Sin saber que estás soñando! (Vase.)
+V|CRIADO 2° Advierte...
+V|Aparta de aquí.
+V|CRIADO 2° Que á su Rey obedeció.
+V|En lo que no es justa ley
+V|No ha de obedecer al Rey;
+V|Y su Príncipe era yo.
+V|CRIADO 2° El no debió examinar
+V|Si era bien hecho ó mal hecho.
+V|Que estáis mal con vos sospecho,
+V|Pues me dais que replicar.
+V|Dice el Príncipe muy bien,
+V|Y vos hicisteis muy mal.
+V|CRIADO 2° ¿Quién os dio licencia igual?
+V|Yo me la he tomado.
+V|¿Quién
+V|Eres tú, di?
+V|Entremetido;
+V|Y desde oficio soy jefe,
+V|Porque soy el mequetrefe
+V|Mayor que se ha conocido.
+V|Tú solo, en tan nuevos mundos,
+V|Me has agradado.
+V|Señor,
+V|Soy un grande agradador
+V|De todos los Segismundos.
+V|¡Feliz mil veces el dia,
+V|Oh Príncipe, que os mostráis,
+V|Sol de Polonia, y llenáis
+V|De resplandor y alegría
+V|Todos esos horizontes
+V|Con tan divino arrebol;
+V|Pues que salís como el Sol
+V|De los senos de los montes!
+V|Salid, pues, y aunque tan tarde
+V|Se corona vuestra frente
+V|Del laurel resplandeciente,
+V|Tarde muera.
+V|Dios os guarde.
+V|El no haberme conocido.
+V|Sólo por disculpa os doy
+V|De no honrarme más. Yo soy
+V|Astolfo; duque he nacido
+V|De Moscovia, y primo vuestro:
+V|Haya igualdad en los dos.
+V|Si digo que os guarde Dios,
+V|¿Bastante agrado no os muestro?
+V|Pero ya que, haciendo alarde
+V|De quien sois, desto os quejáis,
+V|Otra vez que me veáis
+V|Le diré á Dios que no os guarde.
+V|CRIADO 2* (A Astolfo.)
+V|Vuestra Alteza considere
+V|Que, como en montes nacido.
+V|Con todos ha procedido.
+V|Astolfo, señor, prefiere... (A Segismundo.)
+V|Cansóme, como llegó
+V|Grave á hablarme, y lo primero
+V|Que hizo, se puso el sombrero.
+V|CRIADO 2° Es Grande.
+V|Mayor soy yo.
+V|CRIADO 2° Con todo eso, entre los dos
+V|Que haya más respeto es bien
+V|Que entre los demás.
+V|¿Y quién
+V|Os mete conmigo á vos?
+S|Escena v
+S|(Estrella. Dichos.)
+V|Vuestra Alteza, señor, sea
+V|Muchas veces bien venido
+V|Al dosel que, agradecido,
+V|Le recibe y le desea,
+V|Adonde, á pesar de engaños,
+V|Viva augusto y eminente,
+V|Donde su vida se cuente
+V|Por siglos, y no por años,
+V|(A Clarín.) Dime tú ahora, ¿Quién es
+V|Esta beldad soberana?
+V|¿Quién es esta diosa humana,
+V|A cuyos divinos pies
+V|Postra el cielo su arrebol?
+V|¿Quién es esta mujer bella ?
+V|Es, señor, tu prima Estrella,
+V|Mejor dijeras el sol.
+V|Aunque el parabién es bien (A Estrella.)
+V|Darme del bien que conquisto,
+V|De sólo haberos hoy visto
+V|Os admito el parabién:
+V|Y así, de llegarme á ver
+V|Con el bien que no merezco.
+V|El parabién agradezco,
+V|Estrella, que amanecer
+V|Podéis, y dar alegría
+V|Al más luciente farol.
+V|¿Qué dejáis que hacer al sol,
+V|Si os levantáis con el día?
+V|Dadme á besar vuestra mano,
+V|En cuya copa de nieve
+V|El aura candores bebe.
+V|Sed más galán cortesano.
+V|(Ap.) Si él toma la mano, yo
+V|Soy perdido.
+V|CRIADO 2° (Ap. El pesar sé
+V|De Astolfo, y le estorbaré.)
+V|Advierte, señor, que no
+V|Es justo atreverse así,
+V|Y estando Astolfo ...
+V|¿No digo
+V|Que vos no os metáis conmigo?
+V|CRIADO 2° Digo lo que es justo.
+V|A mí,
+V|Todo eso me causa enfado.
+V|Nada me parece justo
+V|En siendo contra mi gusto.
+V|CRIADO 2° Pues, yo, señor, he escuchado
+V|De tí, que en lo justo es bien
+V|Obedecer y servir.
+V|También oíste decir
+V|Que por un balcón, á quien
+V|Me canse, sabré arrojar.
+V|CRIADO 2° Con los hombres como yo.
+V|No puede hacerse eso.
+V|¿No?
+V|¡Por Dios! que lo he de probar.
+V|(
+S|(Cógele en los brazos y éntrase, y todos tras el, volviendo á salir)
+V|inmediatamente.
+S|()
+S|()
+V|¿Qué es esto que llego á ver ?
+V|Idle todos á estorbar. (Vase.)
+V|(Volviendo.) Cayó del balcón al mar:
+V|¡Vive dios! que pudo ser.
+V|Pues medid con más espacio
+V|Vuestras acciones severas;
+V|Que lo que hay de hombres á fieras,
+V|Hay desde un monte á palacio.
+V|Pues en dando tan severo
+V|En hablar con entereza,
+V|Quizá no hallaréis cabeza
+V|En que se os tenga el sombrero. (Vase Astolfo.)
+S|Escena vi
+S|(Basilio. Segismundo. Clarín. Criados.)
+V|¿Qué ha sido esto?
+V|Nada ha sido.
+V|A un hombre, que me ha cansado,
+V|Deste balcón he arrojado.
+V|(A Segismundo.)
+V|Que es el Rey está advertido.
+V|¿Tan presto una vida cuesta
+V|Tu venida al primer dia?
+V|Díjome que no podia
+V|Hacerse, y gané la apuesta.
+V|Pésame mucho que cuando,
+V|Príncipe, á verte he venido.
+V|Pensando hallarte advertido.
+V|De hados y estrellas triunfando,
+V|Con tanto rigor te vea;
+V|Y que la primera acción
+V|Que has hecho en esta ocasión,
+V|Un grave homicidio sea.
+V|¿Con qué amor llegar podré
+V|A darte ahora mis brazos.
+V|Si de sus soberbios lazos,
+V|Que están enseñados sé
+V|A dar muerte? ¿Quién llegó
+V|A ver desnudo el puñal
+V|Que dio una herida mortal,
+V|Que no temiese ? ¿ Quién vio
+V|Sangriento el lugar, adonde
+V|A otro hombre le dieron muerte.
+V|Que no sienta? Que el más fuerte
+V|A su natural responde.
+V|Yo así, que en tus brazos miro
+V|Desta muerte el instrumento,
+V|Y miro el lugar sangriento,
+V|De tus brazos me retiro;
+V|Y aunque en amorosos lazos
+V|Ceñir tu cuello pensé,
+V|Sin ellos me volveré,
+V|Que tengo miedo á tus brazos.
+V|Sin ellos me podré estar,
+V|Como me he estado hasta aquí;
+V|Que un padre que contra mí
+V|Tanto rigor sabe usar.
+V|Que su condición ingrata
+V|De su lado me desvia,
+V|Como á una fiera me cria,
+V|Y como á un monstruo me trata,
+V|Y mi muerte solicita.
+V|De poca importancia fué
+V|Que los brazos no me dé.
+V|Cuando el ser de hombre me quita.
+V|Al Cielo y á Dios pluguiera
+V|Que á dártele no llegara;
+V|Pues ni tu voz escuchara.
+V|Ni tu atrevimiento viera.
+V|Si no me le hubieras dado,
+V|No me quejara de tí;
+V|Pero una vez dado, sí,
+V|Por habérmele quitado;
+V|Pues, aunque el dar la acción es
+V|Más noble y más singular.
+V|Es mayor bajeza el dar,
+V|Para quitarlo después.
+V|¡Bien me agradeces el verte,
+V|De un humilde y pobre preso,
+V|Príncipe ya!
+V|Pues en eso
+V|¿Qué tengo que agradecerte?
+V|Tirano de mi albedrío,
+V|Si viejo y caduco estás,
+V|Muriéndote, ¿Qué me das?
+V|¿Dasme mas de lo que es mió?
+V|Mi padre eres y mi Rey;
+V|Luego toda esta grandeza
+V|Me da la naturaleza
+V|Por derecho de su ley.
+V|Luego, aunque esté en tal estado.
+V|Obligado no te quedo,
+V|Y pedirte cuentas puedo
+V|Del tiempo que me has quitado
+V|Libertad, vida y honor;
+V|Y así, agradéceme á mí
+V|Que yo no cobre de tí,
+V|Pues eres tú mi deudor.
+V|Bárbaro eres y atrevido:
+V|Cumplió su palabra el Cielo;
+V|Y así, para él mismo apelo,
+V|Soberbio y desvanecido.
+V|Y aunque sepas ya quién eres
+V|Y desengañado estés,
+V|Y aunque en un lugar te ves
+V|Donde á todos te prefieres,
+V|Mira bien lo que te advierto:
+V|Que seas humilde y blando.
+V|Porque quizá estás soñando.
+V|Aunque ves que estás despierto. (Vase.)
+V|¿Que quizá soñando estoy.
+V|Aunque despierto me veo?
+V|No sueño, pues toco y creo
+V|Lo que he sido y lo que soy;
+V|Y aunque ahora te arrepientas,
+V|Poco remedio tendrás.
+V|Sé quién soy, y no podrás.
+V|Aunque suspires y sientas.
+V|Quitarme el haber nacido
+V|Desta corona heredero;
+V|Y si me viste, primero,
+V|A las prisiones rendido,
+V|Fué porque ignoré quién era:
+V|Pero ya informado estoy-
+V|De quién soy, y sé que soy
+V|Un compuesto de hombre y fiera.
+S|Escena vii
+S|(Rosaura, en traje de mujer. Segismundo. Clarín. Criados.)
+V|(Ap) Siguiendo á Estrella vengo,
+V|Y gran temor de hallar á Astolfo tengo;
+V|Que Clotaldo desea
+V|Que no sepa quién soy, y no me vea.
+V|Porque dice que importa al honor mió;
+V|Y de Clotaldo fio
+V|Su efecto, pues le debo, agradecida,
+V|Aquí el amparo de mi honor y vida.
+V|(A Segismundo.)
+V|¿Qué es lo que te ha agradado
+V|Más de cuanto aquí has visto y admirado?
+V|Nada me ha suspendido,
+V|Que todo lo tenia prevenido;
+V|Mas, si admirarme hubiera
+V|Algo en el mundo, la hermosura fuera
+V|De la mujer. Leia
+V|Una vez yo en los libros que tenia,
+V|Que, lo que á Dios mayor estudio debe,
+V|Es el hombre, por ser un mundo breve;
+V|Mas ya que lo es recelo
+V|La mujer, pues ha sido un breve cielo;
+V|Y más beldad encierra
+V|Que el hombre, cuanto va de cielo á tierra;
+V|Y más si es la que miro.
+V|(Ap.) El Príncipe está aquí; yo me retiro.
+V|Oye, mujer, detente;
+V|No juntes el ocaso y el oriente.
+V|Huyendo al primer paso;
+V|Que juntos el oriente y el ocaso,
+V|La luz y sombra fria,
+V|Serás, sin duda, síncopa del dia.
+V|Pero ¿Qué es lo que veo?
+V|Lo mismo que estoy viendo, dudo y creo.
+V|(Ap.) Yo he visto esta belleza
+V|Otra vez.
+V|(Ap.) Yo esta pompa, esta grandeza
+V|He visto reducida
+V|A una estrecha prisión.
+V|(Ap. Ya halló mi vida.)
+V|Mujer, que aqueste nombre
+V|Es el mejor requiebro para el hombre,
+V|¿Quién eres? Que, sin verte,
+V|Adoración me debes, y de suerte
+V|Por la fe te conquisto.
+V|Que me persuado á que otra vez te he visto.
+V|¿Quién eres, mujer bella?
+V|(Ap. Disimular me importa.)
+V|— Soy de Estrella
+V|Una infelice dama.
+V|No digas tal; di el sol, á cuya llama
+V|Aquella estrella vive.
+V|Pues de tus rayos resplandor recibe.
+V|Yo vi en reino de olores
+V|Que presidia entre escuadrón de flores
+V|La deidad de la rosa,
+V|Y era su emperatriz por más hermosa;
+V|Yo vi entre piedras finas
+V|De la docta academia de sus minas
+V|Preferir el diamante,
+V|Y ser su emperador por más brillante;
+V|Yo en esas cortes bellas
+V|De la inquieta república de estrellas,
+V|Vi en el lugar primero
+V|Por rey de las estrellas al lucero;
+V|Yo en esferas perfetas.
+V|Llamando el sol á cortes los planetas,
+V|Le vi que presidia.
+V|Como mayor oráculo del dia.
+V|Pues ¿Cómo, si entre flores, entre estrellas,
+V|Piedras, signos, planetas, las más bellas
+V|Prefieren, tú has servido
+V|La de menos beldad, habiendo sido
+V|Por más bella y hermosa,
+V|Sol, lucero, diamante, estrella y rosa?
+S|Escena viii
+S|(Clotaldo, que se queda al paño. Segismundo. Rosaura. Clarín)
+V|Criados.
+S|()
+V|(Ap.) A Segismundo reducir deseo,
+V|Porque, en fin, le he criado ... Mas ¡Qué veo!
+V|Tu favor reverencio;
+V|Pespóndate retórico el silencio:
+V|Cuando tan torpe la razón se halla,
+V|Mejor habla, señor, quien mejor calla.
+V|Nos has de ausentarte, espera.
+V|¿Cómo quieres dejar de esa manera
+V|A oscuras mi sentido?
+V|Esta licencia á vuestra Alteza pido.
+V|Irte con tal violencia
+V|No es pedirla, es tomarte la licencia.
+V|Pues, si tú no la das, tomarla espero.
+V|Harás que de cortés pase á grosero;
+V|Porque la resistencia
+V|Es veneno cruel de mi paciencia.
+V|Pues cuando ese veneno.
+V|De furia, de rigor y saña lleno,
+V|La paciencia venciera,
+V|Mi respeto no osara, ni pudiera.
+V|Sólo por ver si puedo.
+V|Harás que pierda á tu hermosura el miedo.
+V|Que soy muy inclinado
+V|A vencer lo imposible: hoy he arrojado
+V|De ese balcón á un hombre, que decia
+V|Que hacerse no podia:
+V|Y así, por ver si puedo, cosa es llana
+V|Que arrojaré tu honor por la ventana.
+V|(Ap.) Mucho se va empeñando.
+V|¿Qué he de hacer, cielos, cuando
+V|Tras un loco deseo
+V|Mi honor, segunda vez, á riesgo veo?
+V|No en vano prevenía
+V|A este reino infeliz tu tiranía
+V|Escándalos tan fuertes
+V|De delitos, traiciones, ires, muertes.
+V|Mas ¿Qué ha de hacer un hombre
+V|Que no tiene de humano más que el nomore,
+V|Atrevido, inhumano.
+V|Cruel, soberbio, bárbaro y tirano,
+V|Nacido entre las fieras?
+V|Porque tú ese baldón no me dijeras.
+V|Tan cortés me mostraba.
+V|Pensando que con eso te obligaba;
+V|Mas, si lo soy hablando deste modo.
+V|Has de decirlo, vive Dios, por todo.
+V|— Hola, dejadnos solos; y esa puerta
+V|Se cierre, y no entre nadie.
+S|(Vanse Clarín y los criados.)
+V|¡Yo soy muerta!
+V|— Advierte . . .
+V|Soy tirano,
+V|Y ya pretendes reducirme en vano.
+V|(Ap. ¡Oh qué lance tan fuerte!
+V|Saldré á estorbarlo, aunque me dé la muerte.)
+V|Señor, atiende, mira . . . (Llega.)
+V|Segunda vez me has provocado á ira,
+V|Viejo caduco y loco.
+V|¿Mi enojo y mi rigor tienes en poco?
+V|¿Cómo hasta aquí has llegado?
+V|De los acentos desta voz llamado,
+V|A decirte que seas
+V|Más apacible, si reinar deseas;
+V|Y no, por verte ya de todos dueño.
+V|Seas cruel porque quizá es un sueño.
+V|A rabia me provocas,
+V|Cuando la luz del desengaño tocas.
+V|Veré, dándote la muerte.
+V|Si es sueño ó si es verdad.
+S|(Al ir á sacar la daga se la detiene Clotaldo, y se pone de rodillas.)
+V|Yo desta suerte
+V|Librar mi vida espero.
+V|Quita la osada mano del acero.
+V|Hasta que gente venga.
+V|Que tu rigor y cólera detenga.
+V|No he de soltarte.
+V|¡Ay cielo!
+V|Suelta, digo,
+V|Caduco, loco, bárbaro, enemigo,
+V|O será desta suerte, (Luchan.)
+V|Dándote ahora entre mis brazos muerte.
+V|¡Acudid todos presto,
+V|Que matan á Clotaldo! (Vase.)
+V|(
+S|(Sale Astolfo á tiempo que cae Clotaldo á sus pies, y él se pone en)
+V|medio.
+S|()
+S|Escena ix
+S|(Astolfo. Segismwido. Clotaldo.)
+V|¿Pues qué es esto,
+V|Príncipe generoso?
+V|¿Así se mancha acero tan brioso
+V|En una sangre helada?
+V|Vuelva á la vaina tan lucida espada.
+V|En viéndola teñida
+V|En esa infame sangre.
+V|Ya su vida
+V|Tomó á mis pies sagrado;
+V|Y de algo ha de servirle haber llegado.
+V|Sírvate de morir; pues, desta suerte,
+V|También sabré vengarme con tu muerte
+V|De aquel pasado enojo.
+V|Yo defiendo
+V|Mi vida; así la majestad no ofendo.
+S|(Saca Astolfo la espada, y riñen.)
+V|No le ofendas, señor.
+V|¿Pues, aquí espadas?
+V|(Ap.) ¡Astolfo es, ay de mí, penas airadas!
+V|¿Pues qué es lo que ha pasado?
+V|Nada, señor, habiendo tú llegado. (Envainan.)
+V|Mucho, señor, aunque hayas tú venido.
+V|Yo á ese viejo matar he pretendido.
+V|¿Respeto no tenias
+V|A esas canas?
+V|Señor, ved que son mias:
+V|Que no importa veréis.
+V|Acciones vanas,
+V|Querer que tenga yo respeto á canas;
+V|Pues aun esas podría (Al Rey.)
+V|Ser que viese á mis plantas algún día,
+V|Porque aun no estoy vengado
+V|Del modo injusto con que me has criado. (Vase.)
+V|Pues antes que lo veas.
+V|Volverás á dormir adonde creas
+V|Que cuanto te ha pasado,
+V|Como fué bien del mundo, fué soñado.
+S|(Vanse el Bey, Clotaldo y el acompañamiento.)
+S|Escena xi
+S|(Estrella. Astolfo.)
+V|¡Qué pocas veces el hado, que dice desdichas, miente,
+V|Pues es tan cierto en los males, cuanto dudoso en los bienes!
+V|¡Qué buen astrólogo fuera, si siempre casos crueles
+V|Anunciara; pues no hay duda que ellos fueran verdad siempre!
+V|Conocerse esta experiencia en mí y Segismundo puede,
+V|Estrella, pues en los dos hace muestras diferentes.
+V|En él previno rigores, soberbias, desdichas, muertes,
+V|Y en todo dijo verdad. Porque todo, al fin, sucede;
+V|Pero en mí, que al ver, señora, esos rayos excelentes,
+V|De quien el sol fué una sombra y el cielo un amago breve,
+V|Que me previno venturas, trofeos, aplausos, bienes,
+V|Dijo mal, y dijo bien; pues solo es justo que acierte
+V|Cuando amaga con favores y ejecuta con desdenes.
+V|No dudo que esas finezas son verdades evidentes;
+V|Mas serán por otra dama, cuyo retrato pendiente
+V|Al cuello trajisteis, cuando llegasteis, Astolfo, á verme;
+V|Y siendo así, esos requiebros ella sola los merece.
+V|Acudid á que ella os pague; que no son buenos papeles
+V|En el consejo de amor las finezas ni las fees
+V|Que se hicieron en servicio de otras damas y otros reyes.
+S|Escena xii
+S|(Rosaura, que se queda al paño. Estrella. Astolfo.)
+V|(Ap ) Gracias á Dios, que llegaron ya mis desdichas
+V|crueles
+V|Al término suyo, pues quien esto ve nada teme!
+V|Yo haré que el retrato salga del pecho, para que entre
+V|La imagen de tu hermosura. Donde entra Estrella, no tiene
+V|Lugar la sombra, ni estrella donde el sol; voy á traerle.
+V|— (Ap. Perdona, Rosaura hermosa, este agravio, porque ausentes
+V|No se guardan mas fe que esta los hombres y las mujeres.) (Vase.)
+S|(Adelántase Rosaura.)
+V|(Ap.) Nada he podido escuchar, temerosa que me viese.
+V|¡Astrea!
+V|Señora mia.
+V|Heme holgado que tú fueses
+V|La que llegaste hasta aquí, porque de tí solamente
+V|Fiara un secreto.
+V|Honras, señora, á quien te obedece.
+V|En el poco tiempo, Astrea, que há que te conozco, tienes
+V|De mi voluntad las llaves; por esto, y por ser quien eres.
+V|Me atrevo á fiar de tí lo que aún de mí muchas veces
+V|Recaté.
+V|Tu esclava soy.
+V|Pues, para decirlo en breve,
+V|Mi primo Astolfo (bastara que mi primo te dijese.
+V|Porque hay cosas que se dicen con pensarlas solamente),
+V|Ha de casarse conmigo, si es que la fortuna quiere
+V|Que con una dicha sola tantas desdichas descuente.
+V|Pesóme que el primer dia echado al cuello trajese
+V|El retrato de una dama: habléle en él cortésmente;
+V|Es galán y quiere bien, fué por él, y ha de traerle
+V|Aquí; embarázame mucho que él á mí á dármele llegue:
+V|Quédate aqui, y cuando venga, le dirás que te le entregue
+V|A tí. No te digo más; discreta y hermosa eres:
+V|Bien sabrás lo que es amor. (Vase.)
+S|Escena xiii
+S|(Rosaura.)
+V|Ojalá no lo supiese !
+V|¡Válgame el cielo! ¿Quién fuera tan atenta y tan piudente.
+V|Que supiera aconsejarse hoy en ocasión tan fuerte?
+V|¿Habrá persona en el mundo, á quien el cielo inclemente
+V|Con más desdichas combata, y con más pesares cerque?
+V|¿Qué haré en tantas confusiones, donde imposible parece
+V|Que halle razón que me alivie, ni alivio que me consuele?
+V|Desde la primer desdicha, no hay suceso, ni accidente,
+V|Que otra desdicha no sea; que unas á otras suceden,
+V|Herederas de sí mismas. A la imitación del Fénix,
+V|Unas de las otras nacen, viviendo de lo que mueren,
+V|Y siempre de sus cenizas está el sepulcro caliente.
+V|Que eran cobardes, decia un sabio, por parecerle
+V|Que nunca andaba una sola; yo digo que son valientes.
+V|Pues siempre van adelante, y nunca la espalda vuelven:
+V|Quien las llevare consigo, a todo podrá atreverse.
+V|Pues en ninguna ocasión no haya miedo que le dejen.
+V|Dígalo yo, pues en tantas como á mi vida suceden,
+V|Nunca me he hallado sin ellas, ni se han cansado hasta verme,
+V|Herida de la fortuna, en los brazos de la muerte.
+V|¡Ay de mí! ¿Qué debo hacer, hoy, en la ocasión presente?
+V|Si digo quién soy, Clotaldo, á quien mi vida le debe
+V|Este amparo y este honor, conmigo ofenderse puede;
+V|Pues me dice que callando honor y remedio espere.
+V|Si no he decir quién soy á Astolfo, y él llega á verme:
+V|¿Cómo he de disimular? Pues, aunque fingirlo intenten
+V|La voz, la lengua y los ojos, les dirá el alma que mienten.
+V|¿Qué haré? — Mas ¿Para qué estudio lo que haré, si es evidente
+V|Que por más que lo prevenga, que lo estudie y que lo piense.
+V|En llegando la ocasión, ha de hacer lo que quisiere
+V|El dolor? Porque ninguno imperio en sus penas tiene.
+V|Y pues á determinar lo que ha de hacer no se atreve
+V|El alma, llegue el dolor hoy á su término; llegue
+V|La pena á su extremo; y salga de dudas y pareceres
+V|De una vez; pero, hasta entonces, ¡Valedme, cielos, valedme!
+S|Escena xiv
+S|(Astolfo, que trae el retrato. Rosaura.)
+V|Este es, señora, el retrato ... Mas ¡Ay Dios!
+V|¿Qué se suspende
+V|Vuestra Alteza? ¿Qué se admira?
+V|De oirte, Rosaura, y verte.
+V|¿Yo Rosaura? Hase engañado vuestra Alteza, si me tiene
+V|Por otra dama; que yo soy Astrea, y no merece
+V|Mi humildad tan grande dicha, que esa turbación le cueste.
+V|Basta, Rosaura, el engaño, porque el alma nunca miente;
+V|Y aunque como á Astrea te mire, como á Rosaura te quiere.
+V|No he entendido á vuestra Alteza, y así no sé responderle:
+V|Sólo lo que yo diré, es que Estrella (que lo puede
+V|Ser de Venus) me mandó que en esta parte le espere,
+V|Y, de la suya, le diga que aquel retrato me entregue,
+V|(!Que está muy puesto en razón!) y yo misma se lo lleve.
+V|Estrella lo quiere así, porque aún las cosas mas leves
+V|Como sean en mi daño, es Estrella quien las quiere.
+V|Aunque mas esfuerzos hagas, ¡Oh qué mal, Rosaura,
+V|puedes
+V|Disimular! Di á los ojos que su música concierten
+V|Con la voz; porque es forzoso que desdiga y que disuene
+V|Tan destemplado instrumento, que ajustar y medir quiere
+V|La falsedad de quien dice con la verdad de quien siente.
+V|Ya digo que sólo espero el retrato.
+V|Pues que quieres
+V|Llevar al fin el engaño, con él quiero responderte.
+V|Dirásle, Astrea, á la Infanta que yo la estimo de suerte,
+V|Que, pidiéndome un retrato, poca fineza parece
+V|Enviársele, y así, porque le estime y le precie.
+V|Le envió el original; y tú llevársele puedes.
+V|Pues ya le llevas contigo, como á tí misma te lleves.
+V|Cuando un hombre se dispone, restado, altivo y valiente,
+V|A salir con una empresa, aunque por trato le entreguen
+V|Lo que valga más, sin ella necio y desairado vuelve.
+V|Yo vengo por un retrato, y aunque un original lleve.
+V|Que vale más, volveré desairada; y así, déme
+V|Vuestra Alteza ese retrato, que sin él no he de volverme.
+V|Pues ¿Cómo, si no he de darle, le has de llevar?
+V|Desta suerte.
+V|¡Suéltale, ingrato! (Trata de quitársele.)
+V|¡Es en vano!
+V|¡Vive Dios, que no ha de verse
+V|En manos de otra mujer!
+V|¡Terrible estás!
+V|Y tú aleve!
+V|Ya basta, Rosaura mia.
+V|¿Yo tuya? ... Villano, mientes.
+S|(Están asidos ambos del retrato.
+V|)
+S|Escena xv
+S|(Estrella. Rosaura. Astolfo.)
+V|Astrea, Astolfo, ¿Qué es esto?
+V|(Ap.) Aquesta es Estrella.
+V|(Ap. Déme,
+V|Para cobrar mi retrato, ingenio el amor.) Si quieres (A Estrella.)
+V|Saber lo que es, yo, señora, te lo diré.
+V|(Ap. á Rosaura.) ¿Qué pretendes?
+V|Mandásteme que esperase aquí á Astolfo, y le pidiese
+V|Un retrato de tu parte. Quedé sola, y como vienen
+V|De unos discursos á otros las noticias fácilmente.
+V|Viéndote hablar de retratos, con su memoria acordéme
+V|De que tenia uno mió en la manga. Quise verle,
+V|Porque una persona sola con locuras se divierte;
+V|Cayóseme de la mano al suelo; Astolfo, que viene
+V|A entregarte el de otra dama, le levantó, y tan rebelde
+V|Está en dar el que le pides, que en vez de dar uno, quiere
+V|Llevar otro; pues el mió aun no es posible volverme.
+V|Con ruegos y persuasiones: colérica é impaciente
+V|Yo, se le quise quitar. Aquel que en la mano tiene,
+V|Es mió: tú lo verás con ver si se me parece.
+V|Soltad, Astolfo, el retrato. (Quítasele de la mano.)
+V|Señora ...
+V|No son crueles
+V|A la verdad, los matices.
+V|¿No es mió?
+V|¿Qué duda tiene?
+V|Ahora di que te dé el otro.
+V|Toma tu retrato, y vete.
+V|(Ap.) Yo he cobrado mi retrato: Venga ahora lo que
+V|viniere. (Vase.)
+S|Escena xvi
+S|(Estrella. Astolfo.)
+V|Dadme ahora el retrato, vos, que os pedí, que aunque
+V|no piense
+V|Veros ni hablaros jamás, no quiero, no, que se quede
+V|En vuestro poder, siquiera porque yo tan neciamente
+V|Le he pedido.
+V|(Ap. ¿Como puedo salir de lance tan fuerte?)
+V|Aunque quiera, hermosa Estrella, servirte y obedecerte,
+V|No podré darte el retrato que me pides, porque...
+V|Eres
+V|Villano y grosero amante. No quiero que me le entregues;
+V|Porque yo tampoco quiero, con tomarle, que me acuerdes
+V|Que te le he pedido yo. (Vase.)
+V|Oye, escucha, mira, advierte ...
+V|— ¡Válgate Dios por Rosaura! ¿Dónde, cómo, ó de qué suerte
+V|Hoy á Polonia has venido á perderme y á perderte? (Vase.)
+V|Prisión del Príncipe en la torre.
+S|Escena xvii
+S|(Segismundo, como al principio, con pieles y cadena, echado en el)
+S|(suelo. Clotaldo. Dos criados y Clarín.)
+V|Aquí le habéis de dejar.
+V|Pues hoy su soberbia acaba
+V|Donde empezó.
+V|Como estaba.
+V|La cadena vuelvo á atar.
+V|ti
+V|No acabes de dispertar,
+V|Segismundo, para verte
+V|Perder, trocada la suerte.
+V|Siendo tu gloria fingida.
+V|Una sombra de la vida,
+V|Y una llama de la muerte.
+V|A quien sabe discurrir
+V|Así, es bien que se prevenga
+V|Una estancia, donde tenga
+V|Harto lugar de argüir.
+V|— Este es al que habéis de asir, (A los criados.)
+V|Y en este cuarto encerrar.
+S|(Señalando la pieza inmediata.)
+V|¿Por qué á mí?
+V|Porque ha de estar
+V|Guardado en prisión tan grave,
+V|Clarin que secretos sabe.
+V|Donde no pueda sonar.
+V|¿Yo, por dicha, solicito
+V|Dar muerte á mi padre? — No.
+V|¿Arrojé del balcón yo
+V|Al Icaro de poquito? ...
+V|¿Yo sueño ó duermo? ¿A qué fin
+V|Me encierran?
+V|Eres Clarin.
+V|Pues ya digo que seré
+V|Corneta, y que callaré.
+V|Que es instrumento ruin.
+S|(Llévanle, y queda solo Clotaldo.)
+S|Escena xviii
+S|(Basilio, rebozado. Clotaldo. Segismundo, adormecido.)
+V|Clotaldo.
+V|¡Señor! ¿Así
+V|Viene vuestra Majestad?
+V|La necia curiosidad
+V|De ver lo que pasa aquí
+V|A Segismundo (¡Ay de mí!),
+V|Deste modo me ha traido.
+V|Mírale allí reducido
+V|A su miserable estado.
+V|¡Ay Príncipe desdichado.
+V|Y en triste punto nacido!
+V|Llega á dispertarle, ya
+V|Que fuerza y vigor perdió
+V|Con el opio que bebió.
+V|Inquieto, señor, está,
+V|Y hablando.
+V|¿Qué soñará
+V|Ahora? Escuchemos, pues.
+V|(Entre sueños.) Piadoso príncipe es
+V|El que castiga tiranos:
+V|Clotaldo muera á mis manos.
+V|Mi padre bese mis pies.
+V|Con la muerte me amenaza.
+V|A mí con rigor y afrenta.
+V|Quitarme la vida intenta.
+V|Rendirme á sus plantas traza.
+V|(Entre sueños.) Salga á la anchurosa plaza
+V|Del gran teatro del mundo
+V|Este valor sin segundo:
+V|Porque mi venganza cuadre,
+V|Vean triunfar de su padre
+V|Al príncipe Segismundo. (Despierta.)
+V|Mas ¡Ay de mí! ¿Dónde estoy?
+V|Pues á mí no me ha de ver: (A Clotaldo.)
+V|Ya sabes lo que has de hacer.
+V|Desde allí á escucharle voy. (Retírase.)
+V|¿Soy yo por ventura? ¿Soy
+V|El que preso y aherrojado
+V|Llego á verme en tal estado?
+V|¿No sois mi sepulcro vos.
+V|Torre? — Sí. — !Válgame Dios,
+V|Qué de cosas he soñado!
+V|(Ap.) A mí me toca llegar,
+V|A hacer la deshecha ahora.
+V|— ¿Es ya de dispertar hora? (A Segismundo.)
+V|Sí, hora es ya de dispertar.
+V|¿Todo el dia te has te estar
+V|Durmiendo? — Desde que yo,
+V|Al águila que voló
+V|Con tardo vuelo seguí,
+V|Y te quedaste tú aquí,
+V|¿Nunca has dispertado?
+V|No;
+V|Ni aún agora he dispertado;
+V|Que, según, Clotaldo, entiendo,
+V|Todavía estoy durmiendo;
+V|Yo no estoy muy engañado.
+V|Porque, si ha sido soñado
+V|Lo que vi palpable y cierto.
+V|Lo que veo será incierto;
+V|Y no es mucho que rendido,
+V|Pues veo estando dormido,
+V|Que sueñe estando despierto.
+V|Lo que soñaste me di.
+V|Supuesto que sueño fué,
+V|No diré lo que soñé;
+V|Lo que vi, Clotaldo, sí.
+V|Yo disperté, yo me vi
+S|(¡Qué crueldad tan lisonjera!)
+V|En un lecho, que pudiera
+V|Con matices y colores
+V|Ser el catre de las flores
+V|Que tejió la primavera.
+V|Aquí mil nobles, rendidos
+V|A mis pies, nombre me dieron
+V|De su Príncipe, y sirvieron
+V|Galas, joyas y vestidos.
+V|La calma de mis sentidos
+V|Tú, trocaste en alegría.
+V|Diciendo la dicha mia.
+V|Que, aunque estoy desta manera,
+V|Príncipe en Polonia era.
+V|Buenas albricias tendria.
+V|No muy buenas: por traidor,
+V|Con pecho atrevido y fuerte,
+V|Dos veces te daba muerte.
+V|¿Para mí tanto rigor?
+V|De todos era señor,
+V|Y de todos me vengaba;
+V|Solo á una mujer amaba ...
+V|Que fué verdad, creo yo,
+V|En que todo se acabó,
+V|Y esto solo no se acaba. (Vase el Rey.)
+V|(Ap. Enternecido se ha ido
+V|El Rey de haberle escuchado.)
+V|Como habíamos hablado
+V|De aquella águila, dormido,
+V|Tu sueño imperios han sido;
+V|Mas en sueños fuera bien
+V|Honrar entonces á quien
+V|Te crió en tantos empeños,
+V|Segismundo; que aún en sueños
+V|No se pierde el hacer bien. (Vase.)
+S|Escena xix
+S|(Segismundo.)
+V|Es verdad; pues reprimamos
+V|Esta fiera condición,
+V|Esta furia, esta ambición,
+V|Por si alguna vez soñamos;
+V|Y sí haremos, pues estamos
+V|En mundo tan singular.
+V|Que el vivir solo es soñar:
+V|Y la experiencia me enseña
+V|Que el hombre que vive, sueña
+V|Lo que es, hasta dispertar.
+V|Sueña el Rey que es rey, y vive.
+V|Con este engaño, mandando,
+V|Disponiendo y gobernando;
+V|Y este aplauso, que recibe
+V|Prestado, en el viento escribe,
+V|Y en cenizas le convierte
+V|La muerte (¡Desdicha fuerte!):
+V|¿Que hay quien intente reinar.
+V|Viendo que ha de dispertar
+V|En el sueño de la muerte?
+V|Sueña el rico en su riqueza.
+V|Que más cuidados le ofrece;
+V|Sueña el pobre que padece
+V|Su miseria y su pobreza;
+V|Sueña el que á medrar empieza;
+V|Sueña el que afana y pretende;
+V|Sueña el que agravia y ofende;
+V|Y en el mundo, en conclusión,
+V|Todos sueñan lo que son.
+V|Aunque ninguno lo entiende.
+V|Yo sueño que estoy aquí
+V|Destas prisiones cargado,
+V|Y soñé que en otro estado
+V|Mas lisonjero me vi.
+V|¿Qué es la vida? — Un frenesí.
+V|¿Qué es la vida? — Una ilusión,
+V|Una sombra, una ficción,
+V|Y el mayor bien es pequeño:
+V|Que toda la vida es sueño,
+V|Y los sueños sueño son.
+H|Jornada tercera
+S|(Un calabozo en la torre de Segismundo.)
+S|Escena primera
+S|(Clarín.)
+V|En una encantada torre, por lo que sé, vivo preso:
+V|¿Qué me harán por lo que ignoro, si por lo que sé me han muerto?
+V|¡Que un hombre con tanta hambre viniese á morir viviendo!
+V|Lástima tengo de mí; todos dirán: «Bien lo creo»;
+V|Y bien se puede creer, pues, para mí este silencio
+V|No conforma con el nombre Clarin; y callar no puedo.
+V|Quien me hace compañía aquí, si á decirlo acierto,
+V|Son arañas y ratones: ¡Miren qué dulces jilgueros!
+V|De los sueños desta noche la triste cabeza tengo
+V|Llena de mil chirimías, de trompetas y embelecos,
+V|De procesiones, de cruces, de disciplinantes; y estos,
+V|Unos suben, otros bajan, unos se desmayan viendo
+V|La sangre que llevan otros; mas yo, la verdad diciendo,
+V|De no comer me desmayo; que en una prisión me veo,
+V|Donde ya todos los dias en el filósofo leo
+S|Nicomédes
+V|, y las noches en el concilio Niceno.
+V|Si llaman santo al callar, como en calendario nuevo,
+V|San secreto es para mí, pues le ayuno y no le huelgo;
+V|Aunque está bien merecido el castigo que padezco,
+V|Pues callé, siendo criado, que es el mayor sacrilegio.
+S|(Ruido de cajas y clarines, y voces dentro.)
+S|Escena ii
+S|(Soldados. Clarín.)
+V|SOLDADO 1° (Dentro.) Esta es la torre en que está. Echad
+V|la puerta en el suelo.
+V|Entrad todos.
+V|¡Vive Dios! Que á mí me buscan, es cierto,
+V|Pues que dicen que aquí estoy. ¿Qué me querrán?
+V|SOLDADO 1° (Dentro.) Entrad dentro.
+V|{Salen varios soldados.)
+V|SOLDADO 2° Aqui está.
+V|No está.
+V|Señor ...
+V|(Ap.) ¿Si vienen borrachos estos?
+V|SOLDADO 1° Tú nuestro príncipe eres; ni admitimos ni
+V|queremos
+V|Sino al señor natural, y no á príncipe extranjero.
+V|A todos nos da los pies.
+V|¡Viva el gran Príncipe nuestro!
+V|(Ap.) Vive Dios, que va de veras. ¿Si es costumbre
+V|en este Reino
+V|Prender uno cada dia y hacerle príncipe, y luego
+V|Volverle á la torre? Sí, pues cada dia lo veo:
+V|Fuerza es hacer mi papel.
+V|Danos tus plantas.
+V|No puedo.
+V|Porque has he menester para mí, y fuera defecto
+V|Ser príncipe desplantado.
+V|SOLDADO 2° Todos á tu padre mesmo
+V|Le dijimos que á tí solo por príncipe conocemos,
+V|No al de Moscovia.
+V|¿A mi padre le perdisteis el respeto y
+V|Sois unos tales por cuales.
+V|SOLDADO 1° Fué lealtad de nuestro pecho.
+V|Si fué lealtad, yo os perdono.
+V|SOLDADO 2° Sal á restaurar tu imperio.
+V|¡Viva Segismundo!
+V|¡Viva!
+V|(Ap.) ¿Segismundo dicen? Bueno:
+V|Segismundos llaman todos los príncipes contrahechos.
+S|Escena iii
+S|(Segismundo. Clarín. Soldados.)
+V|¿Quién nombra aquí á Segismundo?
+V|(Ap.) ¡Mas que soy príncipe huero!
+V|SOLDADO 1° ¿Quién es Segismundo?
+V|Yo.
+V|SOLDADO 2° (A Clarín.) Pues, ¿Cómo, atrevido y necio.
+V|Tú te hacias Segismundo?
+V|¿Yo Segismundo? Eso niego.
+V|Vosotros fuisteis los que me segismundeasteis: luego
+V|Vuestra ha sido solamente necedad y atrevimiento.
+V|SOLDADO 1° Gran príncipe Segismundo (que las señas que traemos
+V|Tuyas son, aunque por fe te aclamamos señor nuestro),
+V|Tu padre, el gran rey Basilio, temeroso que los cielos
+V|Cumplan un hado, que dice que ha de verse á tus pies puesto.
+V|Vencido de tí, pretende quitarte acción y derecho
+V|Y dársele á Astolfo, duque de Moscovia. Para esto
+V|Juntó su corte; y el vulgo, penetrando ya y sabiendo
+V|Que tiene rey natural, no quiere que un extranjero
+V|Venga á mandarle. Y así, haciendo noble desprecio
+V|De la inclemencia del hado, te ha buscado donde preso
+V|Vives, para que asistido de sus armas, y saliendo
+V|Desta torre á restaurar tu imperial corona y cetro.
+V|Se la quites á un tirano. Sal, pues, que en ese desierto.
+V|Ejército numeroso de bandidos y plebeyos.
+V|Te aclama: la libertad te espera; oye sus acentos.
+V|(Dentro.) ¡Viva Segismundo, viva!
+V|¿Otra vez (¡Qué es esto, cielos!)
+V|Queréis que sueñe grandezas, que ha de deshacer el tiempo?
+V|¿Otra vez queréis que vea entre sombras y bosquejos
+V|La majestad y la pompa desvanecida del viento?
+V|¿Otra vez queréis que toque el desengaño, ó el riesgo,
+V|A que el humano poder nace humilde y vive atento?
+V|Pues no ha de ser, no ha de ser, mirarme otra vez sujeto
+V|A mi fortuna; y pues sé que toda esta vida es sueño:
+V|Idos, sombras, que fingís hoy á mis sentidos muertos
+V|Cuerpo y voz, siendo verdad que ni tenéis voz ni cuerpo;
+V|Que no quiero majestades fingidas, pompas no quiero
+V|Fantásticas, ilusiones que, al soplo menos ligero
+V|Del aura, han de deshacerse, bien como el florido almendro.
+V|Que por madrugar sus flores, sin aviso y sin consejo,
+V|Al primer soplo se apagan, marchitando y desluciendo
+V|De sus rosados capillos belleza, luz y ornamento,
+V|Ya os conozco, ya os conozco, y sé que os pasa lo mesmo
+V|Con cualquiera que se duerme: Para mí no hay fingimien-
+V|tos,
+V|Que, desengañado ya, sé bien que la vida es sueño.
+V|SOLDADO 2° Si piensas que te engañamos, vuelve á esos
+V|montes soberbios
+V|Los ojos, para que veas la gente que aguarda en ellos
+V|Para obedecerte.
+V|Ya otra vez vi aquesto mesmo,
+V|Tan clara y distintamente como ahora lo estoy viendo;
+V|Y fué sueño.
+V|SOLDADO 2° Cosas grandes siempre, gran señor, trajeron
+V|Anuncios; y esto sería; si lo soñaste primero.
+V|Dices bien, anuncio fué; y caso que fuese cierto,
+V|Pues que la vida es tan corta, soñemos, alma, soñemos
+V|Otra vez; pero ha de ser con atención y consejo
+V|De que hemos de dispertar deste gusto al mejor tiempo;
+V|Que, llevándolo sabido, será el desengaño menos.
+V|Que es hacer burla del daño adelantarle el consejo.
+V|Y con esta prevención de que cuando fuese cierto.
+V|Es todo el poder prestado, y ha de volverse á su dueño,
+V|Atrevámonos á todo. — Vasallos, yo os agradezco
+V|La lealtad; en mí lleváis quien os libre osado y diestro
+V|De extranjera esclavitud. Tocad al arma, que presto
+V|Veréis mi inmenso valor. Contra mi padre pretendo
+V|Tomar armas, y sacar verdaderos á los cielos.
+V|Puesto he de verle á mis plantas ... (Ap. Mas, si antes desto
+V|despierto,
+V|¿No será bien no decirlo, supuesto que no he de hacerlo?)
+V|¡Viva Segismundo, viva!
+S|Escena iv
+S|(Clotaldo. Segismundo. Clarín. Soldados.)
+V|¿Qué alboroto es este, cielos?
+V|Clotaldo.
+V|Señor ... (Ap. En mí su rigor prueba.)
+V|(Ap.) Yo apuesto
+V|Que le despeña del monte. (Vase.)
+V|Á tus reales plantas llego:
+V|Ya sé que á morir.
+V|Levanta, levanta, padre, del suelo,
+V|Que tú has de ser norte y guía de quien fie mis aciertos;
+V|Que ya sé que mi crianza á tu mucha lealtad debo.
+V|Dame los brazos.
+V|¿Qué dices?
+V|Que estoy soñando, y que quiero
+V|Obrar bien, pues no se pierde el hacer bien, aun en sueños.
+V|Pues señor, si el obrar bien es ya tu blasón, es
+V|cierto
+V|Que no te ofenda el que yo hoy solicite lo mesmo.
+V|¡Á tu padre has de hacer guerra! Yo aconsejarte no puedo
+V|Contra mi Rey, ni valerte. Á tus plantas estoy puesto.
+V|Dame la muerte.
+V|¡Villano, traidor, ingrato! (Ap. Mas ¡cielos!
+V|El reportarme conviene, que aún no sé si estoy despierto.)
+V|Clotaldo, vuestro valor os envidio y agradezco.
+V|Idos á servir al Rey, que en el campo nos veremos.
+V|— Vosotros tocad al arma.
+V|Mil veces tus plantas beso. (Vase.)
+V|A reinar, fortuna, vamos; no me despiertes, si
+V|duermo;
+V|Y, si es verdad, no me aduermas. Mas, sea verdad ó sueño,
+V|Obrar bien es lo que importa; si fuere verdad, por serlo;
+V|Si no, por ganar amigos para cuando despertemos.
+S|(Vanse, tocando cajas.)
+S|(Salón del Palacio Real.)
+S|Escena v
+S|(Basilio. Astolfo.)
+V|¿Quién, Astolfo, podrá parar, prudente,
+V|La furia de un caballo desbocado?
+V|¿Quién detener de un rio la corriente,
+V|Que corre al mar soberbio y despeñado?
+V|¿Quién un peñasco suspender, valiente,
+V|De la cima de un monte desgajado?
+V|Pues todo fácil de parar se mira,
+V|Más que de un vulgo la soberbia ira.
+V|Dígalo en bandos el rumor partido.
+V|Pues se oye resonar en lo profundo
+V|De los montes el eco repetido.
+V|Unos ¡Astolfo! y otros
+S|(¡Segismundo!)
+V|El dosel de la jura, reducido
+V|A segunda intención, á horror segundo,
+V|Teatro funesto es, donde importuna
+V|Representa tragedias la fortuna.
+V|Señor, suspéndase hoy tanta alegría;
+V|Cese el aplauso y gusto lisonjero,
+V|Que tu mano feliz me prometía;
+V|Que si Polonia (á quien mandar espero)
+V|Hoy se resiste á la obediencia mia,
+V|Es porque la merezca yo primero.
+V|Dadme un caballo, y de arrogancia lleno.
+V|Rayo descienda el que blasona trueno. (Vase.)
+V|Poco reparo tiene lo infalible,
+V|Y mucho riesgo lo previsto tiene:
+V|Si ha de ser, la defensa es imposible,
+V|Que quien la excusa más, más la previene.
+V|¡Dura ley! ¡fuerte caso! ¡horror terrible!
+V|Quien piensa huir el riesgo, al riesgo viene:
+V|Con lo que yo guardaba me he perdido;
+V|Yo mismo, yo mi patria he destruido.
+S|Escena vi
+S|(Estrella. Basilio.)
+V|Si tu presencia, gran señor, no trata
+V|De enfrenar el tumulto sucedido,
+V|Que de uno en otro bando se dilata
+V|Por las calles y plazas dividido,
+V|Verás tu reino en ondas de escarlata
+V|Nadar, entre la púrpura teñido
+V|De su sangre, que ya con triste modo,
+V|Todo es desdichas y tragedias todo.
+V|Tanta es la ruina de tu imperio, tanta
+V|La fuerza del rigor duro, sangriento.
+V|Que visto admira, y escuchado espanta.
+V|El sol se turba, y se embaraza el viento;
+V|Cada piedra un pirámide levanta,
+V|Y cada flor construye un monumento,
+V|Cada edificio es un sepulcro altivo.
+V|Cada soldado un esqueleto vivo.
+S|Escena vii
+S|(Clotaldo. Basilio. Estrella.)
+V|¡Gracias á Dios, que vivo á tus pies llego
+V|Clotaldo, ¿Pues qué hay de Segismundo?
+V|Que el vulgo, monstruo despeñado y ciego.
+V|La torre penetró, y de lo profundo
+V|Della sacó su Príncipe, que luego
+V|Que vio segunda vez su honor segundo,
+V|Valiente se mostró, diciendo, fiero.
+V|Que ha de sacar al cielo verdadero.
+V|Dadme un caballo, porque yo en persona
+V|Vencer valiente un hijo ingrato quiero;
+V|Y en la defensa ya de mi corona,
+V|Lo que la ciencia erró, venza el acero. (Vase.)
+V|Pues yo al lado del Sol seré Belona:
+V|Poner mi nombre junto al suyo espero;
+V|Que he de volar sobre tendidas alas
+V|A competir con la deidad de Palas.
+S|(Vase, y tocan al arma.)
+S|Escena viii
+S|(Rosaura, que detiene á Clotaldo.)
+V|Aunque el valor que se encierra
+V|En tu pecho, desde allí
+V|Da voces, óyeme á mí,
+V|Que yo sé que todo es guerra.
+V|Bien sabes que yo llegué
+V|Pobre, humilde y desdichada
+V|A Polonia, y amparada
+V|De tu valor, en tí hallé
+V|Piedad. Mandásteme (¡Ay cielos!)
+V|Que disfrazada viviese
+V|En Palacio, y pretendiese.
+V|Disimulando mis celos.
+V|Guardarme de Astolfo. En fin,
+V|El me vio, y tanto atrepella
+V|Mi honor, que viendome, á Estrella
+V|De noche habla en un jardín:
+V|Deste la llave he tomado,
+V|Y te podré dar lugar
+V|De que en él puedas entrar
+V|A dar fin á mi cuidado.
+V|Así altivo, osado y fuerte,
+V|Volver por mi honor podrás.
+V|Pues que ya resuelto estás
+V|A vengarme con su muerte.
+V|Verdad es que me incliné.
+V|Desde el punto que te vi,
+V|A hacer, Rosaura, por tí
+S|(Testigo tu llanto fué)
+V|Cuanto mi vida pudiese.
+V|Lo primero que intenté.
+V|Quitarte aquel traje fué;
+V|Porque, si acaso, te viese
+V|Astolfo en tu propio traje.
+V|Sin juzgar á liviandad
+V|La loca temeridad
+V|Que hace del honor ultraje.
+V|En este tiempo trazaba
+V|Cómo cobrar se pudiese
+V|Tu honor perdido, aunque fuese
+S|(Tanto tu honor me arrastraba)
+V|Dando muerte á Astolfo. ¡Mira
+V|Qué caduco desvarío!
+V|Si bien, no siendo Rey mió,
+V|Ni me asombra ni me admira.
+V|Darle pensé muerte, cuando
+V|Segismundo pretendió
+V|Dármela á mí, y él llegó.
+V|Su peligro atropellando,
+V|A hacer en defensa mia
+V|Muestras de su voluntad.
+V|Que fueron temeridad,
+V|Pasando de valentía.
+V|¿Pues cómo yo ahora (advierte),
+V|Teniendo alma agradecida,
+V|A quien me ha dado la vida
+V|Le tengo de dar la muerte?
+V|Y así, entre los dos partido
+V|El efecto y el cuidado.
+V|Viendo que á tí te la he dado,
+V|Y que del la he recibido,
+V|No sé á qué parte acudir.
+V|No sé á qué parte ayudar:
+V|Si á tí me obligué con dar,
+V|Del lo estoy con recibir;
+V|Y así, en la acción que se ofrece,
+V|Nada á mi amor satisface;
+V|Porque soy persona que hace,
+V|Y persona que padece.
+V|No tengo que prevenir
+V|Que en un varón singular,
+V|Cuanto es noble acción el dar,
+V|Es bajeza el recibir.
+V|Y este principio asentado.
+V|No has de estarle agradecido.
+V|Supuesto que si él ha sido
+V|El que la vida te ha dado,
+V|Y tú á mí, evidente cosa
+V|Es, que él forzó tu nobleza
+V|A que hiciese una bajeza,
+V|Y yo una acción generosa.
+V|Luego estás del ofendido,
+V|Luego estás de mí obligado,
+V|Supuesto que á mí me has dado
+V|Lo que del has recibido;
+V|Y así debes acudir
+V|A mi honor en riesgo tanto,
+V|Pues yo le prefiero, cuanto
+V|Va de dar á recibir
+V|Aunque la nobleza vive
+V|De la parte del que dá.
+V|El agradecerla está
+V|De parte del que recibe.
+V|Y pues ya dar he sabido,
+V|Ya tengo, con nombre honroso
+V|El nombre de generoso:
+V|Déjame el de agradecido;
+V|Pues le puedo conseguir
+V|Siendo agradecido, cuanto
+V|Liberal, pues honra tanto
+V|El dar como el recibir.
+V|De tí recibí la vida,
+V|Y tú mismo me dijiste.
+V|Cuando la vida me diste.
+V|Que la que estaba ofendida
+V|No era vida: luego yo
+V|Nada de tí he recibido;
+V|Pues vida no-vida ha sido
+V|La que tu mano me dio.
+V|Y si debes ser primero
+V|Liberal que agradecido
+S|(Como de tí mismo he oido)
+V|Que me des la vida espero,
+V|Que no me la has dado; y pues
+V|El dar engrandece más,
+V|Si antes liberal, serás
+V|Agradecido después.
+V|Vencido de tu argumento,
+V|Antes liberal seré.
+V|Yo, Rosaura, te daré
+V|Mi hacienda, y en un convento
+V|Vive; que está bien pensado
+V|El medio que solicito;
+V|Pues huyendo de un delito
+V|Te recoges á un sagrado:
+V|Que cuando desdichas siente
+V|El reino, tan dividido.
+V|Habiendo noble nacido.
+V|No he de ser quien las aumente.
+V|Con el remedio elegido
+V|Soy con el reino leal.
+V|Soy contigo liberal.
+V|Con Astolfo agradecido;
+V|Y así escoge el que te cuadre.
+V|Quedándose entre los dos;
+V|Que no hiciera ¡vive Dios!
+V|Más cuando fuera tu padre.
+V|Cuando tú mi padre fueras.
+V|Sufriera esa injuria yo:
+V|Pero no siéndolo, no.
+V|¿Pues qué es lo que hacer esperas?
+V|Matar al Duque.
+V|¿Una dama.
+V|Que padre no ha conocido,
+V|Tanto valor ha tenido?
+V|Sí.
+V|¿Quién te alienta?
+V|Mi fama.
+V|Mira que á Astolfo has de ver ...
+V|Todo mi honor lo atropella.
+V|Tu Rey, y esposo de Estrella.
+V|¡Vive Dios, que no ha de ser!
+V|Es locura.
+V|Ya lo veo.
+V|Pues véncela.
+V|No podré.
+V|Pues perderás ...
+V|Ya lo sé.
+V|Vida y honor.
+V|Bien lo creo.
+V|¿Qué intentas?
+V|Mi muerte.
+V|Mira
+V|Que eso es despecho.
+V|Es honor.
+V|Es desatino.
+V|Es valor.
+V|Es frenesí.
+V|Es rabia, es ira.
+V|En fin, ¿Que no se da medio
+V|A tu ciega pasión?
+V|No.
+V|¿Quién ha de ayudarte?
+V|Yo.
+V|¿No hay remedio?
+V|No hay remedio.
+V|Piensa bien si hay otros modos ...
+V|Perderme, de otra manera. (Vase.)
+V|Pues si has de perderte, espera,
+V|Hija, y perdámonos todos. (Vase.)
+S|(Campo.)
+S|Escena ix
+S|(Segismundo, vestido de pieles. Soldados, marchando. Clarín.)
+S|(Tocan cajas.)
+V|Si este dia me viera
+V|Roma en los triunfos de su edad primera,
+V|¡Oh, cuánto se alegrara,
+V|Viendo lograr una ocasión tan rara.
+V|De tener una fiera
+V|Que sus grandes ejércitos rigiera,
+V|A cuyo altivo aliento
+V|Fuera poca conquista el firmamento!
+V|Pero el vuelo abatamos.
+V|Espíritu; no así desvanezcamos
+V|Aqueste aplauso incierto.
+V|Si ha de pesarme, cuando esté despierto,
+V|De haberlo conseguido
+V|Para haberlo perdido;
+V|Pues mientras menos fuere,
+V|Menos se sentirá si se perdiere.
+S|(Tocan un clarín.)
+V|En un veloz caballo
+V|(Perdóname, que fuerza es el pintallo
+V|En viniéndome á cuento).
+V|En quien un mapa se dibuja atento.
+V|Pues el cuerpo es la tierra,
+V|El fuego el alma que en el pecho encierra.
+V|La espuma el mar, y el aire es el suspiro,
+V|En cuya confusión un caos admiro;
+V|Pues en el alma, espuma, cuerpo, aliento.
+V|Monstruo es de fuego, tierra, mar y viento;
+V|De color remendado.
+V|Rucio, y á su propósito rodado,
+V|Del que bate la espuela;
+V|Que en vez de correr vuela;
+V|A tu presencia llega
+V|Airosa una mujer.
+V|Su luz me ciega.
+V|¡Vive Dios, que es Rosaura! (Retírase.)
+V|El cielo á mi presencia la restaura.
+S|Escena x
+S|(Rosaura, con vaquero, espada y daga. Segismundo. Soldados.)
+V|Generoso Segismundo, cuya majestad heroica
+V|Sale al dia de sus hechos de la noche de sus sombras;
+V|Y, como el mayor planeta, que en los brazos de la aurora
+V|Se restituye luciente a las plantas y á las rosas,
+V|Y sobre montes y mares, cuando coronado asoma,
+V|Luz esparce, rayos brilla, cumbres baña, espumas borda;
+V|Así amanezcas al mundo, luciente sol de Polonia,
+V|Que á una mujer infelice, que hoy á tus plantas se arroja.
+V|Ampares por ser mujer y desdichada: dos cosas
+V|Que, para obligarle á un hombre, que de valiente blasona.
+V|Cualquiera de las dos basta, cualquiera de las dos sobra.
+V|Tres veces son las que ya me admiras, tres las que ignoras
+V|Quién soy, pues las tres me viste en diverso traje y forma.
+V|La primera me creíste varón, en la rigurosa
+V|Prisión, donde fué tu vida de mis desdichas lisonja.
+V|La segunda me admiraste mujer, cuando fué la pompa
+V|De tu majestad un sueño, una fantasma, una sombra.
+V|La tercera es hoy, que, siendo monstruo de una especie y otra.
+V|Entre galas de mujer armas de varón me adornan.
+V|Y porque, compadecido, mejor mi amparo dispongas.
+V|Es bien que de mis sucesos trágicas fortunas oigas,
+V|De noble madre nací (en la corte de Moscovia),
+V|Que, según fué desdichada, debió de ser muy hermosa.
+V|En esta puso los ojos un traidor, que no le nombra
+V|Mi voz por no conocerle, de cuyo valor me informa
+V|El mió; pues siendo objeto de su idea, siento ahora
+V|No haber nacido gentil, para persuadirme, loca,
+V|A que fué algún dios de aquellos que en metamorfosis llora
+V|Lluvia de oro, cisne y toro, en Dánae, Leda y Europa.
+V|Cuando pensé que alargaba, citando aleves historias.
+V|El discurso, hallo que en él te he dicho, en razones pocas,
+V|Que mi madre, persuadida a finezas amorosas.
+V|Fué, como ninguna, bella, y fué infeliz como todas.
+V|Aquella necia disculpa de fe y palabra de esposa.
+V|La alcanzó tanto, que aun hoy el pensamiento la llora;
+V|Habiendo sido un tirano tan Eneas de su Troya,
+V|Que la dejó hasta la espada. Envaínese aquí su hoja.
+V|Que yo la desnudaré antes que acabe la historia.
+V|Deste, pues, mal dado nudo, que ni ata ni aprisiona,
+V|O matrimonio ó delito, si bien todo es una cosa,
+V|Nací yo tan parecida, que fui un retrato, una copia.
+V|Ya que en la hermosura no, en la dicha y en las obras;
+V|Y así, no habré menester decir que, poco dichosa
+V|Heredera de fortunas, corrí con ella una propia.
+V|Lo más que podré decirte de mí, es el dueño que roba
+V|Los trofeos de mi honor, los despojos de mi honra.
+V|Astolfo ... ¡Ay de mí! — Al nombrarle se encoleriza y se enoja
+V|El corazón, propio efecto de que enemigo le nombra.
+V|— Astolfo fué el dueño ingrato, que olvidado de las glorias
+V|(Porque en un pasado amor se olvida hasta la memoria),
+V|Vino á Polonia, llamado de su conquista famosa,
+V|A casarse con Estrella, que fué de mi ocaso antorcha.
+V|¿Quién crerá que, habiendo sido una estrella quien conforma
+V|Dos amantes, sea una Estrella la que los divida ahora?
+V|Yo ofendida, yo burlada, quedé triste, quedé loca.
+V|Quedé muerta, quedé yo, que es decir, que quedó toda
+V|La confusión del infierno cifrada en mi Babilonia;
+V|Y declarándome muda, (porque hay penas y congojas
+V|Que las dicen los afectos mucho mejor que la boca).
+V|Dije mis penas callando, hasta que una vez á solas.
+V|Violante mi madre (¡Ay cielos!) rompió la prisión, y en tropa
+V|Del pecho salieron juntas, tropezando unas con otras.
+V|No me embaracé en decirlas; que en sabiendo una persona
+V|Que, á quien sus flaquezas cuenta, ha sido cómplice en otras.
+V|Parece que ya le hace la salva y le desahoga;
+V|Que á veces el mal ejemplo sirve de algo. En fin, piadosa
+V|Oyó mis quejas, y quiso consolarme con las propias:
+V|Juez que ha sido delincuente, ¡Qué fácilemente perdona!
+V|Escarmentando en sí misma, y por negar á la ociosa
+V|Libertad, al tiempo fácil, el remedio de su honra.
+V|No le tuvo en mis desdichas; por mejor consejo toma
+V|Que le siga, y que le obligue, con finezas prodigiosas,
+V|A la deuda de mi honor; y para que á menos costa
+V|Fuese, quiso mi fortuna que en traje de hombre me ponga.
+V|Descuelga una antigua espada, que es esta que ciño: ahora
+V|Es tiempo que se desnude, como prometí, la hoja,
+V|Pues confiada en sus señas, me dijo: «Parte á Polonia,
+V|Y procura que te vean ese acero que te adorna.
+V|Los más nobles; que en alguno podrá ser que hallen piadosa
+V|Acogida tus fortunas, y consuelo tus congojas.»
+V|Llegué á Polonia, en efecto: pasemos, pues que no importa
+V|El decirlo, y ya se sabe, que un bruto que se desboca
+V|Me llevó á tu cueva, adonde tú de mirarme te asombras.
+V|Pasemos que allí Clotaldo de mi parte se apasiona;
+V|Que pide mi vida al Rey; que el Rey mi vida le otorga;
+V|Que informado de quien soy, me persuade á que me ponga
+V|Mi propio traje, y que sirva á Estrella, donde ingeniosa
+V|Estorbé el amor de Astolfo, y el ser Estrella su esposa.
+V|Pasemos que aquí me viste otra vez confuso, y otra
+V|Con el traje de mujer confundirte entrambas formas;
+V|Y vamos á que Clotaldo, persuadido á que le importa
+V|Que se casen y que reinen Astolfo y Estiella hermosa,
+V|Contra mi honor me aconseja que la pretensión deponga.
+V|Yo, viendo que tú, ¡Oh valiente Segismundo! A quien hoy
+V|toca
+V|La venganza, pues el cielo quiere que la cárcel rompas
+V|De esa rústica prisión, donde ha sido tu persona
+V|Al sentimiento una fiera, al sufrimiento una roca.
+V|Las armas contra tu patria y contra tu padre tomas.
+V|Vengo á ayudarte, mezclando entre las galas costosas
+V|De Diana, los arneses de Palas; vistiendo ahora
+V|Ya la tela y ya el acero, que entrambos juntos me adornan.
+V|Ea, pues, fuerte caudillo, á los dos juntos importa
+V|Impedir y deshacer estas concertadas bodas:
+V|A mí, porque no se case el que mi esposo se nombra,
+V|Y á tí porque, estando juntos sus dos estados, no pongan
+V|Con más poder y más fuerza en duda nuestra victoria.
+V|Mujer, vengo á persuadirte al remedio de mi honra;
+V|Y varón, vengo á alentarte a que cobres tu corona.
+V|Mujer, vengo á enternecerte cuando á tus plantas me ponga;
+V|Y varón, vengo á servirte con mi acero y mi persona.
+V|Y así piensa, que si hoy como mujer me enamoras,
+V|Como varón te daré la muerte en defensa honrosa
+V|De mi honor; porque he de ser, en su conquista amorosa,
+V|Mujer para darte quejas, varón para ganar honras.
+V|(Ap.) ¡Cielos, si es verdad que sueño, suspendedme la memoria.
+V|Que no es posible que quepan en un sueño tantas cosas!
+V|¡Válgame Dios, quién supiera, ó saber salir de todas,
+V|O no pensar en ninguna! ¿Quién vio penas tan dudosas?
+V|Si soñé aquella grandeza en que me vi, ¿Cómo ahora
+V|Esta mujer me refiere unas señas tan notorias?
+V|Luego fué verdad, no sueño. Y si fué verdad (que es otra
+V|Confusión, y no menor), ¿Cómo mi vida le nombra
+V|Sueño? Pues ¿Tan parecidas a los sueños son las glorias,
+V|Que las verdaderas son tenidas por mentirosas,
+V|Y las fingidas por ciertas? ¡Tan poco hay de unas á otras.
+V|Que hay cuestión sobre saber si lo que se ve y se goza,
+V|Es mentira ó es verdad! ¿Tan semejante es la copia
+V|Al original, que hay duda en saber si es ella propia?
+V|Pues si es así; y ha de verse desvanecida entre sombras
+V|La grandeza y el poder, la majestad y la pompa,
+V|Sepamos aprovechar este rato que nos toca,
+V|Pues sólo se goza en ella lo que entre sueños se goza.
+V|Rosaura está en mi poder, su hermosura el alma adora ...
+V|Gocemos, pues, la ocasión, el amor las leyes rompa
+V|Del valor y la confianza con que á mis plantas se postra.
+V|Esto es sueño; y pues lo es, soñemos dichas ahora.
+V|Que después serán pesares. Mas ¡Con mis razones propias
+V|Vuelvo á convencerme á mí! Si es sueño, si es vanagloria,
+V|¿Quién por vanagloria humana pierde una divina gloria?
+V|¿Qué pasado bien no es sueño? ¿Quién tuvo dichas heroicas.
+V|Que entre sí no diga, cuando las revuelve en su memoria:
+V|«Sin duda que fué soñado cuanto vi?» — Pues si esto toca
+V|Mi desengaño, si sé que es el gusto llama hermosa,
+V|Que la convierte en cenizas cualquiera viento que sopla:
+V|Acudamos á lo eterno, que es la fama vividora
+V|Donde ni duermen las dichas, ni las grandezas reposan.
+V|Rosaura está sin honor; más á un Príncipe le toca
+V|El dar honor que quitarle. Vive Dios! que de su honra
+V|He de ser conquistador, antes que de mi corona.
+V|Huyamos de la ocasión, que es muy fuerte. — Al arma,
+S|(A un soldado.)
+V|Que hoy he de dar la batalla, antes que la oscura sombra
+V|Sepulte los rayos de oro entre verdinegras ondas.
+V|¡Señor! ¿Pues así te ausentas? ¿Pues ni una palabra sola
+V|No te debe mi cuidado, ni merece mi congoja?
+V|¿Cómo es posible. Señor, que ni me mires ni oigas?
+V|¿Aun no me vuelves el rostro?
+V|Rosaura: al honor le importa.
+V|Por ser piadoso contigo, ser cruel contigo ahora.
+V|No te responde mi voz, porque mi honor te responda;
+V|No te hablo, porque quiero que te hablen por mí mis
+V|obras;
+V|Ni te miro, porque es fuerza, en pena tan rigurosa.
+V|Que no mire tu hermosura quien ha de mirar tu honra.
+S|(Vase, y los soldados con él.)
+V|¿Qué enigmas, cielos, son estos?
+V|Después de tanto pesar,
+V|¡Aún me queda que dudar
+V|Con equívocas respuestas!
+V|¿Señora! ¿Es hora de verte?
+V|¡Ay, Clarín! ¿Dónde has estado?
+V|En una torre encerrado.
+V|Brujuleando mi muerte.
+V|Si me dá, ó si no me dá;
+V|Y á figura que me diera.
+V|Pasante quínola fuera
+V|Mi vida; que estuve ya
+V|Para dar un estallido.
+V|¿Por qué?
+V|Por que sé el secreto
+V|De quién eres, y en efeto,
+V|Clotaldo ... Pero ¿Qué ruido
+V|Es este? (Suenan cajas.)
+V|¿Qué puede ser?
+V|Que del palacio sitiado
+V|Sale un escuadrón armado
+V|A resistir y vencer
+V|El del fiero Segismundo.
+V|Pues ¿Cómo cobarde estoy.
+V|Y ya á su lado no soy
+V|Un escándalo del mundo.
+V|Cuando ya tanta Crueldad
+V|Cierra sin orden ni ley? (Vase.)
+S|Escena xii
+S|(Clarín. Soldados, dentro.)
+V|¡Viva nuestro invicto Rey!
+V|¡Viva nuestra libertad!
+V|¡La libertad y el Rey vivan!
+V|Vivan muy enhorabuena.
+V|Que á mí nada me da pena»
+V|Como en cuenta me reciban
+V|Que yo, apartado este dia
+V|En tan grande confusión,
+V|Haga el papel de Nerón,
+V|Que de nada se dolía.
+V|Si bien me quiero doler
+V|De algo, y ha de ser de mí.
+V|Escondido, desde aquí
+V|Toda la fiesta he de ver;
+V|El sitio es oculto y fuerte
+V|Entre estas peñas. — Pues ya
+V|La muerte no me hallará,
+V|Dos higas para la muerte.
+S|(Escóndese: tocan cajas, y suena ruido de armas.)
+S|Escena xiii
+S|(Basilio, Clotaldo y Astolfo, huyendo. Clarín, oculto.)
+V|¡Hay más infelice rey!
+V|¡Hay padre más perseguido!
+V|Ya tu ejército, vencido,
+V|Baja sin tino ni ley.
+V|Los traidores vencedores
+V|Quedan.
+V|En batallas tales
+V|Los que vencen son leales.
+V|Los vencidos los traidores.
+V|Huyamos, Clotaldo, pues.
+V|Del cruel, del inhumano
+V|Rigor de un hijo tirano.
+S|(Disparan dentro y cae Clarín, herido, de donde está.)
+V|¡Válgame el cielo!
+V|¿Quién es
+V|Este infelice soldado,
+V|Que á nuestros pies ha caido
+V|En sangre todo teñido?
+V|Soy un hombre desdichado
+V|Que, por quererme guardar
+V|De la muerte, la busqué.
+V|Huyendo della, encontré
+V|Con ella; pues no hay lugar
+V|Para la muerte secreto:
+V|De donde claro se arguye,
+V|Que quien más su efecto huye,
+V|Es quien se llega á su efeto.
+V|Por eso tornad, tornad
+V|A la lid sangrienta luego,
+V|Que entre las armas y el fuego
+V|Hay mayor seguridad
+V|Que en el monte mas guardado.
+V|Pues no hay seguro camino
+V|A la fuerza del destino
+V|Y á la inclemencia del hado;
+V|Y así, aunque á libraros vais
+V|De la muerte con huir.
+V|Mirad que vais á morir,
+V|Si está de Dios que muráis. (Cae dentro.)
+V|¡Mirad que vais á morir, si está de Dios que muráis!
+V|Qué bien (¡ay cielos!) persuade nuestro error, nuestra ignorancia
+V|A mayor conocimiento, este cadáver que habla
+V|Por la boca de una herida, siendo el humor que desata
+V|Sangrienta lengua que enseña que son diligencias vanas
+V|Del hombre, cuantas dispone contra mayor fuerza y causa.
+V|Pues yo, por librar de muertes y sediciones mi patria,
+V|Vine á entregarla á los mismos de quien pretendí librarla.
+V|Aunque el hado. Señor, sabe todos los caminos y halla
+V|A quien busca entre lo espeso de las peñas, no es cristiana
+V|Determinación, decir que no hay reparo á su saña.
+V|Sí hay, que el prudente varón victoria del hado alcanza;
+V|Y si no estás reservado de la pena y la desgracia,
+V|Haz por donde te reserves.
+V|Clotaldo, Señor, te habla
+V|Como prudente varón que madura edad alcanza.
+V|Yo como joven valiente. Entre las espesas matas
+V|De ese monte está un caballo, veloz aborto del aura;
+V|Huye en él, que yo, entre tanto, te guardaré las espaldas.
+V|Si está de Dios que yo muera, o si la muerte me aguarda
+V|Aquí, hoy la quiero buscar, esperando cara á cara.
+S|(Tocan al arma.)
+S|Escena xiv
+S|(Segismundo. Estrella. Rosaura. Soldados. Acompañamiento. Basilio.)
+S|(Astolfo. Clotaldo.)
+V|En lo intrincado del monte, entre sus espesas ramas.
+V|El Rey se esconde.
+V|¡Seguidle! No quede en sus cumbres planta
+V|Que no examine el cuidado, tronco á tronco y rama á rama.
+V|!Huye, Señor!
+V|¿Para qué?
+V|¿Qué intentas?
+V|Astolfo, aparta.
+V|¿Qué quieres?
+V|Hacer, Clotaldo, un remedio que me falta.
+V|— Si á mí buscándome vas, (A Segismundo.) ya estoy, Príncipe,
+V|á tus plantas:
+V|(Arrodillándose.) Sea dellas blanca alfombra esta nieve de mis canas
+V|Pisa mi cerviz, y huella mi corona; postra, arrastra
+V|Mi decoro y mi respeto; toma de mi honor venganza;
+V|Sírvete de mi cautivo, y tras prevenciones tantas.
+V|Cumpla el hado su homenage, cumpla el cielo su palabra.
+V|Corte ilustre de Polonia, que de admiraciones tantas
+V|Sois testigos, atended, que vuestro Príncipe os habla
+V|Lo que está determinado del cielo, y, en azul tabla
+V|Dios con el dedo escribió, de quien son cifras y estampas
+V|Tantos papeles azules que adornan letras doradas.
+V|Nunca engaña, nunca miente; porque quien miente y engaña
+V|Es quien, para usar mal dellas, las penetra y las alcanza.
+V|Mi padre, que está presente, por excusarse á la saña
+V|De mi condición, me hizo un bruto, una fiera humana.
+V|De suerte que, cuando yo por mi nobleza gallarda.
+V|Por mi sangre generosa, por mi condición bizarra,
+V|Hubiera nacido dócil y humilde, sólo bastara
+V|Tal género de vivir, tal linaje de crianza,
+V|A hacer fieras mis costumbres: ¡Qué buen modo de estorbarlas!
+V|Si á cualquier hombre dijesen: «Alguna fiera inhumana
+V|Te dará muerte», ¿escogiera buen remedio en despertarlas
+V|Cuando estuvieran durmiendo? Si dijeran: «Esta espada
+V|Que traes ceñida, ha de ser quien te dé la muerte», vana
+V|Diligencia de evitarlo fuera entonces desnudarla,
+V|Y ponérsela á los pechos. Si dijesen: «Golfos de agua
+V|Han de ser tu sepultura en monumentos de plata»,
+V|Mal hiciera en darse al mar cuando, soberbio, levanta
+V|Rizados montes de nieve, de cristal crespas montañas.
+V|Lo mismo le ha sucedido que á quien, porque le amenaza
+V|Una fiera, la despierta; que á quien, temiendo una espada
+V|La desnuda; y que á quien mueve las olas de una borrasca:
+V|Y cuando fuera (escuchadme) dormida fiera mi saña,
+V|Templada espada mi furia, mi rigor quieta bonanza;
+V|La fortuna no se vence con injusticia y venganza,,
+V|Porque antes se incita mas; y así, quien vencer aguarda
+V|A su fortuna, ha de ser con cordura y con templanza;
+V|No antes de venir el daño se reserva ni se guarda
+V|Quien le previene; que aunque puede humilde (cosa es clara)
+V|Reservarse del, no es sino después que se halla
+V|En la ocasión, porque aquesta no hay camino de estorbarla.
+V|Sirva de ejemplo este raro espectáculo, esta extraña
+V|Admiración, este horror, este prodigio; pues nada
+V|Es más que llegar á ver con prevenciones tan varias,
+V|Rendido á mis pies á un padre, y atropellado á un monarca.
+V|Sentencia del cielo fué; por más que quiso estorbarla
+V|El, no pudo; y ¿Podré yo, que soy menor en las canas.
+V|En el valor y en la ciencia, vencerla? — Señor, levanta, (Al Rey.)
+V|Dame tu mano; que ya que el Cielo te desengaña
+V|De que has errado en el modo de vencerla, humilde aguarda
+V|El cuello á que tú te vengues: rendido estoy á tus plantas.
+V|Hijo, que tan noble acción otra vez en mis entrañas
+V|Te engendra: Príncipe eres. A tí el laurel y la palma
+V|Se te deben: tú venciste; corónente tus hazañas.
+V|¡Viva Segismundo, viva!
+V|Pues que ya vencer aguarda
+V|Mi valor grandes victorias, hoy ha de ser la más alta
+V|Vencerme á mí. — Astolfo dé la mano luego á Rosaura,
+V|Pues sabe que de su honor es deuda, y yo he de cobrarla.
+V|Aunque es verdad que la debo obligaciones, repara
+V|Que ella no sabe quien es; y es bajeza y es infamia
+V|Casarme yo con mujer ...
+V|No prosigas, tente, aguarda;
+V|Porque Rosaura es tan noble como tú, Astolfo, y mi espada
+V|Lo defenderá en el campo; que es mi hija y esto basta.
+V|¿Qué dices?
+V|Que yo hasta verla casada, noble y honrada
+V|No la quise descubrir. La historia desto es muy larga;
+V|Pero, en fin, es hija mia.
+V|Pues siendo así, mi palabra
+V|Cumpliré.
+V|Pues porque Estrella no quede desconsolada.
+V|Viendo que príncipe pierde de tanto valor y fama,
+V|'De mi propia mano yo con esposo he de casarla
+V|Que en méritos y fortuna, si no le excede, le iguala.
+V|Dame la mano. (A Estrella.)
+V|Yo gano en merecer dicha tanta.
+V|A Clotaldo, que leal sirvió á mi padre, le aguardan
+V|Mis brazos, con las mercedes que él pidiere que le haga.
+V|Si así á quien no te ha servido honras: á mí,
+V|que fui causa
+V|Del alboroto del reino, y de la torre en que estabas
+V|Te saqué, ¿Qué me darás?
+V|La torre; y porque no salgas
+V|Della nunca, hasta morir has de estar allí con guardas;
+V|Que el traidor no es menester, siendo la traición pasada.
+V|Tu ingenio á todos admira.
+V|¡Qué condición tan mudada!
+V|¡Qué discreto y qué prudente!
+V|¿Qué os admira? ¿Qué os espanta.
+V|Si fué mi maestro un sueño, y estoy temiendo, en mis ansias,
+V|Que he de dispertar y hallarme otra vez en mi cerrada
+V|Prisión? — Y cuando no sea, el soñarlo solo basta,
+V|Pues así llegué á saber que toda la dicha humana
+V|En fin pasa como un sueño, y quiero hoy aprovecharla
+V|El tiempo que me durare, pidiendo de nuestras faltas
+V|Perdón, pues de pechos nobles es tan propio el perdonarlas.

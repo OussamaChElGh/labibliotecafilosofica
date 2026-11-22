@@ -1,0 +1,222 @@
+{
+  "slug": "facundo-sarmiento",
+  "title": "Facundo",
+  "author": "Domingo Faustino Sarmiento",
+  "author_route": "",
+  "book_route": "/facundo-sarmiento/",
+  "translator": "",
+  "edition": "Nueva York, Appleton, 1868 (ed. de 1874)",
+  "source_url": "https://es.wikisource.org/wiki/Facundo_%281874%29",
+  "source_revision": 1429644,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "advertencia-del-autor",
+      "title": "Advertencia del autor",
+      "summary": "Empieza: «Después de terminada la publicación de esta obra, he recibido de varios amigos rectificaciones de varios hechos referidos en ella. Algunas inexactitudes…»",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "slug": "introduccion",
+      "title": "Introducción",
+      "summary": "Empieza: «VILLEMAIN.»",
+      "start": 8,
+      "end": 23
+    },
+    {
+      "slug": "carta-prologo-de-la-edicion-de-1851",
+      "title": "Carta-prólogo de la edición de 1851",
+      "summary": "Empieza: «Señor Valentín Alsina:»",
+      "start": 24,
+      "end": 34
+    },
+    {
+      "slug": "capitulo-1",
+      "title": "I. Aspecto físico de la República Argentina, y caracteres, hábitos e ideas que engendra",
+      "summary": "Empieza: «El Continente Americano termina al Sud en una punta en cuya extremidad se forma el Estrecho de Magallanes. Al Oeste, y a…»",
+      "start": 35,
+      "end": 54
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "II. Originalidad y caracteres argentinos",
+      "summary": "Empieza: «Si de las condiciones de la vida pastoril tal como la ha constituido la colonización y la incuria, nacen graves dificultades para…»",
+      "start": 55,
+      "end": 127
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "III. Asociación",
+      "summary": "Empieza: «En el capítulo primero hemos dejado al campesino argentino en el momento en que ha llegado a la edad viril, tal cual…»",
+      "start": 128,
+      "end": 142
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "IV. Revolución de 1810",
+      "summary": "Empieza: «He necesitado andar todo el camino que dejo recorrido para llegar al punto en que nuestro drama comienza. Es inútil detenerse en…»",
+      "start": 143,
+      "end": 191
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "V. Vida de Juan Facundo Quiroga",
+      "summary": "Empieza: «Media entre las ciudades de San Luis y San Juan un dilatado desierto, que por su falta completa de agua, recibe el…»",
+      "start": 192,
+      "end": 212
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "VI. La Rioja",
+      "summary": "Empieza: «En un documento tan antiguo como el año de 1560, he visto consignado el nombre de Mendoza con este aditamento: Mendoza del…»",
+      "start": 213,
+      "end": 241
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "VII. Sociabilidad",
+      "summary": "Empieza: «Facundo posee La Rioja como árbitro y dueño absoluto: no hay más voz que la suya, más interés que el suyo. Como…»",
+      "start": 242,
+      "end": 274
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "VIII. Ensayos",
+      "summary": "Empieza: «Tal como la hemos visto pintada era en 1825 la fisonomía política de la República, cuando el Gobierno de Buenos Aires invitó…»",
+      "start": 275,
+      "end": 323
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "IX. Guerra social: La Tablada",
+      "summary": "Empieza: «La Presidencia ha caído en medio de los silbos y las rechiflas de sus adversarios. Dorrego, el hábil jefe de la oposición…»",
+      "start": 324,
+      "end": 348
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "X. Guerra social: Oncativo",
+      "summary": "Empieza: «¿Qué había sido de Facundo, entre tanto? En la Tablada lo había dejado todo: armas, jefes, soldados, reputación; todo excepto la rabia…»",
+      "start": 349,
+      "end": 364
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "XI. Guerra social: Chacón",
+      "summary": "Empieza: «Facundo, el gaucho malo de los Llanos, no vuelve a sus pagos esta vez, que se encamina hacia Buenos Aires, y debe…»",
+      "start": 365,
+      "end": 396
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "XII. Guerra social: Ciudadela",
+      "summary": "Empieza: «La expedición salió, y los sanjuaninos federales y mujeres y madres de unitarios respiraron al fin, como si despertaran de una horrible…»",
+      "start": 397,
+      "end": 418
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "XIII. ¡¡¡Barranca-Yaco!!!",
+      "summary": "Empieza: «El vencedor de la Ciudadela ha empujado fuera de los confines de la República los últimos sostenedores del sistema unitario. Las mechas…»",
+      "start": 419,
+      "end": 449
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "XIV. Gobierno unitario",
+      "summary": "Empieza: «He dicho en la introducción de estos ligeros apuntes, que para mi entender, Facundo Quiroga es el núcleo de la guerra civil…»",
+      "start": 450,
+      "end": 491
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "XV. Presente y porvenir",
+      "summary": "Empieza: «El bloqueo de la Francia duraba dos años había, y el Gobierno americano animado del espíritu americano, hacía frente a la Francia,…»",
+      "start": 492,
+      "end": 548
+    },
+    {
+      "slug": "apendice-proclamas-de-facundo-quiroga",
+      "title": "Apéndice: proclamas de Facundo Quiroga",
+      "summary": "Empieza: «Las proclamas que llevan la firma de Juan Facundo Quiroga tienen tales caracteres de autenticidad que hemos creído útil insertarlas aquí como…»",
+      "start": 549,
+      "end": 575
+    },
+    {
+      "slug": "notas-del-autor",
+      "title": "Notas del autor",
+      "summary": "Empieza: «1. No es fuera de propósito recordar aquí las semejanzas notables que presentan los argentinos con los árabes. En Argel, en Orán,…»",
+      "start": 576,
+      "end": 594
+    }
+  ],
+  "description": "Facundo de Domingo Faustino Sarmiento: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Ensayo sobre la civilización y la barbarie en la Argentina.",
+  "intro": "<p>Facundo, o civilización y barbarie en las pampas argentinas, es un libro que Domingo Faustino Sarmiento escribió en 1845 desde su exilio en Chile para atacar al gobierno de Juan Manuel de Rosas. Parte de la biografía de Juan Facundo Quiroga, un caudillo de La Rioja, para explicar cómo la geografía de la pampa y la vida del gaucho han producido caudillos violentos y una política bárbara.</p><p>Aquí puedes leer Facundo completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 77,
+    "art": {
+      "file": "facundo-sarmiento.jpg",
+      "focus": [
+        0.45,
+        0.55
+      ],
+      "url": "/leer/facundo-sarmiento/ilustracion.jpg",
+      "credit": "Prilidiano Pueyrredón, «Un alto en el campo» (1861), Museo Nacional de Bellas Artes de Buenos Aires. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Ensayo",
+    "unidad": "capítulos",
+    "tema": "la civilización y la barbarie en la Argentina",
+    "resumen": [
+      "Facundo, o civilización y barbarie en las pampas argentinas, es un libro que Domingo Faustino Sarmiento escribió en 1845 desde su exilio en Chile para atacar al gobierno de Juan Manuel de Rosas. Parte de la biografía de Juan Facundo Quiroga, un caudillo de La Rioja, para explicar cómo la geografía de la pampa y la vida del gaucho han producido caudillos violentos y una política bárbara.",
+      "Sarmiento describe tipos como el rastreador, el baqueano, el gaucho malo y el cantor, cuenta las guerras civiles entre unitarios y federales y el asesinato de Facundo en Barranca Yaco, y presenta a Rosas como la culminación de la barbarie. Frente a ella propone la civilización: la ciudad, la educación, la inmigración europea y el comercio. Es un clásico de la literatura argentina, entre la historia, el ensayo y la novela."
+    ],
+    "personajes": [
+      [
+        "Juan Facundo Quiroga",
+        "Caudillo riojano, el «Tigre de los Llanos», símbolo de la barbarie."
+      ],
+      [
+        "Juan Manuel de Rosas",
+        "Gobernador de Buenos Aires, al que Sarmiento combate."
+      ],
+      [
+        "El rastreador y el baqueano",
+        "Tipos del campo argentino que Sarmiento describe con admiración."
+      ],
+      [
+        "Los unitarios",
+        "Partidarios de un gobierno central y de la civilización urbana."
+      ]
+    ],
+    "ideas": [
+      "La oposición entre civilización (ciudad) y barbarie (campo).",
+      "La influencia del medio geográfico en la sociedad.",
+      "La crítica al caudillismo y a la dictadura de Rosas.",
+      "La educación como camino de progreso."
+    ],
+    "faq": [
+      [
+        "¿Qué significa civilización y barbarie?",
+        "Para Sarmiento, la civilización era la ciudad, la educación y Europa. La barbarie, el campo, el gaucho y los caudillos como Facundo y Rosas."
+      ],
+      [
+        "¿Quién fue Facundo Quiroga?",
+        "Un caudillo federal de La Rioja, asesinado en 1835 en Barranca Yaco."
+      ],
+      [
+        "¿Es una novela?",
+        "No exactamente. Mezcla biografía, ensayo sociológico, historia y panfleto político, con un estilo muy literario."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1845, por entregas en el diario chileno El Progreso. Esta es la edición de 1874."
+      ]
+    ]
+  }
+}

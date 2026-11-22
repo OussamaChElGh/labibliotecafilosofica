@@ -22,6 +22,7 @@ API = "https://es.wikisource.org/w/api.php"
 UA = "WikisourceTextReader/1.0 (educational static site builder)"
 TEXTS = Path(__file__).resolve().parent / "textos"
 PART_WORDS = 2500
+INNER_TITLES = False  # --titulos-internos
 _last = [0.0]
 
 
@@ -132,7 +133,7 @@ def convert_chapters(page, partes=None):
         blocks = [b for b in blocks if not b.startswith("N|")]
         name = part_name(sub)
         heads = []
-        while blocks and blocks[0].startswith("H|") and len(heads) < 3:
+        while blocks and blocks[0].startswith("H|") and len(heads) < 3 and not INNER_TITLES:
             heads.append(blocks.pop(0)[2:].strip().rstrip("."))
         subtitle = next((h for h in heads if h.lower() not in (name.lower(), label.lower(), title.lower())
                          and not re.fullmatch(r"(cap[ií]tulo\s+)?([IVXLC\d]+|primero|único)", h, re.I)), "")
@@ -181,9 +182,12 @@ def convert(page):
         for junk in root.xpath('.//*[@id="headertemplate"]|.//*[contains(@class,"ws-noexport")]|.//*[contains(@class,"interwiki-extra")]'
                                '|.//*[contains(@class,"noprint")]|.//style|.//link'):
             junk.drop_tree()
-        for node in root.iter("p", "h2", "h3", "h4", "div", "poem", "pre"):
+        for node in root.iter("p", "h2", "h3", "h4", "div", "poem", "pre", "dt"):
             css = node.get("class") or ""
-            if node.tag == "pre":  # poema: un V| por verso
+            if node.tag == "dt":  # título de poema en una lista de definición (Poeta en Nueva York)
+                if INNER_TITLES and clean(node.text_content()):
+                    blocks.append("H|" + clean(node.text_content()))
+            elif node.tag == "pre":  # poema: un V| por verso
                 for verse in node.text_content().split("\n"):
                     if clean(verse):
                         blocks.append("V|" + clean(verse))
@@ -298,8 +302,12 @@ def main():
     parser.add_argument("--capitulos", action="store_true", help="obra dividida en subpáginas: un capítulo por subpágina")
     parser.add_argument("--partes", default="", help="páginas sueltas que forman la obra, separadas por «|» (implica --capitulos)")
     parser.add_argument("--wiki", default="es", help="idioma de Wikisource: es (por defecto), en…")
+    parser.add_argument("--titulos-internos", action="store_true",
+                        help="poemarios con varias piezas por página: los títulos de cada poema (<dt>, <h3>) se quedan dentro "
+                             "del capítulo y el lector los muestra (inner_titles en el .json)")
     args = parser.parse_args()
-    global API
+    global API, INNER_TITLES
+    INNER_TITLES = args.titulos_internos
     API = f"https://{args.wiki}.wikisource.org/w/api.php"
     chapters = None
     if args.capitulos or args.partes:
@@ -321,6 +329,8 @@ def main():
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
         "speakers": {str(k): v for k, v in speakers.items()},
     })
+    if INNER_TITLES:
+        meta["inner_titles"] = True
     if chapters:
         meta["chapters"] = chapters
     elif "chapters" not in meta:

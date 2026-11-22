@@ -1,0 +1,1057 @@
+H|Acto I
+S|(Habitación blanquísima del interior de la casa de Bernarda. Muros gruesos. Puertas en arco con cortinas de yute rematadas con madroños y volantes. Sillas de anea. Cuadros con paisajes inverosímiles de ninfas o reyes de leyenda. Es verano. Un gran silencio umbroso se extiende por la escena. Al levantarse el telón está la escena sola. Se oyen doblar las campanas.)
+S|(Sale la Criada)
+P|Ya tengo el doble de esas campanas metido entre las sienes.
+P|(Sale comiendo chorizo y pan) Llevan ya más de dos horas de gori-gori. Han venido curas de todos los pueblos. La iglesia está hermosa. En el primer responso se desmayó la Magdalena.
+P|Es la que se queda más sola.
+P|Era la única que quería al padre. ¡Ay! ¡Gracias a Dios que estamos solas un poquito! Yo he venido a comer.
+P|¡Si te viera Bernarda...!
+P|¡Quisiera que ahora, que no come ella, que todas nos muriéramos de hambre! ¡Mandona! ¡Dominanta! ¡Pero se fastidia! Le he abierto la orza de chorizos.
+P|(Con tristeza, ansiosa) ¿Por qué no me das para mi niña, Poncia?
+P|Entra y llévate también un puñado de garbanzos. ¡Hoy no se dará cuenta!
+P|(Dentro) : ¡Bernarda!
+P|La vieja. ¿Está bien cerrada?
+P|Con dos vueltas de llave.
+P|Pero debes poner también la tranca. Tiene unos dedos como cinco ganzúas.
+P|¡Bernarda!
+P|(A voces) ¡Ya viene! (A la Criada.) Limpia bien todo. Si Bernarda no ve relucientes las cosas me arrancará los pocos pelos que me quedan.
+P|¡Qué mujer!
+P|Tirana de todos los que la rodean. Es capaz de sentarse encima de tu corazón y ver cómo te mueres durante un año sin que se le cierre esa sonrisa fría que lleva en su maldita cara. ¡Limpia, limpia ese vidriado!
+P|Sangre en las manos tengo de fregarlo todo.
+P|Ella, la más aseada; ella, la más decente; ella, la más alta. Buen descanso ganó su pobre marido.
+S|(Cesan las campanas.)
+P|¿Han venido todos sus parientes?
+P|Los de ella. La gente de él la odia. Vinieron a verlo muerto, y le hicieron la cruz.
+P|¿Hay bastantes sillas?
+P|Sobran. Que se sienten en el suelo. Desde que murió el padre de Bernarda no han vuelto a entrar las gentes bajo estos techos. Ella no quiere que la vean en su dominio. ¡Maldita sea!
+P|Contigo se portó bien.
+P|Treinta años lavando sus sábanas; treinta años comiendo sus sobras; noches en vela cuando tose; días enteros mirando por la rendija para espiar a los vecinos y llevarle el cuento; vida sin secretos una con otra, y sin embargo, ¡maldita sea! ¡Mal dolor de clavo le pinche en los ojos!
+P|¡Mujer!
+P|Pero yo soy buena perra; ladro cuando me lo dice y muerdo los talones de los que piden limosna cuando ella me azuza; mis hijos trabajan en sus tierras y ya están los dos casados, pero un día me hartaré.
+P|Y ese día...
+P|Ese día me encerraré con ella en un cuarto y le estaré escupiendo un año entero. "Bernarda, por esto, por aquello, por lo otro", hasta ponerla como un lagarto machacado por los niños, que es lo que es ella y toda su parentela. Claro es que no le envidio la vida. La quedan cinco mujeres, cinco hijas feas, que quitando a Angustias, la mayor, que es la hija del primer marido y tiene dineros, las demás mucha puntilla bordada, muchas camisas de hilo, pero pan y uvas por toda herencia.
+P|¡Ya quisiera tener yo lo que ellas!
+P|Nosotras tenemos nuestras manos y un hoyo en la tierra de la verdad.
+P|Ésa es la única tierra que nos dejan a las que no tenemos nada.
+P|(En la alacena) Este cristal tiene unas motas.
+P|Ni con el jabón ni con bayeta se le quitan.
+S|(Suenan las campanas)
+P|El último responso. Me voy a oírlo. A mí me gusta mucho cómo canta el párroco. En el "Pater noster" subió, subió, subió la voz que parecía un cántaro llenándose de agua poco a poco. ¡Claro es que al final dio un gallo, pero da gloria oírlo! Ahora que nadie como el antiguo sacristán, Tronchapinos. En la misa de mi madre, que esté en gloria, cantó. Retumbaban las paredes, y cuando decía amén era como si un lobo hubiese entrado en la iglesia. (Imitándolo.) ¡Ameeeén!
+S|(Se echa a toser)
+P|Te vas a hacer el gaznate polvo.
+P|¡Otra cosa hacía polvo yo! (Sale riendo)
+S|(La Criada limpia. Suenan las campanas)
+P|(Llevando el canto) Tin, tin, tan. Tin, tin, tan. ¡Dios lo haya perdonado!
+P|(Con una niña) ¡Alabado sea Dios!
+P|Tin, tin, tan. ¡Que nos espere muchos años'. Tin, tin, tan.
+P|(Fuerte con cierta irritación) ¡Alabado sea Dios!
+P|(Irritada) ¡Por siempre!
+P|Vengo por las sobras.
+S|(Cesan las campanas)
+P|Por la puerta se va a la calle. Las sobras de hoy son para mí.
+P|Mujer, tú tienes quien te gane. ¡Mi niña y yo estamos solas!
+P|También están solos los perros y viven.
+P|Siempre me las dan.
+P|Fuera de aquí. ¿Quién os dijo que entrarais? Ya me habéis dejado los pies señalados. (Se van. Limpia.) Suelos barnizados con aceite, alacenas, pedestales, camas de acero, para que traguemos quina las que vivimos en las chozas de tierra con un plato y una cuchara. ¡Ojalá que un día no quedáramos ni uno para contarlo! (Vuelven a sonar las campanas.) Sí, sí, ¡vengan clamores! ¡venga caja con filos dorados y toallas de seda para llevarla!; ¡que lo mismo estarás tú que estaré yo! Fastídiate, Antonio María Benavides, tieso con tu traje de paño y tus botas enterizas. ¡Fastídiate! ¡Ya no volverás a levantarme las enaguas detrás de la puerta de tu corral! (Por el fondo, de dos en dos, empiezan a entrar mujeres de luto con pañuelos grandes, faldas y abanicos negros. Entran lentamente hasta llenar la escena.) (Rompiendo a gritar.) ¡Ay Antonio María Benavides, que ya no verás estas paredes, ni comerás el pan de esta casa! Yo fui la que más te quiso de las que te sirvieron. (Tirándose del cabello.) ¿Y he de vivir yo después de verte marchar? ¿Y he de vivir?
+S|(Terminan de entrar las doscientas mujeres y aparece Bernarda y sus cinco hijas)
+P|(A la Criada) ¡Silencio!
+P|(Llorando) ¡Bernarda!
+P|Menos gritos y más obras. Debías haber procurado que todo esto estuviera más limpio para recibir al duelo. Vete. No es éste tu lugar. (La Criada se va sollozando.) Los pobres son como los animales. Parece como si estuvieran hechos de otras sustancias.
+P|Los pobres sienten también sus penas.
+P|Pero las olvidan delante de un plato de garbanzos.
+P|(Con timidez) Comer es necesario para vivir.
+P|A tu edad no se habla delante de las personas mayores.
+P|Niña, cállate.
+P|No he dejado que nadie me dé lecciones. Sentarse. ((Se sientan. Pausa) (Fuerte)) Magdalena, no llores. Si quieres llorar te metes debajo de la cama. ¿Me has oído?
+P|(A Bernarda) ¿Habéis empezado los trabajos en la era?
+P|Ayer.
+P|Cae el sol como plomo.
+P|Hace años no he conocido calor igual.
+S|(Pausa. Se abanican todas)
+P|¿Está hecha la limonada?
+P|(Sale con una gran bandeja llena de jarritas blancas, que distribuye.) Sí, Bernarda.
+P|Dale a los hombres.
+P|Ya están tomando en el patio.
+P|Que salgan por donde han entrado. No quiero que pasen por aquí.
+P|(A Angustias) Pepe el Romano estaba con los hombres del duelo.
+P|Allí estaba.
+P|Estaba su madre. Ella ha visto a su madre. A Pepe no lo ha visto ni ella ni yo.
+P|Me pareció...
+P|Quien sí estaba era el viudo de Darajalí. Muy cerca de tu tía. A ése lo vimos todas.
+P|(Aparte y en baja voz) ¡Mala, más que mala!
+P|(Aparte y en baja voz) ¡Lengua de cuchillo!
+P|Las mujeres en la iglesia no deben mirar más hombre que al oficiante, y a ése porque tiene faldas. Volver la cabeza es buscar el calor de la pana.
+P|(En voz baja) ¡Vieja lagarta recocida!
+P|(Entre dientes) ¡Sarmentosa por calentura de varón!
+P|(Dando un golpe de bastón en el suelo) ¡Alabado sea Dios!
+P|(Santiguándose) Sea por siempre bendito y alabado.
+P|¡Descansa en paz con la santa compaña de cabecera!
+P|¡Descansa en paz!
+P|Con el ángel San Miguel y su espada justiciera
+P|¡Descansa en paz!
+P|Con la llave que todo lo abre y la mano que todo lo cierra.
+P|¡Descansa en paz!
+P|Con los bienaventurados y las lucecitas del campo.
+P|¡Descansa en paz!
+P|Con nuestra santa caridad y las almas de tierra y mar.
+P|¡Descansa en paz!
+P|Concede el reposo a tu siervo Antonio María Benavides y dale la corona de tu santa gloria.
+P|Amén.
+P|(Se pone de pie y canta) "Réquiem aeternam dona eis, Domine".
+P|(De pie y cantando al modo gregoriano) "Et lux perpetua luceat eis".
+S|(Se santiguan)
+P|Salud para rogar por su alma.
+S|(Van desfilando)
+P|No te faltará la hogaza de pan caliente.
+P|Ni el techo para tus hijas.
+S|(Van desfilando todas por delante de Bernarda y saliendo. Sale Angustias por otra puerta, la que da al patio)
+P|El mismo trigo de tu casamiento lo sigas disfrutando.
+P|(Entrando con una bolsa) De parte de los hombres esta bolsa de dineros para responsos.
+P|Dales las gracias y échales una copa de aguardiente.
+P|(A Magdalena) Magdalena...
+P|(A Magdalena, que inicia el llanto) Chist. ((Golpea con el bastón.) (Salen todas.) (A las que se han ido)) ¡Andar a vuestras cuevas a criticar todo lo que habéis visto! Ojalá tardéis muchos años en pasar el arco de mi puerta.
+P|No tendrás queja ninguna. Ha venido todo el pueblo.
+P|Sí, para llenar mi casa con el sudor de sus refajos y el veneno de sus lenguas.
+P|¡Madre, no hable usted así!
+P|Es así como se tiene que hablar en este maldito pueblo sin río, pueblo de pozos, donde siempre se bebe el agua con el miedo de que esté envenenada.
+P|¡Cómo han puesto la solería!
+P|Igual que si hubiera pasado por ella una manada de cabras. (La Poncia limpia el suelo.) Niña, dame un abanico.
+P|Tome usted.
+S|(Le da un abanico redondo con flores rojas y verdes.)
+P|(Arrojando el abanico al suelo) ¿Es éste el abanico que se da a una viuda? Dame uno negro y aprende a respetar el luto de tu padre.
+P|Tome usted el mío.
+P|¿Y tú?
+P|Yo no tengo calor.
+P|Pues busca otro, que te hará falta. En ocho años que dure el luto no ha de entrar en esta casa el viento de la calle. Haceros cuenta que hemos tapiado con ladrillos puertas y ventanas. Así pasó en casa de mi padre y en casa de mi abuelo. Mientras, podéis empezar a bordaros el ajuar. En el arca tengo veinte piezas de hilo con el que podréis cortar sábanas y embozos. Magdalena puede bordarlas.
+P|Lo mismo me da.
+P|(Agria) Si no queréis bordarlas irán sin bordados. Así las tuyas lucirán más.
+P|Ni las mías ni las vuestras. Sé que yo no me voy a casar. Prefiero llevar sacos al molino. Todo menos estar sentada días y días dentro de esta sala oscura.
+P|Eso tiene ser mujer
+P|Malditas sean las mujeres.
+P|Aquí se hace lo que yo mando. Ya no puedes ir con el cuento a tu padre. Hilo y aguja para las hembras. Látigo y mula para el varón. Eso tiene la gente que nace con posibles.
+S|(Sale Adela.)
+P|¡Bernarda!, ¡déjame salir!
+P|(En voz alta) ¡Dejadla ya!
+S|(Sale la Criada.)
+P|Me ha costado mucho trabajo sujetarla. A pesar de sus ochenta años tu madre es fuerte como un roble.
+P|Tiene a quien parecérsele. Mi abuelo fue igual.
+P|Tuve durante el duelo que taparle varias veces la boca con un costal vacío porque quería llamarte para que le dieras agua de fregar siquiera, para beber, y carne de perro, que es lo que ella dice que tú le das.
+P|¡Tiene mala intención!
+P|(A la Criada.) Déjala que se desahogue en el patio.
+P|Ha sacado del cofre sus anillos y los pendientes de amatistas, se los ha puesto y me ha dicho que se quiere casar.
+S|(Las hijas ríen.)
+P|Ve con ella y ten cuidado que no se acerque al pozo.
+P|No tengas miedo que se tire.
+P|No es por eso... Pero desde aquel sitio las vecinas pueden verla desde su ventana.
+S|(Sale la Criada.)
+P|Nos vamos a cambiar la ropa.
+P|Sí, pero no el pañuelo de la cabeza. (Entra Adela.) ¿Y Angustias?
+P|(Con retintín.) La he visto asomada a la rendija del portón. Los hombres se acababan de ir.
+P|¿Y tú a qué fuiste también al portón?
+P|Me llegué a ver si habían puesto las gallinas.
+P|¡Pero el duelo de los hombres habría salido ya!
+P|(Con intención) Todavía estaba un grupo parado por fuera.
+P|(Furiosa) ¡Angustias! ¡Angustias!
+P|(Entrando.) ¿Qué manda usted?
+P|¿Qué mirabas y a quién?
+P|A nadie.
+P|¿Es decente que una mujer de tu clase vaya con el anzuelo detrás de un hombre el día de la misa de su padre? ¡Contesta! ¿A quién mirabas?
+S|(Pausa.)
+P|Yo...
+P|¡Tú!
+P|¡A nadie!
+P|(Avanzando con el bastón) ¡Suave! ¡dulzarrona!
+S|(Le da)
+P|(Corriendo) ¡Bernarda, cálmate!
+S|(La sujeta) (Angustias llora.)
+P|¡Fuera de aquí todas!
+S|(Salen)
+P|Ella lo ha hecho sin dar alcance a lo que hacía, que está francamente mal. ¡Ya me chocó a mí verla escabullirse hacia el patio! Luego estuvo detrás de una ventana oyendo la conversación que traían los hombres, que, como siempre, no se puede oír.
+P|¡A eso vienen a los duelos! (Con curiosidad.) ¿De qué hablaban?
+P|Hablaban de Paca la Roseta. Anoche ataron a su marido a un pesebre y a ella se la llevaron a la grupa del caballo hasta lo alto del olivar.
+P|¿Y ella?
+P|Ella, tan conforme. Dicen que iba con los pechos fuera y Maximiliano la llevaba cogida como si tocara la guitarra. ¡Un horror!
+P|¿Y qué pasó?
+P|Lo que tenía que pasar. Volvieron casi de día. Paca la Roseta traía el pelo suelto y una corona de flores en la cabeza.
+P|Es la única mujer mala que tenemos en el pueblo.
+P|Porque no es de aquí. Es de muy lejos. Y los que fueron con ella son también hijos de forasteros. Los hombres de aquí no son capaces de eso.
+P|No, pero les gusta verlo y comentarlo, y se chupan los dedos de que esto ocurra.
+P|Contaban muchas cosas más.
+P|(Mirando a un lado y a otro con cierto temor) ¿Cuáles?
+P|Me da vergüenza referirlas.
+P|Y mi hija las oyó.
+P|¡Claro!
+P|Ésa sale a sus tías; blancas y untosas que ponían ojos de carnero al piropo de cualquier barberillo. ¡Cuánto hay que sufrir y luchar para hacer que las personas sean decentes y no tiren al monte demasiado!
+P|¡Es que tus hijas están ya en edad de merecer! Demasiada poca guerra te dan. Angustias ya debe tener mucho más de los treinta.
+P|Treinta y nueve justos.
+P|Figúrate. Y no ha tenido nunca novio...
+P|(Furiosa) ¡No, no ha tenido novio ninguna, ni les hace falta! Pueden pasarse muy bien.
+P|No he querido ofenderte.
+P|No hay en cien leguas a la redonda quien se pueda acercar a ellas. Los hombres de aquí no son de su clase. ¿Es que quieres que las entregue a cualquier gañán?
+P|Debías haberte ido a otro pueblo.
+P|Eso, ¡a venderlas!
+P|No, Bernarda, a cambiar... ¡Claro que en otros sitios ellas resultan las pobres!
+P|¡Calla esa lengua atormentadora!
+P|Contigo no se puede hablar. ¿Tenemos o no tenemos confianza?
+P|No tenemos. Me sirves y te pago. ¡Nada más!
+P|(Entrando.) Ahí está don Arturo, que viene a arreglar las particiones.
+P|Vamos. (A la Criada.) Tú empieza a blanquear el patio. (A La Poncia.) Y tú ve guardando en el arca grande toda la ropa del muerto.
+P|Algunas cosas las podríamos dar...
+P|Nada. ¡Ni un botón! ¡Ni el pañuelo con que le hemos tapado la cara!
+S|(Sale lentamente apoyada en el bastón y al salir vuelve la cabeza y mira a sus Criadas. Las Criadas salen después.)
+S|(Entran Amelia y Martirio.)
+P|¿Has tomado la medicina?
+P|¡Para lo que me va a servir!
+P|Pero la has tomado.
+P|Yo hago las cosas sin fe, pero como un reloj.
+P|Desde que vino el médico nuevo estás más animada.
+P|Yo me siento lo mismo.
+P|¿Te fijaste? Adelaida no estuvo en el duelo.
+P|Ya lo sabía. Su novio no la deja salir ni al tranco de la calle. Antes era alegre; ahora ni polvos echa en la cara.
+P|Ya no sabe una si es mejor tener novio o no.
+P|Es lo mismo.
+P|De todo tiene la culpa esta crítica que no nos deja vivir. Adelaida habrá pasado mal rato.
+P|Le tienen miedo a nuestra madre. Es la única que conoce la historia de su padre y el origen de sus tierras. Siempre que viene le tira puñaladas el asunto. Su padre mató en Cuba al marido de primera mujer para casarse con ella. Luego aquí la abandonó y se fue con otra que tenía una hija y luego tuvo relaciones con esta muchacha, la madre de Adelaida, y se casó con ella después de haber muerto loca la segunda mujer.
+P|Y ese infame, ¿por qué no está en la cárcel?
+P|Porque los hombres se tapan unos a otros las cosas de esta índole y nadie es capaz de delatar.
+P|Pero Adelaida no tiene culpa de esto.
+P|No, pero las cosas se repiten. Y veo que todo es una terrible repetición. Y ella tiene el mismo sino de su madre y de su abuela, mujeres las dos del que la engendró.
+P|¡Qué cosa más grande!
+P|Es preferible no ver a un hombre nunca. Desde niña les tuve miedo. Los veía en el corral uncir los bueyes y levantar los costales de trigo entre voces y zapatazos, y siempre tuve miedo de crecer por temor de encontrarme de pronto abrazada por ellos. Dios me ha hecho débil y fea y los ha apartado definitivamente de mí.
+P|¡Eso no digas! Enrique Humanes estuvo detrás de ti y le gustabas.
+P|¡Invenciones de la gente! Una vez estuve en camisa detrás de la ventana hasta que fue de día, porque me avisó con la hija de su gañán que iba a venir, y no vino. Fue todo cosa de lenguas. Luego se casó con otra que tenía más que yo.
+P|¡Y fea como un demonio!
+P|¡Qué les importa a ellos la fealdad! A ellos les importa la tierra, las yuntas y una perra sumisa que les dé de comer.
+P|¡Ay!
+S|(Entra Magdalena.)
+P|¿Qué hacéis?
+P|Aquí.
+P|¿Y tú?
+P|Vengo de correr las cámaras. Por andar un poco. De ver los cuadros bordados en cañamazo de nuestra abuela, el perrito de lanas y el negro luchando con el león, que tanto nos gustaba de niñas. Aquélla era una época más alegre. Una boda duraba diez días y no se usaban las malas lenguas. Hoy hay más finura. Las novias se ponen velo blanco como en las poblaciones, y se bebe vino de botella, pero nos pudrimos por el qué dirán.
+P|¡Sabe Dios lo que entonces pasaría!
+P|(A Magdalena.) Llevas desabrochados los cordones de un zapato.
+P|¡Qué más da!
+P|¡Te los vas a pisar y te vas a caer!
+P|¡Una menos!
+P|¿Y Adela?
+P|¡Ah! Se ha puesto el traje verde que se hizo para estrenar el día de su cumpleaños, se ha ido al corral y ha comenzado a voces: "¡Gallinas, gallinas, miradme!" ¡Me he tenido que reír!
+P|¡Si la hubiera visto madre!
+P|¡Pobrecilla! Es la más joven de nosotras y tiene ilusión. ¡Daría algo por verla feliz!
+S|(Pausa. Angustias cruza la escena con unas toallas en la mano.)
+P|¿Qué hora es?
+P|Ya deben ser las doce.
+P|¿Tanto?
+P|¡Estarán al caer!
+S|(Sale Angustias.)
+P|(Con intención.) ¿Sabéis ya la cosa...?
+S|(Señalando a Angustias.)
+P|No.
+P|¡Vamos!
+P|¡No sé a qué cosa te refieres...!
+P|Mejor que yo lo sabéis las dos. Siempre cabeza con cabeza como dos ovejitas, pero sin desahogaros con nadie. ¡Lo de Pepe el Romano!
+P|¡Ah!
+P|(Remedándola.) ¡Ah! Ya se comenta por el pueblo. Pepe el Romano viene a casarse con Angustias. Anoche estuvo rondando la casa y creo que pronto va a mandar un emisario.
+P|¡Yo me alegro! Es buen hombre.
+P|Yo también. Angustias tiene buenas condiciones.
+P|Ninguna de las dos os alegráis.
+P|¡Magdalena! ¡Mujer!
+P|Si viniera por el tipo de Angustias, por Angustias como mujer, yo me alegraría, pero viene por el dinero. Aunque Angustias es nuestra hermana aquí estamos en familia y reconocemos que está vieja, enfermiza, y que siempre ha sido la que ha tenido menos méritos de todas nosotras, porque si con veinte años parecía un palo vestido, ¡qué será ahora que tiene cuarenta!
+P|No hables así. La suerte viene a quien menos la aguarda.
+P|¡Después de todo dice la verdad! Angustias tiene el dinero de su padre, es la única rica de la casa y por eso ahora, que nuestro padre ha muerto y ya se harán particiones, vienen por ella!
+P|Pepe el Romano tiene veinticinco años y es el mejor tipo de todos estos contornos. Lo natural sería que te pretendiera a ti, Amelia, o a nuestra Adela, que tiene veinte años, pero no que venga a buscar lo más oscuro de esta casa, a una mujer que, como su padre habla con la nariz.
+P|¡Puede que a él le guste!
+P|¡Nunca he podido resistir tu hipocresía!
+P|¡Dios nos valga!
+S|(Entra Adela.)
+P|¿Te han visto ya las gallinas?
+P|¿Y qué querías que hiciera?
+P|¡Si te ve nuestra madre te arrastra del pelo!
+P|Tenía mucha ilusión con el vestido. Pensaba ponérmelo el día que vamos a comer sandías a la noria. No hubiera habido otro igual.
+P|¡Es un vestido precioso!
+P|Y me está muy bien. Es lo que mejor ha cortado Magdalena.
+P|¿Y las gallinas qué te han dicho?
+P|Regalarme unas cuantas pulgas que me han acribillado las piernas.
+S|(Ríen)
+P|Lo que puedes hacer es teñirlo de negro.
+P|Lo mejor que puedes hacer es regalárselo a Angustias para la boda con Pepe el Romano.
+P|(Con emoción contenida.) ¡Pero Pepe el Romano...!
+P|¿No lo has oído decir?
+P|No.
+P|¡Pues ya lo sabes!
+P|¡Pero si no puede ser!
+P|¡El dinero lo puede todo!
+P|¿Por eso ha salido detrás del duelo y estuvo mirando por el portón? (Pausa.) Y ese hombre es capaz de...
+P|Es capaz de todo.
+S|(Pausa)
+P|¿Qué piensas, Adela?
+P|Pienso que este luto me ha cogido en la peor época de mi vida para pasarlo.
+P|Ya te acostumbrarás.
+P|(Rompiendo a llorar con ira) ¡No , no me acostumbraré! Yo no quiero estar encerrada. No quiero que se me pongan las carnes como a vosotras. ¡No quiero perder mi blancura en estas habitaciones! ¡Mañana me pondré mi vestido verde y me echaré a pasear por la calle! ¡Yo quiero salir!
+S|(Entra la Criada.)
+P|(Autoritaria.) ¡Adela!
+P|¡La pobre! ¡Cuánto ha sentido a su padre!
+S|(Sale)
+P|¡Calla!
+P|Lo que sea de una será de todas.
+S|(Adela se calma.)
+P|Ha estado a punto de oírte la Criada.
+P|(Apareciendo.) Pepe el Romano viene por lo alto de la calle.
+S|(Amelia, Martirio y Magdalena corren presurosas.)
+P|¡Vamos a verlo!
+S|(Salen rápidas.)
+P|(A Adela.) ¿Tú no vas?
+P|No me importa.
+P|Como dará la vuelta a la esquina, desde la ventana de tu cuarto se verá mejor.
+S|(Sale la Criada.)
+S|(Adela queda en escena dudando. Después de un instante se va también rápida hacia su habitación. Salen Bernarda y La Poncia.)
+P|¡Malditas particiones!
+P|¡Cuánto dinero le queda a Angustias!
+P|Sí.
+P|Y a las otras, bastante menos.
+P|Ya me lo has dicho tres veces y no te he querido replicar. Bastante menos, mucho menos. No me lo recuerdes más.
+S|(Sale Angustias muy compuesta de cara.)
+P|¡Angustias!
+P|Madre.
+P|¿Pero has tenido valor de echarte polvos en la cara? ¿Has tenido valor de lavarte la cara el día de la misa de tu padre?
+P|No era mi padre. El mío murió hace tiempo. ¿Es que ya no lo recuerda usted?
+P|¡Más debes a este hombre, padre de tus hermanas, que al tuyo! Gracias a este hombre tienes colmada tu fortuna.
+P|¡Eso lo teníamos que ver!
+P|¡Aunque fuera por decencia! ¡Por respeto!
+P|Madre, déjeme usted salir.
+P|¿Salir? Después que te hayas quitado esos polvos de la cara. ¡Suavona! ¡Yeyo! ¡Espejo de tus tías! (Le quita violentamente con su pañuelo los polvos.) ¡Ahora vete!
+P|¡Bernarda, no seas tan inquisitiva!
+P|Aunque mi madre esté loca yo estoy con mis cinco sentidos y sé perfectamente lo que hago.
+S|(Entran todas.)
+P|¿Qué pasa?
+P|No pasa nada.
+P|(A Angustias.) Si es que discutís por las particiones, tú, que eres la más rica, te puedes quedar con todo.
+P|¡Guárdate la lengua en la madriguera!
+P|(Golpeando con el bastón en el suelo.) ¡No os hagáis ilusiones de que vais a poder conmigo. ¡Hasta que salga de esta casa con los pies adelante mandaré en lo mío y en lo vuestro!
+S|(Se oyen unas voces y entra en escena María Josefa, la madre de Bernarda, viejísima, ataviada con flores en la cabeza y en el pecho.)
+P|Bernarda, ¿dónde está mi mantilla? Nada de lo que tengo quiero que sea para vosotras, ni mis anillos, ni mi traje negro de moaré, porque ninguna de vosotras se va a casar. ¡Ninguna! ¡Bernarda, dame mi gargantilla de perlas!
+P|((A la Criada.) ¿Por qué la habéis dejado entrar? )
+P|(Temblando.) ¡Se me escapó!
+P|Me escapé porque me quiero casar, porque quiero casarme con un varón hermoso de la orilla del mar, ya que aquí los hombres huyen de las mujeres.
+P|¡Calle usted, madre!
+P|No, no callo. No quiero ver a estas mujeres solteras, rabiando por la boda, haciéndose polvo el corazón, y yo me quiero ir a mi pueblo. ¡Bernarda, yo quiero un varón para casarme y tener alegría!
+P|¡Encerradla!
+P|¡Déjame salir, Bernarda!
+S|(La Criada coge a María Josefa.)
+P|¡Ayudarla vosotras!
+S|(Todas arrastran a la vieja.)
+P|¡Quiero irme de aquí! ¡Bernarda! ¡A casarme a la orilla del mar, a la orilla del mar!
+H|Acto II
+S|(Habitación blanca del interior de la casa de Bernarda. Las puertas de la izquierda dan a los dormitorios. Las hijas de Bernarda están sentadas en sillas bajas, cosiendo. Magdalena borda. Con ellas está La Poncia.)
+P|Ya he cortado la tercer sábana.
+P|Le corresponde a Amelia.
+P|Angustias, ¿pongo también las iniciales de Pepe?
+P|(Seca.) No.
+P|(A voces.) Adela, ¿no vienes?
+P|Estará echada en la cama.
+P|Ésa tiene algo. La encuentro sin sosiego, temblona, asustada, como si tuviera una lagartija entre los pechos.
+P|No tiene ni más ni menos que lo que tenemos todas.
+P|Todas, menos Angustias.
+P|Yo me encuentro bien, y al que le duela que reviente.
+P|Desde luego hay que reconocer que lo mejor que has tenido siempre ha sido el talle y la delicadeza.
+P|Afortunadamente pronto voy a salir de este infierno.
+P|¡A lo mejor no sales!
+P|¡Dejar esa conversación!
+P|Y, además, ¡mas vale onza en el arca que ojos negros en la cara!
+P|Por un oído me entra y por otro me sale.
+P|(A La Poncia.) Abre la puerta del patio a ver si nos entra un poco el fresco.
+S|(La Poncia lo hace.)
+P|Esta noche pasada no me podía quedar dormida del calor.
+P|¡Yo tampoco!
+P|Yo me levanté a refrescarme. Había un nublo negro de tormenta y hasta cayeron algunas gotas.
+P|Era la una de la madrugada y salía fuego de la tierra. También me levanté yo. Todavía estaba Angustias con Pepe en la ventana.
+P|(Con ironía.) ¿Tan tarde? ¿A qué hora se fue?
+P|Magdalena, ¿a qué preguntas, si lo viste?
+P|Se iría a eso de la una y media.
+P|Sí. ¿Tú por qué lo sabes?
+P|Lo sentí toser y oí los pasos de su jaca.
+P|¡Pero si yo lo sentí marchar a eso de las cuatro!
+P|¡No sería él!
+P|¡Estoy segura!
+P|A mí también me pareció...
+P|¡Qué cosa más rara!
+S|(Pausa.)
+P|Oye, Angustias, ¿qué fue lo que te dijo la primera vez que se acercó a tu ventana?
+P|Nada. ¡Qué me iba a decir? Cosas de conversación.
+P|Verdaderamente es raro que dos personas que no se conocen se vean de pronto en una reja y ya novios.
+P|Pues a mí no me chocó.
+P|A mí me daría no sé qué.
+P|No, porque cuando un hombre se acerca a una reja ya sabe por los que van y vienen, llevan y traen, que se le va a decir que sí.
+P|Bueno, pero él te lo tendría que decir.
+P|¡Claro!
+P|(Curiosa.) ¿Y cómo te lo dijo?
+P|Pues, nada: "Ya sabes que ando detrás de ti, necesito una mujer buena, modosa, y ésa eres tú, si me das la conformidad."
+P|¡A mí me da vergüenza de estas cosas!
+P|Y a mí, ¡pero hay que pasarlas!
+P|¿Y habló más?
+P|Sí, siempre habló él.
+P|¿Y tú?
+P|Yo no hubiera podido. Casi se me salía el corazón por la boca. Era la primera vez que estaba sola de noche con un hombre.
+P|Y un hombre tan guapo.
+P|No tiene mal tipo.
+P|Esas cosas pasan entre personas ya un poco instruidas, que hablan y dicen y mueven la mano... La primera vez que mi marido Evaristo el Colorín vino a mi ventana... ¡Ja, ja, ja!
+P|¿Qué pasó?
+P|Era muy oscuro. Lo vi acercarse y, al llegar, me dijo: "Buenas noches." "Buenas noches", le dije yo, y nos quedamos callados más de media hora. Me corría el sudor por todo el cuerpo. Entonces Evaristo se acercó, se acercó que se quería meter por los hierros, y dijo con voz muy baja: "¡Ven que te tiente!"
+S|(Ríen todas. Amelia se levanta corriendo y espía por una puerta.)
+P|¡Ay! Creí que llegaba nuestra madre.
+P|¡Buenas nos hubiera puesto!
+S|(Siguen riendo.)
+P|Chisst... ¡Que nos va a oír!
+P|Luego se portó bien. En vez de darle por otra cosa, le dio por criar colorines hasta que murió. A vosotras, que sois solteras, os conviene saber de todos modos que el hombre a los quince días de boda deja la cama por la mesa, y luego la mesa por la tabernilla. Y la que no se conforma se pudre llorando en un rincón.
+P|Tú te conformaste.
+P|¡Yo pude con él!
+P|¿Es verdad que le pegaste algunas veces?
+P|Sí, y por poco lo dejo tuerto.
+P|¡Así debían ser todas las mujeres!
+P|Yo tengo la escuela de tu madre. Un día me dijo no sé qué cosa y le maté todos los colorines con la mano del almirez.
+S|(Ríen)
+P|Adela, niña, no te pierdas esto.
+P|Adela.
+S|(Pausa.)
+P|¡Voy a ver!
+S|(Entra.)
+P|¡Esa niña está mala!
+P|Claro, ¡no duerme apenas!
+P|Pues, ¿qué hace?
+P|¡Yo qué sé lo que hace!
+P|Mejor lo sabrás tú que yo, que duermes pared por medio.
+P|La envidia la come.
+P|No exageres.
+P|Se lo noto en los ojos. Se le está poniendo mirar de loca.
+P|No habléis de locos. Aquí es el único sitio donde no se puede pronunciar esta palabra.
+S|(Sale Magdalena con Adela.)
+P|Pues, ¿no estabas dormida?
+P|Tengo mal cuerpo.
+P|(Con intención.) ¿Es que no has dormido bien esta noche?
+P|: Sí.
+P|¿Entonces?
+P|(Fuerte.) ¡Déjame ya! ¡Durmiendo o velando, no tienes por qué meterte en lo mío! ¡Yo hago con mi cuerpo lo que me parece!
+P|¡Sólo es interés por ti!
+P|Interés o inquisición. ¿No estabais cosiendo? Pues seguir. ¡Quisiera ser invisible, pasar por las habitaciones sin que me preguntarais dónde voy!
+P|(Entra.) Bernarda os llama. Está el hombre de los encajes. ((Salen.) ) (Al salir, Martirio mira fijamente a Adela:.)
+P|¡No me mires más! Si quieres te daré mis ojos, que son frescos, y mis espaldas, para que te compongas la joroba que tienes, pero vuelve la cabeza cuando yo pase.
+S|(Se va Martirio.)
+P|¡Adela, que es tu hermana, y además la que más te quiere!
+P|Me sigue a todos lados. A veces se asoma a mi cuarto para ver si duermo. No me deja respirar. Y siempre: "¡Qué lástima de cara! ¡Qué lástima de cuerpo, que no va a ser para nadie!" ¡Y eso no! Mi cuerpo será de quien yo quiera!
+P|(Con intención y en voz baja.) De Pepe el Romano, ¿no es eso?
+P|(Sobrecogida.) ¿Qué dices?
+P|¡Lo que digo, Adela!
+P|: ¡Calla!
+P|(Alto.) ¿Crees que no me he fijado?
+P|: ¡Baja la voz!
+P|¡Mata esos pensamientos!
+P|¿Qué sabes tú?
+P|Las viejas vemos a través de las paredes. ¿Dónde vas de noche cuando te levantas?
+P|¡Ciega debías estar!
+P|Con la cabeza y las manos llenas de ojos cuando se trata de lo que se trata. Por mucho que pienso no sé lo que te propones. ¿Por qué te pusiste casi desnuda con la luz encendida y la ventana abierta al pasar Pepe el segundo día que vino a hablar con tu hermana?
+P|¡Eso no es verdad!
+P|¡No seas como los niños chicos! Deja en paz a tu hermana y si Pepe el Romano te gusta te aguantas. (Adela llora.) Además, ¿quién dice que no te puedas casar con él? Tu hermana Angustias es una enferma. Ésa no resiste el primer parto. Es estrecha de cintura, vieja, y con mi conocimiento te digo que se morirá. Entonces Pepe hará lo que hacen todos los viudos de esta tierra: se casará con la más joven, la más hermosa, y ésa eres tú. Alimenta esa esperanza, olvídalo. Lo que quieras, pero no vayas contra la ley de Dios.
+P|¡Calla!
+P|¡No callo!
+P|Métete en tus cosas, ¡oledora! ¡pérfida!
+P|¡Sombra tuya he de ser!
+P|En vez de limpiar la casa y acostarte para rezar a tus muertos, buscas como una vieja marrana asuntos de hombres y mujeres para babosear en ellos.
+P|¡Velo! Para que las gentes no escupan al pasar por esta puerta.
+P|¡Qué cariño tan grande te ha entrado de pronto por mi hermana!
+P|No os tengo ley a ninguna, pero quiero vivir en casa decente. ¡No quiero mancharme de vieja!
+P|Es inútil tu consejo. Ya es tarde. No por encima de ti, que eres una Criada, por encima de mi madre saltaría para apagarme este fuego que tengo levantado por piernas y boca. ¿ Qué puedes decir de mí? Que me encierro en mi cuarto y no abro la puerta? ¿Que no duermo? ¡Soy más lista que tú! Mira a ver si puedes agarrar la liebre con tus manos.
+P|No me desafíes. ¡Adela, no me desafíes! Porque yo puedo dar voces, encender luces y hacer que toquen las campanas.
+P|Trae cuatro mil bengalas amarillas y ponlas en las bardas del corral. Nadie podrá evitar que suceda lo que tiene que suceder.
+P|¡Tanto te gusta ese hombre!
+P|¡Tanto! Mirando sus ojos me parece que bebo su sangre lentamente.
+P|Yo no te puedo oír.
+P|¡Pues me oirás! Te he tenido miedo. ¡Pero ya soy más fuerte que tú!
+S|(Entra Angustias.)
+P|¡Siempre discutiendo!
+P|Claro, se empeña en que, con el calor que hace, vaya a traerle no sé qué cosa de la tienda.
+P|¿Me compraste el bote de esencia?
+P|El más caro. Y los polvos. En la mesa de tu cuarto los he puesto.
+S|(Sale Angustias.)
+P|¡Y chitón!
+P|¡Lo veremos!
+S|(Entran Martirio, Amelia y Magdalena)
+P|(A Adela) ¿Has visto los encajes?
+P|Los de Angustias para sus sábanas de novia son preciosos.
+P|(A Martirio, que trae unos encajes) ¿Y éstos?
+P|Son para mí. Para una camisa.
+P|(Con sarcasmo.) ¡Se necesita buen humor!
+P|(Con intención) Para verlos yo. No necesito lucirme ante nadie.
+P|Nadie la ve a una en camisa.
+P|(Con intención y mirando a Adela.) ¡A veces! Pero me encanta la ropa interior. Si fuera rica la tendría de holanda. Es uno de los pocos gustos que me quedan.
+P|Estos encajes son preciosos para las gorras de niño, para mantehuelos de cristianar. Yo nunca pude usarlos en los míos. A ver si ahora Angustias los usa en los suyos. Como le dé por tener crías vais a estar cosiendo mañana y tarde.
+P|Yo no pienso dar una puntada.
+P|Y mucho menos cuidar niños ajenos. Mira tú cómo están las vecinas del callejón, sacrificadas por cuatro monigotes.
+P|Ésas están mejor que vosotras. ¡Siquiera allí se ríe y se oyen porrazos!
+P|Pues vete a servir con ellas.
+P|No. ¡Ya me ha tocado en suerte este convento!
+S|(Se oyen unos campanillos lejanos, como a través de varios muros.)
+P|Son los hombres que vuelven al trabajo.
+P|Hace un minuto dieron las tres.
+P|¡Con este sol!
+P|(Sentándose) ¡Ay, quién pudiera salir también a los campos!
+P|(Sentándose) ¡Cada clase tiene que hacer lo suyo!
+P|(Sentándose) ¡Así es!
+P|(Sentándose) ¡Ay!
+P|No hay alegría como la de los campos en esta época. Ayer de mañana llegaron los segadores. Cuarenta o cincuenta buenos mozos.
+P|¿De dónde son este año?
+P|De muy lejos. Vinieron de los montes. ¡Alegres! ¡Como árboles quemados! ¡Dando voces y arrojando piedras! Anoche llegó al pueblo una mujer vestida de lentejuelas y que bailaba con un acordeón, y quince de ellos la contrataron para llevársela al olivar. Yo los vi de lejos. El que la contrataba era un muchacho de ojos verdes, apretado como una gavilla de trigo.
+P|¿Es eso cierto?
+P|¡Pero es posible!
+P|Hace años vino otra de éstas y yo misma di dinero a mi hijo mayor para que fuera. Los hombres necesitan estas cosas.
+P|Se les perdona todo.
+P|Nacer mujer es el mayor castigo.
+P|Y ni nuestros ojos siquiera nos pertenecen.
+S|(Se oye un canto lejano que se va acercando.)
+P|Son ellos. Traen unos cantos preciosos.
+P|Ahora salen a segar.
+V|Ya salen los segadores
+V|en busca de las espigas;
+V|se llevan los corazones
+V|de las muchachas que miran.
+S|(Se oyen panderos y carrañacas. Pausa. Todas oyen en un silencio traspasado por el sol.)
+P|¡Y no les importa el calor!
+P|Siegan entre llamaradas.
+P|Me gustaría segar para ir y venir. Así se olvida lo que nos muerde.
+P|¿Qué tienes tú que olvidar?
+P|Cada una sabe sus cosas.
+P|(Profunda.) ¡Cada una!
+P|¡Callar! ¡Callar!
+P|(Muy lejano.)
+V|Abrir puertas y ventanas
+V|las que vivís en el pueblo;
+V|el segador pide rosas
+V|para adornar su sombrero.
+P|¡Qué canto!
+P|(Con nostalgia.)
+P|(Con pasión.)
+S|(Se va alejando el cantar.)
+P|Ahora dan la vuelta a la esquina.
+P|Vamos a verlos por la ventana de mi cuarto.
+P|Tened cuidado con no entreabrirla mucho, porque son capaces de dar un empujón para ver quién mira.
+S|(Se van las tres. Martirio queda sentada en la silla baja con la cabeza entre las manos.)
+P|(Acercándose.) ¿Qué te pasa?
+P|Me sienta mal el calor.
+P|¿No es más que eso?
+P|Estoy deseando que llegue noviembre, los días de lluvia, la escarcha; todo lo que no sea este verano interminable.
+P|Ya pasará y volverá otra vez.
+P|¡Claro! (Pausa.) ¿A qué hora te dormiste anoche?
+P|No sé. Yo duermo como un tronco. ¿Por qué?
+P|Por nada, pero me pareció oír gente en el corral.
+P|¿Sí?
+P|Muy tarde.
+P|¿Y no tuviste miedo?
+P|No. Ya lo he oído otras noches.
+P|Debíamos tener cuidado. ¿No serían los gañanes?
+P|Los gañanes llegan a las seis.
+P|Quizá una mulilla sin desbravar.
+P|(Entre dientes y llena de segunda intención.) ¡Eso, eso!, una mulilla sin desbravar.
+P|¡Hay que prevenir!
+P|¡No, no! No digas nada. Puede ser un barrunto mío.
+P|Quizá.
+S|(Pausa. Amelia inicia el mutis.)
+P|Amelia.
+P|(En la puerta.) ¿Qué?
+S|(Pausa.)
+P|Nada.
+S|(Pausa.)
+P|¿Por qué me llamaste?
+S|(Pausa)
+P|Se me escapó. Fue sin darme cuenta.
+S|(Pausa)
+P|Acuéstate un poco.
+P|(Entrando furiosa en escena, de modo que haya un gran contraste con los silencios anteriores.) ¿Dónde está el retrato de Pepe que tenía yo debajo de mi almohada? ¿Quién de vosotras lo tiene?
+P|Ninguna.
+P|Ni que Pepe fuera un San Bartolomé de plata.
+P|¿Dónde está el retrato?
+S|(Entran La Poncia, Magdalena y Adela.)
+P|¿Qué retrato?
+P|Una de vosotras me lo ha escondido.
+P|¿Tienes la desvergüenza de decir esto?
+P|Estaba en mi cuarto y no está.
+P|¿Y no se habrá escapado a medianoche al corral? A Pepe le gusta andar con la luna.
+P|¡No me gastes bromas! Cuando venga se lo contaré.
+P|¡Eso, no! ¡Porque aparecerá!
+S|(Mirando Adela.)
+P|¡Me gustaría saber cuál de vosotras lo tiene!
+P|(Mirando a Martirio.) ¡Alguna! ¡Todas, menos yo!
+P|(Con intención.) ¡Desde luego!
+P|(Entrando con su bastón.) ¿Qué escándalo es éste en mi casa y con el silencio del peso del calor? Estarán las vecinas con el oído pegado a los tabiques.
+P|Me han quitado el retrato de mi novio.
+P|(Fiera.) ¿Quién? ¿Quién?
+P|¡Éstas!
+P|¿Cuál de vosotras? (Silencio.) ¡Contestarme! (Silencio. A Poncia.) Registra los cuartos, mira por las camas. Esto tiene no ataros más cortas. ¡Pero me vais a soñar! (A Angustias.) ¿Estás segura?
+P|Sí.
+P|¿Lo has buscado bien?
+P|Sí, madre.
+S|(Todas están en medio de un embarazoso silencio.)
+P|Me hacéis al final de mi vida beber el veneno más amargo que una madre puede resistir. (A Poncia.) ¿No lo encuentras?
+P|(Saliendo.) Aquí está.
+P|¿Dónde lo has encontrado?
+P|Estaba...
+P|Dilo sin temor.
+P|(Extrañada.) Entre las sábanas de la cama de Martirio.
+P|(A Martirio.) ¿Es verdad?
+P|¡Es verdad!
+P|(Avanzando y golpeándola con el bastón.) ¡Mala puñalada te den, mosca muerta! ¡Sembradura de vidrios!
+P|(Fiera.) ¡No me pegue usted, madre!
+P|¡Todo lo que quiera!
+P|¡Si yo la dejo! ¿Lo oye? ¡Retírese usted!
+P|No faltes a tu madre.
+P|(Cogiendo a Bernarda.) Déjela. ¡Por favor!
+P|Ni lágrimas te quedan en esos ojos.
+P|No voy a llorar para darle gusto.
+P|¿Por qué has cogido el retrato?
+P|¿Es que yo no puedo gastar una broma a mi hermana? ¿Para qué otra cosa lo iba a querer?
+P|(Saltando llena de celos.) No ha sido broma, que tú no has gustado nunca de juegos. Ha sido otra cosa que te reventaba el pecho por querer salir. Dilo ya claramente.
+P|¡Calla y no me hagas hablar, que si hablo se van a juntar las paredes unas con otras de vergüenza!
+P|¡La mala lengua no tiene fin para inventar!
+P|¡Adela!
+P|Estáis locas.
+P|Y nos apedreáis con malos pensamientos.
+P|Otras hacen cosas más malas.
+P|Hasta que se pongan en cueros de una vez y se las lleve el río.
+P|¡Perversa!
+P|Yo no tengo la culpa de que Pepe el Romano se haya fijado en mí.
+P|¡Por tus dineros!
+P|¡Madre!
+P|¡Silencio!
+P|Por tus marjales y tus arboledas.
+P|¡Eso es lo justo!
+P|¡Silencio digo! Yo veía la tormenta venir, pero no creía que estallara tan pronto. ¡Ay, qué pedrisco de odio habéis echado sobre mi corazón! Pero todavía no soy anciana y tengo cinco cadenas para vosotras y esta casa levantada por mi padre para que ni las hierbas se enteren de mi desolación. ¡Fuera de aquí! (Salen. Bernarda se sienta desolada. La Poncia está de pie arrimada a los muros. Bernarda reacciona, da un golpe en el suelo y dice:.) ¡Tendré que sentarles la mano! Bernarda, ¡acuérdate que ésta es tu obligación!
+P|¿Puedo hablar?
+P|Habla. Siento que hayas oído. Nunca está bien una extraña en el centro de la familia.
+P|Lo visto, visto está.
+P|Angustias tiene que casarse en seguida.
+P|Hay que retirarla de aquí.
+P|No a ella. ¡A él!
+P|¡Claro, a él hay que alejarlo de aquí! Piensas bien.
+P|No pienso. Hay cosas que no se pueden ni se deben pensar. Yo ordeno.
+P|¿Y tú crees que él querrá marcharse?
+P|(Levantándose.) ¿Qué imagina tu cabeza?
+P|Él, claro, ¡se casará con Angustias!
+P|Habla. Te conozco demasiado para saber que ya me tienes preparada la cuchilla.
+P|Nunca pensé que se llamara asesinato al aviso.
+P|¿Me tienes que prevenir algo?
+P|Yo no acuso, Bernarda. Yo sólo te digo: abre los ojos y verás.
+P|¿Y verás qué?
+P|Siempre has sido lista. Has visto lo malo de las gentes a cien leguas. Muchas veces creí que divinabas los pensamientos. Pero los hijos son los hijos. Ahora estás ciega.
+P|¿Te refieres a Martirio?
+P|Bueno, a Martirio... (Con curiosidad.) ¿Por qué habrá escondido el retrato?
+P|(Queriendo ocultar a su hija.) Después de todo ella dice que ha sido una broma. ¿Qué otra cosa puede ser?
+P|(Con sorna.) ¿Tú lo crees así?
+P|(Enérgica.) No lo creo. ¡Es así!
+P|Basta. Se trata de lo tuyo. Pero si fuera la vecina de enfrente, ¿qué sería?
+P|Ya empiezas a sacar la punta del cuchillo.
+P|(Siempre con crueldad.) No, Bernarda, aquí pasa una cosa muy grande. Yo no te quiero echar la culpa, pero tú no has dejado a tus hijas libres. Martirio es enamoradiza, digas lo que tú quieras. ¿Por qué no la dejaste casar con Enrique Humanes? ¿Por qué el mismo día que iba a venir a la ventana le mandaste recado que no viniera?
+P|(Fuerte.) ¡Y lo haría mil veces! Mi sangre no se junta con la de los Humanes mientras yo viva! Su padre fue gañán.
+P|¡Y así te va a ti con esos humos!
+P|Los tengo porque puedo tenerlos. Y tú no los tienes porque sabes muy bien cuál es tu origen.
+P|(Con odio.) ¡No me lo recuerdes! Estoy ya vieja, siempre agradecí tu protección.
+P|(Crecida.) ¡No lo parece!
+P|(Con odio envuelto en suavidad.) A Martirio se le olvidará esto.
+P|Y si no lo olvida peor para ella. No creo que ésta sea la «cosa muy grande» que aquí pasa. Aquí no pasa nada. ¡Eso quisieras tú! Y si pasara algún día estáte segura que no traspasaría las paredes.
+P|¡Eso no lo sé yo! En el pueblo hay gentes que leen también de lejos los pensamientos escondidos.
+P|¡Cómo gozarías de vernos a mí y a mis hijas camino del lupanar!
+P|¡Nadie puede conocer su fin!
+P|¡Yo sí sé mi fin! ¡Y el de mis hijas! El lupanar se queda para alguna mujer ya difunta...
+P|(Fiera.) ¡Bernarda! ¡Respeta la memoria de mi madre!
+P|¡No me persigas tú con tus malos pensamientos!
+S|(Pausa.)
+P|Mejor será que no me meta en nada.
+P|Eso es lo que debías hacer. Obrar y callar a todo. Es la obligación de los que viven a sueldo.
+P|Pero no se puede. ¿A ti no te parece que Pepe estaría mejor casado con Martirio o... ¡sí!, con Adela?
+P|No me parece.
+P|(Con intención.) Adela. ¡Ésa es la verdadera novia del Romano!
+P|Las cosas no son nunca a gusto nuestro.
+P|Pero les cuesta mucho trabajo desviarse de la verdadera inclinación. A mí me parece mal que Pepe esté con Angustias, y a las gentes, y hasta al aire. ¡Quién sabe si se saldrán con la suya!
+P|¡Ya estamos otra vez!... Te deslizas para llenarme de malos sueños. Y no quiero entenderte, porque si llegara al alcance de todo lo que dices te tendría que arañar.
+P|¡No llegará la sangre al río!
+P|¡Afortunadamente mis hijas me respetan y jamás torcieron mi voluntad!
+P|¡Eso sí! Pero en cuanto las dejes sueltas se te subirán al tejado.
+P|¡Ya las bajaré tirándoles cantos!
+P|¡Desde luego eres la más valiente!
+P|¡Siempre gasté sabrosa pimienta!
+P|¡Pero lo que son las cosas! A su edad. ¡Hay que ver el entusiasmo de Angustias con su novio! ¡Y él también parece muy picado! Ayer me contó mi hijo mayor que a las cuatro y media de la madrugada, que pasó por la calle con la yunta, estaban hablando todavía.
+P|¡A las cuatro y media!
+P|(Saliendo.) ¡Mentira!
+P|Eso me contaron.
+P|(A Angustias.) ¡Habla!
+P|Pepe lleva más de una semana marchándose a la una. Que Dios me mate si miento.
+P|(Saliendo.) Yo también lo sentí marcharse a las cuatro.
+P|Pero, ¿lo viste con tus ojos?
+P|No quise asomarme. ¿No habláis ahora por la ventana del callejón?
+P|Yo hablo por la ventana de mi dormitorio.
+S|(Aparece Adela en la puerta.)
+P|Entonces...
+P|¿Qué es lo que pasa aquí?
+P|¡Cuida de enterarte! Pero, desde luego, Pepe estaba a las cuatro de la madrugada en una reja de tu casa.
+P|¿Lo sabes seguro?
+P|Seguro no se sabe nada en esta vida.
+P|Madre, no oiga usted a quien nos quiere perder a todas.
+P|¡Yo sabré enterarme! Si las gentes del pueblo quieren levantar falsos testimonios se encontrarán con mi pedernal. No se hable de este asunto. Hay a veces una ola de fango que levantan los demás para perdernos.
+P|A mí no me gusta mentir.
+P|Y algo habrá.
+P|No habrá nada. Nací para tener los ojos abiertos. Ahora vigilaré sin cerrarlos ya hasta que me muera.
+P|Yo tengo derecho de enterarme.
+P|Tú no tienes derecho más que a obedecer. Nadie me traiga ni me lleve. (A La Poncia.) Y tú te metes en los asuntos de tu casa. ¡Aquí no se vuelve a dar un paso que yo no sienta!
+P|(Entrando.) ¡En lo alto de la calle hay un gran gentío y todos los vecinos están en sus puertas!
+P|(A Poncia.) ¡Corre a enterarte de lo que pasa! (Las mujeres corren para salir.) ¿Dónde vais? Siempre os supe mujeres ventaneras y rompedoras de su luto. ¡Vosotras al patio!
+S|(Salen y sale Bernarda. Se oyen rumores lejanos. Entran Martirio y Adela, que se quedan escuchando y sin atreverse a dar un paso más de la puerta de salida.)
+P|Agradece a la casualidad que no desaté mi lengua.
+P|También hubiera hablado yo.
+P|¿Y qué ibas a decir? ¡Querer no es hacer!
+P|Hace la que puede y la que se adelanta. Tú querías, pero no has podido.
+P|No seguirás mucho tiempo.
+P|¡Lo tendré todo!
+P|Yo romperé tus abrazos.
+P|(Suplicante.) ¡Martirio, déjame!
+P|¡De ninguna!
+P|¡Él me quiere para su casa!
+P|¡He visto cómo te abrazaba!
+P|Yo no quería. He ido como arrastrada por una maroma.
+P|¡Primero muerta!
+S|(Se asoman Magdalena y Angustias. Se siente crecer el tumulto.)
+P|(Entrando con Bernarda.) ¡Bernarda!
+P|¿Qué ocurre?
+P|La hija de la Librada, la soltera, tuvo un hijo no se sabe con quién.
+P|¿Un hijo?
+P|Y para ocultar su vergüenza lo mató y lo metió debajo de unas piedras; pero unos perros, con más corazón que muchas criaturas, lo sacaron y como llevados por la mano de Dios lo han puesto en el tranco de su puerta. Ahora la quieren matar. La traen arrastrando por la calle abajo, y por las trochas y los terrenos del olivar vienen los hombres corriendo, dando unas voces que estremecen los campos.
+P|Sí, que vengan todos con varas de olivo y mangos de azadones, que vengan todos para matarla.
+P|¡No, no, para matarla no!
+P|Sí, y vamos a salir también nosotras.
+P|Y que pague la que pisotea su decencia.
+S|(Fuera su oye un grito de mujer y un gran rumor.)
+P|¡Que la dejen escapar! ¡No salgáis vosotras!
+P|(Mirando a Adela.) ¡Que pague lo que debe!
+P|(Bajo el arco.) ¡Acabar con ella antes que lleguen los guardias! ¡Carbón ardiendo en el sitio de su pecado!
+P|(Cogiéndose el vientre.) ¡No! ¡No!
+P|¡Matadla! ¡Matadla!
+H|Acto III
+S|(Cuatro paredes blancas ligeramente azuladas del patio interior de la casa de Bernarda. Es de noche. El decorado ha de ser de una perfecta simplicidad. Las puertas, iluminadas por la luz de los interiores, dan un tenue fulgor a la escena. En el centro, una mesa con un quinqué, donde están comiendo Bernarda y sus hijas. La Poncia las sirve. Prudencia está sentada aparte.)
+S|(Al levantarse el telón hay un gran silencio, interrumpido por el ruido de platos y cubiertos.)
+P|Ya me voy. Os he hecho una visita larga.
+S|(Se levanta.)
+P|Espérate, mujer. No nos vemos nunca.
+P|¿Han dado el último toque para el rosario?
+P|Todavía no.
+S|(Prudencia se sienta.)
+P|¿Y tu marido cómo sigue?
+P|Igual.
+P|Tampoco lo vemos.
+P|Ya sabes sus costumbres. Desde que se peleó con sus hermanos por la herencia no ha salido por la puerta de la calle. Pone una escalera y salta las tapias del corral.
+P|Es un verdadero hombre. ¿Y con tu hija...?
+P|No la ha perdonado.
+P|Hace bien.
+P|No sé qué te diga. Yo sufro por esto.
+P|Una hija que desobedece deja de ser hija para convertirse en una enemiga.
+P|Yo dejo que el agua corra. No me queda más consuelo que refugiarme en la iglesia, pero como me estoy quedando sin vista tendré que dejar de venir para que no jueguen con una los chiquillos. (Se oye un gran golpe, como dado en los muros.) ¿Qué es eso?
+P|El caballo garañón, que está encerrado y da coces contra el muro. (A voces.) ¡Trabadlo y que salga al corral! ( En voz baja.) Debe tener calor.
+P|¿Vais a echarle las potras nuevas?
+P|Al amanecer.
+P|Has sabido acrecentar tu ganado.
+P|A fuerza de dinero y sinsabores.
+P|(Interviniendo.) ¡Pero tiene la mejor manada de estos contornos! Es una lástima que esté bajo de precio.
+P|¿Quieres un poco de queso y miel?
+P|Estoy desganada.
+S|(Se oye otra vez el golpe.)
+P|¡Por Dios!
+P|¡Me ha retemblado dentro del pecho!
+P|(Levantándose furiosa) ¿Hay que decir las cosas dos veces? ¡Echadlo que se revuelque en los montones de paja! (Pausa, y como hablando con los gañanes.) Pues encerrad las potras en la cuadra, pero dejadlo libre, no sea que nos eche abajo las paredes. (Se dirige a la mesa y se sienta otra vez.) ¡Ay, qué vida!
+P|Bregando como un hombre.
+P|Así es. (Adela se levanta de la mesa.) ¿Dónde vas?
+P|A beber agua.
+P|(En alta voz.) Trae un jarro de agua fresca. (A Adela.) Puedes sentarte.
+S|(Adela se sienta.)
+P|Y Angustias, ¿cuándo se casa?
+P|Vienen a pedirla dentro de tres días.
+P|¡Estarás contenta!
+P|¡Claro!
+P|(A Magdalena.) ¡Ya has derramado la sal!
+P|Peor suerte que tienes no vas a tener.
+P|Siempre trae mala sombra.
+P|¡Vamos!
+P|(A Angustias.) ¿Te ha regalado ya el anillo?
+P|Mírelo usted.
+S|(Se lo alarga.)
+P|Es precioso. Tres perlas. En mi tiempo las perlas significaban lágrimas..
+P|Pero y a las cosas han cambiado.
+P|Yo creo que no. Las cosas significan siempre lo mismo. Los anillos de pedida deben ser de diamantes.
+P|Es más propio.
+P|Con perlas o sin ellas las cosas son como una se las propone.
+P|O como Dios dispone.
+P|Los muebles me han dicho que son preciosos.
+P|Dieciséis mil reales he gastado.
+P|(Interviniendo.) Lo mejor es el armario de luna.
+P|Nunca vi un mueble de éstos.
+P|Nosotras tuvimos arca.
+P|Lo preciso es que todo sea para bien.
+P|Que nunca se sabe.
+P|No hay motivo para que no lo sea.
+S|(Se oyen lejanísimas unas campanas.)
+P|El último toque. (A Angustias.) Ya vendré a que me enseñes la ropa.
+P|Cuando usted quiera.
+P|Buenas noches nos dé Dios.
+P|Adiós, Prudencia.
+P|Vaya usted con Dios.
+S|(Pausa. Sale Prudencia.)
+P|Ya hemos comido.
+S|(Se levantan.)
+P|Voy a llegarme hasta el portón para estirar las piernas y tomar un poco el fresco.
+S|(Magdalena se sienta en una silla baja retrepada contra la pared.)
+P|Yo voy contigo.
+P|Y yo.
+P|(Con odio contenido.) No me voy a perder.
+P|La noche quiere compaña.
+S|(Salen. Bernarda se sienta y Angustias está arreglando la mesa.)
+P|Ya te he dicho que quiero que hables con tu hermana Martirio. Lo que pasó del retrato fue una broma y lo debes olvidar.
+P|Usted sabe que ella no me quiere.
+P|Cada uno sabe lo que piensa por dentro. Yo no me meto en los corazones, pero quiero buena fachada y armonía familiar. ¿Lo entiendes?
+P|Sí.
+P|Pues ya está.
+P|(Casi dormida.) Además, ¡si te vas a ir antes de nada!
+S|(Se duerme.)
+P|Tarde me parece.
+P|¿A qué hora terminaste anoche de hablar?
+P|A las doce y media.
+P|¿Qué cuenta Pepe?
+P|Yo lo encuentro distraído. Me habla siempre como pensando en otra cosa. Si le pregunto qué le pasa, me contesta: «Los hombres tenemos nuestras preocupaciones.»
+P|No le debes preguntar. Y cuando te cases, menos. Habla si él habla y míralo cuando te mire. Así no tendrás disgustos.
+P|Yo creo, madre, que él me oculta muchas cosas.
+P|No procures descubrirlas, no le preguntes y, desde luego, que no te vea llorar jamás.
+P|Debía estar contenta y no lo estoy.
+P|Eso es lo mismo.
+P|Muchas veces miro a Pepe con mucha fijeza y se me borra a través de los hierros, como si lo tapara una nube de polvo de las que levantan los rebaños.
+P|Eso son cosas de debilidad.
+P|¡Ojalá!
+P|¿Viene esta noche?
+P|No. Fue con su madre a la capital.
+P|Así nos acostaremos antes. ¡Magdalena!
+P|Está dormida.
+S|(Entran Adela, Martirio y Amelia.)
+P|¡Qué noche más oscura!
+P|No se ve a dos pasos de distancia.
+P|Una buena noche para ladrones, para el que necesite escondrijo.
+P|El caballo garañón estaba en el centro del corral. ¡Blanco! Doble de grande, llenando todo lo oscuro.
+P|Es verdad. Daba miedo. ¡Parecía una aparición!
+P|Tiene el cielo unas estrellas como puños.
+P|Ésta se puso a mirarlas de modo que se iba a tronchar el cuello.
+P|¿Es que no te gustan a ti?
+P|A mí las cosas de tejas arriba no me importan nada. Con lo que pasa dentro de las habitaciones tengo bastante.
+P|Así te va a ti.
+P|A ella le va en lo suyo como a ti en lo tuyo.
+P|Buenas noches.
+P|¿Ya te acuestas?
+P|Sí, esta noche no viene Pepe. (Sale.).
+P|Madre, ¿por qué cuando se corre una estrella o luce un relámpago se dice: Santa Bárbara bendita, que en el cielo estás escrita con papel y agua bendita?
+P|Los antiguos sabían muchas cosas que hemos olvidado.
+P|Yo cierro los ojos para no verlas.
+P|Yo no. A mí me gusta ver correr lleno de lumbre lo que está quieto y quieto años enteros.
+P|Pero estas cosas nada tienen que ver con nosotros.
+P|Y es mejor no pensar en ellas.
+P|¡Qué noche más hermosa! Me gustaría quedarme hasta muy tarde para disfrutar el fresco del campo.
+P|Pero hay que acostarse. ¡Magdalena!
+P|Está en el primer sueño.
+P|¡Magdalena!
+P|(Disgustada.) ¡Dejarme en paz!
+P|¡A la cama!
+P|(Levantándose malhumorada.) ¡No la dejáis a una tranquila!
+S|(Se va refunfuñando.)
+P|Buenas noches.
+S|(Se va.)
+P|Andar vosotras también.
+P|¿Cómo es que esta noche no viene el novio de Angustias?
+P|Fue de viaje.
+P|(Mirando a Adela.) ¡Ah!
+P|Hasta mañana.
+S|(Sale.)
+S|(Martirio bebe agua y sale lentamente mirando hacia la puerta del corral. Sale La Poncia.)
+P|¿Estás todavía aquí?
+P|Disfrutando este silencio y sin lograr ver por parte alguna «la cosa tan grande» que aquí pasa, según tú.
+P|Bernarda, dejemos esa conversación.
+P|En esta casa no hay un sí ni un no. Mi vigilancia lo puede todo.
+P|No pasa nada por fuera. Eso es verdad. Tus hijas están y viven como metidas en alacenas. Pero ni tú ni nadie puede vigilar por el interior de los pechos.
+P|Mis hijas tienen la respiración tranquila.
+P|Eso te importa a ti, que eres su madre. A mí, con servir tu casa tengo bastante.
+P|Ahora te has vuelto callada.
+P|Me estoy en mi sitio, y en paz.
+P|Lo que pasa es que no tienes nada que decir. Si en esta casa hubiera hierbas, ya te encargarías de traer a pastar las ovejas del vecindario.
+P|Yo tapo más de lo que te figuras.
+P|¿Sigue tu hijo viendo a Pepe a las cuatro de la mañana? ¿Siguen diciendo todavía la mala letanía de esta casa?
+P|No dicen nada.
+P|Porque no pueden. Porque no hay carne donde morder. ¡A la vigilia de mis ojos se debe esto!
+P|Bernarda, yo no quiero hablar porque temo tus intenciones. Pero no estés segura.
+P|¡Segurísima!
+P|¡A lo mejor, de pronto, cae un rayo! ¡A lo mejor, de pronto, un golpe de sangre te para el corazón!
+P|Aquí no pasará nada. Ya estoy alerta contra tus suposiciones.
+P|Pues mejor para ti.
+P|¡No faltaba más!
+P|(Entrando.) Ya terminé de fregar los platos. ¿Manda usted algo, Bernarda?
+P|(Levantándose.) Nada. Yo voy a descansar.
+P|¿A qué hora quiere que la llame?
+P|A ninguna. Esta noche voy a dormir bien.
+S|(Se va.)
+P|Cuando una no puede con el mar lo más fácil es volver las espaldas para no verlo.
+P|Es tan orgullosa que ella misma se pone una venda en los ojos.
+P|Yo no puedo hacer nada. Quise atajar las cosas, pero ya me asustan demasiado. ¿Tú ves este silencio? Pues hay una tormenta en cada cuarto. El día que estallen nos barrerán a todas. Yo he dicho lo que tenía que decir.
+P|Bernarda cree que nadie puede con ella y no sabe la fuerza que tiene un hombre entre mujeres solas.
+P|No es toda la culpa de Pepe el Romano. Es verdad que el año pasado anduvo detrás de Adela, y ésta estaba loca por él, pero ella debió estarse en su sitio y no provocarlo. Un hombre es un hombre.
+P|Hay quien cree que habló muchas noches con Adela.
+P|Es verdad. (En voz baja.) Y otras cosas.
+P|No sé lo que va a pasar aquí.
+P|A mí me gustaría cruzar el mar y dejar esta casa de guerra..
+P|Bernarda está aligerando la boda y es posible que nada pase.
+P|Las cosas se han puesto ya demasiado maduras. Adela está decidida a lo que sea, y las demás vigilan sin descanso.
+P|¿Y Martirio también?
+P|Ésa es la peor. Es un pozo de veneno. Ve que el Romano no es para ella y hundiría el mundo si estuviera en su mano.
+P|¡Es que son malas!
+P|Son mujeres sin hombre, nada más. En estas cuestiones se olvida hasta la sangre. ¡Chisssssss!
+S|(Escucha.)
+P|¿Qué pasa?
+P|(Se levanta.) Están ladrando los perros.
+P|Debe haber pasado alguien por el portón.
+S|(Sale Adela en enaguas blancas y corpiño.)
+P|¿No te habías acostado?
+P|Voy a beber agua.
+S|(Bebe en un vaso de la mesa.)
+P|Yo te suponía dormida.
+P|Me despertó la sed. Y vosotras, ¿no descansáis?
+P|Ahora.
+S|(Sale Adela.)
+P|Vámonos.
+P|Ganado tenemos el sueño. Bernarda no me deja descansar en todo el día.
+P|Llévate la luz.
+P|Los perros están como locos.
+P|No nos van a dejar dormir.
+S|(Salen. La escena queda casi a oscuras. Sale María Josefa con una oveja en los brazos.)
+V|Ovejita, niño mío,
+V|vámonos a la orilla del mar.
+V|La hormiguita estará en su puerta,
+V|yo te daré la teta y el pan.
+V|Bernarda,
+V|cara de leoparda.
+V|Magdalena,
+V|cara de hiena.
+V|¡Ovejita!
+V|Meee, meee.
+V|Vamos a los ramos del portal de Belén.
+S|(Ríe)
+V|Ni tú ni yo queremos dormir.
+V|La puerta sola se abrirá
+V|y en la playa nos meteremos
+V|en una choza de coral.
+V|Bernarda,
+V|cara de leoparda.
+V|Magdalena,
+V|cara de hiena.
+V|¡Ovejita!
+V|Meee, meee.
+V|Vamos a los ramos del portal de Belén!
+S|(Se va cantando. Entra Adela. Mira a un lado y otro con sigilo, y desaparece por la puerta del corral. Sale Martirio por otra puerta y queda en angustioso acecho en el centro de la escena. También va en enaguas. Se cubre con un pequeño mantón negro de talle. Sale por enfrente de ella María Josefa.)
+P|Abuela, ¿dónde va usted?
+P|¿Vas a abrirme la puerta? ¿Quién eres tú?
+P|¿Cómo está aquí?
+P|Me escapé. ¿Tú quién eres?
+P|Vaya a acostarse.
+P|Tú eres Martirio, ya te veo. Martirio, cara de martirio. ¿Y cuándo vas a tener un niño? Yo he tenido éste.
+P|¿Dónde cogió esa oveja?
+P|Ya sé que es una oveja. Pero, ¿por qué una oveja no va a ser un niño? Mejor es tener una oveja que no tener nada. Bernarda, cara de leoparda. Magdalena, cara de hiena.
+P|No dé voces.
+P|Es verdad. Está todo muy oscuro. Como tengo el pelo blanco crees que no puedo tener crías, y sí, crías y crías y crías. Este niño tendrá el pelo blanco y tendrá otro niño, y éste otro, y todos con el pelo de nieve, seremos como las olas, una y otra y otra. Luego nos sentaremos todos, y todos tendremos el cabello blanco y seremos espuma. ¿Por qué aquí no hay espuma? Aquí no hay más que mantos de luto.
+P|Calle, calle.
+P|Cuando mi vecina tenía un niño yo le llevaba chocolate y luego ella me lo traía a mí, y así siempre, siempre, siempre. Tú tendrás el pelo blanco, pero no vendrán las vecinas. Yo tengo que marcharme, pero tengo miedo de que los perros me muerdan. ¿Me acompañarás tú a salir del campo? Yo quiero campo. Yo quiero casas, pero casas abiertas, y las vecinas acostadas en sus camas con sus niños chiquitos, y los hombres fuera, sentados en sus sillas. Pepe el Romano es un gigante. Todas lo queréis. Pero él os va a devorar, porque vosotras sois granos de trigo. No granos de trigo, no. ¡Ranas sin lengua!
+P|(Enérgica.) Vamos, váyase a la cama.
+S|(La empuja.)
+P|Sí, pero luego tú me abrirás, ¿verdad?
+P|De seguro.
+P|(Llorando.)
+V|Ovejita, niño mío,
+V|vámonos a la orilla del mar.
+V|La hormiguita estará en su puerta,
+V|yo te daré la teta y el pan.
+S|(Sale. Martirio cierra la puerta por donde ha salido María Josefa y se dirige a la puerta del corral. Allí vacila, pero avanza dos pasos más.)
+P|(En voz baja.) Adela. (Pausa. Avanza hasta la misma puerta. En voz alta.) ¡Adela!
+S|(Aparece Adela. Viene un poco despeinada.)
+P|¿Por qué me buscas?
+P|¡Deja a ese hombre!
+P|¿Quién eres tú para decírmelo?
+P|No es ése el sitio de una mujer honrada.
+P|¡Con qué ganas te has quedado de ocuparlo!
+P|(En voz alta.) Ha llegado el momento de que yo hable. Esto no puede seguir así.
+P|Esto no es más que el comienzo. He tenido fuerza para adelantarme. El brío y el mérito que tú no tienes. He visto la muerte debajo de estos techos y he salido a buscar lo que era mío, lo que me pertenecía.
+P|Ese hombre sin alma vino por otra. Tú te has atravesado.
+P|Vino por el dinero, pero sus ojos los puso siempre en mí.
+P|Yo no permitiré que lo arrebates. El se casará con Angustias.
+P|Sabes mejor que yo que no la quiere.
+P|Lo sé.
+P|Sabes, porque lo has visto, que me quiere a mí.
+P|(Desesperada.) Sí.
+P|(Acercándose.) Me quiere a mí, me quiere a mí.
+P|Clávame un cuchillo si es tu gusto, pero no me lo digas más.
+P|Por eso procuras que no vaya con él. No te importa que abrace a la que no quiere. A mí, tampoco. Ya puede estar cien años con Angustias. Pero que me abrace a mí se te hace terrible, porque tú lo quieres también, ¡lo quieres!
+P|(Dramática.) ¡Sí! Déjame decirlo con la cabeza fuera de los embozos. ¡Sí! Déjame que el pecho se me rompa como una granada de amargura. ¡Le quiero!
+P|(En un arranque, y abrazándola.) Martirio, Martirio, yo no tengo la culpa.
+P|¡No me abraces! No quieras ablandar mis ojos. Mi sangre ya no es la tuya, y aunque quisiera verte como hermana no te miro ya más que como mujer.
+S|(La rechaza.)
+P|Aquí no hay ningún remedio. La que tenga que ahogarse que se ahogue. Pepe el Romano es mío. Él me lleva a los juncos de la orilla.
+P|¡No será!
+P|Ya no aguanto el horror de estos techos después de haber probado el sabor de su boca. Seré lo que él quiera que sea. Todo el pueblo contra mí, quemándome con sus dedos de lumbre, perseguida por los que dicen que son decentes, y me pondré delante de todos la corona de espinas que tienen las que son queridas de algún hombre casado.
+P|¡Calla!
+P|Sí, sí. (En voz baja.) Vamos a dormir, vamos a dejar que se case con Angustias. Ya no me importa. Pero yo me iré a una casita sola donde él me verá cuando quiera, cuando le venga en gana.
+P|Eso no pasará mientras yo tenga una gota de sangre en el cuerpo.
+P|No a ti, que eres débil: a un caballo encabritado soy capaz de poner de rodillas con la fuerza de mi dedo meñique.
+P|No levantes esa voz que me irrita. Tengo el corazón lleno de una fuerza tan mala, que sin quererlo yo, a mí misma me ahoga.
+P|Nos enseñan a querer a las hermanas. Dios me ha debido dejar sola, en medio de la oscuridad, porque te veo como si no te hubiera visto nunca.
+S|(Se oye un silbido y Adela corre a la puerta, pero Martirio se le pone delante.)
+P|¿Dónde vas?
+P|¡Quítate de la puerta!
+P|¡Pasa si puedes!
+P|¡Aparta!
+S|(Lucha.)
+P|(A voces.) ¡Madre, madre!
+P|¡Déjame!
+S|(Aparece Bernarda. Sale en enaguas con un mantón negro.)
+P|Quietas, quietas. ¡Qué pobreza la mía, no poder tener un rayo entre los dedos!
+P|(Señalando a Adela.) ¡Estaba con él! ¡Mira esas enaguas llenas de paja de trigo!
+P|¡Esa es la cama de las mal nacidas!
+S|(Se dirige furiosa hacia Adela.)
+P|(Haciéndole frente.) ¡Aquí se acabaron las voces de presidio! (Adela arrebata un bastón a su madre y lo parte en dos.) Esto hago yo con la vara de la dominadora. No dé usted un paso más. ¡En mí no manda nadie más que Pepe!
+S|(Sale Magdalena.)
+P|¡Adela!
+S|(Salen La Poncia y Angustias.)
+P|Yo soy su mujer. (A Angustias.) Entérate tú y ve al corral a decírselo. Él dominará toda esta casa. Ahí fuera está, respirando como si fuera un león.
+P|¡Dios mío! Bernarda ¡La escopeta! ¿Dónde está la escopeta?
+S|(Sale corriendo.)
+S|(Aparece Amelia por el fondo, que mira aterrada, con la cabeza sobre la pared. Sale detrás Martirio.)
+P|¡Nadie podrá conmigo!
+S|(Va a salir.)
+P|(Sujetándola.) De aquí no sales con tu cuerpo en triunfo, ¡ladrona! ¡deshonra de nuestra casa!
+P|¡Déjala que se vaya donde no la veamos nunca más!
+S|(Suena un disparo.)
+P|(Entrando.) Atrévete a buscarlo ahora.
+P|(Entrando.) Se acabó Pepe el Romano.
+P|¡Pepe! ¡Dios mío! ¡Pepe!
+S|(Sale corriendo.)
+P|¿Pero lo habéis matado?
+P|¡No! ¡Salió corriendo en la jaca!
+P|No fue culpa mía. Una mujer no sabe apuntar.
+P|¿Por qué lo has dicho entonces?
+P|¡Por ella! Hubiera volcado un río de sangre sobre su cabeza.
+P|Maldita.
+P|¡Endemoniada!
+P|Aunque es mejor así. (Se oye como un golpe.) ¡Adela! ¡Adela!
+P|(En la puerta.) ¡Abre!
+P|Abre. No creas que los muros defienden de la vergüenza.
+P|(Entrando.) ¡Se han levantado los vecinos!
+P|(En voz baja, como un rugido.) ¡Abre, porque echaré abajo la puerta! (Pausa. Todo queda en silencio.) ¡Adela! (Se retira de la puerta.) ¡Trae un martillo! (La Poncia da un empujón y entra. Al entrar da un grito y sale.)
+S|(¿Qué?)
+P|(Se lleva las manos al cuello.) ¡Nunca tengamos ese fin!
+S|(Las hermanas se echan hacia atrás. La Criada se santigua. Bernarda da un grito y avanza.)
+P|¡No entres!
+P|No. ¡Yo no! Pepe: irás corriendo vivo por lo oscuro de las alamedas, pero otro día caerás. ¡Descolgarla! ¡Mi hija ha muerto virgen! Llevadla a su cuarto y vestirla como si fuera doncella. ¡Nadie dirá nada! ¡Ella ha muerto virgen! Avisad que al amanecer den dos clamores las campanas.
+P|Dichosa ella mil veces que lo pudo tener.
+P|Y no quiero llantos. La muerte hay que mirarla cara a cara. ¡Silencio! (A otra hija.) ¡A callar he dicho! (A otra hija.) Las lágrimas cuando estés sola. ¡Nos hundiremos todas en un mar de luto! Ella, la hija menor de Bernarda Alba, ha muerto virgen. ¿Me habéis oído? ¡Silencio, silencio he dicho! ¡Silencio!
+P|Día viernes 19 de junio, 1936.

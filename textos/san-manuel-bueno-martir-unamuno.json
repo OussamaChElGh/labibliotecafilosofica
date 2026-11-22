@@ -1,0 +1,117 @@
+{
+  "slug": "san-manuel-bueno-martir-unamuno",
+  "title": "San Manuel Bueno, mártir",
+  "author": "Miguel de Unamuno",
+  "author_route": "",
+  "book_route": "/san-manuel-bueno-martir-unamuno/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/San_Manuel_Bueno%2C_m%C3%A1rtir",
+  "source_revision": 1154144,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "parte-1",
+      "title": "Parte 1",
+      "summary": "Empieza: «San Manuel Bueno, martir»",
+      "start": 0,
+      "end": 39
+    },
+    {
+      "slug": "parte-2",
+      "title": "Parte 2",
+      "summary": "Empieza: «Mira, da padre a este pobre crío que no le tiene más que en el cielo.»",
+      "start": 40,
+      "end": 76
+    },
+    {
+      "slug": "parte-3",
+      "title": "Parte 3",
+      "summary": "Empieza: «¡Hola, la hija de la Simona —me dijo en cuanto me vio—, y hecha ya toda una moza, y sabiendo francés, y…»",
+      "start": 77,
+      "end": 156
+    },
+    {
+      "slug": "parte-4",
+      "title": "Parte 4",
+      "summary": "Empieza: «Pero ¿es eso posible? —exclamé consternada.»",
+      "start": 157,
+      "end": 215
+    },
+    {
+      "slug": "parte-5",
+      "title": "Parte 5",
+      "summary": "Empieza: «¿Recuerda, padre mío, cuando hace ya años, al dirigirle yo una pregunta me contestó: «Eso no me lo preguntéis a mí, que…»",
+      "start": 216,
+      "end": 271
+    }
+  ],
+  "description": "San Manuel Bueno, mártir de Miguel de Unamuno: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre la fe, la duda y la felicidad del pueblo.",
+  "intro": "<p>Ángela Carballino escribe sus recuerdos de don Manuel, el párroco de Valverde de Lucerna, una aldea junto a un lago con una leyenda de un pueblo sumergido. Don Manuel es venerado como un santo: cuida de los enfermos, consuela a los tristes y entrega su vida al pueblo. Cuando el hermano de Ángela, Lázaro, vuelve de América descreído y anticlerical, acaba convirtiéndose en su colaborador.</p><p>Aquí puedes leer San Manuel Bueno, mártir completo, dividido en partes. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 79,
+    "art": {
+      "file": "san-manuel-bueno-martir-unamuno.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/san-manuel-bueno-martir-unamuno/ilustracion.jpg",
+      "credit": "Carlos de Haes, «El lago de la Casa de Campo» (h. 1872), Museo del Prado. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "partes",
+    "tema": "la fe, la duda y la felicidad del pueblo",
+    "resumen": [
+      "Ángela Carballino escribe sus recuerdos de don Manuel, el párroco de Valverde de Lucerna, una aldea junto a un lago con una leyenda de un pueblo sumergido. Don Manuel es venerado como un santo: cuida de los enfermos, consuela a los tristes y entrega su vida al pueblo. Cuando el hermano de Ángela, Lázaro, vuelve de América descreído y anticlerical, acaba convirtiéndose en su colaborador.",
+      "Lázaro descubre el secreto del sacerdote: don Manuel no cree en Dios ni en la vida eterna, pero sigue predicando para que el pueblo viva feliz en la fe y no sufra su misma angustia. Tras su muerte, los dos hermanos guardan el secreto. La novela, de 1931, plantea las grandes preguntas de Unamuno: la fe y la duda, la inmortalidad y el sentido de la vida."
+    ],
+    "personajes": [
+      [
+        "Don Manuel",
+        "Párroco de Valverde de Lucerna, santo para el pueblo, que ha perdido la fe."
+      ],
+      [
+        "Ángela Carballino",
+        "Narradora, discípula y confidente de don Manuel."
+      ],
+      [
+        "Lázaro",
+        "Hermano de Ángela, que descubre el secreto del sacerdote."
+      ],
+      [
+        "Blasillo",
+        "Muchacho «el bobo» del pueblo, que repite las palabras de don Manuel."
+      ]
+    ],
+    "ideas": [
+      "La fe y la duda: creer o hacer creer.",
+      "La inmortalidad del alma como gran preocupación de Unamuno.",
+      "La felicidad del pueblo frente a la verdad.",
+      "El lago y la montaña como símbolos de la fe."
+    ],
+    "faq": [
+      [
+        "¿Cuál es el secreto de don Manuel?",
+        "Que no cree en Dios ni en la resurrección, pero sigue ejerciendo de sacerdote para que el pueblo viva consolado por la fe."
+      ],
+      [
+        "¿Por qué se llama Lázaro el hermano?",
+        "Como el Lázaro resucitado del Evangelio: don Manuel lo «resucita» a la fe, aunque sea a una fe distinta."
+      ],
+      [
+        "¿Quién narra la historia?",
+        "Ángela Carballino, ya mayor, que escribe sus memorias de don Manuel."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1931, y en libro en 1933 con un prólogo del autor, que se incluye aquí."
+      ]
+    ]
+  }
+}

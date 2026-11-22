@@ -365,6 +365,16 @@
       "permanent": true
     },
     {
+      "source": "/leer/azul-ruben-dario/",
+      "destination": "/azul-ruben-dario/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/bodas-de-sangre-lorca/",
+      "destination": "/bodas-de-sangre-lorca/",
+      "permanent": true
+    },
+    {
       "source": "/leer/campos-de-castilla-antonio-machado/",
       "destination": "/campos-de-castilla-antonio-machado/",
       "permanent": true
@@ -410,6 +420,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/don-juan-tenorio-zorrilla/",
+      "destination": "/don-juan-tenorio-zorrilla/",
+      "permanent": true
+    },
+    {
       "source": "/leer/don-segundo-sombra-ricardo-guiraldes/",
       "destination": "/don-segundo-sombra-ricardo-guiraldes/",
       "permanent": true
@@ -417,6 +432,11 @@
     {
       "source": "/leer/dona-perfecta-benito-perez-galdos/",
       "destination": "/dona-perfecta-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-burlador-de-sevilla-tirso-de-molina/",
+      "destination": "/el-burlador-de-sevilla-tirso-de-molina/",
       "permanent": true
     },
     {
@@ -460,6 +480,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/facundo-sarmiento/",
+      "destination": "/facundo-sarmiento/",
+      "permanent": true
+    },
+    {
       "source": "/leer/fedon-platon/",
       "destination": "/fedon-platon-pdf/",
       "permanent": true
@@ -472,6 +497,11 @@
     {
       "source": "/leer/filebo-platon/",
       "destination": "/filebo-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fuenteovejuna-lope-de-vega/",
+      "destination": "/fuenteovejuna-lope-de-vega/",
       "permanent": true
     },
     {
@@ -497,6 +527,11 @@
     {
       "source": "/leer/la-barraca-vicente-blasco-ibanez/",
       "destination": "/la-barraca-vicente-blasco-ibanez/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-casa-de-bernarda-alba-lorca/",
+      "destination": "/la-casa-de-bernarda-alba-lorca/",
       "permanent": true
     },
     {
@@ -527,6 +562,11 @@
     {
       "source": "/leer/la-regenta-leopoldo-alas-clarin/",
       "destination": "/la-regenta-leopoldo-alas-clarin/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-vida-es-sueno-calderon/",
+      "destination": "/la-vida-es-sueno-calderon/",
       "permanent": true
     },
     {
@@ -562,6 +602,11 @@
     {
       "source": "/leer/lisis-platon/",
       "destination": "/lisis-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-cuatro-jinetes-del-apocalipsis-blasco-ibanez/",
+      "destination": "/los-cuatro-jinetes-del-apocalipsis-blasco-ibanez/",
       "permanent": true
     },
     {
@@ -620,13 +665,28 @@
       "permanent": true
     },
     {
+      "source": "/leer/poeta-en-nueva-york-lorca/",
+      "destination": "/poeta-en-nueva-york-lorca/",
+      "permanent": true
+    },
+    {
       "source": "/leer/primer-alcibiades-platon/",
       "destination": "/primer-alcibiades-platon/",
       "permanent": true
     },
     {
+      "source": "/leer/romancero-gitano-lorca/",
+      "destination": "/romancero-gitano-lorca/",
+      "permanent": true
+    },
+    {
       "source": "/leer/romeo-y-julieta-shakespeare/",
       "destination": "/romeo-y-julieta-libros-pdf-gratis-shakespeare/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/san-manuel-bueno-martir-unamuno/",
+      "destination": "/san-manuel-bueno-martir-unamuno/",
       "permanent": true
     },
     {
@@ -637,6 +697,11 @@
     {
       "source": "/leer/sofista-platon/",
       "destination": "/sofista-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/soledades-antonio-machado/",
+      "destination": "/soledades-antonio-machado/",
       "permanent": true
     },
     {

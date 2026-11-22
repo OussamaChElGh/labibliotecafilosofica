@@ -1,0 +1,2625 @@
+H|Acto I
+S|Personajes: La reina ISABEL de Castilla; El REY Fernando de Aragón; Rodrigo Téllez Girón, MAESTRE de la Orden de Calatrava; Fernán Gómez de Guzmán, COMENDADOR Mayor de la Orden de Calatrava; Don Gómez MANRIQUE; Un JUEZ; Dos REGIDORES de Ciudad Real; ORTUÑO, criado del Comendador; FLORES, criado del Comendador; ESTEBAN, Alcaide de Fuenteovejuna; ALONSO, un regidor de Fuenteovejuna; Otro REGIDOR de Fuenteovejuna; LAURENCIA, labradora de Fuenteovejuna, hija de Esteban; JACINTA, labradora de Fuenteovejuna; PASCUALA, labradora de Fuenteovejuna; JUAN ROJO, labrador; FRONDOSO, labrador; MENGO, labrador gracioso; BARRILDO, labrador; LEONELO, Licenciado en derecho; CIMBRANO, soldado; Un MUCHACHO; LABRADORES y LABRADORAS
+S|Salen el COMENDADOR, FLORES y ORTUÑO, criados
+V|¿Sabe el maestre que estoy
+V|en la villa?
+V|Ya lo sabe.
+V|Está, con la edad, más grave.
+V|Y ¿sabe también que soy
+V|Fernán Gómez de Guzmán?
+V|Es muchacho, no te asombre.
+V|Cuando no sepa mi nombre,
+V|¿no le sobra el que me dan
+V|de comendador mayor?
+V|No falta quien le aconseje
+V|que de ser cortés se aleje.
+V|Conquistará poco amor.
+V|Es llave la cortesía
+V|para abrir la voluntad;
+V|y para la enemistad
+V|la necia descortesía.
+V|Si supiese un descortés
+V|cómo le aborrecen todos
+V|y querrían de mil modos
+V|poner la boca a sus pies-,
+V|antes que serlo ninguno,
+V|se dejaría morir.
+V|¡Qué cansado es de sufrir!
+V|¡Qué áspero y qué importuno!
+V|Llaman la descortesía
+V|necedad en los iguales,
+V|porque es entre desiguales
+V|linaje de tiranía.
+V|Aquí no te toca nada;
+V|que un muchacho aún no ha llegado
+V|a saber qué es ser amado.
+V|La obligación de la espada
+V|que se ciñó, el mismo día
+V|que la cruz de Calatrava
+V|le cubrió el pecho, bastaba
+V|para aprender cortesía.
+V|Si te han puesto mal con él,
+V|presto lo conocerás.
+V|Vuélvete, si en duda estás.
+V|Quiero ver lo que hay en él.
+V|Perdonad, por vida mía,
+V|Fernán Gómez de Guzmán;
+V|que agora nueva me dan
+V|que en la villa estáis.
+V|Tenía muy justa queja de vos;
+V|que el amor y la crianza
+V|me daban más confianza,
+V|por ser, cual somos los dos,
+V|vos maestre en Calatrava,
+V|yo vuestro comendador
+V|y muy vuestro servidor.
+V|Seguro, Fernando, estaba
+V|de vuestra buena venida.
+V|Quiero volveros a dar
+V|los brazos.
+V|Debéisme honrar;
+V|que he puesto por vos la vida
+V|entre diferencias tantas,
+V|hasta suplir vuestra edad
+V|el pontífice.
+V|Es verdad.
+V|Y por las señales santas
+V|que a los dos cruzan el pecho,
+V|que os lo pago en estimaros
+V|y como a mi padre honraros.
+V|De vos estoy satisfecho.
+V|¿Qué hay de guerra por allá?
+V|Estad atento, y sabréis
+V|la obligación que tenéis.
+V|Decid que ya lo estoy, ya.
+V|Gran maestre, don Rodrigo
+V|Téllez Girón, que a tan alto
+V|lugar os trajo el valor
+V|de aquel vuestro padre claro,
+V|que, de ocho años, en vos
+V|renunció su maestrazgo,
+V|que después por más seguro
+V|juraron y confirmaron
+V|reyes y comendadores,
+V|dando el pontífice santo
+V|Pío segunda sus bulas
+V|y después las suyas Paulo
+V|para que don Juan Pacheco,
+V|gran maestre de Santiago,
+V|fuese vuestro coadjutor:
+V|ya que es muerto, y que os han dado
+V|el gobierno sólo a vos,
+V|aunque de tan pocos años,
+V|advertid que es honra vuestra
+V|seguir en aqueste caso
+V|la parte de vuestros deudos;
+V|porque, muerto Enrique cuarto,
+V|quieren que al rey don Alonso
+V|de Portugal, que ha heredado,
+V|por su mujer, a Castilla,
+V|obedezcan sus vasallos;
+V|que aunque pretende lo mismo
+V|por Isabel don Fernando,
+V|gran príncipe de Aragón,
+V|no con derecho tan claro
+V|a vuestros deudos, que, en fin,
+V|no presumen que hay engaño
+V|en la sucesión de Juana,
+V|a quien vuestro primo hermano
+V|tiene agora en su poder.
+V|Y así, vengo a aconsejaros
+V|que juntéis los caballeros
+V|de Calatrava en Almagro,
+V|y a Ciudad Real toméis,
+V|que divide como paso
+V|a Andalucía y Castilla,
+V|para mirarlos a entrambos.
+V|Poca gente es menester,
+V|porque tienen por soldados
+V|solamente sus vecinos
+V|y algunos pocos hidalgos,
+V|que defienden a Isabel
+V|y llaman rey a Fernando.
+V|Será bien que deis asombro,
+V|Rodrigo, aunque niño, a cuantos
+V|dicen que es grande esa cruz
+V|para vuestros hombros flacos.
+V|Mirad los condes de Urueña,
+V|de quien venís, que mostrando
+V|os están desde la fama
+V|los laureles que ganaros;
+V|los marqueses de Villena,
+V|y otros capitanes, tantos,
+V|que las alas de la fama
+V|apenas pueden llevarlos.
+V|Sacad esa blanca espada;
+V|que habéis de hacer, peleando,
+V|tan roja como la cruz;
+V|porque no podré llamaros
+V|maestre de la cruz roja
+V|que tenéis al pecho, en tanto
+V|que tenéis la blanca espada;
+V|que una al pecho y otra al lado,
+V|entrambas han de ser rojas;
+V|y vos, Girón soberano,
+V|capa del templo inmortal
+V|de vuestros claros pasados.
+V|Fernán Gómez, estad cierto,
+V|que en esta parcialidad,
+V|porque veo que es verdad,
+V|con mis deudos me concierto.
+V|Y si importa, como paso
+V|a Ciudad Real mi intento,
+V|veréis que como violento
+V|rayo sus muros abraso.
+V|No porque es muerto mi tío
+V|piensen de mis pocos años
+V|los propios y los extraños
+V|que murió con él mi brío.
+V|Sacaré la blanca espada
+V|para que quede su luz
+V|de la color de la cruz,
+V|de roja sangre bañada.
+V|Vos, ¿adónde residís
+V|tenéis algunos soldados?
+V|Pocos, pero mis criados;
+V|que si de ellos os servís,
+V|pelearán como leones.
+V|Ya veis que en Fuenteovejuna
+V|hay gente humilde, y alguna
+V|no enseñada en escuadrones,
+V|sino en campos y labranzas.
+V|¿Allí residís?
+V|Allí
+V|de mi encomienda escogí
+V|casa entre aquestas mudanzas.
+V|Vuestra gente se registre;
+V|que no quedará vasallo.
+V|Hoy me veréis a caballo,
+V|poner la lanza en el ristre.
+V|¡Mas que nunca acá volviera!
+V|Pues a la hé que pensé
+V|que cuando te lo conté
+V|más pesadumbre te diera.
+V|¡Plega al cielo que jamás
+V|le vea en Fuenteovejuna!
+V|Yo, Laurencia, he visto alguna
+V|tan brava, y pienso que más;
+V|y tenía el corazón
+V|brando como una manteca.
+V|Pues ¿hay encina tan seca
+V|como ésta mi condición?
+V|Anda ya; que nadie diga:
+V|"de esta agua no beberé."
+V|¡Voto al sol que lo diré,
+V|aunque el mundo me desdiga!
+V|¿A qué efecto fuera bueno
+V|querer a Fernando yo?
+V|¿Casaráme con él?
+V|No.
+V|Luego la infamia condeno.
+V|¡Cuántas mozas en la villa,
+V|del comendador fïadas,
+V|andan ya descalabradas!
+V|Tendré yo por maravilla
+V|que te escapes de su mano.
+V|Pues en vano es lo que ves,
+V|porque ha que me sigue un mes,
+V|y todo, Pascuala, en vano.
+V|Aquel Flores, su alcahuete,
+V|y Ortuño, aquel socarrón,
+V|me mostraron un jubón,
+V|una sarta y un copete.
+V|Dijéronme tantas cosas
+V|de Fernando, su señor,
+V|que me pusieron temor;
+V|mas no serán poderosas
+V|para contrastar mi pecho.
+V|¿Dónde te hablaron?
+V|Allá
+V|en el arroyo, y habrá
+V|seis días.
+V|Y yo sospecho
+V|que te han de engañar, Laurencia.
+V|¿A mí?
+V|Que no, sino al cura.
+V|Soy, aunque polla, muy dura
+V|yo para su reverencia.
+V|Pardiez, más precio poner,
+V|Pascuala, de madrugada,
+V|un pedazo de lunada
+V|al huego para comer,
+V|con tanto zalacotón
+V|de una rosca que yo amaso,
+V|y hurtar a mi madre un vaso
+V|del pegado cangilón,
+V|y más precio al mediodía
+V|ver la vaca entre las coles
+V|haciendo mil caracoles
+V|con espumosa armonía;
+V|y concertar, si el camino
+V|me ha llegado a causar pena,
+V|casar un berenjena
+V|con otro tanto tocino;
+V|y después un pasatarde,
+V|mientras la cena se aliña,
+V|de una cuerda de mi viña,
+V|que Dios de pedrisco guarde;
+V|y cenar un salpicón
+V|con su aceite y su pimienta,
+V|e irme a la cama contenta,
+V|y al "inducas tentación"
+V|rezalle mis devociones,
+V|que cuantas raposerías,
+V|con su amor y sus porfías,
+V|tienen estos bellacones;
+V|porque todo su cuidado,
+V|después de darnos disgusto,
+V|es anochecer con gusto
+V|y amanecer con enfado.
+V|Tienes, Laurencia, razón;
+V|que en dejando de querer,
+V|más ingratos suelen ser
+V|que al villano el gorrión.
+V|En el invierno, que el frío
+V|tiene los campos helados,
+V|descienden de los tejados,
+V|diciéndole: "tío, tío,"
+V|hasta llegar a comer
+V|las migajas de la mesa;
+V|mas luego que el frío cesa,
+V|y el campo ven florecer,
+V|no bajan diciendo "tío,"
+V|del beneficio olvidados,
+V|mas saltando en los tejados
+V|dicen: "judío, judío."
+V|Pues tales los hombres son:
+V|cuando nos han menester,
+V|somos su vida, su ser,
+V|su alma, su corazón;
+V|pero pasadas las ascuas,
+V|las tías somos judías,
+V|y en vez de llamarnos tías,
+V|anda el nombre de las pascuas.
+V|No fïarse de ninguno.
+V|Lo mismo digo, Laurencia.
+V|En aquesta diferencia
+V|andas, Barrildo, importuno.
+V|A lo menos aquí está
+V|quien nos dirá lo más cierto.
+V|Pues hagamos un concierto
+V|antes que lleguéis allá,
+V|y es, que si juzgan por mí,
+V|me dé cada cual la prenda,
+V|precio de aquesta contienda.
+V|Desde aquí digo que sí.
+V|Mas si pierdes, ¿qué darás?
+V|Daré mi rabel de boj,
+V|que vale más que una troj,
+V|porque yo le estimo en más.
+V|Soy contento.
+V|Pues lleguemos.
+V|Dios os guarde, hermosas damas.
+V|¿Damas, Frondoso, nos llamas?
+V|Andar al uso queremos:
+V|al bachiller, licenciado;
+V|al ciego, tuerto; al bisojo,
+V|bizco; resentido, al cojo;
+V|y buen hombre, al descuidado.
+V|Al ignorante, sesudo;
+V|al mal galán, soldadesca;
+V|a la boca grande, fresca;
+V|y al ojo pequeño, agudo.
+V|Al pleitista, diligente;
+V|gracioso al entremetido;
+V|al hablador, entendido;
+V|y al insufrible, valiente.
+V|Al cobarde, para poco;
+V|al atrevido, bizarro;
+V|compañero al que es un jarro;
+V|y desenfadado, al loco.
+V|Gravedad, al descontento;
+V|a la calva, autoridad;
+V|donaire, a la necedad;
+V|y al pie grande, buen cimiento.
+V|Al buboso, resfrïado;
+V|comedido al arrogante;
+V|al ingenioso, constante;
+V|al corcovado, cargado.
+V|Esto al llamaros imito,
+V|damas, sin pasar de aquí;
+V|porque fuera hablar así
+V|proceder en infinito.
+V|Allá en la ciudad, Frondoso,
+V|llámase por cortesía
+V|de esta suerte; y a fe mía,
+V|que hay otro más riguroso
+V|y peor vocabulario
+V|en las lenguas descorteses.
+V|Querría que lo dijeses.
+V|Es todo a esotro contrario:
+V|al hombre grave, enfadoso;
+V|venturoso al descompuesto;
+V|melancólico al compuesto;
+V|y al que reprehende, odioso.
+V|Importuno al que aconseja;
+V|al liberal, moscatel;
+V|al justiciero, crüel;
+V|y al que es piadoso, madeja.
+V|Al que es constante, villano;
+V|al que es cortés, lisonjero;
+V|hipócrita al limosnero;
+V|y pretendiente al cristiano.
+V|Al justo mérito, dicha;
+V|a la verdad, imprudencia;
+V|cobardía a la paciencia;
+V|y culpa a lo que es desdicha.
+V|Necia a la mujer honesta;
+V|mal hecha a la hermosa y casta;
+V|y a la honrada... Pero basta;
+V|que esto basta por respuesta.
+V|Digo que eres el dimuño.
+V|¡Soncas que lo dice mal!
+V|Apostaré que la sal
+V|la echó el cura con el puño.
+V|¿Qué contienda os ha traído,
+V|si no es que mal lo entendí?
+V|Oye, por tu vida.
+V|Di.
+V|Préstame, Laurencia, oído.
+V|Como prestado, y aun dado,
+V|desde agora os doy el mío.
+V|En tu discreción confío.
+V|¿Qué es lo que habéis apostado?
+V|Yo y Barrildo contra Mengo.
+V|¿Qué dice Mengo?
+V|Una cosa
+V|que, siendo cierta y forzosa,
+V|la niega.
+V|A negarla vengo,
+V|porque yo sé que es verdad.
+V|¿Qué dice?
+V|Que no hay amor.
+V|Generalmente, es rigor.
+V|Es rigor y es necedad.
+V|Sin amor, no se pudiera
+V|ni aun el mundo conservar.
+V|Yo no sé filosofar;
+V|leer, ¡ojalá supiera!
+V|Pero si los elementos
+V|en discordia eterna viven,
+V|y de los mismos reciben
+V|nuestros cuerpos alimentos,
+V|cólera y melancolía,
+V|flema y sangre, claro está.
+V|El mundo de acá y de allá,
+V|Mengo, todo es armonía.
+V|Armonía es puro amor,
+V|porque el amor es concierto.
+V|Del natural os advierto
+V|que yo no niego el valor.
+V|Amor hay, y el que entre sí
+V|gobierna todas las cosas,
+V|correspondencias forzosas
+V|de cuanto se mira aquí;
+V|y yo jamás he negado
+V|que cada cual tiene amor,
+V|correspondiente a su humor,
+V|que le conserva en su estado.
+V|Mi mano al golpe que viene
+V|mi cara defenderá;
+V|mi pie, huyendo, estorbará
+V|el daño que el cuerpo tiene.
+V|Cerraránse mis pestañas
+V|si al ojo le viene mal,
+V|porque es amor natural.
+V|Pues, ¿de qué nos desengañas?
+V|De que nadie tiene amor
+V|más que a su misma persona.
+V|Tú mientes, Mengo, y perdona;
+V|porque, ¿es materia el rigor
+V|con que un hombre a una mujer
+V|o un animal quiere y ama
+V|su semejante?
+V|Eso llama
+V|amor propio, y no querer.
+V|¿Qué es amor?
+V|Es un deseo
+V|de hermosura.
+V|Esa hermosura,
+V|¿por qué el amor la procura?
+V|Para gozarla.
+V|Eso creo.
+V|Pues ese gusto que intenta,
+V|¿no es para él mismo?
+V|Es así.
+V|Luego ¿por quererse a sí
+V|busca el bien que le contenta?
+V|Es verdad.
+V|Pues de ese modo
+V|no hay amor sino el que digo,
+V|que por mi gusto le sigo
+V|y quiero dármele en todo.
+V|Dijo el cura del lugar
+V|cierto día en el sermón
+V|que había cierto Platón
+V|que nos enseñaba a amar;
+V|que éste amaba el alma sola
+V|y la virtud de lo amado.
+V|En materia habéis entrado
+V|que, por ventura, acrisola
+V|los caletres de los sabios
+V|en sus cademias y escuelas.
+V|Muy bien dice, y no te muelas
+V|en persuadir sus agravios.
+V|Da gracias, Mengo, a los cielos,
+V|que te hicieron sin amor.
+V|¿Amas tú?
+V|Mi propio honor.
+V|Dios te castigue con celos.
+V|¿Quién gana?
+V|Con la qüistión
+V|podéis ir al sacristán,
+V|porque él o el cura os darán
+V|bastante satisfacción.
+V|Laurencia no quiere bien,
+V|yo tengo poca experiencia.
+V|¿Cómo daremos sentencia?
+V|¿Qué mayor que ese desdén?
+V|Dios guarde a la buena gente.
+V|Éste es del comendador
+V|crïado.
+V|¡Gentil azor!
+V|¿De adónde bueno, pariente?
+V|¿No me veis a lo soldado?
+V|¿Viene don Fernando acá?
+V|La guerra se acaba ya,
+V|puesto que nos ha costado
+V|alguna sangre y amigos.
+V|Contadnos cómo pasó.
+V|¿Quién lo dirá como yo,
+V|siendo mis ojos testigos?
+V|Para emprender la jornada
+V|de esta ciudad, que ya tiene
+V|nombre de Ciudad Real,
+V|juntó el gallardo maestre
+V|dos mil lucidos infantes
+V|de sus vasallos valientes,
+V|y trescientos de a caballo
+V|de seglares y de freiles;
+V|porque la cruz roja obliga
+V|cuantos al pecho la tienen,
+V|aunque sean de orden sacro;
+V|mas contra moros, se entiende.
+V|Salió el muchacho bizarro
+V|con una casaca verde,
+V|bordada de cifras de oro,
+V|que sólo los brazaletes
+V|por las mangas descubrían,
+V|que seis alamares prenden.
+V|Un corpulento bridón,
+V|Rucio rodado, que al Betis
+V|bebió el agua, y en su orilla
+V|despuntó la grama fértil;
+V|el codón labrado en cintas
+V|de ante, y el rizo copete
+V|cogido en blancas lazadas,
+V|que con las moscas de nieve
+V|que bañan la blanca piel
+V|iguales labores teje.
+V|A su lado Fernán Gómez,
+V|vuestro señor, en un fuerte
+V|melado, de negros cabos,
+V|puesto que con blanco bebe.
+V|Sobre turca jacerina,
+V|peto y espaldar luciente,
+V|con naranjada orla saca,
+V|que de oro y perlas guarnece.
+V|El morrión, que coronado
+V|con blancas plumas, parece
+V|que del color naranjado
+V|aquellos azahares vierte;
+V|ceñida al brazo una liga
+V|roja y blanca, con que mueve
+V|un fresno entero por lanza
+V|que hasta en Granada le temen.
+V|La ciudad se puso en arma;
+V|dicen que salir no quieren
+V|de la corona real,
+V|y el patrimonio defienden.
+V|Entróla bien resistida,
+V|y el maestre a los rebeldes
+V|y a los que entonces trataron
+V|su honor injuriosamente
+V|mandó cortar las cabezas,
+V|y a los de la baja plebe,
+V|con mordazas en la boca,
+V|azotar públicamente.
+V|Queda en ella tan temido
+V|y tan amado, que creen
+V|que quien en tan pocos años
+V|pelea, castiga y vence,
+V|ha de ser en otra edad
+V|rayo del África fértil,
+V|que tantas lunas azules
+V|a su roja cruz sujete.
+V|Al comendador y a todos
+V|ha hecho tantas mercedes,
+V|que el saco de la ciudad
+V|el de su hacienda parece.
+V|Mas ya la música suena;
+V|recibidle alegremente,
+V|que al triunfo las voluntades
+V|son los mejores laureles.
+S|Salen el COMENDADOR y ORTUÑO, MÚSICOS, JUAN ROJO y
+V|ESTEBAN, ALONSO, ALCAIDES. Cantan los MÚSICOS
+V|"Sea bien venido
+V|el comendadore
+V|de rendir las tierras
+V|y matar los hombres.
+V|¡Vivan los Guzmanes!
+V|¡Vivan los Girones!
+V|Si en las paces blando,
+V|dulce en las razones.
+V|Venciendo moriscos,
+V|fuertes como un roble,
+V|de Ciudad Reale
+V|viene vencedore;
+V|que a Fuenteovejuna
+V|trae los pendones.
+V|¡Viva muchos años,
+V|viva Fernán Gómez!"
+V|Villa, yo os agradezco justamente
+V|el amor que me habéis aquí mostrado.
+V|Aun no muestra una parte del que siente.
+V|Pero ¿qué mucho que seáis amado,
+V|mereciéndolo vos?
+V|Fuenteovejuna
+V|y el regimiento que hoy habéis honrado,
+V|que recibáis os ruega e importuna
+V|un pequeño presente, que esos carros
+V|traen, señor, no sin vergüenza alguna,
+V|de voluntades y árboles bizarros,
+V|más que de ricos dones. Lo primero
+V|traen dos cestas de polidos barros;
+V|de gansos viene un ganadillo entero,
+V|que sacan por las redes las cabezas,
+V|para cantar vueso valor guerrero.
+V|Diez cebones en sal, valientes piezas,
+V|sin otras menudencias y cecinas,
+V|y más que guantes de ámbar, sus cortezas.
+V|Cien pares de capones y gallinas,
+V|que han dejado viudos a sus gallos
+V|en las aldeas que miráis vecinas.
+V|Acá no tienen armas ni caballos,
+V|no jaeces bordados de oro puro,
+V|si no es oro el amor de los vasallos.
+V|Y porque digo puro, os aseguro
+V|que vienen doce cueros, que aun en cueros
+V|por enero podéis guardar un muro,
+V|si de ellos aforráis vuestros guerreros,
+V|mejor que de las armas aceradas;
+V|que el vino suele dar lindos aceros.
+V|De quesos y otras cosas no excusadas
+V|no quiero daros cuenta. Justo pecho
+V|de voluntades que tenéis ganadas;
+V|y a vos y a vuestra casa, buen provecho.
+V|Estoy muy agradecido.
+V|Id, regimiento, en buen hora.
+V|Descansad, señor, agora,
+V|y seáis muy bien venido;
+V|que esta espadaña que veis
+V|y juncia a vuestros umbrales
+V|fueran perlas orientales,
+V|y mucho más merecéis,
+V|a ser posible a la villa.
+V|Así lo creo, señores.
+V|Id con Dios.
+V|Ea, cantores,
+V|vaya otra vez la letrilla.
+V|"Sea bien venido
+V|el comendadore
+V|de rendir las tierras
+V|y matar los hombres."
+V|Esperad vosotras dos.
+V|¿Qué manda su señoría?
+V|¡Desdenes el otro día,
+V|pues, conmigo! ¡Bien, por Dios!
+V|¿Habla contigo, Pascuala?
+V|Conmigo no, tirte ahuera.
+V|Con vos hablo, hermosa fiera,
+V|y con esotra zagala.
+V|¿Mías no sois?
+V|Sí, señor;
+V|mas no para casos tales.
+V|Entrad, pasado los umbrales;
+V|hombres hay, no hayáis temor.
+V|Si los alcaldes entraran,
+V|que de uno soy hija yo,
+V|bien huera entrar; mas si no...
+V|¡Flores!
+V|¿Señor?
+V|¡Que reparan
+V|en no hacer lo que les digo!
+V|¡Entrad, pues!
+V|No nos agarre.
+V|Entrad; que sois necias.
+V|Arre;
+V|que echaréis luego el postigo.
+V|Entrad; que os quiere enseñar
+V|lo que trae de la guerra.
+V|Si entraren, Ortuño, cierra.
+V|Flores, dejadnos pasar.
+V|¿También venís presentadas
+V|con lo demás?
+V|¡Bien a fe!
+V|Desvíese, no le dé...
+V|Basta; que son extremadas.
+V|¿No basta a vuestro señor
+V|tanta carne presentada?
+V|La vuestra es la que le agrada.
+V|¡Reviente de mal dolor!
+V|¡Muy buen recado llevamos!
+V|No se ha de poder sufrir
+V|lo que nos ha de decir
+V|cuando sin ellas nos vamos.
+V|Quien sirve se obliga a esto.
+V|Si en algo desea medrar,
+V|o con paciencia ha de estar,
+V|o ha de despedirse presto.
+S|Vanse los dos. Salgan el REY don Fernando,
+V|la reina doña ISABEL, MANRIQUE, y acompañamiento
+V|Digo, señor, que conviene
+V|el no haber descuido en esto,
+V|por ver a Alfonso en tal puesto,
+V|y su ejército previene.
+V|Y es bien ganar por la mano
+V|antes que el daño veamos;
+V|que si no lo remediamos,
+V|el ser muy cierto está llano.
+V|De Navarra y de Aragón
+V|está el socorro seguro,
+V|y de Castilla procuro
+V|hacer la reformación
+V|de modo que el buen suceso
+V|con la prevención se vea.
+V|Pues vuestra majestad crea
+V|que el buen fin consiste en eso.
+V|Aguardando tu licencia
+V|dos regidores están
+V|de Ciudad Real. ¿Entrarán?
+V|No les nieguen mi presencia.
+V|Católico rey Fernando,
+V|a quien ha enviado el cielo
+V|desde Aragón a Castilla
+V|para bien y amparo nuestro:
+V|en nombre de Ciudad Real,
+V|a vuestro valor supremo
+V|humildes nos presentamos,
+V|el real amparo pidiendo.
+V|A mucha dicha tuvimos
+V|tener título de vuestros;
+V|pero pudo derribarnos
+V|de este honor el hado adverso.
+V|El famoso don Rodrigo
+V|Téllez Girón, cuyo esfuerzo
+V|es en valor extremado,
+V|aunque es en la edad tan tierno
+V|maestre de Calatrava,
+V|él, ensanchar pretendiendo
+V|el honor de la encomienda,
+V|nos puso apretado cerco.
+V|Con valor nos prevenimos,
+V|a su fuerza resistiendo,
+V|tanto, que arroyos corrían
+V|de la sangre de los muertos.
+V|Tomó posesión, en fin;
+V|pero no llegara a hacerlo,
+V|a no le dar Fernán Gómez
+V|orden, ayuda y consejo.
+V|Él queda en la posesión,
+V|y sus vasallos seremos,
+V|suyos, a nuestro pesar,
+V|a no remediarlo presto.
+V|¿Dónde queda Fernán Gómez?
+V|En Fuenteovejuna creo,
+V|por ser su villa, y tener
+V|en ella casa y asiento.
+V|Allí, con más libertad
+V|de la que decir podemos,
+V|tiene a los súbditos suyos
+V|de todo contento ajenos.
+V|¿Tenéis algún capitán?
+V|Señor, el no haberle es cierto,
+V|pues no escapó ningún noble
+V|de preso, herido o de muerto.
+V|Ese caso no requiere
+V|ser de espacio remediado;
+V|que es dar al contrario osado
+V|el mismo valor que adquiere;
+V|y puede el de Portugal,
+V|hallando puerta segura,
+V|entrar por Extremadura
+V|y causarnos mucho mal
+V|Don Manrique, partid luego,
+V|llevando dos compañías;
+V|remediad sus demasías
+V|sin darles ningún sosiego.
+V|El conde de Cabra ir puede
+V|con vos; que es Córdoba osado,
+V|a quien nombre de soldado
+V|todo el mundo le concede;
+V|que éste es el medio mejor
+V|que la ocasión nos ofrece.
+V|El acuerdo me parece
+V|como de tan gran valor.
+V|Pondré límite a su exceso,
+V|si el vivir en mí no cesa.
+V|Partiendo vos a la empresa,
+V|seguro está el buen suceso.
+V|A medio torcer los paños,
+V|quise, atrevido Frondoso
+V|para no dar qué decir,
+V|desvïarme del arroyo;
+V|decir a tus demasías
+V|que murmura el pueblo todo,
+V|que me miras y te miro,
+V|y todos nos traen sobre ojo.
+V|Y como tú eres zagal
+V|de los que huellan, brioso,
+V|y excediendo a los demás
+V|vistes bizarro y costoso,
+V|en todo lugar no hay moza,
+V|o mozo en el prado o soto,
+V|que no se afirme diciendo
+V|que ya para en uno somos;
+V|y esperan todos el día
+V|que el sacristán Juan Chamorro
+V|nos eche de la tribuna
+V|en dejando los piporros.
+V|Y mejor sus trojes vean
+V|de rubio trigo en agosto
+V|atestadas y colmadas,
+V|y sus tinajas de mosto,
+V|que tal imaginación
+V|me ha llegado a dar enojo:
+V|ni me desvela ni aflige
+V|ni en ella el cuidado pongo.
+V|Tal me tienen tus desdenes,
+V|bella Laurencia, que tomo,
+V|en el peligro de verte,
+V|la vida, cuando te oigo.
+V|Si sabes que es mi intención
+V|el desear ser tu esposo,
+V|mal premio das a mi fe.
+V|Es que yo no sé dar otro.
+V|¿Posible es que no te duelas
+V|de verme tan cuidadoso
+V|y que imaginando en ti
+V|ni bebo, duermo ni como?
+V|¿Posible es tanto rigor
+V|en ese angélico rostro?
+V|¡Viven los cielos, que rabio!
+V|Pues salúdate, Frondoso.
+V|Ya te pido yo salud,
+V|y que ambos, como palomos,
+V|estemos, juntos los picos,
+V|con arrullos sonorosos,
+V|después de darnos la iglesia...
+V|Dilo a mi tío Juan Rojo;
+V|que aunque no te quiero bien,
+V|ya tengo algunos asomos.
+V|¡Ay de mí! El señor es éste.
+V|Tirando viene a algún corzo.
+V|Escóndete en esas ramas.
+V|Y ¡con qué celos me escondo!
+V|No es malo venir siguiendo
+V|un corcillo temeroso,
+V|y topar tan bella gama.
+V|Aquí descansaba un poco
+V|de haber lavado unos paños;
+V|y así, al arroyo me torno,
+V|si manda su señoría.
+V|Aquesos desdenes toscos
+V|afrentan, bella Laurencia,
+V|las gracias que el poderoso
+V|cielo te dio, de tal suerte,
+V|que vienes a ser un monstruo.
+V|Mas si otras veces pudiste
+V|hüír mi ruego amoroso,
+V|agora no quiere el campo,
+V|amigo secreto y solo;
+V|que tú sola no has de ser
+V|tan soberbia, que tu rostro
+V|huyas al señor que tienes,
+V|teniéndome a mí en tan poco.
+V|¿No se rindió Sebastiana,
+V|mujer de Pedro Redondo,
+V|con ser casadas entrambas,
+V|y la de Martín del Pozo,
+V|habiendo apenas pasado
+V|dos días del desposorio?
+V|Ésas, señor, ya tenían
+V|de haber andado con otros
+V|el camino de agradaros;
+V|porque también muchos mozos
+V|merecieron sus favores.
+V|Id con Dios, tras vueso corzo;
+V|que a no veros con la cruz,
+V|os tuviera por demonio,
+V|pues tanto me perseguís.
+V|¡Qué estilo tan enfadoso!
+V|Pongo la ballesta en tierra
+V|(puesto que aquí estamos solos),
+V|y a la práctica de manos
+V|reduzco melindres.
+V|¿Cómo?
+V|¿Eso hacéis? ¿Estáis en vos?
+V|No te defiendas.
+V|Si tomo
+V|la ballesta ¡vive el cielo
+V|que no la ponga en el hombro!
+V|Acaba, ríndete.
+V|¡Cielos, ayúdame agora!
+V|Solos estamos; no tengas miedo.
+V|Comendador generoso,
+V|dejad la moza, o creed
+V|que de mi agravio y enojo
+V|será blanco vuestro pecho,
+V|aunque la cruz me da asombro.
+V|¡Perro, villano!...
+V|No hay perro. Huye, Laurencia.
+V|Frondoso, mira lo que haces.
+V|Vete.
+V|¡Oh, mal haya el hombre loco,
+V|que se desciñe la espada!
+V|Que, de no espantar medroso
+V|la caza, me la quité.
+V|Pues, pardiez, señor, si toco
+V|la nuez, que os he de apiolar.
+V|Ya es ida. Infame, alevoso,
+V|suelta la ballesta luego.
+V|Suéltala, villano.
+V|¿Cómo?
+V|Que me quitaréis la vida.
+V|Y advertid que Amor es sordo,
+V|y que no escucha palabras
+V|el día que está en su trono.
+V|Pues, ¿la espalda ha de volver
+V|un hombre tan valeroso
+V|a un villano? Tira, infame,
+V|tira, y guárdate; que rompo
+V|las leyes de caballero.
+V|Eso, no. Yo me conformo
+V|con mi estado, y, pues me es
+V|guardar la vida forzoso,
+V|con la ballesta me voy.
+V|¡Peligro extraño y notorio!
+V|Mas yo tomaré venganza
+V|del agravio y del estorbo.
+V|¡Que no cerrara con él!
+V|¡Vive el cielo, que me corro!
+S|FIN DEL ACTO PRIMERO
+H|Acto II
+V|Así tenga salud, como parece,
+V|que no se saque más agora el pósito.
+V|El año apunta mal, y el tiempo crece,
+V|y es mejor que el sustento esté en depósito,
+V|aunque lo contradicen más de trece.
+V|Yo siempre he sido, al fin, de este propósito,
+V|en gobernar en paz esta república.
+V|Hagamos de ello a Fernán Gómez súplica.
+V|No se puede sufrir que estos astrólogos,
+V|en las cosas futuras ignorantes,
+V|nos quieran persuadir con largos prólogos
+V|los secretos a Dios sólo importantes.
+V|¡Bueno es que, presumiendo de teólogos,
+V|hagan un tiempo en el que después y ante!
+V|Y pidiendo el presente lo importante,
+V|al más sabio veréis más ignorante.
+V|¿Tienen ellos las nubes en su casa
+V|y el proceder de las celestes lumbres?
+V|¿Por dónde ven los que en el cielo pasa,
+V|para darnos con ella pesadumbres?
+V|Ellos en el sembrar nos ponen tasa:
+V|dacá el trigo, cebada y las legumbres,
+V|calabazas, pepinos y mostazas...
+V|Ellos son, a la fe, las calabazas.
+V|Luego cuentan que muere una cabeza,
+V|y después viene a ser en Transilvania;
+V|que el vino será poco, y la cerveza
+V|sobrará por las partes de Alemania;
+V|que se helará en Gascuña la cereza,
+V|y que habrá muchos tigres en Hircania.
+V|Y al cabo, que se siembre o no se siembre,
+V|el año se remata por diciembre.
+V|A fe que no ganéis la palmatoria,
+V|porque ya está ocupado el mentidero.
+V|¿Cómo os fue en Salamanca?
+V|Es larga historia.
+V|Un Bártulo seréis.
+V|Ni aun un barbero.
+V|Es, como digo, cosa muy notoria
+V|en esta facultad lo que os refiero.
+V|Sin duda que venís buen estudiante.
+V|Saber he procurado lo importante.
+V|Después que vemos tanto libro impreso,
+V|no hay nadie que de sabio no presuma.
+V|Antes que ignoran más siento por eso,
+V|por no se reducir a breve suma;
+V|porque la confusión, con el exceso,
+V|los intentos resuelve en vana espuma;
+V|y aquel que de leer tiene más uso,
+V|de ver letreros sólo está confuso.
+V|No niego yo que de imprimir el arte
+V|mil ingenios sacó de entre la jerga,
+V|y que parece que en sagrada parte
+V|sus obras guarda y contra el tiempo alberga;
+V|éste las distribuye y las reparte.
+V|Débese esta invención a Gutemberga,
+V|un famoso tudesco de Maguncia,
+V|en quien la fama su valor renuncia.
+V|Mas muchos que opinión tuvieron grave
+V|por imprimir sus obras la perdieron;
+V|tras esto, con el nombre del que sabe
+V|muchos sus ignorancias imprimieron.
+V|Otros, en quien la baja envidia cabe,
+V|sus locos desatinos escribieron,
+V|y con nombre de aquél que aborrecían
+V|impresos por el mundo los envían.
+V|No soy de esa opinión.
+V|El ignorante
+V|es justo que se vengue del letrado.
+V|Leonelo, la impresión es importante.
+V|Sin ella muchos siglos se han pasado,
+V|y no vemos que en éste se levante
+V|un Jerónimo santo, un Agustino.
+V|Dejadlo y asentaos, que estáis mohino.
+V|No hay en cuatro haciendas para un dote,
+V|si es que las vistas han de ser al uso;
+V|que el hombre que es curioso es bien que note
+V|que en esto el barrio y vulgo anda confuso.
+V|¿Qué hay del comendador? No os alborote.
+V|¡Cuál a Laurencia en ese campo puso!
+V|¿Quién fue cual él tan bárbaro y lascivo?
+V|Colgado le vea yo de aquel olivo.
+V|Dios guarde la buena gente.
+V|¡Oh, señor!
+V|Por vida mía,
+V|que se estén.
+V|Vuseñoría
+V|adonde suele se siente,
+V|que en pie estaremos muy bien.
+V|Digo que se han de sentar.
+V|De los buenos es honrar,
+V|que no es posible que den
+V|honra los que no la tienen.
+V|Siéntense; hablaremos algo.
+V|¿Vio vuseñoría el galgo?
+V|Alcalde, espantados vienen
+V|esos criados de ver
+V|tan notable ligereza.
+V|Es una extremada pieza.
+V|Pardiez, que puede correr
+V|al lado de un delincuente
+V|o de un cobarde en qüistión.
+V|Quisiera en esta ocasión
+V|que le hiciérades pariente
+V|a una liebre que por pies
+V|por momentos se me va.
+V|Sí haré, par Dios. ¿Dónde está?
+V|Allá vuestra hija es.
+V|¡Mi hija!
+V|Sí.
+V|Pues, ¿es buena
+V|para alcanzada de vos?
+V|Reñidla, alcalde, por Dios.
+V|¿Cómo?
+V|Ha dado en darme pena.
+V|mujer hay, y principal,
+V|de alguno que está en la plaza,
+V|que dio, a la primera traza,
+V|traza de verme.
+V|Hizo mal;
+V|y vos, señor, no andáis bien
+V|en hablar tan libremente.
+V|¡Oh, qué villano elocuente!
+V|¡Ah, Flores!, haz que le den
+V|la Política, en que lea
+V|de Aristóteles.
+V|Señor,
+V|debajo de vuestro honor
+V|vivir el pueblo desea.
+V|Mirad que en Fuenteovejuna
+V|hay gente muy principal.
+V|¿Vióse desvergüenza igual?
+V|Pues, ¿he dicho cosa alguna
+V|de que os pese, regidor?
+V|Lo que decís es injusto;
+V|no lo digáis, que no es justo
+V|que nos quitéis el honor.
+V|¿Vosotros honor tenéis?
+V|¡Qué freiles de Calatrava!
+V|Alguno acaso se alaba
+V|de la cruz que le ponéis,
+V|que no es de sangre tan limpia.
+V|Y, ¿ensúciola yo juntando
+V|la mía a la vuestra?
+V|Cuando
+V|que el mal más tiñe que alimpia.
+V|De cualquier suerte que sea,
+V|vuestras mujeres se honran.
+V|Esas palabras deshonran;
+V|las obras no hay quien las crea.
+V|¡Qué cansado villanaje!
+V|¡Ah! Bien hayan las ciudades,
+V|que a hombres de calidades
+V|no hay quien sus gustos ataje;
+V|allá se precian casados
+V|que visiten sus mujeres.
+V|No harán; que con esto quieres
+V|que vivamos descuidados.
+V|En las ciudades hay Dios
+V|y más presto quien castiga.
+V|Levantaos de aquí.
+V|¿Qué diga
+V|lo que escucháis por los dos?
+V|Salid de la plaza luego;
+V|no quede ninguno aquí.
+V|Ya nos vamos.
+V|Pues no así.
+V|Que te reportes te ruego.
+V|Querrían hacer corrillo
+V|los villanos en mi ausencia.
+V|Ten un poco de paciencia.
+V|De tanta me maravillo.
+V|Cada uno de por sí
+V|se vayan hasta sus casas.
+V|¡Cielo! ¿Qué por esto pasas?
+V|Ya yo me voy por aquí.
+V|¿Qué os parece de esta gente?
+V|No sabes disimular,
+V|que no quieres escuchar
+V|el disgusto que se siente.
+V|Éstos ¿se igualan conmigo?
+V|Que no es aqueso igualarse.
+V|Y el villano, ¿ha de quedarse
+V|con ballesta y sin castigo?
+V|Anoche pensé que estaba
+V|a la puerta de Laurencia,
+V|y a otro, que su presencia
+V|y su capilla imitaba,
+V|de oreja a oreja le di
+V|un beneficio famoso.
+V|¿Dónde estará aquel Frondoso?
+V|Dicen que anda por ahí.
+V|¡Por ahí se atreve a andar
+V|hombre que matarme quiso!
+V|Como el ave sin aviso,
+V|o como el pez, viene a dar
+V|al reclamo o al anzuelo.
+V|¡Que a un capitán cuya espada
+V|tiemblan Córdoba y Granada,
+V|un labrador, un mozuelo
+V|ponga una ballesta al pecho!
+V|El mundo se acaba, Flores.
+V|Como eso pueden amores.
+V|Y pues que vive, sospecho
+V|que grande amistad le debes.
+V|Yo he disimulado, Ortuño;
+V|que si no, de punta a puño,
+V|antes de dos horas breves,
+V|pasara todo el lugar;
+V|que hasta que llegue ocasión
+V|al freno de la razón
+V|hago la venganza estar.
+V|¿Qué hay de Pascuala?
+V|Responde
+V|que anda agora por casarse.
+V|¿Hasta allí quiere fïarse?
+V|En fin, te remite donde
+V|te pagarán de contado.
+V|¿Qué hay de Olalla?
+V|Una graciosa
+V|respuesta.
+V|Es moza briosa.
+V|¿Cómo?
+V|Que su desposado
+V|anda tras ella estos días
+V|celoso de mis recados
+V|y de que con tus crïados
+V|a visitarla venías;
+V|pero que si se descuida
+V|entrarás como primero.
+V|¡Bueno, a fe de caballero!
+V|Pero el villanejo cuida...
+V|Cuida, y anda por los aires.
+V|¿Qué hay de Inés?
+V|¿Cuál?
+V|La de Antón.
+V|Para cualquier ocasión
+V|ya ha ofrecido sus donaires.
+V|Habléla por el corral,
+V|por donde has de entrar si quieres.
+V|A las fáciles mujeres
+V|quiero bien y pago mal.
+V|Si éstas supiesen, ¡oh, Flores!,
+V|estimarse en lo que valen...
+V|No hay disgustos que se igualen
+V|a contrastar sus favores.
+V|Rendirse presto desdice
+V|de la esperanza del bien;
+V|mas hay mujeres también,
+V|porque el filósofo dice,
+V|que apetecen a los hombres
+V|como la forma desea
+V|la materia; y que esto sea
+V|así, no hay de qué te asombres.
+V|Un hombre de amores loco
+V|huélgase que a su accidente
+V|se le rindan fácilmente,
+V|mas después las tiene en poco,
+V|y el camino de olvidar,
+V|al hombre más obligado
+V|es haber poco costado
+V|lo que pudo desear.
+V|¿Está aquí el comendador?
+V|¿No le ves en tu presencia?
+V|¡Oh, gallardo Fernán Gómez!
+V|Trueca la verde montera
+V|en el blanco morrión
+V|y el gabán en armas nuevas;
+V|que el maestre de Santiago
+V|y el conde de Cabra cercan
+V|a don Rodrigo Girón,
+V|por la castellana reina,
+V|en Ciudad Real; de suerte
+V|que no es mucho que se pierda
+V|lo que en Calatrava sabes
+V|que tanta sangre le cuesta.
+V|Ya divisan con las luces,
+V|desde las altas almenas
+V|los castillo y leones
+V|y barras aragonesas.
+V|Y aunque el rey de Portugal
+V|honrar a Girón quisiera,
+V|no hará poco en que el maestre
+V|a Almagro con vida vuelva.
+V|Ponte a caballo, señor;
+V|que sólo con que te vean
+V|se volverán a Castilla.
+V|No prosigas; tente, espera.
+V|Haz, Ortuño, que en la plaza
+V|toquen luego una trompeta.
+V|¿Qué soldados tengo aquí?
+V|Pienso que tienes cincuenta.
+V|Pónganse a caballo todos.
+V|Si no caminas apriesa,
+V|Ciudad Real es del rey.
+V|No hayas miedo que lo sea.
+V|No te apartes de nosotras.
+V|Pues, ¿a qué tenéis temor?
+V|Mengo, a la villa es mejor
+V|que vamos unas con otras,
+V|pues que no hay hombre ninguno,
+V|porque no demos con él.
+V|¡Que este demonio crüel
+V|nos sea tan importuno!
+V|No nos deja a sol ni a sombra.
+V|¡Oh! Rayo del cielo baje
+V|que sus locuras ataje.
+V|Sangrienta fiera le nombra;
+V|arsénico y pestilencia
+V|del lugar.
+V|Hanme contado
+V|que Frondoso, aquí en el prado,
+V|para librarte, Laurencia,
+V|le puso al pecho una jara.
+V|Los hombres aborrecía,
+V|Mengo; mas desde aquel día
+V|los miro con otra cara.
+V|¡Gran valor tuvo Frondoso!
+V|Pienso que le ha de costar
+V|la vida.
+V|Que del lugar
+V|se vaya, será forzoso.
+V|Aunque ya le quiero bien,
+V|eso mismo le aconsejo;
+V|mas recibe mi consejo
+V|con ira, rabia y desdén;
+V|y jura el comendador
+V|que le ha de colgar de un pie.
+V|¡Mal garrotillo le dé!
+V|Mala pedrada es mejor!
+V|¡Voto al sol, si le tirara
+V|con la que llevo al apero,
+V|que al sonar el crujidero
+V|al casco se la encajara!
+V|No fue Sábalo, el romano,
+V|tan vicioso por jamás.
+V|Heliogábalo dirás,
+V|más que una fiera inhumano.
+V|Pero Galván, o quien fue,
+V|que yo no entiendo de historia;
+V|mas su cativa memoria
+V|vencida de éste se ve.
+V|¿Hay hombre en naturaleza
+V|como Fernán Gómez?
+V|No;
+V|que parece que le dio
+V|de una tigre la aspereza.
+V|Dadme socorro, por Dios,
+V|si la amistad os obliga.
+V|¿Qué es esto, Jacinta amiga?
+V|Tuyas lo somos las dos.
+V|Del comendador crïados,
+V|que van a Ciudad Real,
+V|más de infamia natural
+V|que de noble acero armados,
+V|me quieren llevar a él.
+V|Pues, Jacinta, Dios te libre;
+V|que cuando contigo es libre,
+V|conmigo será crüel.
+V|Jacinta, yo no soy hombre
+V|que te pueda defender.
+V|Yo sí lo tengo de ser,
+V|porque tengo el ser y el nombre.
+V|Llégate, Jacinta, a mí.
+V|¿Tienes armas?
+V|Las primeras
+V|del mundo.
+V|¡Oh, si las tuvieras!
+V|Piedras hay, Jacinta, aquí.
+V|¿Por los pies pensabas irte?
+V|¡Mengo, muerta soy!
+V|Señores...
+V|¿A estos pobres labradores?...
+V|Pues, ¿tú quieres persuadirte
+V|a defender la mujer?
+V|Con los ruegos la defiendo;
+V|que soy su deudo y pretendo
+V|guardarla, si puede ser.
+V|Quitadle luego la vida.
+V|¡Voto al sol, si me emberrincho,
+V|y el cáñamo me descincho,
+V|que la llevéis bien vendida!
+V|¿Qué es eso? ¿A cosas tan viles
+V|me habéis de hacer apear?
+V|Gente de este vil lugar,
+V|que ya es razón que aniquiles,
+V|pues en nada te da gusto,
+V|a nuestras armas se atreve.
+V|Señor, si piedad os mueve
+V|de suceso tan injusto,
+V|castigad estos soldados,
+V|que con vuestro nombre agora
+V|roban una labradora
+V|a esposo y padres honrados;
+V|y dadme licencia a mí
+V|que se la pueda llevar.
+V|Licencia les quiero dar...
+V|para vengarse de ti.
+V|Suelta la honda.
+V|Señor!
+V|Flores, Ortuño, Cimbranos,
+V|con ella le atad las manos.
+V|¿Así volvéis por su honor?
+V|¿Qué piensan Fuenteovejuna
+V|y sus villanos de mí?
+V|Señor, ¿en qué os ofendí,
+V|ni el pueblo en cosa ninguna?
+V|¿Ha de morir?
+V|No ensuciéis
+V|las armas, que habéis de honrar
+V|en otro mejor lugar.
+V|¿Qué mandas?
+V|Que lo azotéis.
+V|Llevadle, y en ese roble
+V|le atad y le desnudad,
+V|y con las riendas...
+V|¡Piedad!
+V|¡Piedad, pues sois hombre noble!
+V|Azotadle hasta que salten
+V|los hierros de las correas.
+V|¡Cielos! ¿A hazañas tan feas
+V|queréis que castigos falten?
+V|Tú, villana, ¿por qué huyes?
+V|¿Es mejor un labrador
+V|que un hombre de mi valor?
+V|¡Harto bien me restituyes
+V|el honor que me han quitado
+V|en llevarme para ti!
+V|¿En quererte llevar?
+V|Sí;
+V|porque tengo un padre honrado,
+V|que si en alto nacimiento
+V|no te iguala, en las costumbres
+V|te vence.
+V|Las pesadumbres
+V|y el villano atrevimiento
+V|no tiemplan bien un airado.
+V|Tira por ahí.
+V|¿Con quién?
+V|Conmigo.
+V|Míralo bien.
+V|Para tu mal lo he mirado.
+V|Ya no mía, del bagaje
+V|del ejército has de ser.
+V|No tiene el mundo poder
+V|para hacerme, viva, ultraje.
+V|¡Ea, villana, camina!
+V|¡Piedad, señor!
+V|No hay piedad.
+V|Apelo de tu crueldad
+V|a la justicia divina.
+V|¿Cómo así a venir te atreves,
+V|sin temer tu daño.
+V|Ha sido
+V|dar testimonio cumplido
+V|de la afición que me debes.
+V|Desde aquel recuesto vi
+V|salir al comendador,
+V|y fiado en tu valor
+V|todo mi temor perdí.
+V|Vaya donde no le vean
+V|volver.
+V|Tente en maldecir,
+V|porque suele más vivir
+V|al que la muerte desean.
+V|Si es eso, viva mil años,
+V|y así se hará todo bien
+V|pues deseándole bien,
+V|estarán ciertos sus daños.
+V|Laurencia, deseo saber
+V|si vive en ti mi cuidado,
+V|y si mi lealtad ha hallado
+V|el puerto de merecer.
+V|Mira que toda la villa
+V|ya para en uno nos tiene;
+V|y de cómo a ser no viene
+V|la villa se maravilla.
+V|Los desdeñosos extremos
+V|deja, y responde "no" o "sí."
+V|Pues a la villa y a ti
+V|respondo que lo seremos.
+V|Deja que tus plantas bese
+V|Por la merced recibida,
+V|pues el cobrar nueva vida
+V|por ella es bien que confiese.
+V|De cumplimientos acorta;
+V|y para que mejor cuadre,
+V|habla, Frondoso, a mi padre,
+V|pues es lo que más importa,
+V|que allí viene con mi tío;
+V|y fía que ha de tener
+V|ser, Frondoso, tu mujer
+V|buen suceso.
+V|En Dios confío.
+V|Fue su término de modo,
+V|que la plaza alborotó.
+V|En efecto, procedió
+V|muy descomedido en todo.
+V|No hay a quien admiración
+V|sus demasías no den;
+V|la pobre Jacinta es quien
+V|pierde por su sinrazón.
+V|Ya a los católicos reyes,
+V|que este nombre les dan ya,
+V|presto España les dará
+V|la obediencia de sus leyes.
+V|Ya sobre Ciudad Real,
+V|contra el Girón que la tiene,
+V|Santiago a caballo viene
+V|por capitán general.
+V|Pésame; que era Jacinta
+V|doncella de buena pro.
+V|Luego a Mengo le azotó.
+V|No hay negra bayeta o tinta
+V|como sus carnes están.
+V|Callad; que me siento arder
+V|viendo su mal proceder
+V|y el mal nombre que le dan.
+V|Yo, ¿para qué traigo aquí
+V|este palo sin provecho?
+V|Si sus criados lo han hecho
+V|¿de qué os afligís así?
+V|¿Queréis más? Que me contaron
+V|que a la de Pedro Redondo
+V|un día, que en lo más hondo
+V|de este valle la encontraron,
+V|después de sus insolencias,
+V|a sus criados la dio.
+V|Aquí hay gente. ¿Quién es?
+V|Yo,
+V|que espero vuestras licencias.
+V|Para mi casa, Frondoso,
+V|licencia no es menester;
+V|debes a tu padre el ser
+V|y a mí otro ser amoroso.
+V|Hete criado, y te quiero
+V|como a hijo.
+V|Pues señor,
+V|fiado en aquese amor,
+V|de ti una merced espero.
+V|Ya sabes de quién soy hijo.
+V|¿Hate agraviado ese loco
+V|de Fernán Gómez?
+V|No poco.
+V|El corazón me lo dijo.
+V|Pues señor, con el seguro
+V|del amor que habéis mostrado,
+V|de Laurencia enamorado,
+V|el ser su esposo procuro.
+V|Perdona si en el pedir
+V|mi lengua se ha adelantado;
+V|que he sido en decirlo osado,
+V|como otro lo ha de decir.
+V|Vienes, Frondoso, a ocasión
+V|que me alargarás la vida,
+V|por la cosa más temida
+V|que siente mi corazón.
+V|Agradezco, hijo, al cielo
+V|que así vuelvas por mi honor
+V|y agradézcole a tu amor
+V|la limpieza de tu celo.
+V|Mas como es justo, es razón
+V|dar cuenta a tu padre de esto,
+V|sólo digo que estoy presto,
+V|en sabiendo su intención;
+V|que yo dichoso me hallo
+V|en que aqueso llegue a ser.
+V|De la moza el parecer
+V|tomad antes de acetallo.
+V|No tengáis de eso cuidado,
+V|que ya el caso está dispuesto.
+V|Antes de venir a esto,
+V|entre ellos se ha concertado.
+V|En el dote, si advertís,
+V|se puede agora tratar;
+V|que por bien os pienso dar
+V|algunos maravedís.
+V|Yo dote no he menester;
+V|de eso no hay que entristeceros.
+V|Pues que no la pide en cueros
+V|lo podéis agradecer.
+V|Tomaré el parecer de ella;
+V|si os parece, será bien.
+V|Justo es; que no hace bien
+V|quien los gustos atropella.
+V|¡Hija! ¡Laurencia!...
+V|¿Señor?
+V|Mirad si digo bien yo.
+V|¡Ved qué presto respondió!
+V|Hija Laurencia, mi amor
+V|a preguntarte ha venido
+V|--apártate aquí-- si es bien
+V|que a Gila, tu amiga, den
+V|a Frondoso por marido,
+V|que es un honrado zagal,
+V|si le hay en Fuenteovejuna...
+V|¿Gila se casa?
+V|Y si alguna
+V|le merece y es su igual...
+V|Yo digo, señor, que sí.
+V|Sí; mas yo digo que es fea
+V|y que harto mejor se emplea
+V|Frondoso, Laurencia en ti.
+V|¿Aún no se te han olvidado
+V|los donaires con la edad?
+V|¿Quiéresle tú?
+V|Voluntad
+V|le he tenido y le he cobrado;
+V|pero por lo que tú sabes...
+V|¿Quieres tú que diga sí?
+V|Dilo tú, señor, por mí.
+V|¿Yo? Pues tengo yo las llaves.
+V|Hecho está. Ven, buscaremos
+V|a mi compadre en la plaza.
+V|Vamos.
+V|Hijo, y en la traza
+V|del dote, ¿qué le diremos?
+V|Que yo bien te puedo dar
+V|cuatro mil maravedís.
+V|Señor, ¿eso me decís?
+V|Mi honor queréis agraviar.
+V|Anda, hijo; que eso es
+V|cosa que pasa en un día;
+V|que si no hay dote, a fe mía,
+V|que se echa menos después.
+V|Di, Frondoso. ¿Estás contento?
+V|¡Cómo si lo estoy! ¡Es poco,
+V|pues que no me vuelvo loco
+V|de gozo, del bien que siento!
+V|Risa vierte el corazón
+V|por los ojos de alegría
+V|viéndote, Laurencia mía,
+V|en tan dulce posesión.
+V|Huye, señor, que no hay otro remedio.
+V|La flaqueza del muro lo ha causado,
+V|y el poderoso ejército enemigo.
+V|Sangre les cuesta e infinitas vidas.
+V|Y no se alabarán que en sus despojos
+V|pondrán nuestro pendón de Calatrava,
+V|que a honrar su empresa y los demás bastaba.
+V|Tus designios, Girón, quedan perdidos.
+V|¿Qué puedo hacer, si la fortuna ciega
+V|a quien hoy levantó, mañana humilla?
+V|¡Victoria por los reyes de Castilla!
+V|Ya coronan de luces las almenas,
+V|y las ventanas de las torres altas
+V|entoldan con pendones victoriosos.
+V|Bien pudieran, de sangre que les cuesta.
+V|A fe que es más tragedia que no fiesta.
+V|Yo vuelvo a Calatrava, Fernán Gómez.
+V|Y yo a Fuenteovejuna, mientras tratas
+V|o seguir esta parte de tus deudos,
+V|o reducir la tuya al rey católico.
+V|Yo te diré por cartas lo que intento.
+V|El tiempo ha de enseñarte.
+V|Ah, pocos años,
+V|sujetos al rigor de sus engaños!
+V|"¡Vivan muchos años
+V|los desposados!
+V|¡Vivan muchos años!"
+V|A fe que no os ha costado
+V|mucho trabajo el cantar.
+V|Supiéraslo tú trovar
+V|mejor que él está trovado.
+V|Mejor entiende de azotes
+V|Mengo que de versos ya.
+V|Alguno en el valle está,
+V|para que no te alborotes,
+V|a quien el Comendador...
+V|No lo digas, por tu vida;
+V|que este bárbaro homicida
+V|a todos quita el honor.
+V|Que me azotasen a mí
+V|cien soldados aquel día...
+V|sola una honda tenía
+V|[y así una copla escribí;]
+V|pero que le hayan echado
+V|una melecina a un hombre,
+V|que aunque no diré su nombre
+V|todos saben que es honrado,
+V|llena de tinta y de chinas
+V|¿cómo se puede sufrir?
+V|Haríalo por reír.
+V|No hay risa con melecinas;
+V|que aunque es cosa saludable...
+V|yo me quiero morir luego.
+V|Vaya la copla, te ruego,
+V|si es la copla razonable.
+V|"Vivan muchos años juntos
+V|los novios, ruego a los cielos,
+V|y por envidia ni celos
+V|ni riñan ni anden en puntos.
+V|Llevan a entrambos difuntos,
+V|de puro vivir cansados.
+V|¡Vivan muchos años!"
+V|¡Maldiga el cielo el poeta,
+V|que tal coplón arrojó!
+V|Fue muy presto.
+V|Pienso yo
+V|una cosa de esta seta.
+V|¿No habéis visto un buñolero
+V|en el aceite abrasando
+V|pedazos de masa echando
+V|hasta llenarse el caldero?
+V|¿Que unos le salen hinchados,
+V|otros tuertos y mal hechos,
+V|ya zurdos y ya derechos,
+V|ya fritos y ya quemados?
+V|Pues así imagino yo
+V|un poeta componiendo,
+V|la materia previniendo,
+V|que es quien la masa le dio.
+V|Va arrojando verso aprisa
+V|al caldero del papel,
+V|confiado en que la miel
+V|cubrirá la burla y risa.
+V|Mas poniéndolo en el pecho,
+V|apenas hay quien los tome;
+V|tanto que sólo los come
+V|el mismo que los ha hecho.
+V|Déjate ya de locuras;
+V|deja los novios hablar.
+V|Las manos nos da a besar.
+V|Hija, ¿mi mano procuras?
+V|Pídela a tu padre luego
+V|para ti y para Frondoso.
+V|Rojo, a ella y a su esposo
+V|que se la dé el cielo ruego,
+V|con su larga bendición.
+V|Los dos a los dos la echad.
+V|Ea, tañed y cantad,
+V|pues que para en uno son.
+V|"Al val de Fuenteovejuna
+V|la niña en cabellos baja;
+V|el caballero la sigue
+V|de la cruz de Calatrava.
+V|Entre las ramas se esconde,
+V|de vergonzosa y turbada;
+V|fingiendo que no le ha visto,
+V|pone delante las ramas.
+V|--¿Para qué te escondes,
+V|niña gallarda?
+V|Que mis linces deseos
+V|paredes pasan.--
+V|Acercóse el caballero,
+V|y ella, confusa y turbada,
+V|hacer quiso celosías
+V|de las intricadas ramas;
+V|mas como quien tiene amor
+V|los mares y las montañas
+V|atraviesa fácilmente,
+V|la dice tales palabras:
+V|-¿Para qué te escondes,
+V|niña gallarda?
+V|Que mis linces deseos
+V|paredes pasan-."
+V|Estése la boda queda
+V|y no se alborote nadie.
+V|No es juego aqueste, señor,
+V|y basta que tú lo mandes.
+V|¿Quieres lugar? ¿Cómo vienes
+V|con tu belicoso alarde?
+V|¿Venciste? Mas, ¿qué pregunto?
+V|¡Muerto soy! ¡Cielos, libradme!
+V|Huye por aquí, Frondoso.
+V|Eso no; prendedle, atadle.
+V|Date, muchacho, a prisión.
+V|Pues ¿quieres tú que me maten?
+V|¿Por qué?
+V|No soy hombre yo
+V|que mato sin culpa a nadie;
+V|que si lo fuera, le hubieran
+V|pasado de parte a parte
+V|esos soldados que traigo.
+V|Llevarlo mando a la cárcel,
+V|donde la culpa que tiene
+V|sentencie su mismo padre.
+V|Señor, mirad que se casa.
+V|¿Qué me obliga que se case?
+V|¿No hay otra gente en el pueblo?
+V|Si os ofendió, perdonadle,
+V|por ser vos quien sois.
+V|No es cosa,
+V|Pascuala, en que yo soy parte.
+V|Es esto contra el maestre
+V|Téllez Girón, que Dios guarde;
+V|es contra toda su orden,
+V|es su honor, y es importante
+V|para el ejemplo, el castigo;
+V|que habrá otro día quien trate
+V|de alzar pendón contra él,
+V|pues ya sabéis que una tarde
+V|al comendador mayor,
+V|--¡qué vasallos tan leales!--
+V|puso una ballesta al pecho.
+V|Supuesto que el disculparle
+V|ya puede tocar a un suegro,
+V|no es mucho que en causas tales
+V|se descomponga con vos
+V|un hombre, en efecto, amante;
+V|porque si vos pretendéis
+V|su propia mujer quitarle,
+V|¿qué mucho que la defienda?
+V|Majadero sois, alcalde.
+V|Por vuestra virtud, señor,...
+V|Nunca yo quise quitarle
+V|su mujer, pues no lo era.
+V|Sí quisistes... Y esto baste;
+V|que reyes hay en Castilla,
+V|que nuevas órdenes hacen,
+V|con que desórdenes quitan.
+V|Y harán mal, cuando descansen
+V|de las guerras, en sufrir
+V|en sus villas y lugares
+V|a hombres tan poderosos
+V|por traer cruces tan grandes;
+V|póngasela el rey al pecho,
+V|que para pechos reales
+V|es esa insignia y no más.
+V|¡Hola!, la vara quitadle.
+V|Tomad, señor, norabuena.
+V|Pues con ella quiero darle
+V|como a caballo brioso.
+V|Por señor os sufro. Dadme.
+V|¿A un viejo de palos das?
+V|Si le das porque es mi padre,
+V|¿qué vengas en él de mí?
+V|Llevadla, y haced que guarden
+V|su persona diez soldados.
+V|Justicia del cielo baje.
+V|Volvióse en luto la boda.
+V|¿No hay aquí un hombre que hable?
+V|Yo tengo ya mis azotes,
+V|que aún se ven los cardenales
+V|sin que un hombre vaya a Roma.
+V|Prueben otros a enojarle.
+V|hablemos todos.
+V|Señores,
+V|aquí todo el mundo calle.
+V|Como ruedas de salmón
+V|me puso los atabales.
+H|Acto III
+V|¿No han venido a la junta?
+V|No han venido.
+V|Pues más a priesa nuestro daño corre.
+V|Ya está lo más del pueblo prevenido.
+V|Frondoso con prisiones en la torre,
+V|y mi hija Laurencia en tanto aprieto,
+V|si la piedad de Dios no los socorre...
+V|¿De qué dais voces, cuando importa tanto
+V|a nuestro bien, Esteban, el secreto?
+V|Que doy tan pocas es mayor espanto.
+V|También vengo yo a hallarme en esta
+V|junta.
+V|Un hombre cuyas canas baña el llanto,
+V|labradores honrados, os pregunta,
+V|¿qué obsequias debe hacer toda esa gente
+V|a su patria sin honra, ya perdida?
+V|Y si se llaman honras justamente,
+V|¿cómo se harán, si no hay entre nosotros
+V|hombre a quien este bárbaro no afrente?
+V|Respondedme: ¿Hay alguno de vosotros
+V|que no esté lastimado en honra y vida?
+V|¿No os lamentáis los unos de los otros?
+V|Pues si ya la tenéis todos perdida,
+V|¿a qué aguardáis? ¿Qué desventura es ésta?
+V|La mayor que en el mundo fue sufrida.
+V|Mas pues ya se publica y manifiesta
+V|que en paz tienen los reyes a Castilla
+V|y su venida a Córdoba se apresta,
+V|vayan dos regidores a la villa
+V|y echándose a sus pies pidan remedio.
+V|En tanto que Fernando, aquél que humilla
+V|a tantos enemigos, otro medio
+V|será mejor, pues no podrá, ocupado
+V|hacernos bien, con tanta guerra en medio.
+V|Si mi voto de vos fuera escuchado,
+V|desamparar la villa doy por voto.
+V|¿Cómo es posible en tiempo limitado?
+V|A la fe, que si entiende el alboroto,
+V|que ha de costar la junta alguna vida.
+V|Ya, todo el árbol de paciencia roto,
+V|corre la nave de temor perdida.
+V|La hija quitan con tan gran fiereza
+V|a un hombre honrado, de quien es regida
+V|la patria en que vivís, y en la cabeza
+V|la vara quiebran tan injustamente.
+V|¿Qué esclavo se trató con más bajeza?
+V|¿Qué es lo que quieres tú que el pueblo intente?
+V|Morir, o dar la muerte a los tiranos,
+V|pues somos muchos, y ellos poca gente.
+V|¡Contra el señor las armas en las manos!
+V|El rey sólo es señor después del cielo,
+V|y no bárbaros hombres inhumanos.
+V|Si Dios ayuda nuestro justo celo,
+V|¿qué nos ha de costar?
+V|Mirad, señores,
+V|que vais en estas cosas con recelo.
+V|Puesto que por los simples labradores
+V|estoy aquí que más injurias pasan,
+V|más cuerdo represento sus temores.
+V|Si nuestras desventuras se compasan,
+V|para perder las vidas, ¿qué aguardamos?
+V|Las casas y las viñas nos abrasan,
+V|¡tiranos son! ¡A la venganza vamos!
+V|Dejadme entrar, que bien puedo,
+V|en consejo de los hombres;
+V|que bien puede una mujer,
+V|si no a dar voto, a dar voces.
+V|¿Conocéisme?
+V|¡Santo cielo!
+V|¿No es mi hija?
+V|¿No conoces
+V|a Laurencia?
+V|Vengo tal,
+V|que mi diferencia os pone
+V|en contingencia quién soy.
+V|¡Hija mía!
+V|No me nombres
+V|tu hija.
+V|¿Por qué, mis ojos?
+V|¿Por qué?
+V|Por muchas razones,
+V|y sean las principales:
+V|porque dejas que me roben
+V|tiranos sin que me vengues,
+V|traidores sin que me cobres.
+V|Aún no era yo de Frondoso,
+V|para que digas que tome,
+V|como marido, venganza;
+V|que aquí por tu cuenta corre;
+V|que en tanto que de las bodas
+V|no haya llegado la noche,
+V|del padre, y no del marido,
+V|la obligación presupone;
+V|que en tanto que no me entregan
+V|una joya, aunque la compren,
+V|no ha de correr por mi cuenta
+V|las guardas ni los ladrones.
+V|Llevóme de vuestros ojos
+V|a su casa Fernán Gómez;
+V|la oveja al lobo dejáis
+V|como cobardes pastores.
+V|¿Qué dagas no vi en mi pecho?
+V|¿Qué desatinos enormes,
+V|qué palabras, qué amenazas,
+V|y qué delitos atroces,
+V|por rendir mi castidad
+V|a sus apetitos torpes?
+V|Mis cabellos ¿no lo dicen?
+V|¿No se ven aquí los golpes
+V|de la sangre y las señales?
+V|¿Vosotros sois hombres nobles?
+V|¿Vosotros padres y deudos?
+V|¿Vosotros, que no se os rompen
+V|las entrañas de dolor,
+V|de verme en tantos dolores?
+V|Ovejas sois, bien lo dice
+V|de Fuenteovejuna el hombre.
+V|Dadme unas armas a mí
+V|pues sois piedras, pues sois tigres...
+V|-Tigres no, porque feroces
+V|siguen quien roba sus hijos,
+V|matando los cazadores
+V|antes que entren por el mar
+V|y pos sus ondas se arrojen.
+V|Liebres cobardes nacisteis;
+V|bárbaros sois, no españoles.
+V|Gallinas, ¡vuestras mujeres
+V|sufrís que otros hombres gocen!
+V|Poneos ruecas en la cinta.
+V|¿Para qué os ceñís estoques?
+V|¡Vive Dios, que he de trazar
+V|que solas mujeres cobren
+V|la honra de estos tiranos,
+V|la sangre de estos traidores,
+V|y que os han de tirar piedras,
+V|hilanderas, maricones,
+V|amujerados, cobardes,
+V|y que mañana os adornen
+V|nuestras tocas y basquiñas,
+V|solimanes y colores!
+V|A Frondoso quiere ya,
+V|sin sentencia, sin pregones,
+V|colgar el comendador
+V|del almena de una torre;
+V|de todos hará lo mismo;
+V|y yo me huelgo, medio-hombres,
+V|por que quede sin mujeres
+V|esta villa honrada, y torne
+V|aquel siglo de amazonas,
+V|eterno espanto del orbe.
+V|Yo, hija, no soy de aquellos
+V|que permiten que los nombres
+V|con esos títulos viles.
+V|Iré solo, si se pone
+V|todo el mundo contra mí.
+V|Y yo, por más que me asombre
+V|la grandeza del contrario.
+V|¡Muramos todos!
+V|Descoge
+V|un lienzo al viento en un palo,
+V|y mueran estos enormes.
+V|¿Qué orden pensáis tener?
+V|Ir a matarle sin orden.
+V|Juntad el pueblo a una voz;
+V|que todos están conformes
+V|en que los tiranos mueran.
+V|Tomad espadas, lanzones,
+V|ballestas, chuzos y palos.
+V|¡Los reyes nuestros señores
+V|vivan!
+V|¡Vivan muchos años!
+V|¡Mueran tiranos traidores!
+V|¡Tiranos traidores, mueran!
+V|Caminad, que el cielo os oye.
+V|¡Ah, mujeres de la villa!
+V|¡Acudid, por que se cobre
+V|vuestro honor, acudid, todas!
+V|¿Qué es esto? ¿De qué das voces?
+V|¿No veis cómo todos van
+V|a matar a Fernán Gómez,
+V|y nombres, mozos y muchachos
+V|furiosos al hecho corren?
+V|¿Será bien que solos ellos
+V|de esta hazaña el honor gocen?
+V|Pues no son de las mujeres
+V|sus agravios los menores.
+V|Di, pues, ¿qué es lo que pretendes?
+V|Que puestas todas en orden,
+V|acometamos a un hecho
+V|que dé espanto a todo el orbe.
+V|Jacinta, tu grande agravio,
+V|que sea cabo; responde
+V|de una escuadra de mujeres.
+V|No son los tuyos menores.
+V|Pascuala, alférez serás.
+V|Pues déjame que enarbole
+V|en un asta la bandera.
+V|Verás si merezco el nombre.
+V|No hay espacio para eso,
+V|pues la dicha nos socorre.
+V|Bien nos basta que llevemos
+V|nuestras tocas por pendones.
+V|Nombremos un capitán.
+V|Eso no.
+V|¿Por qué?
+V|Que adonde
+V|asiste mi gran valor
+V|no hay Cides ni Rodamontes.
+V|De ese cordel que de las manos sobra
+V|quiero que le colguéis, por mayor pena.
+V|¡Qué nombre, gran señor, tu sangre cobra!
+V|Colgadle luego en la primera almena.
+V|Nunca fue mi intención poner por obra
+V|tu muerte entonces.
+V|Grande ruido suena.
+V|¿Ruido?
+V|Y de manera que interrompen
+V|tu justicia, señor.
+V|Las puertas rompen.
+V|¡La puerta de mi casa, y siendo casa
+V|de la encomienda!
+V|El pueblo junto viene.
+V|¡Rompe, derriba, hunde, quema, abrasa!
+V|Un popular motín mal se detiene.
+V|¿El pueblo contra mí?
+V|La furia: pasa
+V|tan adelante, que las puertas tiene
+V|echadas por la tierra.
+V|Desatalde.
+V|Templa, Frondoso, ese villano alcalde.
+V|Yo voy, señor; que amor les ha movido.
+V|¡Vivan Fernando e Isabel, y mueran
+V|los traidores!
+V|Señor, por Dios te pido
+V|que no te hallen aquí.
+V|Se perseveran,
+V|este aposento es fuerte y defendido.
+V|Ellos se volverán.
+V|Cuando se alteran
+V|los pueblos agraviados, y resuelven,
+V|nunca sin sangre o sin venganza vuelven.
+V|En esta puerta, así como rastrillo
+V|su furor con las armas defendamos.
+V|¡Viva Fuenteovejuna!
+V|¡Qué caudillo!
+V|Estoy por que a su furia acometamos.
+V|De la tuya, señor, me maravillo.
+V|Ya el tirano y los cómplices miramos.
+V|¡Fuenteovejuna, y los tiranos mueran!
+V|Pueblo, esperad.
+V|Agravios nunca esperan.
+V|Decídmelos a mí, que iré pagando
+V|a fe de caballero esos errores.
+V|¡Fuenteovejuna! ¡Viva el rey Fernando!
+V|¡Mueran malos cristianos y traidores!
+V|¿No me queréis oír? Yo estoy hablando,
+V|yo soy vuestro señor.
+V|Nuestros señores
+V|son los reyes católicos.
+V|Espera.
+V|¡Fuenteovejuna, y Fernán Gómez muera!
+V|Parad en este puesto de esperanzas,
+V|soldados atrevidos, no mujeres.
+V|¿Los que mujeres son en las venganzas,
+V|en él beban su sangre, es bien que esperes?
+V|Su cuerpo recojamos en las lanzas.
+V|Todas son de esos mismos pareceres.
+V|¡Muere, traidor comendador!
+V|Ya muero.
+V|¡Piedad, Señor, que en tu clemencia espero!
+V|Aquí está Flores.
+V|Dale a ese bellaco;
+V|que ése fue el que me dio dos mil azotes.
+V|No me vengo si el alma no le saco.
+V|No excusamos entrar.
+V|No te alborotes.
+V|Bien es guardar la puerta.
+V|No me aplaco.
+V|¿Con lágrimas agora, marquesotes?
+V|Pascuala, yo entro dentro; que la espada
+V|no ha de estar tan sujeta ni envainada.
+V|Aquí está Ortuño.
+V|Córtale la cara.
+V|¡Mengo, piedad, que no soy yo el culpado!
+V|Cuando ser alcahuete no bastara,
+V|bastaba haberme el pícaro azotado.
+V|Dánoslo a las mujeres, Mengo, para...
+V|Acaba, por tu vida.
+V|Ya está dado;
+V|que no le quiero yo mayor castigo.
+V|Vengaré tus azotes.
+V|Eso digo.
+V|¡Ea, muera el traidor!
+V|¿Entre mujeres?
+V|¿No le viene muy ancho?
+V|¿Aqueso lloras?
+V|Muere, concertador de sus placeres.
+V|¡Ea, muera el traidor!
+V|¡Piedad, señoras!
+V|Mira que no soy yo...
+V|Ya sé quién eres.
+V|Entrad, teñid las armas vencedoras
+V|en estos viles.
+V|Moriré matando.
+V|¡Fuenteovejuna, y viva el rey Fernando!
+V|De modo la prevención
+V|fue, que el efeto esperado
+V|llegamos a ver logrado
+V|con poca contradicción.
+V|Hubo poca resistencia;
+V|y supuesto que la hubiera
+V|sin duda ninguna fuera
+V|de poca o ninguna esencia.
+V|Queda el de Cabra ocupado
+V|en conservación del puesto,
+V|por si volviere dispuesto
+V|a él el contrario osado.
+V|Discreto el acuerdo fue,
+V|y que asista en conveniente,
+V|y reformando la gente,
+V|el paso tomado esté.
+V|Que con eso se asegura
+V|no poder hacernos mal
+V|Alfonso, que en Portugal
+V|tomar la fuerza procura.
+V|Y si de Cabra es bien que esté
+V|en ese sitio asistente,
+V|y como tan diligente
+V|muestras de su valor dé;
+V|porque con esto asegura
+V|el daño que nos recela,
+V|y como fiel centinela
+V|el bien del reino procura.
+V|Católico rey Fernando,
+V|a quien el cielo concede
+V|la corona de Castilla,
+V|como a varón excelente:
+V|oye la mayor crueldad
+V|que se ha visto entre las gentes
+V|desde donde nace el sol
+V|hasta donde se oscurece.
+V|Repórtate.
+V|Rey supremo,
+V|mis heridas no consienten
+V|dilatar el triste caso,
+V|por ser mi vida tan breve.
+V|De Fuenteovejuna vengo,
+V|donde, con pecho inclemente,
+V|los vecinos de la villa
+V|a su señor dieron muerte,
+V|Muerto Fernán Gómez queda
+V|por sus súbditos aleves;
+V|que vasallos indignados
+V|con leve cause se atreven.
+V|En título de tirano
+V|le acumula todo el plebe,
+V|y a la fuerza de esta voz
+V|el hecho fiero acometen;
+V|y quebrantando su casa,
+V|no atendiendo a que se ofrece
+V|por la fe de caballero
+V|a que pagará a quien debe,
+V|no sólo no le escucharon,
+V|pero con furia impaciente
+V|rompen el cruzado pecho
+V|con mil heridas crüeles,
+V|y por las altas ventanas
+V|le hacen que al suelo vuele,
+V|adonde en picas y espadas
+V|le recogen las mujeres.
+V|Llévanle a una casa muerto
+V|y a porfía, quien más puede
+V|mesa su barba u cabello
+V|y apriesa su rostro hieren.
+V|En efecto fue la furia
+V|tan grande que en ellos crece,
+V|que las mayores tajadas
+V|las orejas a ser vienen.
+V|Sus armas borran con picas
+V|y a voces dicen que quieren
+V|tus reales armas fijar,
+V|porque aquéllas le ofenden.
+V|Saqueáronle la casa,
+V|cual si de enemigos fuese,
+V|y gozosos entre todos
+V|han repartido sus bienes.
+V|Lo dicho he visto escondido,
+V|porque mi infelice suerte
+V|en tal trance no permite
+V|que mi vida se perdiese;
+V|y así estuve todo el día
+V|hasta que la noche viene,
+V|y salir pude escondido
+V|para que cuenta te diese.
+V|Haz, señor, pues eres justo
+V|que la justa pena lleven
+V|de tan riguroso caso
+V|los bárbaros delincuentes;
+V|mira que su sangre a voces
+V|pide que tu rigor prueben.
+V|Estar puedes confïado
+V|que sin castigo no queden.
+V|El triste suceso ha sido
+V|tal, que admirado me tiene,
+V|y que vaya luego un juez
+V|que lo averigüe conviene
+V|y castigue los culpados
+V|para ejemplo de las gentes.
+V|Vaya un capitán con él
+V|por que seguridad lleve;
+V|que tan grande atrevimiento
+V|castigo ejemplar requiere;
+V|y curad a ese soldado
+V|de las heridas que tiene.
+V|"¡Muchos años vivan
+V|Isabel y Fernando,
+V|y mueran los tiranos!"
+V|Diga su copla Frondoso.
+V|Ya va mi copla, a la fe;
+V|si le faltare algún pie,
+V|enmiéndelos el más curioso.
+V|"¡Vivan la bella Isabel,
+V|y Fernando de Aragón,
+V|pues que para en uno son,
+V|él con ella, ella con él!
+V|A los cielos San Miguel
+V|lleve a los dos de las manos.
+V|¡Vivan muchos años,
+V|y mueran los tiranos!"
+V|Diga Barrildo.
+V|Ya va;
+V|que a fe que la he pensado.
+V|Si la dices con cuidado,
+V|buena y rebuena será.
+V|"¡Vivan los reyes famosos
+V|muchos años, pues que tienen
+V|la victoria, y a ser vienen
+V|nuestros dueños venturosos!
+V|Salgan siempre victoriosos
+V|de gigantes y de enanos
+V|y ¡mueran los tiranos!"
+V|"Muchos años vivan
+V|Isabel y Fernando,
+V|y mueran los tiranos!"
+V|Diga Mengo.
+V|Mengo diga.
+V|Yo soy poeta donado.
+V|Mejor dirás lastimado
+V|el envés de la barriga.
+V|"Una mañana en domingo
+V|me mandó azotar aquél,
+V|de manera que el rabel
+V|daba espantoso respingo;
+V|pero agora que los pringo
+V|¡vivan los reyes cristiánigos,
+V|y mueran los tiránigos!"
+V|"¡Vivan muchos años!
+V|Isabel y Fernando,
+V|y mueran los tiranos!"
+V|Quita la cabeza allá.
+V|Cara tiene de ahorcado.
+V|Ya las armas han llegado
+V|Mostrad las armas acá.
+V|¿Adónde se han de poner?
+V|Aquí, en el ayuntamiento.
+V|¡Bravo escudo!
+V|¡Qué contento!
+V|Ya comienza a amanecer,
+V|con este sol, nuestro día.
+V|¡Vivan Castilla y León,
+V|y las barras de Aragón,
+V|y muera la tiranía!
+V|Advertid, Fuenteovejuna,
+V|a las palabras de un viejo;
+V|que el admitir su consejo
+V|no ha dañado vez ninguna.
+V|Los reyes han de querer
+V|averiguar este caso,
+V|y más tan cerca del paso
+V|y jornada que han de hacer.
+V|Concertaos todos a una
+V|en lo que habéis de decir.
+V|¿Qué es tu consejo?
+V|Morir
+V|diciendo "Fuenteovejuna,"
+V|y a nadie saquen de aquí.
+V|Es el camino derecho.
+V|Fuenteovejuna lo ha hecho.
+V|¿Queréis responder así?
+V|Sí.
+V|Agora pues, yo quiero ser
+V|agora el pesquisidor,
+V|para ensayarnos mejor
+V|en lo que habemos de hacer.
+V|Sea Mengo el que esté puesto
+V|en el tormento.
+V|¿No hallaste
+V|otro más flaco?
+V|¿Pensaste
+V|que era de veras?
+V|Di presto.
+V|¿Quién mató al comendador?
+V|Fuenteovejuna lo hizo.
+V|Perro, ¿si te martirizo?
+V|Aunque me matéis, señor.
+V|Confiesa, ladrón.
+V|Confieso.
+V|Pues, ¿quién fue?
+V|Fuenteovejuna.
+V|Dadle otra vuelta.
+V|¡Es ninguna!
+V|¡Cagajón para el proceso!
+V|¿Qué hacéis de esta suerte aquí?
+V|¿Qué ha sucedido, Cuadrado?
+V|REGIDOR Pesquisidor ha llegado.
+V|Echad todos por ahí.
+V|Con él viene un capitán.
+V|¡Venga el diablo! Ya sabéis
+V|lo que responder tenéis.
+V|El pueblo prendiendo van,
+V|sin dejar alma ninguna.
+V|Que no hay que tener temor.
+V|¿Quién mató al comendador,
+V|Mengo?
+V|¿Quién? Fuenteovejuna.
+V|¡Que tal caso ha sucedido!
+V|Infelice fue su suerte.
+V|Estoy por darte la muerte
+V|por la nueva que has traído.
+V|Yo, señor, soy mensajero,
+V|y enojarte no es mi intento.
+V|¡Que a tal tuvo atrevimiento
+V|un pueblo enojado y fiero!
+V|Iré con quinientos hombres
+V|y la villa he de asolar;
+V|en ella no ha de quedar
+V|ni aun memoria de los nombres.
+V|Señor, tu enojo reporta;
+V|porque ellos al rey se han dado,
+V|y no tener enojado
+V|al rey es lo que te importa.
+V|¿Cómo al rey se pueden dar,
+V|si de la encomienda son?
+V|Con él, sobre esa razón,
+V|podrás luego pleitear.
+V|Por pleito, ¿cuándo salió
+V|lo que él le entregó en sus manos?
+V|Son señores soberanos,
+V|y tal reconozco yo.
+V|Por saber que al rey se han dado
+V|se reportará mi enojo,
+V|y ver su presencia escojo
+V|por lo más bien acertado;
+V|que puesto que tenga culpa
+V|en casos de gravedad,
+V|en todo mi poca edad
+V|viene a ser quien me disculpa.
+V|Con vergüenza voy; mas es
+V|honor quien puede obligarme,
+V|e importa no descuidarme
+V|en tan honrado interés.
+V|Amando, recelar daño en lo amado
+V|nueva pena de amor se considera;
+V|que quien en lo que ama daño espera
+V|aumenta en el temor nuevo cuidado.
+V|El firme pensamiento desvelado,
+V|si le aflige el temor, fácil se altera;
+V|que no es a firme fe pena ligera
+V|ver llevar el temor el bien robado.
+V|Mi esposo adoro; la ocasión que veo
+V|al temor de su daño me condena,
+V|si no le ayuda la felice suerte.
+V|Al bien suyo se inclina mi deseo:
+V|si está presenta, está cierta mi pena;
+V|si está en ausencia, está cierta mi muerte.
+V|¡Mi Laurencia!
+V|¡Esposo amado!
+V|¿Cómo a estar aquí te atreves?
+V|Esas resistencias debes
+V|a mi amoroso cuidado.
+V|Mi bien, procura guardarte,
+V|porque tu daño recelo.
+V|No quiera, Laurencia, el cielo
+V|que tal llegue a disgustarte.
+V|¿No temes ver el rigor
+V|que por los demás sucede,
+V|y el furor con que procede
+V|aqueste pesquisidor?
+V|Procura guardar la vida.
+V|Huye, tu daño no esperes.
+V|¿Cómo que procure quieres
+V|cosa tan mal recibida?
+V|¿Es bien que los demás deje
+V|en el peligro presente
+V|y de tu vista me ausente?
+V|No me mandes que me aleje;
+V|porque no es puesto en razón
+V|que por evitar mi daño
+V|sea con mi sangre extraño
+V|en tan terrible ocasión.
+V|Voces parece que he oído,
+V|y son, si yo mal no siento,
+V|de alguno que dan tormento.
+V|Oye con atento oído.
+V|Decid la verdad, buen viejo.
+V|Un viejo, Laurencia mía,
+V|atormentan.
+V|¡Qué porfía!
+V|Déjenme un poco.
+V|Ya os dejo.
+V|Decid: ¿quién mató a Fernando?
+V|Fuenteovejuna lo hizo.
+V|Tu nombre, padre, eternizo;
+V|[a todos vas animando].
+V|¡Bravo caso!
+V|Ese muchacho
+V|aprieta. Perro, yo sé
+V|que lo sabes. Di quién fue.
+V|¿Callas? Aprieta, borracho.
+V|Fuenteovejuna, señor.
+V|¡Por vida del rey, villanos,
+V|que os ahorque con mis manos!
+V|¿Quién mató al comendador?
+V|¡Que a un niño le den tormento
+V|y niegue de aquesta suerte!
+V|¡Bravo pueblo!
+V|Bravo y fuerte.
+V|Esa mujer al momento
+V|en ese potro tened.
+V|Dale esa mancuerda luego.
+V|Ya está de cólera ciego.
+V|Que os he de matar, creed,
+V|en este potro, villanos.
+V|¿Quién mató al comendador?
+V|Fuenteovejuna, señor.
+V|¡Dale!
+V|Pensamientos vanos.
+V|Pascuala niega, Frondoso.
+V|Niegan niños. ¿Qué te espanta?
+V|Parece que los encantas.
+V|¡Aprieta!
+V|¡Ay, cielo piadoso!
+V|¡Aprieta, infame! ¿Estás sordo?
+V|Fuenteovejuna lo hizo.
+V|Traedme aquel más rollizo,
+V|ese desnudo, ese gordo.
+V|¡Pobre Mengo! Él es, sin duda.
+V|Temo que ha de confesar.
+V|¡Ay, ay!
+V|Comienza a apretar.
+V|¡Ay!
+V|¿Es menester ayuda?
+V|¡Ay, ay!
+V|¿Quién mató, villano,
+V|al señor comendador?
+V|¡Ay, yo lo diré, señor!
+V|Afloja un poco la mano.
+V|Él confiesa.
+V|Al palo aplica
+V|la espalda.
+V|Quedo; que yo
+V|lo diré.
+V|¿Quién lo mató?
+V|Señor, ¡Fuenteovejunica!
+V|¿Hay tan gran bellaquería?
+V|Del dolor se están burlando.
+V|En quien estaba esperando,
+V|niego con mayor porfía.
+V|Dejadlos; que estoy cansado.
+V|¡Oh, Mengo, bien te haga Dios!
+V|Temor que tuve de dos,
+V|el tuyo me le ha quitado.
+V|¡Víctor, Mengo!
+V|¡Y con razón!
+V|¡Mengo, víctor!
+V|Eso digo.
+V|¡Ay, ay!
+V|Toma, bebe, amigo.
+V|Come.
+V|¡Ay, ay! ¿Qué es?
+V|Diacitrón.
+V|¡Ay, ay!
+V|Echa de beber.
+V|[Es lo mejor que hay]. ¡Ya va!
+V|Bien lo cuelo. Bueno está.
+V|Dale otra vez de comer.
+V|¡Ay, ay!
+V|Ésta va por mí.
+V|Solemnemente lo embebe.
+V|El que bien niega, bien bebe.
+V|¿Quieres otra?
+V|¡Ay, ay!! ¡Sí, sí!
+V|Bebe; que bien lo mereces.
+V|¡A vez por vuelta las cuela!
+V|Arrópale, que se hiela.
+V|¿Quieres más?
+V|Sí, otras tres veces.
+V|¡Ay, ay!
+V|Si hay vino pregunta.
+V|Sí, hay. Bebe a tu placer;
+V|que quien niega ha de beber.
+V|¿Qué tiene?
+V|Una cierta punta.
+V|Vamos; que me arromadizo.
+V|Que beba, que éste es mejor.
+V|¿Quién mató al comendador?
+V|Fuenteovejuna lo hizo.
+V|Justo es que honores le den.
+V|Pero decidme, mi amor,
+V|¿quién mató al comendador?
+V|Fuenteovejunica, mi bien.
+V|¿Quién le mató?
+V|Dasme espanto.
+V|Pues, Fuenteovejuna fue.
+V|Y yo, ¿con qué te maté?
+V|¿Con qué? Con quererte tanto.
+V|No entendí, señor, hallaros
+V|aquí, y es buena mi suerte.
+V|En nueva gloria convierte
+V|mi vista el bien de miraros.
+V|Iba a Portugal de paso
+V|y llegar aquí fue fuerza.
+V|Vuestra majestad le tuerza,
+V|siendo conveniente el caso.
+V|¿Cómo dejáis a Castilla?
+V|En paz queda, quieta y llana.
+V|Siendo vos la que la allana,
+V|no lo tengo a maravilla.
+V|Para ver vuestra presencia
+V|el maestre de Calatrava,
+V|que aquí de llegar acaba,
+V|pide que le deis licencia.
+V|Verle tenía deseado.
+V|Mi fe, señora, os empeño,
+V|que aunque es en edad pequeño,
+V|es valeroso soldado.
+V|Rodrigo Téllez Girón,
+V|que de loaros no acaba,
+V|maestre de Calatrava,
+V|os pide humilde perdón.
+V|Confieso que fui engañado,
+V|y que excedí de lo justo
+V|en cosas de vuestro gusto,
+V|como mal aconsejado.
+V|El consejo de Fernando
+V|y el interés me engañó,
+V|injusto fiel; y así, yo
+V|perdón humilde os demando.
+V|Y si recibir merezco
+V|esta merced que suplico
+V|desde aquí me certifico
+V|en que a serviros me ofrezco,
+V|y que en aquesta jornada
+V|de Granada, adonde vais,
+V|os prometo que veáis
+V|el valor que hay en mi espada;
+V|donde sacándola apenas,
+V|dándoles fieras congojas,
+V|plantaré mis cruces rojas
+V|sobre sus altas almenas;
+V|Y más, quinientos soldados
+V|en serviros emplearé,
+V|junto con la firme y fe
+V|de en mi vida disgustaros.
+V|Alzad, maestre, del suelo;
+V|que siempre que hayáis venido,
+V|seréis muy bien recibido.
+V|Sois de afligidos consuelo.
+V|Vos con valor peregrino
+V|sabéis bien decir y hacer.
+V|Vos sois una bella Ester
+V|y vos un Xerxes divino.
+V|Señor, el pesquisidor
+V|que a Fuenteovejuna ha ido
+V|con el despacho ha venido
+V|a verse ante tu valor.
+V|Sed juez de estos agresores.
+V|Si a vos, señor, no mirara,
+V|sin duda les enseñara
+V|a matar comendadores.
+V|Eso ya no os toca a vos.
+V|Yo confieso que he de ver
+V|el cargo en vuestro poder,
+V|si me lo concede Dios.
+V|A Fuenteovejuna fui
+V|de la suerte que has mandado
+V|y con especial cuidado
+V|y diligencia asistí.
+V|Haciendo averiguación
+V|del cometido delito,
+V|una hoja no se ha escrito
+V|que sea en comprobación;
+V|porque conformes a una,
+V|con un valeroso pecho,
+V|en pidiendo quién lo ha hecho,
+V|responden: "Fuenteovejuna."
+V|Trescientos he atormentado
+V|con no pequeño rigor,
+V|y te prometo, señor,
+V|que más que esto no he sacado.
+V|Hasta niños de diez años
+V|al potro arrimé, y no ha sido
+V|posible haberlo inquirido
+V|ni por halagos ni engaños.
+V|Y pues tan mal se acomoda
+V|el poderlo averiguar,
+V|o los has de perdonar,
+V|o matar la villa toda.
+V|Todos vienen ante ti
+V|para más certificarte;
+V|de ellos podrás informate.
+V|Que entren pues viene, les di.
+V|¿Aquestos los reyes son?
+V|Y en Castilla poderosos.
+V|Por mi fe, que son hermosos;
+V|¡bendígalos San Antón!
+V|¿Los agresores son éstos?
+V|Fuenteovejuna, señora,
+V|que humildes llegan agora
+V|para serviros dispuestos.
+V|La sobrada tiranía
+V|y el insufrible rigor
+V|del muerto comendador,
+V|que mil insultos hacía
+V|fue el autor de tanto daño.
+V|Las haciendas nos robaba
+V|y las doncellas forzaba,
+V|siendo de piedad extraño.
+V|Tanto, que aquesta Zagala,
+V|que el cielo me ha concedido,
+V|en que tan dichoso he sido
+V|que nadie en dicha me iguala,
+V|cuando conmigo casó,
+V|aquella noche primera,
+V|mejor que si suya fuera,
+V|a su casa la llevó;
+V|y a no saberse guardar
+V|ella, que en virtud florece,
+V|ya manifiesto parece
+V|lo que pudiera pasar.
+V|¿No es ya tiempo que hable yo?
+V|Si me dais licencia, entiendo
+V|que os admiraréis, sabiendo
+V|del modo que me trató.
+V|Porque quise defender
+V|una moza de su gente,
+V|que con término insolente
+V|fuerza la querían hacer,
+V|aquel perverso Nerón
+V|de manera me ha tratado
+V|que el reverso me ha dejado
+V|como rueda de salmón.
+V|Tocaron mis atabales
+V|tres hombres con tan porfía,
+V|que aun pienso que todavía
+V|me duran los cardenales.
+V|Gasté en este mal prolijo,
+V|por que el cuero se me curta,
+V|polvos de arrayán y murta
+V|más que vale mi cortijo.
+V|Señor, tuyos ser queremos.
+V|Rey nuestro eres natural,
+V|y con título de tal
+V|ya tus armas puesto habemos.
+V|Esperamos tu clemencia
+V|y que veas esperamos
+V|que en este caso te damos
+V|por abono la inocencia.
+V|Pues no puede averiguarse
+V|el suceso por escrito,
+V|aunque fue grave el delito,
+V|por fuerza ha de perdonarse.
+V|Y la villa es bien se quede
+V|en mí, pues de mí se vale,
+V|hasta ver si acaso sale
+V|comendador que la herede.
+V|Su majestad habla, en fin,
+V|como quien tanto ha acertado.
+V|Y aquí, discreto senado,
+V|Fuenteovejuna da fin.

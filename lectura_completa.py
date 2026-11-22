@@ -199,6 +199,9 @@ def build(meta, blocks):
         for index in range(chapter["start"], chapter["end"] + 1):
             line = blocks[index]
             kind = line[:2]
+            if kind == "H|" and meta.get("inner_titles") and index != chapter["start"] and index not in skip:
+                paragraphs.append(f'<h3 class="inner-title">{escape(line[2:])}</h3>')  # título de un poema dentro de la parte
+                continue
             if index in skip or kind not in ("P|", "V|", "S|"):
                 continue
             text = re.sub(r"(\w)- ([a-záéíóúüñ])", r"\1\2", line[2:].replace("»>", "»"))  # guiones de fin de línea del OCR

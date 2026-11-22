@@ -1,0 +1,1426 @@
+H|Primer Acto
+S|Cuadro Primero
+S|(Habitación pintada de amarillo)
+P|(Entrando.) Madre.
+P|¿Que?
+P|Me voy.
+P|¿Adónde?
+P|A la viña. (Va a salir.)
+P|Espera.
+P|¿Quieres algo?
+P|Hijo, el almuerzo.
+P|Déjalo. Comeré uvas. Dame la navaja.
+P|¿Para qué?
+P|(Riendo.) Para cortarlas.
+P|(Entre dientes y buscándola.) La navaja, la navaja... Malditas sean todas y el bribón que las inventó.
+P|Vamos a otro asunto.
+P|Y las escopetas, y las pistolas, y el cuchillo más pequeño, y hasta las azadas y los bieldos de la era.
+P|Bueno.
+P|Todo lo que puede cortar el cuerpo de un hombre. Un hombre hermoso, con su flor en la boca, que sale a las viñas o va a sus olivos propios, porque son de él, heredados...
+P|(Bajando la cabeza.) Calle usted.
+P|... y ese hombre no vuelve. O si vuelve es para ponerle una palma encima o un plato de sal gorda para que no se hinche. No sé cómo te atreves a llevar una navaja en tu cuerpo, ni cómo yo dejo a la serpiente dentro del arcón.
+P|¿Está bueno ya?
+P|Cien años que yo viviera no hablaría de otra cosa. Primero, tu padre, que me olía a clavel y lo disfruté tres años escasos. Luego, tu hermano. ¿Y es justo y puede ser que una cosa pequeña como una pistola o una navaja pueda acabar con un hombre, que es un toro? No callaría nunca. Pasan los meses y la desesperación me pica en los ojos y hasta en las puntas del pelo.
+P|(Fuerte.) ¿Vamos a acabar?
+P|No. No vamos a acabar. ¿Me puede alguien traer a tu padre y a tu hermano? Y luego, el presidio. ¿Qué es el presidio? ¡Allí comen, allí fuman, allí tocan los instrumentos! Mis muertos llenos de hierba, sin hablar, hechos polvo; dos hombres que eran dos geranios... Los matadores, en presidio, frescos, viendo los montes...
+P|¿Es que quiere usted que los mate?
+P|No... Si hablo, es porque... ¿Cómo no voy a hablar viéndote salir por esa puerta? Es que no me gusta que lleves navaja. Es que.... que no quisiera que salieras al campo.
+P|(Riendo.) ¡Vamos!
+P|Que me gustaría que fueras una mujer. No te irías al arroyo ahora y bordaríamos las dos cenefas y perritos de lana.
+P|(Coge de un brazo a la MADRE y ríe.) Madre, ¿y si yo la llevara conmigo a las viñas?
+P|¿Qué hace en las viñas una vieja? ¿Me ibas a meter debajo de los pámpanos?
+P|(Levantándola en sus brazos.) Vieja, revieja, requetevieja.
+P|Tu padre sí que me llevaba. Eso es buena casta. Sangre. Tu abuelo dejó a un hijo en cada esquina. Eso me gusta. Los hombres, hombres, el trigo, trigo.
+P|¿Y yo, madre?
+P|¿Tú, qué?
+P|¿Necesito decírselo otra vez?
+P|(Seria.) ¡Ah!
+P|¿Es que le parece mal?
+P|No.
+P|¿Entonces...?
+P|No lo sé yo misma. Así, de pronto, siempre me sorprende. Yo sé que la muchacha es buena. ¿Verdad que sí? Modosa. Trabajadora. Amasa su pan y cose sus faldas, y siento, sin embargo, cuando la nombro, como si me dieran una pedrada en la frente.
+P|Tonterías.
+P|Más que tonterías. Es que me quedo sola. Ya no me queda más que tú, y siento que te vayas.
+P|Pero usted vendrá con nosotros.
+P|No. Yo no puedo dejar aquí solos a tu padre y a tu hermano. Tengo que ir todas las mañanas, y si me voy es fácil que muera uno de los Felix, uno de la familia de los matadores, y lo entierren al lado. ¡Y eso sí que no! ¡Ca! ¡Eso sí que no! Porque con las uñas los desentierro y yo sola los machaco contra la tapia.
+P|(Fuerte.) Vuelta otra vez.
+P|Perdóname. (Pausa.) ¿Cuánto tiempo llevas en relaciones?
+P|Tres años. Ya pude comprar la viña.
+P|Tres años. Ella tuvo un novio, ¿no?
+P|No sé. Creo que no. Las muchachas tienen que mirar con quien se casan.
+P|Sí. Yo no miré a nadie. Miré a tu padre, y cuando lo mataron miré a la pared de enfrente. Una mujer con un hombre, y ya está.
+P|Usted sabe que mi novia es buena.
+P|No lo dudo. De todos modos, siento no saber cómo fue su madre.
+P|¿Qué más da?
+P|(Mirándole.) Hijo.
+P|¿Qué quiere usted?
+P|¡Que es verdad! ¡Que tienes razón! ¿Cuándo quieres que la pida?
+P|(Alegre.) ¿Le parece bien el domingo?
+P|(Seria.) Le llevaré los pendientes de azófar, que son antiguos, y tú le compras...
+P|Usted entiende más...
+P|Le compras unas medias caladas, y para ti dos trajes... ¡Tres! ¡No te tengo más que a ti!
+P|Me voy. Mañana iré a verla.
+P|Sí, sí; y a ver si me alegras con seis nietos, o lo que te dé la gana, ya que tu padre no tuvo lugar de hacérmelos a mí.
+P|El primero para usted.
+P|Sí, pero que haya niñas. Que yo quiero bordar y hacer encaje y estar tranquila.
+P|Estoy seguro que usted querrá a mi novia.
+P|La querré. (Se dirige a besarlo y reacciona.) Anda, ya estás muy grande para besos. Se los das a tu mujer. (Pausa. Aparte.) Cuando lo sea.
+P|Me voy.
+P|Que caves bien la parte del molinillo, que la tienes descuidada.
+P|¡Lo dicho!
+P|Anda con Dios. (Vase el NOVIO. La madre queda sentada de espaldas a la puerta. Aparece en la puerta una VECINA vestida de color oscuro, con pañuelo a la cabeza.)
+P|Pasa.
+P|¿Cómo estás?
+P|Ya ves.
+P|Yo bajé a la tienda y vine a verte. ¡Vivimos tan lejos...!
+P|Hace veinte años que no he subido a lo alto de la calle.
+P|Tú estas bien.
+P|¿Lo crees?
+P|Las cosas pasan. Hace dos días trajeron al hijo de mi vecina con los dos brazos cortados por la máquina. (Se sienta.)
+P|¿A Rafael?
+P|Sí. Y allí lo tienes. Muchas veces pienso que tu hijo y el mío están mejor donde están, dormidos, descansando, que no expuestos a quedarse inútiles.
+P|Calla. Todo eso son invenciones, pero no consuelos.
+P|¡Ay!
+P|¡Ay! (Pausa.)
+P|(Triste.) ¿Y tu hijo?
+P|Salió.
+P|¡Al fin compró la viña!
+P|Tuvo suerte.
+P|Ahora se casará.
+P|(Como despertando y acercando su silla a la silla de la VECINA.) Oye.
+P|(En plan confidencial.) Dime.
+P|¿Tú conoces a la novia de mi hijo?
+P|¡Buena muchacha!
+P|Sí, pero...
+P|Pero quien la conozca a fondo no hay nadie. Vive sola con su padre allí, tan lejos, a diez leguas de la casa más cerca. Pero es buena. Acostumbrada a la soledad.
+P|¿Y su madre?
+P|A su madre la conocí. Hermosa. Le relucía la cara como un santo; pero a mí no me gustó nunca. No quería a su marido.
+P|(Fuerte.) Pero ¡cuántas cosas sabéis las gentes!
+P|Perdona. No quisiera ofender; pero es verdad. Ahora, si fue decente o no, nadie lo dijo. De esto no se ha hablado. Ella era orgullosa.
+P|¡Siempre igual!
+P|Tú me preguntaste.
+P|Es que quisiera que ni a la viva ni a la muerte las conociera nadie. Que fueran como dos cardos, que ninguna persona los nombra y pinchan si llega el momento.
+P|Tienes razón. Tu hijo vale mucho.
+P|Vale. Por eso lo cuido. A mí me habían dicho que la muchacha tuvo novio hace tiempo.
+P|Tendría ella quince años. Él se casó ya hace dos años con una prima de ella, por cierto. Nadie se acuerda del noviazgo.
+P|¿Cómo te acuerdas tú?
+P|¡Me haces unas preguntas...!
+P|A cada uno le gusta enterarse de lo que le duele. ¿Quién fue el novio?
+P|Leonardo.
+P|¿Qué Leonardo?
+P|Leonardo, el de los Félix.
+P|(Levantándose.) ¡De los Félix!
+P|Mujer, ¿qué culpa tiene Leonardo de nada? Él tenía ocho años cuando las cuestiones.
+P|Es verdad... Pero oigo eso de Félix y es lo mismo (entre dientes.) Félix que llenárseme de cieno la boca (escupe.), y tengo que escupir, tengo que escupir por no matar.
+P|Repórtate. ¿Qué sacas con eso?
+P|Nada. Pero tú lo comprendes.
+P|No te opongas a la felicidad de tu hijo. No le digas nada. Tú estás vieja. Yo, también. A ti y a mí nos toca callar.
+P|No le diré nada.
+P|(Besándola.) Nada.
+P|(Serena.) ¡Las cosas...!
+P|Me voy, que pronto llegará mi gente del campo.
+P|¿Has visto qué día de calor?
+P|Iban negros los chiquillos que llevan el agua a los segadores. Adiós, mujer.
+P|Adiós. (Se dirige a la puerta de la izquierda. En medio del camino se detiene y lentamente se santigua.)
+S|Cuadro Segundo
+S|(Habitación pintada de rosa con cobres y ramos de flores populares. En el centro, una mesa con mantel. Es la mañana. SUEGRA DE LEONARDO con un niño en brazos. Lo mece. La MUJER, en la otra esquina, hace punto de media.)
+V|Nana, niño, nana
+V|del caballo grande
+V|que no quiso el agua.
+V|El agua era negra
+V|dentro de las ramas.
+V|Cuando llega el puente
+V|se detiene y canta.
+V|¿Quién dirá, mi niño,
+V|lo que tiene el agua
+V|con su larga cola
+V|por su verde sala?
+V|MUJER (bajo).— Duérmete, clavel,
+V|que el caballo no quiere beber.
+V|Duérmete, rosal,
+V|que el caballo se pone a llorar.
+V|Las patas heridas,
+V|las crines heladas,
+V|dentro de los ojos
+V|un puñal de plata.
+V|Bajaban al río.
+V|¡Ay, cómo bajaban!
+V|La sangre corría
+V|más fuerte que el agua.
+V|Duérmete, clavel,
+V|que el caballo no quiere beber.
+V|Duérmete, rosal,
+V|que el caballo se pone a llorar.
+V|No quiso tocar
+V|la orilla mojada,
+V|su belfo caliente
+V|con moscas de plata.
+V|A los montes duros
+V|solo relinchaba
+V|con el río muerto
+V|sobre la garganta.
+V|¡Ay caballo grande
+V|que no quiso el agua!
+V|¡Ay dolor de nieve,
+V|caballo del alba!
+V|¡No vengas! Detente,
+V|cierra la ventana
+V|con rama de sueños
+V|y sueño de ramas.
+P|Mi niño se duerme.
+P|Mi niño se calla.
+V|Caballo, mi niño
+V|tiene una almohada.
+P|Su cuna de acero.
+P|Su colcha de holanda.
+P|Nana, niño, nana.
+V|¡Ay caballo grande
+V|que no quiso el agua!
+V|¡No vengas, no entres!
+V|Vete a la montaña.
+V|Por los valles grises
+V|donde está la jaca.
+V|MUJER (mirando).—
+V|Mi niño se duerme.
+P|Mi niño descansa.
+V|MUJER (bajito).—
+V|Duérmete, clavel,
+V|que el caballo no quiere beber.
+V|SUEGRA (levantándose, y muy bajito).—
+V|Duérmete, rosal.
+V|que el caballo se pone a llorar.
+P|(
+S|(Recuestan al niño. Entra LEONARDO.)
+P|¿Y el niño?
+P|Se durmió.
+P|Ayer no estuvo bien. Lloró por la noche.
+P|MUJER (Alegre.).— Hoy está como una dalia. ¿Y tú? ¿Fuiste a casa del herrador?
+P|De allí vengo. ¿Querrás creer? Llevo más de dos meses poniendo herraduras nuevas al caballo y siempre se le caen. Por lo visto se las arranca con las piedras.
+P|¿Y no será que lo usas mucho?
+P|No. Casi no lo utilizo.
+P|Ayer me dijeron las vecinas que te habían visto al límite de los llanos.
+P|¿Quién lo dijo?
+P|Las mujeres que cogen las alcaparras. Por cierto que me sorprendió. ¿Eras tú?
+P|No. ¿Qué iba a hacer yo allí en aquel secano?
+P|Eso dije. Pero el caballo estaba reventando de sudor.
+P|¿Lo viste tú?
+P|No. Mi madre.
+P|¿Está con el niño?
+P|Sí. ¿Quieres un refresco de limón?
+P|Con el agua bien fría.
+P|¡Cómo no viniste a comer!...
+P|Estuve con los medidores del trigo. Siempre entretienen.
+P|MUJER (Haciendo el refresco y muy tierna.).— ¿Y lo pagan a buen precio?
+P|El justo.
+P|Me hace falta un vestido y al niño una gorra con lazos.
+P|LEONARDO (Levantándose.).— Voy a verlo.
+P|Ten cuidado, que está dormido.
+P|SUEGRA (Saliendo.).— Pero ¿quién da esas carreras al caballo? Está abajo, tendido, con los ojos desorbitados, como si llegara del fin del mundo.
+S|LEONARDO (Agrio.).— Yo.
+P|Perdona; tuyo es.
+P|MUJER (Tímida.).— Estuvo con los medidores del trigo.
+P|Por mí, que reviente. (Se sienta.) (Pausa.)
+P|El refresco. ¿Está frío?
+P|Sí.
+P|¿Sabes que piden a mi prima?
+P|¿Cuándo?
+P|Mañana. La boda será dentro de un mes. Espero que vendrán a invitarnos.
+P|LEONARDO (Serio.).— No sé.
+P|La madre de él creo que no estaba muy satisfecha con el casamiento.
+P|Y quizá tenga razón. Ella es de cuidado.
+P|No me gusta que penséis mal de una buena muchacha.
+P|Pero cuando dice eso es porque la conoce. ¿No ves que fue tres años novia suya? (Con intención.)
+P|Pero la dejé. (A su MUJER.) ¿Vas a llorar ahora?
+P|¡Quita! (La aparta bruscamente las manos de la cara.) Vamos a ver al niño.
+S|(Entran abrazados. Aparece la MUCHACHA, alegre. Entra corriendo.)
+P|Señora.
+P|¿Qué pasa?
+P|Llegó el novio a la tienda y ha comprado todo lo mejor que había.
+P|¿Vino solo?
+P|No, con su madre. Seria, alta. (La imita) Pero ¡qué lujo!
+P|Ellos tienen dinero.
+P|¡Y compraron unas medias caladas!... ¡Ay, qué medias! ¡El sueño de las mujeres en medias! Mire usted: una golondrina aquí (Señala el tobillo.), un barco aquí (Señala la pantorrilla.) y aquí una rosa. (Señala el muslo.)
+P|¡Niña!
+P|¡Una rosa con las semillas y el tallo! ¡Ay! ¡Todo en seda!
+P|Se van a juntar dos buenos capitales.
+S|(Aparecen LEONARDO y su MUJER.)
+P|Vengo a deciros lo que están comprando.
+P|LEONARDO (Fuerte.).— No nos importa.
+P|Déjala.
+P|Leonardo, no es para tanto.
+P|Usted dispense. (Se va llorando.)
+P|¿Qué necesidad tienes de ponerte a mal con las gentes?
+P|No le he preguntado su opinión. (Se sienta.)
+P|Está bien. (Pausa.)
+P|MUJER (A LEONARDO.).— ¿Qué te pasa? ¿Qué idea te bulle por dentro de cabeza? No me dejes así, sin saber nada...
+P|Quita.
+P|No. Quiero que me mires y me lo digas.
+P|Déjame. (Se levanta.)
+P|¿Adónde vas, hijo?
+P|LEONARDO (Agrio.).— ¿Te puedes callar?
+P|SUEGRA (Enérgica, a su hija.).— ¡Cállate! (Sale LEONARDO.) ¡El niño!
+S|(Entra y vuelve a salir con él en brazos. La MUJER ha permanecido de pie, inmóvil.)
+V|Las patas heridas,
+V|las crines heladas,
+V|dentro de los ojos
+V|un puñal de plata.
+V|Bajaban al río.
+V|La sangre corría
+V|más fuerte que el agua.
+V|MUJER (Volviéndose lentamente y como soñando.).—
+V|Duérmete, clavel,
+V|que el caballo se pone a beber.
+V|Duérmete, rosal,
+V|que el caballo se pone a llorar.
+P|Nana, niño, nana.
+V|¡Ay, caballo grande,
+V|que no quiso el agua!
+V|MUJER (Dramática.).—
+V|¡No vengas, no entres!
+V|¡Vete a la montaña!
+V|¡Ay dolor de nieve,
+V|caballo del alba!
+V|SUEGRA (Llorando.).—
+V|Mi niño se duerme...
+V|MUJER (Llorando y acercándose lentamente.).—
+V|Mi niño descansa...
+V|Duérmete, clavel,
+V|que el caballo no quiere beber.
+V|MUJER (Llorando y apoyándose sobre la mesa).—
+V|Duérmete, rosal,
+V|que el caballo se pone a llorar.
+S|Cuadro Tercero
+S|(Interior de la cueva donde vive la novia. Al fondo, una cruz de grandes flores rosa. Las puertas, redondas, con cortinajes de encaje y lazos rosas. Por las paredes, de material blanco y duro, abanicos redondos, jarros azules y pequeños espejos)
+P|Pasen... (Muy afable, llena de hipocresía humilde. Entran el NOVIO y su MADRE. La MADRE viste de raso negro y lleva mantilla de encaje. El NOVIO, de pana negra con gran cadena de oro.) ¿Se quieren sentar? Ahora vienen. (Sale.) (Quedan MADRE e HIJO sentados, inmóviles como estatuas. Pausa larga.)
+P|¿Traes el reloj?
+P|Sí. (Lo saca y lo mira.)
+P|Tenemos que volver a tiempo. ¡Qué lejos vive esta gente!
+P|Pero estas tierras son buenas.
+P|Buenas; pero demasiado solas. Cuatro horas de camino y ni una casa ni un árbol.
+P|Estos son los secanos.
+P|Tu padre los hubiera cubierto de árboles.
+P|¿Sin agua?
+P|Ya la hubiera buscado. Los tres años que estuvo casado conmigo, plantó diez cerezos. (Haciendo memoria.) Los tres nogales del molino, toda una viña y una planta que se llama Júpiter, que da flores encarnadas, y se secó. (Pausa.)
+P|NOVIO (Por la NOVIA.).— Debe estar vistiéndose.
+S|(Entra el PADRE de la novia. Es anciano, con el cabello blanco, reluciente. Lleva la cabeza inclinada. La MADRE y el NOVIO se levantan y se dan las manos en silencio.)
+P|¿Mucho tiempo de viaje?
+P|Cuatro horas. (Se sientan.)
+P|Habéis venido por el camino más largo.
+P|Yo estoy ya vieja para andar por las terreras del río.
+P|Se marea. (Pausa.)
+P|Buena cosecha de esparto.
+P|Buena de verdad.
+P|En mi tiempo, ni esparto daba esta tierra. Ha sido necesario castigarla y hasta llorarla, para que nos dé algo provechoso.
+P|Pero ahora da. No te quejes. Yo no vengo a pedirte nada.
+P|PADRE (Sonriendo.).— Tú eres más rica que yo. Las viñas valen un capital. Cada pámpano una moneda de plata. Lo que siento es que las tierras.... ¿entiendes?... estén separadas. A mí me gusta todo junto. Una espina tengo en el corazón, y es la huertecilla esa metida entre mis tierras, que no me quieren vender por todo el oro del mundo.
+P|Eso pasa siempre.
+P|Si pudiéramos con veinte pares de bueyes traer tus viñas aquí y ponerlas en la ladera. ¡Qué alegría!...
+P|¿Para qué?
+P|Lo mío es de ella y lo tuyo de él. Por eso. Para verlo todo junto, ¡que junto es una hermosura!
+P|Y sería menos trabajo.
+P|Cuando yo me muera, vendéis aquello y compráis aquí al lado.
+P|Vender, ¡vender! ¡Bah!; comprar hija, comprarlo todo. Si yo hubiera tenido hijos hubiera comprado todo este monte hasta la parte del arroyo. Porque no es buena tierra; pero con brazos se la hace buena, y como no pasa gente no te roban los frutos y puedes dormir tranquilo. (Pausa.)
+P|Tú sabes a lo que vengo.
+P|Sí.
+P|¿Y qué?
+P|Me parece bien. Ellos lo han hablado.
+P|Mi hijo tiene y puede.
+P|Mi hija también.
+P|Mi hijo es hermoso. No ha conocido mujer. La honra más limpia que una sábana puesta al sol.
+P|Qué te digo de la mía. Hace las migas a las tres, cuando el lucero. No habla nunca; suave como la lana, borda toda clase de bordados y puede cortar una maroma con los dientes.
+P|Dios bendiga su casa.
+P|Que Dios la bendiga.
+S|(Aparece la CRIADA con dos bandejas. Una con copas y la otra con dulces.)
+P|MADRE (Al HIJO.).— ¿Cuándo queréis la boda?
+P|El jueves próximo.
+P|Día en que ella cumple veintidós años justos.
+P|¡Veintidós años! Esa edad tendría mi hijo mayor si viviera. Que viviría caliente y macho como era, si los hombres no hubieran inventado las navajas.
+P|En eso no hay que pensar.
+P|Cada minuto. Métete la mano en el pecho.
+P|Entonces el jueves. ¿No es así?
+P|Así es.
+P|Los novios y nosotros iremos en coche hasta la iglesia, que está muy lejos, y el acompañamiento en los carros y en las caballerías que traigan.
+P|Conformes.
+S|(Pasa la CRIADA.)
+P|Dile que ya puede entrar. (A la MADRE.) Celebraré mucho que te guste.
+S|(Aparece la NOVIA. Trae las manos caídas en actitud modesta y la cabeza baja.)
+P|Acércate. ¿Estás contenta?
+P|Sí, señora.
+P|No debes estar seria. Al fin y al cabo ella va a ser tu madre.
+P|Estoy contenta. Cuando he dado el si es porque quiero darlo.
+P|Naturalmente. (Le coge la barbilla.) Mírame.
+P|Se parece en todo a mi mujer.
+P|¿Sí? ¡Qué hermoso mirar! ¿Tú sabes lo que es casarse, criatura?
+P|NOVIA (Seria.).— Lo sé.
+P|Un hombre, unos hijos y una pared de dos varas de ancho para todo lo demás.
+P|¿Es que hace falta otra cosa?
+P|No. Que vivan todos, ¡eso! ¡Que vivan!
+P|Yo sabré cumplir.
+P|Aquí tienes unos regalos.
+P|Gracias.
+P|¿No tomamos algo?
+P|Yo no quiero. (Al NOVIO.) ¿Y tú?
+P|Tomaré. (Toma un dulce. La NOVIA toma otro.)
+P|PADRE (Al NOVIO.).— ¿Vino?
+P|No lo prueba.
+P|¡Mejor! (Pausa. Todos están de pie.)
+P|NOVIO (A la NOVIA.).— Mañana vendré.
+P|¿A qué hora?
+P|A las cinco.
+P|Yo te espero.
+P|Cuando me voy de tu lado siento un despego grande y así como un nudo en la garganta.
+P|Cuando seas mi marido ya no lo tendrás.
+P|Eso digo yo.
+P|Vamos. El sol no espera. (Al PADRE.) ¿Conformes en todo?
+P|Conformes.
+P|MADRE (A la CRIADA.).— Adiós, mujer.
+P|Vayan ustedes con Dios.
+S|(La MADRE besa a la NOVIA y van saliendo en silencio.)
+P|MADRE (En la puerta.).— Adiós, hija. (La NOVIA contesta con la mano.)
+P|Yo salgo con vosotros. (Salen.)
+P|Que reviento por ver los regalos.
+P|NOVIA (Agria.).— Quita.
+P|¡Ay, niña, enséñamelos!
+P|No quiero.
+P|Siquiera las medias. Dicen que todas son caladas. ¡Mujer!
+P|¡Ea, que no!
+P|Por Dios. Está bien. Parece como si no tuvieras ganas de casarte.
+P|NOVIA (Mordiéndose la mano con rabia.).— ¡Ay!
+P|Niña, hija, ¿qué te pasa? ¿Sientes dejar tu vida de reina? No pienses en cosas agrias. ¿Tienes motivo? Ninguno. Vamos a ver los regalos. (Coge la caja.)
+P|NOVIA (Cogiéndola de las muñecas.).— Suelta.
+P|¡Ay, mujer!
+P|Suelta he dicho.
+P|Tienes más fuerza que un hombre.
+P|¿No he hecho yo trabajos de hombre? ¡Ojalá fuera!
+P|¡No hables así!
+P|Calla he dicho. Hablemos de otro asunto.
+S|(La luz va desapareciendo de la escena. Pausa larga.)
+P|¿Sentiste anoche un caballo?
+P|¿A qué hora?
+P|A las tres.
+P|Sería un caballo suelto de la manada.
+P|No. Llevaba jinete.
+P|¿Por qué lo sabes?
+P|Porque lo vi. Estuvo parado en tu ventana. Me chocó mucho.
+P|¿No sería mi novio? Algunas veces ha pasado a esas horas.
+P|No.
+P|¿Tú le viste?
+P|Sí.
+P|¿Quién era?
+P|Era Leonardo.
+P|NOVIA (Fuerte.).— ¡Mentira! ¡Mentira! ¿A qué viene aquí?
+P|Vino.
+P|¡Cállate! ¡Maldita sea tu lengua!
+S|(Se siente el ruido de un caballo.)
+P|CRIADA (En la ventana.).— Mira, asómate. ¿Era?
+P|¡Era!
+H|Segundo Acto
+S|Cuadro Primero
+S|(Zaguán de casa de la NOVIA. Portón al fondo. Es de noche. La NOVIA sale con enaguas blancas encañonadas, llenas de encajes y puntas bordadas, y un corpiño blanco, con los brazos al aire. La CRIADA lo mismo)
+P|Aquí te acabaré de peinar.
+P|No se puede estar ahí dentro, del calor.
+P|En estas tierras no refresca ni al amanecer.
+S|(Se sienta la NOVIA en una silla baja y se mira en un espejito de mano. La CRIADA la peina.)
+P|Mi madre era de un sitio donde había muchos árboles. De tierra rica.
+P|¡Así era ella de alegre!
+P|Pero se consumió aquí.
+P|El sino.
+P|Como nos consumimos todas. Echan fuego las paredes. ¡Ay!, no tires demasiado.
+P|Es para arreglarte mejor esta onda. Quiero que te caiga sobre la frente. (La NOVIA se mira en el espejo.) ¡Qué hermosa estás! ¡Ay! (La besa apasionadamente.)
+P|NOVIA (Seria.).— Sigue peinándome.
+P|CRIADA (Peinándola.).— ¡Dichosa tú que vas a abrazar a un hombre, que lo vas a besar, que vas a sentir su peso!
+P|Calla.
+P|Y lo mejor es cuando te despiertes y lo sientas al lado y que él te roza los hombros con su aliento, como con una plumilla de ruiseñor.
+P|NOVIA (Fuerte.).— ¿Te quieres callar?
+P|¡Pero, niña! Una boda, ¿qué es? Una boda es esto y nada más. ¿Son los dulces? ¿Son los ramos de flores? No. Es una cama relumbrante y un hombre y una mujer.
+P|No se debe decir.
+P|Eso es otra cosa. ¡Pero es bien alegre!
+P|O bien amargo.
+P|El azahar te lo voy a poner desde aquí hasta aquí, de modo que la corona luzca sobre el peinado. (Le prueba un ramo de azahar.)
+P|NOVIA (Se mira en el espejo.).— Trae. (Coge el azahar y lo mira y deja caer la cabeza abatida.)
+P|¿Qué es esto?
+P|Déjame.
+P|No son horas de ponerse triste. (Animosa.) Trae el azahar. (La novia tira el azahar.) ¡Niña! ¿Qué castigo pides tirando al suelo la corona? ¡Levanta esa frente! ¿Es que no te quieres casar? Dilo. Todavía te puedes arrepentir. (Se levanta.)
+P|Son nublos. Un mal aire en el centro, ¿quién no lo tiene?
+P|Tú quieres a tu novio.
+P|Lo quiero.
+P|Sí, sí, estoy segura.
+P|Pero este es un paso muy grande.
+P|Hay que darlo.
+P|Ya me he comprometido.
+P|Te voy a poner la corona.
+P|NOVIA (Se sienta.).— Date prisa, que ya deben ir llegando.
+P|Ya llevarán lo menos dos horas de camino.
+P|¿Cuánto hay de aquí a la iglesia?
+P|Cinco leguas por el arroyo, que por el camino hay el doble.
+S|(La NOVIA se levanta y la CRIADA se entusiasma al verla.)
+V|Despierte la novia
+V|la mañana de la boda.
+V|¡Que los ríos del mundo
+V|lleven tu corona!
+P|NOVIA (Sonriente.).— Vamos.
+V|CRIADA (La besa entusiasmada y baila alrededor.).—
+V|Que despierte
+V|con el ramo verde
+V|del laurel florido.
+V|¡Que despierte
+V|por el tronco y la rama
+V|de los laureles!
+S|(Se oyen unos aldabonazos.)
+P|¡Abre! Deben ser los primeros convidados. (Entra. La CRIADA abre sorprendida.)
+P|¿Tú?
+P|Yo. Buenos días.
+P|¡El primero!
+P|¿No me han convidado?
+P|Sí.
+P|Por eso vengo.
+P|¿Y tu mujer?
+P|Yo vine a caballo. Ella se acerca por el camino.
+P|¿No te has encontrado a nadie?
+P|Los pasé con el caballo.
+P|Vas a matar al animal con tanta carrera.
+P|¡Cuando se muera, muerto está! (Pausa.)
+P|Siéntate. Todavía no se ha levantado nadie.
+P|¿Y la novia?
+P|Ahora mismo la voy a vestir.
+P|¡La novia! ¡Estará contenta!
+P|CRIADA (Variando la conversación.).— ¿Y el niño?
+P|¿Cuál?
+P|Tu hijo.
+P|LEONARDO (Recordando como soñoliento.).— ¡Ah!
+P|¿Lo traen?
+P|No. (Pausa. Voces cantando muy lejos.)
+V|¡Despierte la novia
+V|la mañana de la boda!
+V|Despierte la novia
+V|la mañana de la boda.
+P|Es la gente. Vienen lejos todavía.
+P|LEONARDO (Levantándose.).— La novia llevará una corona grande, ¿no? No debía ser tan grande. Un poco más pequeña le sentaría mejor. ¿Y trajo ya el novio el azahar que se tiene que poner en el pecho?
+P|NOVIA (Apareciendo todavía en enaguas y con la corona de azahar puesta.).— Lo trajo.
+P|CRIADA (Fuerte.).— No salgas así.
+P|¿Qué más da? (Seria.) ¿Por qué preguntas si trajeron el azahar? ¿Llevas intención?
+P|Ninguna. ¿Qué intención iba a tener? (Acercándose.) Tú, que me conoces, sabes que no la llevo. Dímelo. ¿Quién he sido yo para ti? Abre y refresca tu recuerdo. Pero dos bueyes y una mala choza son casi nada. Esa es la espina.
+P|¿A qué vienes?
+P|A ver tu casamiento.
+P|¡También yo vi el tuyo!
+P|Amarrado por ti, hecho con tus dos manos. A mí me pueden matar, pero no me pueden escupir. Y la plata, que brilla tanto, escupe algunas veces.
+P|¡Mentira!
+P|No quiero hablar, porque soy hombre de sangre, y no quiero que todos estos cerros oigan mis voces.
+P|Las mías serían más fuertes.
+P|Estas palabras no pueden seguir. Tú no tienes que hablar de lo pasado. (La CRIADA mira a las puertas presa de inquietud.)
+P|Tienes razón. Yo no debo hablarte siquiera. Pero se me calienta el alma de que vengas a verme y atisbar mi boda y preguntes con intención por el azahar. Vete y espera a tu mujer en la puerta.
+P|¿Es que tú y yo no podemos hablar?
+P|CRIADA (Con rabia.).— No; no podéis hablar.
+P|Después de mi casamiento he pensado noche y día de quién era la culpa, y cada vez que pienso sale una culpa nueva que se come a la otra; pero ¡siempre hay culpa!
+P|Un hombre con su caballo sabe mucho y puede mucho para poder estrujar a una muchacha metida en un desierto. Pero yo tengo orgullo. Por eso me caso. Y me encerraré con mi marido, a quien tengo que querer por encima de todo.
+P|El orgullo no te servirá de nada. (Se acerca.)
+P|¡No te acerques!
+P|Callar y quemarse es el castigo más grande que nos podemos echar encima. ¿De qué me sirvió a mí el orgullo y el no mirarte y el dejarte despierta noches y noches? ¡De nada! ¡Sirvió para echarme fuego encima! Porque tú crees que el tiempo cura y que las paredes tapan, y no es verdad, no es verdad. ¡Cuando las cosas llegan a los centros, no hay quien las arranque!
+P|NOVIA (Temblando.).— No puedo oírte. No puedo oír tu voz. Es como si me bebiera una botella de anís y me durmiera en una colcha de rosas. Y me arrastra y sé que me ahogo, pero voy detrás.
+P|CRIADA (Cogiendo a LEONARDO por las solapas.).— ¡Debes irte ahora mismo!
+P|Es la última vez que voy a hablar con ella. No temas nada.
+P|Y sé que estoy loca y sé que tengo el pecho podrido de aguantar, y aquí estoy quieta por oírlo, por verlo menear los brazos.
+P|No me quedo tranquilo si no te digo estas cosas. Yo me casé. Cásate tú ahora.
+P|CRIADA (A LEONARDO.).— ¡Y se casa!
+V|(Cantando más cerca.)
+V|Despierte la novia
+V|la mañana de la boda.
+P|¡Despierte la novia! (Sale corriendo a su cuarto.)
+P|Ya está aquí la gente. (A LEONARDO.) No te vuelvas a acercar a ella.
+P|Descuida. (Sale por la izquierda. Empieza a clarear el día.)
+V|MUCHACHA 1ª.— (Entrando.)
+V|Despierte la novia
+V|la mañana de la boda;
+V|ruede la ronda
+V|y en cada balcón una corona.
+P|¡Despierte la novia!
+V|(Moviendo algazara.)
+V|Que despierte
+V|con el ramo verde
+V|del amor florido.
+V|¡Que despierte
+V|por el tronco y la rama
+V|de los laureles!
+V|MUCHACHA 2ª.— (Entrando.)
+V|Que despierte
+V|con el largo pelo,
+V|camisa de nieve,
+V|botas de charol y plata
+V|y jazmines en la frente.
+V|¡Ay pastora,
+V|que la luna asoma!
+V|MUCHACHA 1ª.— ¡Ay galán,
+V|deja tu sombrero por el olivar!
+V|MOZO 1°.— (Entrando con el sombrero en alto.)
+V|Despierte la novia.
+V|que por los campos viene
+V|rondando la boda,
+V|con bandejas de dalias
+V|y panes de gloria.
+P|¡Despierte la novia!
+V|MUCHACHA 2ª.— La novia
+V|se ha puesto su blanca corona,
+V|y el novio
+V|se la prende con lazos de oro.
+V|Por el toronjil
+V|la novia no puede dormir.
+V|MUCHACHA 3ª.— (Entrando.)
+V|Por el naranjel
+V|el novio le ofrece cuchara y mantel.
+S|(Entran tres convidados.)
+V|MOZO 1°.— ¡Despierta. paloma!
+V|El alba despeja
+V|campanas de sombra.
+V|La novia, la blanca novia,
+V|hoy doncella,
+V|mañana señora.
+V|MUCHACHA 1ª.— Baja, morena,
+V|arrastrando tu cola de seda.
+V|Baja, morenita.
+V|que llueve rocío la mañana fría.
+V|MOZO 1°.— Despertad, señora, despertad,
+V|porque viene el aire lloviendo azahar.
+V|Un árbol quiero bordarle
+V|lleno de cintas granates
+V|y en cada cinta un amor
+V|con vivas alrededor.
+P|Despierte la novia.
+P|MOZO 1°.— ¡La mañana de la boda!
+V|La mañana de la boda
+V|qué galana vas a estar,
+V|pareces, flor de los montes,
+V|la mujer de un capitán.
+V|PADRE (Entrando.).—
+V|La mujer de un capitán
+V|se lleva el novio.
+V|¡Ya viene con sus bueyes por el tesoro!
+V|MUCHACHA 3ª.— El novio
+V|parece la flor del oro.
+V|Cuando camina,
+V|a sus plantas se agrupan las clavellinas.
+P|¡Ay mi niña dichosa!
+P|MOZO 2º.— Que despierte la novia.
+P|¡Ay mi galana!
+V|MUCHACHA 1ª.— La boda está llamando
+V|por las ventanas.
+P|MUCHACHA 2ª.— Que salga la novia.
+P|MUCHACHA 1ª.— ¡Que salga, que salga!
+V|¡Que toquen y repiquen
+V|las campanas!
+P|MOZO 1°.— ¡Que viene aquí! ¡Que sale ya!
+V|¡Como un toro, la boda
+V|levantándose está!
+S|(Aparece la NOVIA. Lleva un traje negro mil novecientos, con caderas y larga cola rodeada de gasas plisadas y encajes duros. Sobre el peinado de visera lleva la corona de azahar. Suenan las guitarras. Las MUCHACHAS besan a la NOVIA.)
+P|MUCHACHA 3ª.— ¿Qué esencia te echaste en el pelo?
+P|NOVIA (Riendo.).— Ninguna.
+P|MUCHACHA 2ª (Mirando el traje.).— La tela es de lo que no hay.
+P|MOZO 1°.— ¡Aquí está el novio!
+P|¡Salud!
+V|MUCHACHA 1ª.— (Poniéndole una flor en la oreja.)
+V|El novio
+V|parece la flor del oro.
+V|MUCHACHA 2ª.— ¡Aires de sosiego
+V|le manan los ojos!
+S|(El NOVIO se dirige al lado de la NOVIA.)
+P|¿Por qué te pusiste esos zapatos?
+P|Son más alegres que los negros.
+P|MUJER DE LEONARDO (Entrando y besando a la NOVIA.).— ¡Salud! (Hablan todas con algazara.)
+V|LEONARDO (Entrando como quien cumple un deber.).—
+V|La mañana de casada
+V|la corona te ponemos.
+V|¡Para que el campo se alegre
+V|con el agua de tu pelo!
+P|MADRE (Al PADRE.).— ¿También están ésos aquí?
+P|Son familia. ¡Hoy es día de perdones!
+P|Me aguanto, pero no perdono.
+P|¡Con la corona da alegría mirarte!
+P|¡Vámonos pronto a la iglesia!
+P|¿Tienes prisa?
+P|Sí. Estoy deseando ser tu mujer y quedarme sola contigo, y no oír más voz que la tuya.
+P|¡Eso quiero yo!
+P|Y no ver más que tus ojos. Y que me abrazaras tan fuerte, que aunque me llamara mi madre, que está muerta, no me pudiera despegar de ti.
+P|Yo tengo fuerza en los brazos. Te voy a abrazar cuarenta años seguidos.
+P|NOVIA (Dramática, cogiéndole del brazo.).— ¡Siempre!
+P|¡Vamos pronto! ¡A coger las caballerías y los carros! Que ya ha salido el sol.
+P|¡Que llevéis cuidado! No sea que tengamos mala hora.
+S|(Se abre el gran portón del fondo. Empiezan a salir.)
+V|CRIADA (Llorando.).—
+V|Al salir de tu casa,
+V|blanca doncella,
+V|acuérdate que sales
+V|como una estrella...
+V|MUCHACHA 1ª.— Limpia de cuerpo y ropa
+V|al salir de tu casa para la boda.
+S|(Van saliendo.)
+V|MUCHACHA 2ª.— ¡Ya sales de tu casa
+V|para la iglesia!
+V|¡El aire pone flores
+V|por las arenas!
+P|MUCHACHA 3ª.— ¡Ay la blanca niña!
+V|Aire oscuro el encaje
+V|de su mantilla.
+S|(Salen. Se oyen guitarras, palillos y panderetas. Quedan solos LEONARDO y su MUJER.)
+P|Vamos.
+P|¿Adónde?
+P|A la iglesia. Pero no vas en el caballo. Vienes conmigo.
+P|¿En el carro?
+P|¿Hay otra cosa?
+P|Yo no soy hombre para ir en carro.
+P|Y yo no soy mujer para ir sin su marido a un casamiento. ¡Que no puedo más!
+P|¡Ni yo tampoco!
+P|¿Por qué me miras así? Tienes una espina en cada ojo.
+P|¡Vamos!
+P|No sé lo que pasa. Pero pienso y no quiero pensar. Una cosa sé. Yo ya estoy despachada. Pero tengo un hijo. Y otro que viene. Vamos andando. El mismo sino tuvo mi madre. Pero de aquí no me muevo. (Voces fuera.)
+V|¡Al salir de tu casa
+V|para la iglesia,
+V|acuérdate que sales
+V|como una estrella!
+V|MUJER (Llorando.).—
+V|¡Acuérdate que sales
+V|como una estrella!
+V|Así salí yo de mi casa también. Que me cabía todo el campo en la boca.
+P|LEONARDO (Levantándose.).— Vamos.
+P|¡Pero conmigo!
+P|Sí. (Pausa.) ¡Echa a andar! (Salen.)
+V|Al salir de tu casa
+V|para la iglesia,
+V|acuérdate que sales
+V|como una estrella.
+S|Cuadro Segundo
+S|(Exterior de la cueva de la novia. Entonación en blancos grises y azules fríos. Grandes chumberas. Tonos sombríos y plateados. Panorama de mesetas color barquillo, todo endurecido como paisaje de cerámica popular.)
+S|()
+V|CRIADA (arreglando en una mesa copas y bandejas).—
+V|Giraba,
+V|giraba la rueda
+V|y el agua pasaba,
+V|porque llega la boda,
+V|que se aparten las ramas
+V|y la luna se adorne
+V|por su blanca baranda.
+P|(En voz alta) ¡Pon los manteles!
+V|(En voz patética.) Cantaban.
+V|cantaban los novios
+V|y el agua pasaba,
+V|porque llega la boda,
+V|que relumbre la escarcha
+V|y se llenen de miel
+V|las almendras amargas.
+P|(En voz alta) ¡Prepara el vino!
+V|(En voz patética.) Galana.
+V|galana de la tierra.
+V|mira cómo el agua pasa.
+V|Porque llega tu boda
+V|recógete las faldas
+V|y bajo el ala del novio
+V|nunca salgas de tu casa.
+V|Porque el novio es un palomo
+V|con todo el pecho de brasa
+V|y espera el campo el rumor
+V|de la sangre derramada.
+V|Giraba,
+V|giraba la rueda
+V|y el agua pasaba.
+V|¡Porque llega tu boda,
+V|deja que relumbre el agua!
+P|MADRE (entrando).— ¡Por fin!
+P|¿Somos los primeros?
+P|No. Hace rato llegó Leonardo con su mujer. Corrieron como demonios. La mujer llegó muerta de miedo. Hicieron el camino como si hubieran venido a caballo.
+P|Ese busca la desgracia. No tiene buena sangre.
+P|¿Qué sangre va a tener? La de toda su familia. Mana de su bisabuelo, que empezó matando, y sigue en toda la mala ralea, manejadores de cuchillos y gente de falsa sonrisa.
+P|¡Vamos a dejarlo!
+P|¿Cómo lo va a dejar?
+P|Me duele hasta la punta de las venas. En la frente de todos ellos yo no veo más que la mano con que mataron a lo que era mío. ¿Tú me ves a mí? ¿No te parezco loca? Pues es loca de no haber gritado todo lo que mi pecho necesita. Tengo en mi pecho un grito siempre puesto de pie a quien tengo que castigar y meter entre los mantos. Pero me llevan a los muertos y hay que callar. Luego la gente critica. (Se quita el manto)
+P|Hoy no es día de que te acuerdes de esas cosas.
+P|Cuando sale la conversación, tengo que hablar. Y hoy más. Porque hoy me quedo sola en mi casa.
+P|En espera de estar acompañada.
+P|Esa es mi ilusión.— los nietos. (Se sientan.)
+P|Yo quiero que tengan muchos. Esta tierra necesita brazos que no sean pagados. Hay que sostener una batalla con las malas hierbas, con los cardos, con los pedruscos que salen no se sabe dónde. Y estos brazos tienen que ser de los dueños, que castiguen y que dominen, que hagan brotar las simientes. Se necesitan muchos hijos.
+P|¡Y alguna hija! ¡Los varones son del viento! Tienen por fuerza que manejar armas. Las niñas no salen jamás a la calle.
+P|PADRE (alegre).— Yo creo que tendrán de todo.
+P|Mi hijo la cubrirá bien. Es de buena simiente. Su padre pudo haber tenido conmigo muchos hijos.
+P|Lo que yo quisiera es que esto fuera cosa de un día. Que en seguida tuvieran dos o tres hombres.
+P|Pero no es así. Se tarda mucho. Por eso es tan terrible ver la sangre de una derramada por el suelo. Una fuente que corre un minuto y a nosotros nos ha costado años. Cuando yo llegué a ver a mi hijo, estaba tumbado en mitad de la calle. Me mojé las manos de sangre y me las lamí con la lengua. Porque era mía. Tú no sabes lo que es eso. En una custodia de cristal y topacios pondría yo la tierra empapada por ella.
+P|Ahora tienes que esperar. Mi hija es ancha y tu hijo es fuerte.
+P|Así espero. (Se levantan.)
+P|Prepara las bandejas de trigo.
+P|Están preparadas.
+P|MUJER DE LEONARDO (entrando).— ¡Que sea para bien!
+P|Gracias.
+P|¿Va a haber fiesta?
+P|Poca. La gente no puede entretenerse.
+P|¡Ya están aquí!
+S|(Van entrando invitados en alegres grupos. Entran los novios cogidos del brazo. Sale LEONARDO.)
+P|En ninguna boda se vio tanta gente.
+P|NOVIA (sombría).— En ninguna.
+P|Fue lucida.
+P|Ramas enteras de familias han venido.
+P|Gente que no salía de su casa.
+P|Tu padre sembró mucho y ahora lo recoges tú.
+P|Hubo primos míos que yo ya no conocía.
+P|Toda la gente de la costa.
+P|NOVIO (alegre).— Se espantaban de los caballos. (Hablan.)
+P|MADRE (a la NOVIA).— ¿Qué piensas?
+P|No pienso en nada.
+P|Las bendiciones pesan mucho. (Se oyen guitarras.)
+P|Como el plomo.
+P|MADRE (fuerte).— Pero no han de pesar. Ligera como paloma debes ser.
+P|¿Se queda usted aquí esta noche?
+P|No. Mi casa está sola.
+P|¡Debía usted quedarse!
+P|PADRE (a la MADRE).— Mira el baile que tienen formado. Bailes de allá de la orilla del mar.
+S|(Sale Leonardo y se sienta. Su mujer, detrás de él en actitud rígida.)
+P|Son los primos de mi marido. Duros como piedras para la danza.
+P|Me alegra el verlos. ¡Qué cambio para esta casa! (Se va.)
+P|NOVIO (a la NOVIA).— ¿Te gustó el azahar?
+P|NOVIA (mirándole fija).— Sí.
+P|Es todo de cera. Dura siempre. Me hubiera gustado que llevaras en todo el vestido.
+P|No hace falta. (Mutis LEONARDO por la derecha.)
+P|MUCHACHA 1ª.— Vamos a quitarle los alfileres.
+P|NOVIA (al NOVIO).– Ahora vuelvo.
+P|¡Que seas feliz con mi prima!
+P|Tengo seguridad.
+P|Aquí los dos; sin salir nunca y a levantar la casa. ¡Ojalá yo viviera también así de lejos!
+P|¿Por qué no compráis tierras? El monte es barato y los hijos se crían mejor.
+P|No tenemos dinero. ¡Y con el camino que llevamos!
+P|Tu marido es un buen trabajador.
+P|Sí, pero le gusta volar demasiado. Ir de una cosa a otra. No es hombre tranquilo.
+P|¿No tomáis nada? Te voy a envolver unos roscos de vino para tu madre, que a ella le gustan mucho.
+P|Ponle tres docenas.
+P|No, no. Con media tiene bastante.
+P|Un día es un día.
+P|MUJER (a la CRIADA).— ¿Y Leonardo?
+P|No lo vi.
+P|Debe estar con la gente.
+P|¡Voy a ver! (Se va.)
+P|Aquello está hermoso.
+P|¿Y tú no bailas?
+P|No hay quien me saque.
+S|(Pasan al fondo dos muchachas, durante todo este acto, el fondo será un animado cruce de figuras.)
+P|NOVIO (alegre).— Eso se llama no entender. Las viejas frescas como tú bailan mejor que las jóvenes.
+P|Pero ¿vas a echarme requiebros, niño? ¡Qué familia la tuya! ¡Machos entre los machos! Siendo niña vi la boda de tu abuelo. ¡Qué figura! Parecía como si se casara un monte.
+P|Yo tengo menos estatura.
+P|Pero el mismo brillo en los ojos. ¿Y la niña?
+P|Quitándose la toca.
+P|¡Ah! Mira. Para la medianoche, como no dormiréis, os he preparado jamón y unas copas grandes de vino antiguo. En la parte baja de la alacena. Por si lo necesitáis.
+P|NOVIO (sonriente).— No como a medianoche.
+P|CRIADA (con malicia).— Si tú no, la novia. (Se va.)
+P|MOZO 1° (entrando).— ¡Tienes que beber con nosotros!
+P|Estoy esperando a la novia.
+P|MOZO 2º.— ¡Ya la tendrás en la madrugada!
+P|MOZO 1°.— ¡Que es cuando más gusta!
+P|MOZO 2º.— Un momento.
+P|Vamos.
+S|(Salen. Se oye gran algazara. Sale la NOVIA. Por el lado opuesto salen dos MUCHACHAS corriendo a encontrarla.)
+P|MUCHACHA 1ª.— ¿A quién diste el primer alfiler, a mí o a ésta?
+P|No me acuerdo.
+P|MUCHACHA 1ª.— A mí me lo diste aquí.
+P|MUCHACHA 2ª.— A mí delante del altar.
+P|NOVIA (inquieta y con una gran lucha interior).— No sé nada.
+P|MUCHACHA 1ª.— Es que yo quisiera que tú...
+P|NOVIA (interrumpiendo)—Ni me importa. Tengo mucho que pensar.
+P|MUCHACHA 2ª.— Perdona. (LEONARDO cruza el fondo.)
+P|NOVIA (ve a LEONARDO).— Y estos momentos son agitados.
+P|MUCHACHA 1ª.— ¡Nosotras no sabemos nada!
+P|Ya lo sabréis cuando os llegue la hora. Estos pasos son pasos que cuestan mucho.
+P|MUCHACHA 1ª.— ¿Te ha disgustado?
+P|No. Perdonad vosotras.
+P|MUCHACHA 2ª.— ¿De qué? Pero los dos alfileres sirven para casarse, ¿verdad?
+P|Los dos.
+P|MUCHACHA 1ª.— Ahora, que una se casa antes que otra.
+P|¿Tantas ganas tenéis?
+P|MUCHACHA 2ª (vergonzosa).— Sí.
+P|¿Para qué?
+P|MUCHACHA 1ª.— Pues... (Abrazando a la segunda.)
+S|(Echan a correr las dos. Llega el NOVIO y, muy despacio, abraza a la NOVIA por detrás.)
+P|NOVIA (con gran sobresalto).— ¡Quita!
+P|¿Te asustas de mí?
+P|¡Ay! ¿Eras tú?
+P|¿Quién iba a ser? (Pausa.) Tu padre o yo.
+P|¡Es verdad!
+P|Ahora que tu padre te hubiera abrazado más blando.
+P|NOVIA (sombría).— ¡Claro!
+P|Porque es viejo. (La abraza fuertemente de un modo un poco brusco.)
+P|NOVIA (seca).— ¡Déjame!
+P|¿Por qué? (La deja.)
+P|Pues... la gente. Pueden vernos. (Vuelve a cruzar el fondo la CRIADA, que no mira a los novios.)
+P|¿Y qué? Ya es sagrado.
+P|Sí, pero déjame... Luego.
+P|¿Qué tienes? ¡Estás como asustada!
+P|No tengo nada. No te vayas. (Sale la MUJER DE LEONARDO.)
+P|No quiero interrumpir...
+P|Dime.
+P|¿Pasó por aquí mi marido?
+P|No.
+P|Es que no le encuentro y el caballo no está tampoco en el establo.
+P|NOVIO (alegre).— Debe estar dándole una carrera. (Se va la MUJER, inquieta. Sale la CRIADA.)
+P|¿No andáis satisfechos de tanto saludo?
+P|Yo estoy deseando que esto acabe. La novia está un poco cansada.
+P|¿Qué es eso, niña?
+P|¡Tengo como un golpe en las sienes!
+P|Una novia de estos montes debe ser fuerte. (Al NOVIO.) Tú eres el único que la puedes curar, porque tuya es. (Sale corriendo.)
+P|NOVIO (abrazándola).— Vamos un rato al baile. (La besa.)
+P|NOVIA (angustiada).— No. Quisiera echarme en la cama un poco.
+P|Yo te haré compañía.
+P|¡Nunca! ¿Con toda la gente aquí? ¿Qué dirían? Déjame sosegar un momento.
+P|¡Lo que quieras! ¡Pero no estés así por la noche!
+P|NOVIA (en la puerta).— A la noche estaré mejor.
+P|¡Que es lo que yo quiero!
+S|(Aparece la MADRE.)
+P|Hijo.
+P|¿Dónde anda usted?
+P|En todo ese ruido. ¿Estás contento?
+P|Sí.
+P|¿Y tu mujer?
+P|Descansa un poco. ¡Mal día para las novias!
+P|¿Mal día? El único bueno. Para mí fue como una herencia. (Entra la CRIADA y se dirige al cuarto de la NOVIA.) Es la roturación de las tierras, la plantación de árboles nuevos.
+P|¿Usted se va a ir?
+P|Sí. Yo tengo que estar en mi casa.
+P|Sola.
+P|Sola, no. Que tengo la cabeza llena de cosas y de hombres y de luchas.
+P|Pero luchas que ya no son luchas.
+S|(Sale la CRIADA rápidamente; desaparece corriendo por el fondo.)
+P|Mientras una vive, lucha.
+P|¡Siempre la obedezco!
+P|Con tu mujer procura estar cariñoso, y si la notas infautada o arisca, hazle una caricia que le produzca un poco de daño, un abrazo fuerte, un mordisco y luego un beso suave. Que ella no pueda disgustarse, pero que sienta que tú eres el macho, el amo, el que mandas. Así aprendí de tu padre. Y como no lo tienes, tengo que ser yo la que te enseñe estas fortalezas.
+P|Yo siempre haré lo que usted mande.
+P|PADRE (entrando).— ¿Y mi hija?
+P|Está dentro.
+P|MUCHACHA 1ª.— ¡Vengan los novios, que vamos a bailar la rueda!
+P|MOZO 1° (al NOVIO).— Tú la vas a dirigir
+P|PADRE (saliendo).— ¡Aquí no está!
+P|¿No?
+P|Debe haber subido a la baranda.
+P|¡Voy a ver! (Entra.)
+S|(Se oye algazara y guitarras.)
+P|MUCHACHA 1ª.— ¡Ya ha empezado! (Sale.)
+P|NOVIO (saliendo).— No está.
+P|MADRE (inquieta).— ¿No?
+P|¿Y adónde puede haber ido?
+P|CRIADA (entrando).— Y la niña, ¿donde está?
+P|MADRE (seria).— No lo sabemos.
+S|(Sale el NOVIO. Entran tres invitados.)
+P|PADRE (dramático).— Pero ¿no está en el baile?
+P|En el baile no está.
+P|PADRE (con arranque).— Hay mucha gente. ¡Mirad!
+P|¡Ya he mirado!
+P|PADRE (trágico).— ¿Pues dónde está?
+P|NOVIO (entrando).— Nada. En ningún sitio.
+P|MADRE (al PADRE).— ¿Qué es esto? ¿Dónde está tu hija?
+S|(Entra la MUJER DE LEONARDO.)
+P|¡Han huido! ¡Han huido! Ella y Leonardo. En el caballo. Van abrazados, como una exhalación.
+P|¡No es verdad! ¡Mi hija, no!
+P|¡Tu hija, sí! Planta de mala madre, y él, él también, él. Pero ¡ya es la mujer de mi hijo!
+P|NOVIO (entrando).— ¡Vamos detrás! ¿Quién tiene un caballo?
+P|¿Quién tiene un caballo ahora mismo, quién tiene un caballo? Que le daré todo lo que tengo, mis ojos y hasta mi lengua...
+P|Aquí hay uno.
+P|MADRE (al hijo).— ¡Anda! ¡Detrás! (Salen con dos mozos.) No. No vayas. Esa gente mata pronto y bien...; pero sí, ¡corre, y yo detrás!
+P|No será ella. Quizá se haya tirado al aljibe.
+P|Al agua se tiran las honradas, las limpias; ¡esa, no! Pero ya es mujer de mi hijo. Dos bandos. Aquí hay ya dos bandos. (Entran todos.) Mi familia y la tuya. Salid todos de aquí. Limpiarse el polvo de los zapatos. Vamos a ayudar a mi hijo. (La gente se separa en dos grupos.) Porque tiene gente; que son sus primos del mar y todos los que llegan de tierra adentro. ¡Fuera de aquí! Por todos los caminos. Ha llegado otra vez la hora de la sangre. Dos bandos. Tú con el tuyo y yo con el mío. ¡Atrás! ¡Atrás!
+H|Tercer Acto
+S|Cuadro Primero
+S|(Bosque. Es de noche. Grandes troncos húmedos. Ambiente oscuro. Se oyen dos violines. Salen tres LEÑADORES.)
+P|LEÑADOR 1°.— ¿Y los han encontrado?
+P|LEÑADOR 2°.— No. Pero los buscan por todas partes.
+P|LEÑADOR 3°.— Ya darán con ellos.
+P|LEÑADOR 2°.— ¡Chisss!
+P|LEÑADOR 3°.— ¿Qué?
+P|LEÑADOR 2°.— Parece que se acercan por todos los caminos a la vez.
+P|LEÑADOR 1°.— Cuando salga la luna los verán.
+P|LEÑADOR 2°.— Debían dejarlos.
+P|LEÑADOR 1°.— El mundo es grande. Todos pueden vivir de él.
+P|LEÑADOR 3°.— Pero los matarán.
+P|LEÑADOR 2°.— Hay que seguir la inclinación; han hecho bien en huir.
+P|LEÑADOR 1°.— Se estaban engañando uno a otro y al fin la sangre pudo más.
+P|LEÑADOR 3°.— ¡La sangre!
+P|LEÑADOR 1°.— Hay que seguir el camino de la sangre.
+P|LEÑADOR 2°.— Pero sangre que ve la luz se la bebe la tierra.
+P|LEÑADOR 1°.— ¿Y qué? Vale más ser muerto desangrado que vivo con ella podrida.
+S|LEÑADOR 3°.— Callar.
+P|LEÑADOR 1°.— ¿Qué? ¿Oyes algo?
+P|LEÑADOR 3°.— Oigo los grillos, las ranas, el acecho de la noche.
+P|LEÑADOR 1°.— Pero el caballo no se siente.
+S|LEÑADOR 3°.— No.
+P|LEÑADOR 1°.— Ahora la estará queriendo.
+P|LEÑADOR 2°.— El cuerpo de ella era para él y el cuerpo de él para ella.
+P|LEÑADOR 3°.— Los buscan y los matarán.
+P|LEÑADOR 1°.— Pero ya habrán mezclado sus sangres y serán como dos cántaros vacíos, como dos arroyos secos.
+P|LEÑADOR 2°.— Hay muchas nubes y será fácil que la luna no salga.
+P|LEÑADOR 3°.— El novio los encontrará con luna o sin luna. Yo lo vi salir. Como una estrella furiosa. La cara color ceniza. Expresaba el sino de su casta.
+P|LEÑADOR 1°.— Su casta de muertos en mitad de la calle.
+P|LEÑADOR 2°.— ¡Eso es!
+P|LEÑADOR 3°.— ¿Crees que ellos lograrán romper el cerco?
+P|LEÑADOR 2°.— Es difícil. Hay cuchillos y escopetas a diez leguas a la redonda.
+P|LEÑADOR 3°.— Él lleva buen caballo.
+P|LEÑADOR 2°.— Pero lleva una mujer.
+P|LEÑADOR 1°.— Ya estamos cerca.
+P|LEÑADOR 2°.— Un árbol de cuarenta ramas. Lo cortaremos pronto.
+P|LEÑADOR 3°.— Ahora sale la luna. Vamos a darnos prisa.
+S|(Por la izquierda surge una claridad.)
+V|LEÑADOR 1°.— ¡Ay luna que sales!
+V|Luna de las hojas grandes.
+P|LEÑADOR 2°.— ¡Llena de jazmines de sangre!
+V|LEÑADOR 1°.— ¡Ay luna sola!
+V|¡Luna de las verdes hojas!
+P|LEÑADOR 2°.— Plata en la cara de la novia.
+V|LEÑADOR 3°.— ¡Ay luna mala!
+V|Deja para el amor la oscura rama.
+V|LEÑADOR 1°.— ¡Ay triste luna!
+V|¡Deja para el amor la rama oscura!
+S|(Salen. Por la claridad de la izquierda aparece la LUNA. La LUNA es un leñador joven, con la cara blanca. La escena adquiere un vivo resplandor azul.)
+V|Cisne redondo en el río,
+V|ojo de las catedrales,
+V|alba fingida en las hojas
+V|soy; ¡no podrán escaparse!
+V|¿Quién se oculta? ¿Quién solloza
+V|por la maleza del valle?
+V|La luna deja un cuchillo
+V|abandonado en el aire,
+V|que siendo acecho de plomo
+V|quiere ser dolor de sangre.
+V|¡Dejadme entrar! ¡Vengo helada
+V|por paredes y cristales!
+V|¡Abrid tejados y pechos
+V|donde pueda calentarme!
+V|¡Tengo frío! Mis cenizas
+V|de soñolientos metales
+V|buscan la cresta del fuego
+V|por los montes y las calles.
+V|Pero me lleva la nieve
+V|sobre su espalda de jaspe,
+V|y me anega, dura y fría,
+V|el agua de los estanques.
+V|Pues esta noche tendrán
+V|mis mejillas roja sangre,
+V|y los juncos agrupados
+V|en los anchos pies del aire.
+V|¡No haya sombra ni emboscada.
+V|que no puedan escaparse!
+V|¡Que quiero entrar en un pecho
+V|para poder calentarme!
+V|¡Un corazón para mí!
+V|¡Caliente!, que se derrame
+V|por los montes de mi pecho;
+V|dejadme entrar, ¡ay, dejadme!
+S|(A las ramas.)
+V|No quiero sombras. Mis rayos
+V|han de entrar en todas partes,
+V|y haya en los troncos oscuros
+V|un rumor de claridades,
+V|para que esta noche tengan
+V|mis mejillas dulce sangre,
+V|y los juncos agrupados
+V|en los anchos pies del aire.
+V|¿Quién se oculta? ¡Afuera digo!
+V|¡No! ¡No podrán escaparse!
+V|Yo haré lucir al caballo
+V|una fiebre de diamante.
+S|(Desaparece entre los troncos y vuelve la escena a su luz oscura. Sale una anciana totalmente cubierta por tenues paños verdeoscuros. Lleva los pies descalzos. Apenas si se le verá el rostro entre los pliegues. Este personaje no figura en el reparto.)
+V|Esa luna se va, y ellos se acercan.
+V|De aquí no pasan. El rumor del río
+V|apagará con el rumor de troncos
+V|el desgarrado vuelo de los gritos.
+V|Aquí ha de ser, y pronto. Estoy cansada.
+V|Abren los cofres, y los blancos hilos
+V|aguardan por el suelo de la alcoba
+V|cuerpos pesados con el cuello herido.
+V|No se despierte un pájaro y la brisa,
+V|recogiendo en su falda los gemidos,
+V|huya con ellos por las negras copas
+V|o los entierre por el blanco limo.
+V|¡Esa luna, esa luna!
+S|(Impaciente.)
+P|¡Esa luna, esa luna!
+S|(Aparece la LUNA. Vuelve la luz intensa.)
+V|Ya se acercan.
+V|Unos por la cañada y otros por el río.
+V|Voy a alumbrar las piedras. ¿Qué necesitas?
+P|Nada.
+P|El aire va llegando duro, con doble filo.
+V|Ilumina el chaleco y aparta los botones,
+V|que después las navajas ya saben el camino.
+V|Pero que tarden mucho en morir. Que la sangre
+V|me ponga entre los dedos su delicado silbo.
+V|¡Mira que ya mis valles de ceniza despiertan
+V|en ansia de esta fuente de chorro estremecido!
+P|No dejemos que pasen el arroyo. ¡Silencio!
+P|¡Allí vienen! (Se va. Queda la escena a oscuras.)
+V|¡De prisa! Mucha luz. ¿Me has oído?
+V|¡No pueden escaparse!
+S|(Entran el NOVIO y MOZO 1°. La MENDIGA se sienta y se tapa con el manto.)
+P|Por aquí.
+P|MOZO 1°.— No los encontrarás.
+P|NOVIO (Enérgico.).— ¡Sí los encontraré!
+P|MOZO 1°.— Creo que se han ido por otra vereda.
+P|No. Yo sentí hace un momento el galope.
+P|MOZO 1°.— Sería otro caballo.
+P|NOVIO (Dramático.).— Oye. No hay más que un caballo en el mundo, y es este. ¿Te has enterado? Si me sigues, sígueme sin hablar.
+P|MOZO 1°.— Es que yo quisiera...
+P|Calla. Estoy seguro de encontrármelos aquí. ¿Ves este brazo? Pues no es mi brazo. Es el brazo de mi hermano y el de mi padre y el de toda mi familia que está muerta. Y tiene tanto poderío, que puede arrancar este árbol de raíz si quiere. Y vamos pronto, que siento los dientes de todos los míos clavados aquí de una manera que se me hace imposible respirar tranquilo.
+P|MENDIGA (Quejándose.).— ¡Ay!
+P|MOZO 1°.— ¿Has oído?
+P|Vete por ahí y da la vuelta.
+P|MOZO 1°.— Esto es una caza.
+P|Una caza. La más grande que se puede hacer.
+S|(Se va el MOZO. El NOVIO se dirige rápidamente hacia la izquierda y tropieza con la MENDIGA, la Muerte.)
+P|¡Ay!
+P|¿Qué quieres?
+P|Tengo frío.
+P|¿Adónde te diriges?
+P|MENDIGA (Siempre quejándose como una mendiga.).— Allá lejos...
+P|¿De dónde vienes?
+P|De allí.... de muy lejos.
+P|¿Viste un hombre y una mujer que corrían montados en un caballo?
+P|MENDIGA (Despertándose.).— Espera... (Lo mira.) Hermoso galán. (Se levanta.) Pero mucho más hermoso si estuviera dormido.
+P|Dime, contesta, ¿los viste?
+P|Espera... ¡Qué espaldas más anchas! ¿Cómo no te gusta estar tendido sobre ellas y no andar sobre las plantas de los pies, que son tan chicas?
+P|NOVIO (Zamarreándola.).— ¡Te digo si los viste! ¿Han pasado por aquí?
+P|MENDIGA (Enérgica.).— No han pasado; pero están saliendo de la colina. ¿No los oyes?
+P|No.
+P|¿Tú no conoces el camino?
+P|¡Iré, sea como sea!
+P|Te acompañaré. Conozco esta tierra.
+P|NOVIO (Impaciente.).— ¡Pero vamos! ¿Por dónde?
+P|MENDIGA (Dramática.).— ¡Por allí!
+S|(Salen rápidos. Se oyen lejanos dos violines que expresan el bosque. Vuelven los LEÑADORES. Llevan las hachas al hombro. Pasan lentos entre los troncos.)
+V|LEÑADOR 1°.— ¡Ay muerte que sales!
+V|Muerte de las hojas grandes.
+P|LEÑADOR 2°.— ¡No abras el chorro de la sangre!
+V|LEÑADOR 1°.— ¡Ay muerte sola!
+V|Muerte de las secas hojas.
+P|LEÑADOR 3°.— ¡No cubras de flores la boda!
+V|LEÑADOR 2°.— ¡Ay triste muerte!
+V|Deja para el amor la rama verde.
+V|LEÑADOR 1°.— ¡Ay muerte mala!
+V|¡Deja para el amor la verde rama!
+S|(Van saliendo mientras hablan. Aparecen LEONARDO y la NOVIA.)
+P|¡Calla!
+V|Desde aquí yo me iré sola.
+V|¡Vete! ¡Quiero que te vuelvas!
+P|¡Calla, digo!
+V|Con los dientes,
+V|con las manos, como puedas.
+V|quita de mi cuello honrado
+V|el metal de esta cadena,
+V|dejándome arrinconada
+V|allá en mi casa de tierra.
+V|Y si no quieres matarme
+V|como a víbora pequeña,
+V|pon en mis manos de novia
+V|el cañón de la escopeta.
+V|¡Ay, qué lamento, qué fuego
+V|me sube por la cabeza!
+V|¡Qué vidrios se me clavan en la lengua!
+V|Ya dimos el paso; ¡calla!
+V|porque nos persiguen cerca
+V|y te he de llevar conmigo.
+P|¡Pero ha de ser a la fuerza!
+V|¿A la fuerza? ¿Quién bajó
+V|primero las escaleras?
+P|Yo las bajé.
+V|¿Quién le puso
+V|al caballo bridas nuevas?
+P|Yo misma. Verdad.
+V|¿Y qué manos
+V|me calzaron las espuelas?
+V|Estas manos que son tuyas,
+V|pero que al verte quisieran
+V|quebrar las ramas azules
+V|y el murmullo de tus venas.
+V|¡Te quiero! ¡Te quiero! ¡Aparta!
+V|Que si matarte pudiera,
+V|te pondría una mortaja
+V|con los filos de violetas.
+V|¡Ay, qué lamento, qué fuego
+V|me sube por la cabeza!
+V|¡Qué vidrios se me clavan en la lengua!
+V|Porque yo quise olvidar
+V|y puse un muro de piedra
+V|entre tu casa y la mía.
+V|Es verdad. ¿No lo recuerdas?
+V|Y cuando te vi de lejos
+V|me eché en los ojos arena.
+V|Pero montaba a caballo
+V|y el caballo iba a tu puerta.
+V|Con alfileres de plata
+V|mi sangre se puso negra,
+V|y el sueño me fue llenando
+V|las carnes de mala hierba.
+V|Que yo no tengo la culpa,
+V|que la culpa es de la tierra
+V|y de ese olor que te sale
+V|de los pechos y las trenzas.
+V|¡Ay que sinrazón! No quiero
+V|contigo cama ni cena,
+V|y no hay minuto del día
+V|que estar contigo no quiera,
+V|porque me arrastras y voy,
+V|y me dices que me vuelva
+V|y te sigo por el aire
+V|como una brizna de hierba.
+V|He dejado a un hombre duro
+V|y a toda su descendencia
+V|en la mitad de la boda
+V|y con la corona puesta.
+V|Para ti será el castigo
+V|y no quiero que lo sea.
+V|¡Déjame sola! ¡Huye tú!
+V|No hay nadie que te defienda.
+V|Pájaros de la mañana
+V|por los árboles se quiebran.
+V|La noche se está muriendo
+V|en el filo de la piedra.
+V|Vamos al rincón oscuro,
+V|donde yo siempre te quiera,
+V|que no me importa la gente,
+V|ni el veneno que nos echa.
+S|(La abraza fuertemente.)
+V|Y yo dormiré a tus pies
+V|para guardar lo que sueñas.
+V|Desnuda, mirando al campo,
+V|como si fuera una perra,
+S|(Dramática.)
+V|¡porque eso soy! Que te miro
+V|y tu hermosura me quema.
+V|Se abrasa lumbre con lumbre.
+V|La misma llama pequeña
+V|mata dos espigas juntas.
+V|¡Vamos!
+S|(La arrastra.)
+P|¿Adónde me llevas?
+V|A donde no puedan ir
+V|estos hombres que nos cercan.
+V|¡Donde yo pueda mirarte!
+V|NOVIA (Sarcástica.).—
+V|Llévame de feria en feria,
+V|dolor de mujer honrada,
+V|a que las gentes me vean
+V|con las sábanas de boda
+V|al aire como banderas.
+V|También yo quiero dejarte
+V|si pienso como se piensa.
+V|Pero voy donde tú vas.
+V|Tú también. Da un paso. Prueba.
+V|Clavos de luna nos funden
+V|mi cintura y tus caderas.
+S|(Toda esta escena es violenta, llena de gran sensualidad.)
+P|¿Oyes?
+P|Viene gente.
+V|¡Huye!
+V|Es justo que yo aquí muera
+V|con los pies dentro del agua,
+V|espinas en la cabeza.
+V|Y que me lloren las hojas,
+V|mujer perdida y doncella.
+P|Cállate. Ya suben.
+P|¡Vete!
+V|Silencio. Que no nos sientan.
+V|Tú delante. ¡Vamos, digo!
+S|(Vacila la NOVIA.)
+P|¡Los dos juntos!
+V|LEONARDO (Abrazándola.).—
+V|¡Como quieras!
+V|Si nos separan, será
+V|porque esté muerto.
+P|Y yo muerta.
+S|(Salen abrazados. Aparece la LUNA muy despacio. La escena adquiere una fuerte luz azul. Se oyen los dos violines. Bruscamente se oyen dos largos gritos desgarrados y se corta la música de los violines. Al segundo grito aparece la MENDIGA y queda de espaldas. Abre el manto y queda en el centro, como un gran pájaro de alas inmensas. La LUNA se detiene. El telón baja en medio de un silencio absoluto.)
+S|Cuadro Segundo
+S|(Habitación blanca con arcos y gruesos muros. A la derecha y a la izquierda, escaleras blancas. Gran arco al fondo y pared del mismo color. El suelo será también de un blanco reluciente. Esta habitación simple tendrá un sentido monumental de iglesia. No habrá ni un gris, ni una sombra, ni siquiera lo preciso para la perspectiva. Dos muchachas vestidas de azul oscuro están devanando una madeja roja)
+V|MUCHACHA 1ª.— Madeja, madeja,
+V|¿qué quieres hacer?
+V|MUCHACHA 2ª.— Jazmín de vestido,
+V|cristal de papel.
+V|Nacer a las cuatro,
+V|morir a las diez.
+V|Ser hilo de lana,
+V|cadena a tus pies
+V|y nudo que apriete
+V|amargo laurel.
+V|NIÑA (Cantando.).—
+V|¿Fuiste a la boda?
+S|MUCHACHA 1.— No.
+V|¡Tampoco fui yo!
+V|¿Qué pasaría
+V|por los tallos de la viña?
+V|¿Qué pasaría
+V|por el ramo de la oliva?
+V|¿Qué pasó
+V|que nadie volvió?
+V|¿Fuiste a la boda?
+P|MUCHACHA 2ª.— Hemos dicho que no.
+P|NIÑA (Yéndose.).— ¡Tampoco fui yo!
+V|MUCHACHA 2ª.— Madeja, madeja
+V|¿qué quieres cantar?
+V|MUCHACHA 1ª.— Heridas de cera,
+V|dolor de arrayán.
+V|Dormir la mañana,
+V|de noche velar.
+V|NIÑA (en la puerta).—
+V|El hilo tropieza
+V|con el pedernal.
+V|Los montes azules
+V|lo dejan pasar.
+V|Corre, corre, corre.
+V|y al fin llegará
+V|a poner cuchillo
+V|y a quitar el pan.
+S|(Se va.)
+V|MUCHACHA 2ª.— Madeja. madeja,
+V|¿qué quieres decir?
+V|MUCHACHA 1ª.— Amante sin habla.
+V|Novio carmesí.
+V|Por la orilla muda
+V|tendidos los vi.
+S|(Se detiene mirando la madeja.)
+V|NIÑA (asomándose a la puerta).—
+V|Corre, corre, corre
+V|el hilo hasta aquí.
+V|Cubiertos de barro
+V|los siento venir.
+V|¡Cuerpos estirados,
+V|paños de marfil!
+S|(Se va.)
+S|(Aparece la MUJER y la SUEGRA DE LEONARDO. Llegan angustiadas.)
+P|MUCHACHA 1ª.— ¿Vienen ya?
+P|SUEGRA (agria).— No sabemos.
+P|MUCHACHA 2ª.— ¿Qué contáis de la boda?
+S|MUCHACHA 1ª.— Dime.
+P|SUEGRA (seca).— Nada.
+P|Quiero volver para saberlo todo.
+V|SUEGRA (enérgica).—
+V|Tú, a tu casa.
+V|Valiente y sola en tu casa.
+V|A envejecer y a llorar.
+V|Pero la puerta cerrada.
+V|Nunca. Ni muerto ni vivo.
+V|Clavaremos las ventanas.
+V|Y vengan lluvias y noches
+V|sobre las hierbas amargas.
+P|¿Qué habrá pasado?
+V|No importa.
+V|Échate un velo en la cara.
+V|Tus hijos son hijos tuyos
+V|nada más. Sobre la cama
+V|pon una cruz de ceniza
+V|donde estuvo su almohada.
+S|(Salen.)
+V|MENDIGA (a la puerta).—
+V|Un pedazo de pan, muchachas.
+P|¡Vete!
+S|(Las MUCHACHAS se agrupan.)
+P|¿Por qué?
+P|Porque tú gimes: vete.
+P|MUCHACHA 1ª.— ¡Niña!
+V|¡Pude pedir tus ojos! Una nube
+V|de pájaros me sigue; ¿quieres uno?
+P|¡Yo me quiero marchar!
+V|MUCHACHA 2ª (a la MENDIGA).—
+V|¡No le hagas caso!
+P|MUCHACHA 1ª.— ¿Vienes por el camino del arroyo?
+P|Por allí vine.
+V|MUCHACHA 1ª (tímida).—
+V|¿Puedo preguntarte?
+V|Yo los vi; pronto llegan: dos torrentes
+V|quietos al fin entre las piedras grandes,
+V|dos hombres en las patas del caballo.
+V|Muertos en la hermosura de la noche.
+S|(Con delectación.)
+P|Muertos sí, muertos.
+P|MUCHACHA 1ª.— ¡Calla, vieja, calla!
+V|Flores rotas los ojos, y sus dientes
+V|dos puñados de nieve endurecida.
+V|Los dos cayeron, y la novia vuelve
+V|teñida en sangre falda y cabellera.
+V|Cubiertos con dos mantas ellos vienen
+V|sobre los hombros de los mozos altos.
+V|Así fue; nada más. Era lo justo.
+V|Sobre la flor del oro, sucia arena.
+S|(Se va. Las MUCHACHAS inclinan la cabeza y rítmicamente van saliendo.)
+P|MUCHACHA 1ª.— Sucia arena.
+P|MUCHACHA 2ª.— Sobre la flor del oro.
+V|Sobre la flor del oro
+V|traen a los muertos del arroyo.
+V|Morenito el uno,
+V|morenito el otro.
+V|¡Qué ruiseñor de sombra vuela y gime
+V|sobre la flor del oro!
+S|(Se va. Queda la escena sola. Aparece la MADRE con una VECINA. La vecina viene llorando.)
+P|Calla.
+P|No puedo.
+P|Calla, he dicho. (En la puerta.) ¿No hay nadie aquí? (Se lleva las manos a la frente.) Debía contestarme mi hijo. Pero mi hijo es ya un brazado de flores secas. Mi hijo es ya una voz oscura detrás de los montes. (Con rabia, a la vecina.) ¿Te quieres callar? No quiero llantos en esta casa. Vuestras lágrimas son lágrimas de los ojos nada más, y las mías vendrán cuando yo esté sola, de las plantas de los pies, de mis raíces, y serán más ardientes que la sangre.
+P|Vente a mi casa; no te quedes aquí.
+P|Aquí. Aquí quiero estar. Y tranquila. Ya todos están muertos. A medianoche dormiré, dormiré sin que ya me aterren la escopeta o el cuchillo. Otras madres se asomarán a las ventanas, azotadas por la lluvia, para ver el rostro de sus hijos. Yo, no. Yo haré con mi sueño una fría paloma de marfil que lleve camelias de escarcha sobre el camposanto. Pero no; camposanto, no, camposanto, no; lecho de tierra, cama que los cobija y que los mece por el cielo. (Entra una mujer de negro que se dirige a la derecha y allí se arrodilla. A la VECINA.) Quítate las manos de la cara. Hemos de pasar días terribles. No quiero ver a nadie. La tierra y yo. Mi llanto y yo. Y estas cuatro paredes. ¡Ay! ¡Ay! (Se sienta transida.)
+P|Ten caridad de ti misma.
+P|MADRE (echándose el pelo hacia atrás).— He de estar serena. (Se sienta.) Porque vendrán las vecinas y no quiero que me vean tan pobre. ¡Tan pobre! Una mujer que no tiene un hijo siquiera que poderse llevar a los labios.
+S|(Aparece la NOVIA. Viene sin azahar y con un manto negro.)
+P|VECINA (viendo a la NOVIA, con rabia).— ¿Dónde vas?
+P|Aquí vengo.
+P|(A la VECINA) ¿Quién es?
+P|¿No la reconoces?
+P|Por eso pregunto quién es. Porque tengo que no reconocerla, para no clavarla mis dientes en el cuello. ¡Víbora! (Se dirige hacia la NOVIA con ademán fulminante; se detiene. A la VECINA.) ¿La ves? Está ahí, y está llorando, y yo quieta, sin arrancarle los ojos. No me entiendo. ¿Será que yo no quería a mi hijo? Pero, ¿y su honra? ¿Dónde está su honra? (Golpea a la NOVIA. Ésta cae al suelo.)
+P|¡Por Dios! (Trata de separarlas.)
+P|NOVIA (a la VECINA).— Déjala; he venido para que me mate y que me lleven con ellos. (A la MADRE.) Pero no con las manos; con garfios de alambre, con una hoz, y con fuerza, hasta que se rompa en mis huesos. ¡Déjala! Que quiero que sepa que yo soy limpia, que estaré loca, pero que me puedan enterrar sin que ningún hombre se haya mirado en la blancura de mis pechos.
+P|Calla, calla; ¿qué me importa eso a mí?
+P|¡Porque yo me fui con el otro, me fui! (Con angustia) Tú también te hubieras ido. Yo era una mujer quemada, llena de llagas por dentro y por fuera, y tu hijo era un poquito de agua de la que yo esperaba hijos, tierra, salud; pero el otro era un río oscuro, lleno de ramas, que acercaba a mí el rumor de sus juncos y su cantar entre dientes. Y yo corría con tu hijo que era como un niñito de agua, frío, y el otro me mandaba cientos de pájaros que me impedían el andar y que dejaban escarcha sobre mis heridas de pobre mujer marchita, de muchacha acariciada por el fuego. Yo no quería, ¡óyelo bien!; yo no quería, ¡óyelo bien! Yo no quería. ¡Tu hijo era mi fin y yo no lo he engañado, pero el brazo del otro me arrastró como un golpe de mar, como la cabezada de un mulo, y me hubiera arrastrado siempre, siempre, siempre, siempre, aunque hubiera sido vieja y todos los hijos de tu hijo me hubiesen agarrado de los cabellos! (Entra una VECINA.)
+P|Ella no tiene culpa, ¡ni yo! (Sarcástica.) ¿Quién la tiene, pues? ¡Floja, delicada, mujer de mal dormir es quien tira una corona de azahar para buscar un pedazo de cama calentado por otra mujer!
+P|¡Calla, calla! Véngate de mí; ¡aquí estoy! Mira que mi cuello es blando; te costará menos trabajo que segar una dalia de tu huerto. Pero ¡eso no! Honrada, honrada como una niña recién nacida. Y fuerte para demostrártelo. Enciende la lumbre. Vamos a meter las manos; tú por tu hijo; yo, por mi cuerpo. La retirarás antes tú. (Entra otra VECINA.)
+P|Pero ¿qué me importa a mí tu honradez? ¿Qué me importa tu muerte? ¿Qué me importa a mí nada de nada? Benditos sean los trigos, porque mis hijos están debajo de ellos; bendita sea la lluvia, porque moja la cara de los muertos. Bendito sea Dios, que nos tiende juntos para descansar. (Entra otra VECINA.)
+P|Déjame llorar contigo.
+P|Llora, pero en la puerta.
+S|(Entra la NIÑA. La NOVIA queda en la puerta. La MADRE en el centro de la escena.)
+V|MUJER (entrando y dirigiéndose a la izquierda).—
+V|Era hermoso jinete,
+V|y ahora montón de nieve.
+V|Corría ferias y montes
+V|y brazos de mujeres.
+V|Ahora, musgo de noche
+V|le corona la frente.
+V|Girasol de tu madre,
+V|espejo de la tierra.
+V|Que te pongan al pecho
+V|cruz de amargas adelfas;
+V|sábana que te cubra
+V|de reluciente seda,
+V|y el agua forme un llanto
+V|entre tus manos quietas.
+V|¡Ay, qué cuatro muchachos
+V|llegan con hombros cansados!
+V|¡Ay, qué cuatro galanes
+V|traen a la muerte por el aire!
+P|Vecinas.
+V|NIÑA (en la puerta).—
+V|Ya los traen.
+V|Es lo mismo.
+V|La cruz, la cruz.
+V|Mujeres.—
+V|Dulces clavos,
+V|dulce cruz,
+V|dulce nombre
+V|de Jesús.
+P|Que la cruz ampare a muertos y vivos.
+V|Vecinas.— con un cuchillo,
+V|con un cuchillito,
+V|en un día señalado, entre las dos y las tres,
+V|se mataron los dos hombres del amor.
+V|Con un cuchillo.
+V|con un cuchillito
+V|que apenas cabe en la mano,
+V|pero que penetra fino
+V|por las carnes asombradas
+V|y que se para en el sitio
+V|donde tiembla enmarañada
+V|la oscura raíz del grito.
+V|Y esto es un cuchillo,
+V|un cuchillito
+V|que apenas cabe en la mano;
+V|pez sin escamas ni río,
+V|para que un día señalado, entre las dos y las tres,
+V|con este cuchillo
+V|se queden dos hombres duros
+V|con los labios amarillos.
+V|Y apenas cabe en la mano.
+V|pero que penetra frío
+V|por las carnes asombradas
+V|y allí se para, en el sitio
+V|donde tiembla enmarañada
+V|la oscura raíz del grito.
+S|(Las vecinas, arrodilladas en el suelo, lloran.)

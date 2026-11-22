@@ -141,3 +141,5 @@
   .book-on .chapter-index[open] ol{max-height:50vh}
 }
 @media print{.chapter-index{display:none}}
+/* Títulos de cada poema dentro de una parte (obras con inner_titles: Poeta en Nueva York). */
+.reading .entry h3.inner-title{font:400 1.35em/1.2 var(--display,Georgia,serif);text-align:center;margin:2.2em 0 1em;break-after:avoid}

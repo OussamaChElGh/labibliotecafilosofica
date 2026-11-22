@@ -1,0 +1,3362 @@
+H|Acto I
+S|[En Nápoles en el palacio real]
+S|(Salen don JUAN Tenorio e ISABELA, duquesa)
+V|Duque Octavio, por aquí
+V|podrás salir más seguro.
+V|Duquesa, de nuevo os juro
+V|de cumplir el dulce sí.
+V|¿Mi gloria, serán verdades
+V|promesas y ofrecimientos,
+V|regalos y cumplimientos,
+V|voluntades y amistades?
+V|Sí, mi bien.
+V|Quiero sacar
+V|una luz.
+V|¿Pues, para qué?
+V|Para que el alma dé fe
+V|del bien que llego a gozar.
+V|Mataréte la luz yo.
+V|¡Ah, cielo! Quién eres, hombre?
+V|¿Quién soy? Un hombre sin nombre.
+V|¿Que no eres el duque?
+V|No.
+V|¡Ah de palacio!
+V|Detente.
+V|Dame, duquesa, la mano.
+V|No me detengas, villano.
+V|¡Ah del rey! ¡Soldados, gente!
+S|(Sale el REY de Nápoles, con una vela en un candelero)
+V|¿Qué es esto?
+V|¡Favor! ¡Ay, triste,
+V|que es el rey!
+V|¿Qué es?
+V|¿Qué ha de ser?
+V|Un hombre y una mujer.
+V|Esto en prudencia consiste.
+V|¡Ah de mi guarda! Prendé
+V|a este hombre.
+V|¡Ay, perdido honor!
+S|(Sale don PEDRO Tenorio, embajador de España, y GUARDA)
+V|¿En tu cuarto, gran señor
+V|voces? ¿Quién la causa fue?
+V|Don Pedro Tenorio, a vos
+V|esta prisión os encargo.
+V|Si ando corto, andad vos largo.
+V|Mirad quién son estos dos.
+V|Y con secreto ha de ser,
+V|que algún mal suceso creo;
+V|porque si yo aquí los veo,
+V|no me queda más que ver.
+S|(Vase el REY)
+V|Prendedle.
+V|¿Quién ha de osar?
+V|Bien puedo perder la vida;
+V|mas ha de ir tan bien vendida
+V|que a alguno le ha de pesar.
+V|Matadle.
+V|¿Quién os engaña?
+V|Resuelto en morir estoy,
+V|porque caballero soy.
+V|El embajador de España
+V|llegue solo, que ha de ser
+V|él quien me rinda.
+V|Apartad;
+V|a ese cuarto os retirad
+V|todos con esa mujer.
+S|(Vanse los otros)
+V|Ya estamos solos los dos;
+V|muestra aquí tu esfuerzo y brío.
+V|Aunque tengo esfuerzo, tío,
+V|no le tengo para vos.
+V|Di quién eres.
+V|Ya lo digo.
+V|Tu sobrino.
+V|¡Ay, corazón,
+V|que temo alguna traición!
+V|¿Qué es lo que has hecho, enemigo?
+V|¿Cómo estás de aquesta suerte?
+V|Dime presto lo que ha sido.
+V|¡Desobediente, atrevido!
+V|Estoy por darte la muerte.
+V|Acaba.
+V|Tío y señor,
+V|mozo soy y mozo fuiste;
+V|y pues que de amor supiste,
+V|tenga disculpa mi amor.
+V|Y pues a decir me obligas
+V|la verdad, oye y diréla.
+V|Yo engañé y gocé a Isabela
+V|la duquesa.
+V|No prosigas,
+V|tente. ¿Cómo la engañaste?
+V|Habla quedo, y cierra el labio.
+V|Fingí ser el duque Octavio.
+V|No digas más. ¡Calla! ¡Baste!
+V|Perdido soy si el rey sabe
+V|este caso. ¿Qué he de hacer?
+V|Industria me ha de valer
+V|en un negocio tan grave.
+V|Di, vil, ¿no bastó emprender
+V|con ira y fiereza extraña
+V|tan gran traición en España
+V|con otra noble mujer,
+V|sino en Nápoles también,
+V|y en el palacio real
+V|con mujer tan principal?
+V|¡Castíguete el cielo, amén!
+V|Tu padre desde Castilla
+V|a Nápoles te envió,
+V|y en sus márgenes te dio
+V|tierra la espumosa orilla
+V|del mar de Italia, atendiendo
+V|que el haberte recibido
+V|pagaras agradecido,
+V|y estás su honor ofendiendo.
+V|¡Y en tan principal mujer!
+V|Pero en aquesta ocasión
+V|nos daña la dilación.
+V|Mira qué quieres hacer.
+V|No quiero daros disculpa,
+V|que la habré de dar siniestra,
+V|mi sangre es, señor, la vuestra;
+V|sacadla, y pague la culpa.
+V|A esos pies estoy rendido,
+V|y ésta es mi espada, señor.
+V|Alzate, y muestra valor,
+V|que esa humildad me ha vencido.
+V|¿Atreveráste a bajar
+V|por ese balcón?
+V|Sí atrevo,
+V|que alas en tu favor llevo.
+V|Pues yo te quiero ayudar.
+V|Vete a Sicilia o Milán,
+V|donde vivas encubierto.
+V|Luego me iré.
+V|¿Cierto?
+V|Cierto.
+V|Mis cartas te avisarán
+V|en qué para este suceso
+V|triste, que causado has.
+V|Para mí alegre dirás.
+V|Que tuve culpa confieso.
+V|Esa mocedad te engaña.
+V|Baja por ese balcón.
+V|(Con tan justa pretensión,
+S|(Aparte)
+V|gozoso me parto a España).
+S|(Vase don JUAN y entra el REY)
+V|Ejecutando, señor,
+V|lo que mandó vuestra alteza,
+V|el hombre...
+V|¿Murió?
+V|Escapóse
+V|de las cuchillas soberbias.
+V|¿De qué forma?
+V|De esta forma:
+V|aun no lo mandaste apenas,
+V|cuando sin dar más disculpa,
+V|la espada en la mano aprieta,
+V|revuelve la capa al brazo,
+V|y con gallarda presteza,
+V|ofendiendo a los soldados
+V|y buscando su defensa,
+V|viendo vecina la muerte,
+V|por el balcón de la huerta
+V|se arroja desesperado.
+V|Siguióle con diligencia
+V|tu gente. Cuando salieron
+V|por esa vecina puerta,
+V|le hallaron agonizando
+V|como enroscada culebra.
+V|Levantóse, y al decir
+V|los soldados, "¡Muera, muera!",
+V|bañado con sangre el rostro,
+V|con tan heroica presteza
+V|se fue, que quedé confuso.
+V|La mujer, que es Isabela,
+V|que para admirarte nombro
+V|retirada en esa pieza,
+V|dice que fue el duque Octavio
+V|quien, con engaño y cautela,
+V|la gozó.
+V|¿Qué dices?
+V|Digo
+V|lo que ella propia confiesa.
+V|¡Ah, pobre honor! Si eres alma
+V|del hombre, ¿por qué te dejan
+V|en la mujer inconstante,
+V|si es la misma ligereza?
+V|¡Hola!
+S|(Sale un CRIADO)
+V|¿Gran señor?
+V|Traed
+V|delante de mi presencia
+V|esa mujer.
+V|Ya la guardia
+V|viene, gran señor, con ella.
+S|(Trae la GUARDA a ISABELA)
+V|¿Con qué ojos veré al rey?
+V|Idos, y guardad la puerta
+V|de esa cuadra. Di, mujer,
+V|¿qué rigor, qué airada estrella
+V|te incitó, que en mi palacio,
+V|con hermosura y soberbia,
+V|profanases sus umbrales?
+V|Señor...
+V|Calla, que la lengua
+V|no podrá dorar el yerro
+V|que has cometido en mi ofensa.
+V|¿Aquél era del duque Octavio?
+V|Sí, señor.
+V|No importan fuerzas,
+V|guardas, criados, murallas,
+V|fortalecidas almenas,
+V|para amor, que la de un niño
+V|hasta los muros penetra.
+V|Don Pedro Tenorio, al punto
+V|a esa mujer llevad presa
+V|a una torre, y con secreto
+V|haced que al duque le prendan;
+V|que quiero hacer que le cumpla
+V|la palabra, o la promesa.
+V|Gran señor, volvedme el rostro.
+V|Ofensa a mi espalda hecha,
+V|es justicia y es razón
+V|castigalla a espaldas vueltas.
+S|(Vase el REY)
+V|Vamos, duquesa.
+V|(Mi culpa
+S|(Aparte)
+V|no hay disculpa que la venza,
+V|mas no será el yerro tanto
+V|si el duque Octavio lo enmienda).
+S|(Vanse todos)
+S|[En el palacio del duque Octavio]
+S|(Salen el duque OCTAVIO, y RIPIO su criado)
+V|¿Tan de mañana, señor,
+V|te levantas?
+V|No hay sosiego
+V|que pueda apagar el fuego
+V|que enciende en mi alma amor.
+V|Porque, como al fin es niño,
+V|no apetece cama blanda,
+V|entre regalada holanda,
+V|cubierta de blanco armiño.
+V|Acuéstase. No sosiega.
+V|Siempre quiere madrugar
+V|por levantarse a jugar,
+V|que al fin como niño juega.
+V|Pensamientos de Isabela
+V|me tienen, amigo, en calma;
+V|que como vive en el alma,
+V|anda el cuerpo siempre en vela,
+V|guardando ausente y presente,
+V|el castillo del honor.
+V|Perdóname, que tu amor
+V|es amor impertinente.
+V|¿Qué dices, necio?
+V|Esto digo,
+V|impertinencia es amar
+V|como amas. ¿Vas a escuchar?
+V|Sí, prosigue.
+V|Ya prosigo.
+V|¿Quiérete Isabela a ti?
+V|¿Eso, necio, has de dudar?
+V|No, mas quiero preguntar,
+V|¿Y tú no la quieres?
+V|Sí.
+V|Pues, ¿no seré majadero,
+V|y de solar conocido,
+V|si pierdo yo mi sentido
+V|por quien me quiere y la quiero?
+V|Si ella a ti no te quisiera,
+V|fuera bien el porfialla,
+V|regalalla y adoralla,
+V|y aguardar que se rindiera;
+V|mas si los dos os queréis
+V|con una mesma igualdad,
+V|dime, ¿hay más dificultad
+V|de que luego os desposéis?
+V|Eso fuera, necio, a ser
+V|de lacayo o lavandera
+V|la boda.
+V|Pues, ¿es quien quiera
+V|una lavandriz mujer,
+V|lavando y fregatrizando,
+V|defendiendo y ofendiendo,
+V|los paños suyos tendiendo,
+V|regalando y remendando?
+V|Dando, dije, porque al dar
+V|no hay cosa que se le iguale,
+V|y si no, a Isabela dale,
+V|a ver si sabe tomar.
+S|(Sale un CRIADO)
+V|El embajador de España
+V|en este punto se apea
+V|en el zaguán, y desea,
+V|con ira y fiereza extraña,
+V|hablarte, y si no entendí
+V|yo mal, entiendo es prisión.
+V|¿Prisión? Pues, ¿por qué ocasión?
+V|Decid que entre.
+S|(Entra Don PEDRO Tenorio con guardas)
+V|Quien así
+V|con tanto descuido duerme,
+V|limpia tiene la conciencia.
+V|Cuando viene vueselencia
+V|a honrarme y favorecerme,
+V|no es justo que duerma yo.
+V|Velaré toda mi vida.
+V|¿a qué y por qué es la venida?
+V|Porque aquí el rey me envió.
+V|Si el rey mi señor se acuerda
+V|de mí en aquesta ocasión,
+V|será justicia y razón
+V|que por él la vida pierda.
+V|Decidme, señor, ¿qué dicha
+V|o qué estrella me ha guiado,
+V|que de mí el rey se ha acordado?
+V|Fue, duque, vuestra desdicha.
+V|Embajador del rey soy.
+V|De él os traigo una embajada.
+V|Marqués, no me inquieta nada.
+V|Decid, que aguardando estoy.
+V|A prenderos me ha enviado
+V|el rey. No os alborotéis.
+V|¿Vos por el rey me prendéis?
+V|Pues, ¿en qué he sido culpado?
+V|Mejor lo sabéis que yo,
+V|mas, por si acaso me engaño,
+V|escuchad el desengaño,
+V|y a lo que el rey me envió.
+V|Cuando los negros gigantes,
+V|plegando funestos toldos
+V|ya del crepúsculo huían,
+V|unos tropezando en otros,
+V|estando yo con su alteza,
+V|tratando ciertos negocios,
+V|porque antípodas del sol
+V|son siempre los poderosos,
+V|voces de mujer oímos,
+V|cuyos ecos medio roncos,
+V|por los artesones sacros
+V|nos repitieron "¡Socorro!"
+V|A las voces y al ruido
+V|acudió, duque, el rey propio,
+V|halló a Isabela en los brazos
+V|de algún hombre poderoso;
+V|mas quien al cielo se atreve
+V|sin duda es gigante o monstruo.
+V|Mandó el rey que los prendiera,
+V|quedé con el hombre solo.
+V|Llegué y quise desarmalle,
+V|pero pienso que el demonio
+V|en él formó forma humana,
+V|pues que, vuelto en humo, y polvo,
+V|se arrojó por los balcones,
+V|entre los pies de esos olmos,
+V|que coronan del palacio
+V|los chapiteles hermosos.
+V|Hice prender la duquesa,
+V|y en la presencia de todos
+V|dice que es el duque Octavio
+V|el que con mano de esposo
+V|la gozó.
+V|¿Qué dices?
+V|Digo
+V|lo que al mundo es ya notorio,
+V|y que tan claro se sabe,
+V|que a Isabela, por mil modos,
+V|[la tiene presa el rey].
+V|Con vos, señor, o con otro,
+V|esta noche en el palacio,
+V|la habemos hallado todos.
+V|Dejadme, no me digáis
+V|tan gran traición de Isabela,
+V|mas... ¿si fue su amor cautela?
+V|Proseguid, ¿por qué calláis?
+V|(Mas, si veneno me dais
+S|(Aparte)
+V|a un firme corazón toca,
+V|y así a decir me provoca
+V|que imita a la comadreja,
+V|que concibe por la oreja,
+V|para parir por la boca.
+V|¿Será verdad que Isabela,
+V|alma, se olvidó de mí
+V|para darme muerte? Sí,
+V|que el bien suena y el mal vuela.
+V|Ya el pecho nada recela,
+V|juzgando si son antojos,
+V|que por darme más enojos,
+V|al entendimiento entró,
+V|y por la oreja escuchó,
+V|lo que acreditan los ojos.
+V|Señor marqués, es posible
+V|que Isabela me ha engañado,
+V|y que mi amor ha burlado.
+V|Parece cosa imposible.
+V|¡Oh mujer, ley tan terrible
+V|de honor, a quien me provoco
+V|a emprender! Mas ya no toco
+V|en tu honor esta cautela.
+V|¿Anoche con Isabela
+V|hombre en palacio? Estoy loco.
+V|Como es verdad que en los vientos
+V|hay aves, en el mar peces,
+V|que participan a veces
+V|de todos cuatro elementos;
+V|como en la gloria hay contentos,
+V|lealtad en el buen amigo,
+V|traición en el enemigo,
+V|en la noche oscuridad,
+V|y en el día claridad,
+V|y así es verdad lo que digo.
+V|Marqués, yo os quiero creer,
+V|ya no hay cosa que me espante,
+V|que la mujer más constante
+V|es, en efecto, mujer.
+V|No me queda más que ver,
+V|pues es patente mi agravio.
+V|Pues que sois prudente y sabio
+V|elegid el mejor medio.
+V|Ausentarme es mi remedio.
+V|Pues sea presto, duque Octavio.
+V|Embarcarme quiero a España,
+V|y darle a mis males fin.
+V|Por la puerta del jardín,
+V|duque, esta prisión se engaña.
+V|¡Ah veleta, ah débil caña!
+V|A más furor me provoco,
+V|y extrañas provincias toco,
+V|huyendo de esta cautela.
+V|Patria, adiós. ¿Con Isabela
+V|hombre en palacio? Estoy loco.
+S|(Vanse todos)
+S|[En la playa de Tarragona]
+S|(Sale TISBEA, pescadora, con una caña de pescar en la mano)
+V|Yo, de cuantas el mar,
+V|pies de jazmín y rosas,
+V|en sus riberas besa,
+V|con fugitivas olas,
+V|sola de amor exenta,
+V|como en ventura sola,
+V|tirana me reservo
+V|de sus prisiones locas.
+V|Aquí donde el sol pisa
+V|soñolientas las ondas,
+V|alegrando zafiros
+V|las que espantaba sombras,
+V|por la menuda arena,
+V|unas veces aljófar,
+V|y átomos otras veces
+V|del sol, que así le adora,
+V|oyendo de las aves
+V|las quejas amorosas,
+V|y los combates dulces
+V|del agua entre las rocas,
+V|ya con la sutil caña,
+V|que el débil peso dobla
+V|del tierno pececillo,
+V|que el mar salado azota,
+V|o ya con la atarraya,
+V|que en sus moradas hondas
+V|prende en cuantos habitan
+V|aposentos de conchas,
+V|seguramente tengo
+V|que en libertad se goza
+V|el alma, que amor áspid
+V|no le ofende ponzoña.
+V|En pequeñuelo esquife,
+V|ya en compañía de otras,
+V|tal vez al mar le peino
+V|la cabeza espumosa.
+V|Y cuando más perdidas
+V|querellas de amor forman,
+V|como de todos río
+V|envidia soy de todas.
+V|Dichosa yo mil veces,
+V|Amor, pues me perdonas,
+V|si ya por ser humilde
+V|no desprecias mi choza.
+V|Obeliscos de paja
+V|mi edificio coronan,
+V|nidos, si no a cigüeñas,
+V|a tortolillas locas.
+V|Mi honor conservo en pajas
+V|como fruta sabrosa,
+V|vidrio guardado en ellas
+V|para que no se rompa.
+V|De cuantos pescadores
+V|con fuego Tarragona
+V|de piratas defiende
+V|en la argentada costa,
+V|desprecio soy, encanto,
+V|a sus suspiros sorda,
+V|a sus ruegos terrible,
+V|a sus promesas roca.
+V|Anfriso, a quien el cielo,
+V|con mano poderosa,
+V|prodigó un cuerpo y alma
+V|dotado en gracias todas,
+V|medido en las palabras,
+V|liberal en las obras,
+V|sufrido en los desdenes,
+V|modesto en las congojas,
+V|mis pajizos umbrales,
+V|que heladas noches ronda,
+V|a pesar de los tiempos
+V|las mañanas remoza,
+V|pues con los ramos verdes,
+V|que de los olmos corta,
+V|cubiertos amanecen
+V|de flores sin lisonjas.
+V|Ya con vigüelas dulces,
+V|y sutiles zampoñas,
+V|músicas me consagra,
+V|y todo no le importa,
+V|porque en tirano imperio
+V|vivo de amor señora,
+V|que halla gusto en sus penas,
+V|y en sus infiernos gloria.
+V|Todas por él se mueren,
+V|y yo, todas las horas,
+V|le mato con desdenes,
+V|de amor condición propia;
+V|querer donde aborrecen,
+V|despreciar donde adoran,
+V|que si le alegran muere,
+V|y vive si le oprobian.
+V|En tan alegre día,
+V|segura de lisonjas,
+V|mis juveniles años
+V|amor no los malogra;
+V|que en edad tan florida,
+V|Amor, no es suerte poca,
+V|no ver, tratando en redes,
+V|las tuyas amorosas.
+V|Pero, necio discurso,
+V|que mi ejercicio estorbas,
+V|en él no me diviertas
+V|en cosa que no importa.
+V|Quiero entregar la caña
+V|al viento, y a la boca
+V|del pececillo el cebo.
+V|¡Pero al agua se arrojan
+V|dos hombres de una nave,
+V|antes que el mar la sorba,
+V|que sobre el agua viene,
+V|y en un escollo aborda!
+V|Como hermoso pavón
+V|hacen las velas ola,
+V|adonde los pilotos
+V|todos los ojos pongan.
+V|Las olas va escarbando,
+V|y ya su orgullo y pompa
+V|casi la desvanece,
+V|agua un costado toma.
+V|Hundióse, y dejó al viento
+V|la gavia, que la escoja
+V|para morada suya,
+V|que un loco en gavias mora.
+S|(Dentro gritos de "¡Que me ahogo!")
+V|Un hombre al otro aguarda,
+V|que dice que se ahoga.
+V|¡Gallarda cortesía,
+V|en los hombros le toma!
+V|Anquises le hace Eneas
+V|si el mar está hecho Troya.
+V|Ya nadando, las aguas
+V|con valentía corta,
+V|y en la playa no veo
+V|quien lo ampare y socorra.
+V|Daré voces. ¡Tirso,
+V|Anfriso, Alfredo, hola!
+V|Pescadores me miran,
+V|plega a Dios que me oigan,
+V|mas milagrosamente
+V|ya tierra los dos toman,
+V|sin aliento el que nada,
+V|con vida el que le estorba.
+S|(Saca en brazos CATALINON a don JUAN, mojados)
+V|¡Válgame la Cananea,
+V|y qué salado es el mar!
+V|Aquí puede bien nadar
+V|el que salvarse desea,
+V|que allá dentro es desatino
+V|donde la muerte se fragua.
+V|Donde Dios juntó tanta agua
+V|¿no juntara tanto vino?
+V|Agua, y salada. Extremada
+V|cosa para quien no pesca.
+V|Si es mala aun el agua fresca,
+V|¿qué será el agua salada?
+V|¡Oh, quién hallara una fragua
+V|de vino, aunque algo encendido!
+V|Si del agua que he bebido
+V|hoy escapo, no más agua.
+V|Desde hoy abrenuncio de ella,
+V|que la devoción me quita
+V|tanto, que aun agua bendita
+V|no pienso ver, por no vella.
+V|¿Ah señor! Helado y frío
+V|está. ¿Si estará ya muerto?
+V|Del mar fue este desconcierto,
+V|y mío este desvarío.
+V|¡Mal haya aquél que primero
+V|pinos en el mar sembró
+V|y el que sus rumbos midió
+V|con quebradizo madero!
+V|¡Maldito sea el vil sastre
+V|que cosió el mar que dibuja
+V|con astronómica aguja,
+V|causando tanto desastre!
+V|¡Maldito sea Jasón,
+V|y Tifis maldito sea!
+V|Muerto está. No hay quien lo crea.
+V|¡Mísero Catalinón!
+V|¿Qué he de hacer?
+V|Hombre, ¿qué tienes?
+V|En desventura iguales,
+V|pescadora, muchos males,
+V|y falta de muchos bienes.
+V|Veo, por librarme a mí,
+V|sin vida a mi señor. Mira
+V|si es verdad.
+V|No, que aun respira.
+V|¿Por dónde, por aquí?
+V|Sí,
+V|pues, ¿por dónde...?
+V|Bien podía
+V|respirar por otra parte.
+V|Necio estás.
+V|Quiero besarte
+V|las manos de nieve fría.
+V|Ve a llamar los pescadores
+V|que en aquella choza están.
+V|¿Y si los llamo, ¿vendrán?
+V|Vendrán preso, no lo ignores.
+V|¿Quién es este caballero?
+V|Es hijo aqueste señor
+V|del camarero mayor
+V|del rey, por quien ser espero
+V|antes de seis días Conde
+V|en Sevilla, a donde va,
+V|y adonde su alteza está,
+V|si a mi amistad corresponde.
+V|¿Cómo se llama?
+V|Don Juan
+V|Tenorio.
+V|Llama mi gente.
+V|Ya voy.
+S|(Vase CATALINON. Coge en el regazo TISBEA a don JUAN)
+V|Mancebo excelente,
+V|gallardo, noble y galán.
+V|Volved en vos, caballero.
+V|¿Dónde estoy?
+V|Ya podéis ver,
+V|en brazos de una mujer.
+V|Vivo en vos, si en el mar muero.
+V|Ya perdí todo el recelo
+V|que me pudiera anegar,
+V|pues del infierno del mar
+V|salgo a vuestro claro cielo.
+V|Un espantoso huracán
+V|dio con mi nave al través,
+V|para arrojarme a esos pies,
+V|que abrigo y puerto me dan,
+V|y en vuestro divino oriente
+V|renazco, y no hay que espantar,
+V|pues veis que hay de amar a mar
+V|una letra solamente.
+V|Muy grande aliento tenéis
+V|para venir sin aliento,
+V|y tras de tanto tormento,
+V|mucho contento ofrecéis;
+V|pero si es tormento el mar,
+V|y son sus ondas crueles,
+V|la fuerza de los cordeles,
+V|pienso que os hacen hablar.
+V|Sin duda que habéis bebido
+V|del mar la ración pasada,
+V|pues por ser de agua salada
+V|con tan grande sal ha sido.
+V|Mucho habláis cuando no habláis,
+V|y cuando muerto venís,
+V|mucho al parecer sentís,
+V|plega a Dios que no mintáis.
+V|Parecéis caballo griego,
+V|que el mar a mis pies desagua,
+V|pues venís formado de agua,
+V|y estáis preñado de fuego.
+V|Y si mojado abrasáis,
+V|estando enjuto, ¿qué haréis?
+V|Mucho fuego prometéis,
+V|plega a Dios que no mintáis.
+V|A Dios, zagala, pluguiera
+V|que en el agua me anegara,
+V|para que cuerdo acabara,
+V|y loco en vos no muriera;
+V|que el mar pudiera anegarme
+V|entre sus olas de plata,
+V|que sus límites desata,
+V|mas no pudiera abrasarme.
+V|Gran parte del sol mostráis,
+V|pues que el sol os da licencia,
+V|pues sólo con la apariencia,
+V|siendo de nieve abrasáis.
+V|Por más helado que estáis,
+V|tanto fuego en vos tenéis,
+V|que en este mío os ardéis,
+V|plega a Dios que no mintáis.
+S|(Sale CATALINON, CORIDON y ANFRISO, pescadores)
+V|Ya vienen todos aquí.
+V|Y ya está tu fuego vivo.
+V|Con tu presencia recibo
+V|el aliento que perdí.
+V|¿Qué nos mandas?
+V|Coridón,
+V|Anfriso, amigos...
+V|Todos
+V|buscamos por varios modos
+V|esta dichosa ocasión.
+V|Di qué nos mandas, Tisbea,
+V|que por labios de clavel
+V|no lo habrás mandado a aquél
+V|que idolotrarte desea,
+V|apenas, cuando al momento,
+V|sin reservar llanto, o sierra,
+V|surque el mar, are la tierra,
+V|tale el fuego y pare el viento.
+V|¡Oh, qué mal me parecía
+V|estas lisonjas ayer,
+V|y hoy echo en ellas de ver
+V|que sus labios no mentían!
+V|Estando, amigos, pescando
+V|sobre este peñasco, vi
+V|hundirse una nave allí,
+V|y entre las olas nadando
+V|dos hombres, y compasiva
+V|di voces que nadie oyó;
+V|y en tanta aflicción llegó
+V|libre de la furia esquiva
+V|del mar, sin vida a la arena,
+V|de éste en los hombros cargado,
+V|un hidalgo, ya anegado;
+V|y envuelta en tan triste pena,
+V|a llamaros envié.
+V|Pues aquí todos estamos,
+V|manda que en tu gusto hagamos,
+V|lo que pensado no fue.
+V|Que a mi choza los llevemos
+V|quiero, donde guarecidos
+V|reparemos sus vestidos
+V|y a ellos los regalemos,
+V|que mi padre gusta mucho
+V|de esta debida piedad.
+V|Extremada es su beldad.
+V|Escucha aparte.
+V|Ya escucho.
+V|Si te pregunta quién soy,
+V|di que no sabes.
+V|¿A mí
+V|quieres advertirme aquí
+V|lo que he de hacer?
+V|Muerto voy
+V|por la hermosa pescadora.
+V|Esta noche he de gozalla.
+V|¿De qué suerte?
+V|Ven y calla.
+V|Anfriso, dentro de un hora
+V|los pescadores prevén
+V|que cantan y bailan.
+V|Vamos,
+V|y esta noche nos hagamos
+V|rajas, y paños también.
+V|Muerto soy.
+V|¿Cómo, si andáis?
+V|Ando en pena, como veis.
+V|Mucho habláis.
+V|Mucho encendéis.
+V|Plega a Dios que no mintáis.
+S|(Vanse todos)
+S|[En Sevilla, en el palacio real]
+S|(Salen don GONZALO de Ulloa y el REY don Alonso de Castilla)
+V|¿Cómo os ha sucedido en la embajada,
+V|comendador mayor?
+V|Hallé en Lisboa
+V|al rey don Juan tu primo, previniendo
+V|treinta naves de armada.
+V|¿Y para dónde?
+V|Para Goa me dijo, mas yo entiendo
+V|que a otra empresa más fácil apercibe;
+V|a Ceuta, o Tánger pienso que pretende
+V|cercar este verano.
+V|Dios le ayude,
+V|y premie el cielo de aumentar su gloria.
+V|¿Qué es lo que concertasteis?
+V|Señor, pide
+V|a Cerpa, y Mora, y Olivencia, y Toro,
+V|y por eso te vuelve a Villaverde,
+V|al Almendral, a Mértola, y Herrera
+V|entre Castilla y Portugal.
+V|Al punto
+V|se firman los conciertos, don Gonzalo;
+V|mas decidme primero cómo ha ido
+V|en el camino, que vendréis cansado,
+V|y alcanzado también.
+V|Para serviros,
+V|nunca, señor, me canso.
+V|¿Es buena tierra
+V|Lisboa?
+V|La mayor ciudad de España.
+V|Y si mandas que diga lo que he visto
+V|de lo exterior y célebre, en un punto
+V|en tu presencia te podré un retrato.
+V|Gustaré de oíllo. Dadme silla.
+V|Es Lisboa una octava maravilla.
+V|De las entrañas de España,
+V|que son las tierras de Cuenca,
+V|nace el caudaloso Tajo,
+V|que media España atraviesa.
+V|Entra en el mar Oceano,
+V|en las sagradas riberas
+V|de esta ciudad por la parte
+V|del sur; mas antes que pierda
+V|su curso y su claro nombre
+V|hace un cuarto entre dos sierras
+V|donde están de todo el orbe
+V|barcas, naves, caravelas.
+V|Hay galeras y saetías,
+V|tantas que desde la tierra
+V|para una gran ciudad
+V|adonde Neptuno reina.
+V|A la parte del poniente,
+V|guardan del puerto dos fuerzas,
+V|de Cascaes y Sangián,
+V|las más fuertes de la tierra.
+V|Está de esta gran ciudad,
+V|poco más de media legua,
+V|Belén, convento del santo
+V|conocido por la piedra
+V|y por el león de guarda,
+V|donde los reyes y reinas,
+V|católicos y cristianos,
+V|tienen sus casa perpetuas.
+V|Luego esta máquina insigne,
+V|desde Alcántara comienza
+V|una gran legua a tenderse
+V|al convento de Jabregas.
+V|En medio está el valle hermoso
+V|coronado de tres cuestas,
+V|que quedara corto Apeles
+V|cuando pintarlas quisiera,
+V|porque miradas de lejos
+V|parecen piñas de perlas,
+V|que están pendientes del cielo,
+V|en cuya grandeza inmensa
+V|se ven diez Romas cifradas
+V|en conventos y en iglesias,
+V|en edificios y calles,
+V|en solares y encomiendas,
+V|en las letras y en las armas,
+V|en la justicia tan recta,
+V|y en una Misericordia,
+V|que está honrando su ribera,
+V|y pudiera honrar a España,
+V|y aun enseñar a tenerla.
+V|Y en lo que yo más alabo
+V|de esta máquina soberbia,
+V|es que del mismo castillo,
+V|en distancia de seis leguas,
+V|se ven sesenta lugares
+V|que llega el mar a sus puertas,
+V|uno de los cuales es
+V|el Convento de Olivelas,
+V|en el cual vi por mis ojos
+V|seiscientas y treinta celdas,
+V|y entre monjas y beatas,
+V|pasan de mil y doscientas.
+V|Tiene desde allí a Lisboa,
+V|en distancia muy pequeña,
+V|mil y ciento y treinta quintas,
+V|que en nuestra provincia Bética
+V|llaman cortijos, y todas
+V|con sus huertos y alamedas.
+V|En medio de la ciudad
+V|hay una plaza soberbia,
+V|que se llama del Ruzio,
+V|grande, hermosa, y bien dispuesta,
+V|que habrá cien años y aun más
+V|que el mar bañaba su arena,
+V|y agora de ella a la mar,
+V|hay treinta mil casas hechas,
+V|que perdiendo el mar su curso,
+V|se tendió a partes diversas.
+V|Tiene una calle que llaman
+V|Rúa Nova, o calle nueva,
+V|donde se cifra el oriente
+V|en grandezas y riquezas,
+V|tanto que el rey me contó
+V|que hay un mercader en ella,
+V|que por no poder contarlo,
+V|mide el dinero a fanegas.
+V|El terrero, donde tiene
+V|Portugal su casa regia
+V|tiene infinitos navíos,
+V|varados siempre en la tierra,
+V|de solo cebada y trigo,
+V|de Francia y Ingalaterra.
+V|Pues, el palacio real,
+V|que el Tajo sus manos besa,
+V|es edificio de Ulises,
+V|que basta para grandeza,
+V|de quien toma la ciudad
+V|nombre en la latina lengua,
+V|llamándose Ulisibona,
+V|cuyas armas son la esfera,
+V|por pedestal de las llagas,
+V|que, en la batalla sangrienta,
+V|al rey don Alfonso Enríquez
+V|dio la majestad inmensa.
+V|Tiene en su gran Tarazana
+V|diversas naves, y entre ellas
+V|las naves de la conquista,
+V|tan grandes, que de la tierra
+V|miradas, juzgan los hombres
+V|que tocan en las estrellas.
+V|Y lo que de esta ciudad
+V|te cuento por excelencia,
+V|es, que estando sus vecinos
+V|comiendo, desde las mesas,
+V|ven los copos del pescado
+V|que junto a sus puertas pescan
+V|que, bullendo entre las redes,
+V|vienen a entrarse por ellas.
+V|Y sobre todo el llegar
+V|cada tarde a su ribera
+V|más de mil barcos cargados
+V|de mercancías diversas,
+V|y de sustento ordinario,
+V|pan, aceite, vino y leña,
+V|frutas de infinita suerte,
+V|nieve de sierra de Estrella,
+V|que por las calles a gritos,
+V|puesta sobre las cabezas,
+V|la venden; mas, ¿qué me canso?,
+V|porque es contar las estrellas,
+V|querer contar una parte
+V|de la ciudad opulenta.
+V|Ciento y treinta mil vecinos
+V|tiene, gran señor, por cuenta,
+V|y por no cansarte más,
+V|un rey que tus manos besa.
+V|Más estimo, don Gonzalo,
+V|escuchar de vuestra lengua
+V|esa relación sucinta,
+V|que haber visto su grandeza.
+V|¿Tenéis hijos?
+V|Gran señor,
+V|una hija hermosa y bella,
+V|en cuyo rostro divino
+V|se esmeró naturaleza.
+V|Pues yo os la quiero casar
+V|de mi mano.
+V|Como sea
+V|tu gusto, digo, señor,
+V|que yo la acepto por ella;
+V|pero ¿quién es el esposo?
+V|Aunque no está en esta tierra,
+V|es de Sevilla, y se llama
+V|don Juan Tenorio.
+V|Las nuevas
+V|voy a llevar a doña Ana.
+V|[que ilustre esposo le espera].
+V|Id en buena hora, y volved,
+V|Gonzalo, con la respuesta.
+S|(Vanse todos)
+S|[En la plaza de Tarragona]
+S|(Salen don JUAN Tenorio y CATALINON)
+V|Esas dos yeguas prevén,
+V|pues acomodadas son.
+V|Aunque soy Catalinón,
+V|soy, señor, hombre de bien,
+V|que no se dijo por mí,
+V|"Catalinón es el hombre,"
+V|que sabes que aquese nombre
+V|me asienta al revés aquí.
+V|Mientras que los pescadores
+V|van de regocijo y fiesta,
+V|tú las dos yeguas apresta,
+V|que de sus pies voladores,
+V|solo nuestro engaño fío.
+V|¿Al fin pretendes gozar
+V|a Tisbea?
+V|Si el burlar
+V|es hábito antiguo mío,
+V|¿qué me preguntas, sabiendo
+V|mi condición?
+V|Ya sé que eres
+V|castigo de las mujeres.
+V|Por Tisbea estoy muriendo,
+V|que es buena moza.
+V|Buen pago
+V|a su hospedaje deseas.
+V|Necio, lo mismo hizo Eneas
+V|con la reina de Cartago.
+V|Los que fingís y engañáis
+V|las mujeres de esa suerte,
+V|lo pagaréis en la muerte.
+V|¡Qué largo me lo fiáis!
+V|Catalinón con razón
+V|te llaman.
+V|Tus pareceres
+V|sigue, que en burlar mujeres
+V|quiero ser Catalinón.
+V|Ya viene la desdichada.
+V|Vete, y las yeguas prevén.
+V|Pobre mujer, harto bien
+V|te pagamos la posada.
+S|(Vase CATALINON y sale TISBEA)
+V|El rato que sin ti estoy
+V|estoy ajena de mí.
+V|Por lo que finges ansí,
+V|ningún crédito te doy.
+V|¿Por qué?
+V|Porque si me amaras
+V|mi alma favorecieras.
+V|Tuya soy.
+V|Pues, di, ¿qué esperas?
+V|¿O en qué, señora, reparas?
+V|Reparo en que fue castigo
+V|de amor el que he hallado en ti.
+V|Si vivo, mi bien, en ti,
+V|a cualquier cosa me obligo,
+V|aunque yo sepa perder
+V|en tu servicio la vida,
+V|la diera por bien perdida,
+V|y te prometo de ser
+V|tu esposo.
+V|Doy desigual
+V|a tu ser.
+V|Amor es rey
+V|que iguala con justa ley
+V|la seda con el sayal.
+V|Casi te quiero creer,
+V|mas sois los hombres traidores.
+V|¿Posible es, mi bien, que ignores
+V|mi amoroso proceder?
+V|Hoy prendes con tus cabellos
+V|mi alma.
+V|Ya a ti me allano,
+V|bajo la palabra y mano
+V|de esposo.
+V|Juro, ojos bellos,
+V|que mirando me matáis,
+V|de ser vuestro esposo.
+V|Advierte,
+V|mi bien, que hay Dios y que hay muerte.
+V|¡Qué largo me lo fiáis!
+V|Ojos bellos, mientras viva
+V|yo vuestro esclavo seré,
+V|ésta es mi mano y mi fe.
+V|No seré en pagarte esquiva.
+V|Ya en mí mismo no sosiego.
+V|Ven, y será la cabaña
+V|del amor que me acompaña,
+V|tálamo de nuestro fuego.
+V|Entre estas cañas te esconde,
+V|hasta que tenga lugar.
+V|¿Por dónde tengo de entrar?
+V|Ven, y te diré por dónde.
+V|Gloria al alma, mi bien, dais.
+V|Esa voluntad te obligue,
+V|y si no, Dios te castigue.
+V|¡Qué largo me lo fiáis!
+S|(Vanse y salen CORIDON, ANFRISO, BELISA y MUSICOS)
+V|Ea, llamad a Tisbea,
+V|y las zagalas llamad,
+V|para que en la soledad
+V|el huésped la corte vea.
+V|¡Tisbea, Lucindo, Antandra!
+V|No vi cosa más cruel,
+V|triste y mísero de aquél
+V|que en su fuego es salamandra.
+V|Antes que el baile empecemos,
+V|a Tisbea prevengamos.
+V|Vamos a llamarla.
+V|Vamos.
+V|A su cabaña lleguemos.
+V|¿No ves que estará ocupada
+V|con los huéspedes dichosos,
+V|de quien hay mil envidiosos?
+V|Siempre es Tisbea envidiada.
+V|Cantad algo mientras viene,
+V|porque queremos bailar.
+V|¿Cómo podrá descansar
+V|cuidado que celos tiene?
+S|(Cantan)
+V|"A pescar sale la niña,
+V|tendiendo redes,
+V|y en lugar de pececillos,
+V|las almas prende."
+S|(Sale TISBEA)
+V|¡Fuego, fuego, que me quemo,
+V|que mi cabaña se abrasa!
+V|Repicad a fuego, amigos,
+V|que ya dan mis ojos agua.
+V|Mi pobre edificio queda
+V|hecho otra Troya en las llamas,
+V|que después que faltan Troyas,
+V|quiere amor quemar cabañas;
+V|mas si amor abrasa peñas,
+V|con gran ira, fuerza extraña,
+V|mal podrán de su rigor
+V|reservarse humildes pajas.
+V|¡Fuego, zagales, fuego, agua, agua!
+V|Amor, clemencia, que se abrasa el alma.
+V|Ay choza, vil instrumento
+V|de mi deshonra, y mi infamia,
+V|cueva de ladrones fiera,
+V|que mis agravios amparas.
+V|Rayos de ardientes estrellas
+V|en tus cabelleras caigan,
+V|porque abrasadas estén,
+V|si del viento mal peinadas.
+V|¡Ah falso huésped, que dejas
+V|una mujer deshonrada!
+V|Nube que del mar salió,
+V|para anegar mis entrañas.
+V|¡Fuego, zagales, fuego, agua, agua!
+V|Amor, clemencia, que se abrasa el alma.
+V|Yo soy la que hacía siempre
+V|de los hombres burla tanta.
+V|¡Que siempre las que hacen burla,
+V|vienen a quedar burladas!
+V|Engañóme el caballero
+V|debajo de fe y palabra
+V|de marido, y profanó
+V|mi honestidad y mi cama.
+V|Gozóme al fin, y yo propia
+V|le di a su rigor las alas,
+V|en dos yeguas que crié,
+V|con que me burló y se escapa.
+V|Seguidle todos, seguidle,
+V|mas no importa que se vaya,
+V|que en la presencia del rey
+V|tengo de pedir venganza.
+V|¡Fuego, zagales, fuego, agua, agua!
+V|Amor, clemencia, que se abrasa el alma.
+S|(Vase TISBEA)
+V|Seguid al vil caballero.
+V|Triste del que pena y calla,
+V|mas vive el cielo que en él
+V|me he de vengar de esta ingrata.
+V|Vamos tras ella nosotros,
+V|porque va desesperada,
+V|y podrá ser que ella vaya
+V|buscando mayor desgracia.
+V|Tal fin la soberbia tiene,
+V|su locura y confianza
+V|paró en esto.
+S|(Dentro se oye gritando TISBEA "¡Fuego, fuego!")
+V|Al mar se arroja.
+V|Tisbea, detente y para.
+V|¡Fuego, zagales, fuego, agua, agua!
+V|Amor, clemencia, que se abrasa el alma.
+H|Acto II
+S|[En Sevilla, el palacio real]
+S|(Salen el REY y don Diego TENORIO, el viejo)
+V|¿Que esto pasa?
+V|Señor, esto me escribe
+V|de Nápoles don Pedro, que le hallaron
+V|con dama en el palacio; y apercibe
+V|remedio en este caso.
+V|¿Y le dejaron
+V|con vida?
+V|Por don Pedro, señor, vive,
+V|que, sin que se supiese, le ausentaron;
+V|y la dama, inocente de este agravio
+V|agresor hizo de esto al duque Octavio,
+V|y ya en Sevilla está.
+V|Sí; mas qué haremos
+V|con Gonzalo de Ulloa, que le había
+V|tratado el casamiento?
+V|Bien podremos
+V|poner remedio, pues el tiempo envía
+V|ocasión, y en la mano la tenemos;
+V|que el duque Octavio remediar podría
+V|el yerro de don Juan, pues que su casa
+V|a la de don Gonzalo llega, y pasa.
+V|No me parece mal, como no inquiete
+V|al duque la pasión que de Isabela,
+V|con el amor que tuvo, nos promete,
+V|en cuya confusión hoy se desvela.
+V|Pues la ocasión tenemos del copete,
+V|asirla, que es ligera y siempre vuela;
+V|y viene a ser aquéste el mejor medio
+V|que a dos casos como éstos da remedio.
+V|Y ¿adónde esté ese loco?
+V|Jamás niego
+V|a vuestra alteza cosa que pretenda
+V|saber; y cuando aquí pende el sosiego
+V|de don Juan, y con esto el yerro enmienda,
+V|por quien se acabe el encendido fuego
+V|que él comenzó, es ya justo que lo entienda,
+V|señor. Tu alteza, ya en Sevilla asiste,
+V|y así encubierto está mientras se viste.
+V|Pues decidle que de ella salga al punto,
+V|que pienso que es travieso, y la pasea,
+V|porque el remedio de esto venga junto.
+V|A Lebrija se irá.
+V|Mi enojo vea
+V|en el destierro.
+V|Quedará difunto
+V|cuando lo sepa.
+V|Lo que digo sea
+V|sin falta.
+V|El duque Octavio es el que viene.
+V|Decid que llegue, que licencia tiene.
+S|(Sale el duque OCTAVIO, de camino)
+V|A esos pies, gran señor, un peregrino
+V|mísero y desterrado, ofrece el labio,
+V|juzgando por más fácil el camino
+V|en vuestra gran presencia, el duque Octavio.
+V|Huyendo vengo el fiero desatino
+V|de una mujer, el no pensado agravio
+V|de un caballero, que la causa ha sido
+V|de que así a vuestros pies haya venido.
+V|Ya, duque Octavio, sé vuestra inocencia,
+V|y al rey escribiré que os restituya
+V|en vuestro estado, puesto que el ausencia
+V|que hicisteis, algún daño os atribuya.
+V|Yo os casaré en Sevilla, con licencia
+V|del rey, y con perdón y gracia suya
+V|que puesto que Isabela un ángel sea,
+V|mirando la que os doy, ha de ser fea.
+V|Comendador mayor de Calatrava
+V|es Gonzalo de Ulloa, un caballero
+V|a quien el moro por temor alaba,
+V|que siempre es el cobarde lisonjero.
+V|Éste tiene una hija, en quien bastaba
+V|en dote la virtud, que considero,
+V|después de la beldad, que es maravilla
+V|y el sol de las estrellas de Sevilla.
+V|Ésta quiero que sea vuestra esposa.
+V|Cuando yo este viaje le emprendiera
+V|sólo a eso, mi suerte era dichosa,
+V|sabiendo yo que vuestro gusto fuera.
+V|Hospedaréis al duque, sin que cosa
+V|en su regalo falte.
+V|Quien espera
+V|en vos, señor, saldrá de premios lleno.
+V|Primero Alfonso sois, siendo el onceno.
+S|(Vanse el REY y don Diego TENORIO, y sale RIPIO)
+V|¿Qué ha sucedido?
+V|Que he dado
+V|el trabajo recibido,
+V|conforme me ha sucedido,
+V|desde hoy por bien empleado.
+V|Hablé al rey, vióme y honróme,
+V|César con él César fui,
+V|pues vi, peleé y vencí,
+V|y ya hace que esposa tome
+V|de su mano, y se prefiere
+V|a desenojar al rey
+V|en la fulminada ley.
+V|Con razón el nombre adquiere
+V|de generoso en Castilla.
+V|¿Al fin te llegó a ofrecer
+V|mujer?
+V|Sí, amigo, y mujer
+V|de Sevilla, que Sevilla
+V|da, si averiguarlo quieres,
+V|porque de oíllo te asombres,
+V|si fuertes y airosos hombres,
+V|también gallardas mujeres.
+V|Un manto tapado, un brío,
+V|donde un puro sol se esconde,
+V|si no es en Sevilla, adónde
+V|se admite? El contento mío
+V|es tal que ya me consuela
+V|en mi mal.
+S|(Salen CATALINON y don JUAN)
+V|Señor, detente,
+V|que aquí está el duque, inocente
+V|sagitario de Isabela,
+V|aunque mejor le diré
+V|capricornio.
+V|Disimula.
+V|Cuando le vende, le adula.
+V|Como a Nápoles dejé
+V|por enviarme a llamar
+V|con tanta prisa mi rey,
+V|y como su gusto es ley,
+V|no tuve, Octavio, lugar
+V|de despedirme de vos
+V|de ningún modo.
+V|Por eso,
+V|don Juan amigo, os confieso,
+V|que hoy nos juntamos los dos
+V|en Sevilla.
+V|¿Quién pensara,
+V|duque, que en Sevilla os viera;
+V|vos Puzol, vos la Ribera,
+V|desde Parténope clara
+V|dejáis? Aunque es un lugar
+V|Nápoles tan excelente,
+V|por Sevilla solamente
+V|se puede, amigo, dejar.
+V|Si en Nápoles os oyera,
+V|y no en la parte en que estoy,
+V|del crédito que ahora os doy
+V|sospecho que me riera.
+V|Mas, llegándola a habitar,
+V|es, por lo mucho que alcanza
+V|corta, cualquier alabanza
+V|que a Sevilla queráis dar,
+V|¿quién es el que viene allí?
+V|El que viene es el marqués
+V|de la Mota.
+V|Descortés
+V|es fuerza ser.
+V|Si de mí
+V|al hubiereis menester,
+V|aquí espada y brazo está.
+V|(Y si importa gozará
+S|(Aparte)
+V|en su nombre otra mujer,
+V|que tiene buena opinión).
+V|De vos estoy satisfecho.
+V|Si fuere de algún provecho,
+V|señores, Catalinón,
+V|vuarcedes continuamente
+V|me hallarán para servillos.
+V|¿Y dónde?
+V|En los Pajarillos,
+V|tabernáculo excelente.
+S|(Vanse OCTAVIO y RIPIO y salen el marqués de la MOTA y su CRIADO)
+V|Todo hoy os ando buscando,
+V|y no os he podido hallar.
+V|¿Vos, don Juan, en el lugar,
+V|y vuestro amigo penando
+V|en vuestra ausencia?
+V|Por Dios,
+V|amigo, que me debéis
+V|esa merced que me hacéis.
+V|(Como no le entreguéis vos
+S|(Aparte)
+V|moza o cosa que lo valga,
+V|bien podéis fiaros de él,
+V|que en cuanto a esto es cruel,
+V|tiene condición hidalga).
+V|¿Qué hay de Sevilla?
+V|Está ya
+V|toda esta corte mudada.
+V|¿Mujeres?
+V|Cosa juzgada.
+V|¿Inés?
+V|A Bejel se va.
+V|Buen lugar para vivir
+V|la que tan dama nació.
+V|El tiempo la desterró
+V|a Bejel.
+V|Irá a morir.
+V|¿Constanza?
+V|Es lástima vella
+V|lampiña de frente y ceja,
+V|llámala el portugués vieja,
+V|y ella imagina que bella.
+V|Sí, que velha en portugués
+V|suena "vieja" en castellano.
+V|¿Y Teodora?
+V|Este verano
+V|se escapó del mal francés
+V|por un río de sudores,
+V|y está tan tierna y reciente
+V|que anteayer me arrojó un diente
+V|envuelto entre muchas flores.
+V|¿Julia, la del Candilejo?
+V|Ya con sus afeites lucha.
+V|¿Véndese siempre por trucha?
+V|Ya se da por abadejo.
+V|¿El barrio de Cantarranas
+V|tiene buena población?
+V|Ranas las más de ellas son.
+V|¿Y viven las dos hermanas?
+V|Y la mona de Tolú
+V|de su madre Celestina,
+V|que les enseña doctrina.
+V|¡Oh, vieja de Belcebú!
+V|¿Cómo la mayor está?
+V|Blanca, y sin blanca ninguna.
+V|Tiene un santo a quien ayuna.
+V|¿Agora en vigilias da?
+V|Es firme y santa mujer.
+V|¿Y esotra?
+V|Mejor principio
+V|tiene; no desecha ripio.
+V|Buen albañir quiere ser.
+V|Marqués, ¿qué hay de perros muertos?
+V|Yo y don Pedro de Esquivel
+V|dimos anoche uno cruel,
+V|y esta noche tengo ciertos
+V|otros dos.
+V|Iré con vos,
+V|que también recorreré
+V|ciertos nidos que dejé
+V|en güevos para los dos.
+V|¿Qué hay de terrero?
+V|No muero
+V|en terrero, que enterrado
+V|me tiene mayor cuidado.
+V|¿Cómo?
+V|Un imposible quiero.
+V|Pues, ¿no os corresponde?
+V|Sí,
+V|me favorece y me estima.
+V|¿Quién es?
+V|Doña Ana, mi prima,
+V|que es recién llegada aquí.
+V|Pues, ¿dónde ha estado?
+V|En Lisboa,
+V|con su padre en la embajada.
+V|¿Es hermosa?
+V|Es extremada,
+V|porque en doña Ana de Ulloa
+V|se extremó Naturaleza.
+V|¿Tan bella es esa mujer?
+V|¡Vive Dios que la he de ver!
+V|Veréis la mayor belleza
+V|que los ojos del sol ven.
+V|Casaos, si es tan extremada.
+V|El rey la tiene casada
+V|y no se sabe con quién.
+V|¿No os favorece?
+V|Y me escribe.
+V|(No prosigas, que te engaña
+S|(Aparte)
+V|el gran burlador de España).
+V|Quien tan satisfecho vive
+V|de su amor, ¿desdichas teme?
+V|Sacadla, solicitadla,
+V|escribidla, y engañadla,
+V|y el mundo se abrase y queme.
+V|Agora estoy esperando
+V|la postrer resolución.
+V|Pues no perdáis la ocasión,
+V|que aquí os estoy aguardando.
+V|Ya vuelvo.
+V|Señor cuadrado,
+V|o señor redondo, adiós.
+V|Adiós.
+S|(Vanse el marqués de la MOTA y su CRIADO)
+V|Pues solos los dos,
+V|amigo, habemos quedado,
+V|los pasos sigue al marqués,
+V|que en el palacio se entró.
+S|(Vase CATALINON, habla por una reja una mujer)
+V|Ce, ¿a quién digo?
+V|¿Quién llamó?
+V|Si sois prudente y cortés,
+V|y su amigo, dadle luego
+V|al marqués este papel;
+V|mirad que consiste en él
+V|de una señora el sosiego.
+V|Digo que se lo daré,
+V|soy su amigo y caballero.
+V|Basta, señor forastero,
+V|adiós.
+S|(Vase la MUJER)
+V|Ya la voz se fue.
+V|¿No parece encantamiento
+V|esto que agora ha pasado?
+V|A mí el papel ha llegado
+V|por la estafeta del viento.
+V|Sin duda que es de la dama
+V|que el marqués me ha encarecido.
+V|Venturoso en esto he sido.
+V|Sevilla a voces me llama
+V|el burlador, y el mayor
+V|gusto que en mí puede haber
+V|es burlar una mujer
+V|y dejarla sin honor.
+V|Vive Dios que le he de abrir,
+V|pues salí de la plazuela.
+V|Mas ¿si hubiese otra cautela?
+V|Gana me da de reír.
+V|Ya está abierto el papel,
+V|y que es suyo es cosa llana,
+V|porque aquí firma doña Ana.
+V|Dice así: "Mi padre infiel
+V|en secreto me ha casado,
+V|sin poderme resistir.
+V|No sé si podré vivir,
+V|porque la muerte me ha dado.
+V|Si estimas, como es razón,
+V|mi amor y mi voluntad,
+V|y si tu amor fue verdad,
+V|muéstralo en esta ocasión.
+V|Porque veas que te estimo,
+V|ven esta noche a la puerta,
+V|que estará a las once abierta,
+V|donde tu esperanza, primo,
+V|goces, y el fin de tu amor.
+V|Traerás, mi gloria, por señas
+V|de Leonorilla y las dueñas
+V|una capa de color.
+V|Mi amor todo de ti fío,
+V|y adiós." ¡Desdichado amante!
+V|¿Hay suceso semejante?
+V|Ya de la burla me río.
+V|Gozaréla, vive Dios,
+V|con el engaño y cautela
+V|que en Nápoles a Isabela.
+S|(Sale CATALINON)
+V|Ya el marqués viene.
+V|Los dos
+V|aquesta noche tenemos
+V|que hacer.
+V|¿Hay engaño nuevo?
+V|¡Extremado!
+V|No lo apruebo.
+V|Tú pretendes que escapemos
+V|una vez, señor, burlados;
+V|que el que vive de burlar,
+V|burlado habrá de escapar
+V|pagando tantos pecados
+V|de una vez.
+V|¿Predicador
+V|te vuelves, impertinente?
+V|La razón hace al valiente.
+V|Y al cobarde hace el temor.
+V|El que se pone a servir,
+V|voluntad no ha de tener,
+V|y todo ha de ser hacer,
+V|y nada ha de ser decir.
+V|Sirviendo, jugando estás,
+V|y si quieres ganar luego,
+V|haz siempre, porque en el juego
+V|quien más hace, gana más.
+V|Y también quien hace y dice
+V|topa y pierde en cualquier parte.
+V|Esta vez quiero avisarte
+V|porque otra vez no te avise.
+V|Digo que de aquí adelante
+V|lo que me mandes haré,
+V|y a tu lado forzaré
+V|un tigre y un elefante;
+V|guárdese de mí un prior
+V|que si me mandas que calle,
+V|y le fuerce, he de forzalle
+V|sin réplica, mi señor.
+S|(Sale el marqués de la MOTA)
+V|Calla, que viene el marqués.
+V|¿Pues, ha de ser el forzado?
+V|Para vos, marqués me han dado
+V|un recado harto cortés,
+V|por esa reja, sin ver
+V|el que me lo daba allí.
+V|Sólo en la voz conocí
+V|que me lo daba mujer.
+V|Dícete al fin, que a las doce
+V|vayas secreto a la puerta,
+V|que estará a esperando abierta,
+V|donde tu esperanza goce
+V|la posesión de tu amor,
+V|y que llevases por señas
+V|de Leonorilla y las dueñas,
+V|una capa de color.
+V|¿Qué decís?
+V|Que este recado
+V|de una ventana me dieron,
+V|sin ver quién.
+V|Con él pusieron
+V|sosiego en tanto cuidado.
+V|¡Ay, amigo, sólo en ti
+V|mi esperanza renaciera!
+V|Dame esos pies.
+V|Considera
+V|que no está tu prima en mí.
+V|¿Eres tú quien ha de ser
+V|quien la tiene de gozar,
+V|y me llegas a abrazar
+V|los pies?
+V|Es tal el placer
+V|que me ha sacado de mí.
+V|¡Oh sol, apresura el paso!
+V|Ya el sol camina al ocaso.
+V|Vamos, amigo, de aquí,
+V|y de noche nos pondremos;
+V|loco voy.
+V|Bien se conoce,
+V|mas yo bien sé que a las doce
+V|harás mayores extremos.
+V|¡Ay, prima del alma, prima,
+V|que quieres premiar mi fe!
+V|(¡Vive Cristo que no dé
+S|(Aparte)
+V|una blanca por su prima!)
+S|(Vase el marqués de la MOTA, y sale don DIEGO)
+V|¡Don Juan!
+V|Tu padre te llama.
+V|¿Qué manda vueseñoría?
+V|Verte más cuerdo quería,
+V|más bueno, y con mejor fama.
+V|¿Es posible que procuras
+V|todas las horas mi muerte?
+V|¿Por qué vienes de esa suerte?
+V|Por tu trato, y tus locuras.
+V|Al fin el rey me ha mandado
+V|que te eche de la ciudad,
+V|porque está de una maldad
+V|con justa causa indignado.
+V|Que aunque me lo has encubierto,
+V|ya en Sevilla el rey lo sabe,
+V|cuyo delito es tan grave,
+V|que a decírtelo no acierto.
+V|¿En el palacio real
+V|traición, y con un amigo?
+V|Traidor, Dios te dé el castigo
+V|que pide delito igual.
+V|Mira que aunque al parecer
+V|Dios te consiente, y aguarda,
+V|tu castigo no se tarda,
+V|y que castigo ha de haber
+V|para los que profanáis
+V|su nombre, y que es juez fuerte
+V|Dios en la muerte.
+V|¿En la muerte?
+V|¿Tan largo me lo fiáis?
+V|De aquí allá hay larga jornada.
+V|Breve te ha de parecer.
+V|Y la que tengo de hacer,
+V|pues a su alteza le agrada,
+V|agora, ¿es larga también?
+V|Hasta que el injusto agravio
+V|satisfaga el duque Octavio,
+V|y apaciguados estén
+V|en Nápoles de Isabela
+V|los sucesos que has causado,
+V|en Lebrija retirado,
+V|por tu traición y cautela,
+V|quiere el rey que estés agora,
+V|pena a tu maldad ligera.
+V|(Si el caso también supiera
+S|(Aparte)
+V|de la pobre pescadora,
+V|más se enojara el buen viejo).
+V|Pues no te venzo y castigo
+V|con cuanto hago y cuanto digo,
+V|a Dios tu castigo dejo.
+S|(Vase don DIEGO)
+V|Fuése el viejo enternecido.
+V|Luego las lágrimas copia,
+V|condición de viejos propia,
+V|vamos, pues ha anochecido,
+V|a buscar al marqués.
+V|Vamos,
+V|y al fin gozarás su dama.
+V|Ha de ser burla de fama.
+V|Ruego al cielo que salgamos
+V|de ella en paz.
+V|¡Catalinón,
+V|en fin!
+V|Y tú, señor, eres
+V|langosta de las mujeres;
+V|¡y con público pregón!
+V|Porque de ti se guardara,
+V|cuando a noticia viniera
+V|de la que doncella fuera,
+V|fuera bien se pregonara:
+V|"Guárdense todos de un hombre,
+V|que a las mujeres engaña,
+V|y es el burlador de España."
+V|Tú me has dado gentil nombre.
+S|(Sale el marqués de la MOTA, de noche, con MUSICOS y pasea el tablado, y se entran cantando)
+V|"El que un bien gozar espera
+V|cuando espera desespera."
+V|¿Qué es esto?
+V|Música es.
+V|Parece que habla conmigo
+V|el poeta. ¿Quién es?
+V|Amigo.
+V|¿Es don Juan?
+V|¿Es el marqués?
+V|¿Quién puede ser sino yo?
+V|Luego que la capa vi
+V|que érades vos conocí.
+V|Cantad, pues don Juan llegó.
+V|"El que un bien gozar espera
+V|cuando espera desespera."
+V|¿Qué casa es la que miráis?
+V|De don Gonzalo de Ulloa.
+V|¿Dónde iremos?
+V|A Lisboa.
+V|¿Cómo, si en Sevilla estáis?
+V|¿Pues aqueso os maravilla?
+V|¿No vive con gusto igual
+V|lo peor de Portugal
+V|en lo mejor de Sevilla?
+V|¿Dónde viven?
+V|En la calle
+V|de la Sierpe, donde ves
+V|a Adán vuelto en portugués;
+V|que en aqueste amargo valle
+V|con bocados solicitan
+V|mil levas; que aunque dorados,
+V|en efecto, son bocados
+V|con que las vidas nos quitan.
+V|Ir de noche no quisiera
+V|por esa calle cruel,
+V|pues lo que de día en miel
+V|de noche lo dan en cera.
+V|Una noche, por mi mal,
+V|la vi sobre mí vertida,
+V|y hallé que era corrompida
+V|la cera de Portugal.
+V|Mientras a la calle vais,
+V|yo dar un perro quisiera.
+V|Pues cerca de aquí me espera
+V|un bravo.
+V|Si me dejáis,
+V|señor marqués, vos veréis
+V|cómo de mí no se escapa.
+V|Vamos, y poneos mi capa
+V|para que mejor lo deis.
+V|Bien habéis dicho; venid
+V|y me enseñaréis la casa.
+V|Mientras el suceso pasa,
+V|la voz y el habla fingid.
+V|¿Veis aquella celosía?
+V|Ya la veo.
+V|Pues llegad,
+V|y decid "Beatriz," y entrad.
+V|¿Qué mujer?
+V|Rosada, y fría.
+V|Será mujer cantimplora.
+V|En Gradas os aguardamos.
+V|Adiós, marqués.
+V|¿Dónde vamos?
+V|Adonde la burla agora;
+V|ejecute.
+V|No se escapa
+V|nadie de ti.
+V|El trueco adoro.
+V|Echaste la capa al toro.
+V|No, el toro me echó la capa.
+S|(Vanse don JUAN y CATALINON)
+V|La mujer ha de pensar
+V|que soy yo.
+V|¡Qué gentil perro!
+V|Esto es acertar por yerro.
+V|Todo este mundo es errar,
+V|que está compuesto de errores.
+V|El alma en las horas tengo,
+V|y en sus cuartos me prevengo
+V|para mayores favores.
+V|¡Ay, noche espantosa y fría,
+V|para que largos los goce,
+V|corre veloz a las doce,
+V|y después no venga el día!
+V|¿Adónde guía la danza?
+V|Cal de la Sierpe guiad.
+V|¿Qué cantaremos?
+V|Cantad
+V|lisonjas a mi esperanza.
+V|"El que un bien gozar espera,
+V|cuando espera desespera."
+S|(Vanse, y dice doña ANA dentro)
+V|¡Falso, no eres el marqués!
+V|¡Que me has engañado!
+V|Digo
+V|que lo soy.
+V|Fiero enemigo,
+V|mientes, mientes.
+S|(Sale el comendador don GONZALO, medio desnudo, con espada y rodela.)
+V|La voz es
+V|de doña Ana la que siento.
+V|¿No hay quien mate este traidor
+V|homicida de mi honor?
+V|¿Hay tan grande atrevimiento?
+V|"Muerto honor" dijo, ¡ay de mí!;
+V|y es su lengua tan liviana,
+V|que aquí sirve de campana.
+V|¡Matadle!
+S|Salen don JUAN y CATALINON, con las espadas desnudas
+V|¿Quién está aquí?
+V|La barbacana caída
+V|de la torre de ese honor
+V|que has combatido, traidor,
+V|donde era alcaide la vida.
+V|Déjame pasar.
+V|¿Pasar?
+V|Por la punta de esta espada.
+V|Morirás.
+V|No importa nada.
+V|Mira que te he de matar.
+V|¡Muere, traidor!
+V|De esta suerte
+V|muero yo.
+V|Si escapo de ésta,
+V|no más burlas, no más fiesta.
+V|¡Ay, que me has dado la muerte!
+V|Mas, si el honor me quitaste,
+V|¿de qué la vida servía?
+V|¡Huye!
+V|Aguarda, que es sangría,
+V|con que el valor me aumentaste;
+V|mas no es posible que aguarde...
+V|Seguirále mi furor,
+V|que es traidor, y el que es traidor
+V|es traidor porque es cobarde.
+S|(Entran muerto a don GONZALO, y sale el marqués de la MOTA y MUSICOS)
+V|Presto las doce darán
+V|y mucho don Juan se tarda,
+V|¡fiera pensión del que aguarda!
+S|(Salen don JUAN y CATALINON)
+V|¿Es el marqués?
+V|¿Es don Juan?
+V|Yo soy, tomad vuestra capa.
+V|¿Y el perro?
+V|Funesto ha sido;
+V|al fin, marqués, muerto ha habido.
+V|Señor, del muerto te escapa.
+V|¿Burlásteisla?
+V|Sí, burlé.
+V|(Y aun a vos os ha burlado).
+S|(Aparte)
+V|Caro la burla ha costado.
+V|Yo, don Juan, lo pagaré,
+V|porque estará la mujer
+V|quejosa de mí.
+V|Las doce
+V|darán.
+V|Como mi bien goce
+V|nunca llegue a amanecer.
+V|Adiós, marqués.
+V|Muy bien lance
+V|el desdichado hallará.
+V|Huyamos.
+V|Señor, no habrá
+V|aguilita que me alcance.
+S|(Vanse don JUAN y CATALINON)
+V|Vosotros os podéis ir
+V|todos a casa, que yo
+V|he de ir solo.
+V|Dios crió
+V|las noches para dormir.
+S|(Vanse los MUSICOS y dicen dentro)
+V|¿Vióse desdicha mayor,
+V|y vióse mayor desgracia?
+V|¡Válgame Dios! Voces oigo
+V|en la plaza del alcázar.
+V|¿Qué puede ser a estas horas?
+V|Un hielo me baña el alma.
+V|Desde aquí parece todo
+V|una Troya que se abrasa,
+V|porque tantas hachas juntas
+V|paren gigantes de llamas.
+V|Mas una escuadra de luces
+V|se acerca a mí, ¿Por qué anda
+V|el fuego emulando al sol,
+V|dividiéndose en escuadras?
+V|Quiero preguntar lo que es.
+S|(Sale don DIEGO Tenorio, y la guarda con hachas)
+V|¿Qué gente?
+V|Gente que aguarda
+V|saber de aqueste alboroto
+V|la ocasión.
+V|Ésta es la capa
+V|que dijo el comendador
+V|en las postreras palabras.
+V|Préndanle.
+V|¿Prenderme a mí?
+V|Volved la espada a la vaina,
+V|que la mayor valentía
+V|es no tratar de las armas.
+V|¿Cómo al marqués de la Mota
+V|hablan ansí?
+V|Dad la espada,
+V|que el rey os manda prender.
+V|¡Vive Dios!
+S|(Sale el REY y acompañamiento)
+V|En toda España
+V|no ha de caber, ni tampoco
+V|en Italia, si va a Italia.
+V|Señor, aquí está el marqués.
+V|¿Vuestra alteza a mí me manda
+V|prender?
+V|Llevadle y ponedle
+V|la cabeza en una escarpia.
+V|¿En mi presencia te pones?
+V|¡Ah, glorias de amor tiranas,
+V|siempre en el pasar ligeras
+V|como en el vivir pesadas!
+V|Bien dijo un sabio, que había
+V|entre la boca y la taza
+V|peligro; mas el enojo
+V|del rey me admira y espanta.
+V|¿No sabré por qué voy preso?
+V|¿Quién mejor sabrá la causa
+V|que vueseñoría?
+V|¿Yo?
+V|Vamos.
+V|Confusión extraña.
+V|Fulmínesele el proceso
+V|al marqués luego, y mañana
+V|le cortarán la cabeza.
+V|Y al comendador, con cuanta
+V|solemnidad y grandeza
+V|se da a las personas sacras
+V|y reales, el entierro
+V|se haga; en bronce y piedra párea,
+V|un sepulcro con un bulto
+V|le ofrezcan, donde en mosaicas
+V|labores, góticas letras
+V|den lenguas a su venganza.
+V|Y entierro, bulto y sepulcro
+V|quiero que a mi costa se haga;
+V|¿dónde doña Ana se fue?
+V|Fuése al sagrado doña Ana
+V|de mi señora la reina.
+V|Ha de sentir esta falta
+V|Castilla. Tal capitán
+V|ha de llorar Calatrava.
+S|(Vanse todos)
+S|[En la aldea de Dos Hermanas]
+S|(Sale BATRICIO desposado, con AMINTA, GASENO, viejo, BELISA y pastores músicos)
+V|"Lindo sale el sol de Abril,
+V|por trébol y torongil;
+V|y aunque le sirva de estrella,
+V|Aminta sale más bella."
+V|Sobre esta alfombra florida,
+V|adonde en campos de escarcha
+V|el sol sin aliento marcha
+V|con su luz recién nacida,
+V|os sentad, pues no convida
+V|al tálamo el sitio hermoso.
+V|Cantadle a mi dulce esposo
+V|favores de mil en mil.
+V|"Lindo sale el sol de Abril,
+V|por trébol y torongil;
+V|y aunque le sirva de estrella,
+V|Aminta sale más bella."
+V|Ya, Batricio, os he entregado
+V|el alma y ser en mi Aminta.
+V|Por eso se baña y pinta
+V|de más colores el prado.
+V|Con deseos la he ganado,
+V|con obras le he merecido.
+V|Tal mujer y tal marido
+V|viva juntos años mil.
+V|"Lindo sale el sol de Abril,
+V|por trébol y torongil;
+V|y aunque le sirva de estrella,
+V|Aminta sale más bella."
+V|No sale así el sol de oriente
+V|como el sol que al alba sale,
+V|que no hay sol que al sol se iguale
+V|de sus niñas y su fuente,
+V|a este sol claro y luciente
+V|que eclipsa al sol su arrebol;
+V|y ansí cantadle a mi sol
+V|motetes de mil en mil.
+V|"Lindo sale el sol de Abril,
+V|por trébol y torongil;
+V|y aunque le sirva de estrella,
+V|Aminta sale más bella."
+V|Batricio, aunque lo agradezco,
+V|falso y lisonjero estás;
+V|mas si tus rayos me das
+V|por ti ser luna merezco.
+V|Tú eres el sol por quien crezco,
+V|después de salir menguante,
+V|para que al Alba te cante
+V|la salva en tono sutil.
+V|"Lindo sale el sol de Abril,
+V|por trébol y torongil;
+V|y aunque le sirva de estrella,
+V|Aminta sale más bella."
+S|(Sale CATALINON, de camino)
+V|Señores, el desposorio
+V|huéspedes ha de tener.
+V|A todo el mundo ha de ser
+V|este contento notorio.
+V|¿Quién viene?
+V|Don Juan Tenorio.
+V|¿El viejo?
+V|No ése, don Juan.
+V|Será su hijo el galán.
+V|Téngolo por mal agüero;
+V|que galán y caballero
+V|quitan gusto, y celos dan.
+V|Pues, quién noticia les dio
+V|de mis bodas?
+V|De camino
+V|pasa a Lebrija.
+V|Imagino
+V|que el demonio le envió;
+V|mas ¿de qué me aflijo yo?
+V|Vengan a mis dulces bodas
+V|del mundo las gentes todas;
+V|mas, con todo, un caballero
+V|en mis bodas... Mal agüero.
+V|Venga el Coloso de Rodas,
+V|venga el Papa, el Preste Juan,
+V|y don Alfonso el onceno
+V|con su corte, que en Gaseno
+V|ánimo y valor verán.
+V|Montes en casa hay de pan,
+V|Guadalquivides de vino,
+V|Babilonias de tocino,
+V|y entre ejércitos cobardes
+V|de aves, para que los lardes,
+V|el pollo y el palomino.
+V|Venga tan gran caballero
+V|a ser hoy en Dos Hermanas
+V|honra de estas nobles canas.
+V|Es hijo del camarero
+V|mayor.
+V|Todo es mal agüero
+V|para mí, pues le han de dar
+V|junto a mi esposa lugar.
+V|Aun no gozo, y ya los cielos
+V|me están condenando a celos.
+V|Amor, sufrir y callar.
+S|(Sale don JUAN Tenorio)
+V|Pasando acaso he sabido
+V|que hay bodas en el lugar,
+V|y de ellas quise gozar,
+V|pues tan venturoso he sido.
+V|Vueseñoría ha venido
+V|a honrallas y engrandecellas.
+V|Yo que soy el dueño de ellas
+V|digo entre mí que vengáis
+V|en hora mala.
+V|¿No dais
+V|lugar a este caballero?
+V|Con vuestra licencia quiero
+V|sentarme aquí.
+S|(Siéntase junto a la novia)
+V|Si os sentáis
+V|delante de mí, señor,
+V|seréis de aquesa manera
+V|el novio.
+V|Cuando lo fuera
+V|no escogiera lo peor.
+V|¡Que es el novio!
+V|De mi error
+V|e ignorancia perdón pido.
+V|¡Desventurado marido!
+V|Corrido está.
+V|No lo ignoro,
+V|mas, si tiene de ser toro,
+V|¿qué mucho que esté corrido?
+V|No daré por su mujer,
+V|ni por su honor un cornado.
+V|¡Desdichado tú, que has dado
+V|en manos de Lucifer!
+V|¿Posible es que vengo a ser,
+V|señora, tan venturoso?
+V|Envidia tengo al esposo.
+V|Parecéisme lisonjero.
+V|Bien dije que es mal agüero
+V|en bodas un poderoso.
+V|Hermosas manos tenéis
+V|para esposa de un villano.
+V|Si al juego le dais la mano,
+V|vos la mano perderéis.
+V|Celos, muerte no me deis.
+V|Ea, vamos a almorzar,
+V|porque pueda descansar
+V|un rato su señoría.
+S|(Tómale don JUAN la mano a la novia)
+V|¿Por qué la escondéis?
+V|No es mía.
+V|Ea, volved a cantar.
+V|¿Qué dices tú?
+V|¿Yo? Que temo
+V|muerte vil de esos villanos.
+V|Buenos ojos, blancas manos,
+V|en ello me abraso y quemo.
+V|Almagrar y echar a extremo;
+V|con ésta cuatro serán.
+V|Ven, que mirándome están.
+V|¿En mis bodas caballero?
+V|¡Mal agüero!
+V|Cantad.
+V|Muero.
+V|Canten, que ellos llorarán
+V|"Lindo sale el sol de Abril,
+V|por trébol y torongil;
+V|y aunque le sirva de estrella,
+V|Aminta sale más bella."
+H|Acto III
+S|[En la aldea de Dos Hermanas]
+S|(Sale BATRICIO pensativo)
+V|Celos, reloj de cuidados,
+V|que a todas las horas dais
+V|tormentos con que matáis,
+V|aunque andéis desconcertados;
+V|celos, del vivir desprecios
+V|con que ignorancias hacéis,
+V|pues todo lo que tenéis
+V|de ricos, tenéis de necios.
+V|Dejadme de atormentar,
+V|pues es cosa tan sabida,
+V|que cuando amor me da vida,
+V|la muerte me queréis dar.
+V|¿Qué me queréis, caballero,
+V|que me atormentáis ansí?
+V|Bien dije, cuando le vi
+V|en mis bodas: "Mal agüero."
+V|¿No es bueno que se sentó
+V|a cenar con mi mujer,
+V|y a mí en el plato meter
+V|la mano no me dejó?
+V|Pues cada vez que quería
+V|metella, la desviaba,
+V|diciendo a cuanto tomaba:
+V|"Grosería, grosería."
+V|No se apartó de su lado
+V|hasta cenar, de manera
+V|que todos pensaban que era
+V|yo padrino, él desposado.
+V|Y si decirle quería
+V|algo a mi esposa, gruñendo
+V|me la apartaba, diciendo:
+V|"Grosería, grosería."
+V|Pues llegándome a quejar
+V|a algunos me respondían,
+V|y con risa me decían:
+V|"No tenéis de qué os quejar.
+V|Eso no es cosa que importe,
+V|no tenéis de qué temer,
+V|callad, que debe de ser
+V|uso de allá en la corte."
+V|Buen uso, trato extremado,
+V|más no se usara en Sodoma;
+V|que otro con la novia coma,
+V|y que ayune el desposado.
+V|Pues el otro bellacón,
+V|a cuanto comer quería,
+V|"¿Esto no coméis?," decía.
+V|"No tenéis, señor, razón."
+V|Y de delante, al momento
+V|me lo quitaba. Corrido
+V|estoy, pienso que esto ha sido
+V|culebra, y no casamiento.
+V|Ya no se puede sufrir
+V|ni entre cristianos pasar;
+V|y acabando de cenar
+V|con los dos, ¿mas que a dormir
+V|se ha de ir también, si porfía,
+V|con nosotros, y ha de ser
+V|el llegar yo a mi mujer
+V|"Grosería, grosería?"
+V|Ya viene, no me resisto,
+V|aquí me quiero esconder,
+V|pero ya no puede ser,
+V|que imagino que me ha visto.
+S|(Sale don JUAN Tenorio)
+V|Batricio.
+V|Su señoría,
+V|¿qué manda?
+V|Haceros saber...
+V|Mas que ha de venir a ser
+V|alguna desdicha mía.
+V|Que ha muchos días, Batricio,
+V|que a Aminta el alma le di,
+V|y he gozado...
+V|¿Su honor?
+V|Sí.
+V|Manifiesto y claro indicio
+V|de lo que he llegado a ver;
+V|que si bien no le quisiera,
+V|nunca a su casa viniera;
+V|al fin, al fin es mujer.
+V|Al fin, Aminta celosa,
+V|o quizá desesperada
+V|de verse de mí olvidada,
+V|y de ajeno dueño esposa,
+V|esta carta me escribió
+V|enviándome a llamar,
+V|y yo prometí gozar
+V|lo que el alma prometió.
+V|Esto pasa de esta suerte,
+V|dad a vuestra vida un medio,
+V|que le daré sin remedio,
+V|a quien lo impida la muerte.
+V|Si tú en mi elección lo pones,
+V|tu gusto pretendo hacer,
+V|que el honor y la mujer
+V|son males en opiniones.
+V|La mujer en opinión,
+V|siempre más pierde que gana,
+V|que son como la campana
+V|que se estima por el son,
+V|Y ansí es cosa averiguada,
+V|que opinión viene a perder,
+V|cuando cualquiera mujer
+V|suena a campana quebrada.
+V|No quiero, pues me reduces
+V|el bien que mi amor ordena,
+V|mujer entre mala y buena,
+V|que es moneda entre dos luces.
+V|Gózala, señor, mil años,
+V|que yo quiero resistir,
+V|desengañar y morir,
+V|y no vivir con engaños.
+S|(Vase BATRICIO)
+V|Con el honor le vencí,
+V|porque siempre los villanos
+V|tienen su honor en las manos,
+V|y siempre miran por sí;
+V|que por tantas variedades,
+V|es bien que se entienda y crea,
+V|que el honor se fue al aldea
+V|huyendo de las ciudades.
+V|Pero antes de hacer el daño
+V|le pretendo reparar.
+V|A su padre voy a hablar,
+V|para autorizar mi engaño.
+V|Bien lo supe negociar;
+V|gozarla esta noche espero,
+V|la noche camina, y quiero
+V|su viejo padre llamar.
+V|Estrellas que me alumbráis,
+V|dadme en este engaño suerte,
+V|si el galardón en la muerte,
+V|tan largo me lo guardáis.
+S|(Vase don JUAN. Salen AMINTA y BELISA)
+V|Mira que vendrá tu esposo.
+S|Entra a desnudarte, Aminta.
+V|De estas infelices bodas
+V|no sé qué siento, Belisa.
+V|Todo hoy mi Batricio ha estado
+V|bañando en melancolía,
+V|todo en confusión y celos.
+V|¡Mira qué grande desdicha!
+V|Di, ¿qué caballero es éste
+V|que de mi esposo me priva?
+V|La desvergüenza en España
+V|se ha hecho caballería.
+V|Déjame, que estoy sin seso,
+V|déjame, que estoy perdida.
+V|¡Mal hubiese el caballero
+V|que mis contentos me quita!
+V|Calla, que pienso que viene
+V|que nadie en la casa pisa
+V|de un desposado, tan recio.
+V|Queda a Dios, Belisa mía.
+V|Desenójale en los brazos.
+V|Plega a los cielos que sirvan
+V|mis suspiros de requiebros,
+V|mis lágrimas de caricias.
+S|(Vanse AMINTA y BELISA. Salen don JUAN, CATALINON y GASENO)
+V|Gaseno, quedad con Dios.
+V|Acompañaros querría,
+V|por dalle de esta ventura
+V|el parabién a mi hija.
+V|Tiempo mañana nos queda.
+V|Bien decís, el alma mía
+V|en la muchacha os ofrezco.
+V|Mi esposa decid.
+S|(Vase GASENO)
+V|Tú, ensilla,
+V|Catalinón.
+V|¿Para cuándo?
+V|Para el alba que de risa
+V|muerte ha de salir mañana
+V|de este engaño.
+V|Allá en Lebrija,
+V|señor, nos está aguardando
+V|otra boda. Por tu vida
+V|que despaches presto en ésta.
+V|La burla más escogida
+V|de todas ha de ser ésta.
+V|Que saliésemos querría
+V|de todas bien.
+V|Si es mi padre
+V|el dueño de la justicia,
+V|y es la privanza del rey,
+V|¿qué temes?
+V|De los que privan
+V|suele Dios tomar venganza,
+V|si delitos no castigan,
+V|y se suelen en el juego
+V|perder también los que miran.
+V|Yo he sido mirón del tuyo
+V|y por mirón no querría
+V|que me cogiese algún rayo,
+V|y me trocase en cecina.
+V|Vete, ensilla, que mañana
+V|he de dormir en Sevilla.
+V|¿En Sevilla?
+V|Sí.
+V|¿Qué dices?
+V|Mira lo que has hecho, y mira
+V|que hasta la muerte, señor,
+V|es corta la mayor vida;
+V|y que hay tras la muerte imperio.
+V|Si tan largo me lo fías,
+V|vengan engaños.
+V|¡Señor!
+V|Vete, que ya me amohinas
+V|con tus temores extraños.
+V|Fuerza al turco, fuerza al scita,
+V|al persa, y al caramanto,
+V|al gallego, al troglodita,
+V|al alemán y al Japón,
+V|al sastre con la agujita
+V|de oro en mano, imitando
+V|continuo a la blanca niña.
+S|(Vase CATALINON)
+V|La noche en negro silencio
+V|se extiende, y ya las cabrillas
+V|entre racimos de estrellas
+V|el polo más alto pisan.
+V|Yo quiero poner mi engaño
+V|por obra, el amor me guía
+V|a mi inclinación, de quien
+V|no hay hombre que se resista.
+V|Quiero llegar a la cama.
+V|Aminta.
+S|(Sale AMINTA, como que está acostada)
+V|¿Quién llama a Aminta?
+V|¿Es mi Batricio?
+V|No soy
+V|tu Batricio.
+V|Pues, ¿quién?
+V|Mira
+V|de espacio, Aminta, quién soy.
+V|¡Ay de mí! Yo soy perdida.
+V|¿En mi aposento a estas horas?
+V|Éstas son las horas mías.
+V|Volvéos, que daré voces,
+V|no excedáis la cortesía
+V|que a mi Batricio se debe,
+V|ved que hay romanas Emilias
+V|en Dos Hermanas también,
+V|y hay Lucrecias vengativas.
+V|Escúchame dos palabras,
+V|y esconde de las mejillas
+V|en el corazón la grana,
+V|por ti más preciosa y rica.
+V|Vete, que vendrá mi esposo.
+V|Yo lo soy. ¿De qué te admiras?
+V|¿Desde cuándo?
+V|Desde agora.
+V|¿Quién lo ha tratado?
+V|Mi dicha.
+V|¿Y quién nos casó?
+V|Tus ojos.
+V|¿Con qué poder?
+V|Con la vista.
+V|¿Sábelo Batricio?
+V|Sí,
+V|que te olvida.
+V|¿Que me olvida?
+V|Sí, que yo te adoro.
+V|¿Cómo?
+V|Con mis dos brazos.
+V|Desvía.
+V|¿Cómo puedo, si es verdad
+V|que muero?
+V|¡Qué gran mentira!
+V|Aminta, escucha y sabrás,
+V|si quieres que te la diga,
+V|la verdad, si las mujeres
+V|sois de verdades amigas.
+V|Yo soy noble caballero,
+V|cabeza de la familia
+V|de los Tenorios antiguos,
+V|ganadores de Sevilla.
+V|Mi padre, después del rey,
+V|se reverencia y se estima
+V|en la corte, y de sus labios
+V|penden las muertes y vidas.
+V|Torciendo el camino acaso,
+V|llegué a verte, que amor guía
+V|tal vez las cosas, de suerte
+V|que él mismo de ellas se admira.
+V|Víte, adoréte, abraséme,
+V|tanto que tu amor me obliga
+V|a que contigo me case.
+V|Mira qué acción tan precisa.
+V|Y aunque lo murmure el reino,
+V|y aunque el rey lo contradiga,
+V|y aunque mi padre enojado
+V|con amenazas lo impida,
+V|tu esposo tengo de ser,
+V|dando en tus ojos envidia
+V|a los que viere en su sangre
+V|la venganza que imagina.
+V|Ya Batricio ha desistido
+V|de su acción, y aquí me envía
+V|tu padre a darte la mano.
+V|¿Qué dices?
+V|No sé qué diga,
+V|que se encubren tus verdades
+V|con retóricas mentiras.
+V|Porque si estoy desposada,
+V|como es cosa conocida,
+V|con Batricio, el matrimonio
+V|no se absuelve, aunque él desista.
+V|En no siendo consumado,
+V|por engaño o por malicia,
+V|puede anularse.
+V|Es verdad;
+V|mas ¡ay Dios!, que no querría
+V|que me dejases burlada,
+V|cuando mi esposo me quitas.
+V|Ahora bien, dame esa mano,
+V|y esta voluntad confirma
+V|con ella.
+V|¿Que no me engañas?
+V|Mío el engaño sería.
+V|Pues jura que cumplirás
+V|la palabra prometida.
+V|Juro a esta mano, señora,
+V|infierno de nieve fría,
+V|de cumplirte la palabra.
+V|Jura a Dios, que te maldiga
+V|si no la cumples.
+V|Si acaso
+V|la palabra y la fe mía
+V|te faltare, ruego a Dios
+V|que a traición y a alevosía,
+V|me dé muerte un hombre muerto.
+S|(Que vivo, Dios no permita)
+S|(Aparte)
+V|Pues con ese juramento
+V|soy tu esposa.
+V|Al alma mía
+V|entre los brazos te ofrezco.
+V|Tuya es el alma y la vida.
+V|¡Ay, Aminta de mis ojos!,
+V|mañana sobre virillas
+V|de tersa plata, estrelladas
+V|con clavos de oro de Tíbar,
+V|pondrás los hermosos pies,
+V|y en prisión de gargantillas
+V|la alabastrina garganta,
+V|y los dedos en sortijas
+V|en cuyo engaste parezcan
+V|estrellas las amatistas;
+V|y en tus orejas pondrás
+V|transparentes perlas finas.
+V|A tu voluntad, esposo,
+V|la mía desde hoy se inclina.
+V|Tuya soy.
+V|(¡Qué mal conoces
+V|al burlador de Sevilla!)
+S|(Vanse don JUAN y AMINTA)
+S|(Salen ISABELA y FABIO, de camino)
+V|Que me robase el sueño
+V|la prenda que estimaba, y más quería...
+V|¡Oh, riguroso empeño
+V|de la verdad! ¡Oh, máscara del día!
+V|¡Noche al fin tenebrosa,
+V|antípoda del sol, del sueño esposa!
+V|¿De qué sirve, Isabela,
+V|la tristeza en el alma y en los ojos,
+V|si amor todo es cautela
+V|y en campos de desdenes causa enojos,
+V|y el que se ríe agora,
+V|en breve espacio desventuras llora?
+V|El mar está alterado,
+V|y en grave temporal, tiempo se corre;
+V|el abrigo han tomado
+V|las galeras, duquesa, de la torre
+V|que esta playa corona.
+V|¿Adónde estamos, Fabio?
+V|En Tarragona.
+V|Y de aquí a poco espacio
+V|daremos en Valencia, ciudad bella,
+V|del mismo sol palacio,
+V|divertiráse algunos días en ella;
+V|y después a Sevilla
+V|irás a ver la octava maravilla.
+V|Que si a Octavio perdiste
+V|más galán es don Juan, y de notorio
+V|solar. ¿De qué estás triste?
+V|Conde dicen que es ya don Juan Tenorio,
+V|el rey con él te casa,
+V|y el padre es la privanza de su casa.
+V|No nace mi tristeza
+V|de ser esposa de don Juan, que el mundo
+V|conoce su nobleza;
+V|en la esparcida voz, mi agravio fundo,
+V|que esta opinión perdida
+V|he de llorar mientras tuviere vida.
+V|Allí una pescadora
+V|tiernamente suspira, y se lamenta,
+V|y dulcemente llora.
+V|Acá viene sin duda, y verte intenta.
+V|Mientras llamo a tu gente,
+V|lamentaréis las dos más dulcemente.
+S|(Vase FABIO, y sale TISBEA)
+V|Robusto mar de España,
+V|ondas de fuego, fugitivas ondas,
+V|Troya de mi cabaña,
+V|que ya el fuego por mares y por ondas
+V|en sus abismos fragua
+V|y en el mar forma por las llamas de agua,
+V|¡maldito el leño sea
+V|que a tu amargo cristal halló camino,
+V|y, antojo de Medea,
+V|tu cáñamo primero, o primer lino
+V|aspado de los vientos,
+V|para telas de engaños e instrumentos!
+V|¿Por qué del mar te quejas
+V|tan tiernamente, hermosa pescadora?
+V|Al mar formo mil quejas.
+V|Dichosa vos, que en su tormento agora
+V|de él os estás riendo.
+V|También quejas del mar estoy haciendo.
+V|¿De dónde sois?
+V|De aquellas
+V|cabañas que miráis del viento heridas,
+V|tan victorioso entre ellas,
+V|cuyas pobres paredes, desparcidas,
+V|van el pedazos graves,
+V|dándole mil graznidos ya las aves.
+V|En sus pajas me dieron
+V|corazón de fortísimo diamante,
+V|mas las obras me hicieron
+V|de este monstruo que ves tan arrogante
+V|ablandarme, de suerte
+V|que al sol la cera es más robusta y fuerte.
+V|¿Sois vos la Europa hermosa,
+V|que esos toros os llevan?
+V|A Sevilla
+V|llévanme a ser esposa
+V|contra mi voluntad.
+V|Si mi mancilla
+V|a lástima os provoca,
+V|y si injurias del mar os tienen loca,
+V|en vuestra compañía
+V|para serviros como humilde esclava
+V|me llevad, que querría,
+V|si el dolor o la afrenta no me acaba,
+V|pedir al rey justicia
+V|de un engaño cruel, de una malicia.
+V|Del agua derrotado
+V|a esta tierra llegó un don Juan Tenorio
+V|difunto y anegado;
+V|amparéle, hospedéle en tan notorio
+V|peligro, y el vil huésped
+V|víbora fue a mi planta en tierno césped.
+V|Con palabra de esposo,
+V|la que de nuestra costa burla hacía,
+V|se rindió al engañoso.
+V|¡Mal haya la mujer que en hombres fía!
+V|Fuése al fin y dejóme,
+V|mira si es justo que venganza tome.
+V|¡Calla, mujer maldita!
+V|¡Vete de mi presencia, que me has muerto!
+V|Mas, si el dolor te incita
+V|no tienes culpa tú. Prosigue, ¿es cierto?
+V|Tan claro es como el día.
+V|¡Mal haya la mujer que en hombres fía!
+V|Pero sin duda el cielo
+V|a ver estas cabañas me ha traído,
+V|y de ti mi consuelo
+V|en tan grave pasión ha renacido
+V|para venganza mía.
+V|¡Mal haya la mujer que en hombres fía!
+V|¡Que me llevéis os ruego
+V|con vos, señora, a mí y a un viejo padre,
+V|porque de aqueste fuego
+V|la venganza me dé que más me cuadre,
+V|y al rey pida justicia
+V|de este engaño y traición, de esta malicia!
+V|Anfriso, en cuyos brazos
+V|me pensé ver en tálamo dichoso,
+V|dándole eternos lazos,
+V|conmigo ha de ir, que quiere ser mi esposo.
+V|Ven en mi compañía.
+V|¡Mal haya la mujer que en hombres fía!
+S|(Vanse ISABELA y TISBEA)
+S|(Salen don JUAN y CATALINON)
+V|Todo en mal estado está.
+V|¿Cómo?
+V|Que Octavio ha sabido
+V|la traición de Italia ya,
+V|y el de la Mota ofendido
+V|de ti justas quejas da,
+V|y dice que fue el recado
+V|de su prima le diste
+V|fingido y disimulado,
+V|y con su capa emprendiste
+V|la traición que la ha infamado.
+V|Dicen que viene Isabela
+V|a que seas su marido,
+V|y dicen...
+V|Calla.
+V|Una muela
+V|en la boca me has rompido.
+V|Hablador, ¿quién te revela
+V|tanto disparate junto?
+V|¿Disparate?
+V|Disparate.
+V|Verdades son.
+V|No pregunto
+V|si lo son, cuando me mate
+V|Octavio, ¿estoy yo difunto?
+V|¿No tengo manos también?
+V|¿Dónde me tienes posada?
+V|En calle oculta.
+V|Está bien.
+V|La iglesia es tierra sagrada.
+V|Di que de día me den
+V|en ella la muerte. ¿Viste
+V|al novio de Dos Hermanas?
+V|Allí le vi, ansiado y triste.
+V|Aminta estas dos semanas
+V|no ha de caer en el chiste.
+V|Tan bien engañada está
+V|que se llama doña Aminta.
+V|Graciosa burla será.
+V|Graciosa burla, y sucinta,
+V|mas ella la llorará.
+S|(Descúbrese un sepulcro de don GONZALO de Ulloa)
+V|¿Qué sepulcro es éste?
+V|Aquí
+V|don Gonzalo está enterrado.
+V|Éste es a quien muerte di.
+V|Gran sepulcro le han labrado.
+V|Ordenólo el rey ansí.
+V|¿Cómo dice este letrero?
+V|"Aquí aguarda del Señor
+V|el más leal caballero
+V|la venganza de un traidor".
+V|Del mote reírme quiero.
+V|Y ¿habéisos vos de vengar,
+V|buen viejo, barbas de piedra?
+V|No se las podrá pelar
+V|quien barbas tan fuertes medra.
+V|Aquesta noche a cenar
+V|os aguardo en mi posada;
+V|allí el desafío haremos,
+V|si la venganza os agrada,
+V|aunque mal reñir podremos,
+V|si es de piedra vuestra espada.
+V|Ya, señor, ha anochecido,
+V|vámonos a recoger.
+V|Larga esta venganza ha sido;
+V|si es que vos la habéis de hacer,
+V|importa no estar dormido,
+V|que si a la muerte aguardáis
+V|la venganza, la esperanza
+V|agora es bien que perdáis,
+V|pues vuestro enojo, y venganza,
+V|tan largo me lo fiáis.
+S|(Vanse don JUAN y CATALINON)
+S|(Ponen la mesa dos criados)
+V|Quiero apercibir la mesa
+V|que vendrá a cenar don Juan.
+V|Puestas las mesas están.
+V|¡Qué flema tiene si empieza!
+V|Ya tarda como solía
+V|mi señor, no me contenta;
+V|la bebida se calienta,
+V|y la comida se enfría.
+V|Mas quién a don Juan ordena
+V|esta desorden?
+S|(Entran don JUAN y CATALINON)
+V|¿Cerraste?
+V|Ya cerré como mandaste.
+V|¡Hola, tráiganme la cena!
+V|Ya está aquí.
+V|Catalinón,
+V|siéntate.
+V|Yo soy amigo
+V|de cenar de espacio.
+V|Digo
+V|que te sientes.
+V|La razón
+V|haré.
+V|También es camino
+V|éste, si cena con él.
+V|Siéntate.
+S|(Un golpe dentro)
+V|Golpe es aquél.
+V|Que llamaron imagino.
+V|Mira quién es.
+V|Voy volando.
+V|¿Si es la justicia, señor?
+V|Sea, no tengas temor.
+S|(Vuelve el CRIADO huyendo)
+V|¿Quién es? De qué estás temblando?
+V|De algún mal da testimonio.
+V|Mal mi cólera resisto.
+V|Habla, responde, qué has visto?
+V|¿Asombróte algún demonio?
+V|Ve tú, y mira aquella puerta,
+V|presto, acaba.
+V|¿Yo?
+V|Tú, pues,
+V|acaba, menea los pies.
+V|A mi abuela hallaron muerta,
+V|como racimo colgada,
+V|y desde entonces se suena
+V|que anda siempre su alma en pena,
+V|tanto golpe no me agrada.
+V|Acaba.
+V|¡Señor, si sabes
+V|que soy un Catalinón!
+V|Acaba.
+V|Fuerte ocasión.
+V|¿No vas?
+V|¿Quién tiene las llaves
+V|de la puerta?
+V|Con la aldaba
+V|está cerrada no más.
+V|¿Qué tienes? ¿Por qué no vas?
+V|Hoy Catalinón acaba.
+V|Mas, ¿si las forzadas vienen
+V|a vengarse de los dos?
+S|(Llega CATALINON a la puerta, y viene corriendo, cae y levántase)
+V|¿Qué es eso?
+V|¡Válgame Dios,
+V|que me matan, que me tienen!
+V|¿Quién te tiene? ¿Quién te mata?
+V|¿Qué has visto?
+V|Señor, yo allí
+V|vide, cuando luego fui,
+V|quién me ase, quién me arrebata.
+V|Llegué, cuando después ciego,
+V|cuando vile, juro a Dios,
+V|habló, y dijo, ¿quién sois vos?
+V|Respondió, respondí. Luego,
+V|Topé y vide...
+V|¿A quién?
+V|No sé.
+V|¡Como el vino desatina!
+V|Dame la vela, gallina,
+V|y yo a quien llama veré.
+V|Toma don JUAN la vela, y llega a la puerta, sale al encuentro don GONZALO, en la forma que estaba en el sepulcro, y don JUAN se retira atrás turbado, empuñando la espada, y en la otra la vela, y don GONZALO hacia él con pasos menudos, y al compás don JUAN, retirándose, hasta estar en medios del teatro
+V|¿Quién va?
+V|Yo soy.
+V|¿Quién sois vos?
+V|Soy el caballero honrado
+V|que a cenar has convidado.
+V|Cena habrá para los dos,
+V|y si vienen más contigo,
+V|para todos cena habrá,
+V|ya puesta la mesa está.
+V|Siéntate.
+V|¡Dios sea conmigo,
+V|San Panuncio, San Antón!
+V|Pues ¿los muertos comen? Di.
+V|Por señas dice que sí.
+V|Siéntate, Catalinón.
+V|No señor, yo lo recibo
+V|por cenado.
+V|Es desconcierto.
+V|¿Qué temor tienes a un muerto?
+V|¿Qué hicieras estando vivo?
+V|Necio y villano temor.
+V|Cena con tu convidado,
+V|que yo, señor, ya he cenado.
+V|¿He de enojarme?
+V|Señor,
+V|¡vive Dios que huelo mal!
+V|Llega, que aguardando estoy.
+V|Yo pienso que muerto soy
+V|y está muerto mi arrabal.
+S|(Tiemblan los CRIADOS)
+V|Y vosotros, ¿qué decís
+V|y qué hacéis? Necio temblar.
+V|Nunca quisiera cenar
+V|con gente de otro país.
+V|¿Yo, señor, con convidado
+V|de piedra?
+V|Necio temor.
+V|Si es piedra, ¿qué te ha de hacer?
+V|Dejarme descalabrado.
+V|Háblale con cortesía.
+V|¿Está bueno? ¿Es buena tierra
+V|la otra vida? ¿Es llano os sierra?
+V|¿Préciase allá la poesía?
+V|A todo dice que sí
+V|con la cabeza.
+V|¿Hay allá
+V|muchas tabernas? Sí habrá,
+V|si Noé reside allá.
+V|¡Hola, dadnos de cenar!
+V|Señor muerto, ¿allá se bebe
+V|con nieva?
+S|(Baja la cabeza don GONZALO)
+V|Así que allá hay nieve;
+V|buen país.
+V|Si oír cantar
+V|queréis, cantarán.
+S|(Baja la cabeza don GONZALO)
+V|Sí, dijo.
+V|Cantad.
+V|Tiene el señor muerto
+V|buen gusto.
+V|Es noble por cierto,
+V|y amigo de regocijo.
+S|(Cantan dentro)
+V|"Si de mi amar aguardáis,
+V|señora, de aquesta suerte,
+V|el galardón a la muerte,
+V|¡qué largo me lo fiáis!"
+V|O es sin duda veraniego
+V|el seor muerto, o debe ser
+V|hombre de poco comer.
+V|Temblando al plato me llego.
+S|(Bebe)
+V|Poco beben por allá,
+V|yo beberé por los dos.
+V|Brindis de piedra, por Dios,
+V|menos temor tengo ya.
+V|"Si este plazo me convida
+V|para que serviros pueda,
+V|pues larga vida me queda,
+V|dejad que pase la vida.
+V|Si de mi amor aguardáis,
+V|señora, de aquesta suerte,
+V|el galardón a la muerte,
+V|¡qué largo me lo fiáis!"
+V|¿Con cuál de tantas mujeres
+V|como has burlado, señor,
+V|hablan?
+V|De todas me río,
+V|amigo, en esta ocasión.
+V|En Nápoles a Isabela
+V|burlé.
+V|Ésa ya no es hoy
+V|burlada, porque se casa
+V|contigo, como es razón.
+V|Burlaste a la pescadora
+V|que del mar te redimió,
+V|pagándole el hospedaje
+V|en moneda de rigor.
+V|Burlaste a doña Ana...
+V|Calla,
+V|que hay parte aquí que lastó
+V|por ella, y vengarse aguarda.
+V|Hombre es de mucho valor,
+V|que él es piedra, tú eres carne,
+V|no es buena resolución.
+S|(GONZALO hace señas, que se quite la mesa, y queden solos)
+V|Hola, quitad esa mesa,
+V|que hace señas que los dos
+V|nos quedemos, y se vayan
+V|los demás.
+V|Malo, por Dios,
+V|no te quedes, porque hay muerto
+V|que mata de un mojicón
+V|a un gigante.
+V|Salíos todos,
+V|a ser yo Catalinón.
+V|Vete.
+S|(Vanse, y quedan los dos solos, y hace señas que cierre la puerta)
+V|¿Qué cierre la puerta?
+V|Ya está cerrada, y ya estoy
+V|aguardando lo que quieres,
+V|sombra, fantasma o visión.
+V|Si andas en pena, o si buscas
+V|alguna satisfacción,
+V|aquí estoy, dímelo a mí,
+V|que mi palabra te doy
+V|de hacer todo lo que ordenes.
+V|¿Estás gozando de Dios?
+V|¿Eres alma condenada
+V|o de la eterna región?
+V|¿Díte la muerte en pecado?
+V|Habla, que aguardando estoy.
+S|(Paso, como cosa del otro mundo)
+V|¿Cumplirásme una palabra
+V|como caballero?
+V|Honor
+V|tengo, y las palabras cumplo,
+V|porque caballero soy.
+V|Dame esa mano, no temas.
+V|¿Eso dices? ¿Yo temor?
+V|Si fueras el mismo infierno
+V|la mano te diera yo.
+S|(Dale la mano)
+V|Bajo esa palabra y mano
+V|mañana a las diez, te estoy
+V|para cenar aguardando.
+V|¿Irás?
+V|Empresa mayor
+V|entendí que me pedías.
+V|Mañana tu huésped soy.
+V|¿Dónde he de ir?
+V|A la capilla.
+V|¿Iré solo?
+V|No, id los dos,
+V|y cúmpleme la palabra
+V|como la he cumplido yo.
+V|Digo que la cumpliré,
+V|que soy Tenorio.
+V|Y yo soy
+V|Ulloa.
+V|Yo iré sin falta.
+V|Yo lo creo. Adiós.
+V|Adiós.
+S|(Va a la puerta)
+V|Aguarda, te alumbraré.
+V|No alumbres, que en gracia estoy.
+S|(Vase GONZALO muy poco a poco, mirando a don JUAN,)
+S|(y don JUAN a él, hasta que desaparece, y queda don JUAN con pavor)
+V|¡Válgame Dios! Todo el cuerpo
+V|se ha bañado de un sudor
+V|helado, y en las entrañas
+V|se me ha helado el corazón.
+V|Un aliento respiraba,
+V|organizando la voz
+V|tan frío, que parecía
+V|infernal respiración.
+V|Cuando me tomó la mano
+V|de suerte me la abrasó,
+V|que un infierno parecía
+V|más que no vital calor.
+V|Pero todas son ideas
+V|que da a la imaginación
+V|el temor; y temer muertos
+V|es más villano temor.
+V|Si un cuerpo con alma noble,
+V|con potencias y razón,
+V|y con ira, no se teme,
+V|¿quién cuerpos muertos temió?
+V|Iré mañana a la iglesia,
+V|donde convidado estoy,
+V|porque se admire y espante
+V|Sevilla de mi valor.
+S|(Vase don JUAN)
+S|(Sale el REY, don DIEGO Tenorio, y acompañamiento)
+V|¿Llegó al fin Isabela?
+V|Y disgustada.
+V|Pues ¿no ha tomado bien el casamiento?
+V|Siente, señor, el nombre de infamada.
+V|De otra causa precede su tormento,
+V|¿dónde está?
+V|En el convento está alojada
+V|de las Descalzas.
+V|Salga del convento
+V|luego al punto, que quiero que en palacio
+V|asista con la reina, más de espacio.
+V|Si ha de ser con don Juan el desposorio,
+V|manda, señor, que tu presencia vea.
+V|Véame, y galán salga, que notorio
+V|quiero que este placer al mundo sea.
+V|Conde será desde hoy, don Juan Tenorio,
+V|de Lebrija, él la mande y la posea;
+V|que si Isabela a un duque corresponde,
+V|ya que ha perdido un duque, gane un conde.
+V|Todos por la merced, tus pies besamos.
+V|Merecéis mi favor tan dignamente,
+V|que si aquí los servicios ponderamos,
+V|me quedo atrás con el favor presente.
+V|Paréceme, don Diego, que hoy hagamos
+V|las bodas de doña Ana juntamente.
+V|¿Con Octavio?
+V|No es bien que el duque Octavio
+V|sea el restaurador de aqueste agravio.
+V|Doña Ana, con la reina, me ha pedido
+V|que perdone al marqués, porque doña Ana,
+V|ya que el padre murió, quiere marido,
+V|porque si le perdió, con él le gana.
+V|Iréis con poca gente, y sin ruido
+V|luego a hablalle, a la fuerza de Triana,
+V|por su satisfacción, y por su abono,
+V|de su agraviada prima, le perdono.
+V|Ya he visto lo que tanto deseaba.
+V|Que esta noche han de ser, podéis decille,
+V|los desposorios.
+V|Todo en bien se acaba;
+V|fácil será el marqués el persuadille,
+V|que de su prima amartelado estaba.
+V|También podéis a Octavio prevenille.
+V|Desdichado es el duque con mujeres,
+V|son todas opinión, y pareceres.
+V|Hanme dicho que está muy enojado
+V|con don Juan.
+V|No me espanto, si ha sabido
+V|de don Juan el delito averiguado
+V|que la causa de tanto daño ha sido.
+V|El duque viene.
+V|No dejéis mi lado,
+V|que en el delito sois comprehendido.
+S|(Sale el duque OCTAVIO)
+V|Los pies, invicto rey, me dé tu alteza.
+V|Alzad, duque, y cubrid vuestra cabeza.
+V|¿Qué pedís?
+V|Vengo a pediros,
+V|postrado ante vuestras plantas,
+V|una merced, cosa justa,
+V|digan de serme otorgada.
+V|Duque, como justa sea,
+V|digo que os doy mi palabra
+V|de otorgárosla. Pedid.
+V|Ya sabes, señor, por cartas
+V|de tu embajador, y el mundo
+V|por la lengua de la fama
+V|sabe, que don Juan Tenorio,
+V|con española arrogancia,
+V|en Nápoles, una noche,
+V|para mí noche tan mala,
+V|con mi nombre profanó
+V|el sagrado de una dama.
+V|No pases más adelante,
+V|ya supe vuestra desgracia,
+V|en efecto. ¿Qué pedís?
+V|Licencia que en la campaña
+V|defienda cómo es traidor.
+V|Eso no, su sangre clara
+V|es tan honrada.
+V|Don Diego...
+V|¿Señor?...
+V|¿Quién eres, que hablas
+V|en la presencia del rey
+V|de esta suerte?
+V|Soy quien calla
+V|porque me lo manda el rey,
+V|que si no, con esta espada
+V|te respondiera.
+V|Eres viejo.
+V|Yo he sido mozo en Italia,
+V|a vuestro pesar un tiempo.
+V|Ya conocieron mi espada
+V|en Nápoles y en Milán.
+V|Tienes ya la sangre helada,
+V|no vale fui, sino soy.
+S|(Empuña don DIEGO)
+V|Pues fui, y soy.
+V|Tened, basta,
+V|bueno está. Callad don Diego,
+V|que a mi persona se guarda
+V|poco respeto, y vos, duque,
+V|después que las bodas se hagan,
+V|más de espacio me hablaréis.
+V|Gentilhombre de mi cámara
+V|es don Juan, y hechura mía,
+V|y de aqueste tronco rama.
+V|Mirad por él.
+V|Yo lo haré,
+V|gran señor, como lo mandas.
+V|Venid conmigo, don Diego.
+V|¡Ay hijo, qué mal me pagas
+V|el amor que te he tenido!
+V|Duque...
+V|Gran señor...
+V|Mañana
+V|vuestras bodas han de hacer.
+V|Háganse, pues tú lo mandas.
+S|(Vase le REY y don DIEGO, y salen GASENO y AMINTA)
+V|Este señor nos dirá
+V|dónde está don Juan Tenorio.
+V|Señor, Si está por acá
+V|un don Juan, a quien notorio
+V|ya su apellido será?
+V|Don Juan Tenorio diréis.
+V|Sí, señor, ese don Juan.
+V|Aquí está. ¿Qué le queréis?
+V|Es mi esposo ese galán.
+V|¿Cómo?
+V|Pues, ¿no lo sabéis
+V|siendo del Alcázar vos?
+V|No me ha dicho don Juan nada.
+V|¿Es posible?
+V|Sí, por Dios.
+V|Doña Aminta es muy honrada
+V|cuando se casen los dos,
+V|que cristiana vieja es
+V|hasta lo huesos, y tiene
+V|de la hacienda el interés
+V|y a su virtud aun le aviene
+V|más bien que un conde, un marqués.
+V|Casóse don Juan con ella,
+V|y quitósela a Batricio.
+V|Decid cómo fui doncella
+V|a su poder.
+V|No es juicio
+V|esto, ni aquesta querella.
+V|(Ésta es burla de don Juan,
+S|(Aparte)
+V|y para venganza mía
+V|éstos diciéndola están.)
+V|¿Qué pedís al fin?
+V|Querría,
+V|porque los días se van,
+V|que se hiciese el casamiento,
+V|o querellarme ante el rey.
+V|Digo que es justo ese intento.
+V|Y razón, y justa ley.
+V|Medida y mi pensamiento
+V|ha venido la ocasión;
+V|en el Alcázar tenemos
+V|bodas.
+V|¿Si las mías son?
+V|Quiero, para que acertemos
+V|valerme de una invención.
+V|Venid donde os vestiréis,
+V|señora, a lo cortesano,
+V|y a un cuarto del rey saldréis
+V|conmigo.
+V|Vos de la mano
+V|a don Juan me llevaréis.
+V|(Que de esta suerte es cautela).
+S|(Aparte)
+V|El arbitrio me consuela.
+V|(Éstos venganza me dan
+S|(Aparte)
+V|de aqueste traidor don Juan
+V|y el agravio de Isabela.
+S|(Vanse todos)
+S|(Salen don JUAN y CATALINON)
+V|¿Cómo el rey te recibió?
+V|Con más amor que mi padre.
+V|¿Viste a Isabela?
+V|También.
+V|¿Cómo viene?
+V|Como un ángel.
+V|¿Recibióte bien?
+V|El rostro
+V|bañado de leche, y sangre,
+V|como la rosa que al alba
+V|revienta la verde cárcel.
+V|¿Al fin esta noche son
+V|las bodas?
+V|Sin falta.
+V|Si antes
+V|hubieran sido, no hubieras
+V|engañado a tantas antes.
+V|Pero tú tomas esposa,
+V|señor, con cargas muy grandes.
+V|Di, ¿comienzas a ser necio?
+V|Y podrás muy bien casarte
+V|mañana, que hoy es mal día.
+V|Pues ¿qué día es hoy?
+V|Es martes.
+V|Mil embusteros y locos
+V|dan en esos disparates.
+V|Sólo aquél llamo mal día,
+V|aciago y detestable,
+V|en que no tengo dineros,
+V|que los demás es donaire.
+V|Vamos, si te has de vestir,
+V|que te aguardarán y es tarde.
+V|Otro negocio tenemos
+V|que hacer, aunque nos aguarden.
+V|¿Cuál es?
+V|Cenar con el muerto.
+V|Necedad de necedades.
+V|¿No ves que di mi palabra?
+V|¿Y cuando se la quebrantes,
+V|qué importa? ¿Habrá de pedirte
+V|una figura de jaspe
+V|la palabra?
+V|Podrá el muerto
+V|llamarme a voces infame.
+V|Ya está cerrada la iglesia.
+V|Llama.
+V|¿Qué importa que llame?
+V|¿Quién tiene de abrir, que están
+V|durmiendo los sacristanes?
+V|Llama a ese postigo.
+V|Abierto
+V|está.
+V|Pues entra.
+V|¡Entre un fraile
+V|con hisopo y con estola!
+V|Sígueme y calla.
+V|¿Que calle?
+V|Sí.
+V|Ya callo. Dios en paz
+V|de estos convites me saque.
+S|(Entran por una puerta y salen por otra)
+V|¡Qué oscura que está la iglesia,
+V|señor, para ser tan grande!
+V|¡Ay de mí! ¡Tenme, señor,
+V|porque de la capa me asen!
+S|(Sale don GONZALO como de antes y encuéntrase con ellos)
+V|¿Quién es?
+V|Yo soy.
+V|Muerto estoy.
+V|El muerto soy, no te espantes,
+V|no entendí que me cumplieras
+V|la palabra, según haces
+V|de todos burla.
+V|¿Me tienes
+V|en opinión de cobarde?
+V|Sí, que aquella noche huíste
+V|de mí, cuando me mataste.
+V|Huí de ser conocido,
+V|mas ya me tienes delante,
+V|di presto lo que me quieres.
+V|Quiero a cenar convidarte.
+V|Aquí excusamos la cena,
+V|que toda ha de ser fiambre
+V|pues no parece cocina
+V|[si al convidado le mate].
+V|Cenemos.
+V|Para cenar
+V|es menester que levantes
+V|esa tumba.
+V|{{Pt|
+V|"Mientras en el mundo viva,
+V|no es justo que diga nadie
+V|qué largo me lo fiáis
+V|siendo tan breve el cobrarse."
+V|¿De qué es este guisadillo?
+V|De uñas.
+V|De uñas de sastre
+V|será, si es guisado de uñas.
+V|Ya he cenado, haz que levanten
+V|la mesa.
+V|Dame esa mano.
+V|No temas, la mano dame.
+V|¿Eso dices? ¿Yo temor?
+V|¡Que me abraso! No me abrases
+V|con tu fuego.
+V|Aquéste es poco
+V|para el fuego que buscaste.
+V|Las maravillas de Dios
+V|son, don Juan, investigables,
+V|y así quiere que tus culpas
+V|a manos de un muerto pagues,
+V|y así pagas de esta suerte
+V|las doncellas que burlaste.
+V|Ésta es justicia de Dios,
+V|quien tal hace, que tal pague.
+V|Que me abraso, no me aprietes,
+V|con la daga he de matarte,
+V|mas, ay, que me canso en vano
+V|de tirar golpes al aire!
+V|A tu hija no ofendí,
+V|que vio mis engaños antes.
+V|No importa, que ya pusiste
+V|tu intento.
+V|Deja que llame
+V|quien me confiese y absuelva.
+V|No hay lugar, ya acuerdas tarde.
+V|¡Que me quemo! ¡Que me abraso!
+V|Muerto soy.
+S|(Cae muerto don JUAN)
+V|No hay quien se escape,
+V|que aquí tengo de morir
+V|también por acompañarte.
+V|Ésta es justicia de Dios,
+V|quien tal hace, que tal pague.
+S|(Húndese el sepulcro con don JUAN, y don GONZALO,)
+S|(con mucho ruido, y sale CATALINON arrastrando)
+V|¡Válgame Dios! ¿Qué es aquesto?
+V|Toda la capilla se arde,
+V|y con el muerto he quedado,
+V|para que le vele y guarde
+V|Arrastrando como pueda,
+V|iré a avisar a su padre,
+V|san Jorge, san Agnus Dei,
+V|sacadme en paz a la calle.
+S|(Vase CATALINON)
+S|(Sale el REY, don DIEGO y acompañamiento)
+V|Ya el marqués, señor, espera
+V|besar vuestros pies reales.
+V|Entre luego y avisad
+V|al conde, porque no aguarde.
+S|(Salen BATRICIO y GASENO)
+V|¿Dónde, señor, se permiten
+V|desenvolturas tan grandes?
+V|Que tus criados afrenten
+V|a los hombres miserables.
+V|¿Qué dices?
+V|Don Juan Tenorio,
+V|alevoso y detestable,
+V|la noche del casamiento,
+V|antes que le consumase,
+V|a mi mujer me quitó,
+V|testigos tengo delante.
+S|(Salen TISBEA e ISABELA y acompañamiento)
+V|Si vuestra alteza, señor,
+V|de don Juan Tenorio no hace
+V|justicia, a Dios y a los hombres,
+V|mientras viva he de quejarme.
+V|Derrotado le echó el mar,
+V|díle vida y hospedaje,
+V|y pagóme esta amistad
+V|con mentirme y engañarme
+V|con nombre de mi marido.
+V|¿Qué dices?
+V|Dice verdades.
+S|(Salen AMINTA y el duque OCTAVIO)
+V|¿Adónde mi esposo está?
+V|¿Quién es?
+V|Pues, ¿aún no lo sabe?
+V|El señor don Juan Tenorio,
+V|con quien vengo a desposarme,
+V|porque me debe el honor,
+V|y es noble, y no ha de negarme.
+V|Manda que nos desposemos.
+V|¿Esto mis privados hacen?
+V|Prendedle y matadle luego.
+V|¿Esto mis privados hacen?
+S|(Sale el marqués de la MOTA)
+V|Pues es tiempo, gran señor,
+V|que a luz verdades se saquen,
+V|sabrás que don Juan Tenorio
+V|la culpa que me imputaste
+V|cometió, que con mi capa
+V|pudo él cruel engañarme
+V|de que tengo dos testigos.
+V|¿Hay desvergüenza tan grande?
+V|En premio de mis servicios
+V|haz que le prendan, y pague
+V|sus culpas, porque del cielo
+V|rayos contra mí no bajen,
+V|siendo mi hijo tan malo.
+V|¿Esto mis privados hacen?
+S|(Sale CATALINON)
+V|Escuchad, oíd, señores,
+V|el suceso más notable
+V|que en el mundo ha sucedido,
+V|y en oyéndolo matadme.
+V|Don Juan, del comendador
+V|haciendo burla una tarde,
+V|después de haberle quitado
+V|las dos prendas que más valen,
+V|tirando al bulto de piedra
+V|la barba por ultrajarle,
+V|a cenar le convidó.
+V|¡Nunca fuera a convidarle!
+V|Fue el bulto, y le convidó
+V|y agora, porque no os canse,
+V|acabando de cenar
+V|entre mil presagios graves
+V|de la mano le tomó
+V|y le aprieta hasta quitalle
+V|la vida, diciendo "Dios
+V|me manda que así te mate,
+V|castigando tus delitos.
+V|¡Quién tal hace, que tal pague!"
+V|¿Qué dices?
+V|Lo que es verdad,
+V|diciendo antes que acabase,
+V|que a doña Ana no debía
+V|honor, que lo oyeron antes
+V|del engaño.
+V|Por las nuevas
+V|mil albricias quiero darte.
+V|¡Justo castigo del cielo!
+V|Y agora es bien que se casen
+V|todos, pues la causa es muerta,
+V|vida de tantos desastres.
+V|Pues ha enviudado Isabela,
+V|quiero con ella casarme.
+V|Yo con mi prima.
+V|Y nosotros
+V|con las nuestras, porque acabe
+V|"El convidado de piedra."
+V|Y el sepulcro se traslade
+V|en San Francisco en Madrid
+V|para memoria más grande.
+S|( FIN DE LA COMEDIA)

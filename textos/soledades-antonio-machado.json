@@ -1,0 +1,205 @@
+{
+  "slug": "soledades-antonio-machado",
+  "title": "Soledades",
+  "author": "Antonio Machado",
+  "author_route": "",
+  "book_route": "/soledades-antonio-machado/",
+  "translator": "",
+  "edition": "Soledades, galerías y otros poemas, Madrid, 1919",
+  "source_url": "https://es.wikisource.org/wiki/Soledades_%28Machado%29",
+  "source_revision": 1417685,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "prologo",
+      "title": "Prólogo de la segunda edición",
+      "summary": "Empieza: «PRÓLOGO DE LA SEGUNDA EDICIÓN DE \"SOLEDADES, GALERIAS»",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "slug": "el-viajero-machado",
+      "title": "El viajero",
+      "summary": "Empieza: «Está en la sala familiar, sombría, / y entre nosotros, el querido hermano»",
+      "start": 6,
+      "end": 62
+    },
+    {
+      "slug": "he-andado-muchos-caminos",
+      "title": "He andado muchos caminos",
+      "summary": "Empieza: «He andado muchos caminos, / he abierto muchas veredas,»",
+      "start": 63,
+      "end": 119
+    },
+    {
+      "slug": "la-plaza-y-los-naranjos-encendidos",
+      "title": "La plaza y los naranjos encendidos",
+      "summary": "Empieza: «La plaza y los naranjos encendidos / con sus frutas redondas y risueñas.»",
+      "start": 120,
+      "end": 130
+    },
+    {
+      "slug": "en-el-entierro-de-un-amigo",
+      "title": "En el entierro de un amigo",
+      "summary": "Empieza: «Tierra le dieron una tarde horrible / del mes de julio, bajo el sol de fuego.»",
+      "start": 131,
+      "end": 169
+    },
+    {
+      "slug": "recuerdo-infantil",
+      "title": "Recuerdo infantil",
+      "summary": "Empieza: «Una tarde parda y fría / de invierno. Los colegiales»",
+      "start": 170,
+      "end": 206
+    },
+    {
+      "slug": "fue-una-clara-tarde-triste-y-sonolienta",
+      "title": "Fue una clara tarde, triste y soñolienta",
+      "summary": "Empieza: «Fué una clara tarde, triste y soñolienta, / tarde de verano. La hiedra asomaba»",
+      "start": 207,
+      "end": 321
+    },
+    {
+      "slug": "el-limonero-languido-suspende",
+      "title": "El limonero lánguido suspende",
+      "summary": "Empieza: «El limonero lánguido suspende / una pálida rama polvorienta»",
+      "start": 322,
+      "end": 355
+    },
+    {
+      "slug": "yo-escucho-los-cantos",
+      "title": "Yo escucho los cantos",
+      "summary": "Empieza: «Yo escucho los cantos / de viejas cadencias»",
+      "start": 356,
+      "end": 409
+    },
+    {
+      "slug": "orillas-del-duero",
+      "title": "Orillas del Duero",
+      "summary": "Empieza: «Se ha asomado una cigüeña a lo alto del campanario. / Girando en torno a la torre y al caserón solitario.»",
+      "start": 410,
+      "end": 444
+    },
+    {
+      "slug": "a-la-desierta-plaza",
+      "title": "A la desierta plaza",
+      "summary": "Empieza: «A la desierta plaza / conduce un laberinto de callejas.»",
+      "start": 445,
+      "end": 461
+    },
+    {
+      "slug": "yo-voy-sonando-caminos",
+      "title": "Yo voy soñando caminos",
+      "summary": "Empieza: «Yo voy soñando caminos / de la tarde. ¡Las colinas»",
+      "start": 462,
+      "end": 486
+    },
+    {
+      "slug": "amada-el-aura-dice",
+      "title": "Amada, el aura dice...",
+      "summary": "Empieza: «Amada, el aura dice / tu pura veste blanca...»",
+      "start": 487,
+      "end": 507
+    },
+    {
+      "slug": "hacia-un-ocaso-radiante",
+      "title": "Hacia un ocaso radiante",
+      "summary": "Empieza: «Hacia un ocaso radiante / caminaba el sol de estío,»",
+      "start": 508,
+      "end": 559
+    },
+    {
+      "slug": "cante-hondo",
+      "title": "Cante hondo",
+      "summary": "Empieza: «Yo meditaba absorto, devanando / los hilos del hastío y la tristeza,»",
+      "start": 560,
+      "end": 580
+    },
+    {
+      "slug": "la-calle-en-sombra-ocultan-los-altos-caserones",
+      "title": "La calle en sombra. Ocultan los altos caserones",
+      "summary": "Empieza: «La calle en sombra. Ocultan los altos caserones / el sol que muere; hay ecos de luz en los balcones.»",
+      "start": 581,
+      "end": 591
+    },
+    {
+      "slug": "siempre-fugitiva-y-siempre",
+      "title": "Siempre fugitiva y siempre...",
+      "summary": "Empieza: «Siempre fugitiva y siempre / cerca de mí, en negro manto»",
+      "start": 592,
+      "end": 607
+    },
+    {
+      "slug": "horizonte",
+      "title": "Horizonte",
+      "summary": "Empieza: «En una tarde clara y amplia como el hastío / cuando su lanza blande el tórrido verano,»",
+      "start": 608,
+      "end": 618
+    },
+    {
+      "slug": "el-poeta-machado",
+      "title": "El poeta",
+      "summary": "Empieza: «Para el libro “La casa de la primavera”, de Gregorio Martínez Sierra.»",
+      "start": 619,
+      "end": 670
+    },
+    {
+      "slug": "verdes-jardinillos",
+      "title": "¡Verdes jardinillos!",
+      "summary": "Empieza: «¡Verdes jardinillos, / claras plazoletas,»",
+      "start": 671,
+      "end": 699
+    }
+  ],
+  "description": "Soledades de Antonio Machado: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Poesía sobre el tiempo, la memoria y el paisaje del alma.",
+  "intro": "<p>Soledades es el primer libro de Antonio Machado, publicado en 1903 y ampliado después como Soledades, galerías y otros poemas. Son poemas breves, de tono íntimo y melancólico, en los que el poeta pasea por plazas, jardines y caminos al atardecer y conversa con el agua de las fuentes, los recuerdos de la infancia y sus propios sueños.</p><p>Aquí puedes leer Soledades completo, dividido en poemas. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 75,
+    "art": {
+      "file": "soledades-antonio-machado.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/soledades-antonio-machado/ilustracion.jpg",
+      "credit": "Santiago Rusiñol, «Jardín de Aranjuez». Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Poesía",
+    "unidad": "poemas",
+    "tema": "el tiempo, la memoria y el paisaje del alma",
+    "resumen": [
+      "Soledades es el primer libro de Antonio Machado, publicado en 1903 y ampliado después como Soledades, galerías y otros poemas. Son poemas breves, de tono íntimo y melancólico, en los que el poeta pasea por plazas, jardines y caminos al atardecer y conversa con el agua de las fuentes, los recuerdos de la infancia y sus propios sueños.",
+      "La influencia del simbolismo y de Bécquer se nota en la música del verso y en la importancia del paisaje como espejo del alma. Poemas como El viajero, Recuerdo infantil, La plaza y los naranjos encendidos o Yo voy soñando caminos hablan del paso del tiempo, de la muerte y del deseo de encontrar un sentido en la vida interior."
+    ],
+    "personajes": [],
+    "ideas": [
+      "El tiempo y la memoria: la infancia, la tarde, lo que pasó.",
+      "El paisaje como reflejo de los sentimientos.",
+      "La soledad y el sueño como caminos de conocimiento.",
+      "La influencia del modernismo y del simbolismo."
+    ],
+    "faq": [
+      [
+        "¿Cuándo se publicó Soledades?",
+        "En 1903. En 1907 Machado lo amplió con el título Soledades, galerías y otros poemas."
+      ],
+      [
+        "¿Qué es Recuerdo infantil?",
+        "El poema que empieza «Una tarde parda y fría de invierno»: el recuerdo de una clase de su infancia en Sevilla."
+      ],
+      [
+        "¿En qué se diferencia de Campos de Castilla?",
+        "Soledades mira hacia dentro, al alma y al recuerdo. Campos de Castilla mira hacia fuera, al paisaje castellano y a España."
+      ],
+      [
+        "¿Qué edición es esta?",
+        "La sección Soledades de la edición de 1919 de Soledades, galerías y otros poemas."
+      ]
+    ]
+  }
+}

@@ -54,3 +54,4 @@ sup a{text-decoration:none;color:#8a6d3b}
 .colophon p{text-align:center}
 .chapter p.verse{font-style:italic;text-align:center;margin:-.2em 0 .7em}
 .chapter p.stage-note{font-style:italic;font-size:9pt;color:#5b5348;text-align:center;margin:5mm 6mm;padding:2mm 0;border-block:.4pt solid #cbbfa9}
+.inner-title{font:400 1.3em/1.2 "Caslon Display",Georgia,serif;text-align:center;margin:2em 0 .9em;break-after:avoid}

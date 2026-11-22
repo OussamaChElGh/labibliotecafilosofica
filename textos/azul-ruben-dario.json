@@ -1,0 +1,345 @@
+{
+  "slug": "azul-ruben-dario",
+  "title": "Azul...",
+  "author": "Rubén Darío",
+  "author_route": "",
+  "book_route": "/azul-ruben-dario/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://es.wikisource.org/wiki/Azul...",
+  "source_revision": 1322730,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "a-don-ruben-dario",
+      "title": "A D. Rubén Darío",
+      "summary": "Empieza: «Todo libro, que desde América llega a mis manos, excita mi interés y despierta mi curiosidad; pero ninguno hasta hoy la ha…»",
+      "start": 0,
+      "end": 178
+    },
+    {
+      "slug": "el-rey-burgues",
+      "title": "El rey burgués",
+      "summary": "Empieza: «Amigo! el cielo está opaco, el aire frío, el día triste. Un cuento alegre.., así como para distraer las hermosas y grises…»",
+      "start": 179,
+      "end": 217
+    },
+    {
+      "slug": "el-satiro-sordo",
+      "title": "El sátiro sordo",
+      "summary": "Empieza: «Habitaba cerca del Olimpo un sátiro, y era el viejo rey de su selva. Los dioses le habían dicho: «Goza, el bosque…»",
+      "start": 218,
+      "end": 244
+    },
+    {
+      "slug": "la-ninfa",
+      "title": "La ninfa",
+      "summary": "Empieza: «¡El poeta ha visto ninfas!»",
+      "start": 245,
+      "end": 277
+    },
+    {
+      "slug": "el-fardo",
+      "title": "El fardo",
+      "summary": "Empieza: «Allá lejos, en la línea como trazada con un lápiz azul, que separa las aguas y los cielos, se iba hundiendo el…»",
+      "start": 278,
+      "end": 315
+    },
+    {
+      "slug": "el-velo-de-la-reina-mab",
+      "title": "El velo de la reina Mab",
+      "summary": "Empieza: «La reina Mab, en su carro hecho de una sola perla, tirado por cuatro coleópteros de petos dorados y alas de pedrería,…»",
+      "start": 316,
+      "end": 332
+    },
+    {
+      "slug": "la-cancion-de-oro",
+      "title": "La canción del oro",
+      "summary": "Empieza: «Aquel día, un harapiento, por las trazas un mendigo, tal vez un peregrino, quizá un poeta, llegó, bajo la sombra de los…»",
+      "start": 333,
+      "end": 369
+    },
+    {
+      "slug": "el-rubi",
+      "title": "El rubí",
+      "summary": "Empieza: «¡Ah, conque es cierto! ¡Conque ese sabio parisiense ha logrado sacar del fondo de sus retortas, de sus matraces, la púrpura cristalina…»",
+      "start": 370,
+      "end": 443
+    },
+    {
+      "slug": "el-palacio-del-sol",
+      "title": "El palacio del sol",
+      "summary": "Empieza: «A vosotras, madres de las muchachas anémicas, va esta historia, la historia de Berta, la niña de los ojos color de aceituna,…»",
+      "start": 444,
+      "end": 467
+    },
+    {
+      "slug": "el-pajaro-azul",
+      "title": "El pájaro azul",
+      "summary": "Empieza: «París es teatro divertido y terrible. Entre los concurrentes al café Plombier, buenos y decididos muchachos - pintores, escultores, poetas - sí,…»",
+      "start": 468,
+      "end": 509
+    },
+    {
+      "slug": "palomas-blancas-y-garzas-morenas",
+      "title": "Palomas blancas y garzas morenas",
+      "summary": "Empieza: «Mi prima Inés era rubia como una alemana. Fuimos criados juntos, desde muy niños, en casa de la buena abuelita que nos…»",
+      "start": 510,
+      "end": 555
+    },
+    {
+      "slug": "en-busca-de-cuadros",
+      "title": "En busca de cuadros",
+      "summary": "Empieza: «Sin pinceles, sin paleta, sin papel, sin lápiz, Ricardo, poeta lírico incorregible, huyendo de las agitaciones y turbulencias, de las máquinas y…»",
+      "start": 556,
+      "end": 561
+    },
+    {
+      "slug": "acuarela-1",
+      "title": "Acuarela 1",
+      "summary": "Empieza: «Había cerca un bello jardín, con más rosas que azaleas y más violetas que rosas. Un bello y pequeño jardín, con jarrones,…»",
+      "start": 562,
+      "end": 575
+    },
+    {
+      "slug": "paisaje-1",
+      "title": "Paisaje 1",
+      "summary": "Empieza: «A poco andar se detuvo.»",
+      "start": 576,
+      "end": 581
+    },
+    {
+      "slug": "aguafuerte",
+      "title": "Aguafuerte",
+      "summary": "Empieza: «¿Pero para dónde diablos iba?»",
+      "start": 582,
+      "end": 587
+    },
+    {
+      "slug": "la-virgen-de-la-paloma",
+      "title": "La virgen de la paloma",
+      "summary": "Empieza: «Anduvo, anduvo.»",
+      "start": 588,
+      "end": 593
+    },
+    {
+      "slug": "la-cabeza-dario",
+      "title": "La cabeza",
+      "summary": "Empieza: «Por la noche, sonando aún en sus oídos la música del Odeón, y los parlamentos de Astol; de vuelta de las calles…»",
+      "start": 594,
+      "end": 598
+    },
+    {
+      "slug": "acuarela-2",
+      "title": "Acuarela 2",
+      "summary": "Empieza: «Primavera. Ya las azucenas floridas y llenas de miel han abierto sus cálices pálidos bajo el oro del sol. Ya los gorriones…»",
+      "start": 599,
+      "end": 604
+    },
+    {
+      "slug": "un-retrato-de-watteau",
+      "title": "Un retrato de Watteau",
+      "summary": "Empieza: «Estáis en los misterios de un tocador. Estáis viendo ese brazo de ninfa, esas manos diminutas que empolvan el haz de rizos…»",
+      "start": 605,
+      "end": 611
+    },
+    {
+      "slug": "naturaleza-muerta",
+      "title": "Naturaleza muerta",
+      "summary": "Empieza: «He visto ayer por una ventana un tiesto lleno de lilas y de rosas pálidas, sobre un trípode. Por fondo tenía uno…»",
+      "start": 612,
+      "end": 616
+    },
+    {
+      "slug": "al-carbon",
+      "title": "Al carbón",
+      "summary": "Empieza: «Vibraba el órgano con sus voces trémulas, vibraba acompañando la antífona, llenando la nave con su armonía gloriosa. Los cirios ardían goteando…»",
+      "start": 617,
+      "end": 620
+    },
+    {
+      "slug": "paisaje-2",
+      "title": "Paisaje 2",
+      "summary": "Empieza: «Hay allá, en las orillas de la laguna de la Quinta, un sauce melancólico que moja de continuo su cabellera verde, en…»",
+      "start": 621,
+      "end": 628
+    },
+    {
+      "slug": "el-ideal-ruben-dario",
+      "title": "El ideal",
+      "summary": "Empieza: «Y luego, una torre de marfil, una flor mística, una estrella a quien enamorar...Pasó, la vi como quien viera un alba, huyente,…»",
+      "start": 629,
+      "end": 632
+    },
+    {
+      "slug": "la-muerte-de-la-emperatriz-de-china",
+      "title": "La muerte de la emperatriz de China",
+      "summary": "Empieza: «Delicada y fina como una joya humana, vivía aquella muchachita de carne rosada, en la pequeña casa que tenía un saloncito con…»",
+      "start": 633,
+      "end": 682
+    },
+    {
+      "slug": "a-una-estrella-ruben-dario",
+      "title": "A una estrella",
+      "summary": "Empieza: «Princesa del divino imperio azul, quién besara tus labios luminosos!»",
+      "start": 683,
+      "end": 692
+    },
+    {
+      "slug": "primaveral",
+      "title": "Primaveral",
+      "summary": "Empieza: «Mes de rosas. Van mis rimas / en ronda, a la vasta selva,»",
+      "start": 693,
+      "end": 807
+    },
+    {
+      "slug": "estival",
+      "title": "Estival",
+      "summary": "Empieza: «La tigre de Bengala, / con su lustrosa piel manchada a trechos,»",
+      "start": 808,
+      "end": 959
+    },
+    {
+      "slug": "autumnal",
+      "title": "Autumnal",
+      "summary": "Empieza: «En las pálidas tardes / yerran nubes tranquilas»",
+      "start": 960,
+      "end": 1031
+    },
+    {
+      "slug": "invernal-dario",
+      "title": "Invernal",
+      "summary": "Empieza: «Noche. Este viento vagabundo lleva / las alas entumidas»",
+      "start": 1032,
+      "end": 1159
+    },
+    {
+      "slug": "pensamiento-de-otono",
+      "title": "Pensamiento de otoño",
+      "summary": "Empieza: «Huye el año a su término / como arroyo que pasa,»",
+      "start": 1160,
+      "end": 1222
+    },
+    {
+      "slug": "a-un-poeta-ruben-dario-2",
+      "title": "A un poeta",
+      "summary": "Empieza: «Nada más triste que un titán que llora, / hombre-montaña encadenado a un lirio,»",
+      "start": 1223,
+      "end": 1279
+    },
+    {
+      "slug": "anagke",
+      "title": "Anagké",
+      "summary": "Empieza: «Y dijo la paloma: / —Yo soy feliz. Bajo el inmenso cielo,»",
+      "start": 1280,
+      "end": 1358
+    },
+    {
+      "slug": "caupolican",
+      "title": "Sonetos",
+      "summary": "Empieza: «Es algo formidable que vió la vieja raza: / robusto tronco de árbol al hombro de un campeón»",
+      "start": 1359,
+      "end": 1373
+    },
+    {
+      "slug": "venus-dario",
+      "title": "Venus",
+      "summary": "Empieza: «En la tranquila noche, mis nostalgias amargas sufría. / En busca de quietud bajé al fresco y callado jardín.»",
+      "start": 1374,
+      "end": 1388
+    },
+    {
+      "slug": "de-invierno-dario",
+      "title": "De invierno",
+      "summary": "Empieza: «En invernales horas, mirad a Carolina. / Medio apelotonada, descansa en el sillón,»",
+      "start": 1389,
+      "end": 1403
+    },
+    {
+      "slug": "leconte-de-lisle-dario",
+      "title": "Medallones",
+      "summary": "Empieza: «De las eternas musas el reino soberano / recorres, bajo un soplo de vasta inspiración,»",
+      "start": 1404,
+      "end": 1418
+    },
+    {
+      "slug": "catulle-mendes",
+      "title": "Catulle Mendés",
+      "summary": "Empieza: «Puede ajustarse al pecho coraza férrea y dura; / puede regir la lanza, la rienda del corcel;»",
+      "start": 1419,
+      "end": 1433
+    },
+    {
+      "slug": "walt-whitman-dario",
+      "title": "Walt Whitman",
+      "summary": "Empieza: «En su país de hierro vive el gran viejo, / bello como un patriarca, sereno y santo.»",
+      "start": 1434,
+      "end": 1448
+    },
+    {
+      "slug": "j-j-palma",
+      "title": "J. J. Palma",
+      "summary": "Empieza: «Ya de un corintio templo cincela una metopa, / ya de un morisco alcázar el capitel sutil,»",
+      "start": 1449,
+      "end": 1463
+    },
+    {
+      "slug": "salvador-diaz-miron-dario",
+      "title": "Salvador Díaz Mirón",
+      "summary": "Empieza: «Tu cuarteto es cuadriga de águilas bravas / que aman las tempestades, los Océanos;»",
+      "start": 1464,
+      "end": 1478
+    }
+  ],
+  "description": "Azul... de Rubén Darío: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Cuentos y poesía sobre el arte, la belleza y el modernismo.",
+  "intro": "<p>Azul... es el libro con el que Rubén Darío inauguró el modernismo. Lo publicó en Valparaíso (Chile) en 1888 y lo amplió en 1890. Reúne cuentos en prosa poética y poemas en los que el nicaragüense busca una belleza nueva: el color, la música de la palabra, los mundos exóticos y la mitología, frente a la vulgaridad del mundo práctico.</p><p>Aquí puedes leer Azul... completo, dividido en textos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 76,
+    "art": {
+      "file": "azul-ruben-dario.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/azul-ruben-dario/ilustracion.jpg",
+      "credit": "James McNeill Whistler, «Nocturno en azul y oro: el viejo puente de Battersea» (h. 1872-1875), Tate. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Cuentos y poesía",
+    "unidad": "textos",
+    "tema": "el arte, la belleza y el modernismo",
+    "resumen": [
+      "Azul... es el libro con el que Rubén Darío inauguró el modernismo. Lo publicó en Valparaíso (Chile) en 1888 y lo amplió en 1890. Reúne cuentos en prosa poética y poemas en los que el nicaragüense busca una belleza nueva: el color, la música de la palabra, los mundos exóticos y la mitología, frente a la vulgaridad del mundo práctico.",
+      "Entre los cuentos destacan El rey burgués, sobre un poeta que muere de frío olvidado por un rey que no entiende el arte; El velo de la reina Mab; La muerte de la emperatriz de China y El pájaro azul. La parte en verso, El año lírico, recorre las cuatro estaciones con poemas como Primaveral y Autumnal, y el libro se cierra con sonetos a figuras como Caupolicán y Walt Whitman."
+    ],
+    "personajes": [],
+    "ideas": [
+      "El arte y la belleza frente al materialismo burgués.",
+      "La figura del poeta incomprendido.",
+      "El color azul como símbolo del ideal.",
+      "La renovación del idioma: el modernismo hispanoamericano."
+    ],
+    "faq": [
+      [
+        "¿Por qué se llama Azul...?",
+        "Porque el azul era para Darío el color del ideal, del arte y del ensueño, siguiendo la frase de Victor Hugo «el arte es azul»."
+      ],
+      [
+        "¿De qué trata El rey burgués?",
+        "Un poeta llega a la corte de un rey rico y vulgar, que lo pone a dar vueltas a un organillo en el jardín. El poeta muere de frío en invierno."
+      ],
+      [
+        "¿Por qué es tan importante?",
+        "Porque marca el inicio del modernismo, el primer movimiento literario nacido en Hispanoamérica que influyó en España."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1888 en Valparaíso. La segunda edición, ampliada, es de 1890."
+      ]
+    ]
+  }
+}

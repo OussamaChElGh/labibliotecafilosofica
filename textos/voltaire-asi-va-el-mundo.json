@@ -1,0 +1,71 @@
+{
+  "slug": "voltaire-asi-va-el-mundo",
+  "title": "Así va el mundo",
+  "author": "Voltaire",
+  "author_route": "/libros-pdf-gratis/autores/voltaire/",
+  "book_route": "/voltaire-asi-va-el-mundo/",
+  "translator": "José Marchena",
+  "edition": "Burdeos, 1819",
+  "source_url": "https://es.wikisource.org/wiki/Como_anda_el_mundo%2C_visi%C3%B3n_de_Babuco",
+  "source_revision": 1123525,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "parte-1",
+      "title": "Parte 1",
+      "summary": "Empieza: «Entre los genios que á los imperios del mundo presiden, ocupa Ituriel uno de los primeros puestos, y tiene á su cargo…»",
+      "start": 0,
+      "end": 13
+    },
+    {
+      "slug": "parte-2",
+      "title": "Parte 2",
+      "summary": "Empieza: «No sabiendo que pensar de Persepolis, se determinó á visitar á los magos y á los literatos, lisonjeándose de que alcanzarian estos…»",
+      "start": 14,
+      "end": 27
+    }
+  ],
+  "description": "Así va el mundo de Voltaire: resumen, ideas principales y el libro completo para leer online gratis o descargar en PDF. Cuento filosófico sobre el bien y el mal mezclados en la sociedad.",
+  "intro": "<p>El ángel Ituriel encarga al escita Babuc que visite Persépolis y le informe de si la ciudad merece ser destruida por sus vicios. Babuc recorre la capital y ve guerras absurdas, templos ruidosos, jueces que compran sus cargos y mujeres infieles, y se indigna.</p><p>Aquí puedes leer Así va el mundo completo, dividido en partes. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 33
+  },
+  "ficha": {
+    "genero": "Cuento filosófico",
+    "unidad": "partes",
+    "tema": "el bien y el mal mezclados en la sociedad",
+    "resumen": [
+      "El ángel Ituriel encarga al escita Babuc que visite Persépolis y le informe de si la ciudad merece ser destruida por sus vicios. Babuc recorre la capital y ve guerras absurdas, templos ruidosos, jueces que compran sus cargos y mujeres infieles, y se indigna.",
+      "Pero también descubre generosidad, cultura, comercio honrado y personas virtuosas. Para dar su veredicto encarga una estatua hecha con todos los metales y piedras, preciosos y viles, y pregunta al ángel si destruiría una figura tan bella por no ser toda de oro. Ituriel decide dejar que el mundo siga como va."
+    ],
+    "personajes": [
+      [
+        "Babuc",
+        "Escita enviado a juzgar Persépolis."
+      ],
+      [
+        "Ituriel",
+        "Ángel que debe decidir el destino de la ciudad."
+      ]
+    ],
+    "ideas": [
+      "En toda sociedad se mezclan el bien y el mal.",
+      "Juzgar con prudencia antes de condenar.",
+      "Sátira de París bajo el disfraz de Persépolis."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Así va el mundo de Voltaire?",
+        "Un ángel envía a Babuc a Persépolis para decidir si debe destruirse por sus vicios; Babuc descubre que el bien y el mal están mezclados y la ciudad se salva."
+      ],
+      [
+        "¿Cuál es el título completo?",
+        "Así va el mundo, visión de Babuc escrita por él mismo."
+      ]
+    ],
+    "año": "1748"
+  }
+}

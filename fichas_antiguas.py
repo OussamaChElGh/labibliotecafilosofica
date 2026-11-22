@@ -230,7 +230,12 @@ def upgrade(route, data, document, kept):
 def main():
     books = load_books()
     cache = json.loads(CACHE.read_text(encoding="utf-8")) if CACHE.exists() else {}
+    # Las fichas que ya tienen lectura online las genera lectura_completa.py (textos/fichas/lectura_antiguas.py).
+    online = {m["book_route"] for m in (json.loads(f.read_text(encoding="utf-8")) for f in (ROOT / "textos").glob("*.json"))
+              if m.get("ficha")}
     for route, data in books.items():
+        if route in online:
+            continue
         target = PUBLIC / route.strip("/") / "index.html"
         if not target.exists():
             print("no existe:", route)
@@ -240,7 +245,7 @@ def main():
             cache[route] = extract(route, document)
         target.write_text(upgrade(route, data, document, cache[route]), encoding="utf-8")
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"{len(books)} fichas actualizadas al formato nuevo")
+    print(f"{len(books) - len(online & set(books))} fichas actualizadas al formato nuevo")
 
 
 if __name__ == "__main__":

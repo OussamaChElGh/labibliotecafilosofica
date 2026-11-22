@@ -1,0 +1,292 @@
+{
+  "slug": "voltaire-candido",
+  "title": "Cándido, o el optimismo",
+  "author": "Voltaire",
+  "author_route": "/libros-pdf-gratis/autores/voltaire/",
+  "book_route": "/voltaire-candido/",
+  "translator": "José Marchena",
+  "edition": "Burdeos, 1819",
+  "source_url": "https://es.wikisource.org/wiki/C%C3%A1ndido%2C_o_el_optimismo",
+  "source_revision": 1214766,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "capitulo-1",
+      "title": "I. Donde se da cuenta de como fué criado Candido en una hermosa quinta, y como de ella fué echado á patadas",
+      "summary": "Empieza: «En la quinta del Señor baron de Tunderten-tronck, título de la Vesfalia, vivia un mancebo que habia dotado de la índole mas…»",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "II. De lo que sucedió á Candido con los Bulgaros",
+      "summary": "Empieza: «Arrojado Candido del paraiso terrenal fué andando mucho tiempo sin saber adonde se encaminaba, lloroso, alzando los ojos al cielo, y volviéndolos…»",
+      "start": 8,
+      "end": 10
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "III. De qué modo se libró Candido de manos de los Bulgaros, y de lo que le sucedió despues",
+      "summary": "Empieza: «No habia cosa mas hermosa, mas vistosa, mas lucida, ni mas bien ordenada que ámbos exércitos: las trompetas, los pífanos, los atambores,…»",
+      "start": 11,
+      "end": 17
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "IV. De qué modo encontró Candido á su maestro de filosofía, el doctor Panglós, y de lo que aconteció",
+      "summary": "Empieza: «Mas que á horror movido á compasion Candido le dió á este horroroso pordiosero los dos florines que de su honrado anabautista…»",
+      "start": 18,
+      "end": 23
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "V. De una tormenta, un naufragio, y un terremoto. De los sucesos del doctor Panglós, de Candido, y de Santiago el anabautista",
+      "summary": "Empieza: «Sin fuerza y medio muertos la mitad de los pasageros con las imponderables bascas que causa el balance de un navío en…»",
+      "start": 24,
+      "end": 30
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "VI. Del magnífico acto de fé que se hizo para que cesara el terremoto, y de los doscientos azotes que pegáron á Candido",
+      "summary": "Empieza: «Pasado el terremoto que habia destruido las tres quartas partes de Lisboa, el mas eficaz medio que ocurrió á los sabios del…»",
+      "start": 31,
+      "end": 33
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "VII. Que cuenta como una vieja remedió las cuitas de Candido, y como topó este con su dama",
+      "summary": "Empieza: «No cobró ánimo Candido, pero siguió á la vieja á una ruin casucha, donde le dió su conductora un bote de pomada…»",
+      "start": 34,
+      "end": 38
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "VIII. Historia de Cunegunda",
+      "summary": "Empieza: «Durmiendo á pierna suelta estaba en mi cama, quando plugo al cielo que entraran los Bulgaros en nuestra soberbia quinta de Tunder-ten-tronck,…»",
+      "start": 39,
+      "end": 44
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "IX. Prosiguen los sucesos de Cunegunda, Candido, el inquisidor general, y el Judío",
+      "summary": "Empieza: «Era el tal Isacar el hebreo mas vinagre que desde la cautividad de Babilonia se habia visto en Israel. ¿Qué es esto,…»",
+      "start": 45,
+      "end": 51
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "X. De la triste situacion en que se riéron Candido, Cunegunda y la vieja; de su arribo á Cadiz, y como se embarcáron para América",
+      "summary": "Empieza: «¿Quién me habrá robado mis doblones y mis diamantes? decia llorando Cunegunda; ¿cómo hemos de vivir? ¿qué hemos de hacer? ¿donde he…»",
+      "start": 52,
+      "end": 55
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "XI. Que cuenta la historia de la vieja",
+      "summary": "Empieza: «No siempre he tenido yo los ojos lagañosos y ribeteados de escarlata; no siempre se ha tocado mi barba con mis narices,…»",
+      "start": 56,
+      "end": 63
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "XII. Donde prosigue la historia de la vieja",
+      "summary": "Empieza: «Atónita quanto alborozada de oir el idioma de mi patria, extrañando empero las palabras que decia aquel hombre, le respondí que mayores…»",
+      "start": 64,
+      "end": 73
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "XIII. De como Candido tuvo que separarse por fuerza de la hermosa Cunegunda y la vieja",
+      "summary": "Empieza: «Oída la historia de la vieja, la hermosa Cunegunda la trató con toda la urbanidad y decoro que se merecia una persona…»",
+      "start": 74,
+      "end": 78
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "XIV. Del recibimiento que á Candido y á Cacambo hiciéron los jesuitas del Paraguay",
+      "summary": "Empieza: «Se había traído consigo Candido de Cadiz un criado como se encuentran muchos en los puertos de mar de España, que era…»",
+      "start": 79,
+      "end": 84
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "XV. Que cuenta la muerte que dió Candido al hermano de su querida Cunegunda",
+      "summary": "Empieza: «Toda mi vida tendré presente aquel horrorosa dia que vi dar muerte á mi padre y á mi madre, y violar á…»",
+      "start": 85,
+      "end": 88
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "XVI. Donde se da cuenta de los sucesos de nuestros dos caminantes con dos muchachas, dos ximios, y los salvages llamados Orejones",
+      "summary": "Empieza: «Ya habian pasado las barreras Candido y su criado, y todavía ninguno en el campo sabia la muerte del jesuita tudeseo. El…»",
+      "start": 89,
+      "end": 96
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "XVII. Cuéntase el arribo de Candido con su criado al pais del Dorado, y lo que allí viéron",
+      "summary": "Empieza: «Quando estuviéron en la raya de los Orejones, Ya ve vm., dixo Cacambo á Candido, que este hemisferio vale tan poco como…»",
+      "start": 97,
+      "end": 106
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "XVIII. Donde se da cuenta de lo que en el pais del Dorado viéron",
+      "summary": "Empieza: «Cacambo dió parte de su curiosidad á su huésped, y este le dixo: Yo soy un ignorante, y no me arrepiento de…»",
+      "start": 107,
+      "end": 118
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "XIX. De los sucesos de Surinam, y del conocimiento que hizo Candido de Martin",
+      "summary": "Empieza: «La primera jornada de nuestros dos caminantes fué bastante agradable, llevados en alas de la idea de encontrarse posesores de mayores tesoros…»",
+      "start": 119,
+      "end": 126
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "XX. De lo que sucedió á Candido y á Martin, al acercarse á las costas de Francia",
+      "summary": "Empieza: «Embarcóse pues para Burdeos con Candido el docto anciano, cuyo nombre era Martin. Ambos habian visto y habian padecido mucho; y aun…»",
+      "start": 127,
+      "end": 132
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "XXI. Donde se da cuenta de la plática de Candido y Martin, al acercarse á las costas de Francia",
+      "summary": "Empieza: «Avistaronse al fin las costas de Francia. ¿Ha estado vm. en Francia, señor Martin? dixo Candido. Sí, Señor, respondió Martin, y he…»",
+      "start": 133,
+      "end": 135
+    },
+    {
+      "slug": "capitulo-22",
+      "title": "XXII. De los sucesos que en Francia aconteciéroná Candido y á Martin",
+      "summary": "Empieza: «No se detuvo Candido en Burdeos mas tiempo que el que le fué necesario para vender algunos pedernales del Dorado, y comprar…»",
+      "start": 136,
+      "end": 156
+    },
+    {
+      "slug": "capitulo-23",
+      "title": "XXIII. Del arribo de Candido y Martin á la costade Inglaterra, y de lo que allí viéron",
+      "summary": "Empieza: «¡Ay Panglós amigo! ¡ay amigo Martin! ¡ay amada Cunegunda! ¡lo que es este mundo! decia Candido en el navío holandés. Cosa muy…»",
+      "start": 157,
+      "end": 160
+    },
+    {
+      "slug": "capitulo-24",
+      "title": "XXIV. Que trata de fray Hilarion y de Paquita",
+      "summary": "Empieza: «Luego que llegó á Venecia, se echó á buscar á Cacambo en todas las posadas, en todos los cafés, y en casa…»",
+      "start": 161,
+      "end": 168
+    },
+    {
+      "slug": "capitulo-25",
+      "title": "XXV. Que da cuenta de la visita que hiciéronMartin y Candido al señor Pococurante,noble veneciano",
+      "summary": "Empieza: «Emarcaronse Candido y Martin en una gondola, y fuéron por el Brenta al palacio del noble Pococurante. Los jardines eran amenos y…»",
+      "start": 169,
+      "end": 184
+    },
+    {
+      "slug": "capitulo-26",
+      "title": "XXVI. Que da cuenta de como Candido y Martincenáron con unos extranjeros, y quieneran estos",
+      "summary": "Empieza: «Un dia, yendo Candido y Martin á sentarse á la mesa con los forasteros alojados en su misma posada, se acercó por…»",
+      "start": 185,
+      "end": 197
+    },
+    {
+      "slug": "capitulo-27",
+      "title": "XXVII. Del viage de Candido á Constantinopla",
+      "summary": "Empieza: «Ya el fiel Cacambo había concertado con el capitan turco que habia de llevar á Constantinopla al sultan Acmet, que tomara á…»",
+      "start": 198,
+      "end": 205
+    },
+    {
+      "slug": "capitulo-28",
+      "title": "XXVIII. Que trata de los sucesos que pasároncon Candido, Cunegunda, Panglós yMartin",
+      "summary": "Empieza: «Mil perdones pido á vm., dixo Candido al baron, mil perdones, padre reverendísimo, de haberle pasado el cuerpo de una estocada. No…»",
+      "start": 206,
+      "end": 209
+    },
+    {
+      "slug": "capitulo-29",
+      "title": "XXIX. De como topó Candido con Cunegunda ycon la vieja",
+      "summary": "Empieza: «Miéntras se daban cuenta de sus aventuras Candido, el baron, Panglós, Martin y Cacambo; miéntras que discurrian acerca de los sucesos contingentes…»",
+      "start": 210,
+      "end": 212
+    },
+    {
+      "slug": "capitulo-30",
+      "title": "XXX. Donde se da fin á la historia",
+      "summary": "Empieza: «En lo interior de su corazon no tenia Candido ganas ningunas de casarse con Cunegunda; pero la mucha insolencia del baron le…»",
+      "start": 213,
+      "end": 220
+    }
+  ],
+  "description": "Cándido, o el optimismo de Voltaire: resumen, ideas principales y el libro completo para leer online gratis o descargar en PDF. Cuento filosófico sobre el optimismo y el mal en el mundo.",
+  "intro": "<p>Cándido es un joven ingenuo criado en el castillo del barón de Thunder-ten-tronckh, en Westfalia, donde su preceptor Pangloss le enseña que todo ocurre para bien en el mejor de los mundos posibles. Cuando lo sorprenden besando a Cunegunda, la hija del barón, lo expulsan a patadas y empieza un viaje por un mundo lleno de desgracias.</p><p>Aquí puedes leer Cándido, o el optimismo completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 30
+  },
+  "ficha": {
+    "genero": "Cuento filosófico",
+    "unidad": "capítulos",
+    "tema": "el optimismo y el mal en el mundo",
+    "resumen": [
+      "Cándido es un joven ingenuo criado en el castillo del barón de Thunder-ten-tronckh, en Westfalia, donde su preceptor Pangloss le enseña que todo ocurre para bien en el mejor de los mundos posibles. Cuando lo sorprenden besando a Cunegunda, la hija del barón, lo expulsan a patadas y empieza un viaje por un mundo lleno de desgracias.",
+      "Cándido sufre la guerra, el terremoto de Lisboa, la Inquisición, los jesuitas del Paraguay, el engaño y el robo; solo encuentra la felicidad en el país utópico de El Dorado, que abandona por amor. Acompañado de su criado Cacambo y del pesimista Martín, acaba en una granja de Turquía con Cunegunda, envejecida, y con Pangloss. Su conclusión pone fin a la filosofía: hay que cultivar nuestro jardín."
+    ],
+    "personajes": [
+      [
+        "Cándido",
+        "Joven bondadoso e ingenuo que aprende a pensar por sí mismo a fuerza de desgracias."
+      ],
+      [
+        "Pangloss",
+        "Preceptor que defiende el optimismo hasta el absurdo, pase lo que pase."
+      ],
+      [
+        "Cunegunda",
+        "Hija del barón y amor de Cándido, víctima de todos los abusos."
+      ],
+      [
+        "Cacambo",
+        "Criado mestizo, astuto y leal."
+      ],
+      [
+        "Martín",
+        "Sabio pesimista que acompaña a Cándido en la segunda parte."
+      ],
+      [
+        "La vieja",
+        "Criada de Cunegunda, hija de un papa, que cuenta una vida de desdichas."
+      ]
+    ],
+    "ideas": [
+      "Sátira del optimismo de Leibniz: el mundo no es el mejor de los posibles.",
+      "Crítica de la guerra, la Inquisición, la esclavitud y el fanatismo.",
+      "El Dorado como utopía de razón y tolerancia.",
+      "Cultivar el propio jardín: el trabajo útil frente a la especulación."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Cándido de Voltaire?",
+        "De un joven ingenuo educado en la idea de que vivimos en el mejor de los mundos posibles, que recorre el mundo y comprueba, a través de catástrofes y crueldades, que esa filosofía es absurda."
+      ],
+      [
+        "¿Qué significa «hay que cultivar nuestro jardín»?",
+        "Es la conclusión de Cándido: en lugar de especular sobre el sentido del mal, hay que trabajar y hacer algo útil en el pequeño mundo que está a nuestro alcance."
+      ],
+      [
+        "¿A quién critica Voltaire en Cándido?",
+        "Al optimismo filosófico de Leibniz y Wolff, representado por Pangloss, y además a la Iglesia, la nobleza, la guerra y la Inquisición."
+      ],
+      [
+        "¿Qué es El Dorado en Cándido?",
+        "Un país utópico de América del Sur donde reinan la riqueza, la razón y la tolerancia, y del que Cándido se marcha para buscar a Cunegunda."
+      ]
+    ],
+    "año": "1759"
+  }
+}

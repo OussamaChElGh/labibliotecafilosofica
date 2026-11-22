@@ -326,6 +326,8 @@ def write_ficha(meta):
     crumbs.append((title, route))
     resumen = "".join(f"<p>{escape(p)}</p>" for p in ficha["resumen"])
     people = "".join(f"<dt>{escape(n)}</dt><dd>{escape(d)}</dd>" for n, d in ficha["personajes"])
+    people_toc = '<a href="#personajes">Personajes</a> · ' if people else ""
+    people_html = f'<h2 id="personajes">Personajes</h2><dl class="guide-characters">{people}</dl>' if people else ""
     ideas = "".join(f"<li>{escape(i)}</li>" for i in ficha["ideas"])
     chapters = "".join(f'<li><a href="{base}{c["slug"]}/"><strong>{escape(c["title"])}</strong></a><p>{escape(c["summary"])}</p></li>'
                        for c in meta["chapters"])
@@ -339,13 +341,13 @@ def write_ficha(meta):
             f'<div class="actions"><a class="button" href="{meta["_start_reading"]}">Leer online gratis ↗</a>'
             f'<a class="button secondary" href="{base}{slug}.pdf" download>Descargar PDF ↓</a></div>'
             f'<div class="save-controls"><button class="button save-book" type="button" data-save-route="{route}" aria-pressed="false" hidden>Guardar libro</button>'
-            f'<a class="text-link" href="#resumen">Resumen y personajes ↓</a></div>'
+            f'<a class="text-link" href="#resumen">{"Resumen y personajes" if people else "Resumen e ideas"} ↓</a></div>'
             f'<p class="save-message" role="status" aria-live="polite"></p></div></div>'
             f'<div class="entry" id="texto-obra"><div class="continue-reading" data-continue-book="{escape(slug)}" hidden></div>'
-            f'<nav class="toc-inline" aria-label="En esta ficha"><a href="#resumen">Resumen</a> · <a href="#personajes">Personajes</a> · '
+            f'<nav class="toc-inline" aria-label="En esta ficha"><a href="#resumen">Resumen</a> · {people_toc}'
             f'<a href="#ideas">Ideas principales</a> · <a href="#leer">Leer completo</a> · <a href="#preguntas">Preguntas</a></nav>'
             f'<h2 id="resumen">Resumen de {escape(title)}</h2>{resumen}'
-            f'<h2 id="personajes">Personajes</h2><dl class="guide-characters">{people}</dl>'
+            f'{people_html}'
             f'<h2 id="ideas">Ideas principales</h2><ul>{ideas}</ul>'
             f'<h2 id="leer">Leer {escape(title)} completo</h2>'
             f'<p>El texto íntegro, gratis y sin registro, en {stats["chapters"]} {ficha.get("unidad", "partes")}. También puedes '
@@ -360,7 +362,7 @@ def write_ficha(meta):
         "workExample": {"@type": "Book", "bookFormat": "https://schema.org/EBook", "url": f'{BASE}{meta["_start_reading"]}'}},
         {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
                                             for q, a in ficha["faq"]]}]}
-    document = shell(f"{title} de {author}: resumen, personajes y PDF gratis · La Biblioteca Filosófica",
+    document = shell(f"{title} de {author}: resumen, {'personajes' if people else 'ideas'} y PDF gratis · La Biblioteca Filosófica",
                      route, body, meta["description"], schema=schema)
     write(route, with_book_assets(document, meta))
     return route

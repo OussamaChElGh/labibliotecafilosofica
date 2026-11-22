@@ -390,6 +390,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/fundamentacion-metafisica-costumbres-kant/",
+      "destination": "/fundamentacion-de-la-metafisica-de-las-costumbres-immanuel-kant/",
+      "permanent": true
+    },
+    {
       "source": "/leer/gorgias-platon/",
       "destination": "/gorgias-platon/",
       "permanent": true
@@ -457,6 +462,21 @@
     {
       "source": "/leer/trafalgar-benito-perez-galdos/",
       "destination": "/trafalgar-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-asi-va-el-mundo/",
+      "destination": "/voltaire-asi-va-el-mundo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-candido/",
+      "destination": "/voltaire-candido/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-zadig/",
+      "destination": "/voltaire-zadig/",
       "permanent": true
     }
   ],

@@ -542,6 +542,20 @@ def honest_pdf(document):
     return honest_pdf_wording(document)
 
 
+def descriptions():
+    """Descripciones escritas a mano (descripciones.json) para páginas cuya descripción heredada
+    prometía una descarga que la página no ofrece."""
+    path = Path("descripciones.json")
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
+def apply_description(document, text):
+    value = text.replace("&", "&amp;").replace('"', "&quot;")
+    for attr in ('name="description"', 'property="og:description"', 'name="twitter:description"'):
+        document = re.sub(rf'(<meta {attr} content=")[^"]*(")', lambda m: m.group(1) + value + m.group(2), document)
+    return document
+
+
 def tag_amazon(document):
     """Enlaces de producto de amazon.es heredados del WordPress sin etiqueta de afiliado: se la añade."""
     return re.sub(r'href="(https://www\.amazon\.es/dp/[0-9A-Z]{10})/?"', rf'href="\1?tag={AFFILIATE_TAG}"', document)
@@ -703,12 +717,14 @@ def main():
         books.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     changed = 0
     originals, pages = {}, {}
-    readings = online_readings()
+    readings, manual = online_readings(), descriptions()
     for page in sorted(OUTPUT.rglob("index.html")):
         original = page.read_text(encoding="utf-8")
         result = original
         if not route_of(page).startswith("/leer/"):
             result = honest_pdf(replace_downloads(replace_download_paragraphs(result, readings), readings))
+        if route_of(page) in manual:
+            result = apply_description(result, manual[route_of(page)])
         result = strip_pdf_label(swap_covers(polish(result), swaps))
         for _ in range(3):  # Quitar un bloque puede dejar otro vacío: repetir hasta que no cambie.
             again = polish(result)

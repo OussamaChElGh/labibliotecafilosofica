@@ -544,15 +544,16 @@ def write_quote_pages(metas):
     return routes
 
 
-def hub_page(route, crumb, eyebrow, title, seo_title, description, intro, items, extra=""):
-    """Índice de una sección del menú (/leer/, /resumenes/, /frases/): crece solo al añadir obras."""
+def hub_page(route, crumb, eyebrow, title, seo_title, description, intro, items, extra="", layout=""):
+    """Índice de una sección del menú (/leer/, /resumenes/, /frases/): crece solo al añadir obras.
+    layout="hub-shelf" muestra las obras como estantería de portadas (lector-libro.css)."""
     crumbs = [("Inicio", "/"), (crumb, route)]
     cards = "".join(
         f'<li><a href="{href}">' + (f'<img src="{image}" alt="" width="{w}" height="{h}" loading="lazy">' if image else "")
         + f'<span><span class="hub-kicker">{escape(kicker)}</span><strong>{escape(name)}</strong><span class="hub-text">{escape(text)}</span>'
           f'<span class="hub-cta">{cta} ↗</span></span></a></li>'
         for href, image, w, h, kicker, name, text, cta in items)
-    body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article guide hub-page" id="lectura">{breadcrumbs(crumbs)}'
+    body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article guide hub-page{" " + layout if layout else ""}" id="lectura">{breadcrumbs(crumbs)}'
             f'<header class="folio-article-head"><p class="eyebrow">{eyebrow}</p><h1>{escape(title)}</h1></header>'
             f'<div class="entry" id="texto-obra">{intro}<ul class="hub-list">{cards}</ul>{extra}</div></article>')
     schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
@@ -579,7 +580,7 @@ def write_hubs(metas):
                  "<p>Obras completas de dominio público para leer aquí mismo, sin descargar nada ni registrarte. Cada libro está dividido en capítulos, "
                  "conserva las notas de la edición y recuerda en tu navegador dónde lo dejaste. También puedes descargar cada obra en PDF.</p>",
                  reading, '<p class="guide-link">¿Prefieres empezar por lo esencial? <a href="/resumenes/">Resúmenes y guías de lectura</a> · '
-                          '<a href="/frases/">Frases célebres con su fuente</a>.</p>'),
+                          '<a href="/frases/">Frases célebres con su fuente</a>.</p>', layout="hub-shelf"),
     ]
     if guides:
         routes.append(hub_page("/resumenes/", "Resúmenes", f"Guías de lectura · {len(guides)} obras", "Resúmenes de libros de filosofía",

@@ -291,6 +291,8 @@ body.folio-interior .reader-v2.hub-shelf .entry>p.guide-link{margin-top:64px;fon
 body.folio-interior .reader-v2.hub-shelf .hub-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:56px var(--shelf-gap);
   margin:56px 0 0;padding:0;list-style:none;overflow:hidden}
 body.folio-interior .reader-v2.hub-shelf .hub-list li{margin:0;padding:0;min-width:0}
+/* Los anuncios automáticos de AdSense se insertan dentro de la lista: que ocupen la fila entera, entre dos estantes. */
+body.folio-interior .reader-v2.hub-shelf .hub-list>:not(li){grid-column:1/-1;min-width:0;margin:0}
 body.folio-interior .reader-v2.reader-article.hub-shelf .entry .hub-list a{display:flex;flex-direction:column;gap:0;height:100%;padding:0;border:0;color:inherit;text-decoration:none!important}
 body.folio-interior .reader-v2.hub-shelf .hub-list img{display:block;width:100%;aspect-ratio:2/3;height:auto;object-fit:cover;margin:0;
   border-radius:2px 4px 4px 2px;box-shadow:inset 2px 0 0 #0004,0 1px 2px #0006,0 18px 28px -14px #000c;transform-origin:50% 100%;transition:transform .2s ease}

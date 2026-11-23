@@ -972,6 +972,74 @@ def category_extra(document, data, books):
     return document
 
 
+AUTHOR_TEMPLATE = "/libros-pdf-gratis/autores/jane-austen/"
+AUTHORS_INDEX = "/libros-pdf-gratis/autores/"
+
+
+def book_covers(pages):
+    covers = {}
+    for page, document in pages.items():
+        cover = re.search(r'<figure class="featured"><img src="([^"]+)"', document)
+        if cover and '"@type": "Book"' in document:
+            covers[route_of(page)] = cover[1]
+    return covers
+
+
+def create_author_pages(pages, originals, categories, books):
+    """Páginas de autor nuevas (categorias.json con «create»), hechas con la de Jane Austen como plantilla."""
+    template = next((d for p, d in pages.items() if route_of(p) == AUTHOR_TEMPLATE), None)
+    if template is None:
+        return
+    covers = book_covers(pages)
+    existing = {route_of(p) for p in pages}
+    for route, data in categories.items():
+        if not data.get("create") or route in existing:
+            continue
+        slug, name = route.rstrip("/").rsplit("/", 1)[1], escape_html(data["author"])
+        cards = "".join(
+            f'<li><a href="{r}"><div class="book-cover"><img src="{covers.get(r, "")}" alt="Portada de {escape_html(t)}" loading="lazy" decoding="async"></div>'
+            f'<div class="book-info"><p class="eyebrow">Ficha de libro</p><h2>{escape_html(t)}</h2><span class="text-action">Abrir ficha →</span></div></a></li>'
+            for _, t, r in books.get(data["author"], []))
+        document = template.replace("jane-austen", slug).replace("Jane Austen", name)
+        document = re.sub(r'<div class="category-listing">.*?</ul></div>',
+                          lambda _: f'<div class="category-listing"><h2>Lecturas <span class="count">{len(books.get(data["author"], []))}</span></h2>'
+                                    f'<ul class="book-grid">{cards}</ul></div>', document, count=1, flags=re.S)
+        document = re.sub(r'<aside class="category-navigation">.*?</aside>', '<aside class="category-navigation"></aside>', document, count=1, flags=re.S)
+        page = OUTPUT / route.strip("/") / "index.html"
+        page.parent.mkdir(parents=True, exist_ok=True)
+        pages[page], originals[page] = document, ""
+
+
+def link_author(document, author_routes):
+    """En la ficha, el nombre del autor enlaza a su página («Ficha de libro · René Descartes»)."""
+    def link(match):
+        route = author_routes.get(unescape(match[2]))
+        return f'{match[1]}<a href="{route}">{match[2]}</a>{match[3]}' if route else match[0]
+    return re.sub(r'(<p class="eyebrow">Ficha de libro · )([^<]+)(</p>)', link, document, count=1)
+
+
+def authors_index(document, categories, books):
+    """Índice de autores: nombres con tilde, número real de obras y las páginas de autor nuevas, por orden alfabético."""
+    item = re.compile(r'<li><a href="(/libros-pdf-gratis/autores/[^/"]+/)">([^<]*)<span aria-label="\d+ publicaciones">\d+ →</span></a></li>')
+    found = list(item.finditer(document))
+    if not found:
+        return document
+    start, end = found[0].start(), found[-1].end()
+    if len(item.sub("", document[start:end])) != 0:
+        return document
+    rows = {m[1]: [m[2], None] for m in found}
+    for route, data in categories.items():
+        if route.startswith(AUTHORS_INDEX) and data.get("author") and (route in rows or data.get("create")):
+            rows[route] = [data["author"], len(books.get(data["author"], []))]
+    for route, row in rows.items():
+        if row[1] is None:
+            count = re.search(rf'href="{re.escape(route)}">[^<]*<span aria-label="(\d+)', document)
+            row[1] = int(count[1]) if count else 0
+    ordered = sorted(rows.items(), key=lambda r: normalize_title(r[1][0]))
+    html = "".join(f'<li><a href="{r}">{escape_html(n)}<span aria-label="{c} publicaciones">{c} →</span></a></li>' for r, (n, c) in ordered)
+    return document[:start] + html + document[end:]
+
+
 def redirected_routes():
     data = json.loads(Path("vercel.json").read_text(encoding="utf-8"))
     return {r["source"] for r in data.get("redirects", []) if ":" not in r["source"] and "(" not in r["source"]}
@@ -1042,6 +1110,8 @@ def main():
     guides = guide_links()
     menu, reading = navigation(), reading_links()
     categories, authors = category_data(), books_by_author(pages)
+    create_author_pages(pages, originals, categories, authors)
+    author_routes = {data["author"]: route for route, data in categories.items() if route.startswith(AUTHORS_INDEX) and data.get("author")}
     for page, document in pages.items():
         route = route_of(page)
         if route in entries:
@@ -1052,6 +1122,9 @@ def main():
         document = add_reading_links(replace_nav(document, menu), route, reading)
         if route in categories:
             document = category_extra(document, categories[route], authors)
+        if route == AUTHORS_INDEX:
+            document = authors_index(document, categories, authors)
+        document = link_author(document, author_routes)
         document = cover_alts(fix_description(short_title(document), route, manual))
         pages[page] = default_image(home_schema(document) if route == "/" else document)
     for page, result in pages.items():

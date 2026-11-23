@@ -1,0 +1,402 @@
+{
+  "slug": "el-contrato-social-rousseau",
+  "title": "El contrato social",
+  "author": "Jean-Jacques Rousseau",
+  "author_route": "",
+  "book_route": "/el-contrato-social-rousseau/",
+  "translator": "",
+  "edition": "Edición de 1819",
+  "source_url": "https://es.wikisource.org/wiki/El_contrato_social_%281819%29",
+  "source_revision": 1281060,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "libro-1-capitulo-1",
+      "title": "Libro I, capítulo I. Objeto de este primer libro",
+      "summary": "Empieza: «EL CONTRATO»",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "slug": "libro-1-capitulo-2",
+      "title": "Libro I, capítulo II. De las primeras sociedades",
+      "summary": "Empieza: «La sociedad mas antigua y la sola que hay natural es la familia, y aun en esta los hijos no estan sugetos…»",
+      "start": 11,
+      "end": 13
+    },
+    {
+      "slug": "libro-1-capitulo-3",
+      "title": "Libro I, capítulo III. Del derecho del más fuerte",
+      "summary": "Empieza: «El mas fuerte no es jamas demasiado fuerte para ser siempre dueño, si no trasforma su fuerza en derecho, y la obediencia…»",
+      "start": 14,
+      "end": 16
+    },
+    {
+      "slug": "libro-1-capitulo-4",
+      "title": "Libro I, capítulo IV. De la esclavitud",
+      "summary": "Empieza: «SUPUESTO que ningun hombre tiene autoridad natural sobre su semejante, y que la fuerza no produce algun derecho, quedan pues las convenciones…»",
+      "start": 17,
+      "end": 30
+    },
+    {
+      "slug": "libro-1-capitulo-5",
+      "title": "Libro I, capítulo V. Que es preciso remontarse siempre a una primera convención",
+      "summary": "Empieza: «Quando yo concediera todo lo que hasta aquí llevo refutado, los fautores del Despotismo no estarían por eso mas adelantados. Siempre habrá…»",
+      "start": 31,
+      "end": 34
+    },
+    {
+      "slug": "libro-1-capitulo-6",
+      "title": "Libro I, capítulo VI. Del pacto social",
+      "summary": "Empieza: «Yo supongo los hombres llegados á este punto en que los obstáculos que dañan su conservacion en el estado de la naturaleza,…»",
+      "start": 35,
+      "end": 43
+    },
+    {
+      "slug": "libro-1-capitulo-7",
+      "title": "Libro I, capítulo VII. Del soberano",
+      "summary": "Empieza: «Se ve por esta fórmula que el acto de asociacion incluie un empeño recíproco de parte del público para con los particulares,…»",
+      "start": 44,
+      "end": 49
+    },
+    {
+      "slug": "libro-1-capitulo-8",
+      "title": "Libro I, capítulo VIII. Del estado civil",
+      "summary": "Empieza: «El paso del Estado de la naturaleza al civil produce en el hombre una mutacion muy notable, substituyendo en su conducta la…»",
+      "start": 50,
+      "end": 52
+    },
+    {
+      "slug": "libro-1-capitulo-9",
+      "title": "Libro I, capítulo IX. Del dominio real",
+      "summary": "Empieza: «Cada miembro de la comunidad quando esta se forma, se integra á ella al instante en la misma situación en que se…»",
+      "start": 53,
+      "end": 61
+    },
+    {
+      "slug": "libro-2-capitulo-1",
+      "title": "Libro II, capítulo I. La soberanía es inalienable",
+      "summary": "Empieza: «La primera y la mas importante conseqüencia de los principios establecidos es que la voluntad general puede sola dirigir las fuerzas del…»",
+      "start": 62,
+      "end": 65
+    },
+    {
+      "slug": "libro-2-capitulo-2",
+      "title": "Libro II, capítulo II. La soberanía es indivisible",
+      "summary": "Empieza: «Por la misma razon que la Soberanía es inagenable, es tambien indivisible; por que ó la voluntad es general ó no lo…»",
+      "start": 66,
+      "end": 70
+    },
+    {
+      "slug": "libro-2-capitulo-3",
+      "title": "Libro II, capítulo III. De si la voluntad general puede errar",
+      "summary": "Empieza: «Hay mucha diferencia entre la voluntad de todos y la voluntad general; esta no mira mas que al interes general, en tanto…»",
+      "start": 71,
+      "end": 73
+    },
+    {
+      "slug": "libro-2-capitulo-4",
+      "title": "Libro II, capítulo IV. De los límites del poder soberano",
+      "summary": "Empieza: «Si el Estado ó la Ciudad no es mas que una persona moral cuya vida consiste en la union de sus miembros,…»",
+      "start": 74,
+      "end": 82
+    },
+    {
+      "slug": "libro-2-capitulo-5",
+      "title": "Libro II, capítulo V. Del derecho de vida y de muerte",
+      "summary": "Empieza: «Se pregunta como los particulares no teniendo derecho de disponer de su propia vida pueden transmitirsele al Soberano: esta qüestion no parece…»",
+      "start": 83,
+      "end": 88
+    },
+    {
+      "slug": "libro-2-capitulo-6",
+      "title": "Libro II, capítulo VI. De la ley",
+      "summary": "Empieza: «Por el pacto Social hemos dado la existencia y la vida al cuerpo político, y ahora se trata de darle el movimiento…»",
+      "start": 89,
+      "end": 93
+    },
+    {
+      "slug": "libro-2-capitulo-7",
+      "title": "Libro II, capítulo VII. Del legislador",
+      "summary": "Empieza: «Para descubrir las mejores reglas de Sociedad que convienen á las Naciones, seria necesaria una inteligencia superior que viese todas las pasiones,…»",
+      "start": 94,
+      "end": 99
+    },
+    {
+      "slug": "libro-2-capitulo-8",
+      "title": "Libro II, capítulo VIII. Del pueblo",
+      "summary": "Empieza: «Así como un Arquitecto para levantar un edificio observa y sondea el suelo para ver si puede sostener el peso, asi el…»",
+      "start": 100,
+      "end": 105
+    },
+    {
+      "slug": "libro-2-capitulo-9",
+      "title": "Libro II, capítulo IX. Continuación",
+      "summary": "Empieza: «Como la naturaleza ha dado términos á la estatura de un hombre proporcionado, pasados los quales ella no cria sino gigantes ó…»",
+      "start": 106,
+      "end": 111
+    },
+    {
+      "slug": "libro-2-capitulo-10",
+      "title": "Libro II, capítulo X. Continuación",
+      "summary": "Empieza: «Se puede medir un cuerpo político de dos maneras, á saber: por la extension del territorio, y por el número de habitantes.…»",
+      "start": 112,
+      "end": 118
+    },
+    {
+      "slug": "libro-2-capitulo-11",
+      "title": "Libro II, capítulo XI. De los diversos sistemas de legislación",
+      "summary": "Empieza: «Si se inquiere en que consiste precisamente el mayor bien de todos que debe ser el fin de todo sistema de legislacion,…»",
+      "start": 119,
+      "end": 124
+    },
+    {
+      "slug": "libro-2-capitulo-12",
+      "title": "Libro II, capítulo XII. División de las leyes",
+      "summary": "Empieza: «Para ordenar el todo y dar la mejor forma posible á la causa pública, hay diversas relaciones que considerar. Primeramente la accion…»",
+      "start": 125,
+      "end": 128
+    },
+    {
+      "slug": "libro-3-capitulo-1",
+      "title": "Libro III, capítulo I. Del gobierno en general",
+      "summary": "Empieza: «Antes de hablar de las diversas formas de Gobierno, tratemos de fixar el sentido de esta palabra que no ha sido todavia…»",
+      "start": 129,
+      "end": 142
+    },
+    {
+      "slug": "libro-3-capitulo-2",
+      "title": "Libro III, capítulo II. Del principio que constituye las diversas formas de gobierno",
+      "summary": "Empieza: «Para exponer la causa general de estas diferencias, es indispensable distinguir aquí el Príncipe y el Gobierno como ántes hemos distinguido el…»",
+      "start": 143,
+      "end": 149
+    },
+    {
+      "slug": "libro-3-capitulo-3",
+      "title": "Libro III, capítulo III. División de los gobiernos",
+      "summary": "Empieza: «Se ha visto en el Cap. precedente como se distinguen las diversas especies ó formas de Gobiernos por el número de miembros…»",
+      "start": 150,
+      "end": 154
+    },
+    {
+      "slug": "libro-3-capitulo-4",
+      "title": "Libro III, capítulo IV. De la democracia",
+      "summary": "Empieza: «El que hace la ley, sabe mejor que ninguno como debe ser executada é interpretada. Parece que no se podria tener una…»",
+      "start": 155,
+      "end": 160
+    },
+    {
+      "slug": "libro-3-capitulo-5",
+      "title": "Libro III, capítulo V. De la aristocracia",
+      "summary": "Empieza: «Tenemos al presente dos personas morales muy distintas, á saber: el Gobierno y el Soberano, y por consiguiente dos voluntades generales, la…»",
+      "start": 161,
+      "end": 169
+    },
+    {
+      "slug": "libro-3-capitulo-6",
+      "title": "Libro III, capítulo VI. De la monarquía",
+      "summary": "Empieza: «Hasta aquí hemos considerado al Príncipe como una persona moral y colectiva, unida por la fuerza de las leyes, y depositaria en…»",
+      "start": 170,
+      "end": 184
+    },
+    {
+      "slug": "libro-3-capitulo-7",
+      "title": "Libro III, capítulo VII. De los gobiernos mixtos",
+      "summary": "Empieza: «Hablando propiamente no hay ningun Gobierno simple, por que siempre es preciso que la única Cabeza tenga Magistrados subalternos, y que el…»",
+      "start": 185,
+      "end": 187
+    },
+    {
+      "slug": "libro-3-capitulo-8",
+      "title": "Libro III, capítulo VIII. Que toda forma de gobierno no es propia para todo país",
+      "summary": "Empieza: «No siendo la libertad un fruto de todos los climas, no está por lo mismo al alcanze de todos los Pueblos. Quanto…»",
+      "start": 188,
+      "end": 200
+    },
+    {
+      "slug": "libro-3-capitulo-9",
+      "title": "Libro III, capítulo IX. De los signos de un buen gobierno",
+      "summary": "Empieza: «Quando se pregunta absolutamente qual es el mejor Gobierno, se hace una qüestion tan indisoluble como indeterminada: ó si se quiere ella…»",
+      "start": 201,
+      "end": 203
+    },
+    {
+      "slug": "libro-3-capitulo-10",
+      "title": "Libro III, capítulo X. Del abuso del gobierno y de su tendencia a degenerar",
+      "summary": "Empieza: «Así como la voluntad particular obra sin cesar contra la voluntad general, así tambien el Gobierno hace un esfuerzo continuo contra la…»",
+      "start": 204,
+      "end": 210
+    },
+    {
+      "slug": "libro-3-capitulo-11",
+      "title": "Libro III, capítulo XI. De la muerte del cuerpo político",
+      "summary": "Empieza: «El cuerpo político lo mismo que el cuerpo del hombre comienza á morir desde su nacimiento, y lleva consigo las causas de…»",
+      "start": 211,
+      "end": 215
+    },
+    {
+      "slug": "libro-3-capitulo-12",
+      "title": "Libro III, capítulo XII. Cómo se mantiene la autoridad soberana",
+      "summary": "Empieza: «No teniendo otra fuerza el Soberano sino el poder legislativo, no puede obrar mas que por las leyes, y no siendo estar…»",
+      "start": 216,
+      "end": 221
+    },
+    {
+      "slug": "libro-3-capitulo-13",
+      "title": "Libro III, capítulo XIII. Continuación",
+      "summary": "Empieza: «No basta pues que el Pueblo junto haya una ves fixado la constituciton del Estado, sancionando un cuerpo de leyes; no basta…»",
+      "start": 222,
+      "end": 227
+    },
+    {
+      "slug": "libro-3-capitulo-14",
+      "title": "Libro III, capítulo XIV. Continuación",
+      "summary": "Empieza: «Al instante que el Pueblo está legítimamente junto en cuerpo soberano, toda jurisdiccion de Gobierno cesa, el poder executivo suspende sus funciones…»",
+      "start": 228,
+      "end": 230
+    },
+    {
+      "slug": "libro-3-capitulo-15",
+      "title": "Libro III, capítulo XV. De los diputados o representantes",
+      "summary": "Empieza: «Tan pronto como el servicio público cesa de ser el principal asunto de los Ciudadanos, y que estos quieren servir mas bien…»",
+      "start": 231,
+      "end": 241
+    },
+    {
+      "slug": "libro-3-capitulo-16",
+      "title": "Libro III, capítulo XVI. Que la institución del gobierno no es un contrato",
+      "summary": "Empieza: «Una vez establecido el poder legislativo, se debe tratar de establecer el executivo, por que este último que no obra sino por…»",
+      "start": 242,
+      "end": 247
+    },
+    {
+      "slug": "libro-3-capitulo-17",
+      "title": "Libro III, capítulo XVII. De la institución del gobierno",
+      "summary": "Empieza: «¿Baxo de que idea hemos de concebir el acto por el qual se constituye el Gobierno? Yo voy á observar que este…»",
+      "start": 248,
+      "end": 252
+    },
+    {
+      "slug": "libro-3-capitulo-18",
+      "title": "Libro III, capítulo XVIII. Medio de prevenir las usurpaciones del gobierno",
+      "summary": "Empieza: «De todas estas ilustraciones, resulta en confirmacion del Cap. XVI que el acto que constituye el Gobierno, no es un contrato sino…»",
+      "start": 253,
+      "end": 259
+    },
+    {
+      "slug": "libro-4-capitulo-1",
+      "title": "Libro IV, capítulo I. Que la voluntad general es indestructible",
+      "summary": "Empieza: «Quando se ve entre algunos felices Pueblos del Mundo que una tropa de aldeanos arreglan los negocios del Estado á la sombra…»",
+      "start": 260,
+      "end": 264
+    },
+    {
+      "slug": "libro-4-capitulo-2",
+      "title": "Libro IV, capítulo II. De los sufragios",
+      "summary": "Empieza: «Se ve por el Cap. antecedente que el modo de tratarse los negocios generales, puede dar un indicio bastante seguro del estado…»",
+      "start": 265,
+      "end": 273
+    },
+    {
+      "slug": "libro-4-capitulo-3",
+      "title": "Libro IV, capítulo III. De las elecciones",
+      "summary": "Empieza: ««El sufragio por suerte, dice Montésquieu, es propio de la Democracia.» Convengo en ello, pero por que? «La suerte, continua, es un…»",
+      "start": 274,
+      "end": 281
+    },
+    {
+      "slug": "libro-4-capitulo-4",
+      "title": "Libro IV, capítulo IV. De los comicios romanos",
+      "summary": "Empieza: «Los usos que se hallan establecidos aseguran á lo ménos el orígen de ellos. Las tradiciones que remontan á este orígen, apoyadas…»",
+      "start": 282,
+      "end": 308
+    },
+    {
+      "slug": "libro-4-capitulo-5",
+      "title": "Libro IV, capítulo V. Del tribunado",
+      "summary": "Empieza: «Quando no se puede establecer una exacta proporcion entre las partes constitutivas del Estado, ó algunas causas indestructibles alteran sin cesar los…»",
+      "start": 309,
+      "end": 315
+    },
+    {
+      "slug": "libro-4-capitulo-6",
+      "title": "Libro IV, capítulo VI. De la dictadura",
+      "summary": "Empieza: «La inflexibilidad de las leyes que las impide conformarse con los acontecimientos, puede en ciertos casos hacerlas perniciosas, y causar por ellas…»",
+      "start": 316,
+      "end": 324
+    },
+    {
+      "slug": "libro-4-capitulo-7",
+      "title": "Libro IV, capítulo VII. De la censura",
+      "summary": "Empieza: «Así como la declaracion de la voluntad general se hace por la ley, así la declaracion del juicio público se hace por…»",
+      "start": 325,
+      "end": 330
+    },
+    {
+      "slug": "libro-4-capitulo-8",
+      "title": "Libro IV, capítulo VIII. De la religión civil",
+      "summary": "Empieza: «Los hombres no tuviéron al princípio otros Reyes que los Dioses, ni otro Gobierno que la Theocracía. Hiciéron el razonamiento de Calígula,…»",
+      "start": 331,
+      "end": 357
+    },
+    {
+      "slug": "libro-4-capitulo-9",
+      "title": "Libro IV, capítulo IX. Conclusión",
+      "summary": "Empieza: «Despues de haber establecido los verdaderos principios del Derecho político, y haber procurado fundar el Estado sobre su basa, restaria apoyarle por…»",
+      "start": 358,
+      "end": 359
+    }
+  ],
+  "description": "El contrato social de Jean-Jacques Rousseau: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Ensayo político sobre la soberanía del pueblo y la voluntad general.",
+  "intro": "<p>El contrato social, publicado en 1762, empieza con una de las frases más famosas de la filosofía política: «El hombre ha nacido libre, y en todas partes está encadenado». Jean-Jacques Rousseau busca una forma de asociación que proteja a cada persona y en la que, al unirse a todos, cada uno siga obedeciéndose a sí mismo y permanezca tan libre como antes.</p><p>Aquí puedes leer El contrato social completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 81,
+    "art": {
+      "file": "el-contrato-social-rousseau.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/el-contrato-social-rousseau/ilustracion.jpg",
+      "credit": "Maurice Quentin de La Tour, «Retrato de Jean-Jacques Rousseau» (1753). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Ensayo político",
+    "unidad": "capítulos",
+    "tema": "la soberanía del pueblo y la voluntad general",
+    "resumen": [
+      "El contrato social, publicado en 1762, empieza con una de las frases más famosas de la filosofía política: «El hombre ha nacido libre, y en todas partes está encadenado». Jean-Jacques Rousseau busca una forma de asociación que proteja a cada persona y en la que, al unirse a todos, cada uno siga obedeciéndose a sí mismo y permanezca tan libre como antes.",
+      "La respuesta es el pacto social: cada individuo entrega sus derechos a la comunidad entera, que se convierte en soberana y se guía por la voluntad general, orientada al bien común. Rousseau distingue el soberano (el pueblo) del gobierno (quien ejecuta las leyes), analiza la democracia, la aristocracia y la monarquía, y termina con la religión civil. Sus ideas influyeron en la Revolución francesa."
+    ],
+    "personajes": [],
+    "ideas": [
+      "La legitimidad del poder nace de un pacto entre todos, no de la fuerza.",
+      "La voluntad general frente a la voluntad de todos.",
+      "La soberanía es del pueblo, inalienable e indivisible.",
+      "La libertad como obediencia a la ley que uno mismo se ha dado."
+    ],
+    "faq": [
+      [
+        "¿Qué es la voluntad general?",
+        "La voluntad del pueblo como cuerpo, que busca el bien común. No es la suma de los intereses particulares, que Rousseau llama voluntad de todos."
+      ],
+      [
+        "¿Qué dice la primera frase?",
+        "«El hombre ha nacido libre, y en todas partes está encadenado.»"
+      ],
+      [
+        "¿Cuántas partes tiene?",
+        "Cuatro libros: el pacto social, la soberanía y la ley, el gobierno y las instituciones."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1762, el mismo año que el Emilio. Esta traducción al español es de 1819."
+      ]
+    ]
+  },
+  "traducido": true
+}

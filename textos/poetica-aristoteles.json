@@ -1,0 +1,121 @@
+{
+  "slug": "poetica-aristoteles",
+  "title": "Poética",
+  "author": "Aristóteles",
+  "author_route": "/libros-pdf-gratis/autores/aristoteles/",
+  "book_route": "/poetica-aristoteles/",
+  "translator": "José Goya y Muniain",
+  "edition": "El arte poética de Aristóteles en castellano, Madrid, 1798",
+  "source_url": "https://es.wikisource.org/wiki/Po%C3%A9tica_%28traducci%C3%B3n_de_Jos%C3%A9_Goya_y_Muniain%29",
+  "source_revision": 1316021,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "al-excelentisimo-senor-don-gaspar-melchor-de-jovellanos",
+      "title": "Al excelentísimo señor don Gaspar Melchor de Jovellanos",
+      "summary": "Empieza: «EXCMO. SEÑOR:»",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "slug": "al-que-leyere",
+      "title": "Al que leyere",
+      "summary": "Empieza: «Pues que todas las Naciones cultas han traducido en su lengua vulgar la Poética de Aristóteles, y los Poetas y Escritores de…»",
+      "start": 7,
+      "end": 17
+    },
+    {
+      "slug": "capitulo-1",
+      "title": "Capítulo I",
+      "summary": "Empieza: «1 Tratarémos de la Poética y de sus especies, segun es cada una; y del modo de ordenar las fábulas, para que…»",
+      "start": 18,
+      "end": 22
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "Capítulo II",
+      "summary": "Empieza: «1. Parece cierto que dos causas, y ambas naturales, han generalmente concurrido á formar la Poesía. Porque lo primero, el imitar es…»",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "Capítulo III",
+      "summary": "Empieza: «1 Hablemos ahora de la Tragedia, resumiendo la definicion de su esencia, segun que resulta de las cosas dichas. Es pues la…»",
+      "start": 29,
+      "end": 51
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "Capítulo IV",
+      "summary": "Empieza: «1 Por lo tocante á la facultad narratoria, y que hace su imitacion solo en verso, es cosa manifiesta que se han…»",
+      "start": 52,
+      "end": 59
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "Capítulo V",
+      "summary": "Empieza: «1 Vial, á las obgeciones que se hacen, y á las soluciones que se dan, se verá claramente de quántas y quáles…»",
+      "start": 60,
+      "end": 71
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "Capítulo VI",
+      "summary": "Empieza: «1. Ahora se podria con razon dudar, quál es mejor, la imitacion de la Epopeya, ó la que hace la Tragedia. Que…»",
+      "start": 72,
+      "end": 77
+    }
+  ],
+  "description": "Poética de Aristóteles: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Filosofía sobre la tragedia, la imitación y el arte de componer.",
+  "intro": "<p>La Poética es el primer tratado de teoría literaria de Occidente. Aristóteles define las artes como formas de imitación (mímesis) y distingue la tragedia, la comedia y la epopeya por los medios, los objetos y el modo en que imitan. El ser humano, dice, aprende imitando y disfruta contemplando imitaciones.</p><p>Aquí puedes leer Poética completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 83,
+    "art": {
+      "file": "poetica-aristoteles.jpg",
+      "focus": [
+        0.45,
+        0.5
+      ],
+      "url": "/leer/poetica-aristoteles/ilustracion.jpg",
+      "credit": "Lawrence Alma-Tadema, «Una lectura de Homero» (1885), Philadelphia Museum of Art. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Filosofía",
+    "unidad": "capítulos",
+    "tema": "la tragedia, la imitación y el arte de componer",
+    "resumen": [
+      "La Poética es el primer tratado de teoría literaria de Occidente. Aristóteles define las artes como formas de imitación (mímesis) y distingue la tragedia, la comedia y la epopeya por los medios, los objetos y el modo en que imitan. El ser humano, dice, aprende imitando y disfruta contemplando imitaciones.",
+      "La parte central analiza la tragedia: la imitación de una acción seria y completa que, mediante la compasión y el temor, produce la catarsis de esas pasiones. Estudia sus partes (la fábula, los caracteres, el pensamiento, el lenguaje), la peripecia y la anagnórisis, y la figura del héroe trágico que cae por un error. Esta traducción de José Goya y Muniain, de 1798, está dedicada a Jovellanos."
+    ],
+    "personajes": [],
+    "ideas": [
+      "El arte como imitación (mímesis).",
+      "La catarsis: la purificación de la compasión y el temor.",
+      "La fábula o trama como alma de la tragedia.",
+      "La unidad de acción y la verosimilitud."
+    ],
+    "faq": [
+      [
+        "¿Qué es la catarsis?",
+        "La purificación o descarga de las pasiones de compasión y temor que produce en el espectador la tragedia."
+      ],
+      [
+        "¿Qué partes tiene la tragedia según Aristóteles?",
+        "Seis: fábula, caracteres, elocución, pensamiento, espectáculo y canto. La más importante es la fábula."
+      ],
+      [
+        "¿Hay una segunda parte sobre la comedia?",
+        "Se cree que existió un segundo libro sobre la comedia, que se perdió."
+      ],
+      [
+        "¿Quién hizo esta traducción?",
+        "José Goya y Muniain, que la publicó en Madrid en 1798."
+      ]
+    ]
+  }
+}

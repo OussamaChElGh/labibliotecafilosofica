@@ -1,0 +1,142 @@
+{
+  "slug": "etica-a-nicomaco-aristoteles",
+  "title": "Ética a Nicómaco",
+  "author": "Aristóteles",
+  "author_route": "/libros-pdf-gratis/autores/aristoteles/",
+  "book_route": "/etica-a-nicomaco-aristoteles/",
+  "translator": "Pedro Simón Abril",
+  "edition": "La Ética de Aristóteles, traducción de Pedro Simón Abril (h. 1584)",
+  "source_url": "https://es.wikisource.org/wiki/%C3%89tica_a_Nic%C3%B3maco",
+  "source_revision": 1525716,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "libro-0",
+      "title": "Prólogo",
+      "summary": "Empieza: «Del intérprete al lector»",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "slug": "libro-1",
+      "title": "Libro primero",
+      "summary": "Empieza: «De los morales de Aristóteles, escritos a Nicomaco, su hijo, y por esta causa llamados nicomaquios»",
+      "start": 11,
+      "end": 45
+    },
+    {
+      "slug": "libro-2",
+      "title": "Libro segundo",
+      "summary": "Empieza: «De los morales de Aristóteles, escritos a Nicomaco»",
+      "start": 46,
+      "end": 70
+    },
+    {
+      "slug": "libro-3",
+      "title": "Libro tercero",
+      "summary": "Empieza: «De los morales de Aristóteles, escritos a Nicomaco y por esto llamados nicomaquios»",
+      "start": 71,
+      "end": 109
+    },
+    {
+      "slug": "libro-4",
+      "title": "Libro cuarto",
+      "summary": "Empieza: «De los morales de Aristóteles escritos a Nicomaco y por esto llamados nicomaquios»",
+      "start": 110,
+      "end": 143
+    },
+    {
+      "slug": "libro-5",
+      "title": "Libro quinto",
+      "summary": "Empieza: «De los morales de Aristóteles, escritos a Nicomaco, su hijo, y por esta causa llamados nicomaquios»",
+      "start": 144,
+      "end": 183
+    },
+    {
+      "slug": "libro-6",
+      "title": "Libro sexto",
+      "summary": "Empieza: «De los morales de Aristóteles, escritos a Nicomaco, su hijo, y por esta causa llamados nicomaquios»",
+      "start": 184,
+      "end": 235
+    },
+    {
+      "slug": "libro-7",
+      "title": "Libro séptimo",
+      "summary": "Empieza: «De los morales de Aristóteles, escritos a Nicomaco, su hijo, y por esta causa llamados nicomaquios»",
+      "start": 236,
+      "end": 290
+    },
+    {
+      "slug": "libro-8",
+      "title": "Libro octavo",
+      "summary": "Empieza: «De los morales de Aristóteles, escritos a Nicomaco, su hijo, y por esta causa llamados nicomaquios»",
+      "start": 291,
+      "end": 340
+    },
+    {
+      "slug": "libro-9",
+      "title": "Libro nono",
+      "summary": "Empieza: «De los morales de Aristóteles, escritos a Nicomaco, su hijo, y por esta causa llamados nicomaquios»",
+      "start": 341,
+      "end": 387
+    },
+    {
+      "slug": "libro-10",
+      "title": "Libro décimo",
+      "summary": "Empieza: «De los morales de Aristóteles, escritos a Nicomaco, su hijo, y por esta causa llamados nicomaquios»",
+      "start": 388,
+      "end": 418
+    }
+  ],
+  "description": "Ética a Nicómaco de Aristóteles: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Filosofía sobre la felicidad, la virtud y la amistad.",
+  "intro": "<p>La Ética a Nicómaco es la principal obra moral de Aristóteles, llamada así por su hijo Nicómaco, que la habría editado. Parte de una pregunta: ¿cuál es el bien supremo que todos buscamos? La respuesta es la felicidad (eudaimonía), entendida no como placer sino como una vida activa conforme a la virtud, propia de un ser racional.</p><p>Aquí puedes leer Ética a Nicómaco completo, dividido en libros. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 82,
+    "art": {
+      "file": "etica-a-nicomaco-aristoteles.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/etica-a-nicomaco-aristoteles/ilustracion.jpg",
+      "credit": "Rembrandt, «Aristóteles contemplando el busto de Homero» (1653), Metropolitan Museum of Art. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Filosofía",
+    "unidad": "libros",
+    "tema": "la felicidad, la virtud y la amistad",
+    "resumen": [
+      "La Ética a Nicómaco es la principal obra moral de Aristóteles, llamada así por su hijo Nicómaco, que la habría editado. Parte de una pregunta: ¿cuál es el bien supremo que todos buscamos? La respuesta es la felicidad (eudaimonía), entendida no como placer sino como una vida activa conforme a la virtud, propia de un ser racional.",
+      "Aristóteles define la virtud como un término medio entre dos extremos, el exceso y el defecto: el valor está entre la cobardía y la temeridad, la generosidad entre la tacañería y el derroche. Estudia la justicia, la prudencia, el dominio de uno mismo, el placer y dedica dos libros enteros a la amistad, antes de concluir que la vida más feliz es la contemplativa. Esta es la traducción de Pedro Simón Abril, del siglo XVI."
+    ],
+    "personajes": [],
+    "ideas": [
+      "La felicidad como fin último de la vida humana.",
+      "La virtud como hábito y como término medio.",
+      "La prudencia (frónesis) como sabiduría práctica.",
+      "La amistad como bien necesario para vivir."
+    ],
+    "faq": [
+      [
+        "¿Qué es la eudaimonía?",
+        "La felicidad o plenitud: vivir y obrar bien según la razón y la virtud, a lo largo de toda una vida."
+      ],
+      [
+        "¿Qué es el término medio?",
+        "La virtud está entre dos vicios, uno por exceso y otro por defecto. Por ejemplo, el valor entre la cobardía y la temeridad."
+      ],
+      [
+        "¿Por qué se llama Ética a Nicómaco?",
+        "Por Nicómaco, hijo de Aristóteles, a quien se atribuye la edición de las lecciones de su padre."
+      ],
+      [
+        "¿Cuántos libros tiene?",
+        "Diez. Los libros VIII y IX están dedicados a la amistad."
+      ]
+    ]
+  }
+}

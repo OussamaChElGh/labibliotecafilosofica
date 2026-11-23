@@ -1,0 +1,289 @@
+{
+  "slug": "el-principe-maquiavelo",
+  "title": "El príncipe",
+  "author": "Nicolás Maquiavelo",
+  "author_route": "",
+  "book_route": "/el-principe-maquiavelo/",
+  "translator": "",
+  "edition": "Edición española de 1854",
+  "source_url": "https://es.wikisource.org/wiki/El_pr%C3%ADncipe_%281854%29",
+  "source_revision": 1331859,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "biografia-de-maquiavelo",
+      "title": "Biografía de Maquiavelo",
+      "summary": "Empieza: «BIOGRAFIA DE MAQUIAVELO.[[1]]»",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "slug": "cartas-sobre-el-anti-maquiavelo",
+      "title": "Cartas sobre el Anti-Maquiavelo",
+      "summary": "Empieza: «CARTAS SOBRE EL ANTI-MAQUIAVELO.»",
+      "start": 17,
+      "end": 45
+    },
+    {
+      "slug": "prefacio-del-anti-maquiavelo",
+      "title": "Prefacio del Anti-Maquiavelo",
+      "summary": "Empieza: «PREFACIO DEL ANTI-MAQUIAVELO.»",
+      "start": 46,
+      "end": 61
+    },
+    {
+      "slug": "dedicatoria",
+      "title": "Dedicatoria",
+      "summary": "Empieza: «NICOLAS MAQUIAVELO,»",
+      "start": 62,
+      "end": 69
+    },
+    {
+      "slug": "capitulo-1",
+      "title": "Capítulo I. De cuántas clases son los principados y de qué modos se adquieren",
+      "summary": "Empieza: «Todos los estados, todas las soberanías que tienen o que han tenido autoridad sobre los hombres, han sido y son, o repúblicas,…»",
+      "start": 70,
+      "end": 73
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "Capítulo II. De los principados hereditarios",
+      "summary": "Empieza: «CAPITULO II.»",
+      "start": 74,
+      "end": 77
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "Capítulo III. De los principados mixtos",
+      "summary": "Empieza: «CAPITULO III»",
+      "start": 78,
+      "end": 102
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "Capítulo IV. Por qué el reino de Darío, ocupado por Alejandro, no se sublevó contra sus sucesores",
+      "summary": "Empieza: «CAPITULO IV»",
+      "start": 103,
+      "end": 112
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "Capítulo V. De qué modo hay que gobernar las ciudades o principados que vivían con sus propias leyes",
+      "summary": "Empieza: «CAPITULO V»",
+      "start": 113,
+      "end": 121
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "Capítulo VI. De los principados nuevos que se adquieren con las armas propias y el talento personal",
+      "summary": "Empieza: «CAPITULO VI»",
+      "start": 122,
+      "end": 132
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "Capítulo VII. De los principados nuevos que se adquieren con armas y fortuna de otros",
+      "summary": "Empieza: «CAPITULO VII»",
+      "start": 133,
+      "end": 153
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "Capítulo VIII. De los que llegaron al principado mediante crímenes",
+      "summary": "Empieza: «CAPITULO VIII»",
+      "start": 154,
+      "end": 161
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "Capítulo IX. Del principado civil",
+      "summary": "Empieza: «CAPITULO IX.»",
+      "start": 162,
+      "end": 173
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "Capítulo X. Cómo deben medirse las fuerzas de todos los principados",
+      "summary": "Empieza: «CAPITULO X»",
+      "start": 174,
+      "end": 182
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "Capítulo XI. De los principados eclesiásticos",
+      "summary": "Empieza: «CAPITULO XI»",
+      "start": 183,
+      "end": 192
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "Capítulo XII. De las distintas clases de milicias y de los soldados mercenarios",
+      "summary": "Empieza: «CAPITULO XII»",
+      "start": 193,
+      "end": 213
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "Capítulo XIII. De los soldados auxiliares, mixtos y propios",
+      "summary": "Empieza: «CAPITULO XIII»",
+      "start": 214,
+      "end": 227
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "Capítulo XIV. De los deberes de un príncipe para con la milicia",
+      "summary": "Empieza: «CAPITULO XIV»",
+      "start": 228,
+      "end": 236
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "Capítulo XV. De las cosas por las que los hombres, y sobre todo los príncipes, son alabados o censurados",
+      "summary": "Empieza: «CAPITULO XV»",
+      "start": 237,
+      "end": 242
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "Capítulo XVI. De la prodigalidad y de la avaricia",
+      "summary": "Empieza: «CAPITULO XVI»",
+      "start": 243,
+      "end": 249
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "Capítulo XVII. De la crueldad y la clemencia, y si es mejor ser amado que temido",
+      "summary": "Empieza: «CAPITULO XVII»",
+      "start": 250,
+      "end": 258
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "Capítulo XVIII. De qué modo los príncipes deben cumplir sus promesas",
+      "summary": "Empieza: «CAPITULO XVIII»",
+      "start": 259,
+      "end": 268
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "Capítulo XIX. De qué modo debe evitarse ser despreciado y odiado",
+      "summary": "Empieza: «CAPITULO XIX»",
+      "start": 269,
+      "end": 291
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "Capítulo XX. Si las fortalezas y otras cosas que hacen los príncipes son útiles o no",
+      "summary": "Empieza: «CAPITULO XX»",
+      "start": 292,
+      "end": 307
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "Capítulo XXI. Cómo debe comportarse un príncipe para ser estimado",
+      "summary": "Empieza: «CAPITULO XXI»",
+      "start": 308,
+      "end": 319
+    },
+    {
+      "slug": "capitulo-22",
+      "title": "Capítulo XXII. De los secretarios del príncipe",
+      "summary": "Empieza: «CAPITULO XXII»",
+      "start": 320,
+      "end": 324
+    },
+    {
+      "slug": "capitulo-23",
+      "title": "Capítulo XXIII. Cómo huir de los aduladores",
+      "summary": "Empieza: «CAPITULO XXIII»",
+      "start": 325,
+      "end": 330
+    },
+    {
+      "slug": "capitulo-24",
+      "title": "Capítulo XXIV. Por qué los príncipes de Italia perdieron sus Estados",
+      "summary": "Empieza: «CAPITULO XXIV»",
+      "start": 331,
+      "end": 336
+    },
+    {
+      "slug": "capitulo-25",
+      "title": "Capítulo XXV. Del poder de la fortuna en las cosas humanas y de cómo resistirla",
+      "summary": "Empieza: «CAPITULO XXV»",
+      "start": 337,
+      "end": 349
+    },
+    {
+      "slug": "capitulo-26",
+      "title": "Capítulo XXVI. Exhortación a liberar Italia de los bárbaros",
+      "summary": "Empieza: «CAPITULO XXVI [[53]]»",
+      "start": 350,
+      "end": 364
+    }
+  ],
+  "description": "El príncipe de Nicolás Maquiavelo: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Ensayo político sobre cómo conquistar y conservar el poder.",
+  "intro": "<p>El príncipe es el tratado que Nicolás Maquiavelo escribió en 1513, apartado de la política florentina, y dedicó a Lorenzo de Médici. En veintiséis capítulos breves explica cómo se adquieren y se conservan los distintos tipos de principados: hereditarios, nuevos, conquistados con armas propias o ajenas, por fortuna o por virtud, eclesiásticos. Su modelo es César Borgia, que supo usar la astucia y la fuerza.</p><p>Aquí puedes leer El príncipe completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 80,
+    "art": {
+      "file": "el-principe-maquiavelo.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "url": "/leer/el-principe-maquiavelo/ilustracion.jpg",
+      "credit": "Santi di Tito, «Retrato de Nicolás Maquiavelo» (segunda mitad del siglo XVI), Palazzo Vecchio de Florencia. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Ensayo político",
+    "unidad": "capítulos",
+    "tema": "cómo conquistar y conservar el poder",
+    "resumen": [
+      "El príncipe es el tratado que Nicolás Maquiavelo escribió en 1513, apartado de la política florentina, y dedicó a Lorenzo de Médici. En veintiséis capítulos breves explica cómo se adquieren y se conservan los distintos tipos de principados: hereditarios, nuevos, conquistados con armas propias o ajenas, por fortuna o por virtud, eclesiásticos. Su modelo es César Borgia, que supo usar la astucia y la fuerza.",
+      "Lo que hizo célebre y escandaloso el libro es su realismo: el príncipe debe aprender a no ser bueno cuando la necesidad lo exige, es mejor ser temido que amado si no se pueden ambas cosas, y debe saber ser zorro y león. Maquiavelo separa la política de la moral y termina con una exhortación a liberar Italia de los extranjeros. Esta edición de 1854 incluye una biografía del autor y la polémica del Anti-Maquiavelo."
+    ],
+    "personajes": [
+      [
+        "César Borgia",
+        "Duque Valentino, modelo del príncipe nuevo que conquista por fortuna y se mantiene por virtud."
+      ],
+      [
+        "Lorenzo de Médici",
+        "Gobernante de Florencia a quien está dedicado el libro."
+      ],
+      [
+        "Fernando el Católico",
+        "Rey de Aragón, citado como ejemplo de príncipe astuto."
+      ]
+    ],
+    "ideas": [
+      "La política tiene sus propias reglas, distintas de la moral.",
+      "La virtù del gobernante frente a la fortuna.",
+      "Es más seguro ser temido que amado.",
+      "La necesidad de ejércitos propios y no mercenarios."
+    ],
+    "faq": [
+      [
+        "¿Qué significa «el fin justifica los medios»?",
+        "La frase no aparece así en El príncipe, pero resume su idea de que el gobernante debe juzgarse por los resultados: conservar el Estado."
+      ],
+      [
+        "¿Es mejor ser amado o temido?",
+        "Maquiavelo responde que lo ideal es ambas cosas, pero si hay que elegir, es más seguro ser temido, siempre que no se llegue a ser odiado."
+      ],
+      [
+        "¿A quién está dedicado?",
+        "A Lorenzo di Piero de Médici, duque de Urbino."
+      ],
+      [
+        "¿Cuándo se escribió?",
+        "En 1513. Se publicó en 1532, cinco años después de la muerte de Maquiavelo."
+      ]
+    ]
+  },
+  "traducido": true
+}

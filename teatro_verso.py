@@ -135,6 +135,11 @@ def convert_act(page):
             if not title or ACT.match(title):
                 continue
             b.stage(re.sub(r"(?i)^escena\s+", "Escena ", title.capitalize() if title.isupper() else title))
+        elif tag == "div" and "personaje" in css.split():  # {{c|ANTÍGONA|clase=personaje}}
+            handled.add(node)
+            name = clean(node.text_content()).strip("*").rstrip(":. ")
+            if name:
+                b.pending = name
         elif tag == "tr":
             handled.add(node)
             cells = node.xpath("./td")

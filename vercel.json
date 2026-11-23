@@ -360,6 +360,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/antigona-sofocles/",
+      "destination": "/antigona-sofocles/",
+      "permanent": true
+    },
+    {
       "source": "/leer/ariel-jose-enrique-rodo/",
       "destination": "/ariel-jose-enrique-rodo/",
       "permanent": true
@@ -450,6 +455,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/el-contrato-social-rousseau/",
+      "destination": "/el-contrato-social-rousseau/",
+      "permanent": true
+    },
+    {
       "source": "/leer/el-extrano-caso-del-dr-jekyll-stevenson/",
       "destination": "/el-extrano-caso-del-dr-jekyll-stevenson/",
       "permanent": true
@@ -460,6 +470,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/el-principe-maquiavelo/",
+      "destination": "/el-principe-maquiavelo/",
+      "permanent": true
+    },
+    {
       "source": "/leer/el-sabueso-de-los-baskerville-conan-doyle/",
       "destination": "/el-sabueso-de-los-baskerville-conan-doyle/",
       "permanent": true
@@ -467,6 +482,11 @@
     {
       "source": "/leer/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
       "destination": "/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/etica-a-nicomaco-aristoteles/",
+      "destination": "/etica-a-nicomaco-aristoteles/",
       "permanent": true
     },
     {
@@ -575,6 +595,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/la-vuelta-al-mundo-en-ochenta-dias-julio-verne/",
+      "destination": "/la-vuelta-al-mundo-en-ochenta-dias-julio-verne/",
+      "permanent": true
+    },
+    {
       "source": "/leer/laques-platon/",
       "destination": "/laques-platon/",
       "permanent": true
@@ -670,8 +695,18 @@
       "permanent": true
     },
     {
+      "source": "/leer/poetica-aristoteles/",
+      "destination": "/poetica-aristoteles/",
+      "permanent": true
+    },
+    {
       "source": "/leer/primer-alcibiades-platon/",
       "destination": "/primer-alcibiades-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/prometeo-encadenado-esquilo/",
+      "destination": "/prometeo-encadenado-esquilo/",
       "permanent": true
     },
     {

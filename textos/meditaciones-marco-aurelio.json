@@ -1,0 +1,145 @@
+{
+  "slug": "meditaciones-marco-aurelio",
+  "title": "Meditaciones",
+  "author": "Marco Aurelio",
+  "author_route": "",
+  "book_route": "/meditaciones-marco-aurelio/",
+  "translator": "",
+  "edition": "Edición digital de Elejandría",
+  "source_url": "https://www.elejandria.com/libro/las-meditaciones-de-marco-aurelio/marco-aurelio/1301",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "libro-i",
+      "title": "Libro I",
+      "summary": "Empieza: «1. De mi abuelo Vero: el buen carácter y la serenidad.»",
+      "start": 0,
+      "end": 17
+    },
+    {
+      "slug": "libro-ii",
+      "title": "Libro II",
+      "summary": "Empieza: «1. Al despuntar la aurora, hazte estas consideraciones previas: me encontraré con un indiscreto, un ingrato, un insolente, un mentiroso, un envidioso,…»",
+      "start": 18,
+      "end": 35
+    },
+    {
+      "slug": "libro-iii",
+      "title": "Libro III",
+      "summary": "Empieza: «1. No sólo esto debe tomarse en cuenta, que día a día se va gastando la vida y nos queda una parte…»",
+      "start": 36,
+      "end": 52
+    },
+    {
+      "slug": "libro-iv",
+      "title": "Libro IV",
+      "summary": "Empieza: «1. El dueño interior, cuando está de acuerdo con la naturaleza, adopta, respecto a los acontecimientos, una actitud tal que siempre, y…»",
+      "start": 53,
+      "end": 104
+    },
+    {
+      "slug": "libro-v",
+      "title": "Libro V",
+      "summary": "Empieza: «1. Al amanecer, cuando de mala gana y perezosamente despiertes, acuda puntual a ti este pensamiento: «Despierto para cumplir una tarea propia…»",
+      "start": 105,
+      "end": 141
+    },
+    {
+      "slug": "libro-vi",
+      "title": "Libro VI",
+      "summary": "Empieza: «1. La sustancia del conjunto universal es dócil y maleable. Y la razón que la gobierna no tiene en sí ningún motivo…»",
+      "start": 142,
+      "end": 201
+    },
+    {
+      "slug": "libro-vii",
+      "title": "Libro VII",
+      "summary": "Empieza: «1. ¿Qué es la maldad? Es lo que has visto muchas veces. Y a propósito de todo lo que acontece, ten presente…»",
+      "start": 202,
+      "end": 277
+    },
+    {
+      "slug": "libro-viii",
+      "title": "Libro VIII",
+      "summary": "Empieza: «1. También eso te lleva a desdeñar la vanagloria, el hecho de que ya no puedes haber vivido tu vida entera, o…»",
+      "start": 278,
+      "end": 339
+    },
+    {
+      "slug": "libro-ix",
+      "title": "Libro IX",
+      "summary": "Empieza: «1. El que comete injusticias es impío. Pues dado que la naturaleza del conjunto universal ha constituido los seres racionales para ayudarse…»",
+      "start": 340,
+      "end": 382
+    },
+    {
+      "slug": "libro-x",
+      "title": "Libro X",
+      "summary": "Empieza: «1. ¿Serás algún día, alma mía, buena, sencilla, única, desnuda, más patente que el cuerpo que te circunda? ¿Probarás algún día la…»",
+      "start": 383,
+      "end": 421
+    },
+    {
+      "slug": "libro-xi",
+      "title": "Libro XI",
+      "summary": "Empieza: «1. Las propiedades del alma racional: se ve a sí misma, se analiza a sí misma, se desarrolla como quiere, recoge ella…»",
+      "start": 422,
+      "end": 461
+    },
+    {
+      "slug": "libro-xii",
+      "title": "Libro XII",
+      "summary": "Empieza: «1. Todos los objetivos que deseas alcanzar en tu progreso puedes ya tenerlos si no te los regateas a ti mismo y…»",
+      "start": 462,
+      "end": 498
+    }
+  ],
+  "traducido": true,
+  "description": "Meditaciones de Marco Aurelio: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Filosofía sobre el estoicismo y el dominio de uno mismo.",
+  "intro": "<p>Las Meditaciones son las notas personales que el emperador romano Marco Aurelio escribió en griego, entre campañas militares, durante los últimos años de su vida. No las escribió para publicarlas: son ejercicios para recordarse a sí mismo cómo vivir según la filosofía estoica.</p><p>Aquí puedes leer Meditaciones completo, dividido en libros. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 93,
+    "art": {
+      "file": "meditaciones-marco-aurelio.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/meditaciones-marco-aurelio/ilustracion.jpg",
+      "credit": "Eugène Delacroix, «Últimas palabras del emperador Marco Aurelio» (1844), Museo de Bellas Artes de Lyon. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Filosofía",
+    "unidad": "libros",
+    "tema": "el estoicismo y el dominio de uno mismo",
+    "resumen": [
+      "Las Meditaciones son las notas personales que el emperador romano Marco Aurelio escribió en griego, entre campañas militares, durante los últimos años de su vida. No las escribió para publicarlas: son ejercicios para recordarse a sí mismo cómo vivir según la filosofía estoica.",
+      "En doce libros breves reflexiona sobre la brevedad de la vida, la muerte, el deber, la aceptación de lo que no depende de nosotros y la importancia de actuar con justicia. El primer libro es un agradecimiento a quienes le enseñaron algo. Es uno de los libros de filosofía más leídos de todos los tiempos."
+    ],
+    "personajes": [],
+    "ideas": [
+      "Distinguir lo que depende de nosotros de lo que no.",
+      "La brevedad de la vida y la aceptación de la muerte.",
+      "Vivir conforme a la razón y a la naturaleza.",
+      "El deber hacia los demás y el bien común."
+    ],
+    "faq": [
+      [
+        "¿Qué es el estoicismo?",
+        "Una escuela filosófica que enseña a vivir con serenidad, aceptando lo que no podemos cambiar y actuando con virtud."
+      ],
+      [
+        "¿Para quién escribió Marco Aurelio?",
+        "Para sí mismo. El título original griego significa «A sí mismo»."
+      ],
+      [
+        "¿Cuántos libros tiene?",
+        "Doce."
+      ]
+    ]
+  }
+}

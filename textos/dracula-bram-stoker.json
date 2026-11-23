@@ -1,0 +1,271 @@
+{
+  "slug": "dracula-bram-stoker",
+  "title": "Drácula",
+  "author": "Bram Stoker",
+  "author_route": "",
+  "book_route": "/dracula-bram-stoker/",
+  "translator": "",
+  "edition": "Edición digital de Elejandría",
+  "source_url": "https://www.elejandria.com/libro/dracula/stoker-bram/143",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "capitulo-1-del-diario-de-jonathan-harker",
+      "title": "Capítulo 1. Del diario de Jonathan Harker",
+      "summary": "Empieza: «Bistritz, 3 de mayo. Salí de Münich a las 8:35 de la noche del primero de mayo, llegué a Viena a la…»",
+      "start": 0,
+      "end": 67
+    },
+    {
+      "slug": "capitulo-2-del-diario-de-jonathan-harker-continuacion",
+      "title": "Capítulo 2. Del diario de Jonathan Harker (continuación)",
+      "summary": "Empieza: «5 de mayo. Debo haber estado dormido, pues es seguro que si hubiese estado plenamente despierto habría notado que nos acercábamos a…»",
+      "start": 68,
+      "end": 153
+    },
+    {
+      "slug": "capitulo-3-del-diario-de-jonathan-harker-continuacion",
+      "title": "Capítulo 3. Del diario de Jonathan Harker (continuación)",
+      "summary": "Empieza: «Cuando me di cuenta de que era un prisionero, una especie de sensación salvaje se apoderó de mí. Corrí arriba y abajo…»",
+      "start": 154,
+      "end": 210
+    },
+    {
+      "slug": "capitulo-4-del-diario-de-jonathan-harker-continuacion",
+      "title": "Capítulo 4. Del diario de Jonathan Harker (continuación)",
+      "summary": "Empieza: «Desperté en mi propia cama. Si es que no ha sido todo un sueño, el conde me debe de haber traído en…»",
+      "start": 211,
+      "end": 298
+    },
+    {
+      "slug": "capitulo-5-carta-de-la-senorita-mina-murray-a-la-senorita-lu",
+      "title": "Capítulo 5. Carta de la señorita Mina Murray a la señorita Lucy Westenra",
+      "summary": "Empieza: «9 de mayo»",
+      "start": 299,
+      "end": 351
+    },
+    {
+      "slug": "capitulo-6-diario-de-mina-murray",
+      "title": "Capítulo 6. Diario de Mina Murray",
+      "summary": "Empieza: «Whitby, 24 de julio. Encontré en la estación a Lucy, que parecía más dulce y bonita que nunca, y de allí nos…»",
+      "start": 352,
+      "end": 426
+    },
+    {
+      "slug": "capitulo-7-recorte-del-dailygraph-8-de-agosto-pegado-en-el-d",
+      "title": "Capítulo 7. RECORTE DEL \"DAILYGRAPH\", 8 DE AGOSTO (Pegado en el diario de Mina Murray)",
+      "summary": "Empieza: «De un corresponsal.»",
+      "start": 427,
+      "end": 479
+    },
+    {
+      "slug": "capitulo-8-del-diario-de-mina-murray",
+      "title": "Capítulo 8. Del diario de Mina Murray",
+      "summary": "Empieza: «Mismo día, 11 p. m. ¡Oh, cómo estoy cansada! Si no fuera porque he tomado como un deber escribir en mi diario…»",
+      "start": 480,
+      "end": 562
+    },
+    {
+      "slug": "capitulo-9-carta-de-mina-harker-a-lucy-westenra",
+      "title": "Capítulo 9. Carta de Mina Harker a Lucy Westenra",
+      "summary": "Empieza: «Budapest, 24 de agosto»",
+      "start": 563,
+      "end": 669
+    },
+    {
+      "slug": "capitulo-10-carta-del-doctor-seward-al-honorable-arthur-holm",
+      "title": "Capítulo 10. Carta del doctor Seward al honorable Arthur Holmwood",
+      "summary": "Empieza: «6 de septiembre.»",
+      "start": 670,
+      "end": 816
+    },
+    {
+      "slug": "capitulo-11-el-diario-de-lucy-westenra",
+      "title": "Capítulo 11. El diario de Lucy Westenra",
+      "summary": "Empieza: «12 de septiembre. ¡Qué buenos son todos conmigo! Casi siento que quiero a ese adorable doctor van Helsing. Me pregunto por qué…»",
+      "start": 817,
+      "end": 905
+    },
+    {
+      "slug": "capitulo-12-del-diario-del-doctor-seward",
+      "title": "Capítulo 12. Del diario del doctor Seward",
+      "summary": "Empieza: «18 de septiembre. Me dirigí de inmediato a Hillingham, y llegué temprano. Dejando mi calesa en el portón, corrí por la avenida…»",
+      "start": 906,
+      "end": 1041
+    },
+    {
+      "slug": "capitulo-13-del-diario-del-doctor-seward-continuacion",
+      "title": "Capítulo 13. Del diario del doctor Seward (continuación)",
+      "summary": "Empieza: «Se dispuso el funeral para el día siguiente, de manera que Lucy y su madre pudieran ser enterradas juntas. Yo me encargué…»",
+      "start": 1042,
+      "end": 1159
+    },
+    {
+      "slug": "capitulo-14-del-diario-de-mina-harker",
+      "title": "Capítulo 14. Del diario de Mina Harker",
+      "summary": "Empieza: «23 de septiembre. Jonathan ha mejorado después de una mala noche. Estoy contenta de que tenga bastante trabajo que hacer, pues eso…»",
+      "start": 1160,
+      "end": 1305
+    },
+    {
+      "slug": "capitulo-15-el-diario-del-doctor-seward-continuacion",
+      "title": "Capítulo 15. El diario del doctor Seward (continuación)",
+      "summary": "Empieza: «Por un momento me dominó una fuerte cólera; fue como si en vida hubiese abofeteado a Lucy. Golpeé fuertemente la mesa y…»",
+      "start": 1306,
+      "end": 1438
+    },
+    {
+      "slug": "capitulo-16-del-diario-del-doctor-seward-continuacion",
+      "title": "Capítulo 16. Del diario del doctor Seward (continuación)",
+      "summary": "Empieza: «Eran las doce menos cuarto en punto de la noche cuando penetramos en el cementerio de la iglesia, pasando por encima de…»",
+      "start": 1439,
+      "end": 1513
+    },
+    {
+      "slug": "capitulo-17-del-diario-del-doctor-seward-continuacion",
+      "title": "Capítulo 17. Del diario del doctor Seward (continuación)",
+      "summary": "Empieza: «Cuando llegamos al hotel Berkeley, van Helsing encontró un telegrama que había llegado en su ausencia:»",
+      "start": 1514,
+      "end": 1633
+    },
+    {
+      "slug": "capitulo-18-del-diario-del-doctor-seward",
+      "title": "Capítulo 18. Del diario del doctor Seward",
+      "summary": "Empieza: «30 de septiembre. Llegué a casa a las cinco y descubrí que Godalming y Morris no solamente habían llegado, sino que también…»",
+      "start": 1634,
+      "end": 1767
+    },
+    {
+      "slug": "capitulo-19-del-diario-de-jonathan-harker",
+      "title": "Capítulo 19. Del diario de Jonathan Harker",
+      "summary": "Empieza: «1 de octubre, a las cinco de la mañana. Salí con el grupo para llevar a cabo la investigación con la mente…»",
+      "start": 1768,
+      "end": 1851
+    },
+    {
+      "slug": "capitulo-20-del-diario-de-jonathan-harker",
+      "title": "Capítulo 20. Del diario de Jonathan Harker",
+      "summary": "Empieza: «1 de octubre, por la noche. Encontré a Thomas Snelling en su casa, en Bethnal Green; pero, desafortunadamente, no estaba en condiciones…»",
+      "start": 1852,
+      "end": 1997
+    },
+    {
+      "slug": "capitulo-21-del-diario-del-doctor-seward",
+      "title": "Capítulo 21. Del diario del doctor Seward",
+      "summary": "Empieza: «3 de octubre. Déjenme expresar exactamente todo lo sucedido, tal y como lo recuerdo desde la última vez en que escribí en…»",
+      "start": 1998,
+      "end": 2123
+    },
+    {
+      "slug": "capitulo-22-del-diario-de-jonathan-harker",
+      "title": "Capítulo 22. Del diario de Jonathan Harker",
+      "summary": "Empieza: «3 de octubre. Tengo que hacer algo, si no quiero volverme loco; por eso estoy escribiendo en este diario. Son ahora las…»",
+      "start": 2124,
+      "end": 2217
+    },
+    {
+      "slug": "capitulo-23-del-diario-del-doctor-seward",
+      "title": "Capítulo 23. Del diario del doctor Seward",
+      "summary": "Empieza: «3 de octubre. El tiempo nos pareció extremadamente largo, mientras esperábamos a lord Godalming y a Quincey Morris. El profesor trataba de…»",
+      "start": 2218,
+      "end": 2330
+    },
+    {
+      "slug": "capitulo-24-del-diario-fonografico-del-doctor-seward-narrado",
+      "title": "Capítulo 24. Del diario fonográfico del doctor Seward, narrado por Van Helsing",
+      "summary": "Empieza: «Esto es para Jonathan Harker.»",
+      "start": 2331,
+      "end": 2422
+    },
+    {
+      "slug": "capitulo-25-del-diario-del-doctor-seward",
+      "title": "Capítulo 25. Del diario del doctor Seward",
+      "summary": "Empieza: «11 de octubre, por la noche. Jonathan Harker me ha pedido que tome nota de todo esto, ya que dice no estar…»",
+      "start": 2423,
+      "end": 2528
+    },
+    {
+      "slug": "capitulo-26-del-diario-del-doctor-seward",
+      "title": "Capítulo 26. Del diario del doctor Seward",
+      "summary": "Empieza: «29 de octubre. Esto lo escribo en el tren, de Varna a Galatz. Ayer, por la noche, todos nos reunimos poco antes…»",
+      "start": 2529,
+      "end": 2639
+    },
+    {
+      "slug": "capitulo-27-el-diario-de-mina-harker",
+      "title": "Capítulo 27. El diario de Mina Harker",
+      "summary": "Empieza: «1 de noviembre. Hemos viajado todo el día a buena velocidad. Los caballos parecen saber que los estamos tratando con bondad, ya…»",
+      "start": 2640,
+      "end": 2744
+    }
+  ],
+  "traducido": true,
+  "description": "Drácula de Bram Stoker: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre el vampiro, el miedo y la lucha contra el mal.",
+  "intro": "<p>Jonathan Harker, un joven abogado inglés, viaja a Transilvania para cerrar la compra de una casa en Londres por parte del conde Drácula. En el castillo descubre que es prisionero de un ser que no se refleja en los espejos y duerme en un ataúd. Mientras, Drácula viaja a Inglaterra.</p><p>Aquí puedes leer Drácula completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 100,
+    "art": {
+      "file": "dracula-bram-stoker.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "url": "/leer/dracula-bram-stoker/ilustracion.jpg",
+      "credit": "Philip Burne-Jones, «El vampiro» (1897). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "el vampiro, el miedo y la lucha contra el mal",
+    "resumen": [
+      "Jonathan Harker, un joven abogado inglés, viaja a Transilvania para cerrar la compra de una casa en Londres por parte del conde Drácula. En el castillo descubre que es prisionero de un ser que no se refleja en los espejos y duerme en un ataúd. Mientras, Drácula viaja a Inglaterra.",
+      "En Whitby, Lucy Westenra, amiga de Mina, la prometida de Jonathan, enferma y muere convertida en vampira. El profesor Van Helsing reúne a sus pretendientes, a Jonathan y a Mina para perseguir a Drácula hasta su castillo. La novela está contada a través de diarios, cartas y recortes de periódico."
+    ],
+    "personajes": [
+      [
+        "El conde Drácula",
+        "Noble vampiro de Transilvania."
+      ],
+      [
+        "Jonathan Harker",
+        "Abogado prisionero en el castillo."
+      ],
+      [
+        "Mina Murray",
+        "Prometida y luego esposa de Jonathan."
+      ],
+      [
+        "Lucy Westenra",
+        "Amiga de Mina, víctima del conde."
+      ],
+      [
+        "Abraham Van Helsing",
+        "Médico y sabio que dirige la caza del vampiro."
+      ]
+    ],
+    "ideas": [
+      "El miedo a lo desconocido.",
+      "La modernidad frente a lo arcaico.",
+      "El deseo y la sexualidad reprimida.",
+      "La unión de un grupo contra el mal."
+    ],
+    "faq": [
+      [
+        "¿Cómo está contada?",
+        "Mediante diarios, cartas, telegramas y artículos de prensa de los personajes."
+      ],
+      [
+        "¿Cómo termina?",
+        "Los cazadores alcanzan a Drácula en Transilvania y lo matan antes de la puesta del sol."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1897."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "slug": "la-divina-comedia-dante",
+  "title": "La divina comedia",
+  "author": "Dante Alighieri",
+  "author_route": "",
+  "book_route": "/la-divina-comedia-dante/",
+  "translator": "Manuel Aranda y Sanjuán",
+  "edition": "Edición digital de Elejandría",
+  "source_url": "https://www.elejandria.com/libro/la-divina-comedia/dante-alighieri/884",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "infierno-canto-primero",
+      "title": "Infierno, canto primero",
+      "summary": "Empieza: «A la mitad del viaje de nuestra vida me encontré en una selva obscura, por haberme apartado del camino recto. ¡Ah! Cuán…»",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "slug": "infierno-canto-segundo",
+      "title": "Infierno, canto segundo",
+      "summary": "Empieza: «El día terminaba; la atmósfera obscura de la noche invitaba a descansar de sus fatigas a los seres animados que existen sobre…»",
+      "start": 10,
+      "end": 18
+    },
+    {
+      "slug": "infierno-canto-tercero",
+      "title": "Infierno, canto tercero",
+      "summary": "Empieza: «POR mí se va a la ciudad del llanto; por mí se va al eterno dolor; por mi se va hacia la…»",
+      "start": 19,
+      "end": 43
+    },
+    {
+      "slug": "infierno-canto-cuarto",
+      "title": "Infierno, canto cuarto",
+      "summary": "Empieza: «INTERRUMPIO mi profundo sueño un trueno tan fuerte, que me estremecí como hombre a quien se despierta a la fuerza: me levanté,…»",
+      "start": 44,
+      "end": 64
+    },
+    {
+      "slug": "infierno-canto-quinto",
+      "title": "Infierno, canto quinto",
+      "summary": "Empieza: «ASI descendí del primer círculo al segundo, que contiene menos espacio, pero mucho más dolor, y dolor punzante, que origina desgarradores gritos.…»",
+      "start": 65,
+      "end": 88
+    },
+    {
+      "slug": "infierno-canto-sexto",
+      "title": "Infierno, canto sexto",
+      "summary": "Empieza: «Al recobrar los sentidos, que perdí por la tristeza y la compasión que me causó la suerte de los dos cuñados, vi…»",
+      "start": 89,
+      "end": 110
+    },
+    {
+      "slug": "infierno-canto-septimo",
+      "title": "Infierno, canto septimo",
+      "summary": "Empieza: «APE satán, pape satán aleppe\"[8] comenzó a gritar Plutón con ronca voz. Y aquel sabio gentil, que lo supo todo, para animarme,…»",
+      "start": 111,
+      "end": 130
+    },
+    {
+      "slug": "infierno-canto-octavo",
+      "title": "Infierno, canto octavo",
+      "summary": "Empieza: «Digo, continuando, que mucho antes de llegar al pie de la elevada torre, nuestros ojos se fijaron en su parte más alta,…»",
+      "start": 131,
+      "end": 167
+    },
+    {
+      "slug": "infierno-canto-nono",
+      "title": "Infierno, canto nono",
+      "summary": "Empieza: «AQUEL color que el miedo pintó en mi rostro cuando vi a mi guía retroceder, hizo que en el suyo se desvaneciera…»",
+      "start": 168,
+      "end": 188
+    },
+    {
+      "slug": "infierno-canto-decimo",
+      "title": "Infierno, canto decimo",
+      "summary": "Empieza: «Mi maestro avanzó por un estrecho sendero, entre los muros de la ciudad y las tumbas de los condenados, y yo seguí…»",
+      "start": 189,
+      "end": 228
+    },
+    {
+      "slug": "infierno-canto-undecimo",
+      "title": "Infierno, canto undecimo",
+      "summary": "Empieza: «A la extremidad de un alto promontorio, formado por grandes piedras rotas y acumuladas en círculo, llegamos hasta un montón de espíritus…»",
+      "start": 229,
+      "end": 241
+    },
+    {
+      "slug": "infierno-canto-duodecimo",
+      "title": "Infierno, canto duodecimo",
+      "summary": "Empieza: «El sitio por donde empezamos a bajar era un paraje alpestre y, a causa del que allí se hallaba, todas las miradas…»",
+      "start": 242,
+      "end": 269
+    },
+    {
+      "slug": "infierno-canto-decimotercio",
+      "title": "Infierno, canto decimotercio",
+      "summary": "Empieza: «No había llegado aún Neso a la otra parte, cuando penetramos en un bosque, que no estaba surcado por ningún sendero. El…»",
+      "start": 270,
+      "end": 298
+    },
+    {
+      "slug": "infierno-canto-decimocuarto",
+      "title": "Infierno, canto decimocuarto",
+      "summary": "Empieza: «ENTERNECIDO por el amor patrio, reuní las hojas dispersas, y las devolví a aquel que ya se había callado. Desde allí nos…»",
+      "start": 299,
+      "end": 320
+    },
+    {
+      "slug": "infierno-canto-decimoquinto",
+      "title": "Infierno, canto decimoquinto",
+      "summary": "Empieza: «NOS pusimos en marcha siguiendo una de aquellas orillas petrificadas: el vapor del arroyuelo formaba sobre él una niebla, que preservaba del…»",
+      "start": 321,
+      "end": 343
+    },
+    {
+      "slug": "infierno-canto-decimosexto",
+      "title": "Infierno, canto decimosexto",
+      "summary": "Empieza: «ENCONTRABAME ya en un sitio donde se oía el rimbombar del agua que caía en el otro recinto, rumor semejante al zumbido…»",
+      "start": 344,
+      "end": 357
+    },
+    {
+      "slug": "infierno-canto-decimoseptimo",
+      "title": "Infierno, canto decimoseptimo",
+      "summary": "Empieza: «He ahí la fiera de aguzada cola, que traspasa las montañas, y rompe los muros y las armas: he ahí la que…»",
+      "start": 358,
+      "end": 370
+    },
+    {
+      "slug": "infierno-canto-decimooctavo",
+      "title": "Infierno, canto decimooctavo",
+      "summary": "Empieza: «HAY un lugar en el Infierno, llamado Malebolge,[18] construído todo de piedra y de color ferruginoso, como la cerca que lo rodea.…»",
+      "start": 371,
+      "end": 388
+    },
+    {
+      "slug": "infierno-canto-decimonono",
+      "title": "Infierno, canto decimonono",
+      "summary": "Empieza: «H Simón el mago! ¡Oh miserables sectarios suyos, almas rapaces, que prostituís a cambio de oro y plata las cosas de Dios,…»",
+      "start": 389,
+      "end": 407
+    },
+    {
+      "slug": "infierno-canto-vigesimo",
+      "title": "Infierno, canto vigesimo",
+      "summary": "Empieza: «MIS versos deben relatar un nuevo suplicio, el cual servirá de asunto al vigésimo canto del primer cántico, que trata de los…»",
+      "start": 408,
+      "end": 415
+    },
+    {
+      "slug": "infierno-canto-vigesimoprimero",
+      "title": "Infierno, canto vigesimoprimero",
+      "summary": "Empieza: «ASI, de un puente a otro, y hablando de cosas que mi comedia no se cuida de referir, fuimos avanzando y llegamos…»",
+      "start": 416,
+      "end": 441
+    },
+    {
+      "slug": "infierno-canto-vegisimosegundo",
+      "title": "Infierno, canto vegisimosegundo",
+      "summary": "Empieza: «He visto alguna vez a la caballería levantar el campo, empezar el combate, pasar revista, y a veces batirse en retirada; he…»",
+      "start": 442,
+      "end": 460
+    },
+    {
+      "slug": "infierno-canto-vigesimotercero",
+      "title": "Infierno, canto vigesimotercero",
+      "summary": "Empieza: «SOLOS, en silencio y sin escolta, íbamos uno tras otro, como acostumbran ir los frailes menores. La riña que acabábamos de presenciar…»",
+      "start": 461,
+      "end": 488
+    },
+    {
+      "slug": "infierno-canto-vigesimocuarto",
+      "title": "Infierno, canto vigesimocuarto",
+      "summary": "Empieza: «En la época del año nuevo en que templa el sol su cabellera bajo el Acuario, y en que ya las noches…»",
+      "start": 489,
+      "end": 504
+    },
+    {
+      "slug": "infierno-canto-vigesimoquinto",
+      "title": "Infierno, canto vigesimoquinto",
+      "summary": "Empieza: «Al terminar estas palabras, el ladrón alzó ambas manos haciendo un gesto indecente y exclamando: \"Toma, Dios, esto es para tí.\" Desde…»",
+      "start": 505,
+      "end": 510
+    },
+    {
+      "slug": "infierno-canto-vigesimosexto",
+      "title": "Infierno, canto vigesimosexto",
+      "summary": "Empieza: «ALEGRATE, Florencia, pues eres tan grande, que tu nombre vuela por mar y tierra, y es famoso en todo el infierno. Entre…»",
+      "start": 511,
+      "end": 524
+    },
+    {
+      "slug": "infierno-canto-vigesimoseptimo",
+      "title": "Infierno, canto vigesimoseptimo",
+      "summary": "Empieza: «HABIASE quedado derecha e inmóvil la llama para no decir nada más, y ya se iba alejando de nosotros, con permiso del…»",
+      "start": 525,
+      "end": 534
+    },
+    {
+      "slug": "infierno-canto-vigesimoctavo",
+      "title": "Infierno, canto vigesimoctavo",
+      "summary": "Empieza: «UIEN podría jamás, ni aún con palabras sin medida, por más que lo intentase muchas veces, describir toda la sangre y las…»",
+      "start": 535,
+      "end": 554
+    },
+    {
+      "slug": "infierno-canto-vigesimonono",
+      "title": "Infierno, canto vigesimonono",
+      "summary": "Empieza: «El espectáculo de aquella multitud de precitos y de sus diversas heridas, de tal modo henchía de lágrimas mis ojos, que hubiera…»",
+      "start": 555,
+      "end": 577
+    },
+    {
+      "slug": "infierno-canto-trigesimo",
+      "title": "Infierno, canto trigesimo",
+      "summary": "Empieza: «En aquel tiempo en que Juno, por causa de Semele, estaba irritada contra la sangre tebana, como lo demostró más de una…»",
+      "start": 578,
+      "end": 604
+    },
+    {
+      "slug": "infierno-canto-trigesimoprimero",
+      "title": "Infierno, canto trigesimoprimero",
+      "summary": "Empieza: «La misma lengua que antes me hirió, tiñendo de rubor mis mejillas, me aplicó en seguida el remedio: Así he oído contar…»",
+      "start": 605,
+      "end": 627
+    },
+    {
+      "slug": "infierno-canto-trigesimosegundo",
+      "title": "Infierno, canto trigesimosegundo",
+      "summary": "Empieza: «Si poseyese un estilo áspero y ronco, cual conviene para describir el sombrío pozo, sobre el que se apoyan todas las otras…»",
+      "start": 628,
+      "end": 653
+    },
+    {
+      "slug": "infierno-canto-trigesimotercio",
+      "title": "Infierno, canto trigesimotercio",
+      "summary": "Empieza: «AQUEL pecador apartó su boca de tan horrible alimento, limpiándosela en los pelos de la cabeza cuya parte posterior acababa de roer;…»",
+      "start": 654,
+      "end": 673
+    },
+    {
+      "slug": "infierno-canto-trigesimocuarto",
+      "title": "Infierno, canto trigesimocuarto",
+      "summary": "Empieza: «EXILLA regis prodeunt inferni\"[44] hacia nosotros. Mira adelante—dijo mi Maestro,—a ver si lo distingues.»",
+      "start": 674,
+      "end": 689
+    },
+    {
+      "slug": "purgatorio-canto-primero",
+      "title": "Purgatorio, canto primero",
+      "summary": "Empieza: «AHORA la navecilla de mi ingenio, que deja en pos de sí un mar tan cruel, desplegará las velas para navegar por…»",
+      "start": 690,
+      "end": 700
+    },
+    {
+      "slug": "purgatorio-canto-segundo",
+      "title": "Purgatorio, canto segundo",
+      "summary": "Empieza: «Ya estaba el Sol tocando al horizonte, cuyo círculo meridiano cubre a Jerusalén con su punto más elevado; y ya la noche,…»",
+      "start": 701,
+      "end": 717
+    },
+    {
+      "slug": "purgatorio-canto-tercero",
+      "title": "Purgatorio, canto tercero",
+      "summary": "Empieza: «MIENTRAS la repentina fuga dispersaba por la campiña aquellas almas, que se volvían hacia la montaña donde la razón divina las aguija,…»",
+      "start": 718,
+      "end": 738
+    },
+    {
+      "slug": "purgatorio-canto-cuarto",
+      "title": "Purgatorio, canto cuarto",
+      "summary": "Empieza: «CUANDO por efecto del placer o del dolor de que se siente afectada alguna de nuestras facultades, el alma entera se concentra…»",
+      "start": 739,
+      "end": 764
+    },
+    {
+      "slug": "purgatorio-canto-quinto",
+      "title": "Purgatorio, canto quinto",
+      "summary": "Empieza: «Me había alejado ya de aquellas sombras, y seguía las huellas de mi Guía, cuando detrás de mí, y señalándome con el…»",
+      "start": 765,
+      "end": 786
+    },
+    {
+      "slug": "purgatorio-canto-sexto",
+      "title": "Purgatorio, canto sexto",
+      "summary": "Empieza: «CUANDO, acabado el juego de la zara, se desparten los jugadores, el que pierde se queda triste, pensando en las jugadas, y…»",
+      "start": 787,
+      "end": 798
+    },
+    {
+      "slug": "purgatorio-canto-septimo",
+      "title": "Purgatorio, canto septimo",
+      "summary": "Empieza: «DESPUES de haber cambiado entre sí tres o cuatro veces corteses y halagüeños saludos, Sordello se hizo un poco atrás, y dijo:»",
+      "start": 799,
+      "end": 816
+    },
+    {
+      "slug": "purgatorio-canto-octavo",
+      "title": "Purgatorio, canto octavo",
+      "summary": "Empieza: «ERA ya la hora en que se enternece el corazón de los navegantes, y renace su deseo de abrazar a los caros…»",
+      "start": 817,
+      "end": 838
+    },
+    {
+      "slug": "purgatorio-canto-nono",
+      "title": "Purgatorio, canto nono",
+      "summary": "Empieza: «La concubina del viejo Titón, desprendida de los brazos de su dulce amigo, alboreaba ya en los linderos orientales, reluciendo su frente…»",
+      "start": 839,
+      "end": 856
+    },
+    {
+      "slug": "purgatorio-canto-decimo",
+      "title": "Purgatorio, canto decimo",
+      "summary": "Empieza: «CUANDO hubimos traspasado el umbral de la puerta que se abre pocas veces, porque la mala inclinación de las pasiones lo impide,…»",
+      "start": 857,
+      "end": 868
+    },
+    {
+      "slug": "purgatorio-canto-undecimo",
+      "title": "Purgatorio, canto undecimo",
+      "summary": "Empieza: «H padre nuestro, que estás en los cielos, aunque no circunscrito a ellos, sino por el mayor amor que arriba sientes hacia…»",
+      "start": 869,
+      "end": 883
+    },
+    {
+      "slug": "purgatorio-canto-duodecimo",
+      "title": "Purgatorio, canto duodecimo",
+      "summary": "Empieza: «UNIDOS, como bueyes bajo el yugo, íbamos aquella alma cargada y yo, mientras lo permitió mi amado pedagogo; pero cuando dijo: \"Déjale,…»",
+      "start": 884,
+      "end": 920
+    },
+    {
+      "slug": "purgatorio-canto-decimocuarto",
+      "title": "Purgatorio, canto decimocuarto",
+      "summary": "Empieza: «UIEN es ese que gira en torno de nuestro monte, antes de que la muerte le haya hecho emprender su vuelo, y…»",
+      "start": 921,
+      "end": 936
+    },
+    {
+      "slug": "purgatorio-canto-decimoquinto",
+      "title": "Purgatorio, canto decimoquinto",
+      "summary": "Empieza: «CAMINANDO ya el Sol hacia la noche, parecía quedarle por recorrer tanto espacio como el que media entre el principio del día…»",
+      "start": 937,
+      "end": 953
+    },
+    {
+      "slug": "purgatorio-canto-decimosexto",
+      "title": "Purgatorio, canto decimosexto",
+      "summary": "Empieza: «La obscuridad del Infierno, y la de la noche privada de todo planeta bajo un mezquino cielo, entenebrecido por las nubes hasta…»",
+      "start": 954,
+      "end": 975
+    },
+    {
+      "slug": "purgatorio-canto-decimoseptimo",
+      "title": "Purgatorio, canto decimoseptimo",
+      "summary": "Empieza: «LECTOR, si alguna vez te ha sorprendido la niebla en los Alpes, de modo que no vieses a través de ella sino…»",
+      "start": 976,
+      "end": 984
+    },
+    {
+      "slug": "purgatorio-canto-decimoctavo",
+      "title": "Purgatorio, canto decimoctavo",
+      "summary": "Empieza: «El gran doctor había terminado su razonamiento, y miraba atentamente a mi ojos para ver si me dejaba satisfecho; y yo, que…»",
+      "start": 985,
+      "end": 999
+    },
+    {
+      "slug": "purgatorio-canto-decimonono",
+      "title": "Purgatorio, canto decimonono",
+      "summary": "Empieza: «A la hora en que el calor del día, vencido por la tierra y por Saturno acaso, no puede ya templar el…»",
+      "start": 1000,
+      "end": 1019
+    },
+    {
+      "slug": "purgatorio-canto-vigesimo",
+      "title": "Purgatorio, canto vigesimo",
+      "summary": "Empieza: «MAL resiste un deseo contra otro mejor: por esto, para complacer a aquel espíritu, retiré del agua, contra mi gusto, la esponja…»",
+      "start": 1020,
+      "end": 1027
+    },
+    {
+      "slug": "purgatorio-canto-vigesimoprimero",
+      "title": "Purgatorio, canto vigesimoprimero",
+      "summary": "Empieza: «Me atormentaba la sed natural, que no se sacia nunca sino con aquella agua que pidió como gracia la joven samaritana; excitábame…»",
+      "start": 1028,
+      "end": 1050
+    },
+    {
+      "slug": "purgatorio-canto-vigesimosegundo",
+      "title": "Purgatorio, canto vigesimosegundo",
+      "summary": "Empieza: «Ya el ángel se había quedado detrás de nosotros; el ángel que nos dirigió hacia el sexto círculo, después de haber borrado…»",
+      "start": 1051,
+      "end": 1064
+    },
+    {
+      "slug": "purgatorio-canto-vigesimotercero",
+      "title": "Purgatorio, canto vigesimotercero",
+      "summary": "Empieza: «MIENTRAS tenía mi vista fija en el verde follaje, como suele hacer quien pierde el tiempo detrás de un pájaro, el que…»",
+      "start": 1065,
+      "end": 1083
+    },
+    {
+      "slug": "purgatorio-canto-vigesimocuarto",
+      "title": "Purgatorio, canto vigesimocuarto",
+      "summary": "Empieza: «Ni la conversación detenía nuestra marcha, ni ésta a aquélla, sino que, a pesar de ir hablando, caminábamos de prisa, como la…»",
+      "start": 1084,
+      "end": 1103
+    },
+    {
+      "slug": "purgatorio-canto-vigesimoquinto",
+      "title": "Purgatorio, canto vigesimoquinto",
+      "summary": "Empieza: «ERA la hora en que no debía demorarse nuestra subida, pues el sol había dejado el círculo meridional al Tauro, y la…»",
+      "start": 1104,
+      "end": 1115
+    },
+    {
+      "slug": "purgatorio-canto-vigesimosexto",
+      "title": "Purgatorio, canto vigesimosexto",
+      "summary": "Empieza: «MIENTRAS que uno tras otro íbamos por el borde del camino, el buen Maestro decía muchas veces: \"Mira, y ten cuidado, pues…»",
+      "start": 1116,
+      "end": 1130
+    },
+    {
+      "slug": "purgatorio-canto-vigesimoseptimo",
+      "title": "Purgatorio, canto vigesimoseptimo",
+      "summary": "Empieza: «El Sol estaba ya en aquel punto desde donde lanza sus primeros rayos sobre la ciudad en que se derramó la sangre…»",
+      "start": 1131,
+      "end": 1145
+    },
+    {
+      "slug": "purgatorio-canto-vigesimoctavo",
+      "title": "Purgatorio, canto vigesimoctavo",
+      "summary": "Empieza: «DESEOSO ya de observar en su interior y en sus contornos la divina floresta espesa y viva, que amortiguaba la luz del…»",
+      "start": 1146,
+      "end": 1155
+    },
+    {
+      "slug": "purgatorio-canto-vigesimonono",
+      "title": "Purgatorio, canto vigesimonono",
+      "summary": "Empieza: «DESPUES de aquellas últimas palabras, continuó cantando cual mujer enamorada: \"Beati, quorum tecta sunt peccata\"[89]: y a la manera de las ninfas,…»",
+      "start": 1156,
+      "end": 1162
+    },
+    {
+      "slug": "purgatorio-canto-trigesimo",
+      "title": "Purgatorio, canto trigesimo",
+      "summary": "Empieza: «CUANDO se detuvo el septentrión del primer Cielo, que no conoció nunca orto ni ocaso, ni más niebla que el velo que…»",
+      "start": 1163,
+      "end": 1170
+    },
+    {
+      "slug": "purgatorio-canto-trigesimoprimero",
+      "title": "Purgatorio, canto trigesimoprimero",
+      "summary": "Empieza: «H tú, que estás a la otra parte del sagrado río!—Empezó de nuevo a decir, continuando sin demora, y dirigiéndome de punta…»",
+      "start": 1171,
+      "end": 1191
+    },
+    {
+      "slug": "purgatorio-canto-trigesimosegundo",
+      "title": "Purgatorio, canto trigesimosegundo",
+      "summary": "Empieza: «ESTABAN mis ojos tan fijos y atentos para calmar su sed de diez años, que tenía embotados los otros sentidos, encontrando además…»",
+      "start": 1192,
+      "end": 1205
+    },
+    {
+      "slug": "purgatorio-canto-trigesimotercio",
+      "title": "Purgatorio, canto trigesimotercio",
+      "summary": "Empieza: «LAS mujeres comenzaron llorosas una dulce salmodia, cantando alternativamente, ya las tres, ya las cuatro: \"Deus, venerunt gentes.\"[103] Y Beatriz, suspirando compasiva,…»",
+      "start": 1206,
+      "end": 1235
+    },
+    {
+      "slug": "paraiso-canto-primero",
+      "title": "Paraíso, canto primero",
+      "summary": "Empieza: «La gloria de Aquél que todo lo mueve se difunde por el universo, y resplandece en unas partes más y en otras…»",
+      "start": 1236,
+      "end": 1249
+    },
+    {
+      "slug": "paraiso-canto-segundo",
+      "title": "Paraíso, canto segundo",
+      "summary": "Empieza: «H vosotros, que, deseosos de escucharme, habéis seguido en una pequeña barca tras de mi bajel que navega cantando, virad para ver…»",
+      "start": 1250,
+      "end": 1260
+    },
+    {
+      "slug": "paraiso-canto-tercero",
+      "title": "Paraíso, canto tercero",
+      "summary": "Empieza: «AQUEL Sol que primeramente abrasó de amor mi corazón[107] me había descubierto, con sus pruebas y refutaciones, el dulce aspecto de una…»",
+      "start": 1261,
+      "end": 1274
+    },
+    {
+      "slug": "paraiso-canto-cuarto",
+      "title": "Paraíso, canto cuarto",
+      "summary": "Empieza: «Un hombre libre de elegir entre dos manjares igualmente distantes de él y que exciten del mismo modo su apetito, moriría de…»",
+      "start": 1275,
+      "end": 1280
+    },
+    {
+      "slug": "paraiso-canto-quinto",
+      "title": "Paraíso, canto quinto",
+      "summary": "Empieza: «Si te parezco más radiante en el fuego de este amor de lo que suele verse en la tierra, hasta el punto…»",
+      "start": 1281,
+      "end": 1290
+    },
+    {
+      "slug": "paraiso-canto-sexto",
+      "title": "Paraíso, canto sexto",
+      "summary": "Empieza: «DESPUES que Constantino volvió el águila contra el curso del Cielo que antes siguiera tras el antiguo esposo de Lavinia, cien y…»",
+      "start": 1291,
+      "end": 1292
+    },
+    {
+      "slug": "paraiso-canto-septimo",
+      "title": "Paraíso, canto septimo",
+      "summary": "Empieza: «LORIA a ti, Santo Dios de los Ejércitos, que esparces tu claridad sobre los felices fuegos, esto es, sobre las almas dichosas…»",
+      "start": 1293,
+      "end": 1295
+    },
+    {
+      "slug": "paraiso-canto-octavo",
+      "title": "Paraíso, canto octavo",
+      "summary": "Empieza: «SOLIA creer el mundo en su peligro, que de los rayos de la bella Ciprina, que gira en el tercer epiciclo, emanaba…»",
+      "start": 1296,
+      "end": 1313
+    },
+    {
+      "slug": "paraiso-canto-nono",
+      "title": "Paraíso, canto nono",
+      "summary": "Empieza: «CUANDO tu Carlos, hermosa Clemencia, hubo aclarado mis dudas, me refirió los fraudes de que había de ser víctima su descendencia, pero…»",
+      "start": 1314,
+      "end": 1323
+    },
+    {
+      "slug": "paraiso-canto-decimo",
+      "title": "Paraíso, canto decimo",
+      "summary": "Empieza: «El inefable poder primero, juntamente con su hijo y con el amor que de uno y otro eternamente procede, hizo con tanto…»",
+      "start": 1324,
+      "end": 1331
+    },
+    {
+      "slug": "paraiso-canto-undecimo",
+      "title": "Paraíso, canto undecimo",
+      "summary": "Empieza: «H insensatos afanes de los mortales!, ¡cuán débiles son las razones que os inducen a bajar el vuelo y a rozar la…»",
+      "start": 1332,
+      "end": 1334
+    },
+    {
+      "slug": "paraiso-canto-duodecimo",
+      "title": "Paraíso, canto duodecimo",
+      "summary": "Empieza: «En cuanto la bendita llama hubo dicho su última palabra, empezó a girar la santa rueda, y aún no había dado una…»",
+      "start": 1335,
+      "end": 1337
+    },
+    {
+      "slug": "paraiso-canto-decimotercio",
+      "title": "Paraíso, canto decimotercio",
+      "summary": "Empieza: «QUIEN deseare conocer bien lo que yo vi ahora, imagínese (y, mientras hablo, retenga la imagen como si fuese esculpida en fuerte…»",
+      "start": 1338,
+      "end": 1340
+    },
+    {
+      "slug": "paraiso-canto-decimocuarto",
+      "title": "Paraíso, canto decimocuarto",
+      "summary": "Empieza: «El agua contenida en un vaso redondo se mueve del centro a la circunferencia o de ésta al centro, según que la…»",
+      "start": 1341,
+      "end": 1347
+    },
+    {
+      "slug": "paraiso-canto-decimoquinto",
+      "title": "Paraíso, canto decimoquinto",
+      "summary": "Empieza: «La benigna voluntad, en la que se manifiesta siempre el amor cuyas aspiraciones son rectas, como la codicia se manifiesta en la…»",
+      "start": 1348,
+      "end": 1359
+    },
+    {
+      "slug": "paraiso-canto-decimosexto",
+      "title": "Paraíso, canto decimosexto",
+      "summary": "Empieza: «H nobleza de la sangre! Aunque seas muy poca cosa, nunca me admiraré de que hagas vanagloriarse de ti a la gente…»",
+      "start": 1360,
+      "end": 1364
+    },
+    {
+      "slug": "paraiso-canto-decimoseptimo",
+      "title": "Paraíso, canto decimoseptimo",
+      "summary": "Empieza: «ESTABA yo afanoso como aquel cuyo ejemplo hace que los padres sean un poco condescendientes con sus hijos, cuando acudió a Climene…»",
+      "start": 1365,
+      "end": 1376
+    },
+    {
+      "slug": "paraiso-canto-decimoctavo",
+      "title": "Paraíso, canto decimoctavo",
+      "summary": "Empieza: «AQUEL espíritu bienaventurado se recreaba ya en sus reflexiones, y yo saboreaba las mías, atemperando lo amargo con lo dulce, cuando la…»",
+      "start": 1377,
+      "end": 1388
+    },
+    {
+      "slug": "paraiso-canto-decimonono",
+      "title": "Paraíso, canto decimonono",
+      "summary": "Empieza: «ANTE mi aparecía, con las alas abiertas, la bella imagen que en su dulce fruición hacía dichosas a las almas reunidas. Cada…»",
+      "start": 1389,
+      "end": 1397
+    },
+    {
+      "slug": "paraiso-canto-vigesimo",
+      "title": "Paraíso, canto vigesimo",
+      "summary": "Empieza: «CUANDO Aquél que ilumina el mundo entero desciende de nuestro hemisferio, de tal modo que el día se extingue en todas partes,…»",
+      "start": 1398,
+      "end": 1404
+    },
+    {
+      "slug": "paraiso-canto-vigesimoprimero",
+      "title": "Paraíso, canto vigesimoprimero",
+      "summary": "Empieza: «MIS ojos se habían fijado de nuevo en el rostro de mi Dama, y el ánimo con ellos se había separado de…»",
+      "start": 1405,
+      "end": 1420
+    },
+    {
+      "slug": "paraiso-canto-vegesimosegundo",
+      "title": "Paraíso, canto vegesimosegundo",
+      "summary": "Empieza: «MUDO de estupor me volví hacia mi Guía, como un niño que se acoge siempre a quien le inspira más confianza: y…»",
+      "start": 1421,
+      "end": 1432
+    },
+    {
+      "slug": "paraiso-canto-vigesimotercero",
+      "title": "Paraíso, canto vigesimotercero",
+      "summary": "Empieza: «COMO el ave que, habiendo reposado entre la predilecta enramada junto al nido de sus dulces hijuelos, durante la noche ocultadora de…»",
+      "start": 1433,
+      "end": 1448
+    },
+    {
+      "slug": "paraiso-canto-vigesimocuarto",
+      "title": "Paraíso, canto vigesimocuarto",
+      "summary": "Empieza: «H compañía escogida para la gran cena del cordero bendito, el cual os alimenta de tal modo, que vuestro apetito está siempre…»",
+      "start": 1449,
+      "end": 1484
+    },
+    {
+      "slug": "paraiso-canto-vigesimoquinto",
+      "title": "Paraíso, canto vigesimoquinto",
+      "summary": "Empieza: «Si alguna vez sucede que el poema sagrado en que han puesto sus manos el Cielo y la Tierra, y que me…»",
+      "start": 1485,
+      "end": 1506
+    },
+    {
+      "slug": "paraiso-canto-vigesimosexto",
+      "title": "Paraíso, canto vigesimosexto",
+      "summary": "Empieza: «MIENTRAS yo permanecía indeciso a causa de mi deslumbrada vista, salió la fúlgida llama que la deslumbró una voz, que llamó mi…»",
+      "start": 1507,
+      "end": 1524
+    },
+    {
+      "slug": "paraiso-canto-vigesimoseptimo",
+      "title": "Paraíso, canto vigesimoseptimo",
+      "summary": "Empieza: «LORIA al Padre, gloria al Hijo, gloria al Espíritu Santo,\" entonó todo el Paraíso con tan dulce canto, que me embriagaba. Lo…»",
+      "start": 1525,
+      "end": 1533
+    },
+    {
+      "slug": "paraiso-canto-vigesimoctavo",
+      "title": "Paraíso, canto vigesimoctavo",
+      "summary": "Empieza: «DESPUES que aquella que eleva mi alma al Paraíso me manifestó la verdad contrapuesta a la vida actual de los míseros mortales,…»",
+      "start": 1534,
+      "end": 1543
+    },
+    {
+      "slug": "paraiso-canto-vigesimonono",
+      "title": "Paraíso, canto vigesimonono",
+      "summary": "Empieza: «SILENCIOSA y con el rostro risueño permaneció Beatriz, mirando fijamente al punto que me había deslumbrado, tanto espacio de tiempo como el…»",
+      "start": 1544,
+      "end": 1546
+    },
+    {
+      "slug": "paraiso-canto-trigesimo",
+      "title": "Paraíso, canto trigesimo",
+      "summary": "Empieza: «ACASO arde la hora sexta distante seis mil millas de nosotros, y este mundo inclina ya su sombra casi horizontalmente, cuando el…»",
+      "start": 1547,
+      "end": 1558
+    },
+    {
+      "slug": "paraiso-canto-trigesimoprimero",
+      "title": "Paraíso, canto trigesimoprimero",
+      "summary": "Empieza: «En forma, pues, de blanca rosa se ofrecía a mi vista la milicia santa que Cristo con su sangre hizo su esposa;…»",
+      "start": 1559,
+      "end": 1572
+    },
+    {
+      "slug": "paraiso-canto-trigesimosegundo",
+      "title": "Paraíso, canto trigesimosegundo",
+      "summary": "Empieza: «ATENTO a su dicha, aquel contemplador asumió espontáneamente en sí el cargo de maestro y empezó por estas santas palabras:»",
+      "start": 1573,
+      "end": 1580
+    },
+    {
+      "slug": "paraiso-canto-trigesimotercio",
+      "title": "Paraíso, canto trigesimotercio",
+      "summary": "Empieza: «IRGEN madre, hija de tu hijo, la más humilde al par que la más alta de todas las criaturas, término fijo de…»",
+      "start": 1581,
+      "end": 1587
+    }
+  ],
+  "description": "La divina comedia de Dante Alighieri: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Poema sobre el viaje por el más allá y la salvación del alma.",
+  "intro": "<p>Perdido en una selva oscura a mitad de su vida, Dante es rescatado por el poeta Virgilio, que lo guía por el Infierno, un embudo de nueve círculos donde los condenados sufren castigos según sus pecados, y por el Purgatorio, una montaña donde las almas se purifican.</p><p>Aquí puedes leer La divina comedia completo, dividido en cantos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 95,
+    "art": {
+      "file": "la-divina-comedia-dante.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/la-divina-comedia-dante/ilustracion.jpg",
+      "credit": "Domenico di Michelino, «Dante y los tres reinos» (1465), catedral de Florencia. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Poema",
+    "unidad": "cantos",
+    "tema": "el viaje por el más allá y la salvación del alma",
+    "resumen": [
+      "Perdido en una selva oscura a mitad de su vida, Dante es rescatado por el poeta Virgilio, que lo guía por el Infierno, un embudo de nueve círculos donde los condenados sufren castigos según sus pecados, y por el Purgatorio, una montaña donde las almas se purifican.",
+      "En la cima, Beatriz, la mujer que Dante amó, lo conduce por el Paraíso, a través de las esferas celestes, hasta la visión de Dios. Los cien cantos están llenos de personajes históricos de la Italia de su tiempo. Esta es la versión en prosa de Manuel Aranda y Sanjuán."
+    ],
+    "personajes": [
+      [
+        "Dante",
+        "El poeta, protagonista del viaje."
+      ],
+      [
+        "Virgilio",
+        "Poeta latino que lo guía por el Infierno y el Purgatorio."
+      ],
+      [
+        "Beatriz",
+        "Amada de Dante, que lo guía por el Paraíso."
+      ],
+      [
+        "Francesca y Paolo",
+        "Amantes condenados en el segundo círculo."
+      ],
+      [
+        "Ulises",
+        "Héroe griego castigado entre los consejeros fraudulentos."
+      ]
+    ],
+    "ideas": [
+      "El viaje del alma del pecado a la salvación.",
+      "La justicia divina: cada castigo corresponde a su culpa.",
+      "El amor como fuerza que mueve el universo.",
+      "La política de Florencia vista desde el más allá."
+    ],
+    "faq": [
+      [
+        "¿Qué partes tiene?",
+        "Tres cánticas: Infierno, Purgatorio y Paraíso, con cien cantos en total."
+      ],
+      [
+        "¿Cuántos círculos tiene el Infierno?",
+        "Nueve, cada vez más profundos y con pecados más graves."
+      ],
+      [
+        "¿Qué dice la puerta del Infierno?",
+        "«Abandonad toda esperanza los que entráis.»"
+      ],
+      [
+        "¿Quién hizo esta traducción?",
+        "Manuel Aranda y Sanjuán, en prosa, en el siglo XIX."
+      ]
+    ]
+  }
+}

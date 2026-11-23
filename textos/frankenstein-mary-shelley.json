@@ -1,0 +1,341 @@
+{
+  "slug": "frankenstein-mary-shelley",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "author_route": "",
+  "book_route": "/frankenstein-mary-shelley/",
+  "translator": "",
+  "edition": "Edición digital de Elejandría",
+  "source_url": "https://www.elejandria.com/libro/frankenstein/mary-shelley/1739",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "carta-i",
+      "title": "Carta I",
+      "summary": "Empieza: «A la señora SAVILLE, Inglaterra.»",
+      "start": 0,
+      "end": 13
+    },
+    {
+      "slug": "carta-ii",
+      "title": "Carta II",
+      "summary": "Empieza: «A la señora SAVILLE, Inglaterra.»",
+      "start": 14,
+      "end": 25
+    },
+    {
+      "slug": "carta-iii",
+      "title": "Carta III",
+      "summary": "Empieza: «A la señora SAVILLE, Inglaterra.»",
+      "start": 26,
+      "end": 35
+    },
+    {
+      "slug": "carta-iv",
+      "title": "Carta IV",
+      "summary": "Empieza: «A la señora SAVILLE, Inglaterra.»",
+      "start": 36,
+      "end": 73
+    },
+    {
+      "slug": "volumen-i-capitulo-1",
+      "title": "Volumen I, capítulo 1",
+      "summary": "Empieza: «Soy ginebrino por nacimiento; y mi familia es una de las más distinguidas de esa república. Durante muchos años mis antepasados han…»",
+      "start": 74,
+      "end": 85
+    },
+    {
+      "slug": "volumen-i-capitulo-2",
+      "title": "Volumen I, capítulo 2",
+      "summary": "Empieza: «Los acontecimientos que influyen decisivamente en nuestros destinos a menudo tienen su origen en sucesos triviales. La filosofía natural es el genio…»",
+      "start": 86,
+      "end": 101
+    },
+    {
+      "slug": "volumen-i-capitulo-3",
+      "title": "Volumen I, capítulo 3",
+      "summary": "Empieza: «Cuando alcancé la edad de diecisiete años, mis padres decidieron que debería ir a estudiar a la Universidad de Ingolstadt. Hasta entonces…»",
+      "start": 102,
+      "end": 111
+    },
+    {
+      "slug": "volumen-i-capitulo-4",
+      "title": "Volumen I, capítulo 4",
+      "summary": "Empieza: «A la mañana siguiente entregué mis cartas de presentación y me personé ante algunos de los profesores principales y, entre otros, ante…»",
+      "start": 112,
+      "end": 125
+    },
+    {
+      "slug": "volumen-i-capitulo-5",
+      "title": "Volumen I, capítulo 5",
+      "summary": "Empieza: «Desde aquel día, la filosofía natural y particularmente la química se convirtieron prácticamente en mis únicas materias de estudio. Leí con avidez…»",
+      "start": 126,
+      "end": 132
+    },
+    {
+      "slug": "volumen-i-capitulo-6",
+      "title": "Volumen I, capítulo 6",
+      "summary": "Empieza: «Cuando me encontré con un poder tan asombroso en las manos, durante mucho tiempo dudé sobre cuál podría ser el modo de…»",
+      "start": 133,
+      "end": 140
+    },
+    {
+      "slug": "volumen-i-capitulo-7",
+      "title": "Volumen I, capítulo 7",
+      "summary": "Empieza: «Una lluviosa noche de noviembre conseguí por fin terminar mi hombre; con una ansiedad casi cercana a la angustia, coloqué a mi…»",
+      "start": 141,
+      "end": 167
+    },
+    {
+      "slug": "volumen-i-capitulo-8",
+      "title": "Volumen I, capítulo 8",
+      "summary": "Empieza: «Aquello fue el comienzo de unas fiebres nerviosas que me tuvieron recluido en cama durante varios meses. Durante todo ese tiempo, solo…»",
+      "start": 168,
+      "end": 193
+    },
+    {
+      "slug": "volumen-i-capitulo-9",
+      "title": "Volumen I, capítulo 9",
+      "summary": "Empieza: «Cuando me recuperé, uno de mis primeros cometidos fue presentar a Clerval a los distintos profesores de la universidad. Y al hacerlo,…»",
+      "start": 194,
+      "end": 201
+    },
+    {
+      "slug": "volumen-i-capitulo-10",
+      "title": "Volumen I, capítulo 10",
+      "summary": "Empieza: «Cuando regresé a casa, me encontré la siguiente carta de mi padre.»",
+      "start": 202,
+      "end": 229
+    },
+    {
+      "slug": "volumen-i-capitulo-11",
+      "title": "Volumen I, capítulo 11",
+      "summary": "Empieza: «Ya era noche cerrada cuando llegué; las puertas de Ginebra ya estaban cerradas; y decidí pernoctar en Secheron, una aldea que se…»",
+      "start": 230,
+      "end": 254
+    },
+    {
+      "slug": "volumen-i-capitulo-12",
+      "title": "Volumen I, capítulo 12",
+      "summary": "Empieza: «Elizabeth pronto se reunió con nosotros. El tiempo había operado grandes cambios en su aspecto desde la última vez que la había…»",
+      "start": 255,
+      "end": 272
+    },
+    {
+      "slug": "volumen-i-capitulo-13",
+      "title": "Volumen I, capítulo 13",
+      "summary": "Empieza: «Ni siquiera puedo intentar describir lo que sentí entonces. Ya había experimentado sensaciones de horror anteriormente; y he tratado de expresarlo con…»",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "slug": "volumen-i-capitulo-14",
+      "title": "Volumen I, capítulo 14",
+      "summary": "Empieza: «Cuando la mente ha estado intensamente ocupada en una rápida sucesión de acontecimientos, nada es más doloroso que la mortal calma de…»",
+      "start": 308,
+      "end": 321
+    },
+    {
+      "slug": "volumen-i-capitulo-15",
+      "title": "Volumen I, capítulo 15",
+      "summary": "Empieza: «Al día siguiente, contrariamente a los pronósticos de nuestros guías, hizo muy bueno, aunque el cielo estaba nublado. Visitamos las fuentes del…»",
+      "start": 322,
+      "end": 348
+    },
+    {
+      "slug": "volumen-ii-capitulo-1",
+      "title": "Volumen II, capítulo 1",
+      "summary": "Empieza: «Solo con mucha dificultad recuerdo los primeros instantes de mi existencia. Todos los acontecimientos de aquel período se me aparecen confusos e…»",
+      "start": 349,
+      "end": 353
+    },
+    {
+      "slug": "volumen-ii-capitulo-2",
+      "title": "Volumen II, capítulo 2",
+      "summary": "Empieza: «Tan pronto como despuntó la mañana, salí arrastrándome del refugio para ver la casa cercana y comprobar si podía permanecer en la…»",
+      "start": 354,
+      "end": 360
+    },
+    {
+      "slug": "volumen-ii-capitulo-3",
+      "title": "Volumen II, capítulo 3",
+      "summary": "Empieza: «Transcurrió un considerable período de tiempo antes de que descubriera una de las causas de la inquietud de aquella encantadora familia. Era…»",
+      "start": 361,
+      "end": 373
+    },
+    {
+      "slug": "volumen-ii-capitulo-4",
+      "title": "Volumen II, capítulo 4",
+      "summary": "Empieza: «Me apresuro ahora a narrar la parte más conmovedora de mi historia. Relataré sucesos que grabaron sentimientos en mí que, de lo…»",
+      "start": 374,
+      "end": 396
+    },
+    {
+      "slug": "volumen-ii-capitulo-5",
+      "title": "Volumen II, capítulo 5",
+      "summary": "Empieza: «Transcurrió algún tiempo antes de que conociera la historia de mis amigos. Era tal que no podía dejar de producir una profunda…»",
+      "start": 397,
+      "end": 410
+    },
+    {
+      "slug": "volumen-ii-capitulo-6",
+      "title": "Volumen II, capítulo 6",
+      "summary": "Empieza: «Tal era la historia de mis queridos granjeros. Me impresionó profundamente. Y a partir de la descripción de la vida social que…»",
+      "start": 411,
+      "end": 419
+    },
+    {
+      "slug": "volumen-ii-capitulo-7",
+      "title": "Volumen II, capítulo 7",
+      "summary": "Empieza: «El invierno adelantaba y, desde que desperté a la vida, ya se había cumplido todo un ciclo de estaciones. En aquel entonces…»",
+      "start": 420,
+      "end": 453
+    },
+    {
+      "slug": "volumen-ii-capitulo-8",
+      "title": "Volumen II, capítulo 8",
+      "summary": "Empieza: «Cuando aplaqué mi hambre, dirigí mis pasos hacia el camino bien conocido que conducía a la granja. Todo estaba en paz. Me…»",
+      "start": 454,
+      "end": 482
+    },
+    {
+      "slug": "volumen-ii-capitulo-9",
+      "title": "Volumen II, capítulo 9",
+      "summary": "Empieza: «La criatura terminó de hablar y clavó su mirada en mí, esperando una respuesta. Pero yo estaba desconcertado y perplejo, y era…»",
+      "start": 483,
+      "end": 509
+    },
+    {
+      "slug": "volumen-ii-capitulo-10",
+      "title": "Volumen II, capítulo 10",
+      "summary": "Empieza: «Día tras día, semana tras semana fueron transcurriendo tras mi regreso a Ginebra, y no reuní el valor suficiente para comenzar el…»",
+      "start": 510,
+      "end": 534
+    },
+    {
+      "slug": "volumen-ii-capitulo-11",
+      "title": "Volumen II, capítulo 11",
+      "summary": "Empieza: «Así pues, Londres era nuestro lugar de destino; decidimos permanecer algunos meses en aquella ciudad famosa y maravillosa. Clerval deseaba conocer a…»",
+      "start": 535,
+      "end": 547
+    },
+    {
+      "slug": "volumen-ii-capitulo-12",
+      "title": "Volumen II, capítulo 12",
+      "summary": "Empieza: «Habiéndome despedido de mi amigo, decidí visitar algunos lugares remotos de Escocia y terminar mi trabajo en soledad. No dudaba de que…»",
+      "start": 548,
+      "end": 563
+    },
+    {
+      "slug": "volumen-ii-capitulo-13",
+      "title": "Volumen II, capítulo 13",
+      "summary": "Empieza: «Avancé decidido hacia él y grité:»",
+      "start": 564,
+      "end": 589
+    },
+    {
+      "slug": "volumen-ii-capitulo-14",
+      "title": "Volumen II, capítulo 14",
+      "summary": "Empieza: «Inmediatamente me condujeron ante el magistrado, un hombre anciano y benévolo de gestos tranquilos y afables. De todos modos, me observó detenidamente…»",
+      "start": 590,
+      "end": 633
+    },
+    {
+      "slug": "volumen-ii-capitulo-15",
+      "title": "Volumen II, capítulo 15",
+      "summary": "Empieza: «No se nos permitió conversar durante mucho tiempo, dado que el precario estado de mi salud exigía tomar todas las precauciones necesarias…»",
+      "start": 634,
+      "end": 662
+    },
+    {
+      "slug": "volumen-ii-capitulo-16",
+      "title": "Volumen II, capítulo 16",
+      "summary": "Empieza: «Esta carta reavivó en mi memoria lo que ya había olvidado, la amenaza del engendro diabólico cuando me visitó en las islas…»",
+      "start": 663,
+      "end": 686
+    },
+    {
+      "slug": "volumen-ii-capitulo-17",
+      "title": "Volumen II, capítulo 17",
+      "summary": "Empieza: «Eran las ocho en punto cuando desembarcamos; caminamos durante un breve trecho junto a la orilla, disfrutando de las cambiantes luces del…»",
+      "start": 687,
+      "end": 715
+    },
+    {
+      "slug": "volumen-ii-capitulo-18",
+      "title": "Volumen II, capítulo 18",
+      "summary": "Empieza: «En aquel momento, mi situación era tal que todos los pensamientos razonables se consumían y desaparecían. Me veía arrastrado por la ira.…»",
+      "start": 716,
+      "end": 777
+    }
+  ],
+  "traducido": true,
+  "description": "Frankenstein de Mary Shelley: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre la ciencia, la creación y la soledad.",
+  "intro": "<p>En el Ártico, el explorador Robert Walton rescata del hielo a Victor Frankenstein, que le cuenta su historia. De joven, obsesionado con los secretos de la vida, Victor reunió restos humanos y les dio vida en su laboratorio. Horrorizado por el aspecto de su criatura, la abandonó la misma noche de su nacimiento.</p><p>Aquí puedes leer Frankenstein completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 99,
+    "art": {
+      "file": "frankenstein-mary-shelley.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/frankenstein-mary-shelley/ilustracion.jpg",
+      "credit": "Theodor von Holst, frontispicio de Frankenstein (Londres, 1831). Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "la ciencia, la creación y la soledad",
+    "resumen": [
+      "En el Ártico, el explorador Robert Walton rescata del hielo a Victor Frankenstein, que le cuenta su historia. De joven, obsesionado con los secretos de la vida, Victor reunió restos humanos y les dio vida en su laboratorio. Horrorizado por el aspecto de su criatura, la abandonó la misma noche de su nacimiento.",
+      "La criatura, sola y rechazada por todos, aprende a hablar y a leer espiando a una familia, pero su fealdad le cierra todas las puertas. Pide a Victor una compañera; cuando él se niega, se venga matando a su hermano, a su amigo y a su esposa. Creador y criatura se persiguen hasta los hielos del Polo."
+    ],
+    "personajes": [
+      [
+        "Victor Frankenstein",
+        "Joven científico que da vida a la criatura."
+      ],
+      [
+        "La criatura",
+        "Ser creado por Victor, inteligente y desdichado."
+      ],
+      [
+        "Robert Walton",
+        "Explorador que recoge la historia en sus cartas."
+      ],
+      [
+        "Elizabeth",
+        "Prometida de Victor."
+      ],
+      [
+        "Henry Clerval",
+        "Amigo de Victor."
+      ]
+    ],
+    "ideas": [
+      "Los límites de la ciencia.",
+      "La responsabilidad del creador.",
+      "El rechazo y la soledad como origen del mal.",
+      "La naturaleza frente a la ambición humana."
+    ],
+    "faq": [
+      [
+        "¿Frankenstein es el monstruo?",
+        "No. Frankenstein es el científico, Victor; la criatura no tiene nombre."
+      ],
+      [
+        "¿Cómo termina?",
+        "Victor muere en el barco de Walton y la criatura anuncia que se quitará la vida en el hielo."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1818. Mary Shelley tenía veinte años."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "slug": "el-principito-saint-exupery",
+  "title": "El principito",
+  "author": "Antoine de Saint-Exupéry",
+  "author_route": "",
+  "book_route": "/el-principito-saint-exupery/",
+  "translator": "",
+  "edition": "Edición digital de Elejandría",
+  "source_url": "https://www.elejandria.com/libro/el-principito/antoine-de-saint-exupery/2256",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "dedicatoria",
+      "title": "Dedicatoria",
+      "summary": "Empieza: «A LÉON WERTH.»",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "slug": "capitulo-i",
+      "title": "Capítulo I",
+      "summary": "Empieza: «Cuando tenía seis años vi, una vez, una imagen magnífica en un libro sobre la selva virgen titulado Historias vividas. Representaba a…»",
+      "start": 5,
+      "end": 16
+    },
+    {
+      "slug": "capitulo-ii",
+      "title": "Capítulo II",
+      "summary": "Empieza: «Así viví solo, sin nadie con quien hablar verdaderamente, hasta que tuve una avería en el desierto del Sahara, hace seis años.…»",
+      "start": 17,
+      "end": 50
+    },
+    {
+      "slug": "capitulo-iii",
+      "title": "Capítulo III",
+      "summary": "Empieza: «Me llevó mucho tiempo comprender de dónde venía. El principito, que me hacía muchas preguntas, nunca parecía oír las mías. Fueron algunas…»",
+      "start": 51,
+      "end": 80
+    },
+    {
+      "slug": "capitulo-iv",
+      "title": "Capítulo IV",
+      "summary": "Empieza: «Así aprendí algo muy importante: que su planeta de origen era apenas más grande que una casa.»",
+      "start": 81,
+      "end": 93
+    },
+    {
+      "slug": "capitulo-v",
+      "title": "Capítulo V",
+      "summary": "Empieza: «Cada día aprendía algo nuevo sobre el planeta, sobre su partida, sobre su viaje. Todo llegaba lentamente, al azar de sus reflexiones.…»",
+      "start": 94,
+      "end": 112
+    },
+    {
+      "slug": "capitulo-vi",
+      "title": "Capítulo VI",
+      "summary": "Empieza: «¡Ah, principito! Poco a poco comprendí tu pequeña vida melancólica. Durante mucho tiempo no tuviste otra distracción que la dulzura de los…»",
+      "start": 113,
+      "end": 126
+    },
+    {
+      "slug": "capitulo-vii",
+      "title": "Capítulo VII",
+      "summary": "Empieza: «El quinto día, gracias al cordero, se me reveló este secreto sobre la vida del principito. Me preguntó bruscamente, sin preámbulos, como…»",
+      "start": 127,
+      "end": 158
+    },
+    {
+      "slug": "capitulo-viii",
+      "title": "Capítulo VIII",
+      "summary": "Empieza: «Pronto aprendí a conocer mejor a esa flor. Siempre había habido en el planeta del principito flores muy sencillas, adornadas con un…»",
+      "start": 159,
+      "end": 184
+    },
+    {
+      "slug": "capitulo-ix",
+      "title": "Capítulo IX",
+      "summary": "Empieza: «Creo que aprovechó una migración de aves salvajes para escapar. En la mañana de su partida, dejó su planeta bien ordenado. Limpió…»",
+      "start": 185,
+      "end": 201
+    },
+    {
+      "slug": "capitulo-x",
+      "title": "Capítulo X",
+      "summary": "Empieza: «El principito se encontraba en la región de los asteroides 325, 326, 327, 328, 329 y 330. Comenzó a visitarlos uno por…»",
+      "start": 202,
+      "end": 258
+    },
+    {
+      "slug": "capitulo-xi",
+      "title": "Capítulo XI",
+      "summary": "Empieza: «El segundo planeta estaba habitado por un vanidoso.»",
+      "start": 259,
+      "end": 279
+    },
+    {
+      "slug": "capitulo-xii",
+      "title": "Capítulo XII",
+      "summary": "Empieza: «El siguiente planeta estaba habitado por un bebedor. Esta visita fue muy breve, pero sumió al principito en una gran tristeza.»",
+      "start": 280,
+      "end": 291
+    },
+    {
+      "slug": "capitulo-xiii",
+      "title": "Capítulo XIII",
+      "summary": "Empieza: «El cuarto planeta pertenecía a un hombre de negocios. Este estaba tan ocupado que ni siquiera levantó la cabeza al llegar el…»",
+      "start": 292,
+      "end": 345
+    },
+    {
+      "slug": "capitulo-xiv",
+      "title": "Capítulo XIV",
+      "summary": "Empieza: «El quinto planeta era muy curioso. Era el más pequeño de todos. Apenas había espacio para un farol y un farolero. El…»",
+      "start": 346,
+      "end": 384
+    },
+    {
+      "slug": "capitulo-xv",
+      "title": "Capítulo XV",
+      "summary": "Empieza: «El sexto planeta era diez veces más grande. Estaba habitado por un anciano que escribía enormes libros.»",
+      "start": 385,
+      "end": 434
+    },
+    {
+      "slug": "capitulo-xvi",
+      "title": "Capítulo XVI",
+      "summary": "Empieza: «La séptima planeta fue, por tanto, la Tierra.»",
+      "start": 435,
+      "end": 440
+    },
+    {
+      "slug": "capitulo-xvii",
+      "title": "Capítulo XVII",
+      "summary": "Empieza: «Cuando uno quiere hacer bromas, a veces exagera un poco. No fui del todo honesto al hablar de los faroleros. Podría haber…»",
+      "start": 441,
+      "end": 471
+    },
+    {
+      "slug": "capitulo-xviii",
+      "title": "Capítulo XVIII",
+      "summary": "Empieza: «El principito atravesó el desierto y solo encontró una flor. Una flor de tres pétalos, una flor sin importancia…»",
+      "start": 472,
+      "end": 480
+    },
+    {
+      "slug": "capitulo-xix",
+      "title": "Capítulo XIX",
+      "summary": "Empieza: «El principito escaló una alta montaña. Las únicas montañas que conocía eran los tres volcanes de su planeta, que le llegaban a…»",
+      "start": 481,
+      "end": 489
+    },
+    {
+      "slug": "capitulo-xx",
+      "title": "Capítulo XX",
+      "summary": "Empieza: «Pero sucedió que el principito, tras caminar durante mucho tiempo por arenas, rocas y nieves, encontró finalmente un camino. Y todos los…»",
+      "start": 490,
+      "end": 502
+    },
+    {
+      "slug": "capitulo-xxi",
+      "title": "Capítulo XXI",
+      "summary": "Empieza: «Fue entonces cuando apareció el zorro.»",
+      "start": 503,
+      "end": 566
+    },
+    {
+      "slug": "capitulo-xxii",
+      "title": "Capítulo XXII",
+      "summary": "Empieza: «Hola —dijo el principito.»",
+      "start": 567,
+      "end": 584
+    },
+    {
+      "slug": "capitulo-xxiii",
+      "title": "Capítulo XXIII",
+      "summary": "Empieza: «Hola —dijo el principito.»",
+      "start": 585,
+      "end": 593
+    },
+    {
+      "slug": "capitulo-xxiv",
+      "title": "Capítulo XXIV",
+      "summary": "Empieza: «Llevábamos ocho días varados en el desierto, y yo había escuchado la historia del comerciante mientras bebía la última gota de mi…»",
+      "start": 594,
+      "end": 623
+    },
+    {
+      "slug": "capitulo-xxv",
+      "title": "Capítulo XXV",
+      "summary": "Empieza: «Los hombres —dijo el principito— se suben a los trenes rápidos, pero ya no saben lo que buscan. Por eso se agitan…»",
+      "start": 624,
+      "end": 672
+    },
+    {
+      "slug": "capitulo-xxvi",
+      "title": "Capítulo XXVI",
+      "summary": "Empieza: «Junto al pozo había una vieja pared de piedra en ruinas. Cuando volví de mi trabajo, la tarde siguiente, vi a lo…»",
+      "start": 673,
+      "end": 765
+    },
+    {
+      "slug": "capitulo-xxvii",
+      "title": "Capítulo XXVII",
+      "summary": "Empieza: «Y ahora, por supuesto, ya han pasado seis años... Nunca antes había contado esta historia. Los compañeros que me volvieron a ver…»",
+      "start": 766,
+      "end": 776
+    }
+  ],
+  "traducido": true,
+  "description": "El principito de Antoine de Saint-Exupéry: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela corta sobre la amistad, el amor y lo esencial.",
+  "intro": "<p>Un aviador cae con su avión en el desierto del Sahara. Allí aparece un niño de cabellos dorados que le pide que le dibuje un cordero: es el principito, que viene de un asteroide diminuto donde vive con tres volcanes y una rosa orgullosa a la que ama.</p><p>Aquí puedes leer El principito completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 91,
+    "art": {
+      "file": "el-principito-saint-exupery.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "url": "/leer/el-principito-saint-exupery/ilustracion.jpg",
+      "credit": "Vincent van Gogh, «La noche estrellada sobre el Ródano» (1888), Museo de Orsay. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela corta",
+    "unidad": "capítulos",
+    "tema": "la amistad, el amor y lo esencial",
+    "resumen": [
+      "Un aviador cae con su avión en el desierto del Sahara. Allí aparece un niño de cabellos dorados que le pide que le dibuje un cordero: es el principito, que viene de un asteroide diminuto donde vive con tres volcanes y una rosa orgullosa a la que ama.",
+      "El principito le cuenta su viaje por otros planetas, habitados por adultos absurdos: un rey sin súbditos, un vanidoso, un bebedor, un hombre de negocios, un farolero y un geógrafo. En la Tierra conoce a una serpiente y a un zorro que le enseña a crear lazos: «Lo esencial es invisible a los ojos». Al cumplirse un año de su llegada, decide volver con su rosa."
+    ],
+    "personajes": [
+      [
+        "El principito",
+        "Niño que viene del asteroide B 612."
+      ],
+      [
+        "El aviador",
+        "Narrador, piloto perdido en el desierto."
+      ],
+      [
+        "La rosa",
+        "Flor vanidosa y frágil a la que el principito ama."
+      ],
+      [
+        "El zorro",
+        "Le enseña el valor de la amistad y de «domesticar»."
+      ],
+      [
+        "La serpiente",
+        "Promete ayudarle a volver a su planeta."
+      ]
+    ],
+    "ideas": [
+      "Lo esencial es invisible a los ojos.",
+      "La crítica al mundo de los adultos.",
+      "La amistad y la responsabilidad por lo que amamos.",
+      "La mirada de la infancia."
+    ],
+    "faq": [
+      [
+        "¿Qué significa «lo esencial es invisible a los ojos»?",
+        "Que lo más importante, como el amor o la amistad, no se ve: se siente con el corazón. Se lo dice el zorro."
+      ],
+      [
+        "¿Qué representa la rosa?",
+        "El amor: es única para el principito porque la ha cuidado, aunque haya miles de rosas iguales."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1943, en Nueva York. Saint-Exupéry murió en 1944."
+      ]
+    ]
+  }
+}

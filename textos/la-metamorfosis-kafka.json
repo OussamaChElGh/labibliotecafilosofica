@@ -1,0 +1,99 @@
+{
+  "slug": "la-metamorfosis-kafka",
+  "title": "La metamorfosis",
+  "author": "Franz Kafka",
+  "author_route": "",
+  "book_route": "/la-metamorfosis-kafka/",
+  "translator": "",
+  "edition": "Madrid, Revista de Occidente; edición digital de Elejandría",
+  "source_url": "https://www.elejandria.com/libro/la-metamorfosis/kafka-franz/117",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "capitulo-1",
+      "title": "Capítulo 1",
+      "summary": "Empieza: «Cuando Gregorio Samsa se despertó una mañana después de un sueño intranquilo, se encontró sobre su cama convertido en un monstruoso insecto.…»",
+      "start": 0,
+      "end": 74
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "Capítulo 2",
+      "summary": "Empieza: «Hasta la caída de la tarde no se despertó Gregorio de su profundo sueño, similar a una pérdida de conocimiento. Seguramente no…»",
+      "start": 75,
+      "end": 121
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "Capítulo 3",
+      "summary": "Empieza: «La grave herida de Gregorio, cuyos dolores soportó más de un mes -la manzana permaneció empotrada en la carne como recuerdo visible,…»",
+      "start": 122,
+      "end": 195
+    }
+  ],
+  "traducido": true,
+  "description": "La metamorfosis de Franz Kafka: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela corta sobre la alienación, la familia y el absurdo.",
+  "intro": "<p>Una mañana, Gregorio Samsa, un viajante de comercio que mantiene a toda su familia, despierta convertido en un monstruoso insecto. Su primera preocupación no es su cuerpo, sino haber perdido el tren para ir a trabajar.</p><p>Aquí puedes leer La metamorfosis completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 96,
+    "art": {
+      "file": "la-metamorfosis-kafka.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/la-metamorfosis-kafka/ilustracion.jpg",
+      "credit": "Alberto Durero, «Ciervo volante» (1505), Museo J. Paul Getty. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela corta",
+    "unidad": "capítulos",
+    "tema": "la alienación, la familia y el absurdo",
+    "resumen": [
+      "Una mañana, Gregorio Samsa, un viajante de comercio que mantiene a toda su familia, despierta convertido en un monstruoso insecto. Su primera preocupación no es su cuerpo, sino haber perdido el tren para ir a trabajar.",
+      "Encerrado en su cuarto, Gregorio pasa a ser una carga para sus padres y su hermana Grete, que al principio lo cuida y acaba rechazándolo. Herido por una manzana que le lanza su padre, se va apagando hasta morir. La familia, aliviada, sale de paseo y hace planes para el futuro."
+    ],
+    "personajes": [
+      [
+        "Gregorio Samsa",
+        "Viajante convertido en insecto."
+      ],
+      [
+        "Grete",
+        "Su hermana, que primero lo cuida y luego lo rechaza."
+      ],
+      [
+        "El padre",
+        "Hombre autoritario que vuelve a trabajar."
+      ],
+      [
+        "La madre",
+        "Débil y asustada ante su hijo."
+      ]
+    ],
+    "ideas": [
+      "La alienación del trabajo.",
+      "La familia que solo valora a quien es útil.",
+      "El absurdo de la existencia.",
+      "La soledad y la incomunicación."
+    ],
+    "faq": [
+      [
+        "¿En qué se convierte Gregorio?",
+        "En un insecto monstruoso, que se suele imaginar como un escarabajo o una cucaracha; Kafka no lo precisa."
+      ],
+      [
+        "¿Cómo termina?",
+        "Gregorio muere y la familia, liberada, sale al campo y piensa en casar a Grete."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1915."
+      ]
+    ]
+  }
+}

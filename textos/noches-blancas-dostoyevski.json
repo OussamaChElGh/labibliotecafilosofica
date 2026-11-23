@@ -1,0 +1,116 @@
+{
+  "slug": "noches-blancas-dostoyevski",
+  "title": "Noches blancas",
+  "author": "Fiódor Dostoyevski",
+  "author_route": "",
+  "book_route": "/noches-blancas-dostoyevski/",
+  "translator": "",
+  "edition": "Edición digital de Elejandría",
+  "source_url": "https://www.elejandria.com/libro/noches-blancas/dostoyevski-fiodor/190",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "primera-noche",
+      "title": "Primera noche",
+      "summary": "Empieza: «Era una noche maravillosa, una noche como sólo es posible cuando somos jóvenes, querido lector. El cielo estaba tan estrellado, tan brillante,…»",
+      "start": 0,
+      "end": 55
+    },
+    {
+      "slug": "segunda-noche",
+      "title": "Segunda noche",
+      "summary": "Empieza: «\"¡Bueno, así que has sobrevivido!\", dijo ella, apretando mis dos manos.»",
+      "start": 56,
+      "end": 117
+    },
+    {
+      "slug": "la-historia-de-nastenka",
+      "title": "La historia de nastenka",
+      "summary": "Empieza: «\"La mitad de mi historia ya la conoces, es decir, sabes que tengo una vieja abuela....\"»",
+      "start": 118,
+      "end": 202
+    },
+    {
+      "slug": "tercera-noche",
+      "title": "Tercera noche",
+      "summary": "Empieza: «Hoy ha sido un día lúgubre y lluvioso, sin un rayo de sol, como la vejez que me espera. Me oprimen pensamientos…»",
+      "start": 203,
+      "end": 258
+    },
+    {
+      "slug": "cuarta-noche",
+      "title": "Cuarta noche",
+      "summary": "Empieza: «¡Dios mío, cómo ha terminado todo! ¡En qué ha terminado todo! Llegué a las nueve. Ella ya estaba allí. Me di cuenta…»",
+      "start": 259,
+      "end": 351
+    },
+    {
+      "slug": "manana",
+      "title": "Mañana",
+      "summary": "Empieza: «Mi noche terminó con la mañana. Era un día húmedo. La lluvia caía y golpeaba desconsoladamente el cristal de mi ventana; la…»",
+      "start": 352,
+      "end": 376
+    }
+  ],
+  "traducido": true,
+  "description": "Noches blancas de Fiódor Dostoyevski: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela corta sobre la soledad, el amor y el ensueño.",
+  "intro": "<p>Un joven solitario, que se llama a sí mismo un soñador, pasea por San Petersburgo durante las noches blancas del verano, cuando casi no oscurece. Una noche encuentra llorando junto al canal a Nástenka, una muchacha a la que salva de un desconocido, y quedan en volver a verse.</p><p>Aquí puedes leer Noches blancas completo, dividido en noches. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 89,
+    "art": {
+      "file": "noches-blancas-dostoyevski.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/noches-blancas-dostoyevski/ilustracion.jpg",
+      "credit": "Arjip Kuindzhi, «Noche de luna en el Dniéper» (1880), Museo Ruso. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Novela corta",
+    "unidad": "noches",
+    "tema": "la soledad, el amor y el ensueño",
+    "resumen": [
+      "Un joven solitario, que se llama a sí mismo un soñador, pasea por San Petersburgo durante las noches blancas del verano, cuando casi no oscurece. Una noche encuentra llorando junto al canal a Nástenka, una muchacha a la que salva de un desconocido, y quedan en volver a verse.",
+      "Durante cuatro noches, ella le cuenta su historia: espera desde hace un año a un inquilino del que se enamoró y que prometió volver. El soñador, que se ha enamorado de ella, la ayuda a escribirle. Cuando parece que ella empieza a corresponderle, el antiguo amor aparece. A la mañana siguiente, el soñador recibe una carta de Nástenka y se queda con el recuerdo de un minuto de felicidad."
+    ],
+    "personajes": [
+      [
+        "El soñador",
+        "Narrador sin nombre, joven solitario que vive en sus fantasías."
+      ],
+      [
+        "Nástenka",
+        "Muchacha de diecisiete años que vive con su abuela ciega."
+      ],
+      [
+        "El inquilino",
+        "Joven del que Nástenka está enamorada."
+      ]
+    ],
+    "ideas": [
+      "La soledad en la gran ciudad.",
+      "El amor idealizado y no correspondido.",
+      "El ensueño frente a la vida real.",
+      "La felicidad de un instante."
+    ],
+    "faq": [
+      [
+        "¿Qué son las noches blancas?",
+        "Las noches de verano en San Petersburgo en las que el sol apenas se pone y no llega a oscurecer."
+      ],
+      [
+        "¿Cómo termina Noches blancas?",
+        "Nástenka se va con su antiguo amor. El soñador queda solo, agradecido por «un minuto entero de felicidad»."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1848. Es una de las primeras obras de Dostoyevski."
+      ]
+    ]
+  }
+}

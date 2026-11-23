@@ -1,0 +1,148 @@
+{
+  "slug": "la-republica-platon",
+  "title": "La República",
+  "author": "Platón",
+  "author_route": "/libros-pdf-gratis/autores/platon/",
+  "book_route": "/la-republica-platon/",
+  "translator": "",
+  "edition": "Edición digital de Elejandría",
+  "source_url": "https://www.elejandria.com/libro/la-republica/platon/101",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "libro-i",
+      "title": "Libro I",
+      "summary": "Empieza: «I. Acompañado de Glau cón, el hijo de Aristón, bajé ayer al Pireo con propósito de orar a la diosa y ganoso…»",
+      "start": 0,
+      "end": 503
+    },
+    {
+      "slug": "libro-ii",
+      "title": "Libro II",
+      "summary": "Empieza: «I. Con esta s palabras creí haber dado ya fin a la discusión; mas al parecer no habíamos pasado todavía del preludio,…»",
+      "start": 504,
+      "end": 873
+    },
+    {
+      "slug": "libro-iii",
+      "title": "Libro III",
+      "summary": "Empieza: «I. -Bien -c oncluí-. Tales son, según parece, las cosas relativas a los dioses que pueden o no escuchar desde su niñez…»",
+      "start": 874,
+      "end": 1350
+    },
+    {
+      "slug": "libro-iv",
+      "title": "Libro IV",
+      "summary": "Empieza: «I. Y Adiman to, interrumpiendo, dijo: -¿Y qué dirías en tu defensa, Sócrates, si alguien te objetara que no haces nada felices…»",
+      "start": 1351,
+      "end": 1808
+    },
+    {
+      "slug": "libro-v",
+      "title": "Libro V",
+      "summary": "Empieza: «I. -Tal es 4, pues, la clase de ciudad y de constitución que yo califico de buena y recta y tal la…»",
+      "start": 1809,
+      "end": 2374
+    },
+    {
+      "slug": "libro-vi",
+      "title": "Libro VI",
+      "summary": "Empieza: «»",
+      "start": 2375,
+      "end": 2375
+    },
+    {
+      "slug": "libro-vii",
+      "title": "Libro VII",
+      "summary": "Empieza: «I. –Así pues -dije yo-, tras un largo discurso se nos ha mostrado al fin, ¡oh, Glaucón!, quiénes son filósofos y quiénes…»",
+      "start": 2376,
+      "end": 3170
+    },
+    {
+      "slug": "libro-viii",
+      "title": "Libro VIII",
+      "summary": "Empieza: «I. -Muy b ien. Hemos convenido, ¡oh, Glaucón!, en lo siguiente. En la ciudad que aspire al más excelente sistema de gobierno…»",
+      "start": 3171,
+      "end": 3610
+    },
+    {
+      "slug": "libro-ix",
+      "title": "Libro IX",
+      "summary": "Empieza: «»",
+      "start": 3611,
+      "end": 3611
+    },
+    {
+      "slug": "libro-x",
+      "title": "Libro X",
+      "summary": "Empieza: «I. -Queda por ver -dije- el hombre tiránico en sí mismo, cómo surge por la transformación del democrático, cuál es, una vez…»",
+      "start": 3612,
+      "end": 4352
+    }
+  ],
+  "traducido": true,
+  "description": "La República de Platón: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Filosofía sobre la justicia y la ciudad ideal.",
+  "intro": "<p>La República es el gran diálogo de Platón. Empieza con una pregunta, ¿qué es la justicia?, que Sócrates discute con Céfalo, Polemarco y el sofista Trasímaco, para quien lo justo es lo que conviene al más fuerte. Para responder, Sócrates imagina una ciudad ideal y estudia la justicia a gran escala.</p><p>Aquí puedes leer La República completo, dividido en libros. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "ocre",
+    "number": 98,
+    "art": {
+      "file": "la-republica-platon.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "url": "/leer/la-republica-platon/ilustracion.jpg",
+      "credit": "Jan Saenredam, según Cornelis van Haarlem, «La caverna de Platón» (1604), National Gallery of Art. Dominio público, vía Wikimedia Commons."
+    }
+  },
+  "ficha": {
+    "genero": "Filosofía",
+    "unidad": "libros",
+    "tema": "la justicia y la ciudad ideal",
+    "resumen": [
+      "La República es el gran diálogo de Platón. Empieza con una pregunta, ¿qué es la justicia?, que Sócrates discute con Céfalo, Polemarco y el sofista Trasímaco, para quien lo justo es lo que conviene al más fuerte. Para responder, Sócrates imagina una ciudad ideal y estudia la justicia a gran escala.",
+      "La ciudad tiene tres clases (gobernantes, guardianes y productores), igual que el alma tiene razón, ánimo y deseo; la justicia es que cada parte cumpla su función. La gobiernan los filósofos, que conocen la idea del Bien. El libro VII contiene el mito de la caverna, y el último termina con el mito de Er sobre el destino del alma."
+    ],
+    "personajes": [
+      [
+        "Sócrates",
+        "Dirige la conversación."
+      ],
+      [
+        "Glaucón y Adimanto",
+        "Hermanos de Platón, principales interlocutores."
+      ],
+      [
+        "Trasímaco",
+        "Sofista que defiende que la justicia es lo que conviene al más fuerte."
+      ],
+      [
+        "Céfalo y Polemarco",
+        "Padre e hijo, en cuya casa transcurre el diálogo."
+      ]
+    ],
+    "ideas": [
+      "La justicia en el alma y en la ciudad.",
+      "El gobierno de los filósofos.",
+      "El mito de la caverna y la teoría de las Ideas.",
+      "La educación de los guardianes."
+    ],
+    "faq": [
+      [
+        "¿Qué es el mito de la caverna?",
+        "Una alegoría del libro VII: prisioneros que solo ven sombras en la pared creen que son la realidad, hasta que uno sale y ve el sol."
+      ],
+      [
+        "¿Qué es el rey filósofo?",
+        "La idea de que la ciudad solo será justa si la gobiernan quienes aman la sabiduría."
+      ],
+      [
+        "¿Cuántos libros tiene?",
+        "Diez."
+      ]
+    ]
+  }
+}

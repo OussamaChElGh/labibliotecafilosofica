@@ -355,6 +355,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
+      "destination": "/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
+      "permanent": true
+    },
+    {
       "source": "/leer/amalia-jose-marmol/",
       "destination": "/amalia-jose-marmol/",
       "permanent": true
@@ -367,6 +372,11 @@
     {
       "source": "/leer/ariel-jose-enrique-rodo/",
       "destination": "/ariel-jose-enrique-rodo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/asi-hablo-zaratustra-nietzsche/",
+      "destination": "/asi-hablo-zaratustra-friedrich-nietzsche/",
       "permanent": true
     },
     {
@@ -400,6 +410,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/crimen-y-castigo-dostoyevski/",
+      "destination": "/crimen-y-castigo-dostoyevski/",
+      "permanent": true
+    },
+    {
       "source": "/leer/criton-platon/",
       "destination": "/criticon-platon/",
       "permanent": true
@@ -425,8 +440,18 @@
       "permanent": true
     },
     {
+      "source": "/leer/de-la-brevedad-de-la-vida-seneca/",
+      "destination": "/de-la-brevedad-de-la-vida-seneca/",
+      "permanent": true
+    },
+    {
       "source": "/leer/don-juan-tenorio-zorrilla/",
       "destination": "/don-juan-tenorio-zorrilla/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/don-quijote-de-la-mancha-cervantes/",
+      "destination": "/don-quijote-de-la-mancha-pdf-miguel-de-cervantes/",
       "permanent": true
     },
     {
@@ -437,6 +462,16 @@
     {
       "source": "/leer/dona-perfecta-benito-perez-galdos/",
       "destination": "/dona-perfecta-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/dracula-bram-stoker/",
+      "destination": "/dracula-bram-stoker/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-la-guerra-sun-tzu/",
+      "destination": "/el-arte-de-la-guerra-sun-tzu/",
       "permanent": true
     },
     {
@@ -472,6 +507,11 @@
     {
       "source": "/leer/el-principe-maquiavelo/",
       "destination": "/el-principe-maquiavelo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-principito-saint-exupery/",
+      "destination": "/el-principito-saint-exupery/",
       "permanent": true
     },
     {
@@ -520,6 +560,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/frankenstein-mary-shelley/",
+      "destination": "/frankenstein-mary-shelley/",
+      "permanent": true
+    },
+    {
       "source": "/leer/fuenteovejuna-lope-de-vega/",
       "destination": "/fuenteovejuna-lope-de-vega/",
       "permanent": true
@@ -560,6 +605,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/la-divina-comedia-dante/",
+      "destination": "/la-divina-comedia-dante/",
+      "permanent": true
+    },
+    {
       "source": "/leer/la-gaviota-fernan-caballero/",
       "destination": "/la-gaviota-fernan-caballero/",
       "permanent": true
@@ -575,6 +625,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/la-metamorfosis-kafka/",
+      "destination": "/la-metamorfosis-kafka/",
+      "permanent": true
+    },
+    {
       "source": "/leer/la-odisea-homero/",
       "destination": "/la-odisea-homero/",
       "permanent": true
@@ -582,6 +637,11 @@
     {
       "source": "/leer/la-regenta-leopoldo-alas-clarin/",
       "destination": "/la-regenta-leopoldo-alas-clarin/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-republica-platon/",
+      "destination": "/la-republica-platon/",
       "permanent": true
     },
     {
@@ -665,6 +725,16 @@
       "permanent": true
     },
     {
+      "source": "/leer/meditaciones-marco-aurelio/",
+      "destination": "/meditaciones-marco-aurelio/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/memorias-del-subsuelo-dostoyevski/",
+      "destination": "/memorias-del-subsuelo-dostoyevski/",
+      "permanent": true
+    },
+    {
       "source": "/leer/misericordia-benito-perez-galdos/",
       "destination": "/misericordia-benito-perez-galdos/",
       "permanent": true
@@ -672,6 +742,11 @@
     {
       "source": "/leer/niebla-miguel-de-unamuno/",
       "destination": "/niebla-miguel-de-unamuno/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/noches-blancas-dostoyevski/",
+      "destination": "/noches-blancas-dostoyevski/",
       "permanent": true
     },
     {

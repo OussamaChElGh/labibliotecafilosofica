@@ -18,6 +18,7 @@ En las fichas de libro corrige el autor y el título de los datos estructurados
 import json
 import re
 from pathlib import Path
+from html import unescape
 from urllib.parse import quote_plus
 
 from lxml import html as dom
@@ -802,6 +803,145 @@ def book_catalog(pages):
     return len(catalog)
 
 
+# --- SEO técnico ------------------------------------------------------------
+BRAND = " · La Biblioteca Filosófica"
+HOME_IMAGE = "/social-portada.jpg"
+SITEMAP_DATES = Path("sitemap-fechas.json")
+END_PUNCTUATION = re.compile(r"[.!?»…)\"”]$")
+FIELD_LABEL = re.compile(r"(Género|Autor|Título|Ficha|Cita destacada)\b")
+
+
+def short_title(document):
+    """Google y Bing cortan hacia los 60 caracteres y ya añaden el nombre del sitio:
+    en títulos largos sobra « · La Biblioteca Filosófica» (solo en <title>, no en og:title)."""
+    match = re.search(r"<title>(.*?)</title>", document, re.S)
+    if not match or not match[1].endswith(BRAND) or len(unescape(match[1])) <= 60:
+        return document
+    return document.replace(match[0], f"<title>{match[1][:-len(BRAND)]}</title>", 1)
+
+
+def clip(text, limit=158):
+    """Recorta en el último final de frase o, si no hay, en la última palabra, con «…»."""
+    text = re.sub(r"[\U0001F300-\U0001FAFF☀-➿️]", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) <= limit:
+        return text
+    cut = text[:limit]
+    end = max(cut.rfind(". "), cut.rfind("? "), cut.rfind("! "))
+    if end >= 90:
+        return cut[:end + 1]
+    return cut[:cut.rfind(" ")].rstrip(" ,;:—-(«\"") + "…"
+
+
+def broken_description(text):
+    """Descripción heredada de WordPress: cortada a media palabra o con etiquetas de la ficha."""
+    text = text.strip()
+    return not text or len(text) > 200 or not END_PUNCTUATION.search(text) or FIELD_LABEL.match(text) is not None
+
+
+def description_source(document):
+    abstract = re.search(r'"abstract": "((?:[^"\\]|\\.)*)"', document)
+    if abstract:
+        return json.loads(f'"{abstract[1]}"')
+    marker = '<div class="entry"' if '<div class="entry"' in document else "<main"
+    body = document.split(marker, 1)[-1]
+    for paragraph in re.findall(r"<p[^>]*>(.*?)</p>", body, re.S):
+        value = unescape(re.sub(r"<[^>]+>", "", paragraph)).strip()
+        if len(value) >= 80 and not FIELD_LABEL.match(value):
+            return value
+    return None
+
+
+def fix_description(document, route, manual):
+    if route in manual or re.search(r'<meta name="robots" content="[^"]*noindex', document):
+        return document
+    match = re.search(r'<meta name="description" content="([^"]*)">', document)
+    if not match or not broken_description(unescape(match[1])):
+        return document
+    text = clip(description_source(document) or unescape(match[1]))
+    if not END_PUNCTUATION.search(text):
+        text += "."
+    return apply_description(document, text)
+
+
+def cover_alts(document):
+    """Portadas de las tarjetas con texto alternativo (búsqueda de imágenes de Bing y Google)."""
+    def card(match):
+        return match[0].replace('alt=""', f'alt="Portada de {match[2]}, de {match[1]}"', 1)
+
+    def paper(match):
+        return match[0].replace('alt=""', f'alt="Portada de {match[1]}"', 1)
+
+    document = re.sub(r'<img src="[^"]+" alt=""[^>]*><span><span class="hub-kicker">([^<]+)</span><strong>([^<]+)</strong>', card, document)
+    return re.sub(r'<div class="paper-box-cover"><img [^>]*alt=""[^>]*></div><div class="paper-box-body"><p class="paper-box-kicker">[^<]*</p>'
+                  r'<p class="paper-box-title">¿Prefieres leer «([^»]+)»', paper, document)
+
+
+def home_schema(document):
+    """Portada: WebSite con buscador y Organization, og:type website y una imagen para compartir."""
+    if "</head>" not in document or '"@type": "WebSite"' in document:
+        return document
+    data = {"@context": "https://schema.org", "@graph": [
+        {"@type": "WebSite", "@id": f"{BASE}/#website", "url": f"{BASE}/", "name": "La Biblioteca Filosófica", "inLanguage": "es",
+         "publisher": {"@id": f"{BASE}/#organization"},
+         "potentialAction": {"@type": "SearchAction", "target": f"{BASE}/biblioteca/?q={{search_term_string}}",
+                             "query-input": "required name=search_term_string"}},
+        {"@type": "Organization", "@id": f"{BASE}/#organization", "name": "La Biblioteca Filosófica", "url": f"{BASE}/",
+         "logo": f"{BASE}/wp-content/uploads/2020/08/cropped-cropped-logonew-2-270x270.jpg",
+         "sameAs": ["https://www.pinterest.com/LaBibliotecaFilosofica/"]}]}
+    head = f'<script type="application/ld+json">{json.dumps(data, ensure_ascii=False)}</script>'
+    document = document.replace('<meta property="og:type" content="article">', '<meta property="og:type" content="website">', 1)
+    if 'property="og:image"' not in document:
+        head += (f'<meta property="og:image" content="{BASE}{HOME_IMAGE}"><meta property="og:image:width" content="1200">'
+                 f'<meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">'
+                 f'<meta name="twitter:image" content="{BASE}{HOME_IMAGE}">')
+    return document.replace("</head>", head + "</head>", 1)
+
+
+def default_image(document):
+    """Imagen para compartir de la portada en las páginas que no tienen ninguna (índices, artículos sin foto)."""
+    if 'property="og:image"' in document or "</head>" not in document:
+        return document
+    return document.replace("</head>", f'<meta property="og:image" content="{BASE}{HOME_IMAGE}"><meta property="og:image:width" content="1200">'
+                            f'<meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">'
+                            f'<meta name="twitter:image" content="{BASE}{HOME_IMAGE}"></head>', 1)
+
+
+def redirected_routes():
+    data = json.loads(Path("vercel.json").read_text(encoding="utf-8"))
+    return {r["source"] for r in data.get("redirects", []) if ":" not in r["source"] and "(" not in r["source"]}
+
+
+def rebuild_sitemap(pages):
+    """sitemap.xml con las páginas que existen, se pueden indexar y son su propia canónica, con <lastmod>.
+    La fecha cambia solo cuando cambia el texto de <main> (sitemap-fechas.json guarda la huella y la fecha)."""
+    from datetime import date
+    from hashlib import sha1
+    today = date.today().isoformat()
+    store = json.loads(SITEMAP_DATES.read_text(encoding="utf-8")) if SITEMAP_DATES.exists() else {}
+    skip, entries, fresh = redirected_routes(), [], {}
+    for page, document in pages.items():
+        route = route_of(page)
+        canonical = re.search(r'<link rel="canonical" href="([^"]+)"', document)
+        if (route in skip or re.search(r'<meta name="robots" content="[^"]*noindex', document)
+                or not canonical or canonical[1] != BASE + route):
+            continue
+        main = re.search(r"<main.*?</main>", document, re.S)
+        content = re.sub(r"<script.*?</script>", "", main[0] if main else document, flags=re.S)
+        content = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", content))
+        digest = sha1(content.encode("utf-8")).hexdigest()[:16]
+        old = store.get(route)
+        fresh[route] = old if old and old[0] == digest else [digest, today]
+        entries.append((route, fresh[route][1]))
+    entries.sort(key=lambda e: (e[0] != "/", e[0]))
+    body = "".join(f"<url><loc>{BASE}{route}</loc><lastmod>{day}</lastmod></url>\n" for route, day in entries)
+    (OUTPUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n'
+                                        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + body + "</urlset>\n",
+                                        encoding="utf-8")
+    SITEMAP_DATES.write_text(json.dumps(fresh, ensure_ascii=False, indent=0, sort_keys=True) + "\n", encoding="utf-8")
+    return len(entries)
+
+
 def main():
     swaps, spines = collection_covers()
     books = OUTPUT / "folio-books.json"
@@ -843,12 +983,14 @@ def main():
         document = add_guide_link(add_paper_box(add_affiliate(seo_head(tag_amazon(document), route))), route, guides)
         # Mismo orden que en las páginas ya publicadas: Google, iconos y verificación de Search Console.
         document = add_pinterest_verification(add_rich_pin_meta(add_site_verification(add_icons(add_google_tags(document)))))
-        pages[page] = add_reading_links(replace_nav(document, menu), route, reading)
+        document = add_reading_links(replace_nav(document, menu), route, reading)
+        document = cover_alts(fix_description(short_title(document), route, manual))
+        pages[page] = default_image(home_schema(document) if route == "/" else document)
     for page, result in pages.items():
         if result != originals[page]:
             page.write_text(result, encoding="utf-8")
             changed += 1
-    print(f"{changed} páginas pulidas · {book_catalog(pages)} libros en catalogo-libros.json")
+    print(f"{changed} páginas pulidas · {book_catalog(pages)} libros en catalogo-libros.json · {rebuild_sitemap(pages)} URL en sitemap.xml")
 
 
 if __name__ == "__main__":

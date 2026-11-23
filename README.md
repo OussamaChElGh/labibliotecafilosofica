@@ -34,6 +34,8 @@ AdSense y la plataforma de consentimiento requieren configuración y prueba en e
 
 Al final, `pulir.py` rehace `public/sitemap.xml` desde las páginas que existen: solo las indexables (sin `noindex`), que son su propia canónica y que no redirigen en `vercel.json`, cada una con `<lastmod>`. La fecha cambia solo cuando cambia el texto de `<main>`; la huella y la fecha de cada URL se guardan en `sitemap-fechas.json` (no lo borres). También: quita « · La Biblioteca Filosófica» de los `<title>` de más de 60 caracteres, rehace las meta descriptions cortadas a media palabra o con etiquetas de la ficha (con el `abstract` del libro o el primer párrafo; las de `descripciones.json` no se tocan), pone texto alternativo a las portadas de las tarjetas, añade `WebSite` (con buscador) y `Organization` a la portada y usa `social-portada.jpg` como imagen para compartir en las páginas que no tienen ninguna.
 
+Las páginas de categoría y de autor toman de `categorias.json` (en la raíz, no en `textos/`) su título, descripción e introducción; con `author`, `pulir.py` añade «Más obras de X en la biblioteca» con todas las fichas de ese autor (y quita el `noindex` si tiene 3 o más). Las meta descriptions solo largas se recortan; las cortadas a media palabra se cierran en la última palabra entera.
+
 ## Afiliados de Amazon por país
 
 Los enlaces de compra (`a[data-query]`, los añade `pulir.py`) apuntan a amazon.es. `public/biblioteca.js` consulta `/api/pais` (función de Vercel que lee la cabecera `x-vercel-ip-country`, sin cookies) y lleva a los lectores de América (México incluido, mientras no haya etiqueta de amazon.com.mx) a amazon.com con la etiqueta de EE. UU., con la búsqueda del libro por título y autor. España y el resto siguen en amazon.es.

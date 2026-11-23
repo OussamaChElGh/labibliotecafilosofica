@@ -852,13 +852,26 @@ def description_source(document):
     return None
 
 
+def repair_description(current, document):
+    """Larga pero bien cerrada: se recorta. Cortada a media palabra: se cierra en la última palabra entera.
+    Solo etiquetas de la ficha o casi vacía: se rehace con el resumen del libro o el primer párrafo."""
+    if FIELD_LABEL.match(current) or len(current) < 80:
+        return clip(description_source(document) or current)
+    if END_PUNCTUATION.search(current):
+        return clip(current)
+    current = clip(current)
+    if current.endswith("…"):
+        return current
+    return current.rsplit(" ", 1)[0].rstrip(" ,;:—-(«\"") + "…"
+
+
 def fix_description(document, route, manual):
     if route in manual or re.search(r'<meta name="robots" content="[^"]*noindex', document):
         return document
     match = re.search(r'<meta name="description" content="([^"]*)">', document)
     if not match or not broken_description(unescape(match[1])):
         return document
-    text = clip(description_source(document) or unescape(match[1]))
+    text = repair_description(unescape(match[1]).strip(), document)
     if not END_PUNCTUATION.search(text):
         text += "."
     return apply_description(document, text)
@@ -905,6 +918,58 @@ def default_image(document):
     return document.replace("</head>", f'<meta property="og:image" content="{BASE}{HOME_IMAGE}"><meta property="og:image:width" content="1200">'
                             f'<meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">'
                             f'<meta name="twitter:image" content="{BASE}{HOME_IMAGE}"></head>', 1)
+
+
+def category_data():
+    """Textos de las páginas de categoría y de autor (categorias.json, en la raíz): título, descripción, introducción
+    y, con «author», la lista completa de fichas de ese autor que hay en la biblioteca."""
+    path = Path("categorias.json")  # en la raíz: los .json de textos/ son libros
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
+def books_by_author(pages):
+    books = {}
+    for page, document in pages.items():
+        route = route_of(page)
+        if route.startswith("/leer/"):
+            continue
+        book = re.search(r'"@type": "Book", "name": "((?:[^"\\]|\\.)*)"(.*?)"author": \{"@type": "Person", "name": "((?:[^"\\]|\\.)*)"',
+                         document)
+        if book:
+            books.setdefault(json.loads(f'"{book[3]}"'), []).append((normalize_title(json.loads(f'"{book[1]}"')), json.loads(f'"{book[1]}"'), route))
+    return {author: sorted(items) for author, items in books.items()}
+
+
+def category_extra(document, data, books):
+    """Introducción y, en las páginas de autor, todas sus obras: las páginas de categoría heredadas solo tenían el título."""
+    document = re.sub(r"<!--cat-(extra|intro)-->.*?<!--/cat-\1-->", "", document, flags=re.S)
+    end = document.find("</section></main>")
+    layout = document.find('<div class="category-layout">')
+    if end < 0 or layout < 0:
+        return document
+    listed = set(re.findall(r'href="(/[^"]*)"', document))
+    extra = ""
+    missing = [(title, route) for _, title, route in books.get(data.get("author"), []) if route not in listed]
+    if missing:
+        cards = "".join(f'<li><a href="{route}">{escape_html(title)}</a></li>' for title, route in missing)
+        extra += (f'<div class="category-listing"><h2>Más obras de {escape_html(data["author"])} en la biblioteca '
+                  f'<span class="count">{len(missing)}</span></h2><ul class="cards">{cards}</ul></div>')
+    document = document[:end] + "<!--cat-extra-->" + extra + "<!--/cat-extra-->" + document[end:]
+    if data.get("intro"):
+        intro = f'<!--cat-intro--><div class="category-intro">{data["intro"]}</div><!--/cat-intro-->'
+        document = document[:layout] + intro + document[layout:]
+    if data.get("author"):
+        name = escape_html(data["author"])
+        document = re.sub(r'(<div class="category-hero"><div><p class="eyebrow">[^<]*</p><h1>)[^<]*(</h1><p>)[^<]*(</p>)',
+                          lambda m: f"{m[1]}{name}{m[2]}Obras, resúmenes y lecturas online de {name}.{m[3]}", document, count=1)
+    if data.get("title"):
+        document = re.sub(r"<title>.*?</title>", f"<title>{escape_html(data['title'])}</title>", document, count=1)
+        document = re.sub(r'<meta property="og:title" content="[^"]*">', f'<meta property="og:title" content="{escape_html(data["title"])}">', document, count=1)
+    if data.get("description"):
+        document = apply_description(document, data["description"])
+    if len(books.get(data.get("author"), [])) >= 3:
+        document = re.sub(r'<meta name="robots" content="noindex[^"]*">', '<meta name="robots" content="index,follow">', document)
+    return document
 
 
 def redirected_routes():
@@ -976,6 +1041,7 @@ def main():
     entries, frequency = related_index(pages)
     guides = guide_links()
     menu, reading = navigation(), reading_links()
+    categories, authors = category_data(), books_by_author(pages)
     for page, document in pages.items():
         route = route_of(page)
         if route in entries:
@@ -984,6 +1050,8 @@ def main():
         # Mismo orden que en las páginas ya publicadas: Google, iconos y verificación de Search Console.
         document = add_pinterest_verification(add_rich_pin_meta(add_site_verification(add_icons(add_google_tags(document)))))
         document = add_reading_links(replace_nav(document, menu), route, reading)
+        if route in categories:
+            document = category_extra(document, categories[route], authors)
         document = cover_alts(fix_description(short_title(document), route, manual))
         pages[page] = default_image(home_schema(document) if route == "/" else document)
     for page, result in pages.items():

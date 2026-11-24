@@ -1,0 +1,73 @@
+{
+  "slug": "confianza-en-uno-mismo-emerson",
+  "title": "Confianza en uno mismo",
+  "author": "Ralph Waldo Emerson",
+  "author_route": "",
+  "book_route": "/confianza-en-uno-mismo-emerson/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://www.elejandria.com/libro/confianza-en-uno-mismo/ralph-waldo-emerson/1076",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "ralph-waldo-emerson",
+      "title": "Ralph Waldo Emerson",
+      "summary": "Empieza: «»",
+      "start": 1,
+      "end": 2
+    },
+    {
+      "slug": "confianza-en-uno-mismo",
+      "title": "Confianza en uno mismo",
+      "summary": "Empieza: ««Ne te quaesiveris extra.»»",
+      "start": 3,
+      "end": 57
+    },
+    {
+      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
+      "title": "¡Gracias por leer este libro de www.elejandria.com!",
+      "summary": "Empieza: «»",
+      "start": 58,
+      "end": 59
+    }
+  ],
+  "inner_titles": true,
+  "description": "Confianza en uno mismo de Ralph Waldo Emerson: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Ensayo sobre la independencia de pensamiento y la confianza en uno mismo.",
+  "intro": "<p>«Confía en ti mismo: cada corazón vibra con esa cuerda de acero.» Ralph Waldo Emerson publicó este ensayo en 1841 como un manifiesto de individualismo. Su tesis es que la sociedad conspira contra la originalidad de cada persona: la conformidad, la opinión ajena y la coherencia forzada son los enemigos de la vida auténtica.</p><p>Aquí puedes leer Confianza en uno mismo completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 107
+  },
+  "ficha": {
+    "genero": "Ensayo",
+    "unidad": "capítulos",
+    "tema": "la independencia de pensamiento y la confianza en uno mismo",
+    "resumen": [
+      "«Confía en ti mismo: cada corazón vibra con esa cuerda de acero.» Ralph Waldo Emerson publicó este ensayo en 1841 como un manifiesto de individualismo. Su tesis es que la sociedad conspira contra la originalidad de cada persona: la conformidad, la opinión ajena y la coherencia forzada son los enemigos de la vida auténtica.",
+      "Emerson exhorta a seguir la propia intuición, a no imitar a nadie, a no preocuparse por contradecirse. Cita a Moisés, Platón y Milton como ejemplos de hombres que pensaron por sí mismos. Es un texto fundacional del trascendentalismo americano y una lectura vigente sobre la autenticidad."
+    ],
+    "personajes": [],
+    "ideas": [
+      "La conformidad es el enemigo de la grandeza.",
+      "Seguir la propia intuición vale más que seguir la tradición.",
+      "Una coherencia tonta es el duende de las mentes pequeñas.",
+      "La sociedad obliga a pensar como todos."
+    ],
+    "faq": [
+      [
+        "¿Qué dice la frase más famosa?",
+        "«Confía en ti mismo: cada corazón vibra con esa cuerda de acero.» También: «Una coherencia tonta es el duende de las mentes pequeñas.»"
+      ],
+      [
+        "¿Qué es el trascendentalismo?",
+        "Un movimiento intelectual americano del siglo XIX que valoraba la intuición, la naturaleza y la independencia moral."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1841, en la colección Ensayos: primera serie."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "el-kybalion",
+  "title": "El Kybalión",
+  "author": "Anónimo (Los Tres Iniciados)",
+  "author_route": "",
+  "book_route": "/el-kybalion/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://www.elejandria.com/libro/el-kybalion/anonimo/1531",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "kybalion-tres-iniciados",
+      "title": "Kybalión. Tres iniciados",
+      "summary": "Empieza: «»",
+      "start": 1,
+      "end": 2
+    },
+    {
+      "slug": "capitulo-iv-el-todo",
+      "title": "Capítulo IV. El Todo",
+      "summary": "Empieza: ««Más allá del Kosmos, del Tiempo, del Espacio, de todo cuanto se mueve y cambia, se encuentra la realidad»",
+      "start": 3,
+      "end": 39
+    },
+    {
+      "slug": "capitulo-v-el-universo-mental",
+      "title": "Capítulo v. El universo mental",
+      "summary": "Empieza: ««El universo es una creación mental sostenida en la mente del TODO.»»",
+      "start": 40,
+      "end": 77
+    },
+    {
+      "slug": "capitulo-vi-la-paradoja-divina",
+      "title": "Capítulo VI. La paradoja divina",
+      "summary": "Empieza: ««El sabio a medias, reconociendo la irrealidad relativa del Universo, se imagina que puede desafiar sus leyes, ése no es más que…»",
+      "start": 78,
+      "end": 127
+    },
+    {
+      "slug": "capitulo-vii-el-todo-en-todo",
+      "title": "Capítulo VII. El Todo en todo",
+      "summary": "Empieza: ««Si bien es cierto que todo está en el TODO, no lo es menos que el TODO está en todas las cosas.…»",
+      "start": 128,
+      "end": 177
+    },
+    {
+      "slug": "capitulo-viii-los-planos-de-correspondencia",
+      "title": "Capítulo VIII. Los planos de correspondencia",
+      "summary": "Empieza: ««Como es arriba, es abajo; como es abajo, es arriba.»»",
+      "start": 178,
+      "end": 296
+    },
+    {
+      "slug": "capitulo-x-polaridad",
+      "title": "Capítulo X. Polaridad",
+      "summary": "Empieza: ««Todo es dual, todo tiene polos; todo su par de opuestos; los semejantes y desemejantes son los mismos; los»",
+      "start": 297,
+      "end": 324
+    },
+    {
+      "slug": "capitulo-xi-ritmo",
+      "title": "Capítulo XI. Ritmo",
+      "summary": "Empieza: ««Todo fluye y refluye, todo asciende y desciende; la»",
+      "start": 325,
+      "end": 356
+    },
+    {
+      "slug": "capitulo-xii-causalidad",
+      "title": "Capítulo XII. Causalidad",
+      "summary": "Empieza: ««Toda causa tiene su efecto; todo efecto tiene su causa; todo ocurre de acuerdo con la ley. Azar no es más que…»",
+      "start": 357,
+      "end": 489
+    },
+    {
+      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
+      "title": "¡Gracias por leer este libro de www.elejandria.com!",
+      "summary": "Empieza: «»",
+      "start": 490,
+      "end": 491
+    }
+  ],
+  "inner_titles": true,
+  "description": "El Kybalión de Anónimo (Los Tres Iniciados): resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Filosofía hermética sobre los siete principios universales del hermetismo.",
+  "intro": "<p>El Kybalión es un breve tratado publicado en 1908 bajo el seudónimo de «Los Tres Iniciados», que expone las enseñanzas de la tradición hermética atribuidas a Hermes Trismegisto. Siete principios resumen toda su filosofía: mentalismo (el todo es mente), correspondencia (como es arriba es abajo), vibración, polaridad, ritmo, causa y efecto, y género.</p><p>Aquí puedes leer El Kybalión completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "burdeos",
+    "number": 102
+  },
+  "ficha": {
+    "genero": "Filosofía hermética",
+    "unidad": "capítulos",
+    "tema": "los siete principios universales del hermetismo",
+    "resumen": [
+      "El Kybalión es un breve tratado publicado en 1908 bajo el seudónimo de «Los Tres Iniciados», que expone las enseñanzas de la tradición hermética atribuidas a Hermes Trismegisto. Siete principios resumen toda su filosofía: mentalismo (el todo es mente), correspondencia (como es arriba es abajo), vibración, polaridad, ritmo, causa y efecto, y género.",
+      "Cada capítulo explica uno de estos principios y su aplicación, en un estilo breve y aforístico, como un manual para comprender las leyes del universo. Es una puerta de entrada al esoterismo occidental y una de las obras más descargadas de Elejandría."
+    ],
+    "personajes": [],
+    "ideas": [
+      "Todo es Mente: el universo es mental.",
+      "Como es arriba es abajo; como es abajo es arriba.",
+      "Todo vibra, todo tiene polaridad, todo fluye en ritmo.",
+      "La transmutación mental como herramienta de conocimiento."
+    ],
+    "faq": [
+      [
+        "¿Quiénes son los Tres Iniciados?",
+        "Se desconoce su identidad. Se atribuye a William Walker Atkinson o a un grupo de autores del Nuevo Pensamiento."
+      ],
+      [
+        "¿Qué relación tiene con Hermes Trismegisto?",
+        "Dice recoger enseñanzas herméticas del antiguo Egipto, pero es un texto moderno de 1908."
+      ],
+      [
+        "¿Cuántos principios presenta?",
+        "Siete: mentalismo, correspondencia, vibración, polaridad, ritmo, causa y efecto, y género."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "slug": "el-jugador-dostoyevski",
+  "title": "El jugador",
+  "author": "Fiódor Dostoyevski",
+  "author_route": "",
+  "book_route": "/el-jugador-dostoyevski/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://www.elejandria.com/libro/el-jugador/dostoyevski-fiodor/1932",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "fiodor-dostoyevski",
+      "title": "Fiódor Dostoyevski",
+      "summary": "Empieza: «»",
+      "start": 1,
+      "end": 2
+    },
+    {
+      "slug": "parte-2",
+      "title": "Parte 2",
+      "summary": "Empieza: «Por fin estaba de regreso, después de dos semanas de ausencia.»",
+      "start": 3,
+      "end": 97
+    },
+    {
+      "slug": "parte-3",
+      "title": "Parte 3",
+      "summary": "Empieza: «Confieso que aquella misión me era desagradable. Aunque decidido a jugar, no pensaba empezar por cuenta ajena.»",
+      "start": 98,
+      "end": 138
+    },
+    {
+      "slug": "parte-4",
+      "title": "Parte 4",
+      "summary": "Empieza: «Ayer, sin embargo, Paulina no volvió a hablarme del juego. Evitó durante todo el día dirigirme la palabra.»",
+      "start": 139,
+      "end": 178
+    },
+    {
+      "slug": "parte-5",
+      "title": "Parte 5",
+      "summary": "Empieza: «Hoy ha sido un día ridículo, escandaloso, incoherente.»",
+      "start": 179,
+      "end": 218
+    },
+    {
+      "slug": "parte-6",
+      "title": "Parte 6",
+      "summary": "Empieza: «Paulina parecía sumida en un profundo ensueño. Sin embargo, inmediatamente después de la comida me ordenó que la acompañase al paseo. Nos…»",
+      "start": 219,
+      "end": 309
+    },
+    {
+      "slug": "parte-7",
+      "title": "Parte 7",
+      "summary": "Empieza: «Han transcurrido dos días desde aquella estúpida jornada. ¡Cuántos gritos, cuánto ruido, cuánta agitación!»",
+      "start": 310,
+      "end": 369
+    },
+    {
+      "slug": "parte-8",
+      "title": "Parte 8",
+      "summary": "Empieza: «Por la mañana llamé al camarero y le indiqué que debía hacer mi cuenta aparte. El precio de mi habitación no era…»",
+      "start": 370,
+      "end": 420
+    },
+    {
+      "slug": "parte-9",
+      "title": "Parte 9",
+      "summary": "Empieza: «En el paseo, como aquí lo llaman, es decir, en la avenida de castaños, encontré al inglés.»",
+      "start": 421,
+      "end": 480
+    },
+    {
+      "slug": "parte-10",
+      "title": "Parte 10",
+      "summary": "Empieza: «Habían llevado su sillón hasta el rellano del amplio vestíbulo y se hallaba rodeada de sus criados, de la obsequiosa servidumbre del…»",
+      "start": 481,
+      "end": 582
+    },
+    {
+      "slug": "parte-11",
+      "title": "Parte 11",
+      "summary": "Empieza: «Probablemente, en los balnearios y en los hoteles de toda Europa, cuando el gerente destina una habitación a los huéspedes, se guía…»",
+      "start": 583,
+      "end": 716
+    },
+    {
+      "slug": "parte-12",
+      "title": "Parte 12",
+      "summary": "Empieza: «Condujeron el sillón hacia la puerta, al otro extremo de la sala. La abuela estaba radiante. Nuestras gentes hicieron corro en torno…»",
+      "start": 717,
+      "end": 809
+    },
+    {
+      "slug": "parte-13",
+      "title": "Parte 13",
+      "summary": "Empieza: «La abuela estaba impaciente y nerviosa; saltaba a la vista que su obsesión era la ruleta. A ninguna otra cosa atendía, y…»",
+      "start": 810,
+      "end": 964
+    },
+    {
+      "slug": "parte-14",
+      "title": "Parte 14",
+      "summary": "Empieza: «He estado casi un mes sin continuar estas memorias, empezadas bajo la influencia de impresiones, desordenadas, pero fuertes.»",
+      "start": 965,
+      "end": 1041
+    },
+    {
+      "slug": "parte-15",
+      "title": "Parte 15",
+      "summary": "Empieza: «Lancé una exclamación de sorpresa.»",
+      "start": 1042,
+      "end": 1131
+    },
+    {
+      "slug": "parte-16",
+      "title": "Parte 16",
+      "summary": "Empieza: «Me miró -lo recuerdo- de un modo extraño, pero sin moverse, ni cambiar de actitud.»",
+      "start": 1132,
+      "end": 1253
+    },
+    {
+      "slug": "parte-17",
+      "title": "Parte 17",
+      "summary": "Empieza: «¿Qué diré de mi estancia en París? Fue, sin duda, un verdadero delirio, el colmo de la extravagancia.»",
+      "start": 1254,
+      "end": 1340
+    },
+    {
+      "slug": "parte-18",
+      "title": "Parte 18",
+      "summary": "Empieza: «Hace veinte meses que no había ni siquiera pasado la vista por estas notas hasta ahora que, solamente por hallarme bajo el…»",
+      "start": 1341,
+      "end": 1419
+    },
+    {
+      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
+      "title": "¡Gracias por leer este libro de www.elejandria.com!",
+      "summary": "Empieza: «»",
+      "start": 1420,
+      "end": 1421
+    }
+  ],
+  "inner_titles": true,
+  "description": "El jugador de Fiódor Dostoyevski: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre la adicción al juego, la pasión y la autodestrucción.",
+  "intro": "<p>Alekséi Ivánovich, preceptor de una familia rusa que veranea en la ficticia Ruletenburg (inspirada en Wiesbaden), está enamorado de Polina, la hijastra del general. La familia espera la herencia de una tía abuela que se supone moribunda, mientras acumula deudas con un francés astuto.</p><p>Aquí puedes leer El jugador completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 116
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "la adicción al juego, la pasión y la autodestrucción",
+    "resumen": [
+      "Alekséi Ivánovich, preceptor de una familia rusa que veranea en la ficticia Ruletenburg (inspirada en Wiesbaden), está enamorado de Polina, la hijastra del general. La familia espera la herencia de una tía abuela que se supone moribunda, mientras acumula deudas con un francés astuto.",
+      "Alekséi descubre la ruleta y se hunde en el juego con la misma intensidad con que ama a Polina. Cuando la tía abuela aparece en persona y pierde su fortuna en la ruleta, toda la familia se desmorona. Alekséi gana una vez, lo pierde todo y queda atrapado en el ciclo de la adicción. Dostoyevski, jugador empedernido, dictó la novela en veintiséis días para pagar sus propias deudas."
+    ],
+    "personajes": [
+      [
+        "Alekséi Ivánovich",
+        "Preceptor ruso, narrador, adicto al juego."
+      ],
+      [
+        "Polina",
+        "Hijastra del general, orgullosa y misteriosa."
+      ],
+      [
+        "El general",
+        "Padre de familia arruinado que espera una herencia."
+      ],
+      [
+        "La abuela",
+        "Tía rica que aparece viva y pierde su fortuna en la ruleta."
+      ],
+      [
+        "Des Grieux",
+        "Francés oportunista que corteja a Polina."
+      ]
+    ],
+    "ideas": [
+      "La adicción al juego como autodestrucción.",
+      "El amor obsesivo y no correspondido.",
+      "El dinero como ilusión y como trampa.",
+      "La fatalidad rusa frente al cálculo europeo."
+    ],
+    "faq": [
+      [
+        "¿De qué trata El jugador?",
+        "De un joven ruso que se enamora y se hace adicto a la ruleta en un balneario alemán."
+      ],
+      [
+        "¿Dostoyevski era jugador?",
+        "Sí. Escribió esta novela en veintiséis días para pagar deudas de juego, dictándola a su futura esposa, Anna Grigórievna."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1866, el mismo año que Crimen y castigo."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "slug": "jane-eyre-charlotte-bronte",
+  "title": "Jane Eyre",
+  "author": "Charlotte Brontë",
+  "author_route": "",
+  "book_route": "/jane-eyre-charlotte-bronte/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://www.elejandria.com/libro/jane-eyre/bronte-charlotte/2383",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "charlotte-bronte",
+      "title": "Charlotte Brontë",
+      "summary": "Empieza: «»",
+      "start": 1,
+      "end": 2
+    },
+    {
+      "slug": "jane-eyre-capitulo-1",
+      "title": "Jane Eyre. Capítulo I",
+      "summary": "Empieza: «Aquel día no hubo posibilidad de salir de paseo. Por la mañana, es cierto, habíamos estado vagando durante una hora entre los…»",
+      "start": 3,
+      "end": 50
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "Capítulo II",
+      "summary": "Empieza: «Me resistí durante todo el camino: algo nuevo para mí, y una circunstancia que fortaleció enormemente la mala opinión que Bessie y…»",
+      "start": 51,
+      "end": 95
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "Capítulo III",
+      "summary": "Empieza: «Lo siguiente que recuerdo es despertarme con la sensación de haber tenido una pesadilla espantosa, y ver ante mí un terrible resplandor…»",
+      "start": 96,
+      "end": 208
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "Capítulo IV",
+      "summary": "Empieza: «De mi conversación con el señor Lloyd y de la antedicha conferencia entre Bessie y Abbot, extraje la esperanza suficiente para que…»",
+      "start": 209,
+      "end": 341
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "Capítulo V",
+      "summary": "Empieza: «Apenas habían dado las cinco de la mañana del 19 de enero, cuando Bessie trajo una vela a mi cuartito y me…»",
+      "start": 342,
+      "end": 459
+    },
+    {
+      "slug": "capitulo-6",
+      "title": "Capítulo VI",
+      "summary": "Empieza: «El día siguiente comenzó como el anterior, levantándonos y vistiéndonos a la luz de una lamparilla; pero esta mañana nos vimos obligadas…»",
+      "start": 460,
+      "end": 527
+    },
+    {
+      "slug": "capitulo-7",
+      "title": "Capítulo VII",
+      "summary": "Empieza: «Mi primer trimestre en Lowood me pareció una eternidad; y no la edad de oro, precisamente. Comprendió una lucha fastidiosa con las…»",
+      "start": 528,
+      "end": 584
+    },
+    {
+      "slug": "capitulo-8",
+      "title": "Capítulo VIII",
+      "summary": "Empieza: «Antes de que terminara la media hora, dieron las cinco; la escuela terminó y todas se fueron al refectorio a tomar el…»",
+      "start": 585,
+      "end": 647
+    },
+    {
+      "slug": "capitulo-9",
+      "title": "Capítulo IX",
+      "summary": "Empieza: «Pero las privaciones, o más bien las penalidades, de Lowood disminuyeron. La primavera se acercaba; de hecho, ya había llegado. Las heladas…»",
+      "start": 648,
+      "end": 709
+    },
+    {
+      "slug": "capitulo-10",
+      "title": "Capítulo X",
+      "summary": "Empieza: «Hasta ahora he registrado en detalle los acontecimientos de mi insignificante existencia; a los primeros diez años de mi vida les he…»",
+      "start": 710,
+      "end": 797
+    },
+    {
+      "slug": "capitulo-11",
+      "title": "Capítulo XI",
+      "summary": "Empieza: «Un nuevo capítulo en una novela es algo así como una nueva escena en una obra de teatro; y cuando levante el…»",
+      "start": 798,
+      "end": 924
+    },
+    {
+      "slug": "capitulo-12",
+      "title": "Capítulo XII",
+      "summary": "Empieza: «La promesa de una carrera tranquila, que mi primera y serena introducción a Thornfield Hall parecía augurar, no fue desmentida por un…»",
+      "start": 925,
+      "end": 995
+    },
+    {
+      "slug": "capitulo-13",
+      "title": "Capítulo XIII",
+      "summary": "Empieza: «El señor Rochester, al parecer por órdenes del cirujano, se acostó temprano esa noche; y tampoco se levantó pronto a la mañana…»",
+      "start": 996,
+      "end": 1134
+    },
+    {
+      "slug": "capitulo-14",
+      "title": "Capítulo XIV",
+      "summary": "Empieza: «Durante varios días subsiguientes vi poco al señor Rochester. Por las mañanas parecía muy ocupado con negocios y, por las tardes, caballeros…»",
+      "start": 1135,
+      "end": 1244
+    },
+    {
+      "slug": "capitulo-15",
+      "title": "Capítulo XV",
+      "summary": "Empieza: «El señor Rochester, en una ocasión futura, lo explicó. Fue una tarde en que casualmente nos encontró a Adèle y a mí…»",
+      "start": 1245,
+      "end": 1325
+    },
+    {
+      "slug": "capitulo-16",
+      "title": "Capítulo XVI",
+      "summary": "Empieza: «Deseaba y temía a la vez ver al señor Rochester el día que siguió a esta noche de insomnio. Quería oír su…»",
+      "start": 1326,
+      "end": 1404
+    },
+    {
+      "slug": "capitulo-17",
+      "title": "Capítulo XVII",
+      "summary": "Empieza: «Pasó una semana y no llegaron noticias del señor Rochester. Diez días, y aún no venía. La señora Fairfax dijo que no…»",
+      "start": 1405,
+      "end": 1563
+    },
+    {
+      "slug": "capitulo-18",
+      "title": "Capítulo XVIII",
+      "summary": "Empieza: «Fueron días alegres aquellos en Thornfield Hall; y días ajetreados también. ¡Qué diferentes de los tres primeros meses de quietud, monotonía y…»",
+      "start": 1564,
+      "end": 1669
+    },
+    {
+      "slug": "capitulo-19",
+      "title": "Capítulo XIX",
+      "summary": "Empieza: «La biblioteca parecía bastante tranquila cuando entré en ella, y la Sibila —si Sibila era— estaba sentada muy cómodamente en un sillón…»",
+      "start": 1670,
+      "end": 1818
+    },
+    {
+      "slug": "capitulo-20",
+      "title": "Capítulo XX",
+      "summary": "Empieza: «Había olvidado correr la cortina, lo que solía hacer, y también bajar la persiana de mi ventana. La consecuencia fue que cuando…»",
+      "start": 1819,
+      "end": 1988
+    },
+    {
+      "slug": "capitulo-21",
+      "title": "Capítulo XXI",
+      "summary": "Empieza: «¡Cosa extraña son los presentimientos! Y también las simpatías; y también las señales; y las tres combinadas forman un misterio cuya clave…»",
+      "start": 1989,
+      "end": 2193
+    },
+    {
+      "slug": "capitulo-22",
+      "title": "Capítulo XXII",
+      "summary": "Empieza: «El señor Rochester me había concedido solo una semana de permiso; sin embargo, transcurrió un mes antes de que abandonara Gateshead. Deseaba…»",
+      "start": 2194,
+      "end": 2235
+    },
+    {
+      "slug": "capitulo-23",
+      "title": "Capítulo XXIII",
+      "summary": "Empieza: «Un espléndido solsticio de verano brilló sobre Inglaterra. Cielos tan puros, soles tan radiantes como los que se vieron entonces en larga…»",
+      "start": 2236,
+      "end": 2356
+    },
+    {
+      "slug": "capitulo-24",
+      "title": "Capítulo XXIV",
+      "summary": "Empieza: «Mientras me levantaba y me vestía, pensé en lo que había sucedido y me pregunté si era un sueño. No podía estar…»",
+      "start": 2357,
+      "end": 2586
+    },
+    {
+      "slug": "capitulo-25",
+      "title": "Capítulo XXV",
+      "summary": "Empieza: «El mes de cortejo se había consumido; sus últimas horas estaban siendo contadas. No había forma de aplazar el día que avanzaba…»",
+      "start": 2587,
+      "end": 2700
+    },
+    {
+      "slug": "capitulo-26",
+      "title": "Capítulo XXVI",
+      "summary": "Empieza: «Sophie vino a las siete a vestirme. Se demoró mucho, en verdad, en cumplir su tarea; tanto que el señor Rochester, supongo…»",
+      "start": 2701,
+      "end": 2799
+    },
+    {
+      "slug": "capitulo-27",
+      "title": "Capítulo XXVII",
+      "summary": "Empieza: «En algún momento de la tarde levanté la cabeza y, mirando a mi alrededor y viendo el sol poniente dorar en la…»",
+      "start": 2800,
+      "end": 2966
+    },
+    {
+      "slug": "capitulo-28",
+      "title": "Capítulo XXVIII",
+      "summary": "Empieza: «Han pasado dos días. Es una tarde de verano; el cochero me ha dejado en un lugar llamado Whitcross; no podía llevarme…»",
+      "start": 2967,
+      "end": 3119
+    },
+    {
+      "slug": "capitulo-29",
+      "title": "Capítulo XXIX",
+      "summary": "Empieza: «El recuerdo de unos tres días y tres noches posteriores a esto es muy vago en mi mente. Puedo recordar algunas sensaciones…»",
+      "start": 3120,
+      "end": 3253
+    },
+    {
+      "slug": "capitulo-30",
+      "title": "Capítulo XXX",
+      "summary": "Empieza: «Cuanto más conocía a los moradores de Moor House, más me gustaban. En pocos días había recuperado tanto mi salud que podía…»",
+      "start": 3254,
+      "end": 3327
+    },
+    {
+      "slug": "capitulo-31",
+      "title": "Capítulo XXXI",
+      "summary": "Empieza: «Mi hogar, entonces, cuando por fin encuentro un hogar, es una cabaña; una pequeña habitación con paredes encaladas y un suelo enarenado,…»",
+      "start": 3328,
+      "end": 3383
+    },
+    {
+      "slug": "capitulo-32",
+      "title": "Capítulo XXXII",
+      "summary": "Empieza: «Continué las labores de la escuela del pueblo tan activamente y fielmente como pude. Al principio fue un trabajo verdaderamente duro. Pasó…»",
+      "start": 3384,
+      "end": 3459
+    },
+    {
+      "slug": "capitulo-33",
+      "title": "Capítulo XXXIII",
+      "summary": "Empieza: «Cuando el señor St. John se fue, empezaba a nevar; la tormenta arremolinada continuó toda la noche. Al día siguiente, un viento…»",
+      "start": 3460,
+      "end": 3607
+    },
+    {
+      "slug": "capitulo-34",
+      "title": "Capítulo XXXIV",
+      "summary": "Empieza: «Era cerca de Navidad para cuando todo se hubo arreglado. Se acercaba la temporada de vacaciones generales. Cerré entonces la escuela de…»",
+      "start": 3608,
+      "end": 3773
+    },
+    {
+      "slug": "capitulo-35",
+      "title": "Capítulo XXXV",
+      "summary": "Empieza: «No se fue a Cambridge al día siguiente, como había dicho que haría. Aplazó su partida una semana entera y, durante ese…»",
+      "start": 3774,
+      "end": 3876
+    },
+    {
+      "slug": "capitulo-36",
+      "title": "Capítulo XXXVI",
+      "summary": "Empieza: «Llegó la luz del día. Me levanté al amanecer. Me ocupé durante una o dos horas en arreglar mis cosas en mi…»",
+      "start": 3877,
+      "end": 4249
+    },
+    {
+      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
+      "title": "¡Gracias por leer este libro de www.elejandria.com!",
+      "summary": "Empieza: «»",
+      "start": 4250,
+      "end": 4251
+    }
+  ],
+  "inner_titles": true,
+  "description": "Jane Eyre de Charlotte Brontë: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela sobre la independencia, la pasión y la dignidad.",
+  "intro": "<p>Jane Eyre, huérfana maltratada por su tía y formada en un internado severo, se emplea como institutriz en Thornfield Hall, la mansión de Edward Rochester. Entre ambos nace una atracción profunda, desigual en clase social pero igualitaria en espíritu.</p><p>Aquí puedes leer Jane Eyre completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 115
+  },
+  "ficha": {
+    "genero": "Novela",
+    "unidad": "capítulos",
+    "tema": "la independencia, la pasión y la dignidad",
+    "resumen": [
+      "Jane Eyre, huérfana maltratada por su tía y formada en un internado severo, se emplea como institutriz en Thornfield Hall, la mansión de Edward Rochester. Entre ambos nace una atracción profunda, desigual en clase social pero igualitaria en espíritu.",
+      "El día de la boda, Jane descubre que Rochester ya está casado: su esposa, Bertha Mason, vive encerrada en el desván, enloquecida. Jane huye. Tras encontrar refugio con la familia Rivers y descubrir que ha heredado una fortuna, vuelve a Thornfield. La mansión ha ardido, Bertha ha muerto y Rochester está ciego. Jane lo encuentra y se casan como iguales."
+    ],
+    "personajes": [
+      [
+        "Jane Eyre",
+        "Huérfana de carácter fuerte que busca independencia y amor."
+      ],
+      [
+        "Edward Rochester",
+        "Dueño de Thornfield, apasionado y atormentado."
+      ],
+      [
+        "Bertha Mason",
+        "Primera esposa de Rochester, encerrada en el desván."
+      ],
+      [
+        "St. John Rivers",
+        "Clérigo que quiere casarse con Jane por conveniencia misionera."
+      ],
+      [
+        "Mrs. Reed",
+        "Tía cruel que maltrata a Jane de niña."
+      ]
+    ],
+    "ideas": [
+      "La igualdad entre hombre y mujer.",
+      "La dignidad personal frente a la clase social.",
+      "La pasión contenida por los principios.",
+      "La mujer encerrada en el desván: lo oculto y lo reprimido."
+    ],
+    "faq": [
+      [
+        "¿De qué trata Jane Eyre?",
+        "De una huérfana que se hace institutriz, se enamora de su señor y descubre su secreto: una esposa loca encerrada en el desván."
+      ],
+      [
+        "¿Cómo termina?",
+        "Thornfield arde, Bertha muere, Rochester queda ciego y Jane vuelve a casarse con él como su igual."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1847, bajo el seudónimo Currer Bell."
+      ]
+    ]
+  }
+}

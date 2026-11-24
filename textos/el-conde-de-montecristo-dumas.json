@@ -1,0 +1,263 @@
+{
+  "slug": "el-conde-de-montecristo-dumas",
+  "title": "El conde de Montecristo",
+  "author": "Alejandro Dumas",
+  "author_route": "",
+  "book_route": "/el-conde-de-montecristo-dumas/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://www.elejandria.com/libro/el-conde-de-montecristo/alejandro-dumas-padre/1290",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "inicio",
+      "title": "Inicio",
+      "summary": "Empieza: «El conde de Montecristo»",
+      "start": 0,
+      "end": 1
+    },
+    {
+      "slug": "alejandro-dumas",
+      "title": "Alejandro Dumas",
+      "summary": "Empieza: «»",
+      "start": 2,
+      "end": 3
+    },
+    {
+      "slug": "parte-3",
+      "title": "Parte 3",
+      "summary": "Empieza: «PRIMERA PARTE»",
+      "start": 4,
+      "end": 5
+    },
+    {
+      "slug": "el-castillo-de-if",
+      "title": "EL CASTILLO DE IF",
+      "summary": "Empieza: «Capítulo primero: Marsella. La llegada»",
+      "start": 6,
+      "end": 2814
+    },
+    {
+      "slug": "parte-5",
+      "title": "Parte 5",
+      "summary": "Empieza: «con el interés más vivo:»",
+      "start": 2815,
+      "end": 5623
+    },
+    {
+      "slug": "parte-6",
+      "title": "Parte 6",
+      "summary": "Empieza: «amistad creció con el agradecimiento.»",
+      "start": 5624,
+      "end": 8433
+    },
+    {
+      "slug": "parte-7",
+      "title": "Parte 7",
+      "summary": "Empieza: «guntó Faria-. Creedme, sé bien lo que me digo.»",
+      "start": 8434,
+      "end": 11242
+    },
+    {
+      "slug": "simbad-el-marino",
+      "title": "SIMBAD EL MARINO",
+      "summary": "Empieza: «Capítulo primero: Fascinación»",
+      "start": 11243,
+      "end": 14081
+    },
+    {
+      "slug": "parte-9",
+      "title": "Parte 9",
+      "summary": "Empieza: «Bien, amigos míos -dijo el señor Morrel-,»",
+      "start": 14082,
+      "end": 16920
+    },
+    {
+      "slug": "parte-10",
+      "title": "Parte 10",
+      "summary": "Empieza: «Mostradnos el reloj -dijo Alberto.»",
+      "start": 16921,
+      "end": 19759
+    },
+    {
+      "slug": "parte-11",
+      "title": "Parte 11",
+      "summary": "Empieza: «excelentes cigarros de la Habana, y os suplico»",
+      "start": 19760,
+      "end": 22598
+    },
+    {
+      "slug": "parte-12",
+      "title": "Parte 12",
+      "summary": "Empieza: «Vamos, no os hagáis el indiferente y confe-»",
+      "start": 22599,
+      "end": 25438
+    },
+    {
+      "slug": "parte-13",
+      "title": "Parte 13",
+      "summary": "Empieza: «próxima cita, y para que no se me escapase al-»",
+      "start": 25439,
+      "end": 28277
+    },
+    {
+      "slug": "parte-14",
+      "title": "Parte 14",
+      "summary": "Empieza: «el azote de Dios», para que fuese revelada la»",
+      "start": 28278,
+      "end": 31116
+    },
+    {
+      "slug": "parte-15",
+      "title": "Parte 15",
+      "summary": "Empieza: «un pueblo singular. Diríase que es la primera»",
+      "start": 31117,
+      "end": 33955
+    },
+    {
+      "slug": "parte-16",
+      "title": "Parte 16",
+      "summary": "Empieza: «rio-, está claro...»",
+      "start": 33956,
+      "end": 36795
+    },
+    {
+      "slug": "parte-17",
+      "title": "Parte 17",
+      "summary": "Empieza: «oídos desde la mañana hasta la noche; ese dine-»",
+      "start": 36796,
+      "end": 39634
+    },
+    {
+      "slug": "parte-18",
+      "title": "Parte 18",
+      "summary": "Empieza: «tonados en derredor suyo, abrió un cajón de su»",
+      "start": 39635,
+      "end": 42473
+    },
+    {
+      "slug": "parte-19",
+      "title": "Parte 19",
+      "summary": "Empieza: «ñasen, y subió al carruaje con el general, des-»",
+      "start": 42474,
+      "end": 45312
+    },
+    {
+      "slug": "parte-20",
+      "title": "Parte 20",
+      "summary": "Empieza: «Las miradas de Noirtier, al ver así a Barrois,»",
+      "start": 45313,
+      "end": 48151
+    },
+    {
+      "slug": "parte-21",
+      "title": "Parte 21",
+      "summary": "Empieza: «go?»",
+      "start": 48152,
+      "end": 50990
+    },
+    {
+      "slug": "parte-22",
+      "title": "Parte 22",
+      "summary": "Empieza: «tando su cabeza con fiereza, y como si dirigiese»",
+      "start": 50991,
+      "end": 53829
+    },
+    {
+      "slug": "parte-23",
+      "title": "Parte 23",
+      "summary": "Empieza: «Dejemos de momento a la señorita de Dan-»",
+      "start": 53830,
+      "end": 56668
+    },
+    {
+      "slug": "chaise",
+      "title": "chaise",
+      "summary": "Empieza: «El señor de Boville había encontrado en efecto»",
+      "start": 56669,
+      "end": 59937
+    },
+    {
+      "slug": "parte-25",
+      "title": "Parte 25",
+      "summary": "Empieza: «sienes llenarse de espíritus ardientes que pa-»",
+      "start": 59938,
+      "end": 63206
+    },
+    {
+      "slug": "fin-gracias-por-leer-este-libro-de-www-elejandria-com",
+      "title": "FIN. ¡Gracias por leer este libro de www.elejandria.com!",
+      "summary": "Empieza: «»",
+      "start": 63207,
+      "end": 63208
+    }
+  ],
+  "inner_titles": true,
+  "description": "El conde de Montecristo de Alejandro Dumas: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela de aventuras sobre la venganza, la justicia y la redención.",
+  "intro": "<p>Edmundo Dantés, un joven marinero de Marsella, está a punto de casarse con Mercedes y de ser nombrado capitán cuando tres hombres lo traicionan por envidia, ambición y cobardía. Es encarcelado sin juicio en el castillo de If, donde pasa catorce años.</p><p>Aquí puedes leer El conde de Montecristo completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "negro",
+    "number": 104
+  },
+  "ficha": {
+    "genero": "Novela de aventuras",
+    "unidad": "capítulos",
+    "tema": "la venganza, la justicia y la redención",
+    "resumen": [
+      "Edmundo Dantés, un joven marinero de Marsella, está a punto de casarse con Mercedes y de ser nombrado capitán cuando tres hombres lo traicionan por envidia, ambición y cobardía. Es encarcelado sin juicio en el castillo de If, donde pasa catorce años.",
+      "En la prisión conoce al abate Faria, que lo educa y le revela el secreto de un tesoro inmenso en la isla de Montecristo. Tras escapar y hacerse con la fortuna, Dantés se transforma en el misterioso conde de Montecristo y regresa a París para destruir uno a uno a quienes lo traicionaron. Es la gran novela de la venganza."
+    ],
+    "personajes": [
+      [
+        "Edmundo Dantés / Conde de Montecristo",
+        "Marinero inocente que se convierte en vengador."
+      ],
+      [
+        "Mercedes",
+        "Prometida de Dantés, que se casa con su enemigo."
+      ],
+      [
+        "Fernán Mondego",
+        "Amigo traidor que se queda con Mercedes."
+      ],
+      [
+        "Danglars",
+        "Contador envidioso que escribe la denuncia."
+      ],
+      [
+        "Villefort",
+        "Fiscal que lo condena sabiendo que es inocente."
+      ],
+      [
+        "Abate Faria",
+        "Preso que educa a Dantés y le revela el tesoro."
+      ]
+    ],
+    "ideas": [
+      "La venganza como motor narrativo.",
+      "La transformación del inocente en justiciero.",
+      "El poder del dinero y del conocimiento.",
+      "Los límites de la justicia personal."
+    ],
+    "faq": [
+      [
+        "¿De qué trata El conde de Montecristo?",
+        "De un hombre inocente que es encarcelado, escapa, se hace rico y vuelve para vengarse de quienes lo traicionaron."
+      ],
+      [
+        "¿Cuánto tiempo pasa Dantés en prisión?",
+        "Catorce años en el castillo de If, una isla frente a Marsella."
+      ],
+      [
+        "¿Cómo termina?",
+        "Después de destruir a sus tres enemigos, Dantés renuncia a la venganza y parte con Haydée hacia una nueva vida."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "Por entregas entre 1844 y 1846."
+      ]
+    ]
+  }
+}

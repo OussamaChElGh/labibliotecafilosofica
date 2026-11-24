@@ -1,0 +1,113 @@
+{
+  "slug": "el-sueno-de-un-hombre-ridiculo-dostoyevski",
+  "title": "El sueño de un hombre ridículo",
+  "author": "Fiódor Dostoyevski",
+  "author_route": "",
+  "book_route": "/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
+  "translator": "",
+  "edition": "",
+  "source_url": "https://www.elejandria.com/libro/el-sueno-de-un-hombre-ridiculo/dostoyevski-fiodor/2083",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "fiodor-dostoyevski",
+      "title": "Fiódor Dostoyevski",
+      "summary": "Empieza: «»",
+      "start": 1,
+      "end": 2
+    },
+    {
+      "slug": "el-sueno-de-un-hombre-ridiculo",
+      "title": "El sueño de un hombre ridículo",
+      "summary": "Empieza: «»",
+      "start": 3,
+      "end": 4
+    },
+    {
+      "slug": "capitulo-1",
+      "title": "I",
+      "summary": "Empieza: «\"Soy una persona ridícula. Ahora me llaman loco. Eso sería un ascenso si no fuera porque sigo siendo tan ridículo a sus…»",
+      "start": 5,
+      "end": 11
+    },
+    {
+      "slug": "capitulo-2",
+      "title": "II",
+      "summary": "Empieza: «Verás, aunque nada me importaba, podía sentir dolor, por ejemplo. Si alguien me hubiera pinchado, me habría dolido. Era lo mismo moralmente:…»",
+      "start": 12,
+      "end": 15
+    },
+    {
+      "slug": "capitulo-3",
+      "title": "III",
+      "summary": "Empieza: «He mencionado que me quedé dormido sin darme cuenta y parecía seguir reflexionando sobre los mismos temas. De repente soñé que tomaba…»",
+      "start": 16,
+      "end": 31
+    },
+    {
+      "slug": "capitulo-4",
+      "title": "IV",
+      "summary": "Empieza: «¿Y sabes qué? Bueno, concediendo que solo fue un sueño, sin embargo, la sensación del amor de esas personas inocentes y hermosas…»",
+      "start": 32,
+      "end": 37
+    },
+    {
+      "slug": "capitulo-5",
+      "title": "V",
+      "summary": "Empieza: «Sí, sí, ¡terminó en que los corrompí a todos! Cómo sucedió, no lo sé, pero lo recuerdo claramente. El sueño abarcó miles…»",
+      "start": 38,
+      "end": 43
+    },
+    {
+      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
+      "title": "¡Gracias por leer este libro de www.elejandria.com!",
+      "summary": "Empieza: «»",
+      "start": 44,
+      "end": 45
+    }
+  ],
+  "inner_titles": true,
+  "description": "El sueño de un hombre ridículo de Fiódor Dostoyevski: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Relato sobre la utopía, la caída y la verdad del corazón.",
+  "intro": "<p>Un funcionario de San Petersburgo, que se considera ridículo y ya no siente nada, decide suicidarse. Esa noche, una niña le pide ayuda en la calle y él la rechaza; después se queda dormido con el revólver en la mano y sueña.</p><p>Aquí puedes leer El sueño de un hombre ridículo completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "cover": {
+    "color": "verde",
+    "number": 105
+  },
+  "ficha": {
+    "genero": "Relato",
+    "unidad": "capítulos",
+    "tema": "la utopía, la caída y la verdad del corazón",
+    "resumen": [
+      "Un funcionario de San Petersburgo, que se considera ridículo y ya no siente nada, decide suicidarse. Esa noche, una niña le pide ayuda en la calle y él la rechaza; después se queda dormido con el revólver en la mano y sueña.",
+      "En el sueño viaja a otro planeta donde los seres humanos viven en inocencia y armonía. Pero su sola presencia los corrompe: aprenden a mentir, a envidiarse, a guerrear. Al despertar, el hombre ridículo ha cambiado: sabe que la verdad existe porque la ha visto, y sale a predicarla aunque todos se rían de él."
+    ],
+    "personajes": [
+      [
+        "El hombre ridículo",
+        "Narrador, funcionario desesperado que viaja en sueños."
+      ]
+    ],
+    "ideas": [
+      "La verdad se conoce con el corazón, no con la razón.",
+      "La corrupción de la inocencia por el conocimiento del mal.",
+      "El sufrimiento como despertar.",
+      "La utopía como reproche a la realidad."
+    ],
+    "faq": [
+      [
+        "¿Es un cuento o una novela?",
+        "Un relato largo, de unas treinta páginas."
+      ],
+      [
+        "¿Qué pasa en el sueño?",
+        "El narrador viaja a un planeta utópico y lo corrompe con su presencia, repitiendo la historia del pecado original."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1877, como parte del Diario de un escritor."
+      ]
+    ]
+  }
+}

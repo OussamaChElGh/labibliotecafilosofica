@@ -1,6 +1,4 @@
-H|Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público¡Esperamos que lo disfrutéis!
 H|Alexandre Dumas
-H|Publicado: 1848Fuente: Project GutenbergEdición: Editorial Ramón Sopena, Barcelona, 1912
 H|Parte 2
 H|Notas del transcriptor
 P|La historia desarrollada fue musicalmente inmortalizada por Giuseppe Verdi en su ópera Traviata, posiblemente una de las obras más apreciadas del repertorio operístico de todos los tiempos.
@@ -2505,5 +2503,3 @@ P|Creo haber cumplido un deber.
 P|No soy el apóstol del vicio, pero siempre me haré eco de la desgracia dondequiera que la oiga gemir.
 P|Lo he dicho y repito: la historia de Margarita es una excepción; pues a ser una generalidad no merecía el trabajo de escribirse.
 H|Fin
-H|¡Gracias por leer este libro de www.elejandria.com!
-H|Descubre nuestra colección de obras de dominio público en castellano en nuestra web

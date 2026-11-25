@@ -5,228 +5,213 @@
   "author_route": "",
   "book_route": "/la-dama-de-las-camelias-dumas/",
   "translator": "",
-  "edition": "",
   "source_url": "https://www.elejandria.com/libro/la-dama-de-las-camelias/alejandro-dumas-hijo/1299",
   "license": "Dominio público",
   "license_url": "",
   "speakers": {},
   "chapters": [
     {
-      "slug": "alexandre-dumas",
-      "title": "Alexandre Dumas",
-      "summary": "Empieza: «»",
-      "start": 1,
-      "end": 2
-    },
-    {
       "slug": "parte-2",
       "title": "Parte 2",
       "summary": "Empieza: «La historia desarrollada fue musicalmente inmortalizada por Giuseppe Verdi en su ópera Traviata, posiblemente una de las obras más apreciadas del repertorio…»",
-      "start": 3,
-      "end": 9
+      "start": 1,
+      "end": 7
     },
     {
       "slug": "biblioteca-de-grandes-novelas-la-dama-de-las-camelias",
       "title": "Biblioteca de grandes novelas. La dama de las camelias",
       "summary": "Empieza: «Barcelona Casa editorial sopena Provenza, 95»",
-      "start": 10,
-      "end": 12
+      "start": 8,
+      "end": 10
     },
     {
       "slug": "capitulo-1",
       "title": "Capítulo I",
       "summary": "Empieza: «Tengo la convicción de que no se pueden crear personajes sin haber estudiado mucho la humanidad, como de que no se puede…»",
-      "start": 13,
-      "end": 67
+      "start": 11,
+      "end": 65
     },
     {
       "slug": "capitulo-2",
       "title": "Capítulo II",
       "summary": "Empieza: «El día diez y seis era el señalado para la venta.»",
-      "start": 68,
-      "end": 122
+      "start": 66,
+      "end": 120
     },
     {
       "slug": "capitulo-3",
       "title": "Capítulo III",
       "summary": "Empieza: «Próximamente a la una de la tarde del día diez y seis, me dirigí a la calle de Antín; desde la puerta…»",
-      "start": 123,
-      "end": 179
+      "start": 121,
+      "end": 177
     },
     {
       "slug": "capitulo-4",
       "title": "Capítulo IV",
       "summary": "Empieza: «A los dos días terminó la venta, que produjo ciento cincuenta mil francos.»",
-      "start": 180,
-      "end": 266
+      "start": 178,
+      "end": 264
     },
     {
       "slug": "capitulo-5",
       "title": "Capítulo V",
       "summary": "Empieza: «Transcurrieron muchos días sin que oyese hablar de Armando; en cambio, se hablaba bastante de Margarita.»",
-      "start": 267,
-      "end": 363
+      "start": 265,
+      "end": 361
     },
     {
       "slug": "capitulo-6",
       "title": "Capítulo VI",
       "summary": "Empieza: «Me dirigí inmediatamente a su casa. Estaba en cama.»",
-      "start": 364,
-      "end": 477
+      "start": 362,
+      "end": 475
     },
     {
       "slug": "capitulo-7",
       "title": "Capítulo VII",
       "summary": "Empieza: «Esta clase de enfermedades matan en seguida o se dejan vencer fácilmente.»",
-      "start": 478,
-      "end": 600
+      "start": 476,
+      "end": 598
     },
     {
       "slug": "capitulo-8",
       "title": "Capítulo VIII",
       "summary": "Empieza: «Y es el caso, que a un tiempo mismo que yo reconocía estar todavía enamorado, me sentía más fuerte que antes, y…»",
-      "start": 601,
-      "end": 698
+      "start": 599,
+      "end": 696
     },
     {
       "slug": "capitulo-9",
       "title": "Capítulo IX",
       "summary": "Empieza: «Muy buenas noches, querido Gastón—dijo Margarita a mi amigo;—me alegro de veros. ¿Por qué no me habéis visitado antes en mi palco?»",
-      "start": 699,
-      "end": 826
+      "start": 697,
+      "end": 824
     },
     {
       "slug": "capitulo-10",
       "title": "Capítulo X",
       "summary": "Empieza: «Fuí al cuarto de Margarita y en realidad más me valiera no haber ido.»",
-      "start": 827,
-      "end": 989
+      "start": 825,
+      "end": 987
     },
     {
       "slug": "capitulo-11",
       "title": "Capítulo XI",
       "summary": "Empieza: «Al llegar Armando a este punto, suspendió un momento su narración.»",
-      "start": 990,
-      "end": 1137
+      "start": 988,
+      "end": 1135
     },
     {
       "slug": "capitulo-12",
       "title": "Capítulo XII",
       "summary": "Empieza: «Los primeros albores del naciente día empezaron a penetrar al través de las cortinillas, cuando Margarita me dijo:»",
-      "start": 1138,
-      "end": 1223
+      "start": 1136,
+      "end": 1221
     },
     {
       "slug": "capitulo-13",
       "title": "Capítulo XIII",
       "summary": "Empieza: «Llegáis casi al mismo tiempo que nosotros—dijo Prudencia.»",
-      "start": 1224,
-      "end": 1308
+      "start": 1222,
+      "end": 1306
     },
     {
       "slug": "capitulo-14",
       "title": "Capítulo XIV",
       "summary": "Empieza: «Cuando volví a mi casa, me puse a llorar como un niño. No hay hombre alguno que haya sido engañado alguna vez…»",
-      "start": 1309,
-      "end": 1426
+      "start": 1307,
+      "end": 1424
     },
     {
       "slug": "capitulo-15",
       "title": "Capítulo XV",
       "summary": "Empieza: «Haría como cosa de una hora que llevaba ocupado en hacer los preparativos de mi viaje, cuando llamaron fuertemente a la puerta.»",
-      "start": 1427,
-      "end": 1494
+      "start": 1425,
+      "end": 1492
     },
     {
       "slug": "capitulo-16",
       "title": "Capítulo XVI",
       "summary": "Empieza: «Más fácil me hubiera sido—dijo Armando—contaros en pocas palabras el principio de estas relaciones; pero deseaba que vierais detalladamente por qué gradación…»",
-      "start": 1495,
-      "end": 1555
+      "start": 1493,
+      "end": 1553
     },
     {
       "slug": "capitulo-17",
       "title": "Capítulo XVII",
       "summary": "Empieza: «Al día siguiente muy temprano despidióme Margarita, diciéndome que el duque debía llegar muy de mañana y prometiendo escribirme en cuanto éste…»",
-      "start": 1556,
-      "end": 1620
+      "start": 1554,
+      "end": 1618
     },
     {
       "slug": "capitulo-18",
       "title": "Capítulo XVIII",
       "summary": "Empieza: «Resultaría una tarea harto pesada explicar con todos sus pormenores la vida que llevábamos, compuesta de una serie de niñerías sublimes y…»",
-      "start": 1621,
-      "end": 1705
+      "start": 1619,
+      "end": 1703
     },
     {
       "slug": "capitulo-19",
       "title": "Capítulo XIX",
       "summary": "Empieza: «Abrí las cartas de mi padre. En las tres primeras me manifestaba el cuidado en que mi silencio le tenía, y me…»",
-      "start": 1706,
-      "end": 1779
+      "start": 1704,
+      "end": 1777
     },
     {
       "slug": "capitulo-20",
       "title": "Capítulo XX",
       "summary": "Empieza: «Cuando llegué a mi casa, encontré a mi padre sentado y escribiendo.»",
-      "start": 1780,
-      "end": 1855
+      "start": 1778,
+      "end": 1853
     },
     {
       "slug": "capitulo-21",
       "title": "Capítulo XXI",
       "summary": "Empieza: «¡Al fin llegas!—exclamó Margarita estrechándome entre sus brazos.—¡Qué pálido estás!»",
-      "start": 1856,
-      "end": 1961
+      "start": 1854,
+      "end": 1959
     },
     {
       "slug": "capitulo-22",
       "title": "Capítulo XXII",
       "summary": "Empieza: «El tren me parecía que no andaba.»",
-      "start": 1962,
-      "end": 2059
+      "start": 1960,
+      "end": 2057
     },
     {
       "slug": "capitulo-23",
       "title": "Capítulo XXIII",
       "summary": "Empieza: «Al amanecer del día siguiente no podía creer que éste fuera para mí semejante a los que le precedieron. En ciertos momentos…»",
-      "start": 2060,
-      "end": 2159
+      "start": 2058,
+      "end": 2157
     },
     {
       "slug": "capitulo-24",
       "title": "Capítulo XXIV",
       "summary": "Empieza: «Ya tenía dado el primer paso en mi venganza, pero sólo el primero. Comprendía el imperio que aún tenía sobre aquella mujer,…»",
-      "start": 2160,
-      "end": 2299
+      "start": 2158,
+      "end": 2297
     },
     {
       "slug": "capitulo-25",
       "title": "Capítulo XXV",
       "summary": "Empieza: «Fatigado Armando con su larga relación, interrumpida sólo por sus lágrimas, dejó caer la frente entre sus manos y cerró los ojos,…»",
-      "start": 2300,
-      "end": 2355
+      "start": 2298,
+      "end": 2353
     },
     {
       "slug": "capitulo-26",
       "title": "Capítulo XXVI",
       "summary": "Empieza: ««Todo lo que ha ocurrido desde aquella noche fatal, lo sabes tan bien como yo: pero lo que ignoras, lo que no…»",
-      "start": 2356,
-      "end": 2482
+      "start": 2354,
+      "end": 2480
     },
     {
       "slug": "capitulo-27",
       "title": "Capítulo XXVII",
       "summary": "Empieza: «¿Estáis enterado?—preguntó Armando cuando yo terminaba la lectura del manuscrito.»",
-      "start": 2483,
-      "end": 2506
-    },
-    {
-      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
-      "title": "¡Gracias por leer este libro de www.elejandria.com!",
-      "summary": "Empieza: «»",
-      "start": 2507,
-      "end": 2508
+      "start": 2481,
+      "end": 2504
     }
   ],
   "inner_titles": true,

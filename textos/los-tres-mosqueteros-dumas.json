@@ -5,7 +5,6 @@
   "author_route": "",
   "book_route": "/los-tres-mosqueteros-dumas/",
   "translator": "",
-  "edition": "",
   "source_url": "https://www.elejandria.com/libro/los-tres-mosqueteros/alejandro-dumas-padre/1292",
   "license": "Dominio público",
   "license_url": "",
@@ -19,81 +18,67 @@
       "end": 1
     },
     {
-      "slug": "alejandro-dumas",
-      "title": "Alejandro Dumas",
-      "summary": "Empieza: «»",
-      "start": 2,
-      "end": 3
-    },
-    {
       "slug": "parte-3",
       "title": "Parte 3",
       "summary": "Empieza: «Prefacio»",
-      "start": 4,
-      "end": 2597
+      "start": 3,
+      "end": 2596
     },
     {
       "slug": "parte-4",
       "title": "Parte 4",
       "summary": "Empieza: «¡Los guardias del cardenal! -gritaron a la vez»",
-      "start": 2598,
-      "end": 5196
+      "start": 2597,
+      "end": 5195
     },
     {
       "slug": "para-conducirlo-a-la-bastilla",
       "title": "para conducirlo a la Bastilla.",
       "summary": "Empieza: «¡Mi marido en la Bastilla! -exclamó la señora»",
-      "start": 5197,
-      "end": 8517
+      "start": 5196,
+      "end": 8516
     },
     {
       "slug": "parte-6",
       "title": "Parte 6",
       "summary": "Empieza: «¡Y bien, señor duque! -dijo el rey-. ¿Habéis»",
-      "start": 8518,
-      "end": 11839
+      "start": 8517,
+      "end": 11838
     },
     {
       "slug": "parte-7",
       "title": "Parte 7",
       "summary": "Empieza: «mensidad en que duerme París, vacía, abierta»",
-      "start": 11840,
-      "end": 15160
+      "start": 11839,
+      "end": 15159
     },
     {
       "slug": "parte-8",
       "title": "Parte 8",
       "summary": "Empieza: «montar en la grupa, tendríamos la pinta de los»",
-      "start": 15161,
-      "end": 18482
+      "start": 15160,
+      "end": 18481
     },
     {
       "slug": "parte-9",
       "title": "Parte 9",
       "summary": "Empieza: «¡Interesado! -dijo ella sonriendo.»",
-      "start": 18483,
-      "end": 21804
+      "start": 18482,
+      "end": 21803
     },
     {
       "slug": "parte-10",
       "title": "Parte 10",
       "summary": "Empieza: «le decir cosas que recuerde, incluso cosas que»",
-      "start": 21805,
-      "end": 25126
+      "start": 21804,
+      "end": 25125
     },
     {
       "slug": "parte-11",
       "title": "Parte 11",
       "summary": "Empieza: «giros rápidos que siempre tenía a su disposi-»",
-      "start": 25127,
-      "end": 31767
-    },
-    {
-      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
-      "title": "¡Gracias por leer este libro de www.elejandria.com!",
-      "summary": "Empieza: «»",
-      "start": 31768,
-      "end": 31769
+      "start": 25126,
+      "end": 31766
     }
   ],
   "inner_titles": true,

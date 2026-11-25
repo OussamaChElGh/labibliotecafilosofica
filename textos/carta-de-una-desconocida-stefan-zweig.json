@@ -4,33 +4,18 @@
   "author": "Stefan Zweig",
   "author_route": "",
   "book_route": "/carta-de-una-desconocida-stefan-zweig/",
-  "translator": "",
-  "edition": "",
+  "translator": "Elejandría",
   "source_url": "https://www.elejandria.com/libro/carta-de-una-desconocida/zweig-stefan/2389",
   "license": "Dominio público",
   "license_url": "",
   "speakers": {},
   "chapters": [
     {
-      "slug": "stefan-zweig",
-      "title": "Stefan Zweig",
-      "summary": "Empieza: «»",
-      "start": 1,
-      "end": 2
-    },
-    {
       "slug": "carta-de-una-desconocida",
       "title": "Carta de una desconocida",
       "summary": "Empieza: «Cuando el conocido novelista R. regresó a Viena una mañana temprano, tras una reconfortante excursión de tres días por la montaña, y…»",
-      "start": 3,
-      "end": 102
-    },
-    {
-      "slug": "fin-gracias-por-leer-este-libro-de-www-elejandria-com",
-      "title": "Fin. ¡Gracias por leer este libro de www.elejandria.com!",
-      "summary": "Empieza: «»",
-      "start": 103,
-      "end": 104
+      "start": 1,
+      "end": 100
     }
   ],
   "inner_titles": true,

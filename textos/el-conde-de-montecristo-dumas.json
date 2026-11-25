@@ -5,7 +5,6 @@
   "author_route": "",
   "book_route": "/el-conde-de-montecristo-dumas/",
   "translator": "",
-  "edition": "",
   "source_url": "https://www.elejandria.com/libro/el-conde-de-montecristo/alejandro-dumas-padre/1290",
   "license": "Dominio público",
   "license_url": "",
@@ -19,179 +18,165 @@
       "end": 1
     },
     {
-      "slug": "alejandro-dumas",
-      "title": "Alejandro Dumas",
-      "summary": "Empieza: «»",
-      "start": 2,
-      "end": 3
-    },
-    {
       "slug": "parte-3",
       "title": "Parte 3",
       "summary": "Empieza: «PRIMERA PARTE»",
-      "start": 4,
-      "end": 5
+      "start": 3,
+      "end": 4
     },
     {
       "slug": "el-castillo-de-if",
       "title": "EL CASTILLO DE IF",
       "summary": "Empieza: «Capítulo primero: Marsella. La llegada»",
-      "start": 6,
-      "end": 2814
+      "start": 5,
+      "end": 2813
     },
     {
       "slug": "parte-5",
       "title": "Parte 5",
       "summary": "Empieza: «con el interés más vivo:»",
-      "start": 2815,
-      "end": 5623
+      "start": 2814,
+      "end": 5622
     },
     {
       "slug": "parte-6",
       "title": "Parte 6",
       "summary": "Empieza: «amistad creció con el agradecimiento.»",
-      "start": 5624,
-      "end": 8433
+      "start": 5623,
+      "end": 8432
     },
     {
       "slug": "parte-7",
       "title": "Parte 7",
       "summary": "Empieza: «guntó Faria-. Creedme, sé bien lo que me digo.»",
-      "start": 8434,
-      "end": 11242
+      "start": 8433,
+      "end": 11241
     },
     {
       "slug": "simbad-el-marino",
       "title": "SIMBAD EL MARINO",
       "summary": "Empieza: «Capítulo primero: Fascinación»",
-      "start": 11243,
-      "end": 14081
+      "start": 11242,
+      "end": 14080
     },
     {
       "slug": "parte-9",
       "title": "Parte 9",
       "summary": "Empieza: «Bien, amigos míos -dijo el señor Morrel-,»",
-      "start": 14082,
-      "end": 16920
+      "start": 14081,
+      "end": 16919
     },
     {
       "slug": "parte-10",
       "title": "Parte 10",
       "summary": "Empieza: «Mostradnos el reloj -dijo Alberto.»",
-      "start": 16921,
-      "end": 19759
+      "start": 16920,
+      "end": 19758
     },
     {
       "slug": "parte-11",
       "title": "Parte 11",
       "summary": "Empieza: «excelentes cigarros de la Habana, y os suplico»",
-      "start": 19760,
-      "end": 22598
+      "start": 19759,
+      "end": 22597
     },
     {
       "slug": "parte-12",
       "title": "Parte 12",
       "summary": "Empieza: «Vamos, no os hagáis el indiferente y confe-»",
-      "start": 22599,
-      "end": 25438
+      "start": 22598,
+      "end": 25437
     },
     {
       "slug": "parte-13",
       "title": "Parte 13",
       "summary": "Empieza: «próxima cita, y para que no se me escapase al-»",
-      "start": 25439,
-      "end": 28277
+      "start": 25438,
+      "end": 28276
     },
     {
       "slug": "parte-14",
       "title": "Parte 14",
       "summary": "Empieza: «el azote de Dios», para que fuese revelada la»",
-      "start": 28278,
-      "end": 31116
+      "start": 28277,
+      "end": 31115
     },
     {
       "slug": "parte-15",
       "title": "Parte 15",
       "summary": "Empieza: «un pueblo singular. Diríase que es la primera»",
-      "start": 31117,
-      "end": 33955
+      "start": 31116,
+      "end": 33954
     },
     {
       "slug": "parte-16",
       "title": "Parte 16",
       "summary": "Empieza: «rio-, está claro...»",
-      "start": 33956,
-      "end": 36795
+      "start": 33955,
+      "end": 36794
     },
     {
       "slug": "parte-17",
       "title": "Parte 17",
       "summary": "Empieza: «oídos desde la mañana hasta la noche; ese dine-»",
-      "start": 36796,
-      "end": 39634
+      "start": 36795,
+      "end": 39633
     },
     {
       "slug": "parte-18",
       "title": "Parte 18",
       "summary": "Empieza: «tonados en derredor suyo, abrió un cajón de su»",
-      "start": 39635,
-      "end": 42473
+      "start": 39634,
+      "end": 42472
     },
     {
       "slug": "parte-19",
       "title": "Parte 19",
       "summary": "Empieza: «ñasen, y subió al carruaje con el general, des-»",
-      "start": 42474,
-      "end": 45312
+      "start": 42473,
+      "end": 45311
     },
     {
       "slug": "parte-20",
       "title": "Parte 20",
       "summary": "Empieza: «Las miradas de Noirtier, al ver así a Barrois,»",
-      "start": 45313,
-      "end": 48151
+      "start": 45312,
+      "end": 48150
     },
     {
       "slug": "parte-21",
       "title": "Parte 21",
       "summary": "Empieza: «go?»",
-      "start": 48152,
-      "end": 50990
+      "start": 48151,
+      "end": 50989
     },
     {
       "slug": "parte-22",
       "title": "Parte 22",
       "summary": "Empieza: «tando su cabeza con fiereza, y como si dirigiese»",
-      "start": 50991,
-      "end": 53829
+      "start": 50990,
+      "end": 53828
     },
     {
       "slug": "parte-23",
       "title": "Parte 23",
       "summary": "Empieza: «Dejemos de momento a la señorita de Dan-»",
-      "start": 53830,
-      "end": 56668
+      "start": 53829,
+      "end": 56667
     },
     {
       "slug": "chaise",
       "title": "chaise",
       "summary": "Empieza: «El señor de Boville había encontrado en efecto»",
-      "start": 56669,
-      "end": 59937
+      "start": 56668,
+      "end": 59936
     },
     {
       "slug": "parte-25",
       "title": "Parte 25",
       "summary": "Empieza: «sienes llenarse de espíritus ardientes que pa-»",
-      "start": 59938,
-      "end": 63206
-    },
-    {
-      "slug": "fin-gracias-por-leer-este-libro-de-www-elejandria-com",
-      "title": "FIN. ¡Gracias por leer este libro de www.elejandria.com!",
-      "summary": "Empieza: «»",
-      "start": 63207,
-      "end": 63208
+      "start": 59937,
+      "end": 63205
     }
   ],
   "inner_titles": true,

@@ -68,7 +68,7 @@ BOOK = {
         ("¿Qué cuento corto en inglés es más fácil para empezar?",
          "The Happy Prince de Oscar Wilde, The Story of an Hour de Kate Chopin y The Gift of the Magi de O. Henry: frases claras, vocabulario sencillo y una historia fácil de seguir."),
         ("¿Son los cuentos completos?",
-         "Sí. Son los textos originales completos, sin adaptar, tomados de las transcripciones de Wikisource de ediciones antiguas."),
+         "Sí. Son los textos originales completos, sin adaptar, revisados a partir de ediciones antiguas de dominio público."),
         ("¿Se pueden descargar en PDF?",
          "Sí. Todos los cuentos son de dominio público y puedes leerlos online o descargar el PDF de la colección completa."),
         ("¿Qué nivel de inglés hace falta?",

@@ -355,6 +355,186 @@
       "permanent": true
     },
     {
+      "source": "/leer/arsenio-lupin-leblanc/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/arsenio-lupin-leblanc/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/carta-de-una-desconocida-stefan-zweig/fin-gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/carta-de-una-desconocida-stefan-zweig/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/confianza-en-uno-mismo-emerson/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/confianza-en-uno-mismo-emerson/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/cumbres-borrascosas-emily-bronte/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-conde-de-montecristo-dumas/fin-gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/el-conde-de-montecristo-dumas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-jugador-dostoyevski/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/el-jugador-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-kybalion/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/el-kybalion/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sueno-de-un-hombre-ridiculo-dostoyevski/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/jane-eyre-charlotte-bronte/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-dama-de-las-camelias-dumas/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/la-dama-de-las-camelias-dumas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-tres-mosqueteros-dumas/gracias-por-leer-este-libro-de-www-elejandria-com/",
+      "destination": "/los-tres-mosqueteros-dumas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/maurice-leblanc/",
+      "destination": "/arsenio-lupin-leblanc/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/carta-de-una-desconocida-stefan-zweig/stefan-zweig/",
+      "destination": "/carta-de-una-desconocida-stefan-zweig/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/confianza-en-uno-mismo-emerson/ralph-waldo-emerson/",
+      "destination": "/confianza-en-uno-mismo-emerson/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/emily-bronte/",
+      "destination": "/cumbres-borrascosas-emily-bronte/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/el-arte-de-vivir-manual-de-vida-epicteto/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-conde-de-montecristo-dumas/alejandro-dumas/",
+      "destination": "/el-conde-de-montecristo-dumas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-jugador-dostoyevski/fiodor-dostoyevski/",
+      "destination": "/el-jugador-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-kybalion/kybalion-tres-iniciados/",
+      "destination": "/el-kybalion/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-retrato-de-dorian-gray-oscar-wilde/oscar-wilde/",
+      "destination": "/el-retrato-de-dorian-gray-oscar-wilde/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sueno-de-un-hombre-ridiculo-dostoyevski/fiodor-dostoyevski/",
+      "destination": "/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sueno-de-un-hombre-ridiculo-dostoyevski/el-sueno-de-un-hombre-ridiculo/",
+      "destination": "/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/charlotte-bronte/",
+      "destination": "/jane-eyre-charlotte-bronte/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-dama-de-las-camelias-dumas/alexandre-dumas/",
+      "destination": "/la-dama-de-las-camelias-dumas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/leon-tolstoi/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-tres-mosqueteros-dumas/alejandro-dumas/",
+      "destination": "/los-tres-mosqueteros-dumas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/prologo/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/tratado-cuarto/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/tratado-primero/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/tratado-quinto/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/tratado-segundo/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/tratado-septimo/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/tratado-sexto/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/tratado-tercero/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
       "source": "/leer/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
       "destination": "/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
       "permanent": true
@@ -372,6 +552,11 @@
     {
       "source": "/leer/ariel-jose-enrique-rodo/",
       "destination": "/ariel-jose-enrique-rodo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/",
+      "destination": "/arsenio-lupin-leblanc/",
       "permanent": true
     },
     {
@@ -405,8 +590,18 @@
       "permanent": true
     },
     {
+      "source": "/leer/carta-de-una-desconocida-stefan-zweig/",
+      "destination": "/carta-de-una-desconocida-stefan-zweig/",
+      "permanent": true
+    },
+    {
       "source": "/leer/clitofon-platon/",
       "destination": "/clitofon-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/confianza-en-uno-mismo-emerson/",
+      "destination": "/confianza-en-uno-mismo-emerson/",
       "permanent": true
     },
     {
@@ -437,6 +632,11 @@
     {
       "source": "/leer/cumanda-juan-leon-mera/",
       "destination": "/cumanda-juan-leon-mera/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/",
+      "destination": "/cumbres-borrascosas-emily-bronte/",
       "permanent": true
     },
     {
@@ -475,6 +675,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/el-arte-de-vivir-epicteto/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
       "source": "/leer/el-burlador-de-sevilla-tirso-de-molina/",
       "destination": "/el-burlador-de-sevilla-tirso-de-molina/",
       "permanent": true
@@ -482,6 +687,11 @@
     {
       "source": "/leer/el-buscon-francisco-de-quevedo/",
       "destination": "/el-buscon-francisco-de-quevedo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-conde-de-montecristo-dumas/",
+      "destination": "/el-conde-de-montecristo-dumas/",
       "permanent": true
     },
     {
@@ -500,6 +710,16 @@
       "permanent": true
     },
     {
+      "source": "/leer/el-jugador-dostoyevski/",
+      "destination": "/el-jugador-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-kybalion/",
+      "destination": "/el-kybalion/",
+      "permanent": true
+    },
+    {
       "source": "/leer/el-mercader-de-venecia-shakespeare/",
       "destination": "/el-mercader-de-venecia-pdf-shakespeare/",
       "permanent": true
@@ -515,6 +735,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/el-retrato-de-dorian-gray-oscar-wilde/",
+      "destination": "/el-retrato-de-dorian-gray-oscar-wilde/",
+      "permanent": true
+    },
+    {
       "source": "/leer/el-sabueso-de-los-baskerville-conan-doyle/",
       "destination": "/el-sabueso-de-los-baskerville-conan-doyle/",
       "permanent": true
@@ -522,6 +747,11 @@
     {
       "source": "/leer/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
       "destination": "/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
+      "destination": "/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
       "permanent": true
     },
     {
@@ -590,6 +820,11 @@
       "permanent": true
     },
     {
+      "source": "/leer/jane-eyre-charlotte-bronte/",
+      "destination": "/jane-eyre-charlotte-bronte/",
+      "permanent": true
+    },
+    {
       "source": "/leer/la-barraca-vicente-blasco-ibanez/",
       "destination": "/la-barraca-vicente-blasco-ibanez/",
       "permanent": true
@@ -602,6 +837,11 @@
     {
       "source": "/leer/la-celestina-fernando-de-rojas/",
       "destination": "/la-celestina-fernando-de-rojas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-dama-de-las-camelias-dumas/",
+      "destination": "/la-dama-de-las-camelias-dumas/",
       "permanent": true
     },
     {
@@ -627,6 +867,11 @@
     {
       "source": "/leer/la-metamorfosis-kafka/",
       "destination": "/la-metamorfosis-kafka/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
@@ -697,6 +942,11 @@
     {
       "source": "/leer/los-pazos-de-ulloa-emilia-pardo-bazan/",
       "destination": "/los-pazos-de-ulloa-emilia-pardo-bazan/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-tres-mosqueteros-dumas/",
+      "destination": "/los-tres-mosqueteros-dumas/",
       "permanent": true
     },
     {

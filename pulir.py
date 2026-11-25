@@ -1040,6 +1040,16 @@ def authors_index(document, categories, books):
     return document[:start] + html + document[end:]
 
 
+COMPETITORS = re.compile(r"elejandria\.com|infolibros\.org", re.I)
+
+
+def drop_competitor_links(document):
+    """Sin enlaces a webs de la competencia: el botón desaparece y un enlace en el texto queda como texto."""
+    document = re.sub(r'<p class="rights-note">Acceso legal: consulta la edición o fuente enlazada\.[^<]*</p>(?=<a class="button" href="https?://(?:www\.)?(?:elejandria|infolibros))', "", document)
+    document = re.sub(r'<a class="button[^"]*" href="https?://(?:www\.)?(?:elejandria\.com|infolibros\.org)[^"]*"[^>]*>.*?</a>', "", document)
+    return re.sub(r'<a [^>]*href="https?://(?:www\.)?(?:elejandria\.com|infolibros\.org)[^"]*"[^>]*>(.*?)</a>', r"\1", document)
+
+
 def redirected_routes():
     data = json.loads(Path("vercel.json").read_text(encoding="utf-8"))
     return {r["source"] for r in data.get("redirects", []) if ":" not in r["source"] and "(" not in r["source"]}
@@ -1125,7 +1135,7 @@ def main():
         if route == AUTHORS_INDEX:
             document = authors_index(document, categories, authors)
         document = link_author(document, author_routes)
-        document = cover_alts(fix_description(short_title(document), route, manual))
+        document = drop_competitor_links(cover_alts(fix_description(short_title(document), route, manual)))
         pages[page] = default_image(home_schema(document) if route == "/" else document)
     for page, result in pages.items():
         if result != originals[page]:

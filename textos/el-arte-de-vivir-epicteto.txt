@@ -1,8 +1,5 @@
 H|El arte de vivir: Manual de vida. Epicteto
 H|108
-H|Origen: En.Wikisource.Org
-H|Traducción: Elejandría
-H|Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público¡Esperamos que lo disfrutéis!
 H|Introducción
 P|El pequeño libro de Epicteto llamado Enquiridión o "manual" ha desempeñado un papel desproporcionadamente grande en el surgimiento de las actitudes modernas y de la filosofía moderna. Tan pronto como fue traducido a las lenguas vernáculas, se convirtió en un éxito de ventas entre los intelectuales independientes, entre los pensadores anticristianos y entre los filósofos de corte subjetivo. Montaigne tenía un ejemplar del Enquiridión entre sus libros. Pascal rechazó violentamente el orgullo megalómano del filósofo estoico. Federico el Grande llevaba el libro consigo en todas las campañas. Fue una fuente de inspiración y estímulo para Antonio, conde de Shaftesbury, en la grave enfermedad que acabó con su muerte; muchas páginas de sus diarios contienen pasajes copiados del Enquiridión. Ha sido estudiado y ampliamente citado por filósofos escoceses como Francis Hutcheson, Adam Smith y Adam Ferguson, que valoraban la filosofía moral estoica por su conciliación de la dependencia social y la independencia personal.
 P|Que haya habido un renacimiento del estoicismo en los siglos de renacimiento que marcaron el surgimiento de la era moderna no fue mera casualidad. Las condiciones filosóficas, morales y sociales de la época se unieron para provocarlo. El estoicismo romano se había desarrollado en tiempos de despotismo como una filosofía de almas solitarias y valientes que habían reconocido el poder redentor de la razón filosófica en todos los fines morales y sociales de la vida. La filosofía como forma de vida hace a los hombres libres. Es la última batalla de la libertad en un mundo de servidumbre. Muchos elementos de la nueva era condujeron a un pensamiento que tenía afinidad estructural con el estoicismo romano. Los tiempos modernos habían creado al pensador independiente, al intelectual libre en una civilización secular. Los tiempos modernos habían destruido las libertades medievales y habían establecido el nuevo despotismo del estado absoluto apoyado por la autoridad eclesiástica. Las filosofías modernas continuaron la tendencia básica del estoicismo de hacer de la conciencia subjetiva el fundamento de la filosofía. El énfasis estoico en los problemas morales era también atractivo en una época de rápida transición en la que se cuestionaban y reconsideraban todos los valores que antes se daban por sentados.
@@ -145,5 +142,3 @@ P|Sabio entre los hombres, y conoce las leyes del Cielo.
 P|Y esta tercera:
 P|"Oh, Crito, si así les gusta a los dioses, que así sea".
 P|"Anytus y Melitus pueden matarme, pero no pueden herirme".
-H|¡Gracias por leer este libro de www.elejandria.com!
-H|Descubre nuestra colección de obras de dominio público en castellano en nuestra web

@@ -1,8 +1,5 @@
 H|Oscar Wilde
 H|1890
-H|Origen y traducción: Wikisource
-H|Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público¡Esperamos que lo disfrutéis!
-P|La traducción ha sido obtenida de https://es.wikisource.org/wiki/El_retrato_de_Dorian_Gray y se supone libre de derechos. Si usted cree que tiene derecho a reclamar la traducción de este libro, envíenos un correo a hola@elejandria.com y procederemos a su retirada.
 H|Parte 2
 P|El artista es creador de belleza.
 P|Revelar el arte y ocultar al artista es la meta del arte.

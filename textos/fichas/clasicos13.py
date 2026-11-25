@@ -17,7 +17,7 @@ BOOKS = {
         "traducido": True,
         "resumen": [
             "El Kybalión es un breve tratado publicado en 1908 bajo el seudónimo de «Los Tres Iniciados», que expone las enseñanzas de la tradición hermética atribuidas a Hermes Trismegisto. Siete principios resumen toda su filosofía: mentalismo (el todo es mente), correspondencia (como es arriba es abajo), vibración, polaridad, ritmo, causa y efecto, y género.",
-            "Cada capítulo explica uno de estos principios y su aplicación, en un estilo breve y aforístico, como un manual para comprender las leyes del universo. Es una puerta de entrada al esoterismo occidental y una de las obras más descargadas de Elejandría.",
+            "Cada capítulo explica uno de estos principios y su aplicación, en un estilo breve y aforístico, como un manual para comprender las leyes del universo. Es una puerta de entrada al esoterismo occidental.",
         ],
         "personajes": [],
         "ideas": ["Todo es Mente: el universo es mental.",

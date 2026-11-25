@@ -1,6 +1,4 @@
-H|Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público¡Esperamos que lo disfrutéis!
 H|Emily Brontë
-H|Publicado: 1847 Fuente: standardebooks.org Traducción: Elejandría
 H|Capítulo I
 P|1801.—Acabo de regresar de una visita a mi casero: el único vecino que ha de importunarme. ¡Este es sin duda un hermoso país! En toda Inglaterra no creo que pudiera haber elegido un lugar tan completamente alejado del bullicio del mundo. El Paraíso de un perfecto misántropo, y el señor Heathcliff y yo somos la pareja ideal para repartirnos entre ambos esta desolación. ¡Un tipo excelente! Poco se imaginaba con qué calor me llegó al corazón cuando vi cómo sus ojos negros se replegaban bajo el ceño, con desconfianza, al acercarme yo a caballo, y cómo sus dedos se escondieron, con celosa resolución, aún más adentro en el chaleco, en el momento en que le anuncié mi nombre.
 P|—¿El señor Heathcliff? —dije.
@@ -2036,5 +2034,3 @@ P|Mi paseo de vuelta se alargó con una desviación hacia la iglesia. Al llegar 
 P|Buscé, y pronto descubrí, las tres lápidas en la ladera junto al páramo: la del medio, gris y medio sepultada en el brezo; la de Edgar Linton, sólo suavizada por el césped y el musgo que trepaba por su base; la de Heathcliff, aún desnuda.
 P|Me quedé paseando entre ellas, bajo aquel cielo benigno; observe los insectos nocturnos revoloteando entre el brezo y las campanillas azules, escuche el suave viento respirando entre la hierba, y me pregunté cómo podía alguien imaginar jamás sueños intranquilos para los que duermen en esa quieta tierra.
 P|* * * * * *
-H|¡Gracias por leer este libro de www.elejandria.com!
-H|Descubre nuestra colección de libros gratis de dominio público en castellano en nuestra web

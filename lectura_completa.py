@@ -171,13 +171,20 @@ def version(meta, edition=False):
 
 
 def translator_schema(meta):
-    return {"translator": {"@type": "Person", "name": meta["translator"]}} if meta.get("translator") else {}
+    if not meta.get("translator"):
+        return {}
+    kind = "Organization" if meta["translator"] == "Elejandría" else "Person"
+    return {"translator": {"@type": kind, "name": meta["translator"]}}
+
+
+PUBLIC_DOMAIN = "https://creativecommons.org/publicdomain/mark/1.0/"
 
 
 def credit(meta):
-    return (f'<p class="rights-note">Texto de dominio público. {escape(version(meta, edition=True))}. Transcripción de <a href="{escape(meta["source_url"])}">Wikisource</a>, '
-            f'publicada bajo licencia <a href="{escape(meta["license_url"])}">{escape(meta["license"])}</a>. '
-            f'División en capítulos, títulos y resúmenes: La Biblioteca Filosófica.{art_credit(meta)}</p>')
+    """Edición propia: sin enlaces a la web de donde se tomó el texto (source_url queda solo en el .json)."""
+    status = "Obra original de dominio público" if meta.get("translator") == "Elejandría" else "Texto de dominio público"
+    return (f'<p class="rights-note">{status}. {escape(version(meta, edition=True))}. '
+            f'Edición digital de La Biblioteca Filosófica: texto revisado, división en capítulos, títulos y resúmenes.{art_credit(meta)}</p>')
 
 
 def build(meta, blocks):
@@ -253,7 +260,7 @@ def build(meta, blocks):
         "@type": "Book", "name": meta["title"], "url": BASE + base_route, "inLanguage": "es",
         "isAccessibleForFree": True, "author": {"@type": "Person", "name": meta["author"]},
         **translator_schema(meta),
-        "license": meta["license_url"],
+        "license": PUBLIC_DOMAIN, "publisher": {"@type": "Organization", "name": "La Biblioteca Filosófica", "url": BASE + "/"},
         "hasPart": [{"@type": "Chapter", "name": c["title"], "position": i, "url": f'{BASE}{base_route}{c["slug"]}/'}
                     for i, c in enumerate(chapters, start=1)]}]}
     meta["_start_reading"] = start_reading
@@ -382,7 +389,8 @@ def write_ficha(meta):
     schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
         "@type": "Book", "name": title, "url": BASE + route, "inLanguage": "es", "isAccessibleForFree": True,
         "author": {"@type": "Person", "name": author}, **translator_schema(meta),
-        "image": f"{BASE}{base}portada-ficha.jpg", "license": meta["license_url"], "description": meta["description"],
+        "image": f"{BASE}{base}portada-ficha.jpg", "license": PUBLIC_DOMAIN, "publisher": {"@type": "Organization", "name": "La Biblioteca Filosófica", "url": BASE + "/"},
+        "description": meta["description"],
         "workExample": {"@type": "Book", "bookFormat": "https://schema.org/EBook", "url": f'{BASE}{meta["_start_reading"]}'}},
         {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
                                             for q, a in ficha["faq"]]}]}
@@ -442,9 +450,8 @@ def write_guide(meta, rendered, total_words, blocks):
             f'<h2 id="preguntas">Preguntas frecuentes</h2>{faq}'
             f'<p class="actions"><a class="button" href="{base_route}">Leer la obra completa ↗</a>'
             f'<a class="button secondary" href="{base_route}{slug}.pdf" download>Descargar PDF gratis ↓</a></p>'
-            f'<p class="reading-credit">Guía escrita por La Biblioteca Filosófica. Las citas proceden de la traducción de {escape(meta["translator"])} '
-            f'({escape(meta["edition"])}), transcrita en <a href="{escape(meta["source_url"])}">Wikisource</a> '
-            f'(<a href="{escape(meta["license_url"])}">{escape(meta["license"])}</a>).</p></div></article>')
+            f'<p class="reading-credit">Guía escrita por La Biblioteca Filosófica. Las citas proceden de la edición digital de '
+            f'La Biblioteca Filosófica ({escape(version(meta, edition=True))}).</p></div></article>')
     schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
         "@type": "Article", "headline": f"{title}: resumen, personajes y análisis", "url": BASE + route, "inLanguage": "es",
         "author": {"@type": "Organization", "name": "La Biblioteca Filosófica", "url": BASE + "/"},
@@ -522,7 +529,7 @@ def write_quote_pages(metas):
                 + (f'<h2 id="preguntas">Preguntas frecuentes</h2>{faq}' if faq else "")
                 + (f'<p class="guide-link">Sigue leyendo: {related}</p>' if related else "")
                 + '<p class="reading-credit">Citas de la traducción de Patricio de Azcárate (Obras completas de Platón, Madrid, 1871), '
-                  'transcrita en Wikisource (CC BY-SA 4.0). Se respeta la ortografía de la edición original. '
+                  'en la edición digital de La Biblioteca Filosófica. Se respeta la ortografía de la edición original. '
                   'Las imágenes pueden compartirse libremente citando la fuente.</p></div></article>')
         schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
             "@type": "Article", "headline": page["title"], "url": BASE + route, "inLanguage": "es",
@@ -633,9 +640,8 @@ def write_print_edition(meta, rendered):
 <section class="title-page"><p class="series">La Biblioteca Filosófica · Lectura completa</p><p class="author">{escape(meta["author"])}</p>
 <h1>{escape(meta["title"])}</h1><p class="translator">{escape(version(meta))}</p></section>
 <section class="credits"><p>{escape(meta["title"])}, de {escape(meta["author"])}. {escape(version(meta, edition=True))}.
-Texto de dominio público.</p><p>Transcripción de <a href="{escape(meta["source_url"])}">Wikisource</a>, publicada bajo licencia
-<a href="{escape(meta["license_url"])}">{escape(meta["license"])}</a>. Esta edición, con su división en capítulos, títulos y resúmenes,
-se publica bajo la misma licencia.{art_credit(meta)}</p><p>Edición de La Biblioteca Filosófica. Léela también online, con marcapáginas, en
+{"Obra original de dominio público" if meta.get("translator") == "Elejandría" else "Texto de dominio público"}.</p><p>Edición digital de La Biblioteca Filosófica: texto revisado, división en capítulos, títulos y
+resúmenes.{art_credit(meta)}</p><p>Edición de La Biblioteca Filosófica. Léela también online, con marcapáginas, en
 <a href="{site}">{site.replace("https://", "")}</a>.</p></section>
 <section class="about"><h2>Sobre esta obra</h2>{first_paragraph[0] if first_paragraph else ""}
 <p>Se respeta la ortografía de la edición original, por eso verás «á» como preposición o «ménos» con tilde.</p>
@@ -706,6 +712,33 @@ def update_redirects(metas):
     sitemap.write_text(content, encoding="utf-8")
 
 
+def remove_stale_chapters(metas):
+    """Borra los capítulos que ya no están en el .json (renombrados o quitados) y los redirige a la obra:
+    si no, siguen publicados y en el sitemap con el texto viejo."""
+    import shutil
+    config = PROJECT / "vercel.json"
+    data = json.loads(config.read_text(encoding="utf-8"))
+    have = {r["source"] for r in data["redirects"]}
+    added = 0
+    for meta in metas:
+        folder = OUTPUT / "leer" / meta["slug"]
+        if not meta.get("chapters") or not folder.is_dir():
+            continue
+        current = {c["slug"] for c in meta["chapters"]} | {"resumen"}
+        for sub in folder.iterdir():
+            if sub.is_dir() and sub.name not in current and (sub / "index.html").exists():
+                shutil.rmtree(sub)
+                source = f'/leer/{meta["slug"]}/{sub.name}/'
+                if source not in have:
+                    data["redirects"].append({"source": source, "destination": meta.get("book_route") or f'/leer/{meta["slug"]}/',
+                                              "permanent": True})
+                    have.add(source)
+                    added += 1
+    if added:
+        config.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return added
+
+
 def main():
     routes, metas = [], []
     for config in sorted(TEXTS.glob("*.json")):
@@ -720,6 +753,9 @@ def main():
     routes += write_hubs(ordered)
     update_sitemap(routes)
     update_redirects(metas)
+    stale = remove_stale_chapters(metas)
+    if stale:
+        print(f"{stale} capítulos antiguos borrados y redirigidos")
     update_home(sorted(metas, key=lambda m: m.get("cover", {}).get("number", 99)))
     print(f"{len(routes)} páginas de lectura generadas")
 

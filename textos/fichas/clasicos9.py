@@ -52,7 +52,7 @@ BOOKS = {
                   "La ironía como forma de pensar y de convencer."],
         "faq": [("¿Qué es el Diccionario filosófico de Voltaire?", "Un libro de artículos breves, ordenados de la A a la Z, en el que Voltaire critica el fanatismo religioso y defiende la razón y la tolerancia."),
                 ("¿Cuándo se publicó?", "La primera edición, anónima, es de 1764, en Ginebra. Fue condenada y quemada en varios países."),
-                ("¿Por qué es una selección?", "Wikisource solo tiene transcritos parte de los tomos de la traducción de 1825. Aquí están todos los artículos disponibles."),
+                ("¿Por qué es una selección?", "De la traducción de 1825 solo se conservan digitalizados algunos tomos. Aquí están todos los artículos disponibles."),
                 ("¿Qué dice Voltaire sobre la tolerancia?", "Que la intolerancia es contraria a la razón y a la humanidad, y que ningún hombre tiene derecho a perseguir a otro por sus creencias.")],
     },
 }

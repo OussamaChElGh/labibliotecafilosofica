@@ -1,6 +1,4 @@
-H|Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público¡Esperamos que lo disfrutéis!
 H|Maurice Leblanc
-H|Publicado: 1907Fuente: Project GutenbergTraducción: Elejandría
 H|La detención de Arsenio Lupin
 P|¡Qué extraño viaje! ¡Y eso que había comenzado tan bien! Por mi parte, nunca he hecho uno que se anunciara bajo más felices auspicios. El Provence es un transatlántico rápido, confortable, comandado por el más afable de los hombres. En él se encontraba reunida la sociedad más selecta. Se entablaban relaciones, se organizaban entretenimientos. Teníamos esa exquisita impresión de estar separados del mundo, reducidos a nosotros mismos como en una isla desconocida, obligados, por consiguiente, a acercarnos los unos a los otros.
 P|Y nos acercábamos…
@@ -2324,5 +2322,3 @@ P|Reía a carcajadas, incapaz de contenerse. Y cuando se hubo reído a gusto, af
 P|—¡Oh, es un hombre, en efecto!
 P|El inglés no se inmutó. Hasta Dieppe, no pronunció una palabra, con los ojos fijos en el horizonte huidizo. Su silencio fue terrible, insondable, más violento que la rabia más feroz. En el desembarcadero, dijo simplemente, sin cólera esta vez, pero con un tono en el que se sentía toda la voluntad y toda la energía del personaje:
 P|—Sí, es un hombre, y un hombre sobre cuyo hombro tendré el placer de posar esta mano que le tiendo, señor Devanne. Y tengo la idea, fíjese, de que Arsène Lupin y Herlock Sholmès se encontrarán de nuevo un día u otro... Sí, el mundo es demasiado pequeño para que no se encuentren... y ese día...
-H|¡Gracias por leer este libro de www.elejandria.com!
-H|Descubre nuestra colección de libros gratis de dominio público en castellano en nuestra web

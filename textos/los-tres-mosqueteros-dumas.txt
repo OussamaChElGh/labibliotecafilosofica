@@ -1,7 +1,6 @@
 H|Inicio
 P|Los tres mosqueteros
 H|Alejandro Dumas
-H|Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público ¡Esperamos que lo disfrutéis!
 H|Parte 3
 P|Prefacio
 P|EN EL QUE SE HACE CONSTAR QUE,
@@ -31766,5 +31765,3 @@ P|recer más en la calle des Fossoyeurs; la opinión
 P|de quienes parecían mejor informados fue que
 P|era alimentado y alojado en algún castillo real a
 P|expensas de su generosa Eminencia.
-H|¡Gracias por leer este libro de www.elejandria.com!
-H|Descubre nuestra colección de obras de dominio público en castellano en nuestra web

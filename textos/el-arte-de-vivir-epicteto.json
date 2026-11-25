@@ -4,383 +4,368 @@
   "author": "Epicteto",
   "author_route": "",
   "book_route": "/el-arte-de-vivir-epicteto/",
-  "translator": "",
-  "edition": "",
+  "translator": "Elejandría",
   "source_url": "https://www.elejandria.com/libro/el-arte-de-vivir-manual-de-vida/epicteto/1926",
   "license": "Dominio público",
   "license_url": "",
   "speakers": {},
   "chapters": [
     {
-      "slug": "el-arte-de-vivir-manual-de-vida-epicteto",
-      "title": "El arte de vivir: Manual de vida. Epicteto",
-      "summary": "Empieza: «»",
-      "start": 0,
-      "end": 4
-    },
-    {
       "slug": "introduccion",
       "title": "Introducción",
       "summary": "Empieza: «El pequeño libro de Epicteto llamado Enquiridión o \"manual\" ha desempeñado un papel desproporcionadamente grande en el surgimiento de las actitudes modernas…»",
-      "start": 5,
-      "end": 18
+      "start": 2,
+      "end": 15
     },
     {
       "slug": "el-enquiridion-o-discursos-de-epicteto-1",
       "title": "El Enquiridión o discursos de Epicteto. I",
       "summary": "Empieza: «Hay cosas que están dentro de nuestro poder, y hay cosas que están más allá de nuestro poder. Dentro de nuestro poder…»",
-      "start": 19,
-      "end": 23
+      "start": 16,
+      "end": 20
     },
     {
       "slug": "capitulo-2",
       "title": "II",
       "summary": "Empieza: «Recuerda que el deseo exige la consecución de aquello que deseas; y la aversión exige la evitación de aquello a lo que…»",
-      "start": 24,
-      "end": 25
+      "start": 21,
+      "end": 22
     },
     {
       "slug": "capitulo-3",
       "title": "III",
       "summary": "Empieza: «Con respecto a todos los objetos que deleitan la mente o contribuyen al uso o son tiernamente amados, recuérdate de qué naturaleza…»",
-      "start": 26,
-      "end": 27
+      "start": 23,
+      "end": 24
     },
     {
       "slug": "capitulo-4",
       "title": "IV",
       "summary": "Empieza: «Cuando te dispongas a realizar cualquier acción, recuerda de qué naturaleza es la acción. Si vas a bañarte, represéntate los incidentes habituales…»",
-      "start": 28,
-      "end": 29
+      "start": 25,
+      "end": 26
     },
     {
       "slug": "capitulo-5",
       "title": "V",
       "summary": "Empieza: «Los hombres se perturban no por las cosas, sino por los puntos de vista que toman de las cosas. Así, la muerte…»",
-      "start": 30,
-      "end": 31
+      "start": 27,
+      "end": 28
     },
     {
       "slug": "capitulo-6",
       "title": "VI",
       "summary": "Empieza: «No te exaltes por ninguna excelencia que no sea la tuya. Si un caballo estuviera eufórico y dijera: \"Soy guapo\", podría ser…»",
-      "start": 32,
-      "end": 33
+      "start": 29,
+      "end": 30
     },
     {
       "slug": "capitulo-7",
       "title": "VII",
       "summary": "Empieza: «Como en un viaje, cuando el barco está anclado, si vas a la orilla a por agua, puedes entretenerte en coger un…»",
-      "start": 34,
-      "end": 35
+      "start": 31,
+      "end": 32
     },
     {
       "slug": "capitulo-8",
       "title": "VIII",
       "summary": "Empieza: «No exijas que los acontecimientos sucedan como tú quieres; pero desea que sucedan como suceden, y te irá bien.»",
-      "start": 36,
-      "end": 37
+      "start": 33,
+      "end": 34
     },
     {
       "slug": "capitulo-9",
       "title": "IX",
       "summary": "Empieza: «La enfermedad es un impedimento para el cuerpo, pero no para la voluntad si no le agrada. La cojera es un impedimento…»",
-      "start": 38,
-      "end": 39
+      "start": 35,
+      "end": 36
     },
     {
       "slug": "capitulo-10",
       "title": "X",
       "summary": "Empieza: «Ante cada accidente, acuérdate de volverte hacia ti mismo e indagar qué facultad tienes para su uso. Si te encuentras con una…»",
-      "start": 40,
-      "end": 41
+      "start": 37,
+      "end": 38
     },
     {
       "slug": "capitulo-11",
       "title": "XI",
       "summary": "Empieza: «Nunca digas de nada: \"Lo he perdido\", sino: \"Lo he recuperado\". ¿Ha muerto tu hijo? Está restaurado. ¿Ha muerto tu mujer? Está…»",
-      "start": 42,
-      "end": 43
+      "start": 39,
+      "end": 40
     },
     {
       "slug": "capitulo-12",
       "title": "XII",
       "summary": "Empieza: «Si quieres mejorar, deja de lado razonamientos como éstos: \"Si descuido mis asuntos, no tendré manutención; si no castigo a mi criado,…»",
-      "start": 44,
-      "end": 46
+      "start": 41,
+      "end": 43
     },
     {
       "slug": "capitulo-13",
       "title": "XIII",
       "summary": "Empieza: «Si quieres mejorar, conténtate con que te consideren tonto y aburrido en lo que respecta a lo externo. No desees que te…»",
-      "start": 47,
-      "end": 48
+      "start": 44,
+      "end": 45
     },
     {
       "slug": "capitulo-14",
       "title": "XIV",
       "summary": "Empieza: «Si deseas que tus hijos, tu mujer y tus amigos vivan eternamente, eres un insensato, pues deseas que estén en tu poder…»",
-      "start": 49,
-      "end": 50
+      "start": 46,
+      "end": 47
     },
     {
       "slug": "capitulo-15",
       "title": "XV",
       "summary": "Empieza: «Recuerda que debes comportarte como en un banquete. ¿Te traen algo? Extiende la mano y toma una parte moderada. ¿Pasa por tu…»",
-      "start": 51,
-      "end": 52
+      "start": 48,
+      "end": 49
     },
     {
       "slug": "capitulo-16",
       "title": "XVI",
       "summary": "Empieza: «Cuando veas a alguien llorar de pena, ya sea porque su hijo se ha marchado al extranjero o porque ha sufrido en…»",
-      "start": 53,
-      "end": 54
+      "start": 50,
+      "end": 51
     },
     {
       "slug": "capitulo-17",
       "title": "XVII",
       "summary": "Empieza: «Acuérdate de que eres un actor en un drama de la clase que el Autor elija: si es corto, entonces en uno…»",
-      "start": 55,
-      "end": 56
+      "start": 52,
+      "end": 53
     },
     {
       "slug": "capitulo-18",
       "title": "XVIII",
       "summary": "Empieza: «Cuando un cuervo grazne desafortunadamente, no te dejes vencer por las apariencias, sino discrimina y di: \"Nada se me presagia, ni a…»",
-      "start": 57,
-      "end": 58
+      "start": 54,
+      "end": 55
     },
     {
       "slug": "capitulo-19",
       "title": "XIX",
       "summary": "Empieza: «Puedes ser inconquistable si no entras en ningún combate en el que no esté en tu mano vencer. Cuando, por tanto, veas…»",
-      "start": 59,
-      "end": 60
+      "start": 56,
+      "end": 57
     },
     {
       "slug": "capitulo-20",
       "title": "XX",
       "summary": "Empieza: «Acuérdate de que no es el que insulta o golpea, el que afrenta, sino el punto de vista que tenemos de estas…»",
-      "start": 61,
-      "end": 62
+      "start": 58,
+      "end": 59
     },
     {
       "slug": "capitulo-21",
       "title": "XXI",
       "summary": "Empieza: «Que la muerte y el destierro, y todas las demás cosas que parezcan terribles, estén cada día ante tus ojos, pero la…»",
-      "start": 63,
-      "end": 64
+      "start": 60,
+      "end": 61
     },
     {
       "slug": "capitulo-22",
       "title": "XXII",
       "summary": "Empieza: «Si tienes un deseo ferviente hacia la filosofía, prepárate desde el primer momento para que la multitud se ría y se mofe,…»",
-      "start": 65,
-      "end": 66
+      "start": 62,
+      "end": 63
     },
     {
       "slug": "capitulo-23",
       "title": "XXIII",
       "summary": "Empieza: «Si alguna vez se te ocurre dirigir tu atención a lo externo, por el placer de alguien, ten por seguro que has…»",
-      "start": 67,
-      "end": 68
+      "start": 64,
+      "end": 65
     },
     {
       "slug": "capitulo-24",
       "title": "XXIV",
       "summary": "Empieza: «Que no te angustien consideraciones como éstas: \"Viviré en el descrédito y no seré nadie en ninguna parte\". Porque si el descrédito…»",
-      "start": 69,
-      "end": 70
+      "start": 66,
+      "end": 67
     },
     {
       "slug": "capitulo-25",
       "title": "XXV",
       "summary": "Empieza: «¿Se prefiere a alguien antes que a ti en un entretenimiento, o en las cortesías, o en las relaciones confidenciales? Si estas…»",
-      "start": 71,
-      "end": 72
+      "start": 68,
+      "end": 69
     },
     {
       "slug": "capitulo-26",
       "title": "XXVI",
       "summary": "Empieza: «La voluntad de la naturaleza puede aprenderse de cosas en las que todos estamos de acuerdo. Como cuando el hijo de nuestro…»",
-      "start": 73,
-      "end": 74
+      "start": 70,
+      "end": 71
     },
     {
       "slug": "capitulo-27",
       "title": "XXVII",
       "summary": "Empieza: «Como una marca no se establece para no alcanzar el objetivo, así tampoco existe la naturaleza del mal en el mundo.»",
-      "start": 75,
-      "end": 78
+      "start": 72,
+      "end": 75
     },
     {
       "slug": "capitulo-29",
       "title": "XXIX",
       "summary": "Empieza: «En cada asunto considera lo que precede y lo que sigue, y luego empréndelo. De lo contrario, comenzarás con ánimo, ciertamente, despreocupado…»",
-      "start": 79,
-      "end": 80
+      "start": 76,
+      "end": 77
     },
     {
       "slug": "capitulo-30",
       "title": "XXX",
       "summary": "Empieza: «Los deberes se miden universalmente por las relaciones. ¿Es cierto hombre tu padre? Esto implica cuidarlo, someterse a él en todo, recibir…»",
-      "start": 81,
-      "end": 82
+      "start": 78,
+      "end": 79
     },
     {
       "slug": "capitulo-31",
       "title": "XXXI",
       "summary": "Empieza: «Ten la certeza de que la esencia de la piedad hacia los dioses radica en esto: en formarte opiniones correctas respecto a…»",
-      "start": 83,
-      "end": 84
+      "start": 80,
+      "end": 81
     },
     {
       "slug": "capitulo-32",
       "title": "XXXII",
       "summary": "Empieza: «Cuando recurras a la adivinación, recuerda que no sabes cuál será el suceso, y vienes a aprenderlo del adivino; pero de qué…»",
-      "start": 85,
-      "end": 86
+      "start": 82,
+      "end": 83
     },
     {
       "slug": "capitulo-33",
       "title": "XXXIII",
       "summary": "Empieza: «Comienza por prescribirte un carácter y una conducta que puedas conservar tanto a solas como en compañía.»",
-      "start": 87,
-      "end": 100
+      "start": 84,
+      "end": 97
     },
     {
       "slug": "capitulo-34",
       "title": "XXXIV",
       "summary": "Empieza: «Si te deslumbra la apariencia de algún placer prometido, guárdate de que te desconcierte; pero deja que el asunto espere tu tiempo…»",
-      "start": 101,
-      "end": 102
+      "start": 98,
+      "end": 99
     },
     {
       "slug": "capitulo-35",
       "title": "XXXV",
       "summary": "Empieza: «Cuando hagas algo por un juicio claro de que debe hacerse, no rehúyas nunca que te vean hacerlo, aunque el mundo lo…»",
-      "start": 103,
-      "end": 104
+      "start": 100,
+      "end": 101
     },
     {
       "slug": "capitulo-36",
       "title": "XXXVI",
       "summary": "Empieza: «Como la proposición \"o es de día o es de noche\" tiene mucha fuerza en un argumento disyuntivo, pero ninguna en uno…»",
-      "start": 105,
-      "end": 106
+      "start": 102,
+      "end": 103
     },
     {
       "slug": "capitulo-37",
       "title": "XXXVII",
       "summary": "Empieza: «Si has asumido algún carácter más allá de tus fuerzas, te has rebajado mal en eso y has dejado uno que podrías…»",
-      "start": 107,
-      "end": 108
+      "start": 104,
+      "end": 105
     },
     {
       "slug": "capitulo-38",
       "title": "XXXVIII",
       "summary": "Empieza: «Así como al caminar te cuidas de no pisar un clavo, ni de girar el pie, así también cuídate de no herir…»",
-      "start": 109,
-      "end": 110
+      "start": 106,
+      "end": 107
     },
     {
       "slug": "capitulo-39",
       "title": "XXXIX",
       "summary": "Empieza: «El cuerpo es para cada uno la medida adecuada de sus posesiones, como el pie lo es del zapato. Si, por tanto,…»",
-      "start": 111,
-      "end": 112
+      "start": 108,
+      "end": 109
     },
     {
       "slug": "capitulo-40",
       "title": "XL",
       "summary": "Empieza: «Las mujeres a partir de los catorce años son halagadas por los hombres con el título de amantes. Por lo tanto, al…»",
-      "start": 113,
-      "end": 114
+      "start": 110,
+      "end": 111
     },
     {
       "slug": "capitulo-41",
       "title": "XLI",
       "summary": "Empieza: «Es una marca de falta de intelecto gastar mucho tiempo en cosas relacionadas con el cuerpo, como ser inmoderado en los ejercicios,…»",
-      "start": 115,
-      "end": 116
+      "start": 112,
+      "end": 113
     },
     {
       "slug": "capitulo-42",
       "title": "XLII",
       "summary": "Empieza: «Cuando alguna persona hace mal por ti, o habla mal de ti, recuerda que actúa o habla desde la impresión de que…»",
-      "start": 117,
-      "end": 118
+      "start": 114,
+      "end": 115
     },
     {
       "slug": "capitulo-43",
       "title": "XLIII",
       "summary": "Empieza: «Todo tiene dos asas: una por la que se puede soportar, otra por la que no. Si tu hermano actúa injustamente, no…»",
-      "start": 119,
-      "end": 120
+      "start": 116,
+      "end": 117
     },
     {
       "slug": "capitulo-44",
       "title": "XLIV",
       "summary": "Empieza: «Estos razonamientos no tienen ninguna conexión lógica: \"Soy más rico que tú, por lo tanto soy tu superior\". \"Soy más elocuente que…»",
-      "start": 121,
-      "end": 122
+      "start": 118,
+      "end": 119
     },
     {
       "slug": "capitulo-45",
       "title": "XLV",
       "summary": "Empieza: «¿Se baña alguien apresuradamente? No digáis que lo hace mal, sino que lo hace apresuradamente. ¿Bebe alguien mucho vino? No digas que…»",
-      "start": 123,
-      "end": 124
+      "start": 120,
+      "end": 121
     },
     {
       "slug": "capitulo-46",
       "title": "XLVI",
       "summary": "Empieza: «No te proclames nunca filósofo, ni hables mucho entre los ignorantes de tus principios, sino demuéstralos con hechos. Así, en un espectáculo,…»",
-      "start": 125,
-      "end": 126
+      "start": 122,
+      "end": 123
     },
     {
       "slug": "capitulo-47",
       "title": "XLVII",
       "summary": "Empieza: «Cuando hayas aprendido a alimentar tu cuerpo frugalmente, no te compadezcas de ello; ni, si bebes agua, estés diciendo en cada ocasión:…»",
-      "start": 127,
-      "end": 128
+      "start": 124,
+      "end": 125
     },
     {
       "slug": "capitulo-48",
       "title": "XLVIII",
       "summary": "Empieza: «La condición y característica de una persona vulgar es que nunca busca ni ayuda ni daño en sí mismo, sino sólo en…»",
-      "start": 129,
-      "end": 130
+      "start": 126,
+      "end": 127
     },
     {
       "slug": "capitulo-49",
       "title": "XLIX",
       "summary": "Empieza: «Cuando alguien se muestre vanidoso en poder entender e interpretar las obras de Crisipo, dígase a sí mismo: \"Si Crisipo no hubiera…»",
-      "start": 131,
-      "end": 132
+      "start": 128,
+      "end": 129
     },
     {
       "slug": "capitulo-50",
       "title": "L",
       "summary": "Empieza: «Cualesquiera que sean las reglas que hayas adoptado, cúmplelas como leyes, y como si fueras impío si las transgredieras; y no te…»",
-      "start": 133,
-      "end": 134
+      "start": 130,
+      "end": 131
     },
     {
       "slug": "capitulo-51",
       "title": "LI",
       "summary": "Empieza: «El primer y más necesario tema de la filosofía es la aplicación práctica de los principios, como \"No debemos mentir\"; el segundo…»",
-      "start": 135,
-      "end": 146
-    },
-    {
-      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
-      "title": "¡Gracias por leer este libro de www.elejandria.com!",
-      "summary": "Empieza: «»",
-      "start": 147,
-      "end": 148
+      "start": 132,
+      "end": 143
     }
   ],
   "inner_titles": true,

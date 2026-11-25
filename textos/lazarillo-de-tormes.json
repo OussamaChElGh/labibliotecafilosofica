@@ -5,7 +5,6 @@
   "author_route": "",
   "book_route": "/lazarillo-de-tormes/",
   "translator": "",
-  "edition": "",
   "source_url": "https://www.elejandria.com/libro/la-vida-de-lazarillo-de-tormes/anonimo/883",
   "source_revision": 1667235,
   "license": "Dominio público",
@@ -17,21 +16,14 @@
       "title": "Parte 1",
       "summary": "Empieza: «LA VIDA DE LAZARILLO DE TORMES Y DE SUS FORTUNAS Y ADVERSIDADES»",
       "start": 0,
-      "end": 193
+      "end": 192
     },
     {
       "slug": "parte-2",
       "title": "Parte 2",
       "summary": "Empieza: «Y llevándolo a la boca, comenzó a dar en él tan fieros bocados como yo en lo otro.»",
-      "start": 194,
-      "end": 364
-    },
-    {
-      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
-      "title": "¡Gracias por leer este libro de www.elejandria.com!",
-      "summary": "Empieza: «»",
-      "start": 365,
-      "end": 366
+      "start": 193,
+      "end": 363
     }
   ],
   "description": "La vida de Lazarillo de Tormes de Anónimo: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Novela picaresca sobre la astucia, el hambre y la hipocresía social.",

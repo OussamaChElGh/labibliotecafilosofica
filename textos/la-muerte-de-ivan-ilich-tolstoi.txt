@@ -1,7 +1,5 @@
 H|León Tolstói
 H|1886
-H|Traducción: Elejandría
-H|Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público¡Esperamos que lo disfrutéis!
 H|I
 P|Durante un intervalo del juicio de Melvinski en el gran edificio del Palacio de Justicia, los miembros y el fiscal se reunieron en la sala privada de Ivan Egorovich Shebek, donde la conversación giró en torno al célebre caso Krasovski. Fedor Vasilievich sostuvo calurosamente que no estaba sujeto a su jurisdicción, Ivan Egorovich sostuvo lo contrario, mientras que Peter Ivanovich, no habiendo entrado en la discusión al principio, no tomó parte en ella, sino que ojeó la Gaceta que acababa de ser entregada.
 P|"Señores", dijo, "¡Iván Ilich ha muerto!"

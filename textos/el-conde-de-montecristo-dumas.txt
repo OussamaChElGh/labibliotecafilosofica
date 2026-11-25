@@ -1,7 +1,6 @@
 H|Inicio
 P|El conde de Montecristo
 H|Alejandro Dumas
-H|Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público ¡Esperamos que lo disfrutéis!
 H|Parte 3
 P|PRIMERA PARTE
 H|EL CASTILLO DE IF
@@ -63205,5 +63204,3 @@ P|-Cariño -repuso Valentina-, ¿no acaba de
 P|decirnos que la sabiduría humana se encie-
 P|rra toda ella en estas dos palabras?:
 P|¡Confiar y esperar!
-H|FIN. ¡Gracias por leer este libro de www.elejandria.com!
-H|Descubre nuestra colección de obras de dominio público en castellano en nuestra web

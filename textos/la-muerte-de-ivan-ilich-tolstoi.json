@@ -4,103 +4,95 @@
   "author": "León Tolstói",
   "author_route": "",
   "book_route": "/la-muerte-de-ivan-ilich-tolstoi/",
-  "translator": "",
-  "edition": "",
+  "translator": "Elejandría",
   "source_url": "https://www.elejandria.com/libro/la-muerte-de-ivan-ilich/tolstoi-leon/1797",
   "license": "Dominio público",
   "license_url": "",
   "speakers": {},
   "chapters": [
     {
-      "slug": "leon-tolstoi",
-      "title": "León Tolstói",
-      "summary": "Empieza: «»",
-      "start": 0,
-      "end": 3
-    },
-    {
       "slug": "capitulo-1",
       "title": "I",
       "summary": "Empieza: «Durante un intervalo del juicio de Melvinski en el gran edificio del Palacio de Justicia, los miembros y el fiscal se reunieron…»",
-      "start": 4,
-      "end": 45
+      "start": 2,
+      "end": 43
     },
     {
       "slug": "capitulo-2",
       "title": "II",
       "summary": "Empieza: «La vida de Ivan Ilych había sido de lo más sencilla y ordinaria y, por tanto, de lo más terrible. Había sido…»",
-      "start": 46,
-      "end": 69
+      "start": 44,
+      "end": 67
     },
     {
       "slug": "capitulo-3",
       "title": "III",
       "summary": "Empieza: «Así vivió Ivan Ilych durante diecisiete años después de su matrimonio. Ya era un fiscal de larga trayectoria, y había rechazado varios…»",
-      "start": 70,
-      "end": 92
+      "start": 68,
+      "end": 90
     },
     {
       "slug": "capitulo-4",
       "title": "IV",
       "summary": "Empieza: «Todos gozaban de buena salud. No podía llamarse mala salud si Ivan Ilych decía a veces que tenía un sabor extraño en…»",
-      "start": 93,
-      "end": 115
+      "start": 91,
+      "end": 113
     },
     {
       "slug": "capitulo-5",
       "title": "V",
       "summary": "Empieza: «Pasó un mes y luego otro. Justo antes del Año Nuevo su cuñado llegó a la ciudad y se quedó en su…»",
-      "start": 116,
-      "end": 144
+      "start": 114,
+      "end": 142
     },
     {
       "slug": "capitulo-6",
       "title": "VI",
       "summary": "Empieza: «Ivan Ilych veía que se estaba muriendo, y estaba en continua desesperación. En el fondo de su corazón sabía que se estaba…»",
-      "start": 145,
-      "end": 154
+      "start": 143,
+      "end": 152
     },
     {
       "slug": "capitulo-7",
       "title": "VII",
       "summary": "Empieza: «Cómo sucedió es imposible decirlo, porque se produjo paso a paso, sin que se notara, pero en el tercer mes de la…»",
-      "start": 155,
-      "end": 183
+      "start": 153,
+      "end": 181
     },
     {
       "slug": "capitulo-8",
       "title": "VIII",
       "summary": "Empieza: «Era de día. Sabía que era por la mañana porque Gerasim se había ido, y Peter, el lacayo, había venido a apagar…»",
-      "start": 184,
-      "end": 236
+      "start": 182,
+      "end": 234
     },
     {
       "slug": "capitulo-9",
       "title": "IX",
       "summary": "Empieza: «Su esposa regresó a altas horas de la noche. Entró de puntillas, pero él la oyó, abrió los ojos y se apresuró…»",
-      "start": 237,
-      "end": 259
+      "start": 235,
+      "end": 257
     },
     {
       "slug": "capitulo-10",
       "title": "X",
       "summary": "Empieza: «Pasaron otros quince días. Iván Ilych ya no abandonaba su sofá. No se acostaba en la cama, sino que permanecía tumbado en…»",
-      "start": 260,
-      "end": 267
+      "start": 258,
+      "end": 265
     },
     {
       "slug": "capitulo-11",
       "title": "XI",
       "summary": "Empieza: «Así transcurrieron otras dos semanas y durante esa quincena se produjo el acontecimiento que Iván Ilich y su esposa habían deseado. Petrishchev…»",
-      "start": 268,
-      "end": 293
+      "start": 266,
+      "end": 291
     },
     {
       "slug": "capitulo-12",
       "title": "XII",
       "summary": "Empieza: «A partir de ese momento comenzaron los gritos que se prolongaron durante tres días, y eran tan terribles que no se podían…»",
-      "start": 294,
-      "end": 313
+      "start": 292,
+      "end": 311
     }
   ],
   "inner_titles": true,

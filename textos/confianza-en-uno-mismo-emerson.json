@@ -4,33 +4,18 @@
   "author": "Ralph Waldo Emerson",
   "author_route": "",
   "book_route": "/confianza-en-uno-mismo-emerson/",
-  "translator": "",
-  "edition": "",
+  "translator": "Elejandría",
   "source_url": "https://www.elejandria.com/libro/confianza-en-uno-mismo/ralph-waldo-emerson/1076",
   "license": "Dominio público",
   "license_url": "",
   "speakers": {},
   "chapters": [
     {
-      "slug": "ralph-waldo-emerson",
-      "title": "Ralph Waldo Emerson",
-      "summary": "Empieza: «»",
-      "start": 1,
-      "end": 2
-    },
-    {
       "slug": "confianza-en-uno-mismo",
       "title": "Confianza en uno mismo",
       "summary": "Empieza: ««Ne te quaesiveris extra.»»",
-      "start": 3,
-      "end": 57
-    },
-    {
-      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
-      "title": "¡Gracias por leer este libro de www.elejandria.com!",
-      "summary": "Empieza: «»",
-      "start": 58,
-      "end": 59
+      "start": 1,
+      "end": 55
     }
   ],
   "inner_titles": true,

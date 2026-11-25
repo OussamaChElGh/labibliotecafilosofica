@@ -5,67 +5,45 @@
   "author_route": "",
   "book_route": "/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
   "translator": "",
-  "edition": "",
   "source_url": "https://www.elejandria.com/libro/el-sueno-de-un-hombre-ridiculo/dostoyevski-fiodor/2083",
   "license": "Dominio público",
   "license_url": "",
   "speakers": {},
   "chapters": [
     {
-      "slug": "fiodor-dostoyevski",
-      "title": "Fiódor Dostoyevski",
-      "summary": "Empieza: «»",
-      "start": 1,
-      "end": 2
-    },
-    {
-      "slug": "el-sueno-de-un-hombre-ridiculo",
-      "title": "El sueño de un hombre ridículo",
-      "summary": "Empieza: «»",
-      "start": 3,
-      "end": 4
-    },
-    {
       "slug": "capitulo-1",
       "title": "I",
       "summary": "Empieza: «\"Soy una persona ridícula. Ahora me llaman loco. Eso sería un ascenso si no fuera porque sigo siendo tan ridículo a sus…»",
-      "start": 5,
-      "end": 11
+      "start": 3,
+      "end": 9
     },
     {
       "slug": "capitulo-2",
       "title": "II",
       "summary": "Empieza: «Verás, aunque nada me importaba, podía sentir dolor, por ejemplo. Si alguien me hubiera pinchado, me habría dolido. Era lo mismo moralmente:…»",
-      "start": 12,
-      "end": 15
+      "start": 10,
+      "end": 13
     },
     {
       "slug": "capitulo-3",
       "title": "III",
       "summary": "Empieza: «He mencionado que me quedé dormido sin darme cuenta y parecía seguir reflexionando sobre los mismos temas. De repente soñé que tomaba…»",
-      "start": 16,
-      "end": 31
+      "start": 14,
+      "end": 29
     },
     {
       "slug": "capitulo-4",
       "title": "IV",
       "summary": "Empieza: «¿Y sabes qué? Bueno, concediendo que solo fue un sueño, sin embargo, la sensación del amor de esas personas inocentes y hermosas…»",
-      "start": 32,
-      "end": 37
+      "start": 30,
+      "end": 35
     },
     {
       "slug": "capitulo-5",
       "title": "V",
       "summary": "Empieza: «Sí, sí, ¡terminó en que los corrompí a todos! Cómo sucedió, no lo sé, pero lo recuerdo claramente. El sueño abarcó miles…»",
-      "start": 38,
-      "end": 43
-    },
-    {
-      "slug": "gracias-por-leer-este-libro-de-www-elejandria-com",
-      "title": "¡Gracias por leer este libro de www.elejandria.com!",
-      "summary": "Empieza: «»",
-      "start": 44,
-      "end": 45
+      "start": 36,
+      "end": 41
     }
   ],
   "inner_titles": true,

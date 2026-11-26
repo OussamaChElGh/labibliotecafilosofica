@@ -699,7 +699,9 @@ def update_redirects(metas):
     """/leer/<slug>/ → ficha, para los libros con ficha única."""
     config = PROJECT / "vercel.json"
     data = json.loads(config.read_text(encoding="utf-8"))
-    rules = [r for r in data["redirects"] if not re.fullmatch(r"/leer/[^/]+/", r["source"])]
+    slugs = {f'/leer/{m["slug"]}/' for m in metas}
+    # Solo se rehacen las de las obras actuales: las de obras retiradas (a /leer/) se conservan.
+    rules = [r for r in data["redirects"] if not (re.fullmatch(r"/leer/[^/]+/", r["source"]) and r["source"] in slugs)]
     rules += [{"source": f'/leer/{m["slug"]}/', "destination": m["book_route"], "permanent": True}
               for m in metas if m.get("ficha")]
     data["redirects"] = rules

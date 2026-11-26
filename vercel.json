@@ -560,531 +560,6 @@
       "permanent": true
     },
     {
-      "source": "/leer/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
-      "destination": "/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/amalia-jose-marmol/",
-      "destination": "/amalia-jose-marmol/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/antigona-sofocles/",
-      "destination": "/antigona-sofocles/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/ariel-jose-enrique-rodo/",
-      "destination": "/ariel-jose-enrique-rodo/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/asi-hablo-zaratustra-nietzsche/",
-      "destination": "/asi-hablo-zaratustra-friedrich-nietzsche/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/azul-ruben-dario/",
-      "destination": "/azul-ruben-dario/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/bodas-de-sangre-lorca/",
-      "destination": "/bodas-de-sangre-lorca/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/campos-de-castilla-antonio-machado/",
-      "destination": "/campos-de-castilla-antonio-machado/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/canas-y-barro-vicente-blasco-ibanez/",
-      "destination": "/canas-y-barro-vicente-blasco-ibanez/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/carmides-platon/",
-      "destination": "/carmides-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/clitofon-platon/",
-      "destination": "/clitofon-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/crimen-y-castigo-dostoyevski/",
-      "destination": "/crimen-y-castigo-dostoyevski/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/criton-platon/",
-      "destination": "/criticon-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/cuentos-cortos-en-ingles/",
-      "destination": "/cuentos-cortos-en-ingles/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
-      "destination": "/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/cuentos-de-la-selva-horacio-quiroga/",
-      "destination": "/cuentos-de-la-selva-horacio-quiroga/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/cumanda-juan-leon-mera/",
-      "destination": "/cumanda-juan-leon-mera/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/de-la-brevedad-de-la-vida-seneca/",
-      "destination": "/de-la-brevedad-de-la-vida-seneca/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/don-juan-tenorio-zorrilla/",
-      "destination": "/don-juan-tenorio-zorrilla/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/don-quijote-de-la-mancha-cervantes/",
-      "destination": "/don-quijote-de-la-mancha-pdf-miguel-de-cervantes/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/don-segundo-sombra-ricardo-guiraldes/",
-      "destination": "/don-segundo-sombra-ricardo-guiraldes/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/dona-perfecta-benito-perez-galdos/",
-      "destination": "/dona-perfecta-benito-perez-galdos/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/dracula-bram-stoker/",
-      "destination": "/dracula-bram-stoker/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-arte-de-la-guerra-sun-tzu/",
-      "destination": "/el-arte-de-la-guerra-sun-tzu/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-arte-de-vivir-epicteto/",
-      "destination": "/el-arte-de-vivir-epicteto/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-burlador-de-sevilla-tirso-de-molina/",
-      "destination": "/el-burlador-de-sevilla-tirso-de-molina/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-buscon-francisco-de-quevedo/",
-      "destination": "/el-buscon-francisco-de-quevedo/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-conde-de-montecristo-dumas/",
-      "destination": "/el-conde-de-montecristo-dumas/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-conde-lucanor-don-juan-manuel/",
-      "destination": "/el-conde-lucanor-pdf-don-juan-manuel/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-contrato-social-rousseau/",
-      "destination": "/el-contrato-social-rousseau/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-extrano-caso-del-dr-jekyll-stevenson/",
-      "destination": "/el-extrano-caso-del-dr-jekyll-stevenson/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-jugador-dostoyevski/",
-      "destination": "/el-jugador-dostoyevski/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-kybalion/",
-      "destination": "/el-kybalion/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-mercader-de-venecia-shakespeare/",
-      "destination": "/el-mercader-de-venecia-pdf-shakespeare/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-principe-maquiavelo/",
-      "destination": "/el-principe-maquiavelo/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-principito-saint-exupery/",
-      "destination": "/el-principito-saint-exupery/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-retrato-de-dorian-gray-oscar-wilde/",
-      "destination": "/el-retrato-de-dorian-gray-oscar-wilde/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-sabueso-de-los-baskerville-conan-doyle/",
-      "destination": "/el-sabueso-de-los-baskerville-conan-doyle/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
-      "destination": "/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
-      "destination": "/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/etica-a-nicomaco-aristoteles/",
-      "destination": "/etica-a-nicomaco-aristoteles/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/eutidemo-platon/",
-      "destination": "/eutidemo-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/eutifron-platon/",
-      "destination": "/eutifron-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/facundo-sarmiento/",
-      "destination": "/facundo-sarmiento/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/fedon-platon/",
-      "destination": "/fedon-platon-pdf/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/fedro-platon/",
-      "destination": "/fedro-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/filebo-platon/",
-      "destination": "/filebo-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/frankenstein-mary-shelley/",
-      "destination": "/frankenstein-mary-shelley/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/fuenteovejuna-lope-de-vega/",
-      "destination": "/fuenteovejuna-lope-de-vega/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/fundamentacion-metafisica-costumbres-kant/",
-      "destination": "/fundamentacion-de-la-metafisica-de-las-costumbres-immanuel-kant/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/gorgias-platon/",
-      "destination": "/gorgias-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/hamlet-shakespeare/",
-      "destination": "/hamlet-shakespeare/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/ion-platon/",
-      "destination": "/ion-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-barraca-vicente-blasco-ibanez/",
-      "destination": "/la-barraca-vicente-blasco-ibanez/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-casa-de-bernarda-alba-lorca/",
-      "destination": "/la-casa-de-bernarda-alba-lorca/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-celestina-fernando-de-rojas/",
-      "destination": "/la-celestina-fernando-de-rojas/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-dama-de-las-camelias-dumas/",
-      "destination": "/la-dama-de-las-camelias-dumas/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-divina-comedia-dante/",
-      "destination": "/la-divina-comedia-dante/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-gaviota-fernan-caballero/",
-      "destination": "/la-gaviota-fernan-caballero/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-iliada-homero/",
-      "destination": "/la-iliada-homero/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-isla-del-tesoro-stevenson/",
-      "destination": "/la-isla-del-tesoro-stevenson/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-metamorfosis-kafka/",
-      "destination": "/la-metamorfosis-kafka/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-odisea-homero/",
-      "destination": "/la-odisea-homero/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-regenta-leopoldo-alas-clarin/",
-      "destination": "/la-regenta-leopoldo-alas-clarin/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-republica-platon/",
-      "destination": "/la-republica-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-vida-es-sueno-calderon/",
-      "destination": "/la-vida-es-sueno-calderon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-voragine-jose-eustasio-rivera/",
-      "destination": "/la-voragine-jose-eustasio-rivera/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-vuelta-al-mundo-en-ochenta-dias-julio-verne/",
-      "destination": "/la-vuelta-al-mundo-en-ochenta-dias-julio-verne/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/laques-platon/",
-      "destination": "/laques-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/las-mil-y-una-noches-tomo-1/",
-      "destination": "/las-mil-y-una-noches-pdf/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/lazarillo-de-tormes/",
-      "destination": "/lazarillo-de-tormes/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/leyendas-gustavo-adolfo-becquer/",
-      "destination": "/leyendas-gustavo-adolfo-becquer/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/libro-de-buen-amor-arcipreste-de-hita/",
-      "destination": "/el-libro-de-buen-amor-pdf-arcipreste-de-hita/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/lisis-platon/",
-      "destination": "/lisis-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/los-cuatro-jinetes-del-apocalipsis-blasco-ibanez/",
-      "destination": "/los-cuatro-jinetes-del-apocalipsis-blasco-ibanez/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/los-pazos-de-ulloa-emilia-pardo-bazan/",
-      "destination": "/los-pazos-de-ulloa-emilia-pardo-bazan/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/los-tres-mosqueteros-dumas/",
-      "destination": "/los-tres-mosqueteros-dumas/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/los-viajes-de-gulliver-jonathan-swift/",
-      "destination": "/los-viajes-de-gulliver-pdf-jonathan-swift/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/luces-de-bohemia-valle-inclan/",
-      "destination": "/luces-de-bohemia-valle-inclan/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/macbeth-shakespeare/",
-      "destination": "/macbeth-libros-pdf-gratis/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/maria-jorge-isaacs/",
-      "destination": "/maria-jorge-isaacs/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/marianela-benito-perez-galdos/",
-      "destination": "/marianela-benito-perez-galdos/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/meditaciones-marco-aurelio/",
-      "destination": "/meditaciones-marco-aurelio/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/memorias-del-subsuelo-dostoyevski/",
-      "destination": "/memorias-del-subsuelo-dostoyevski/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/misericordia-benito-perez-galdos/",
-      "destination": "/misericordia-benito-perez-galdos/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/niebla-miguel-de-unamuno/",
-      "destination": "/niebla-miguel-de-unamuno/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/noches-blancas-dostoyevski/",
-      "destination": "/noches-blancas-dostoyevski/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/orgullo-y-prejuicio-jane-austen/",
-      "destination": "/orgullo-y-prejuicio-pdf-jane-austen/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/otelo-shakespeare/",
-      "destination": "/otelo-shakespeare/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/pepita-jimenez-juan-valera/",
-      "destination": "/pepita-jimenez-juan-valera/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/poeta-en-nueva-york-lorca/",
-      "destination": "/poeta-en-nueva-york-lorca/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/poetica-aristoteles/",
-      "destination": "/poetica-aristoteles/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/primer-alcibiades-platon/",
-      "destination": "/primer-alcibiades-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/prometeo-encadenado-esquilo/",
-      "destination": "/prometeo-encadenado-esquilo/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/romancero-gitano-lorca/",
-      "destination": "/romancero-gitano-lorca/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/romeo-y-julieta-shakespeare/",
-      "destination": "/romeo-y-julieta-libros-pdf-gratis-shakespeare/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/san-manuel-bueno-martir-unamuno/",
-      "destination": "/san-manuel-bueno-martir-unamuno/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/segundo-alcibiades-platon/",
-      "destination": "/segundo-alcibiades-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/sofista-platon/",
-      "destination": "/sofista-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/soledades-antonio-machado/",
-      "destination": "/soledades-antonio-machado/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/trafalgar-benito-perez-galdos/",
-      "destination": "/trafalgar-benito-perez-galdos/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/voltaire-asi-va-el-mundo/",
-      "destination": "/voltaire-asi-va-el-mundo/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/voltaire-candido/",
-      "destination": "/voltaire-candido/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/voltaire-diccionario-filosofico/",
-      "destination": "/voltaire-diccionario-filosofico/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/voltaire-zadig/",
-      "destination": "/voltaire-zadig/",
-      "permanent": true
-    },
-    {
       "source": "/leer/el-arte-de-vivir-epicteto/capitulo-10/",
       "destination": "/el-arte-de-vivir-epicteto/",
       "permanent": true
@@ -1802,6 +1277,561 @@
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-9/",
       "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/carta-de-una-desconocida-stefan-zweig/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/confianza-en-uno-mismo-emerson/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
+      "destination": "/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/amalia-jose-marmol/",
+      "destination": "/amalia-jose-marmol/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/antigona-sofocles/",
+      "destination": "/antigona-sofocles/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/ariel-jose-enrique-rodo/",
+      "destination": "/ariel-jose-enrique-rodo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/asi-hablo-zaratustra-nietzsche/",
+      "destination": "/asi-hablo-zaratustra-friedrich-nietzsche/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/azul-ruben-dario/",
+      "destination": "/azul-ruben-dario/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/bodas-de-sangre-lorca/",
+      "destination": "/bodas-de-sangre-lorca/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/campos-de-castilla-antonio-machado/",
+      "destination": "/campos-de-castilla-antonio-machado/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/canas-y-barro-vicente-blasco-ibanez/",
+      "destination": "/canas-y-barro-vicente-blasco-ibanez/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/carmides-platon/",
+      "destination": "/carmides-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/clitofon-platon/",
+      "destination": "/clitofon-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/crimen-y-castigo-dostoyevski/",
+      "destination": "/crimen-y-castigo-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/criton-platon/",
+      "destination": "/criticon-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cuentos-cortos-en-ingles/",
+      "destination": "/cuentos-cortos-en-ingles/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
+      "destination": "/cuentos-de-amor-de-locura-y-de-muerte-horacio-quiroga/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cuentos-de-la-selva-horacio-quiroga/",
+      "destination": "/cuentos-de-la-selva-horacio-quiroga/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumanda-juan-leon-mera/",
+      "destination": "/cumanda-juan-leon-mera/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/de-la-brevedad-de-la-vida-seneca/",
+      "destination": "/de-la-brevedad-de-la-vida-seneca/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/don-juan-tenorio-zorrilla/",
+      "destination": "/don-juan-tenorio-zorrilla/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/don-quijote-de-la-mancha-cervantes/",
+      "destination": "/don-quijote-de-la-mancha-pdf-miguel-de-cervantes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/don-segundo-sombra-ricardo-guiraldes/",
+      "destination": "/don-segundo-sombra-ricardo-guiraldes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/dona-perfecta-benito-perez-galdos/",
+      "destination": "/dona-perfecta-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/dracula-bram-stoker/",
+      "destination": "/dracula-bram-stoker/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-la-guerra-sun-tzu/",
+      "destination": "/el-arte-de-la-guerra-sun-tzu/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-burlador-de-sevilla-tirso-de-molina/",
+      "destination": "/el-burlador-de-sevilla-tirso-de-molina/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-buscon-francisco-de-quevedo/",
+      "destination": "/el-buscon-francisco-de-quevedo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-conde-de-montecristo-dumas/",
+      "destination": "/el-conde-de-montecristo-dumas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-conde-lucanor-don-juan-manuel/",
+      "destination": "/el-conde-lucanor-pdf-don-juan-manuel/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-contrato-social-rousseau/",
+      "destination": "/el-contrato-social-rousseau/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-extrano-caso-del-dr-jekyll-stevenson/",
+      "destination": "/el-extrano-caso-del-dr-jekyll-stevenson/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-jugador-dostoyevski/",
+      "destination": "/el-jugador-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-kybalion/",
+      "destination": "/el-kybalion/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-mercader-de-venecia-shakespeare/",
+      "destination": "/el-mercader-de-venecia-pdf-shakespeare/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-principe-maquiavelo/",
+      "destination": "/el-principe-maquiavelo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-principito-saint-exupery/",
+      "destination": "/el-principito-saint-exupery/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-retrato-de-dorian-gray-oscar-wilde/",
+      "destination": "/el-retrato-de-dorian-gray-oscar-wilde/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sabueso-de-los-baskerville-conan-doyle/",
+      "destination": "/el-sabueso-de-los-baskerville-conan-doyle/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
+      "destination": "/el-sombrero-de-tres-picos-pedro-antonio-de-alarcon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
+      "destination": "/el-sueno-de-un-hombre-ridiculo-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/etica-a-nicomaco-aristoteles/",
+      "destination": "/etica-a-nicomaco-aristoteles/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/eutidemo-platon/",
+      "destination": "/eutidemo-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/eutifron-platon/",
+      "destination": "/eutifron-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/facundo-sarmiento/",
+      "destination": "/facundo-sarmiento/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fedon-platon/",
+      "destination": "/fedon-platon-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fedro-platon/",
+      "destination": "/fedro-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/filebo-platon/",
+      "destination": "/filebo-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/frankenstein-mary-shelley/",
+      "destination": "/frankenstein-mary-shelley/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fuenteovejuna-lope-de-vega/",
+      "destination": "/fuenteovejuna-lope-de-vega/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/fundamentacion-metafisica-costumbres-kant/",
+      "destination": "/fundamentacion-de-la-metafisica-de-las-costumbres-immanuel-kant/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/gorgias-platon/",
+      "destination": "/gorgias-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/hamlet-shakespeare/",
+      "destination": "/hamlet-shakespeare/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/ion-platon/",
+      "destination": "/ion-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-barraca-vicente-blasco-ibanez/",
+      "destination": "/la-barraca-vicente-blasco-ibanez/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-casa-de-bernarda-alba-lorca/",
+      "destination": "/la-casa-de-bernarda-alba-lorca/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-celestina-fernando-de-rojas/",
+      "destination": "/la-celestina-fernando-de-rojas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-dama-de-las-camelias-dumas/",
+      "destination": "/la-dama-de-las-camelias-dumas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-divina-comedia-dante/",
+      "destination": "/la-divina-comedia-dante/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-gaviota-fernan-caballero/",
+      "destination": "/la-gaviota-fernan-caballero/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-iliada-homero/",
+      "destination": "/la-iliada-homero/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-isla-del-tesoro-stevenson/",
+      "destination": "/la-isla-del-tesoro-stevenson/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-metamorfosis-kafka/",
+      "destination": "/la-metamorfosis-kafka/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-odisea-homero/",
+      "destination": "/la-odisea-homero/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-regenta-leopoldo-alas-clarin/",
+      "destination": "/la-regenta-leopoldo-alas-clarin/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-republica-platon/",
+      "destination": "/la-republica-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-vida-es-sueno-calderon/",
+      "destination": "/la-vida-es-sueno-calderon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-voragine-jose-eustasio-rivera/",
+      "destination": "/la-voragine-jose-eustasio-rivera/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-vuelta-al-mundo-en-ochenta-dias-julio-verne/",
+      "destination": "/la-vuelta-al-mundo-en-ochenta-dias-julio-verne/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/laques-platon/",
+      "destination": "/laques-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/las-mil-y-una-noches-tomo-1/",
+      "destination": "/las-mil-y-una-noches-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lazarillo-de-tormes/",
+      "destination": "/lazarillo-de-tormes/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/leyendas-gustavo-adolfo-becquer/",
+      "destination": "/leyendas-gustavo-adolfo-becquer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/libro-de-buen-amor-arcipreste-de-hita/",
+      "destination": "/el-libro-de-buen-amor-pdf-arcipreste-de-hita/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/lisis-platon/",
+      "destination": "/lisis-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-cuatro-jinetes-del-apocalipsis-blasco-ibanez/",
+      "destination": "/los-cuatro-jinetes-del-apocalipsis-blasco-ibanez/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-pazos-de-ulloa-emilia-pardo-bazan/",
+      "destination": "/los-pazos-de-ulloa-emilia-pardo-bazan/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-tres-mosqueteros-dumas/",
+      "destination": "/los-tres-mosqueteros-dumas/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/los-viajes-de-gulliver-jonathan-swift/",
+      "destination": "/los-viajes-de-gulliver-pdf-jonathan-swift/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/luces-de-bohemia-valle-inclan/",
+      "destination": "/luces-de-bohemia-valle-inclan/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/macbeth-shakespeare/",
+      "destination": "/macbeth-libros-pdf-gratis/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/maria-jorge-isaacs/",
+      "destination": "/maria-jorge-isaacs/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/marianela-benito-perez-galdos/",
+      "destination": "/marianela-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/meditaciones-marco-aurelio/",
+      "destination": "/meditaciones-marco-aurelio/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/memorias-del-subsuelo-dostoyevski/",
+      "destination": "/memorias-del-subsuelo-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/misericordia-benito-perez-galdos/",
+      "destination": "/misericordia-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/niebla-miguel-de-unamuno/",
+      "destination": "/niebla-miguel-de-unamuno/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/noches-blancas-dostoyevski/",
+      "destination": "/noches-blancas-dostoyevski/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/orgullo-y-prejuicio-jane-austen/",
+      "destination": "/orgullo-y-prejuicio-pdf-jane-austen/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/otelo-shakespeare/",
+      "destination": "/otelo-shakespeare/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/pepita-jimenez-juan-valera/",
+      "destination": "/pepita-jimenez-juan-valera/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/poeta-en-nueva-york-lorca/",
+      "destination": "/poeta-en-nueva-york-lorca/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/poetica-aristoteles/",
+      "destination": "/poetica-aristoteles/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/primer-alcibiades-platon/",
+      "destination": "/primer-alcibiades-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/prometeo-encadenado-esquilo/",
+      "destination": "/prometeo-encadenado-esquilo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/romancero-gitano-lorca/",
+      "destination": "/romancero-gitano-lorca/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/romeo-y-julieta-shakespeare/",
+      "destination": "/romeo-y-julieta-libros-pdf-gratis-shakespeare/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/san-manuel-bueno-martir-unamuno/",
+      "destination": "/san-manuel-bueno-martir-unamuno/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/segundo-alcibiades-platon/",
+      "destination": "/segundo-alcibiades-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/sofista-platon/",
+      "destination": "/sofista-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/soledades-antonio-machado/",
+      "destination": "/soledades-antonio-machado/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/trafalgar-benito-perez-galdos/",
+      "destination": "/trafalgar-benito-perez-galdos/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-asi-va-el-mundo/",
+      "destination": "/voltaire-asi-va-el-mundo/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-candido/",
+      "destination": "/voltaire-candido/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-diccionario-filosofico/",
+      "destination": "/voltaire-diccionario-filosofico/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/voltaire-zadig/",
+      "destination": "/voltaire-zadig/",
       "permanent": true
     }
   ],

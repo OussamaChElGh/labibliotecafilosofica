@@ -1,0 +1,80 @@
+{
+  "slug": "confianza-en-uno-mismo-emerson",
+  "title": "Confianza en uno mismo",
+  "author": "Ralph Waldo Emerson",
+  "author_route": "",
+  "book_route": "/confianza-en-uno-mismo-emerson/",
+  "translator": "La Biblioteca Filosófica",
+  "source_url": "https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance",
+  "license": "Dominio público",
+  "license_url": "",
+  "speakers": {},
+  "chapters": [
+    {
+      "slug": "cree-en-tu-propio-pensamiento",
+      "title": "I. Cree en tu propio pensamiento",
+      "summary": "Empieza: «Leí hace unos días unos versos de un pintor eminente que eran originales y nada convencionales.»",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "slug": "la-coherencia-y-el-caracter",
+      "title": "II. La coherencia y el carácter",
+      "summary": "Empieza: «El otro terror que nos aparta de la confianza en nosotros mismos es nuestra coherencia: una veneración por lo que hicimos o dijimos en el pasado,…»",
+      "start": 12,
+      "end": 21
+    },
+    {
+      "slug": "la-intuicion-fuente-de-la-confianza",
+      "title": "III. La intuición, fuente de la confianza",
+      "summary": "Empieza: «El magnetismo que ejerce toda acción original se explica cuando indagamos el fundamento de la confianza en uno mismo.»",
+      "start": 22,
+      "end": 36
+    },
+    {
+      "slug": "la-revolucion-de-la-confianza-en-uno-mismo",
+      "title": "IV. La revolución de la confianza en uno mismo",
+      "summary": "Empieza: «Es fácil ver que una mayor confianza en uno mismo tiene que provocar una revolución en todos los oficios y relaciones de los hombres: en su religión,…»",
+      "start": 37,
+      "end": 54
+    }
+  ],
+  "inner_titles": false,
+  "description": "Confianza en uno mismo de Ralph Waldo Emerson: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Ensayo sobre la independencia de pensamiento y la confianza en uno mismo.",
+  "intro": "<p>«Confía en ti mismo: cada corazón vibra con esa cuerda de acero.» Ralph Waldo Emerson publicó este ensayo en 1841 como un manifiesto de individualismo. Su tesis es que la sociedad conspira contra la originalidad de cada persona: la conformidad, la opinión ajena y la coherencia forzada son los enemigos de la vida auténtica.</p><p>Aquí puedes leer Confianza en uno mismo completo, dividido en capítulos. Traducción de La Biblioteca Filosófica.</p>",
+  "cover": {
+    "color": "azul",
+    "number": 107
+  },
+  "ficha": {
+    "genero": "Ensayo",
+    "unidad": "capítulos",
+    "tema": "la independencia de pensamiento y la confianza en uno mismo",
+    "resumen": [
+      "«Confía en ti mismo: cada corazón vibra con esa cuerda de acero.» Ralph Waldo Emerson publicó este ensayo en 1841 como un manifiesto de individualismo. Su tesis es que la sociedad conspira contra la originalidad de cada persona: la conformidad, la opinión ajena y la coherencia forzada son los enemigos de la vida auténtica.",
+      "Emerson exhorta a seguir la propia intuición, a no imitar a nadie, a no preocuparse por contradecirse. Cita a Moisés, Platón y Milton como ejemplos de hombres que pensaron por sí mismos. Es un texto fundacional del trascendentalismo americano y una lectura vigente sobre la autenticidad."
+    ],
+    "personajes": [],
+    "ideas": [
+      "La conformidad es el enemigo de la grandeza.",
+      "Seguir la propia intuición vale más que seguir la tradición.",
+      "Una coherencia tonta es el duende de las mentes pequeñas.",
+      "La sociedad obliga a pensar como todos."
+    ],
+    "faq": [
+      [
+        "¿Qué dice la frase más famosa?",
+        "«Confía en ti mismo: cada corazón vibra con esa cuerda de acero.» También: «Una coherencia tonta es el duende de las mentes pequeñas.»"
+      ],
+      [
+        "¿Qué es el trascendentalismo?",
+        "Un movimiento intelectual americano del siglo XIX que valoraba la intuición, la naturaleza y la independencia moral."
+      ],
+      [
+        "¿Cuándo se publicó?",
+        "En 1841, en la colección Ensayos: primera serie."
+      ]
+    ]
+  },
+  "edition": "del original inglés de 1841"
+}

@@ -173,7 +173,7 @@ def version(meta, edition=False):
 def translator_schema(meta):
     if not meta.get("translator"):
         return {}
-    kind = "Organization" if meta["translator"] == "Elejandría" else "Person"
+    kind = "Organization" if meta["translator"] == "La Biblioteca Filosófica" else "Person"
     return {"translator": {"@type": kind, "name": meta["translator"]}}
 
 
@@ -182,7 +182,7 @@ PUBLIC_DOMAIN = "https://creativecommons.org/publicdomain/mark/1.0/"
 
 def credit(meta):
     """Edición propia: sin enlaces a la web de donde se tomó el texto (source_url queda solo en el .json)."""
-    status = "Obra original de dominio público" if meta.get("translator") == "Elejandría" else "Texto de dominio público"
+    status = "Obra original de dominio público" if meta.get("translator") == "La Biblioteca Filosófica" else "Texto de dominio público"
     return (f'<p class="rights-note">{status}. {escape(version(meta, edition=True))}. '
             f'Edición digital de La Biblioteca Filosófica: texto revisado, división en capítulos, títulos y resúmenes.{art_credit(meta)}</p>')
 
@@ -640,7 +640,7 @@ def write_print_edition(meta, rendered):
 <section class="title-page"><p class="series">La Biblioteca Filosófica · Lectura completa</p><p class="author">{escape(meta["author"])}</p>
 <h1>{escape(meta["title"])}</h1><p class="translator">{escape(version(meta))}</p></section>
 <section class="credits"><p>{escape(meta["title"])}, de {escape(meta["author"])}. {escape(version(meta, edition=True))}.
-{"Obra original de dominio público" if meta.get("translator") == "Elejandría" else "Texto de dominio público"}.</p><p>Edición digital de La Biblioteca Filosófica: texto revisado, división en capítulos, títulos y
+{"Obra original de dominio público" if meta.get("translator") == "La Biblioteca Filosófica" else "Texto de dominio público"}.</p><p>Edición digital de La Biblioteca Filosófica: texto revisado, división en capítulos, títulos y
 resúmenes.{art_credit(meta)}</p><p>Edición de La Biblioteca Filosófica. Léela también online, con marcapáginas, en
 <a href="{site}">{site.replace("https://", "")}</a>.</p></section>
 <section class="about"><h2>Sobre esta obra</h2>{first_paragraph[0] if first_paragraph else ""}

@@ -361,7 +361,7 @@
     },
     {
       "source": "/leer/confianza-en-uno-mismo-emerson/gracias-por-leer-este-libro-de-www-elejandria-com/",
-      "destination": "/leer/",
+      "destination": "/confianza-en-uno-mismo-emerson/",
       "permanent": true
     },
     {
@@ -426,7 +426,7 @@
     },
     {
       "source": "/leer/confianza-en-uno-mismo-emerson/ralph-waldo-emerson/",
-      "destination": "/leer/",
+      "destination": "/confianza-en-uno-mismo-emerson/",
       "permanent": true
     },
     {
@@ -481,7 +481,7 @@
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/leon-tolstoi/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
@@ -540,22 +540,12 @@
       "permanent": true
     },
     {
-      "source": "/confianza-en-uno-mismo-emerson/",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
       "source": "/cumbres-borrascosas-emily-bronte/",
       "destination": "/leer/",
       "permanent": true
     },
     {
       "source": "/jane-eyre-charlotte-bronte/",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
-      "source": "/la-muerte-de-ivan-ilich-tolstoi/",
       "destination": "/leer/",
       "permanent": true
     },
@@ -866,7 +856,7 @@
     },
     {
       "source": "/leer/confianza-en-uno-mismo-emerson/confianza-en-uno-mismo/",
-      "destination": "/leer/",
+      "destination": "/confianza-en-uno-mismo-emerson/",
       "permanent": true
     },
     {
@@ -1221,62 +1211,62 @@
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-1/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-10/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-11/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-12/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-2/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-3/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-4/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-5/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-6/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-7/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-8/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-9/",
-      "destination": "/leer/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
@@ -1290,22 +1280,12 @@
       "permanent": true
     },
     {
-      "source": "/leer/confianza-en-uno-mismo-emerson/",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
       "source": "/leer/cumbres-borrascosas-emily-bronte/",
       "destination": "/leer/",
       "permanent": true
     },
     {
       "source": "/leer/jane-eyre-charlotte-bronte/",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/",
       "destination": "/leer/",
       "permanent": true
     },
@@ -1362,6 +1342,11 @@
     {
       "source": "/leer/clitofon-platon/",
       "destination": "/clitofon-platon/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/confianza-en-uno-mismo-emerson/",
+      "destination": "/confianza-en-uno-mismo-emerson/",
       "permanent": true
     },
     {
@@ -1617,6 +1602,11 @@
     {
       "source": "/leer/la-metamorfosis-kafka/",
       "destination": "/la-metamorfosis-kafka/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/",
+      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {

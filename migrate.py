@@ -75,7 +75,7 @@ def shell(title, route, body, description="", noindex=False, schema=None, canoni
 <title>{escape(title)}</title><meta name="description" content="{escape(description)}">
 <link rel="canonical" href="{address}">{robots}
 <meta property="og:title" content="{escape(title)}"><meta property="og:description" content="{escape(description)}"><meta property="og:url" content="{address}">{structured}
-<link rel="stylesheet" href="/variables.css"><link rel="stylesheet" href="/biblioteca.css"><link rel="stylesheet" href="/fable.css"><link rel="stylesheet" href="/editorial.css"><script defer src="/biblioteca.js"></script>{home_assets}</head>
+<link rel="stylesheet" href="/variables.css"><link rel="stylesheet" href="/biblioteca.css"><link rel="stylesheet" href="/fable.css"><link rel="stylesheet" href="/editorial.css"><script defer src="/biblioteca.js"></script><script type="module" src="/analytics.js"></script>{home_assets}</head>
 <body class="folio-site {'folio-home' if route == '/' else 'folio-interior'}"><a class="skip" href="#contenido">Saltar al contenido</a>
 <header class="masthead"><div class="bar"><a class="brand" href="/"><img class="original-logo" src="/wp-content/uploads/2023/07/logo-comprs.png" alt="La Biblioteca Filosófica" width="60" height="60"><span>La Biblioteca<br>Filosófica</span></a>
 <button class="mobile-menu-toggle" type="button" aria-controls="primary-navigation" aria-expanded="false" hidden>Menú <span aria-hidden="true">☰</span></button><nav class="main-nav" id="primary-navigation" aria-label="Navegación principal">{navigation()}<a class="mobile-library-link" href="/mi-biblioteca/">Mi biblioteca ↗</a></nav>

@@ -1,0 +1,13 @@
+{
+  "name": "labibliotecafilosofica",
+  "version": "1.0.0",
+  "description": "La Biblioteca Filosófica - Static site with Vercel Web Analytics",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 8765 --bind 127.0.0.1 --directory public",
+    "build": "python migrate.py && python lectura_completa.py && python pulir.py && node portadas.mjs && node frases.mjs"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}

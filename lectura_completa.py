@@ -635,7 +635,7 @@ def write_print_edition(meta, rendered):
         for n, (chapter, paragraphs, notes, _) in enumerate(rendered, start=1))
     first_paragraph = re.search(r"<p>.*?</p>", meta["intro"], re.S)
     document = f"""<!doctype html><html lang="es"><head><meta charset="utf-8"><title>{escape(meta["title"])} · {escape(meta["author"])}</title>
-<meta name="author" content="{escape(meta["author"])}"><link rel="stylesheet" href="../../impresion.css"></head><body>
+<meta name="author" content="{escape(meta["author"])}"><link rel="stylesheet" href="../../impresion.css"><script>window.va = window.va || function () {{ (window.vaq = window.vaq || []).push(arguments); }};</script><script defer src="/_vercel/insights/script.js"></script></head><body>
 <section class="cover" style="background:{COVER_COLORS.get(meta.get("cover", {}).get("color", "verde"), "#143a2c")}">{cover_svg(meta, inline=True)}</section>
 <section class="title-page"><p class="series">La Biblioteca Filosófica · Lectura completa</p><p class="author">{escape(meta["author"])}</p>
 <h1>{escape(meta["title"])}</h1><p class="translator">{escape(version(meta))}</p></section>

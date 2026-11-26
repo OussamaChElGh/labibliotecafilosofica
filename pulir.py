@@ -614,6 +614,14 @@ GOOGLE_HEAD = (
     'crossorigin="anonymous"></script>')
 
 
+# Vercel Speed Insights - tracks Core Web Vitals and performance metrics
+SPEED_INSIGHTS = (
+    '<script>'
+    'window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };'
+    '</script>'
+    '<script defer src="/_vercel/speed-insights/script.js"></script>')
+
+
 # Iconos del sitio, los mismos que usaba el WordPress (Google los muestra junto al nombre en los resultados).
 ICON_DIR = "/wp-content/uploads/2020/08/cropped-cropped-logonew-2-"
 ICONS_HEAD = (f'<link rel="icon" href="{ICON_DIR}32x32.jpg" sizes="32x32">'
@@ -663,6 +671,13 @@ def add_google_tags(document):
     if "pagead/js/adsbygoogle.js" in document or "</head>" not in document:
         return document
     return document.replace("</head>", GOOGLE_HEAD + "</head>", 1)
+
+
+def add_speed_insights(document):
+    """Add Vercel Speed Insights for performance monitoring."""
+    if "_vercel/speed-insights/script.js" in document or "</head>" not in document:
+        return document
+    return document.replace("</head>", SPEED_INSIGHTS + "</head>", 1)
 
 
 def add_paper_box(document):
@@ -1155,7 +1170,7 @@ def main():
             document = render_related(document, suggestions(route, entries, frequency), entries)
         document = add_guide_link(add_paper_box(add_affiliate(seo_head(tag_amazon(document), route))), route, guides)
         # Mismo orden que en las páginas ya publicadas: Google, iconos y verificación de Search Console.
-        document = add_pinterest_verification(add_rich_pin_meta(add_site_verification(add_icons(add_google_tags(document)))))
+        document = add_pinterest_verification(add_rich_pin_meta(add_site_verification(add_icons(add_google_tags(add_speed_insights(document))))))
         document = add_reading_links(replace_nav(document, menu), route, reading)
         if route in categories:
             document = category_extra(document, categories[route], authors)

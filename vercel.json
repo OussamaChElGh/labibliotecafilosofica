@@ -350,11 +350,6 @@
       "permanent": true
     },
     {
-      "source": "/categorias/:path*",
-      "destination": "/:path*",
-      "permanent": true
-    },
-    {
       "source": "/leer/arsenio-lupin-leblanc/gracias-por-leer-este-libro-de-www-elejandria-com/",
       "destination": "/leer/",
       "permanent": true
@@ -540,17 +535,7 @@
       "permanent": true
     },
     {
-      "source": "/leer/arsenio-lupin-leblanc/:path*",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
       "source": "/carta-de-una-desconocida-stefan-zweig/",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/carta-de-una-desconocida-stefan-zweig/:path*",
       "destination": "/leer/",
       "permanent": true
     },
@@ -560,17 +545,7 @@
       "permanent": true
     },
     {
-      "source": "/leer/confianza-en-uno-mismo-emerson/:path*",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
       "source": "/cumbres-borrascosas-emily-bronte/",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/cumbres-borrascosas-emily-bronte/:path*",
       "destination": "/leer/",
       "permanent": true
     },
@@ -580,17 +555,7 @@
       "permanent": true
     },
     {
-      "source": "/leer/jane-eyre-charlotte-bronte/:path*",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
       "source": "/la-muerte-de-ivan-ilich-tolstoi/",
-      "destination": "/leer/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/:path*",
       "destination": "/leer/",
       "permanent": true
     },
@@ -1372,6 +1337,471 @@
     {
       "source": "/leer/el-arte-de-vivir-epicteto/introduccion/",
       "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/arsenio-lupin-en-prision/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/el-collar-de-la-reina/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/el-siete-de-corazones/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/el-viajero-misterioso/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/herlock-sholmes-llega-demasiado-tarde/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/la-caja-fuerte-de-la-senora-imbert/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/la-detencion-de-arsenio-lupin/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/la-fuga-de-arsenio-lupin/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/la-perla-negra/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/carta-de-una-desconocida-stefan-zweig/carta-de-una-desconocida/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/confianza-en-uno-mismo-emerson/confianza-en-uno-mismo/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-1/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-10/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-11/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-12/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-13/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-14/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-15/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-16/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-17/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-18/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-19/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-2/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-20/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-21/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-22/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-23/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-24/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-25/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-26/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-27/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-28/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-29/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-3/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-30/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-31/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-32/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-33/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-34/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-4/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-5/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-6/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-7/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-8/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/capitulo-9/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-10/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-11/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-12/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-13/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-14/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-15/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-16/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-17/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-18/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-19/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-2/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-20/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-21/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-22/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-23/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-24/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-25/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-26/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-27/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-28/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-29/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-3/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-30/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-31/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-32/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-33/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-34/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-35/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-36/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-4/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-5/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-6/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-7/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-8/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/capitulo-9/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/jane-eyre-capitulo-1/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-1/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-10/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-11/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-12/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-2/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-3/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-4/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-5/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-6/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-7/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-8/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/capitulo-9/",
+      "destination": "/leer/",
       "permanent": true
     }
   ],

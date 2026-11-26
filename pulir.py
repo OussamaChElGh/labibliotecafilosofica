@@ -1050,6 +1050,33 @@ def drop_competitor_links(document):
     return re.sub(r'<a [^>]*href="https?://(?:www\.)?(?:elejandria\.com|infolibros\.org)[^"]*"[^>]*>(.*?)</a>', r"\1", document)
 
 
+UNLINK_HOSTS = re.compile(r"^(?:www\.)?(?:elejandria\.com|infolibros\.org|pdfdrive\.to|dokumen\.pub|oiipdf\.com|anonfiles\.com|"
+                          r"librosgratis\.com|somoslibros\.net|example\.com)$|^web\.https|%", re.I)
+EXTERNAL_LINK = re.compile(r'<a\b([^>]*?)href="(https?://([^/"]+)[^"]*)"([^>]*)>(.*?)</a>', re.S)
+
+
+def external_links(document):
+    """Ningún enlace externo cede autoridad: todos llevan rel="nofollow" (los de afiliado ya son sponsored).
+    Los de webs de descarga de dudosa legalidad, la competencia y los rotos se quedan como texto."""
+    def fix(match):
+        before, url, host, after, text = match.groups()
+        host = host.lower()
+        if "labibliotecafilosofica" in host:
+            return match[0]
+        if UNLINK_HOSTS.search(host):
+            return text
+        attrs = before + after
+        rel = re.search(r'rel="([^"]*)"', attrs)
+        if rel and re.search(r"nofollow|sponsored|ugc", rel[1]):
+            return match[0]
+        if rel:
+            new = match[0].replace(rel[0], f'rel="{rel[1]} nofollow"', 1)
+        else:
+            new = match[0].replace("<a", '<a rel="nofollow"', 1)
+        return new
+    return EXTERNAL_LINK.sub(fix, document)
+
+
 def redirected_routes():
     data = json.loads(Path("vercel.json").read_text(encoding="utf-8"))
     return {r["source"] for r in data.get("redirects", []) if ":" not in r["source"] and "(" not in r["source"]}
@@ -1135,7 +1162,7 @@ def main():
         if route == AUTHORS_INDEX:
             document = authors_index(document, categories, authors)
         document = link_author(document, author_routes)
-        document = drop_competitor_links(cover_alts(fix_description(short_title(document), route, manual)))
+        document = external_links(drop_competitor_links(cover_alts(fix_description(short_title(document), route, manual))))
         pages[page] = default_image(home_schema(document) if route == "/" else document)
     for page, result in pages.items():
         if result != originals[page]:

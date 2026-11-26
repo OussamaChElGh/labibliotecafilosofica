@@ -88,7 +88,7 @@ BOOKS = {
         "color": "ocre", "genero": "Filosofía", "tema": "la libertad interior y el dominio de uno mismo",
         "traducido": True,
         "resumen": [
-            "El arte de vivir recoge las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte).",
+            "El Enquiridión, también conocido como Manual o El arte de vivir, recoge las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte).",
             "La libertad consiste en ocuparse solo de lo primero y aceptar lo segundo con serenidad. No son las cosas las que nos perturban, sino nuestras opiniones sobre las cosas. En aforismos breves, Epicteto enseña a soportar, a abstenerse y a vivir conforme a la razón.",
         ],
         "personajes": [],
@@ -96,7 +96,7 @@ BOOKS = {
                   "No son las cosas las que nos perturban, sino nuestros juicios.",
                   "La libertad es interior: nadie puede esclavizar tu voluntad.",
                   "Soporta y abstente."],
-        "faq": [("¿Qué diferencia hay entre el Enquiridión y este libro?", "Son esencialmente el mismo texto: una selección de máximas de Epicteto compilada por su discípulo Arriano."),
+        "faq": [("¿Es lo mismo el Enquiridión que «El arte de vivir»?", "Son esencialmente el mismo texto: una selección de máximas de Epicteto compilada por su discípulo Arriano."),
                 ("¿Quién fue Epicteto?", "Un esclavo frigio que fue liberado y se convirtió en uno de los filósofos estoicos más influyentes."),
                 ("¿Cuándo vivió?", "Hacia 50-135 d. C.")],
     },

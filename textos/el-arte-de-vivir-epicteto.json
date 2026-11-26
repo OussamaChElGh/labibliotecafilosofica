@@ -1,376 +1,75 @@
 {
   "slug": "el-arte-de-vivir-epicteto",
-  "title": "El arte de vivir",
+  "title": "Enquiridión (Manual de vida)",
   "author": "Epicteto",
   "author_route": "",
   "book_route": "/el-arte-de-vivir-epicteto/",
-  "translator": "Elejandría",
-  "source_url": "https://www.elejandria.com/libro/el-arte-de-vivir-manual-de-vida/epicteto/1926",
+  "translator": "Antonio Brum",
+  "source_url": "https://es.wikisource.org/wiki/Enquiridi%C3%B3n/M%C3%A1ximas",
   "license": "Dominio público",
   "license_url": "",
   "speakers": {},
   "chapters": [
     {
-      "slug": "introduccion",
-      "title": "Introducción",
-      "summary": "Empieza: «El pequeño libro de Epicteto llamado Enquiridión o \"manual\" ha desempeñado un papel desproporcionadamente grande en el surgimiento de las actitudes modernas…»",
-      "start": 2,
-      "end": 15
-    },
-    {
-      "slug": "el-enquiridion-o-discursos-de-epicteto-1",
-      "title": "El Enquiridión o discursos de Epicteto. I",
-      "summary": "Empieza: «Hay cosas que están dentro de nuestro poder, y hay cosas que están más allá de nuestro poder. Dentro de nuestro poder…»",
-      "start": 16,
+      "slug": "maximas-i-x",
+      "title": "Máximas I-X",
+      "summary": "Empieza: «Hay ciertas cosas que dependen de nosotros mismos, como la opinión, la inclinación, los deseos, la aversión, y en una palabra, todas nuestras operaciones.»",
+      "start": 0,
       "end": 20
     },
     {
-      "slug": "capitulo-2",
-      "title": "II",
-      "summary": "Empieza: «Recuerda que el deseo exige la consecución de aquello que deseas; y la aversión exige la evitación de aquello a lo que…»",
+      "slug": "maximas-xi-xx",
+      "title": "Máximas XI-XX",
+      "summary": "Empieza: «De ignorante y brutal es el culpar á otros de las propias miserias.»",
       "start": 21,
-      "end": 22
+      "end": 41
     },
     {
-      "slug": "capitulo-3",
-      "title": "III",
-      "summary": "Empieza: «Con respecto a todos los objetos que deleitan la mente o contribuyen al uso o son tiernamente amados, recuérdate de qué naturaleza…»",
-      "start": 23,
-      "end": 24
-    },
-    {
-      "slug": "capitulo-4",
-      "title": "IV",
-      "summary": "Empieza: «Cuando te dispongas a realizar cualquier acción, recuerda de qué naturaleza es la acción. Si vas a bañarte, represéntate los incidentes habituales…»",
-      "start": 25,
-      "end": 26
-    },
-    {
-      "slug": "capitulo-5",
-      "title": "V",
-      "summary": "Empieza: «Los hombres se perturban no por las cosas, sino por los puntos de vista que toman de las cosas. Así, la muerte…»",
-      "start": 27,
-      "end": 28
-    },
-    {
-      "slug": "capitulo-6",
-      "title": "VI",
-      "summary": "Empieza: «No te exaltes por ninguna excelencia que no sea la tuya. Si un caballo estuviera eufórico y dijera: \"Soy guapo\", podría ser…»",
-      "start": 29,
-      "end": 30
-    },
-    {
-      "slug": "capitulo-7",
-      "title": "VII",
-      "summary": "Empieza: «Como en un viaje, cuando el barco está anclado, si vas a la orilla a por agua, puedes entretenerte en coger un…»",
-      "start": 31,
-      "end": 32
-    },
-    {
-      "slug": "capitulo-8",
-      "title": "VIII",
-      "summary": "Empieza: «No exijas que los acontecimientos sucedan como tú quieres; pero desea que sucedan como suceden, y te irá bien.»",
-      "start": 33,
-      "end": 34
-    },
-    {
-      "slug": "capitulo-9",
-      "title": "IX",
-      "summary": "Empieza: «La enfermedad es un impedimento para el cuerpo, pero no para la voluntad si no le agrada. La cojera es un impedimento…»",
-      "start": 35,
-      "end": 36
-    },
-    {
-      "slug": "capitulo-10",
-      "title": "X",
-      "summary": "Empieza: «Ante cada accidente, acuérdate de volverte hacia ti mismo e indagar qué facultad tienes para su uso. Si te encuentras con una…»",
-      "start": 37,
-      "end": 38
-    },
-    {
-      "slug": "capitulo-11",
-      "title": "XI",
-      "summary": "Empieza: «Nunca digas de nada: \"Lo he perdido\", sino: \"Lo he recuperado\". ¿Ha muerto tu hijo? Está restaurado. ¿Ha muerto tu mujer? Está…»",
-      "start": 39,
-      "end": 40
-    },
-    {
-      "slug": "capitulo-12",
-      "title": "XII",
-      "summary": "Empieza: «Si quieres mejorar, deja de lado razonamientos como éstos: \"Si descuido mis asuntos, no tendré manutención; si no castigo a mi criado,…»",
-      "start": 41,
-      "end": 43
-    },
-    {
-      "slug": "capitulo-13",
-      "title": "XIII",
-      "summary": "Empieza: «Si quieres mejorar, conténtate con que te consideren tonto y aburrido en lo que respecta a lo externo. No desees que te…»",
-      "start": 44,
-      "end": 45
-    },
-    {
-      "slug": "capitulo-14",
-      "title": "XIV",
-      "summary": "Empieza: «Si deseas que tus hijos, tu mujer y tus amigos vivan eternamente, eres un insensato, pues deseas que estén en tu poder…»",
-      "start": 46,
-      "end": 47
-    },
-    {
-      "slug": "capitulo-15",
-      "title": "XV",
-      "summary": "Empieza: «Recuerda que debes comportarte como en un banquete. ¿Te traen algo? Extiende la mano y toma una parte moderada. ¿Pasa por tu…»",
-      "start": 48,
-      "end": 49
-    },
-    {
-      "slug": "capitulo-16",
-      "title": "XVI",
-      "summary": "Empieza: «Cuando veas a alguien llorar de pena, ya sea porque su hijo se ha marchado al extranjero o porque ha sufrido en…»",
-      "start": 50,
-      "end": 51
-    },
-    {
-      "slug": "capitulo-17",
-      "title": "XVII",
-      "summary": "Empieza: «Acuérdate de que eres un actor en un drama de la clase que el Autor elija: si es corto, entonces en uno…»",
-      "start": 52,
-      "end": 53
-    },
-    {
-      "slug": "capitulo-18",
-      "title": "XVIII",
-      "summary": "Empieza: «Cuando un cuervo grazne desafortunadamente, no te dejes vencer por las apariencias, sino discrimina y di: \"Nada se me presagia, ni a…»",
-      "start": 54,
-      "end": 55
-    },
-    {
-      "slug": "capitulo-19",
-      "title": "XIX",
-      "summary": "Empieza: «Puedes ser inconquistable si no entras en ningún combate en el que no esté en tu mano vencer. Cuando, por tanto, veas…»",
-      "start": 56,
-      "end": 57
-    },
-    {
-      "slug": "capitulo-20",
-      "title": "XX",
-      "summary": "Empieza: «Acuérdate de que no es el que insulta o golpea, el que afrenta, sino el punto de vista que tenemos de estas…»",
-      "start": 58,
-      "end": 59
-    },
-    {
-      "slug": "capitulo-21",
-      "title": "XXI",
-      "summary": "Empieza: «Que la muerte y el destierro, y todas las demás cosas que parezcan terribles, estén cada día ante tus ojos, pero la…»",
-      "start": 60,
-      "end": 61
-    },
-    {
-      "slug": "capitulo-22",
-      "title": "XXII",
-      "summary": "Empieza: «Si tienes un deseo ferviente hacia la filosofía, prepárate desde el primer momento para que la multitud se ría y se mofe,…»",
-      "start": 62,
-      "end": 63
-    },
-    {
-      "slug": "capitulo-23",
-      "title": "XXIII",
-      "summary": "Empieza: «Si alguna vez se te ocurre dirigir tu atención a lo externo, por el placer de alguien, ten por seguro que has…»",
-      "start": 64,
+      "slug": "maximas-xxi-xxx",
+      "title": "Máximas XXI-XXX",
+      "summary": "Empieza: «Verdaderamente es dueño de todas las cosas el que tiene poder de retener las que quiere y de desechar las que le disgustan.»",
+      "start": 42,
       "end": 65
     },
     {
-      "slug": "capitulo-24",
-      "title": "XXIV",
-      "summary": "Empieza: «Que no te angustien consideraciones como éstas: \"Viviré en el descrédito y no seré nadie en ninguna parte\". Porque si el descrédito…»",
+      "slug": "maximas-xxxi-xl",
+      "title": "Máximas XXXI-XL",
+      "summary": "Empieza: «No te embaraces el entendimiento con pensar que no se hará caso de ti, que no recibirás honra alguna, porque si el no recibir honra fuese un mal,…»",
       "start": 66,
-      "end": 67
+      "end": 89
     },
     {
-      "slug": "capitulo-25",
-      "title": "XXV",
-      "summary": "Empieza: «¿Se prefiere a alguien antes que a ti en un entretenimiento, o en las cortesías, o en las relaciones confidenciales? Si estas…»",
-      "start": 68,
-      "end": 69
-    },
-    {
-      "slug": "capitulo-26",
-      "title": "XXVI",
-      "summary": "Empieza: «La voluntad de la naturaleza puede aprenderse de cosas en las que todos estamos de acuerdo. Como cuando el hijo de nuestro…»",
-      "start": 70,
-      "end": 71
-    },
-    {
-      "slug": "capitulo-27",
-      "title": "XXVII",
-      "summary": "Empieza: «Como una marca no se establece para no alcanzar el objetivo, así tampoco existe la naturaleza del mal en el mundo.»",
-      "start": 72,
-      "end": 75
-    },
-    {
-      "slug": "capitulo-29",
-      "title": "XXIX",
-      "summary": "Empieza: «En cada asunto considera lo que precede y lo que sigue, y luego empréndelo. De lo contrario, comenzarás con ánimo, ciertamente, despreocupado…»",
-      "start": 76,
-      "end": 77
-    },
-    {
-      "slug": "capitulo-30",
-      "title": "XXX",
-      "summary": "Empieza: «Los deberes se miden universalmente por las relaciones. ¿Es cierto hombre tu padre? Esto implica cuidarlo, someterse a él en todo, recibir…»",
-      "start": 78,
-      "end": 79
-    },
-    {
-      "slug": "capitulo-31",
-      "title": "XXXI",
-      "summary": "Empieza: «Ten la certeza de que la esencia de la piedad hacia los dioses radica en esto: en formarte opiniones correctas respecto a…»",
-      "start": 80,
-      "end": 81
-    },
-    {
-      "slug": "capitulo-32",
-      "title": "XXXII",
-      "summary": "Empieza: «Cuando recurras a la adivinación, recuerda que no sabes cuál será el suceso, y vienes a aprenderlo del adivino; pero de qué…»",
-      "start": 82,
-      "end": 83
-    },
-    {
-      "slug": "capitulo-33",
-      "title": "XXXIII",
-      "summary": "Empieza: «Comienza por prescribirte un carácter y una conducta que puedas conservar tanto a solas como en compañía.»",
-      "start": 84,
-      "end": 97
-    },
-    {
-      "slug": "capitulo-34",
-      "title": "XXXIV",
-      "summary": "Empieza: «Si te deslumbra la apariencia de algún placer prometido, guárdate de que te desconcierte; pero deja que el asunto espere tu tiempo…»",
-      "start": 98,
-      "end": 99
-    },
-    {
-      "slug": "capitulo-35",
-      "title": "XXXV",
-      "summary": "Empieza: «Cuando hagas algo por un juicio claro de que debe hacerse, no rehúyas nunca que te vean hacerlo, aunque el mundo lo…»",
-      "start": 100,
-      "end": 101
-    },
-    {
-      "slug": "capitulo-36",
-      "title": "XXXVI",
-      "summary": "Empieza: «Como la proposición \"o es de día o es de noche\" tiene mucha fuerza en un argumento disyuntivo, pero ninguna en uno…»",
-      "start": 102,
-      "end": 103
-    },
-    {
-      "slug": "capitulo-37",
-      "title": "XXXVII",
-      "summary": "Empieza: «Si has asumido algún carácter más allá de tus fuerzas, te has rebajado mal en eso y has dejado uno que podrías…»",
-      "start": 104,
-      "end": 105
-    },
-    {
-      "slug": "capitulo-38",
-      "title": "XXXVIII",
-      "summary": "Empieza: «Así como al caminar te cuidas de no pisar un clavo, ni de girar el pie, así también cuídate de no herir…»",
-      "start": 106,
-      "end": 107
-    },
-    {
-      "slug": "capitulo-39",
-      "title": "XXXIX",
-      "summary": "Empieza: «El cuerpo es para cada uno la medida adecuada de sus posesiones, como el pie lo es del zapato. Si, por tanto,…»",
-      "start": 108,
-      "end": 109
-    },
-    {
-      "slug": "capitulo-40",
-      "title": "XL",
-      "summary": "Empieza: «Las mujeres a partir de los catorce años son halagadas por los hombres con el título de amantes. Por lo tanto, al…»",
-      "start": 110,
+      "slug": "maximas-xli-l",
+      "title": "Máximas XLI-L",
+      "summary": "Empieza: «Conviene que te prescribas una cierta manera de vivir ó una ley que observes inviolablemente en cualquiera parte que puedas estar, sea conversando…»",
+      "start": 90,
       "end": 111
     },
     {
-      "slug": "capitulo-41",
-      "title": "XLI",
-      "summary": "Empieza: «Es una marca de falta de intelecto gastar mucho tiempo en cosas relacionadas con el cuerpo, como ser inmoderado en los ejercicios,…»",
+      "slug": "maximas-li-lx",
+      "title": "Máximas LI-LX",
+      "summary": "Empieza: «Cuando tengas que hacer con alguna persona de calidad, considera (antes de emprenderlo) lo que hiciera Sócrates y Zenón en ocasión semejante.»",
       "start": 112,
-      "end": 113
+      "end": 133
     },
     {
-      "slug": "capitulo-42",
-      "title": "XLII",
-      "summary": "Empieza: «Cuando alguna persona hace mal por ti, o habla mal de ti, recuerda que actúa o habla desde la impresión de que…»",
-      "start": 114,
-      "end": 115
+      "slug": "maximas-lxi-lxx",
+      "title": "Máximas LXI-LXX",
+      "summary": "Empieza: «El cuerpo debe ser la medida de las riquezas como el pie es la medida del zapato;»",
+      "start": 134,
+      "end": 155
     },
     {
-      "slug": "capitulo-43",
-      "title": "XLIII",
-      "summary": "Empieza: «Todo tiene dos asas: una por la que se puede soportar, otra por la que no. Si tu hermano actúa injustamente, no…»",
-      "start": 116,
-      "end": 117
-    },
-    {
-      "slug": "capitulo-44",
-      "title": "XLIV",
-      "summary": "Empieza: «Estos razonamientos no tienen ninguna conexión lógica: \"Soy más rico que tú, por lo tanto soy tu superior\". \"Soy más elocuente que…»",
-      "start": 118,
-      "end": 119
-    },
-    {
-      "slug": "capitulo-45",
-      "title": "XLV",
-      "summary": "Empieza: «¿Se baña alguien apresuradamente? No digáis que lo hace mal, sino que lo hace apresuradamente. ¿Bebe alguien mucho vino? No digas que…»",
-      "start": 120,
-      "end": 121
-    },
-    {
-      "slug": "capitulo-46",
-      "title": "XLVI",
-      "summary": "Empieza: «No te proclames nunca filósofo, ni hables mucho entre los ignorantes de tus principios, sino demuéstralos con hechos. Así, en un espectáculo,…»",
-      "start": 122,
-      "end": 123
-    },
-    {
-      "slug": "capitulo-47",
-      "title": "XLVII",
-      "summary": "Empieza: «Cuando hayas aprendido a alimentar tu cuerpo frugalmente, no te compadezcas de ello; ni, si bebes agua, estés diciendo en cada ocasión:…»",
-      "start": 124,
-      "end": 125
-    },
-    {
-      "slug": "capitulo-48",
-      "title": "XLVIII",
-      "summary": "Empieza: «La condición y característica de una persona vulgar es que nunca busca ni ayuda ni daño en sí mismo, sino sólo en…»",
-      "start": 126,
-      "end": 127
-    },
-    {
-      "slug": "capitulo-49",
-      "title": "XLIX",
-      "summary": "Empieza: «Cuando alguien se muestre vanidoso en poder entender e interpretar las obras de Crisipo, dígase a sí mismo: \"Si Crisipo no hubiera…»",
-      "start": 128,
-      "end": 129
-    },
-    {
-      "slug": "capitulo-50",
-      "title": "L",
-      "summary": "Empieza: «Cualesquiera que sean las reglas que hayas adoptado, cúmplelas como leyes, y como si fueras impío si las transgredieras; y no te…»",
-      "start": 130,
-      "end": 131
-    },
-    {
-      "slug": "capitulo-51",
-      "title": "LI",
-      "summary": "Empieza: «El primer y más necesario tema de la filosofía es la aplicación práctica de los principios, como \"No debemos mentir\"; el segundo…»",
-      "start": 132,
-      "end": 143
+      "slug": "maximas-lxxi-lxxviii",
+      "title": "Máximas LXXI-LXXVIII",
+      "summary": "Empieza: «Las señales por donde se conoce que un hombre progresa en el estudio de la virtud son:»",
+      "start": 156,
+      "end": 174
     }
   ],
   "inner_titles": true,
-  "description": "El arte de vivir de Epicteto: resumen, personajes e ideas principales, y el libro completo para leer online gratis o descargar en PDF. Filosofía sobre la libertad interior y el dominio de uno mismo.",
-  "intro": "<p>El arte de vivir recoge las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte).</p><p>Aquí puedes leer El arte de vivir completo, dividido en capítulos. Se respeta la ortografía de la edición original.</p>",
+  "description": "Enquiridión o Manual de vida de Epicteto: las máximas estoicas sobre la libertad interior, completas para leer online gratis o descargar en PDF, con resumen e ideas principales.",
+  "intro": "<p>El Enquiridión (en griego, «manual», lo que se tiene a mano) reúne las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis, tal como las recogió su discípulo Arriano. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte).</p><p>Aquí puedes leer el Enquiridión completo en la traducción clásica de Antonio Brum, dividido en grupos de diez máximas. Se respeta la ortografía de la edición original.</p>",
   "cover": {
     "color": "ocre",
     "number": 106
@@ -380,7 +79,7 @@
     "unidad": "capítulos",
     "tema": "la libertad interior y el dominio de uno mismo",
     "resumen": [
-      "El arte de vivir recoge las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte).",
+      "El Enquiridión, también conocido como Manual o El arte de vivir, recoge las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte).",
       "La libertad consiste en ocuparse solo de lo primero y aceptar lo segundo con serenidad. No son las cosas las que nos perturban, sino nuestras opiniones sobre las cosas. En aforismos breves, Epicteto enseña a soportar, a abstenerse y a vivir conforme a la razón."
     ],
     "personajes": [],
@@ -392,8 +91,8 @@
     ],
     "faq": [
       [
-        "¿Qué diferencia hay entre el Enquiridión y este libro?",
-        "Son esencialmente el mismo texto: una selección de máximas de Epicteto compilada por su discípulo Arriano."
+        "¿Es lo mismo el Enquiridión que «El arte de vivir»?",
+        "Sí. «El arte de vivir» o «Manual de vida» son títulos modernos del Enquiridión, la selección de máximas de Epicteto que compiló su discípulo Arriano."
       ],
       [
         "¿Quién fue Epicteto?",
@@ -404,5 +103,6 @@
         "Hacia 50-135 d. C."
       ]
     ]
-  }
+  },
+  "edition": "Obras de los moralistas griegos, Madrid, 1888"
 }

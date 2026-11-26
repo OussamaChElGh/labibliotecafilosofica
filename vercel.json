@@ -356,22 +356,22 @@
     },
     {
       "source": "/leer/arsenio-lupin-leblanc/gracias-por-leer-este-libro-de-www-elejandria-com/",
-      "destination": "/arsenio-lupin-leblanc/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
       "source": "/leer/carta-de-una-desconocida-stefan-zweig/fin-gracias-por-leer-este-libro-de-www-elejandria-com/",
-      "destination": "/carta-de-una-desconocida-stefan-zweig/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
       "source": "/leer/confianza-en-uno-mismo-emerson/gracias-por-leer-este-libro-de-www-elejandria-com/",
-      "destination": "/confianza-en-uno-mismo-emerson/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
       "source": "/leer/cumbres-borrascosas-emily-bronte/gracias-por-leer-este-libro-de-www-elejandria-com/",
-      "destination": "/cumbres-borrascosas-emily-bronte/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
@@ -401,7 +401,7 @@
     },
     {
       "source": "/leer/jane-eyre-charlotte-bronte/gracias-por-leer-este-libro-de-www-elejandria-com/",
-      "destination": "/jane-eyre-charlotte-bronte/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
@@ -421,22 +421,22 @@
     },
     {
       "source": "/leer/arsenio-lupin-leblanc/maurice-leblanc/",
-      "destination": "/arsenio-lupin-leblanc/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
       "source": "/leer/carta-de-una-desconocida-stefan-zweig/stefan-zweig/",
-      "destination": "/carta-de-una-desconocida-stefan-zweig/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
       "source": "/leer/confianza-en-uno-mismo-emerson/ralph-waldo-emerson/",
-      "destination": "/confianza-en-uno-mismo-emerson/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
       "source": "/leer/cumbres-borrascosas-emily-bronte/emily-bronte/",
-      "destination": "/cumbres-borrascosas-emily-bronte/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
@@ -476,7 +476,7 @@
     },
     {
       "source": "/leer/jane-eyre-charlotte-bronte/charlotte-bronte/",
-      "destination": "/jane-eyre-charlotte-bronte/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
@@ -486,7 +486,7 @@
     },
     {
       "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/leon-tolstoi/",
-      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
+      "destination": "/leer/",
       "permanent": true
     },
     {
@@ -535,6 +535,66 @@
       "permanent": true
     },
     {
+      "source": "/arsenio-lupin-leblanc/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/arsenio-lupin-leblanc/:path*",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/carta-de-una-desconocida-stefan-zweig/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/carta-de-una-desconocida-stefan-zweig/:path*",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/confianza-en-uno-mismo-emerson/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/confianza-en-uno-mismo-emerson/:path*",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/cumbres-borrascosas-emily-bronte/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/cumbres-borrascosas-emily-bronte/:path*",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/jane-eyre-charlotte-bronte/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/jane-eyre-charlotte-bronte/:path*",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/la-muerte-de-ivan-ilich-tolstoi/",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/:path*",
+      "destination": "/leer/",
+      "permanent": true
+    },
+    {
       "source": "/leer/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
       "destination": "/alicia-en-el-pais-de-las-maravillas-lewis-carroll/",
       "permanent": true
@@ -552,11 +612,6 @@
     {
       "source": "/leer/ariel-jose-enrique-rodo/",
       "destination": "/ariel-jose-enrique-rodo/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/arsenio-lupin-leblanc/",
-      "destination": "/arsenio-lupin-leblanc/",
       "permanent": true
     },
     {
@@ -590,18 +645,8 @@
       "permanent": true
     },
     {
-      "source": "/leer/carta-de-una-desconocida-stefan-zweig/",
-      "destination": "/carta-de-una-desconocida-stefan-zweig/",
-      "permanent": true
-    },
-    {
       "source": "/leer/clitofon-platon/",
       "destination": "/clitofon-platon/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/confianza-en-uno-mismo-emerson/",
-      "destination": "/confianza-en-uno-mismo-emerson/",
       "permanent": true
     },
     {
@@ -632,11 +677,6 @@
     {
       "source": "/leer/cumanda-juan-leon-mera/",
       "destination": "/cumanda-juan-leon-mera/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/cumbres-borrascosas-emily-bronte/",
-      "destination": "/cumbres-borrascosas-emily-bronte/",
       "permanent": true
     },
     {
@@ -820,11 +860,6 @@
       "permanent": true
     },
     {
-      "source": "/leer/jane-eyre-charlotte-bronte/",
-      "destination": "/jane-eyre-charlotte-bronte/",
-      "permanent": true
-    },
-    {
       "source": "/leer/la-barraca-vicente-blasco-ibanez/",
       "destination": "/la-barraca-vicente-blasco-ibanez/",
       "permanent": true
@@ -867,11 +902,6 @@
     {
       "source": "/leer/la-metamorfosis-kafka/",
       "destination": "/la-metamorfosis-kafka/",
-      "permanent": true
-    },
-    {
-      "source": "/leer/la-muerte-de-ivan-ilich-tolstoi/",
-      "destination": "/la-muerte-de-ivan-ilich-tolstoi/",
       "permanent": true
     },
     {
@@ -1087,6 +1117,261 @@
     {
       "source": "/leer/voltaire-zadig/",
       "destination": "/voltaire-zadig/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-10/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-11/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-12/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-13/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-14/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-15/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-16/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-17/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-18/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-19/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-2/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-20/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-21/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-22/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-23/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-24/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-25/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-26/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-27/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-29/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-3/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-30/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-31/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-32/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-33/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-34/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-35/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-36/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-37/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-38/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-39/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-4/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-40/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-41/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-42/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-43/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-44/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-45/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-46/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-47/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-48/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-49/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-5/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-50/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-51/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-6/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-7/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-8/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/capitulo-9/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/el-enquiridion-o-discursos-de-epicteto-1/",
+      "destination": "/el-arte-de-vivir-epicteto/",
+      "permanent": true
+    },
+    {
+      "source": "/leer/el-arte-de-vivir-epicteto/introduccion/",
+      "destination": "/el-arte-de-vivir-epicteto/",
       "permanent": true
     }
   ],

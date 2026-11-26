@@ -1,0 +1,12 @@
+{
+  "name": "labibliotecafilosofica",
+  "version": "1.0.0",
+  "description": "La Biblioteca Filosófica - Libros PDF, autores e historia",
+  "private": true,
+  "scripts": {
+    "build": "python3 migrate.py"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}

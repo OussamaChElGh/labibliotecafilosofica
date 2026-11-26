@@ -53,7 +53,7 @@ def shell(title, route, body, description="", noindex=False, schema=None, canoni
 <title>{escape(title)}</title><meta name="description" content="{escape(description)}">
 <link rel="canonical" href="{address}">{robots}
 <meta property="og:title" content="{escape(title)}"><meta property="og:description" content="{escape(description)}"><meta property="og:url" content="{address}">{structured}
-<link rel="stylesheet" href="/variables.css"><link rel="stylesheet" href="/biblioteca.css"><link rel="stylesheet" href="/fable.css"><script defer src="/biblioteca.js"></script></head>
+<link rel="stylesheet" href="/variables.css"><link rel="stylesheet" href="/biblioteca.css"><link rel="stylesheet" href="/fable.css"><script defer src="/biblioteca.js"></script><script>window.va = window.va || function () {{ (window.vaq = window.vaq || []).push(arguments); }};</script><script defer src="/_vercel/insights/script.js"></script></head>
 <body><a class="skip" href="#contenido">Saltar al contenido</a>
 <header class="masthead"><div class="bar"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">Φ</span><span>La Biblioteca<br>Filosófica</span></a>
 <nav class="main-nav" aria-label="Navegación principal">{navigation()}</nav>

@@ -27,7 +27,7 @@ TOOLBAR = ('<div class="reader-toolbar" hidden><a href="/biblioteca/">← Biblio
 
 
 BOOK_ASSETS = ('<link rel="stylesheet" href="/lector-libro.css"><script>document.documentElement.classList.add("book-js")</script>'
-               '<script defer src="/lector-libro.js"></script></head>')
+               '<script defer src="/lector-libro.js"></script><script type="module" src="/analytics.js"></script></head>')
 
 
 def with_book_assets(document, meta):

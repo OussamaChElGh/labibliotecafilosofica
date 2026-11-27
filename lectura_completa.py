@@ -302,18 +302,38 @@ def build(meta, blocks):
         crumbs = crumbs_index[:-1] + ([] if single else [("Leer online", base_route)]) + [(chapter["title"], route)]
         if meta.get("language", "es") != "es":  # texto en otro idioma (cuentos en inglés): lang en cada párrafo
             paragraphs = re.sub(r"<(p|h2|h3|blockquote)(?=[ >])", rf'<\1 lang="{meta["language"]}"', paragraphs)
+        lector_top = ('<aside class="ad-slot ad-slot--top" aria-label="Publicidad"><p class="ad-slot-label">Publicidad</p>'
+                      '<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6008420349068161" '
+                      'data-ad-slot="4644817436" data-ad-format="horizontal" data-full-width-responsive="true"></ins>'
+                      '<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></aside>')
+        lector_bottom = ('<aside class="ad-slot ad-slot--box" aria-label="Publicidad"><p class="ad-slot-label">Publicidad</p>'
+                         '<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6008420349068161" '
+                         'data-ad-slot="6569903387" data-ad-format="auto" data-full-width-responsive="true"></ins>'
+                         '<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></aside>')
+        aff_q = quote_plus(f'{meta["title"]} {meta["author"]}'.strip())
+        cover_file = PUBLIC / "leer" / slug / "portada-ficha.jpg"
+        cover_tag = f'<img src="/leer/{escape(slug)}/portada-ficha.jpg" alt="" width="120" height="180" loading="lazy">' if cover_file.exists() else ""
+        reader_paper = (f'<aside class="paper-box" data-paper-box aria-label="Edición en papel">'
+                        f'<div class="paper-box-cover">{cover_tag}</div><div class="paper-box-body">'
+                        f'<p class="paper-box-kicker">Edición en papel</p>'
+                        f'<p class="paper-box-title">¿Prefieres leer «{escape(meta["title"])}» en papel?</p>'
+                        '<ul><li>Subraya y anota sin pantallas</li><li>Ediciones con introducción y notas</li><li>Un buen regalo para lectores</li></ul>'
+                        f'<a class="paper-box-cta" href="https://www.amazon.es/s?k={aff_q}&amp;i=stripbooks&amp;tag=labibliote044-21" '
+                        f'rel="sponsored nofollow" data-affiliate data-query="{aff_q}">Ver ediciones y precios en Amazon <span aria-hidden="true">↗</span></a>'
+                        '<p class="paper-box-note">Enlace de afiliado: si compras, la biblioteca recibe una pequeña comisión sin coste extra para ti.</p>'
+                        '</div></aside>')
         body = (f'{TOOLBAR}<article class="reading reader-v2 reader-article" id="lectura">{breadcrumbs(crumbs)}'
                 f'<a class="back-link" href="{index_link}">← {"Ficha" if single else "Índice"} de {escape(meta["title"])}</a>'
                 f'<header class="folio-article-head"><p class="eyebrow">{escape(full_title)} · {number} de {len(rendered)}</p>'
                 f'<h1>{escape(chapter["title"])}</h1>'
                 f'<div class="reading-meta"><span>{minutes(words)} min de lectura</span><a href="#texto-obra">Empezar a leer ↓</a></div></header>'
-                f'<div class="entry" id="texto-obra">{chapter_index}'
+                f'{lector_top}<div class="entry" id="texto-obra">{chapter_index}'
                 f'<div class="book" data-book="{escape(slug)}" data-book-title="{escape(meta["title"])}" data-book-route="{escape(meta["book_route"])}" '
                 f'data-chapter="{number}" data-chapters="{len(rendered)}" data-chapter-title="{escape(chapter["title"])}" '
                 f'data-progress-start="{progress_start:.4f}" data-progress-span="{progress_span:.4f}" '
                 f'data-prev="{base_route + previous["slug"] + "/" if previous else ""}" data-next="{base_route + following["slug"] + "/" if following else ""}">'
                 f'<div class="book-viewport"><div class="book-flow"><p class="book-summary"><em>{escape(chapter["summary"])}</em></p>{paragraphs}{note_list}</div></div></div>'
-                f'{pager}{credit(meta)}</div></article>')
+                f'{pager}{lector_bottom}{reader_paper}{credit(meta)}</div></article>')
         schema = {"@context": "https://schema.org", "@graph": [breadcrumb_schema(crumbs), {
             "@type": "Chapter", "name": chapter["title"], "position": number, "url": BASE + route,
             "isPartOf": {"@type": "Book", "name": meta["title"], "url": BASE + base_route,

@@ -745,5 +745,61 @@
       ]
     ],
     "año": "1606"
+  },
+  "guide": {
+    "seo_title": "Macbeth de William Shakespeare: resumen por capítulos, ideas y análisis",
+    "description": "Resumen de Macbeth de William Shakespeare (5 partes): contexto, recorrido capítulo a capítulo, ideas clave, citas destacadas y lectura completa gratis.",
+    "short": "Tras una batalla victoriosa, el general escocés Macbeth y su amigo Banquo encuentran a tres brujas que profetizan que Macbeth será rey y que los hijos de Banquo reinarán. Animado por su esposa, Lady Macbeth, asesina al rey Duncan mientras duerme en su castillo y se apodera de la corona.",
+    "intro": "<p>Tras una batalla victoriosa, el general escocés Macbeth y su amigo Banquo encuentran a tres brujas que profetizan que Macbeth será rey y que los hijos de Banquo reinarán. Animado por su esposa, Lady Macbeth, asesina al rey Duncan mientras duerme en su castillo y se apodera de la corona.</p><p>Un crimen lleva a otro: Macbeth manda matar a Banquo y a la familia de Macduff. Lady Macbeth, atormentada por la culpa, camina sonámbula intentando limpiar una sangre invisible de sus manos y muere. Las nuevas profecías dan a Macbeth una falsa seguridad, pero el bosque de Birnam avanza hacia su castillo y Macduff, que no nació de mujer de forma natural, lo mata.</p><p>Empieza: «Cuándo volvemos á juntarnos, cuándo relampaguee, cuándo truene ó cuándo llueva?»</p>",
+    "chapters": {
+      "acto-1": "Bruja 1.ª. Cuándo volvemos á juntarnos, cuándo relampaguee, cuándo truene ó cuándo llueva? Bruja 2.ª. Cuando acabe el estruendo de la batalla, y unos la pierdan y otros la ganen.",
+      "acto-2": "Fleancio. No he oido el reloj, pero la luna va descendiendo. Banquo. Toma la espada. El cielo ha apagado sus candiles, sin duda por economía. Me rinde el sueño con mano de plomo, pero no quiero dormir. ¡Dios mio! contén la ira que viene á perturbarme en medio del reposo. Dame la espada. ¿Quién es?",
+      "acto-3": "Banquo (sólo). Ya eres rey, Macbeth, y señor de Glámis y de Cáudor. Está cumplido en todas sus partes el vaticinio de las hechiceras, pero ¿quién sabe si la traicion te habrá allanado el camino? Ni ha de quedar el cetro en tu linaje. Si es verdad lo que nos dijeron, reyes han de ser mis hijos. ¿Por qué los oráculos que fueron veraces contigo no han de…",
+      "acto-4": "Bruja 1.ª. Tres veces ha mayado el gato. Bruja 2.ª. Tres veces se ha lamentado el erizo.",
+      "acto-5": "El Médico. Aunque hemos permanecido dos noches en vela, nada he visto que confirme vuestros temores, ¿Cuándo la visteis levantarse por última vez? La Dama. Despues que el Rey se fué á la guerra, la he visto muchas veces levantarse, vestirse, sentarse á su mesa, tomar papel, escribir una carta, cerrarla, sellarla, y luego volverse á acostarse: todo ello…"
+    },
+    "characters": [
+      {
+        "name": "William Shakespeare",
+        "text": "Autor de Macbeth."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Claves de lectura de Macbeth",
+        "text": "Tras una batalla victoriosa, el general escocés Macbeth y su amigo Banquo encuentran a tres brujas que profetizan que Macbeth será rey y que los hijos de Banquo reinarán. Animado por su esposa, Lady Macbeth, asesina al rey Duncan mientras duerme en su castillo y se apodera de la corona."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Bruja 1.ª. Cuándo volvemos á juntarnos, cuándo relampaguee, cuándo truene ó cuándo llueva?",
+        "chapter": "acto-1",
+        "by": "William Shakespeare"
+      },
+      {
+        "text": "Banquo. ¿Todavía estás en pié? El Rey se ha acostado más alegre que nunca, y ponderando mucho tu hospitalidad. Manda un diamante para tu mujer, á quien llama su linda huéspeda.",
+        "chapter": "acto-2",
+        "by": "William Shakespeare"
+      },
+      {
+        "text": "Banquo. Vuestra Majestad puede mandarme, en vez de convidarme. Mi voluntad está indisolublemente unida á la vuestra.",
+        "chapter": "acto-3",
+        "by": "William Shakespeare"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿De qué trata Macbeth, de William Shakespeare?",
+        "a": "Tras una batalla victoriosa, el general escocés Macbeth y su amigo Banquo encuentran a tres brujas que profetizan que Macbeth será rey y que los hijos de Banquo reinarán. Animado por su esposa, Lady Macbeth, asesina al rey Duncan mientras duerme en su castillo y se apodera de la corona."
+      },
+      {
+        "q": "¿Cuántos capítulos o partes tiene Macbeth?",
+        "a": "Nuestra edición digital de Macbeth está organizada en 5 partes que puedes leer online capítulo a capítulo o descargar en PDF sin registro."
+      },
+      {
+        "q": "¿Dónde leer Macbeth completo gratis en español?",
+        "a": "En La Biblioteca Filosófica dispones del texto íntegro online de Macbeth en dominio público, con modo lectura, índice navegable y descarga gratuita en PDF."
+      }
+    ]
   }
 }

@@ -64,7 +64,7 @@ def shell(title, route, body, description="", noindex=False, schema=None, canoni
     # for the editorial/legal review phase.
     body = body.replace("http://labibliotecafilosofica.com", BASE)
     home_assets = ('<link rel="stylesheet" href="/folio.css"><link rel="stylesheet" href="/folio-system.css"><link rel="stylesheet" href="/folio-reference.css"><link rel="stylesheet" href="/folio-reader.css">'
-                   + ('<link rel="preload" href="/fonts/libre-caslon-display.ttf" as="font" type="font/ttf" crossorigin><script type="module" src="/folio.js"></script>' if route == '/' else ''))
+                   + ('<link rel="preload" href="/fonts/libre-caslon-display.woff2" as="font" type="font/woff2" crossorigin><script type="module" src="/folio.js"></script>' if route == '/' else ''))
     robots = '<meta name="robots" content="noindex,follow">' if noindex else ""
     address = BASE + (canonical or route)
     structured_json = json.dumps(schema, ensure_ascii=False).replace("http://labibliotecafilosofica.com", BASE).replace("<", chr(92) + "u003c") if schema else ""

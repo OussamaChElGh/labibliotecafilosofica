@@ -285,5 +285,82 @@
       ]
     ]
   },
-  "traducido": true
+  "traducido": true,
+  "guide": {
+    "seo_title": "El príncipe de Maquiavelo: resumen por capítulos, ideas y análisis",
+    "description": "Resumen de El príncipe de Nicolás Maquiavelo: virtù y fortuna, ¿es mejor ser temido o amado?, tipos de principados, citas comentadas y preguntas frecuentes.",
+    "short": "El príncipe es el tratado fundacional de la ciencia política moderna. Nicolás Maquiavelo analiza cómo conquistar y conservar el poder de un Estado mediante el realismo político, la eficacia militar y el equilibrio entre virtù y fortuna.",
+    "intro": "<p>Redactado en <strong>1513</strong> durante el exilio forzoso de Maquiavelo en San Casciano y dedicado a Lorenzo de Médici, <em>El príncipe</em> surge ante la debilidad de una Italia fragmentada e invadida por Francia y España. Su propósito es práctico: explicar <strong>cómo se adquiere y se conserva el poder político</strong>.</p>\n<p>Frente a los tratados medievales que idealizaban al gobernante virtuoso, Maquiavelo inaugura la <strong>autonomía de la política</strong>: el príncipe debe atender a la «verdad efectiva de las cosas» y aprender a «no ser bueno» cuando la supervivencia del Estado lo exige.</p>",
+    "chapters": {
+      "biografia-de-maquiavelo": "Empieza: «BIOGRAFIA DE MAQUIAVELO.[[1]]»",
+      "cartas-sobre-el-anti-maquiavelo": "Empieza: «CARTAS SOBRE EL ANTI-MAQUIAVELO.»",
+      "prefacio-del-anti-maquiavelo": "Empieza: «PREFACIO DEL ANTI-MAQUIAVELO.»",
+      "dedicatoria": "Empieza: «NICOLAS MAQUIAVELO,»",
+      "capitulo-1": "Empieza: «Todos los estados, todas las soberanías que tienen o que han tenido autoridad sobre los hombres, han sido y son, o repúblicas,…»",
+      "capitulo-2": "Empieza: «CAPITULO II.»",
+      "capitulo-3": "Empieza: «CAPITULO III»",
+      "capitulo-4": "Empieza: «CAPITULO IV»",
+      "capitulo-5": "Empieza: «CAPITULO V»",
+      "capitulo-6": "Empieza: «CAPITULO VI»",
+      "capitulo-7": "Empieza: «CAPITULO VII»",
+      "capitulo-8": "Empieza: «CAPITULO VIII»",
+      "capitulo-9": "Empieza: «CAPITULO IX.»",
+      "capitulo-10": "Empieza: «CAPITULO X»",
+      "capitulo-11": "Empieza: «CAPITULO XI»",
+      "capitulo-12": "Empieza: «CAPITULO XII»",
+      "capitulo-13": "Empieza: «CAPITULO XIII»",
+      "capitulo-14": "Empieza: «CAPITULO XIV»",
+      "capitulo-15": "Empieza: «CAPITULO XV»",
+      "capitulo-16": "Empieza: «CAPITULO XVI»",
+      "capitulo-17": "Empieza: «CAPITULO XVII»",
+      "capitulo-18": "Empieza: «CAPITULO XVIII»",
+      "capitulo-19": "Empieza: «CAPITULO XIX»",
+      "capitulo-20": "Empieza: «CAPITULO XX»",
+      "capitulo-21": "Empieza: «CAPITULO XXI»",
+      "capitulo-22": "Empieza: «CAPITULO XXII»",
+      "capitulo-23": "Empieza: «CAPITULO XXIII»",
+      "capitulo-24": "Empieza: «CAPITULO XXIV»",
+      "capitulo-25": "Empieza: «CAPITULO XXV»",
+      "capitulo-26": "Empieza: «CAPITULO XXVI [[53]]»"
+    },
+    "characters": [
+      {
+        "name": "Nicolás Maquiavelo",
+        "text": "Diplomático y pensador florentino. Su experiencia como secretario de la Segunda Cancillería de Florencia le dio un conocimiento directo de reyes, papas y condotieros."
+      },
+      {
+        "name": "César Borgia",
+        "text": "Modelo de príncipe nuevo. Aunque acabó derrotado por la mala fortuna, Maquiavelo admira su capacidad para someter la Romaña con decisión y eliminar a sus lugartenientes crueles."
+      },
+      {
+        "name": "Lorenzo de Médici",
+        "text": "Destinatario de la obra, a quien Maquiavelo ofrece el fruto de su experiencia histórica con la esperanza de volver a servir al Estado."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Separación entre política y moral privada",
+        "text": "Lo que es virtuoso en la vida privada puede arruinar a un Estado; la ética del gobernante se mide por la estabilidad y seguridad de la comunidad política."
+      },
+      {
+        "title": "Virtù y Fortuna",
+        "text": "La virtù maquiavélica no es bondad cristiana, sino energía, audacia, cálculo y capacidad de adaptarse a los tiempos cambiantes para domar a la fortuna."
+      },
+      {
+        "title": "Economía de la violencia",
+        "text": "Si es inevitable usar la fuerza al tomar el poder, las crueldades deben aplicarse de una sola vez, mientras que los beneficios deben repartirse poco a poco."
+      }
+    ],
+    "quotes": [],
+    "faq": [
+      {
+        "q": "¿Maquiavelo escribió «el fin justifica los medios»?",
+        "a": "No textualmente. La frase resume una idea del capítulo XVIII: el vulgo juzga al gobernante por el resultado final de mantener el Estado."
+      },
+      {
+        "q": "¿Maquiavelo era partidario de la tiranía?",
+        "a": "No necesariamente; en sus Discursos sobre la primera década de Tito Livio defiende la república. El príncipe responde a una situación de emergencia nacional."
+      }
+    ]
+  }
 }

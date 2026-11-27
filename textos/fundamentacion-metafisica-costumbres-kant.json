@@ -87,5 +87,55 @@
       ]
     ],
     "año": "1785"
+  },
+  "guide": {
+    "seo_title": "Fundamentación de la metafísica de las costumbres de Immanuel Kant: resumen por capítulos, ideas y análisis",
+    "description": "Resumen de Fundamentación de la metafísica de las costumbres de Immanuel Kant (4 partes): contexto, recorrido capítulo a capítulo, ideas clave, citas destacadas",
+    "short": "Kant busca el principio supremo de la moralidad. Parte de una idea común: lo único bueno sin restricción es una buena voluntad. Una acción tiene valor moral cuando se hace por deber, por respeto a la ley moral, y no solo conforme al deber o por inclinación.",
+    "intro": "<p>Kant busca el principio supremo de la moralidad. Parte de una idea común: lo único bueno sin restricción es una buena voluntad. Una acción tiene valor moral cuando se hace por deber, por respeto a la ley moral, y no solo conforme al deber o por inclinación.</p><p>Distingue los imperativos hipotéticos, que mandan algo como medio para un fin, del imperativo categórico, que manda de forma incondicional: obra solo según una máxima que puedas querer que se convierta en ley universal, y trata a la humanidad siempre como un fin y nunca solo como un medio. La moral se funda en la autonomía de la voluntad, que se da a sí misma su ley.</p><p>Empieza: «La antigua filosofía griega dividíase en tres ciencias: la física, la ética y la lógica. Esta división es perfectamente adecuada a la…»</p>",
+    "chapters": {
+      "prologo": "La antigua filosofía griega dividíase en tres ciencias: la física, la ética y la lógica. Esta división es perfectamente adecuada a la naturaleza de la cosa y nada hay que corregir en ella; pero convendrá quizá añadir el principio en que se funda, para cerciorarse así de que efectivamente es completa y poder determinar exactamente las necesarias…",
+      "transito-del-conocimiento-etico-comun-de-la-razon-al-filosofico": "Ni en el mundo, ni, en general, tampoco fuera del mundo, es posible pensar nada que pueda considerarse como bueno sin restricción, a no ser tan sólo una buena voluntad. El entendimiento, el gracejo, el Juicio, o como quieran llamarse los talentos del espíritu; el valor, la decisión, la perseverancia en los propósitos, como cualidades del temperamento,…",
+      "transito-del-saber-etico-popular-a-la-metafisica-de-las-costumbres": "Si bien hemos sacado el concepto del deber, que hasta ahora tenemos, del uso vulgar de nuestra razón práctica, no debe inferirse de ello, en manera alguna, que lo hayamos tratado como concepto de experiencia. Es más: atendiendo a la experiencia en el hacer y el omitir de los hombres, encontramos quejas numerosas y —hemos de confesarlo— justas, por no ser…",
+      "transito-de-la-metafisica-de-las-costumbres-a-la-critica-de-la-razon-pura-practica": "El concepto de la libertad es la clave para explicar la autonomía de la voluntad Voluntad es una especie de causalidad de los seres vivos, en cuanto que son racionales, y libertad sería la propiedad de esta causalidad, por la cual puede ser eficiente, independientemente de extrañas causas que la determinen, así como necesidad natural es la propiedad de…"
+    },
+    "characters": [
+      {
+        "name": "Immanuel Kant",
+        "text": "Autor de Fundamentación de la metafísica de las costumbres."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Claves de lectura de Fundamentación de la metafísica de las costumbres",
+        "text": "Kant busca el principio supremo de la moralidad. Parte de una idea común: lo único bueno sin restricción es una buena voluntad. Una acción tiene valor moral cuando se hace por deber, por respeto a la ley moral, y no solo conforme al deber o por inclinación."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "La representación de un principio objetivo, en tanto que es constrictivo para una voluntad, llámase mandato (de la razón), y la fórmula del mandato llámase imperativo.",
+        "chapter": "transito-del-saber-etico-popular-a-la-metafisica-de-las-costumbres",
+        "by": "Immanuel Kant"
+      },
+      {
+        "text": "El concepto de la libertad es la clave para explicar la autonomía de la voluntad",
+        "chapter": "transito-de-la-metafisica-de-las-costumbres-a-la-critica-de-la-razon-pura-practica",
+        "by": "Immanuel Kant"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿De qué trata Fundamentación de la metafísica de las costumbres, de Immanuel Kant?",
+        "a": "Kant busca el principio supremo de la moralidad. Parte de una idea común: lo único bueno sin restricción es una buena voluntad. Una acción tiene valor moral cuando se hace por deber, por respeto a la ley moral, y no solo conforme al deber o por inclinación."
+      },
+      {
+        "q": "¿Cuántos capítulos o partes tiene Fundamentación de la metafísica de las costumbres?",
+        "a": "Nuestra edición digital de Fundamentación de la metafísica de las costumbres está organizada en 4 partes que puedes leer online capítulo a capítulo o descargar en PDF sin registro."
+      },
+      {
+        "q": "¿Dónde leer Fundamentación de la metafísica de las costumbres completo gratis en español?",
+        "a": "En La Biblioteca Filosófica dispones del texto íntegro online de Fundamentación de la metafísica de las costumbres en dominio público, con modo lectura, índice navegable y descarga gratuita en PDF."
+      }
+    ]
   }
 }

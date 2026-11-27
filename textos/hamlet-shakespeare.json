@@ -1263,5 +1263,61 @@
         "Leandro Fernández de Moratín, que la publicó en 1798 con el seudónimo de Inarco Celenio. Fue la primera traducción española hecha directamente del inglés."
       ]
     ]
+  },
+  "guide": {
+    "seo_title": "Hamlet de William Shakespeare: resumen por capítulos, ideas y análisis",
+    "description": "Resumen de Hamlet de William Shakespeare (5 partes): contexto, recorrido capítulo a capítulo, ideas clave, citas destacadas y lectura completa gratis.",
+    "short": "En el castillo de Elsingor, el fantasma del rey de Dinamarca se aparece a su hijo, el príncipe Hamlet, y le revela que fue asesinado por su hermano Claudio, que ahora reina y se ha casado con la reina Gertrudis. Hamlet jura vengarlo y finge estar loco para ocultar sus planes, mientras el consejero Polonio cree que su locura nace del amor por su hija Ofelia.",
+    "intro": "<p>En el castillo de Elsingor, el fantasma del rey de Dinamarca se aparece a su hijo, el príncipe Hamlet, y le revela que fue asesinado por su hermano Claudio, que ahora reina y se ha casado con la reina Gertrudis. Hamlet jura vengarlo y finge estar loco para ocultar sus planes, mientras el consejero Polonio cree que su locura nace del amor por su hija Ofelia.</p><p>Para confirmar la culpa del rey, Hamlet hace representar una obra que imita el crimen, y Claudio se delata. Hamlet mata por error a Polonio, es enviado a Inglaterra y escapa de la muerte que le preparaban. Ofelia enloquece y se ahoga. Su hermano Laertes, aliado con Claudio, reta a Hamlet a un duelo con una espada envenenada. Mueren la reina, Laertes, Claudio y el propio Hamlet, y Fortimbrás de Noruega se queda con el trono.</p><p>Empieza: «¿Y no os fue posible indagar en la conversación que con él tuvisteis, de qué nace aquel desorden de espíritu que tan…»</p>",
+    "chapters": {
+      "acto-1": "Francisco. No, respóndame él a mí. Deténgase y diga quién es. Francisco. Tú eres el más puntual en venir a la hora.",
+      "acto-2": "Polonio. Reynaldo, entrégale este dinero y estas cartas. Polonio. Será un admirable golpe de prudencia, que antes de verle te informaras de su conducta.",
+      "acto-3": "Claudio. ¿Y no os fue posible indagar en la conversación que con él tuvisteis, de qué nace aquel desorden de espíritu que tan cruelmente altera su quietud, con turbulenta y peligrosa demencia? Ricardo. Él mismo reconoce los extravíos de su razón; pero no ha querido manifestarnos el origen de ellos.",
+      "acto-4": "Claudio. Esos suspiros, esos profundos sollozos, alguna causa tienen, dime cuál es; conviene que la sepa yo... ¿En dónde está tu hijo? Gertrudis. Dejadnos solos un instante. ¡Ah! ¡Señor lo que he visto esta noche!",
+      "acto-5": "Sepulturero 1º. ¿Y es la que ha de (192) sepultarse en tierra sagrada, la que deliberadamente ha conspirado contra su propia salvación? Sepulturero 2º. Dígote que sí, conque haz presto el hoyo. El juez ha reconocido ya el cadáver y ha dispuesto que se la entierre en sagrado."
+    },
+    "characters": [
+      {
+        "name": "William Shakespeare",
+        "text": "Autor de Hamlet."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Claves de lectura de Hamlet",
+        "text": "En el castillo de Elsingor, el fantasma del rey de Dinamarca se aparece a su hijo, el príncipe Hamlet, y le revela que fue asesinado por su hermano Claudio, que ahora reina y se ha casado con la reina Gertrudis. Hamlet jura vengarlo y finge estar loco para ocultar sus planes, mientras el consejero Polonio cree que su locura nace del amor por su hija Ofelia."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Francisco. Te doy mil gracias por la mudanza. Hace un frío que penetra y yo estoy delicado del pecho.",
+        "chapter": "acto-1",
+        "by": "William Shakespeare"
+      },
+      {
+        "text": "Polonio. Será un admirable golpe de prudencia, que antes de verle te informaras de su conducta.",
+        "chapter": "acto-2",
+        "by": "William Shakespeare"
+      },
+      {
+        "text": "Claudio. ¿Y no os fue posible indagar en la conversación que con él tuvisteis, de qué nace aquel desorden de espíritu que tan cruelmente altera su quietud, con turbulenta y peligrosa demencia?",
+        "chapter": "acto-3",
+        "by": "William Shakespeare"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿De qué trata Hamlet, de William Shakespeare?",
+        "a": "En el castillo de Elsingor, el fantasma del rey de Dinamarca se aparece a su hijo, el príncipe Hamlet, y le revela que fue asesinado por su hermano Claudio, que ahora reina y se ha casado con la reina Gertrudis. Hamlet jura vengarlo y finge estar loco para ocultar sus planes, mientras el consejero Polonio cree que su locura nace del amor por su hija Ofelia."
+      },
+      {
+        "q": "¿Cuántos capítulos o partes tiene Hamlet?",
+        "a": "Nuestra edición digital de Hamlet está organizada en 5 partes que puedes leer online capítulo a capítulo o descargar en PDF sin registro."
+      },
+      {
+        "q": "¿Dónde leer Hamlet completo gratis en español?",
+        "a": "En La Biblioteca Filosófica dispones del texto íntegro online de Hamlet en dominio público, con modo lectura, índice navegable y descarga gratuita en PDF."
+      }
+    ]
   }
 }

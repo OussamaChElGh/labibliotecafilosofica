@@ -147,5 +147,72 @@
         "Porque sus principios sobre planificación, información y liderazgo se aplican a cualquier competencia."
       ]
     ]
+  },
+  "guide": {
+    "seo_title": "El arte de la guerra de Sun Tzu: resumen por capítulos, frases y análisis",
+    "description": "Resumen de El arte de la guerra de Sun Tzu en 13 capítulos: vencer sin combatir, conocer al enemigo, estrategia y táctica, citas comentadas y preguntas frecuentes.",
+    "short": "El arte de la guerra es el tratado clásico chino de estrategia atribuido a Sun Tzu. En trece capítulos breves enseña que la máxima excelencia consiste en someter al adversario sin llegar a combatir, mediante la planificación previa, la información, el engaño y la adaptabilidad.",
+    "intro": "<p>Redactado en la China antigua hacia el <strong>siglo V a. C.</strong>, <em>El arte de la guerra</em> es el manual de estrategia más leído de la historia. Su autor, el general <strong>Sun Tzu</strong>, no concibe la guerra como un alarde de fuerza bruta, sino como una ciencia de cálculo, psicología y ahorro de recursos.</p>\n<p>Precisamente porque trata sobre <strong>cómo gestionar conflictos bajo incertidumbre</strong>, sus principios se aplican hoy tanto en la historia militar como en la empresa, la negociación, el deporte y la toma de decisiones personales.</p>",
+    "chapters": {
+      "capitulo-1-sobre-la-evaluacion": "Antes de actuar hay que calcular cinco factores fundamentales: la doctrina moral (unidad), el tiempo (clima), el terreno, el mando (sabiduría y disciplina) y la organización. Todo arte militar se basa en el engaño estratégico: aparentar debilidad cuando se es fuerte.",
+      "capitulo-2-sobre-la-iniciacion-de-las-acciones": "Las campañas prolongadas arruinan al Estado y agotan a las tropas. El buen estratega busca una victoria rápida y decisiva y se abastece sobre el terreno enemigo para no desangrar sus propios recursos.",
+      "capitulo-3-sobre-las-proposiciones-de-la-victoria-y-la-derro": "Formula la tesis central del libro: vencer sin combatir es la suprema excelencia. Lo mejor es atacar los planes del enemigo; luego sus alianzas; solo en último extremo, su ejército o sus ciudades amuralladas. Incluye la célebre máxima: «Conócete a ti mismo y conoce al enemigo».",
+      "capitulo-4-sobre-la-medida-en-la-disposicion-de-los-medios": "Primero hay que hacerse invencible (defensa impecable) y esperar el momento en que el enemigo sea vulnerable. Los grandes vencedores ganan primero y luego van a la batalla, porque ya han asegurado las condiciones de la victoria.",
+      "capitulo-5-sobre-la-firmeza": "Distingue entre la fuerza ordinaria (zheng, enfrentamiento directo) y la extraordinaria (qi, maniobra sorpresiva). Combinar ambas con buen ritmo genera un ímpetu irresistible, como piedras rodando desde una montaña.",
+      "capitulo-6-sobre-lo-lleno-y-lo-vacio": "Consiste en tomar la iniciativa: obligar al adversario a acudir donde nosotros queremos, atacando sus puntos vacíos y evitando sus puntos fuertes. El ejército debe ser como el agua, que esquiva lo alto y fluye hacia lo bajo.",
+      "capitulo-7-sobre-el-enfrentamiento-directo-e-indirecto": "Analiza la dificultad de convertir una ruta tortuosa en directa y el peligro de perseguir señuelos. Enseña a manejar el ánimo de las tropas y a mantener el orden mediante señales claras.",
+      "capitulo-8-sobre-los-nueve-cambios": "El general debe adaptar sus órdenes a la situación real del terreno en lugar de aplicar reglas rígidas. Enumera los cinco defectos fatales de un líder: temeridad, cobardía, cólera impulsiva, orgullo susceptible y compasión mal entendida.",
+      "capitulo-9-sobre-la-distribucion-de-los-medios": "Guía práctica para leer señales en el campo (polvo, pájaros, silencio, movimientos en las filas) y elegir posiciones elevadas y secas evitando trampas naturales.",
+      "capitulo-10-sobre-la-topologia": "Clasifica seis tipos de terreno (accesible, enredado, indeciso, estrecho, escarpado, lejano) y las causas de derrota atribuibles al mal liderazgo, subrayando el equilibrio entre firmeza y cuidado paterno hacia los soldados.",
+      "capitulo-11-sobre-las-nueve-clases-de-terreno": "Describe nueve situaciones tácticas, desde el terreno de dispersión hasta el terreno mortal (donde sin salida los soldados luchan con todo su valor), aconsejando unidad y rapidez.",
+      "capitulo-12-sobre-el-arte-de-atacar-por-el-fuego": "Detalla el uso táctico del fuego y el agua como armas destructivas, pero concluye con una advertencia ética: nunca iniciar una guerra por ira ni orgullo, pues un reino destruido no vuelve a existir.",
+      "capitulo-13-sobre-la-concordia-y-la-discordia": "Cierra la obra destacando el valor supremo de la información previa mediante cinco tipos de agentes (espías locales, internos, dobles, sacrificables y supervivientes), indispensable para no avanzar a ciegas."
+    },
+    "characters": [
+      {
+        "name": "Sun Tzu (Sunzi)",
+        "text": "General y filósofo militar chino. Consejero del rey Helü de Wu, sintetizó la estrategia clásica en trece capítulos breves y precisos."
+      },
+      {
+        "name": "El buen general",
+        "text": "Arquetipo de liderazgo en la obra: sereno, impenetrable, previsor, capaz de inspirar confianza sin caer en la ira ni en la temeridad."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Vencer sin combatir",
+        "text": "La guerra es un mal costoso; el verdadero triunfo es desarmar la voluntad o los planes del rival antes de que estalle el choque abierto."
+      },
+      {
+        "title": "Asimetría de la información",
+        "text": "Quien conoce el terreno, sus propias fuerzas y los puntos débiles del adversario reduce el azar al mínimo."
+      },
+      {
+        "title": "Flexibilidad táctica",
+        "text": "No existen tácticas eternas: como el agua adopta la forma del cauce, la estrategia debe mutar según las circunstancias."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "La doctrina significa aquello que hace que el pueblo esté en armonía con su gobernante, de modo que le siga donde sea, sin temer por sus vidas ni a correr cualquier peligro.",
+        "chapter": "capitulo-1-sobre-la-evaluacion",
+        "by": "Sun Tzu"
+      },
+      {
+        "text": "Como regla general, es mejor conservar a un enemigo intacto que destruirlo. Capturar a sus soldados para conquistarlos y dominas a sus jefes.",
+        "chapter": "capitulo-3-sobre-las-proposiciones-de-la-victoria-y-la-derro",
+        "by": "Sun Tzu"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué es tan famoso El arte de la guerra?",
+        "a": "Porque condensa en pocas páginas principios universales sobre estrategia, anticipación, psicología y liderazgo aplicables más allá de lo militar."
+      },
+      {
+        "q": "¿Cuántos capítulos tiene El arte de la guerra?",
+        "a": "Trece capítulos breves, desde la evaluación inicial hasta el uso de espías."
+      }
+    ]
   }
 }

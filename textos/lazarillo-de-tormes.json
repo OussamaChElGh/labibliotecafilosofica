@@ -88,5 +88,53 @@
       ]
     ]
   },
-  "inner_titles": true
+  "inner_titles": true,
+  "guide": {
+    "seo_title": "La vida de Lazarillo de Tormes de Anónimo: resumen por capítulos, ideas y análisis",
+    "description": "Resumen de La vida de Lazarillo de Tormes de Anónimo (2 partes): contexto, recorrido capítulo a capítulo, ideas clave, citas destacadas y lectura completa grati",
+    "short": "Lázaro de Tormes, un niño huérfano de Salamanca, cuenta su vida al servicio de varios amos. El primero es un ciego astuto que le enseña a espabilarse; el segundo, un cura tacaño que lo mata de hambre; el tercero, un escudero orgulloso y pobre que finge una vida que no tiene.",
+    "intro": "<p>Lázaro de Tormes, un niño huérfano de Salamanca, cuenta su vida al servicio de varios amos. El primero es un ciego astuto que le enseña a espabilarse; el segundo, un cura tacaño que lo mata de hambre; el tercero, un escudero orgulloso y pobre que finge una vida que no tiene.</p><p>Con cada amo, Lázaro aprende a sobrevivir con ingenio en una sociedad hipócrita. Al final, se casa con la criada de un arcipreste y acepta la deshonra a cambio de una vida cómoda. Es la primera novela picaresca y una sátira implacable del clero y de las apariencias.</p><p>Empieza: «LA VIDA DE LAZARILLO DE TORMES Y DE SUS FORTUNAS Y ADVERSIDADES»</p>",
+    "chapters": {
+      "parte-1": "LA VIDA DE LAZARILLO DE TORMES Y DE SUS FORTUNAS Y ADVERSIDADES {Interpolaciones de la edición de Alcalá}",
+      "parte-2": "Y llevándolo a la boca, comenzó a dar en él tan fieros bocados como yo en lo otro. &quot;Sabrosísimo pan está -dijo-, por Dios.&quot;"
+    },
+    "characters": [
+      {
+        "name": "Anónimo",
+        "text": "Autor de La vida de Lazarillo de Tormes."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Claves de lectura de La vida de Lazarillo de Tormes",
+        "text": "Lázaro de Tormes, un niño huérfano de Salamanca, cuenta su vida al servicio de varios amos. El primero es un ciego astuto que le enseña a espabilarse; el segundo, un cura tacaño que lo mata de hambre; el tercero, un escudero orgulloso y pobre que finge una vida que no tiene."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Yo, aunque bien mochacho, noté aquella palabra de mi hermanico, y dije entre mí:",
+        "chapter": "parte-1",
+        "by": "Anónimo"
+      },
+      {
+        "text": "Y llevándolo a la boca, comenzó a dar en él tan fieros bocados como yo en lo otro.",
+        "chapter": "parte-2",
+        "by": "Anónimo"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿De qué trata La vida de Lazarillo de Tormes, de Anónimo?",
+        "a": "Lázaro de Tormes, un niño huérfano de Salamanca, cuenta su vida al servicio de varios amos. El primero es un ciego astuto que le enseña a espabilarse; el segundo, un cura tacaño que lo mata de hambre; el tercero, un escudero orgulloso y pobre que finge una vida que no tiene."
+      },
+      {
+        "q": "¿Cuántos capítulos o partes tiene La vida de Lazarillo de Tormes?",
+        "a": "Nuestra edición digital de La vida de Lazarillo de Tormes está organizada en 2 partes que puedes leer online capítulo a capítulo o descargar en PDF sin registro."
+      },
+      {
+        "q": "¿Dónde leer La vida de Lazarillo de Tormes completo gratis en español?",
+        "a": "En La Biblioteca Filosófica dispones del texto íntegro online de La vida de Lazarillo de Tormes en dominio público, con modo lectura, índice navegable y descarga gratuita en PDF."
+      }
+    ]
+  }
 }

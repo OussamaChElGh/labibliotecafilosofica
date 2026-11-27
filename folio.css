@@ -1,4 +1,4 @@
-@font-face{font-family:Caslon Display;src:url('/fonts/libre-caslon-display.ttf') format('truetype');font-weight:400;font-display:swap}
+@font-face{font-family:Caslon Display;src:url('/fonts/libre-caslon-display.woff2') format('woff2');font-weight:400;font-display:swap}
 .folio-home{--folio-serif:'Caslon Display',Georgia,serif;background:#f7f4ee}
 .folio-site .masthead{position:relative;z-index:10;background:#000;color:#f7f4ee;border:0}
 .folio-site .masthead .bar{max-width:1440px;width:calc(100% - 96px);height:96px;margin:auto;padding:0;gap:24px}

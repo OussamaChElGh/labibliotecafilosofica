@@ -104,5 +104,64 @@
       ]
     ]
   },
-  "edition": "Obras de los moralistas griegos, Madrid, 1888"
+  "edition": "Obras de los moralistas griegos, Madrid, 1888",
+  "guide": {
+    "seo_title": "Enquiridión (Manual de vida) de Epicteto: resumen por capítulos, ideas y análisis",
+    "description": "Resumen de Enquiridión (Manual de vida) de Epicteto (8 partes): contexto, recorrido capítulo a capítulo, ideas clave, citas destacadas y lectura completa gratis",
+    "short": "El Enquiridión, también conocido como Manual o El arte de vivir, recoge las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte).",
+    "intro": "<p>El Enquiridión, también conocido como Manual o El arte de vivir, recoge las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte).</p><p>La libertad consiste en ocuparse solo de lo primero y aceptar lo segundo con serenidad. No son las cosas las que nos perturban, sino nuestras opiniones sobre las cosas. En aforismos breves, Epicteto enseña a soportar, a abstenerse y a vivir conforme a la razón.</p><p>Empieza: «Hay ciertas cosas que dependen de nosotros mismos, como la opinión, la inclinación, los deseos, la aversión, y en una palabra, todas nuestras operaciones.»</p>",
+    "chapters": {
+      "maximas-i-x": "Hay ciertas cosas que dependen de nosotros mismos, como la opinión, la inclinación, los deseos, la aversión, y en una palabra, todas nuestras operaciones. Otras hay también que no dependen, como el cuerpo, las riquezas, la reputación, los imperios, y finalmente, todo aquello que no es de nuestra operación. Lo que depende de nosotros es libre por su…",
+      "maximas-xi-xx": "De ignorante y brutal es el culpar á otros de las propias miserias. Aquel que á sí mismo se culpa de su infortunio, comienza á entrar en el camino de la sabiduría; pero el que ni se acusa á sí, ni á los demás, es perfectamente sabio. No te alabes jamás de ajenas excelencias. Si un caballo pudiese decir que es hermoso, en su boca sería tolerable. Pero…",
+      "maximas-xxi-xxx": "Verdaderamente es dueño de todas las cosas el que tiene poder de retener las que quiere y de desechar las que le disgustan. Cualquiera, pues, que tenga deseo de ser libre de esta suerte, conviene que se acostumbre á no tener deseo ni aversión algunade todo lo que depende del poder ajeno. Porque, si obra de otra manera, caerá infaliblemente en la…",
+      "maximas-xxxi-xl": "No te embaraces el entendimiento con pensar que no se hará caso de ti, que no recibirás honra alguna, porque si el no recibir honra fuese un mal, seguiríase que estaría en poder ajeno el hacernos desdichados, lo cual no puede ser, porque como no podemos caer en el vicio por acción ajena, así no podemos caer en el mal por ajena acción. Depende de ti el…",
+      "maximas-xli-l": "Conviene que te prescribas una cierta manera de vivir ó una ley que observes inviolablemente en cualquiera parte que puedas estar, sea conversando entre los hombres ó retirado en tu vida privada. Guarda el silencio cuanto te fuere posible. Nunca digas sino lo que absolutamente es necesario, y en ello emplea las menos palabras que pudieres.",
+      "maximas-li-lx": "Cuando tengas que hacer con alguna persona de calidad, considera (antes de emprenderlo) lo que hiciera Sócrates y Zenón en ocasión semejante. Si obras así, seguro estarás de no haber hecho cosa que no sea conforme á razón. Cuando vayas á hablar á algún grande, imagina que no le hallarás en casa, ó que estará encerrado, ó que las puertas no estarán…",
+      "maximas-lxi-lxx": "El cuerpo debe ser la medida de las riquezas como el pie es la medida del zapato; guarda bien esta regla. Nunca te apartarás de la medianía ni de los límites que ella te prescribe, y si la desdeñas caerás iinfaliblemente en el precipicio; porque cuando la curiosidad te ha hecho tener zapatos al uso y que exceden á la medida de tus pies, entonces los…",
+      "maximas-lxxi-lxxviii": "Las señales por donde se conoce que un hombre progresa en el estudio de la virtud son: no reprender, no alabar, no menospreciar ni acusar á nadie, no alabarse nunca de lo que él mismo es ni de lo que sabe, acusarse cuando se le impide ó prohibe hacer alguna cosa, burlarse á sus solas de los que le alaban, no enojarse cuando les reprenden, sino hacer como…"
+    },
+    "characters": [
+      {
+        "name": "Epicteto",
+        "text": "Autor de Enquiridión (Manual de vida)."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Claves de lectura de Enquiridión (Manual de vida)",
+        "text": "El Enquiridión, también conocido como Manual o El arte de vivir, recoge las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte)."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Lo que depende de nosotros es libre por su naturaleza, y no puede ser impedido ni forzado de ningún hombre; y al contrario, lo que no depende de nosotros es servil, despreciable y sujeto al ajeno poder.",
+        "chapter": "maximas-i-x",
+        "by": "Epicteto"
+      },
+      {
+        "text": "Y asimismo, fingirás estar triste y compadecerte de su aflicción si lo juzgas á propósito. Mas guárdate sobre todo que fingiéndolo no te entristezcas efectivamente en tu corazón.",
+        "chapter": "maximas-xxi-xxx",
+        "by": "Epicteto"
+      },
+      {
+        "text": "Conviene que te prescribas una cierta manera de vivir ó una ley que observes inviolablemente en cualquiera parte que puedas estar, sea conversando entre los hombres ó retirado en tu vida privada.",
+        "chapter": "maximas-xli-l",
+        "by": "Epicteto"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿De qué trata Enquiridión (Manual de vida), de Epicteto?",
+        "a": "El Enquiridión, también conocido como Manual o El arte de vivir, recoge las máximas de Epicteto, esclavo liberado que enseñó filosofía estoica en Roma y luego en Nicópolis. Su enseñanza parte de una distinción fundamental: hay cosas que dependen de nosotros (nuestros juicios, deseos e impulsos) y cosas que no (el cuerpo, la fama, la riqueza, la muerte)."
+      },
+      {
+        "q": "¿Cuántos capítulos o partes tiene Enquiridión (Manual de vida)?",
+        "a": "Nuestra edición digital de Enquiridión (Manual de vida) está organizada en 8 partes que puedes leer online capítulo a capítulo o descargar en PDF sin registro."
+      },
+      {
+        "q": "¿Dónde leer Enquiridión (Manual de vida) completo gratis en español?",
+        "a": "En La Biblioteca Filosófica dispones del texto íntegro online de Enquiridión (Manual de vida) en dominio público, con modo lectura, índice navegable y descarga gratuita en PDF."
+      }
+    ]
+  }
 }

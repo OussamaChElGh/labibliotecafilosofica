@@ -95,5 +95,70 @@
         "En 1915."
       ]
     ]
+  },
+  "guide": {
+    "seo_title": "La metamorfosis de Franz Kafka: resumen por capítulos, personajes y análisis",
+    "description": "Resumen completo de La metamorfosis de Kafka en 3 capítulos: Gregorio Samsa, su familia, símbolos de la manzana y el insecto, citas comentadas y FAQ.",
+    "short": "La metamorfosis (1915) narra la historia de Gregorio Samsa, un viajante de comercio que despierta convertido en un monstruoso insecto. En tres capítulos, Kafka retrata la alienación laboral, la incomunicación y la crueldad cotidiana de una familia que lo abandona cuando deja de producir dinero.",
+    "intro": "<p>Publicada en <strong>1915</strong>, <em>La metamorfosis</em> (cuyo título original alemán, <em>Die Verwandlung</em>, significa literalmente «La transformación») es una de las cumbres de la narrativa del siglo XX. Desde su célebre primera frase, lo fantástico irrumpe con naturalidad en la rutina doméstica de Praga.</p>\n<p>Lo más perturbador de la novela no es el cuerpo monstruoso de Gregorio Samsa, sino que <strong>él conserve su conciencia humana y su preocupación por el trabajo y las deudas familiares</strong> mientras su entorno lo trata progresivamente como un desecho.</p>",
+    "chapters": {
+      "capitulo-1": "Al despertar de un sueño intranquilo, Gregorio Samsa descubre que se ha transformado en un enorme insecto de duro caparazón y múltiples patas. Lejos de entrar en pánico existencial, su primera angustia es llegar tarde al tren de las cinco para cumplir como viajante de comercio y pagar la deuda de su padre. Cuando el apoderado de la empresa acude a su casa a reprocharle su ausencia, Gregorio logra abrir la puerta con la boca; su aspecto horroriza al apoderado, que huye, y a su padre, que lo empuja violentamente a bastonazos de vuelta a su habitación.",
+      "capitulo-2": "Gregorio se adapta a su nuevo cuerpo —prefiere esconderse bajo el sofá y comer desperdicios— mientras su hermana Grete asume al principio su cuidado. Al escuchar tras la puerta que la familia ha tenido que volver a trabajar, Gregorio siente vergüenza e impotencia. Cuando Grete y su madre intentan vaciarle el cuarto de muebles para darle espacio, Gregorio sale aterrado y se aferra al retrato de la dama con pieles. Su madre se desmaya y el padre, furioso, le lanza manzanas: una se le queda incrustada en el caparazón, provocándole una herida grave que nadie se atreve a extraer.",
+      "capitulo-3": "Con la herida infectada y cada vez más débil, Gregorio queda relegado mientras la familia alquila una habitación a tres inquilinos exigentes. Una noche, atraído por el sonido del violín de Grete, Gregorio sale al comedor en busca de afecto; los huéspedes se escandalizan y amenazan con irse sin pagar. Es el punto de quiebre: Grete declara que «eso» ya no es su hermano y que deben deshacerse de él. Humillado, Gregorio vuelve a su cuarto y muere en silencio al amanecer. La criada descubre el cadáver y la familia, aliviada, sale de excursión al campo planeando su nuevo futuro."
+    },
+    "characters": [
+      {
+        "name": "Gregorio Samsa",
+        "text": "Protagonista. Viajante de comercio abnegado que sostenía a toda su familia. Convertido en insecto, simboliza al individuo reducido a mera herramienta económica."
+      },
+      {
+        "name": "Grete Samsa",
+        "text": "Hermana menor. Pasa de ser la única aliada que alimenta a Gregorio a convertirse en la voz más implacable que exige expulsarlo."
+      },
+      {
+        "name": "Señor Samsa (el padre)",
+        "text": "Figura autoritaria y parasitaria. Inactivo durante años, recupera su vigor y su uniforme de ordenanza cuando Gregorio cae enfermo; lo hiere con la manzana."
+      },
+      {
+        "name": "Señora Samsa (la madre)",
+        "text": "Afectuosa pero débil. Se debate entre el amor maternal hacia su hijo y el terror físico que le provoca su aspecto."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Deshumanización y valor económico",
+        "text": "El afecto familiar estaba condicionado a la nómina de Gregorio: cuando deja de ser útil, su dignidad humana desaparece a ojos de los demás."
+      },
+      {
+        "title": "Incomunicación absoluta",
+        "text": "Gregorio entiende perfectamente cada palabra de su familia, pero su nueva voz suena como un chillido incomprensible: aislamiento total en medio del hogar."
+      },
+      {
+        "title": "El simbolismo de la manzana y la música",
+        "text": "La manzana clavada en la espalda evoca la culpa y el rechazo paterno; el violín de Grete representa el último vínculo de Gregorio con la belleza y lo humano."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "La mirada de Gregorio se dirigió después hacia la ventana, y el tiempo lluvioso -se oían caer gotas de lluvia sobre la chapa del alféizar de la ventanalo ponía muy melancólico.",
+        "chapter": "capitulo-1",
+        "by": "Franz Kafka"
+      },
+      {
+        "text": "-¿Conque no seguimos adelante? -preguntó, al ver que Gregorio se daba de nuevo la vuelta, y volvió a colocar la silla tranquilamente en el rincón.",
+        "chapter": "capitulo-3",
+        "by": "Franz Kafka"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿En qué insecto exacto se convierte Gregorio Samsa?",
+        "a": "Kafka evita nombrarlo como «cucaracha» o «escarabajo» concretos: usa el término alemán Ungeziefer («bicho monstruoso» o alimaña) y pidió expresamente que no se dibujara al insecto en la portada original."
+      },
+      {
+        "q": "¿Qué significa el final de La metamorfosis?",
+        "a": "El alivio y el paseo primaveral de la familia tras la muerte de Gregorio cierran la crítica de Kafka: la vida burguesa sigue adelante sin remordimientos tras sacrificar al distinto."
+      }
+    ]
   }
 }

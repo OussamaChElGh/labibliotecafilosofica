@@ -140,5 +140,75 @@
         "Doce."
       ]
     ]
+  },
+  "guide": {
+    "seo_title": "Meditaciones de Marco Aurelio: resumen por libros, estoicismo y análisis",
+    "description": "Resumen de Meditaciones de Marco Aurelio libro por libro (I al XII): pilares del estoicismo práctico, la ciudadela interior, citas comentadas y preguntas frecuentes.",
+    "short": "Meditaciones es el diario filosófico privado del emperador romano Marco Aurelio. En doce libros breves reúne ejercicios diarios de estoicismo sobre el control de la mente, la aceptación del destino, el deber hacia los demás y la serenidad ante la muerte.",
+    "intro": "<p>Escritas en griego durante las campañas militares del Danubio bajo el título original <em>Ta eis heautón</em> («A sí mismo»), las <em>Meditaciones</em> nunca fueron concebidas para publicarse. Son el diálogo íntimo del hombre más poderoso del mundo recordándose cada mañana cómo no corromperse.</p>\n<p>Lejos de la teoría académica, Marco Aurelio practica el <strong>estoicismo como terapia diaria</strong>: distinguir lo que depende de nuestra voluntad de lo que pertenece al orden del universo (<em>Logos</em>), obrar con justicia y vivir plenamente el instante presente.</p>",
+    "chapters": {
+      "libro-i": "Un ejercicio sistemático de gratitud y memoria moral. Marco Aurelio enumera lo que aprendió de sus padres, abuelos, maestros y sobre todo de su padre adoptivo, Antonino Pío: serenidad, modestia, constancia en el trabajo y desprecio por la adulación.",
+      "libro-ii": "Abre con la célebre máxima matinal: cada día nos encontraremos con ingratos e indiscretos, pero nadie puede dañarnos si no lo consentimos. Introduce el sentido de la brevedad de la vida y la invitación a actuar como si cada acto fuera el último.",
+      "libro-iii": "Reflexiona sobre el paso inexorable del tiempo y la necesidad de vivir con atención plena. Exhorta a mantener intacto el «daimon» interior (la razón guía) sin dejarse arrastrar por la opinión ajena ni las distracciones vanas.",
+      "libro-iv": "Uno de los libros más intensos. Acuña la metáfora de la «ciudadela interior»: el mejor retiro no está en el campo ni en la montaña, sino dentro de la propia mente. Todo lo que ocurre es pasajero y forma parte del cambio universal.",
+      "libro-v": "Aborda la lucha contra la pereza al amanecer («¿Para esto nací, para quedarme bajo las mantas?») y la aceptación del deber humano. El obstáculo en el camino se convierte en el propio camino cuando actuamos con virtud.",
+      "libro-vi": "Profundiza en la interdependencia universal (sympatheia): lo que beneficia a la colmena beneficia a la abeja. La mejor forma de vengarse de quien obra mal es no parecerse a él.",
+      "libro-vii": "Insiste en que el dolor y el miedo nacen de nuestras propias opiniones. Propone la «mirada desde lo alto»: contemplar desde arriba la pequeñez de los imperios y las vanidades humanas disuelve la ansiedad.",
+      "libro-viii": "Recuerda que ningún suceso externo puede impedirnos ser justos, veraces y templados. Cada acontecimiento es materia prima para ejercitar la rectitud racional.",
+      "libro-ix": "Analiza la injusticia como falta contra la naturaleza social del ser humano y exhorta a no esperar utopías políticas («no esperes la República de Platón»), sino mejorar un pequeño paso concreto cada día.",
+      "libro-x": "Examina la armonía con la naturaleza y la fugacidad de la fama póstuma: quienes nos elogian o critican desaparecerán pronto, por lo que solo importa la integridad del acto presente.",
+      "libro-xi": "Incluye reflexiones sobre el teatro, la concordia ciudadana y nueve reglas prácticas contra la ira: recordar que formamos una misma comunidad y que la cólera daña más a quien la siente que a quien la provoca.",
+      "libro-xii": "Cierra la obra con una síntesis serena: nuestro cuerpo y aliento se disolverán pronto en el todo, y nuestra única tarea consiste en vivir en paz, desprendidos de la opinión ajena y preparados para partir sin quejas."
+    },
+    "characters": [
+      {
+        "name": "Marco Aurelio",
+        "text": "Emperador romano (161–180 d. C.) y filósofo estoico. Escribe estas notas en su tienda de campaña para mantener la templanza frente a la guerra, la peste y las traiciones."
+      },
+      {
+        "name": "Antonino Pío",
+        "text": "Padre adoptivo y predecesor en el trono. Modelo vivo de gobernante austero, paciente y libre de vanidad en el Libro I."
+      },
+      {
+        "name": "Epicteto",
+        "text": "Antiguo esclavo y maestro estoico cuya obra (Enquiridión) marcó profundamente la disciplina mental de Marco Aurelio."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Dicotomía del control y juicio propio",
+        "text": "Las cosas externas no tocan el alma; lo que nos perturba no son los hechos, sino los juicios que emitimos sobre ellos."
+      },
+      {
+        "title": "La ciudadela interior",
+        "text": "La paz mental está siempre disponible en nuestro interior si ordenamos nuestros pensamientos según la razón."
+      },
+      {
+        "title": "Cosmopolitismo y deber social",
+        "text": "El ser humano ha nacido para cooperar, «como los pies, las manos, los párpados». Servir al bien común es servir a nuestra propia naturaleza."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "8. No es fácil ver a un hombre desdichado por no haberse detenido a pensar qué ocurre en el alma de otro. Pero quienes no siguen con atención los movimientos de su propia alma, fuerza es que sean desdichados.",
+        "chapter": "libro-ii",
+        "by": "Marco Aurelio"
+      },
+      {
+        "text": "2. Ninguna acción debe emprenderse al azar ni de modo divergente a la norma consagrada por el arte.",
+        "chapter": "libro-iv",
+        "by": "Marco Aurelio"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué libro de Meditaciones es mejor leer primero?",
+        "a": "El Libro II y el Libro IV son los más directos y citados sobre el control mental y el presente."
+      },
+      {
+        "q": "¿Cómo se relaciona Marco Aurelio con Epicteto y Séneca?",
+        "a": "Los tres forman la tríada cumbre del estoicismo romano: Séneca desde la carta moral, Epicteto desde el manual práctico y Marco Aurelio desde el diario íntimo."
+      }
+    ]
   }
 }

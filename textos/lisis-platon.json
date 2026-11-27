@@ -99,5 +99,60 @@
         "No del todo. El diálogo termina reconociendo que no han sabido decir qué es un amigo."
       ]
     ]
+  },
+  "guide": {
+    "seo_title": "Lisis de Platón: resumen por capítulos, ideas y análisis",
+    "description": "Resumen de Lisis de Platón (4 partes): contexto, recorrido capítulo a capítulo, ideas clave, citas destacadas y lectura completa gratis.",
+    "short": "Camino del Liceo, Sócrates se encuentra con Hipotales, enamorado del joven Lisis, que le pide consejo para conquistarlo. Sócrates le muestra cómo hablarle y entra en la palestra, donde conversa con Lisis y su amigo Menéxeno.",
+    "intro": "<p>Camino del Liceo, Sócrates se encuentra con Hipotales, enamorado del joven Lisis, que le pide consejo para conquistarlo. Sócrates le muestra cómo hablarle y entra en la palestra, donde conversa con Lisis y su amigo Menéxeno.</p><p>La pregunta es qué es un amigo: ¿quien ama o quien es amado? ¿Se hacen amigos los semejantes o los contrarios? ¿Lo bueno es amigo de lo bueno? Sócrates explora cada posibilidad y llega a la idea de un primer objeto amado por el que queremos todo lo demás, pero las dudas vuelven y los pedagogos interrumpen la charla. Sócrates concluye que se tienen por amigos sin haber sabido decir qué es un amigo.</p><p>Empieza: «Sócrates: Iba de la Academia al Liceo por el camino de las afueras a lo largo de las murallas, cuando al llegar…»</p>",
+    "chapters": {
+      "parte-1": "Sócrates: Iba de la Academia al Liceo por el camino de las afueras a lo largo de las murallas, cuando al llegar cerca de la puerta pequeña que se encuentra en el origen del Panopo, encontré a Hipotales, hijo de Hierónimo, y a Ctesipo del pueblo de Peanea, en medio de un grupo numeroso de jóvenes. Hipotales, que me había visto venir, me dijo: —¿A dónde…",
+      "parte-2": "—Y los atenienses a su vez, ¿no te confiarán sus negocios, en el momento en que te crean más experimentado? —¡Por Júpiter! repuse yo, ¿qué haría el gran rey de Persia? Entre su hijo mayor y nosotros, ¿a quién confiaría el cuidado de dar sazón a los distintos platos de su mesa, si le probásemos que nosotros somos más entendidos que su hijo en la…",
+      "parte-3": "—¿Cómo los buenos pueden ser amigos de los buenos, cuando, estando los unos separados de los otros, no se desean mutuamente, puesto que se bastan a sí mismos, y que estando los unos inmediatos a los otros, no se sirven para nada recíprocamente? ¿Cuál es el medio de que tales gentes se puedan estimar entre sí? —Pero si no se estiman, ¿no serán amigos?",
+      "parte-4": "—Por lo tanto, este amigo, al que se refieren todas nuestras pretendidas amistades por las cosas que amamos en vista de otra, en nada se parece a estas cosas. A estas las llamaremos amigas en vista de otra cosa amiga. Pero el amigo verdadero es de una naturaleza del todo opuesta. No existe en efecto, como ya dijimos, sino con relación a lo que es enemigo…"
+    },
+    "characters": [
+      {
+        "name": "Platón",
+        "text": "Autor de Lisis."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Claves de lectura de Lisis",
+        "text": "Camino del Liceo, Sócrates se encuentra con Hipotales, enamorado del joven Lisis, que le pide consejo para conquistarlo. Sócrates le muestra cómo hablarle y entra en la palestra, donde conversa con Lisis y su amigo Menéxeno."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "—¿No puedes venir con nosotros, dijo, y desistir de tu proyecto? La cosa, sin embargo, vale la pena.",
+        "chapter": "parte-1",
+        "by": "Platón"
+      },
+      {
+        "text": "—Y los atenienses a su vez, ¿no te confiarán sus negocios, en el momento en que te crean más experimentado?",
+        "chapter": "parte-2",
+        "by": "Platón"
+      },
+      {
+        "text": "—Mira, Lisis, el chasco que nos hemos llevado. ¿No ves ahora que nuestro engaño ha sido completo?",
+        "chapter": "parte-3",
+        "by": "Platón"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿De qué trata Lisis, de Platón?",
+        "a": "Camino del Liceo, Sócrates se encuentra con Hipotales, enamorado del joven Lisis, que le pide consejo para conquistarlo. Sócrates le muestra cómo hablarle y entra en la palestra, donde conversa con Lisis y su amigo Menéxeno."
+      },
+      {
+        "q": "¿Cuántos capítulos o partes tiene Lisis?",
+        "a": "Nuestra edición digital de Lisis está organizada en 4 partes que puedes leer online capítulo a capítulo o descargar en PDF sin registro."
+      },
+      {
+        "q": "¿Dónde leer Lisis completo gratis en español?",
+        "a": "En La Biblioteca Filosófica dispones del texto íntegro online de Lisis en dominio público, con modo lectura, índice navegable y descarga gratuita en PDF."
+      }
+    ]
   }
 }

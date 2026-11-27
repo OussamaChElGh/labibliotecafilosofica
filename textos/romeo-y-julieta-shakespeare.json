@@ -920,5 +920,61 @@
       ]
     ],
     "año": "1597"
+  },
+  "guide": {
+    "seo_title": "Romeo y Julieta de William Shakespeare: resumen por capítulos, ideas y análisis",
+    "description": "Resumen de Romeo y Julieta de William Shakespeare (5 partes): contexto, recorrido capítulo a capítulo, ideas clave, citas destacadas y lectura completa gratis.",
+    "short": "En Verona, los Montesco y los Capuleto llevan años enfrentados. Romeo, un joven Montesco, se cuela en una fiesta de los Capuleto y se enamora de Julieta, la hija de la casa. Esa misma noche, en la famosa escena del balcón, se declaran su amor, y al día siguiente fray Lorenzo los casa en secreto con la esperanza de reconciliar a las familias.",
+    "intro": "<p>En Verona, los Montesco y los Capuleto llevan años enfrentados. Romeo, un joven Montesco, se cuela en una fiesta de los Capuleto y se enamora de Julieta, la hija de la casa. Esa misma noche, en la famosa escena del balcón, se declaran su amor, y al día siguiente fray Lorenzo los casa en secreto con la esperanza de reconciliar a las familias.</p><p>Todo se tuerce cuando Teobaldo, primo de Julieta, mata a Mercucio, amigo de Romeo, y Romeo lo mata a él. Desterrado a Mantua, Romeo no recibe a tiempo el mensaje del fraile: Julieta ha tomado un narcótico para fingir su muerte y evitar la boda con Paris. Romeo la cree muerta y se envenena junto a ella; al despertar, Julieta se clava su daga. Sus muertes reconcilian a las familias.</p><p>Empieza: «A fe mia, Gregorio, que no hay por qué bajar la cabeza.»</p>",
+    "chapters": {
+      "acto-1": "Sanson. A fe mia, Gregorio, que no hay por qué bajar la cabeza. Gregorio. Eso seria convertirnos en bestias de carga.",
+      "acto-2": "Romeo. ¡Qué bien se burla del dolor ajeno quien nunca sintió dolores..! (Pónese Julieta á la ventana.) ¿Pero qué luz es la que asoma por allí? ¿El sol que sale ya por los balcones de oriente? Sal, hermoso sol, y mata de envidia con tus rayos á la luna, que está pálida y ojeriza porque vence tu hermosura cualquier ninfa de tu coro. Por eso se viste de…",
+      "acto-3": "Benvolio. Amigo Mercutio, pienso que debíamos refrenarnos, porque hace mucho calor, y los Capuletos andan encalabrinados, y ya sabes que en verano hierve mucho la sangre. Mercutio. Tú eres uno de esos hombres que cuando entran en una taberna, ponen la espada sobre la mesa, como diciendo: «ojalá que no te necesite,» y luego, á los dos tragos, la sacan,…",
+      "acto-4": "Fray Lorenzo. El juéves dices? Pronto es. Páris. Así lo quiere Capuleto, y yo lo deseo tambien",
+      "acto-5": "Romeo. Si hemos de confiar en un dulce y agradable sueño, alguna gran felicidad me espera. Desde la aurora pensamientos de dicha agitan mi corazón, rey de mi pecho, y como que me dan alas para huir de la tierra. Soñé con mi esposa y que me encontraba muerto. ¡Raro, fenómeno: que piense un cadáver! Pero con sus besos me dio tal vida que, al despertar, no…"
+    },
+    "characters": [
+      {
+        "name": "William Shakespeare",
+        "text": "Autor de Romeo y Julieta."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Claves de lectura de Romeo y Julieta",
+        "text": "En Verona, los Montesco y los Capuleto llevan años enfrentados. Romeo, un joven Montesco, se cuela en una fiesta de los Capuleto y se enamora de Julieta, la hija de la casa. Esa misma noche, en la famosa escena del balcón, se declaran su amor, y al día siguiente fray Lorenzo los casa en secreto con la esperanza de reconciliar a las familias."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Sanson. Basta cualquier gozquejo de casa de los Montescos para hacerme saltar.",
+        "chapter": "acto-1",
+        "by": "William Shakespeare"
+      },
+      {
+        "text": "Julieta. ¡Romeo, Romeo! ¿Por qué eres tú Romeo? ¿Por qué no reniegas del nombre de tu padre y de tu madre? Y si no tienes valor para tanto, ámame, y no me tendré por Capuleto.",
+        "chapter": "acto-2",
+        "by": "William Shakespeare"
+      },
+      {
+        "text": "Benvolio. Amigo Mercutio, pienso que debíamos refrenarnos, porque hace mucho calor, y los Capuletos andan encalabrinados, y ya sabes que en verano hierve mucho la sangre.",
+        "chapter": "acto-3",
+        "by": "William Shakespeare"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿De qué trata Romeo y Julieta, de William Shakespeare?",
+        "a": "En Verona, los Montesco y los Capuleto llevan años enfrentados. Romeo, un joven Montesco, se cuela en una fiesta de los Capuleto y se enamora de Julieta, la hija de la casa. Esa misma noche, en la famosa escena del balcón, se declaran su amor, y al día siguiente fray Lorenzo los casa en secreto con la esperanza de reconciliar a las familias."
+      },
+      {
+        "q": "¿Cuántos capítulos o partes tiene Romeo y Julieta?",
+        "a": "Nuestra edición digital de Romeo y Julieta está organizada en 5 partes que puedes leer online capítulo a capítulo o descargar en PDF sin registro."
+      },
+      {
+        "q": "¿Dónde leer Romeo y Julieta completo gratis en español?",
+        "a": "En La Biblioteca Filosófica dispones del texto íntegro online de Romeo y Julieta en dominio público, con modo lectura, índice navegable y descarga gratuita en PDF."
+      }
+    ]
   }
 }

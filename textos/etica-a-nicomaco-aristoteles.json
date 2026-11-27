@@ -138,5 +138,70 @@
         "Diez. Los libros VIII y IX están dedicados a la amistad."
       ]
     ]
+  },
+  "guide": {
+    "seo_title": "Ética a Nicómaco de Aristóteles: resumen por libros, virtud y análisis",
+    "description": "Resumen de Ética a Nicómaco de Aristóteles libro por libro: la eudaimonía (felicidad), el justo término medio, la prudencia, la amistad y preguntas frecuentes.",
+    "short": "Ética a Nicómaco es el tratado moral más influyente de Aristóteles. Define la felicidad (eudaimonía) como el fin último de la vida humana, alcanzada mediante la práctica habitual de la virtud, la prudencia (phrónesis) y el justo término medio entre extremos.",
+    "intro": "<p>Frente al idealismo abstracto de Platón, Aristóteles construye en <em>Ética a Nicómaco</em> una ética arraigada en la experiencia concreta: no investigamos qué es la virtud por mera curiosidad teórica, sino <strong>«para hacernos buenos»</strong>.</p>\n<p>A lo largo de diez libros, el Estagirita examina qué es el bien supremo del hombre, cómo se forja el carácter mediante el hábito, por qué la justicia y la prudencia sostienen la vida cívica y por qué la <strong>amistad</strong> es indispensable incluso para el hombre más feliz.</p>",
+    "chapters": {
+      "libro-0": "Prólogo del traductor clásico Pedro Simón Abril, quien expone el método práctico de Aristóteles y el valor educativo de la filosofía moral.",
+      "libro-1": "Define el bien supremo como aquello que se busca por sí mismo: la felicidad (eudaimonía). No consiste en el placer pasajero ni en las riquezas, sino en una actividad del alma conforme a la virtud a lo largo de una vida completa.",
+      "libro-2": "Distingue entre virtudes intelectuales (enseñables) y virtudes morales (adquiridas por hábito o costumbre). Formula la famosa teoría de la virtud como término medio entre dos vicios: uno por exceso y otro por defecto.",
+      "libro-3": "Analiza la responsabilidad moral, diferenciando los actos voluntarios de los involuntarios (por coacción o ignorancia), y estudia dos virtudes concretas: la valentía (entre temeridad y cobardía) y la templanza.",
+      "libro-4": "Examina las virtudes vinculadas a los bienes materiales y al trato social: generosidad, magnificencia, magnanimidad (grandeza de alma), mansedumbre y veracidad.",
+      "libro-5": "Dedicado por completo a la justicia, la virtud más perfecta porque regula nuestra relación con los demás. Distingue entre justicia distributiva (repartir honores y cargas según mérito) y correctiva (reparar daños).",
+      "libro-6": "Estudia las virtudes intelectuales (dianoéticas): ciencia, arte, sabiduría, intelecto y, sobre todo, la prudencia (phrónesis), capacidad práctica de deliberar bien sobre lo bueno para la vida.",
+      "libro-7": "Aborda la continencia e incontinencia (por qué sabemos lo que está bien y aun así cedemos al deseo) e introduce el primer análisis del placer.",
+      "libro-8": "Inicia el célebre tratado sobre la amistad (philía), clasificándola en tres especies: por utilidad, por placer y la amistad perfecta basada en la virtud.",
+      "libro-9": "Resuelve dilemas prácticos sobre la amistad: si debemos amarnos a nosotros mismos (egoísmo frente a nobleza), por qué los amigos comparten alegrías y penas, y cuántos amigos verdaderos es posible tener.",
+      "libro-10": "Culmina la obra examinando el placer y proponiendo la vida contemplativa (actividad de la razón dedicada a la verdad) como la forma más alta y autosuficiente de felicidad, enlazando finalmente la ética con la Política."
+    },
+    "characters": [
+      {
+        "name": "Aristóteles",
+        "text": "Filósofo griego, discípulo de Platón y fundador del Liceo. Sistematizó la lógica, la ética, la política y la biología."
+      },
+      {
+        "name": "Nicómaco",
+        "text": "Hijo de Aristóteles (y nombre también de su padre), vinculado históricamente a la dedicatoria o edición final de los diez libros."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Eudaimonía: la felicidad como florecimiento",
+        "text": "La felicidad no es un estado de ánimo momentáneo, sino una vida lograda mediante la excelencia (areté) en nuestras capacidades racionales."
+      },
+      {
+        "title": "El justo término medio",
+        "text": "La virtud no es un promedio matemático, sino una elección prudente adaptada a cada situación, evitando los extremos destructivos."
+      },
+      {
+        "title": "El hábito hace al carácter",
+        "text": "«Una golondrina no hace verano»: nos volvemos justos practicando actos justos de forma constante hasta convertirlos en segunda naturaleza."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "De los morales de Aristóteles, escritos a Nicomaco, su hijo, y por esta causa llamados nicomaquios",
+        "chapter": "libro-1",
+        "by": "Aristóteles"
+      },
+      {
+        "text": "En el primer capítulo demuestra cómo las virtudes del entendimiento se alcanzan con doctrina, tiempo y ejercicio, y las morales con ejercicios de actos virtuosos.",
+        "chapter": "libro-2",
+        "by": "Aristóteles"
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué es la eudaimonía en Aristóteles?",
+        "a": "Suele traducirse como felicidad o florecimiento humano: vivir bien y obrar bien conforme a la razón virtuosa."
+      },
+      {
+        "q": "¿Cuáles son los tres tipos de amistad según Aristóteles?",
+        "a": "Amistad por utilidad, por placer y amistad perfecta por virtud (donde quieres el bien del amigo por sí mismo)."
+      }
+    ]
   }
 }

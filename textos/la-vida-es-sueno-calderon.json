@@ -566,5 +566,59 @@
         "Se publicó en 1636. Pedro Calderón de la Barca es el gran dramaturgo del Barroco español."
       ]
     ]
+  },
+  "guide": {
+    "seo_title": "La vida es sueño de Calderón de la Barca: resumen por jornadas y análisis",
+    "description": "Resumen de La vida es sueño por jornadas (I, II y III): Segismundo, Basilio, Rosaura, el libre albedrío frente al destino, citas comentadas y preguntas frecuentes.",
+    "short": "La vida es sueño (1635) dramatiza el conflicto entre el destino y la libertad humana. El príncipe Segismundo, encerrado desde niño en una torre por un horóscopo adverso de su padre el rey Basilio, aprende tras ser puesto a prueba en palacio que la gloria terrenal es fugaz como un sueño y decide vencer sus pasiones obrando bien.",
+    "intro": "<p>Estrenada en <strong>1635</strong>, <em>La vida es sueño</em> es la cima del teatro filosófico del Barroco español. Calderón de la Barca recoge los grandes debates teológicos y morales de su tiempo —¿determinan los astros nuestra conducta o somos libres? ¿Cómo distinguir la realidad de la ilusión?— en una trama llena de tensión dramática.</p>\n<p>A través de la doble educación de <strong>Segismundo</strong> y de la trama paralela del honor de <strong>Rosaura</strong>, la obra culmina en una lección moral clara: <strong>«aun en sueños, no se pierde el hacer bien»</strong>.</p>",
+    "chapters": {
+      "jornada-primera": "Rosaura, vestida de hombre y acompañada de su criado Clarín, llega a un monte escarpado de Polonia tras caer de su caballo y descubre una torre solitaria donde gime un hombre encadenado vestido de pieles: Segismundo. El príncipe recita su famoso primer monólogo lamentando que las aves, los brutos y los arroyos tengan libertad mientras él vive preso sin más delito que haber nacido. Su ayo Clotaldo los detiene por invadir un recinto prohibido, pero reconoce en la espada de Rosaura una prenda suya. En la corte, el viejo rey Basilio confiesa por qué encerró a su hijo al nacer: un horóscopo predijo que Segismundo sería un tirano cruel; sin embargo, arrepentido, decide someterlo a una prueba: dormirlo con un narcótico y despertarlo como príncipe en palacio.",
+      "jornada-segunda": "Segismundo despierta en palacio rodeado de lujos y música. Al enterarse por Clotaldo de que es el heredero de Polonia, estalla en cólera por los años de encierro: amenaza a Clotaldo, arroja a un criado por el balcón, intenta forzar a Rosaura (ya en palacio como dama de Estrella) y desafía a su padre. Convencido de que el horóscopo decía la verdad, Basilio vuelve a dormirlo y lo devuelve a la torre. Al despertar de nuevo encadenado, Clotaldo le sugiere que todo fue un sueño. Segismundo pronuncia entonces el segundo gran monólogo («¿Qué es la vida? Un frenesí / ¿qué es la vida? Una ilusión»), concluyendo que la gloria humana es pasajera y hay que refrenar la fiera interior.",
+      "jornada-tercera": "El pueblo y los soldados se sublevan al saber que existe un heredero legítimo y liberan a Segismundo de la torre para evitar que gobierne el extranjero Astolfo. Aunque al principio teme estar soñando otra vez, Segismundo asume su deber moral: acepta el mando con prudencia, perdona a Clotaldo, vence al ejército real y, en el desenlace, en lugar de humillar a su padre Basilio, se postra a sus pies demostrando que la voluntad humana puede vencer a las estrellas. Restaura el honor de Rosaura casándola con Astolfo y él toma por esposa a Estrella para asegurar la paz del reino."
+    },
+    "characters": [
+      {
+        "name": "Segismundo",
+        "text": "Príncipe de Polonia. Evoluciona de «fiera» impulsiva y resentida a gobernante prudente que domina su ira mediante la razón y la libertad."
+      },
+      {
+        "name": "Rey Basilio",
+        "text": "Padre de Segismundo y rey astrólogo. Su intento de burlar la profecía por miedo provoca exactamente la violencia que temía."
+      },
+      {
+        "name": "Rosaura",
+        "text": "Dama noble agraviada por Astolfo. Llega a Polonia buscando reparar su honor; su presencia despierta en Segismundo la admiración y el respeto moral."
+      },
+      {
+        "name": "Clotaldo y Clarín",
+        "text": "Ayo fiel y criado gracioso. Clotaldo encarna el conflicto entre lealtad al rey y amor paterno; Clarín aporta el contrapunto cómico y muere por intentar huir del destino."
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Libre albedrío frente al determinismo",
+        "text": "Los astros «inclinan, pero no fuerzan» la voluntad humana: el hombre es responsable de sus actos y puede rectificar su destino."
+      },
+      {
+        "title": "El desengaño barroco y la fugacidad",
+        "text": "Reyes, riquezas y triunfos son papeles transitorios en el teatro del mundo: despertar del orgullo permite obrar con justicia."
+      },
+      {
+        "title": "La educación del gobernante",
+        "text": "El encierro bestializa a Segismundo; solo cuando se siente respetado y comprende el valor de hacer el bien se convierte en rey legítimo."
+      }
+    ],
+    "quotes": [],
+    "faq": [
+      {
+        "q": "¿Cuál es el tema principal de La vida es sueño?",
+        "a": "La libertad humana frente al destino, junto con la fugacidad de la vida terrenal y la necesidad de obrar bien."
+      },
+      {
+        "q": "¿Por qué es tan importante para la EBAU / Selectividad?",
+        "a": "Porque sintetiza los tópicos del Barroco español (el mundo como teatro, el desengaño, el honor) en una estructura simétrica perfecta."
+      }
+    ]
   }
 }

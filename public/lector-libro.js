@@ -39,10 +39,16 @@
   if (!book) return
   const viewport = book.querySelector('.book-viewport')
   const flow = book.querySelector('.book-flow')
+  const stage = document.createElement('div'); stage.className = 'book-stage'
+  flow.parentNode.insertBefore(stage, flow); stage.append(flow)
   const data = book.dataset
   const route = location.pathname
 
-  // Controles.
+  // Controles y ornamento literario (tintero con pluma y cinta marcapáginas).
+  const ornament = document.createElement('div'); ornament.className = 'book-ornament'; ornament.setAttribute('aria-hidden', 'true')
+  ornament.innerHTML = '<svg viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M52 54 C62 34 74 16 89 8 C84 22 76 34 65 44 C61 48 57 52 53 56 Z" fill="#f7f2e8" stroke="#6f5330" stroke-width="1.4" stroke-linejoin="round"/><path d="M51 57 C61 41 73 25 87 10" stroke="#7c5b32" stroke-width="1.8" stroke-linecap="round"/><path d="M68 27 L73 24 M63 34 L69 31 M58 41 L64 38" stroke="#c8a96a" stroke-width="1.1" stroke-linecap="round"/><path d="M47 61 L52 55 L54 57 L49 63 Z" fill="#c8a96a" stroke="#5b4122" stroke-width="1"/><rect x="26" y="49" width="24" height="6" rx="2" fill="#c8a96a" stroke="#5b4122" stroke-width="1.2"/><path d="M29 55 H47 L54 67 V82 C54 84.5 52 86 49.5 86 H26.5 C24 86 22 84.5 22 82 V67 Z" fill="#2c221b" stroke="#5b4122" stroke-width="1.4" stroke-linejoin="round"/><path d="M26 68 H50 V81 C50 82.2 49 83 47.8 83 H28.2 C27 83 26 82.2 26 81 Z" fill="#17120e"/><path d="M29 57 L26 66 M33 57 L32 66" stroke="#c8a96a66" stroke-width="1.2" stroke-linecap="round"/><ellipse cx="38" cy="49" rx="9" ry="2.2" fill="#17120e"/></svg>'
+  const ribbon = document.createElement('div'); ribbon.className = 'book-ribbon'; ribbon.setAttribute('aria-hidden', 'true')
+  book.prepend(ribbon, ornament)
   const sheen = document.createElement('div'); sheen.className = 'book-sheen'; viewport.append(sheen)
   const zonePrev = Object.assign(document.createElement('button'), { className: 'book-zone prev', type: 'button', textContent: '‹' })
   const zoneNext = Object.assign(document.createElement('button'), { className: 'book-zone next', type: 'button', textContent: '›' })
@@ -86,12 +92,12 @@
 
   const measure = () => {
     const style = getComputedStyle(viewport)
-    const innerW = viewport.clientWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight)
+    const innerW = stage.clientWidth || (viewport.clientWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight))
     perView = innerW >= 820 ? 2 : 1
     book.classList.toggle('is-spread', perView === 2)
     const gap = perView === 2 ? parseFloat(getComputedStyle(root).getPropertyValue('--book-gap')) || 96 : parseFloat(style.paddingLeft) * 2
     const colW = perView === 2 ? (innerW - gap) / 2 : innerW
-    flow.style.columnWidth = colW + 'px'
+    flow.style.columnWidth = Math.max(100, Math.floor(colW) - 2) + 'px'
     flow.style.columnGap = gap + 'px'
     flow.style.columnCount = 'auto'
     step = colW + gap

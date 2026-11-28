@@ -1,6 +1,6 @@
 @font-face{font-family:Caslon Display;src:url('/fonts/libre-caslon-display.woff2') format('woff2');font-weight:400;font-display:swap}
 .folio-home{--folio-serif:'Caslon Display',Georgia,serif;background:#f7f4ee}
-.folio-site .masthead{position:relative;z-index:10;background:#000;color:#f7f4ee;border:0}
+.folio-site .masthead{position:relative;z-index:10;background:#083024;color:#f7f4ee;border:0}
 .folio-site .masthead .bar{max-width:1440px;width:calc(100% - 96px);height:96px;margin:auto;padding:0;gap:24px}
 .folio-site .brand{color:inherit;font-size:20px;line-height:1.05;white-space:nowrap}
 .folio-site .original-logo{width:42px;height:42px}
@@ -9,7 +9,7 @@
 .folio-site .nav-panel{color:#161015}
 .folio-site .header-search{background:#f7f4ee;color:#161015!important;border-radius:6px;padding:12px 16px}
 .folio-site .header-tools{gap:22px}
-.folio-hero{position:relative;isolation:isolate;background:#000;color:#f7f4ee;min-height:720px;height:calc(100svh - 96px);max-height:1100px;overflow:hidden}
+.folio-hero{position:relative;isolation:isolate;background:#083024;color:#f7f4ee;min-height:720px;height:calc(100svh - 96px);max-height:1100px;overflow:hidden}
 .folio-heading{position:relative;z-index:1;padding:24px 24px 0;text-align:center}
 .folio-kicker{font-size:10px;letter-spacing:.22em;color:#b5afa5;margin:0 0 14px}
 .folio-heading h1{font-family:var(--folio-serif);font-weight:400;letter-spacing:-.045em;line-height:.82;margin:0}
@@ -25,7 +25,7 @@
 .folio-stage canvas{width:100%;height:100%;display:block}
 .folio-heading:has(.folio-cta:hover){z-index:3}
 .folio-intro{pointer-events:auto}
-.folio-bottom{position:absolute;bottom:0;left:0;right:0;padding:16px 48px;background:#000;display:flex;align-items:center;justify-content:space-between;gap:24px;z-index:5;font-size:11px;letter-spacing:0}
+.folio-bottom{position:absolute;bottom:0;left:0;right:0;padding:16px 48px;background:#083024;display:flex;align-items:center;justify-content:space-between;gap:24px;z-index:5;font-size:11px;letter-spacing:0}
 .folio-route{border-bottom:1px solid #666;padding:12px 0;display:flex;gap:32px}
 .folio-scroll{display:flex;gap:20px;align-items:center;padding:12px 0}
 .folio-scroll span{font-size:20px}

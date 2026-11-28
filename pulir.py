@@ -901,7 +901,7 @@ def home_schema(document):
                              "query-input": "required name=search_term_string"}},
         {"@type": "Organization", "@id": f"{BASE}/#organization", "name": "La Biblioteca Filosófica", "url": f"{BASE}/",
          "logo": f"{BASE}/wp-content/uploads/2020/08/cropped-cropped-logonew-2-270x270.jpg",
-         "sameAs": ["https://www.pinterest.com/LaBibliotecaFilosofica/"]}]}
+         "sameAs": ["https://www.pinterest.com/LaBibliotecaFilosofica/", "https://www.facebook.com/LabibliotecafilosoficaX/"]}]}
     head = f'<script type="application/ld+json">{json.dumps(data, ensure_ascii=False)}</script>'
     document = document.replace('<meta property="og:type" content="article">', '<meta property="og:type" content="website">', 1)
     if 'property="og:image"' not in document:

@@ -280,6 +280,8 @@ for (const listing of document.querySelectorAll('.category-listing')) {
 // Reading appearance is local to the current page; content and URLs stay intact.
 if(document.querySelector('.reader-v2')){
  const toolbar=document.querySelector('.reader-toolbar');toolbar.hidden=false;
+ const activePaper=document.body.dataset.paper||'sepia';
+ toolbar.querySelectorAll('[data-paper]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.paper===activePaper)));
  let readingSize=19;
  toolbar.addEventListener('click',async event=>{
   const button=event.target.closest('button');if(!button)return;
@@ -346,4 +348,174 @@ if(document.querySelector('.reader-v2')){
     try { sessionStorage.setItem('biblioteca.pais', country || ''); } catch (error) {}
     apply(country || '');
   }).catch(() => {});
+})();
+
+// Aviso amable y editorial cuando un bloqueador impide cargar AdSense.
+;(() => {
+  const DISMISS_KEY = 'biblioteca.adblock.dismissed';
+  const DAYS_7 = 7 * 24 * 60 * 60 * 1000;
+  const forceTest = new URLSearchParams(location.search).get('test-adblock') === '1';
+  if (!forceTest) {
+    if (navigator.onLine === false) return;
+    if (!document.querySelector('script[src*="adsbygoogle.js"]')) return;
+    try {
+      const until = Number(localStorage.getItem(DISMISS_KEY) || 0);
+      if (until > Date.now()) return;
+    } catch {}
+  }
+
+  const showNotice = () => {
+    if (document.querySelector('.reader-support-backdrop')) return;
+    const backdrop = document.createElement('div');
+    backdrop.className = 'reader-support-backdrop';
+    const notice = document.createElement('aside');
+    notice.className = 'reader-support-notice';
+    notice.setAttribute('role', 'dialog');
+    notice.setAttribute('aria-modal', 'true');
+    notice.setAttribute('aria-label', 'Apoyo a la biblioteca');
+
+    const close = Object.assign(document.createElement('button'), {
+      type: 'button',
+      className: 'reader-support-close',
+      textContent: '×',
+    });
+    close.setAttribute('aria-label', 'Cerrar aviso');
+
+    const kicker = Object.assign(document.createElement('p'), {
+      className: 'reader-support-kicker',
+      textContent: 'Lectura abierta y gratuita',
+    });
+    const title = Object.assign(document.createElement('h2'), {
+      className: 'reader-support-title',
+      textContent: '¿Usas bloqueador de anuncios?',
+    });
+    const body = Object.assign(document.createElement('p'), {
+      className: 'reader-support-text',
+      textContent: 'Esta biblioteca se sostiene gracias al pago con los anuncios, lo que nos permite mantener todos los libros, resúmenes y guías gratis y sin registros.',
+    });
+
+    const actions = document.createElement('div');
+    actions.className = 'reader-support-actions';
+    const reloadBtn = Object.assign(document.createElement('button'), {
+      type: 'button',
+      className: 'reader-support-primary',
+      textContent: 'Ya lo desactivé · Recargar',
+    });
+    const continueBtn = Object.assign(document.createElement('button'), {
+      type: 'button',
+      className: 'reader-support-secondary',
+      textContent: 'Seguir leyendo',
+    });
+    actions.append(reloadBtn, continueBtn);
+
+    const paperBox = document.querySelector('[data-paper-box]');
+    const alt = document.createElement('p');
+    alt.className = 'reader-support-alt';
+    const altLink = Object.assign(document.createElement('a'), {
+      href: paperBox ? '#edicion-papel' : '/libros-pdf-gratis/',
+      textContent: paperBox ? 'O apoya consiguiendo la edición en papel ↗' : 'Explorar ediciones recomendadas ↗',
+    });
+    if (paperBox) {
+      altLink.addEventListener('click', (event) => {
+        event.preventDefault();
+        dismiss();
+        paperBox.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      });
+    }
+    alt.append(altLink);
+
+    const onKey = (event) => {
+      if (event.key === 'Escape') dismiss();
+    };
+    const dismiss = () => {
+      try { localStorage.setItem(DISMISS_KEY, String(Date.now() + DAYS_7)); } catch {}
+      document.removeEventListener('keydown', onKey);
+      backdrop.remove();
+    };
+    close.addEventListener('click', dismiss);
+    continueBtn.addEventListener('click', dismiss);
+    backdrop.addEventListener('click', (event) => { if (event.target === backdrop) dismiss(); });
+    document.addEventListener('keydown', onKey);
+    reloadBtn.addEventListener('click', () => location.reload());
+
+    notice.append(close, kicker, title, body, actions, alt);
+    backdrop.append(notice);
+    document.body.append(backdrop);
+    close.focus({ preventScroll: true });
+  };
+
+  const detect = async () => {
+    if (forceTest) return showNotice();
+    let cosmeticBlocked = false;
+    try {
+      const bait = document.createElement('div');
+      bait.className = 'adsbox ad-banner pub_300x250';
+      bait.setAttribute('aria-hidden', 'true');
+      bait.style.cssText = 'position:fixed;left:-9999px;top:-9999px;width:1px;height:1px;pointer-events:none';
+      bait.textContent = '\u00a0';
+      document.body.append(bait);
+      const cs = getComputedStyle(bait);
+      cosmeticBlocked = cs.display === 'none' || cs.visibility === 'hidden' || bait.offsetHeight === 0;
+      bait.remove();
+    } catch {}
+    if (cosmeticBlocked) return showNotice();
+
+    let networkBlocked = false;
+    try {
+      await fetch('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6008420349068161', {
+        method: 'HEAD',
+        mode: 'no-cors',
+        cache: 'no-store',
+      });
+    } catch {
+      networkBlocked = !(window.adsbygoogle && window.adsbygoogle.loaded);
+    }
+    if (networkBlocked) showNotice();
+  };
+
+  const run = () => setTimeout(detect, forceTest ? 150 : 1800);
+  if (document.readyState === 'complete') run();
+  else window.addEventListener('load', run, { once: true });
+})();
+
+// Bloque «Citar o enlazar esta guía» en rutas y guías de lectura para facilitar backlinks.
+;(() => {
+  const host = document.querySelector('.route-page .entry, .guide .entry');
+  if (!host || host.querySelector('.cite-box')) return;
+  const h1 = document.querySelector('h1');
+  const titleText = (h1 ? h1.textContent : document.title).replace(/\s+/g, ' ').trim();
+  const canonical = document.querySelector('link[rel="canonical"]');
+  const url = canonical ? canonical.href : (location.origin + location.pathname);
+  const citation = `La Biblioteca Filosófica. «${titleText}». ${url}`;
+  const htmlSnippet = `<a href="${url}">${titleText.replace(/[<>&"]/g, c => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;', '"': '&quot;' }[c]))} — La Biblioteca Filosófica</a>`;
+
+  const box = document.createElement('aside');
+  box.className = 'cite-box';
+  box.setAttribute('aria-label', 'Citar o enlazar este recurso');
+  const kicker = Object.assign(document.createElement('p'), { className: 'cite-box-kicker', textContent: 'Para docentes, blogs y trabajos' });
+  const heading = Object.assign(document.createElement('h2'), { className: 'cite-box-title', textContent: 'Citar o enlazar esta guía' });
+  const preview = Object.assign(document.createElement('p'), { className: 'cite-box-sample', textContent: citation });
+  const actions = document.createElement('div');
+  actions.className = 'cite-box-actions';
+  const btnCite = Object.assign(document.createElement('button'), { type: 'button', textContent: 'Copiar cita bibliográfica' });
+  const btnHtml = Object.assign(document.createElement('button'), { type: 'button', textContent: 'Copiar enlace HTML' });
+  const status = Object.assign(document.createElement('span'), { className: 'cite-box-status' });
+  status.setAttribute('role', 'status');
+
+  const copyText = async (value, label) => {
+    try {
+      await navigator.clipboard.writeText(value);
+      status.textContent = label;
+    } catch {
+      status.textContent = 'Selecciona y copia la referencia superior.';
+    }
+  };
+  btnCite.addEventListener('click', () => copyText(citation, 'Cita bibliográfica copiada.'));
+  btnHtml.addEventListener('click', () => copyText(htmlSnippet, 'Enlace HTML copiado.'));
+
+  actions.append(btnCite, btnHtml, status);
+  box.append(kicker, heading, preview, actions);
+  const rights = host.querySelector('.rights-note');
+  if (rights) rights.before(box);
+  else host.append(box);
 })();

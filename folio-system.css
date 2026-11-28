@@ -5,13 +5,13 @@
 .folio-site .button:hover,.folio-site .pill:hover{transform:translateY(-2px)}
 .folio-site .button.secondary{border:1px solid currentColor;background:transparent;color:inherit}
 .folio-site .eyebrow{font-family:Inter,sans-serif;font-size:10px;font-weight:500;letter-spacing:.14em;line-height:1.6}
-.folio-site .editorial-footer{background:#000;color:#f7f4ee;margin-top:80px}
+.folio-site .editorial-footer{background:#083024;color:#f7f4ee;margin-top:80px}
 .folio-site .footer-wordmark{font-family:var(--display);letter-spacing:-.035em}
 .folio-site .editorial-footer .brand,.folio-site .editorial-footer a{color:#f7f4ee}
 .folio-interior .shelf{max-width:1280px;width:calc(100% - 96px);margin-inline:auto}
 .folio-interior .crumbs{font-size:11px;padding-block:20px;color:#635e56;max-width:none;margin:0}
 .folio-interior .crumbs a:hover{text-decoration:underline;text-underline-offset:4px}
-.folio-page-head,.folio-interior .category-hero,.folio-article-head{position:relative;background:#000;color:#f7f4ee;padding:64px 64px 56px;margin-bottom:48px}
+.folio-page-head,.folio-interior .category-hero,.folio-article-head{position:relative;background:#083024;color:#f7f4ee;padding:64px 64px 56px;margin-bottom:48px}
 .folio-page-head h1,.folio-interior .category-hero h1{font-size:clamp(60px,8vw,116px);line-height:.94;letter-spacing:-.035em;max-width:14ch;margin:16px 0 24px}
 .folio-page-head>p:not(.eyebrow),.folio-interior .category-hero p:not(.eyebrow){color:#c4bfb5;font-size:17px;line-height:1.6;max-width:52ch;margin:0}
 .folio-page-head .eyebrow,.folio-interior .category-hero .eyebrow,.folio-article-head .eyebrow{color:#b6b0a4}
@@ -57,7 +57,7 @@
 .folio-interior .catalog-grid a:hover{color:#064c37}
 .folio-interior .reading{max-width:1120px;width:calc(100% - 96px);padding-top:0;margin-inline:auto}
 .folio-interior .reading .back-link{max-width:none;font-size:11px;margin:0 0 28px}
-.folio-interior .reading .book-detail{background:#000;color:#f7f4ee;margin:0 0 48px;padding:64px;grid-template-columns:minmax(180px,280px) minmax(0,1fr);gap:64px;min-height:0;align-items:center}
+.folio-interior .reading .book-detail{background:#083024;color:#f7f4ee;margin:0 0 48px;padding:64px;grid-template-columns:minmax(180px,280px) minmax(0,1fr);gap:64px;min-height:0;align-items:center}
 .folio-interior .reading .book-detail .featured img{max-height:370px;max-width:100%;transform:rotate(-4deg);box-shadow:10px 12px 0 #ffffff18}
 .folio-interior .reading .book-detail h1{font-size:clamp(42px,5.5vw,76px);max-width:16ch;line-height:.98;letter-spacing:-.03em}
 .folio-interior .reading .book-detail .eyebrow,.folio-interior .reading .book-detail .device-note,.folio-interior .reading .book-detail .save-message{color:#c4bfb5}
@@ -97,7 +97,7 @@
 .folio-interior .collection-card:nth-child(2){background:#dfded2}
 .folio-interior .collection-card:nth-child(3){background:#e6d8cc}
 .folio-interior .collection-card:nth-child(4){background:#e1e4dd}
-.folio-interior .collection-card-featured{background:#000;color:#f7f4ee}
+.folio-interior .collection-card-featured{background:#083024;color:#f7f4ee}
 .folio-interior .collection-card strong{font-size:clamp(40px,5vw,68px);letter-spacing:-.025em;max-width:15ch}
 .folio-interior .collection-card small{max-width:40ch;line-height:1.6}
 .folio-interior .collection-card b{font-size:24px;font-weight:400}
@@ -122,7 +122,7 @@
 .folio-interior .route-step strong{font-size:32px;line-height:1.1}
 .folio-interior .route-step small{font-size:10px}
 .folio-site .history{background:#e5e2d7;color:#161015}
-.folio-site .route-promo{background:#000}
+.folio-site .route-promo{background:#083024}
 .folio-site .route-promo .button{color:#161015}
 @media(max-width:1000px){
  .folio-interior .category-layout{grid-template-columns:200px minmax(0,1fr);gap:32px}

@@ -1,0 +1,46 @@
+# La Biblioteca Filosófica
+
+> Biblioteca digital en español de filosofía y literatura clásica en dominio público: lectura online completa por capítulos, descarga gratuita en PDF y EPUB, guías de estudio con resumen por capítulos y citas textuales comprobadas palabra por palabra.
+
+Sitio web: https://labibliotecafilosofica.com/
+Idioma: es
+Modelo de acceso: gratuito, sin registro.
+
+## Secciones principales
+- [Catálogo completo](https://labibliotecafilosofica.com/biblioteca/): Buscador y directorio de obras.
+- [Lectura online completa](https://labibliotecafilosofica.com/leer/): 109 obras clásicas completas divididas por capítulos.
+- [Resúmenes y guías de lectura](https://labibliotecafilosofica.com/resumenes/): 109 guías con resumen por capítulos, personajes, ideas principales y preguntas frecuentes.
+- [Frases célebres verificadas](https://labibliotecafilosofica.com/frases/): Citas comprobadas con obra y capítulo exacto de origen.
+- [Historia de la filosofía](https://labibliotecafilosofica.com/historia/): Recorrido desde la Antigüedad hasta el siglo XX.
+- [Introducción a la filosofía](https://labibliotecafilosofica.com/rutas/introduccion-a-la-filosofia/): Ruta curada para principiantes.
+- [Lecturas obligatorias EBAU / Selectividad](https://labibliotecafilosofica.com/rutas/lecturas-ebau-selectividad/): Obras de Filosofía y Literatura con resumen, PDF y EPUB gratis.
+- [Estoicismo para principiantes](https://labibliotecafilosofica.com/rutas/estoicismo-para-empezar/): Orden de lectura de Epicteto, Séneca y Marco Aurelio.
+
+## Guías y resúmenes destacados (Top demanda)
+- [La República, de Platón (resumen)](https://labibliotecafilosofica.com/leer/la-republica-platon/resumen/)
+- [El banquete, de Platón (resumen)](https://labibliotecafilosofica.com/leer/el-banquete-platon/resumen/)
+- [Apología de Sócrates, de Platón (resumen)](https://labibliotecafilosofica.com/leer/apologia-de-socrates-platon/resumen/)
+- [Ética a Nicómaco, de Aristóteles (resumen)](https://labibliotecafilosofica.com/leer/etica-a-nicomaco-aristoteles/resumen/)
+- [Meditaciones, de Marco Aurelio (resumen)](https://labibliotecafilosofica.com/leer/meditaciones-marco-aurelio/resumen/)
+- [Así habló Zaratustra, de Friedrich Nietzsche (resumen)](https://labibliotecafilosofica.com/leer/asi-hablo-zaratustra-nietzsche/resumen/)
+- [El príncipe, de Nicolás Maquiavelo (resumen)](https://labibliotecafilosofica.com/leer/el-principe-maquiavelo/resumen/)
+- [El arte de la guerra, de Sun Tzu (resumen)](https://labibliotecafilosofica.com/leer/el-arte-de-la-guerra-sun-tzu/resumen/)
+- [La metamorfosis, de Franz Kafka (resumen)](https://labibliotecafilosofica.com/leer/la-metamorfosis-kafka/resumen/)
+- [Crimen y castigo, de Fiódor Dostoyevski (resumen)](https://labibliotecafilosofica.com/leer/crimen-y-castigo-dostoyevski/resumen/)
+- [La vida es sueño, de Calderón de la Barca (resumen)](https://labibliotecafilosofica.com/leer/la-vida-es-sueno-calderon/resumen/)
+- [La Celestina, de Fernando de Rojas (resumen)](https://labibliotecafilosofica.com/leer/la-celestina-fernando-de-rojas/resumen/)
+
+## Citas verificadas por autor
+- [Frases de Platón](https://labibliotecafilosofica.com/frases/platon/)
+- [Frases de Sócrates](https://labibliotecafilosofica.com/frases/socrates/)
+- [Frases de Friedrich Nietzsche](https://labibliotecafilosofica.com/frases/friedrich-nietzsche/)
+- [Frases de Marco Aurelio](https://labibliotecafilosofica.com/frases/marco-aurelio/)
+- [Frases de Séneca](https://labibliotecafilosofica.com/frases/seneca/)
+- [Frases de Aristóteles](https://labibliotecafilosofica.com/frases/aristoteles/)
+- [Frases de Nicolás Maquiavelo](https://labibliotecafilosofica.com/frases/nicolas-maquiavelo/)
+- [Frases de Sun Tzu](https://labibliotecafilosofica.com/frases/sun-tzu/)
+- [Frases de Fiódor Dostoyevski](https://labibliotecafilosofica.com/frases/fiodor-dostoyevski/)
+- [Frases de Miguel de Cervantes](https://labibliotecafilosofica.com/frases/miguel-de-cervantes/)
+
+## Sitemaps
+- https://labibliotecafilosofica.com/sitemap.xml
